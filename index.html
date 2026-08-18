@@ -30,6 +30,7 @@
   #editor input,#editor textarea,#editor select{width:100%;padding:7px 10px;border:1px solid var(--line);border-radius:6px;font-size:13.5px;font-family:inherit;}
   #editor textarea{min-height:58px;resize:vertical;}
   .row2{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
+  #editor .sect{margin:13px 0 2px;padding-top:9px;border-top:1px solid var(--line);font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--navy);}
   #editor .save{margin-top:12px;width:100%;padding:10px;background:var(--navy);color:#fff;border:none;border-radius:6px;font-weight:700;font-size:14px;cursor:pointer;}
   #tablewrap{padding:12px 20px 40px;}
   h3.tbl{font-size:14px;color:var(--navy);margin:12px 0 8px;}
@@ -74,17 +75,42 @@
     <p class="hint">Hausnummer auf Karte oder in der Liste anklicken. Daten bleiben lokal (localStorage) — regelmässig «Backup» ziehen.</p>
     <div id="form" style="display:none">
       <label>Adresse</label><input id="f_addr" readonly style="background:#f5f2ea">
+      <div class="sect">Objekt &amp; Flächen</div>
       <label>Brand / EG-Mieter</label><input id="f_tenant" placeholder="z.B. Rituals">
-      <label>Eigentümer</label><input id="f_owner" placeholder="z.B. Muster Immobilien AG">
-      <label>Eigentümer-Kontakt</label><input id="f_contact" placeholder="Name / Mail / Telefon">
       <div class="row2">
         <div><label>Fläche EG (m²)</label><input id="f_area" type="number" min="0" placeholder="350"></div>
-        <div><label>Mietpreis (CHF/m²/Jahr)</label><input id="f_rate" type="number" min="0" placeholder="450"></div>
+        <div><label>Weitere Flächen OG/UG (m²)</label><input id="f_area2" type="number" min="0" placeholder="120"></div>
       </div>
       <div class="row2">
+        <div><label>Mietpreis (CHF/m²/Jahr)</label><input id="f_rate" type="number" min="0" placeholder="450"></div>
         <div><label>Aktuelle Miete (CHF/Jahr)</label><input id="f_rent" type="number" min="0" placeholder="157500"></div>
-        <div><label>Gebäudepreis (CHF)</label><input id="f_price" type="number" min="0" placeholder="12000000"></div>
       </div>
+      <div class="row2">
+        <div><label>Mietvertrag bis</label><input id="f_leaseEnd" type="date"></div>
+        <div><label>Baujahr</label><input id="f_buildYear" type="number" placeholder="1898"></div>
+      </div>
+      <label>Gebäudepreis / Schätzwert (CHF)</label><input id="f_price" type="number" min="0" placeholder="12000000">
+      <div class="sect">Eigentümer</div>
+      <label>Eigentümer (Name)</label><input id="f_owner" placeholder="z.B. Muster Immobilien AG">
+      <label>Eigentümer-Typ</label>
+      <select id="f_ownerType"><option value=""></option><option>Privatperson</option><option>Erbengemeinschaft</option><option>Immobilien-AG/Firma</option><option>Pensionskasse</option><option>Fonds/Anlagestiftung</option><option>Versicherung</option><option>Stiftung</option><option>Öffentliche Hand</option><option>Eigennutzer</option></select>
+      <label>Adresse Eigentümer</label><input id="f_ownerAddr" placeholder="Strasse Nr., PLZ Ort">
+      <div class="row2">
+        <div><label>E-Mail</label><input id="f_ownerEmail" placeholder="mail@..."></div>
+        <div><label>Telefon</label><input id="f_ownerPhone" placeholder="+41 ..."></div>
+      </div>
+      <label>Weitere Kontaktperson</label><input id="f_contact" placeholder="Name / Funktion / Draht">
+      <div class="row2">
+        <div><label>UID / HR-Nummer</label><input id="f_ownerUid" placeholder="CHE-..."></div>
+        <div><label>Eigentümer seit</label><input id="f_ownerSince" placeholder="z.B. 2014 (Kauf)"></div>
+      </div>
+      <label>Parzelle / EGRID</label><input id="f_parcel" placeholder="Kat.-Nr. / CH-EGRID">
+      <div class="sect">Verwaltung</div>
+      <div class="row2">
+        <div><label>Bewirtschafterin</label><input id="f_mgmt" placeholder="z.B. Wincasa"></div>
+        <div><label>Verwaltungs-Kontakt</label><input id="f_mgmtContact" placeholder="Name / Mail"></div>
+      </div>
+      <div class="sect">Prozess</div>
       <label>Status</label>
       <select id="f_status"><option value="offen">offen</option><option value="angefragt">Auskunft angefragt</option><option value="erfasst">erfasst</option><option value="kontaktiert">Eigentümer kontaktiert</option></select>
       <label>Bemerkungen</label><textarea id="f_notes" placeholder="Mietauslauf, GB-Auszug, Ansprache..."></textarea>
@@ -95,7 +121,7 @@
 <div id="tablewrap">
   <h3 class="tbl" id="tbltitle"></h3>
   <table id="tbl" style="display:none">
-    <thead><tr><th style="width:56px">Nr.</th><th>Brand / EG-Mieter</th><th>Eigentümer</th><th>Kontakt</th><th class="r">m²</th><th class="r">CHF/m²</th><th class="r">Akt. Miete</th><th class="r">Gebäudepreis</th><th>Status</th><th>Bemerkungen</th></tr></thead>
+    <thead><tr><th style="width:52px">Nr.</th><th>Brand / EG-Mieter</th><th>Eigentümer</th><th>Kontakt (Mail/Tel)</th><th>Verwaltung</th><th class="r">m²</th><th class="r">CHF/m²</th><th class="r">Akt. Miete</th><th>Mietende</th><th class="r">Gebäudepreis</th><th>Status</th><th>Bemerkungen</th></tr></thead>
     <tbody id="tbody"></tbody>
   </table>
 </div>
@@ -103,7 +129,7 @@
 <script>
 // ---- Städte + kuratierte Retail-Strassen ----
 var CITIES = {
- 'Zürich (Kreis 1)': {q:'Zürich', streets:['Bahnhofstrasse','Rennweg','Storchengasse','Strehlgasse','Augustinergasse','In Gassen','Poststrasse','Paradeplatz','Münsterhof','Limmatquai','Niederdorfstrasse','Marktgasse','Münstergasse','Löwenstrasse','Sihlstrasse','Talstrasse','Talacker','Pelikanstrasse','Schweizergasse','Füsslistrasse','Uraniastrasse','Theaterstrasse']},
+ 'Zürich (Kreis 1)': {q:'Zürich', streets:['Bahnhofstrasse','Rennweg','Storchengasse','Strehlgasse','Augustinergasse','In Gassen','Poststrasse','Paradeplatz','Münsterhof','Limmatquai','Niederdorfstrasse','Marktgasse','Münstergasse','Löwenstrasse','Sihlstrasse','Talstrasse','Talacker','Pelikanstrasse','Schweizergasse','Füsslistrasse','Uraniastrasse','Theaterstrasse','Schützengasse','St. Peterstrasse','Kuttelgasse','Glockengasse','Wühre','Weinplatz','Oberdorfstrasse','Kirchgasse','Stadelhoferstrasse','Bärengasse','Gerbergasse','Waaggasse']},
  'Rapperswil': {q:'Rapperswil-Jona', streets:['Marktgasse','Fischmarktplatz','Untere Bahnhofstrasse','Obere Bahnhofstrasse','Halsgasse','Hintergasse','Kluggasse']},
  'Uster': {q:'Uster', streets:['Bahnhofstrasse','Poststrasse','Zentralstrasse','Gerichtsstrasse','Webernstrasse']},
  'Winterthur': {q:'Winterthur', streets:['Marktgasse','Obertor','Untertor','Bahnhofplatz','Stadthausstrasse','Steinberggasse','Casinostrasse','Graben','Oberer Graben','Metzggasse','Technikumstrasse']},
@@ -155,7 +181,8 @@ function cityChanged(){
 }
 function store(){ try{ return JSON.parse(localStorage.getItem(STORE)||'{}'); }catch(e){ return {}; } }
 function saveStore(d){ localStorage.setItem(STORE, JSON.stringify(d)); }
-function entry(k){ return store()[k]||{owner:'',contact:'',tenant:'',area:'',rate:'',rent:'',price:'',status:'offen',notes:''}; }
+var BLANK={owner:'',ownerType:'',ownerAddr:'',ownerEmail:'',ownerPhone:'',ownerUid:'',ownerSince:'',parcel:'',contact:'',mgmt:'',mgmtContact:'',tenant:'',area:'',area2:'',rate:'',rent:'',leaseEnd:'',buildYear:'',price:'',status:'offen',notes:''};
+function entry(k){ return Object.assign({},BLANK,store()[k]||{}); }
 function statusColor(s){ return s==='erfasst'?'#4d9e58':s==='angefragt'?'#e8c33f':s==='kontaktiert'?'#3f76c9':'#bbb'; }
 function setStatus(t){ document.getElementById('statustext').textContent=t; }
 function rxEscape(s){ return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); }
@@ -192,12 +219,14 @@ async function loadStreets(city, streets){
   });
   items.sort(function(a,b){ if(a.street!==b.street) return a.street.localeCompare(b.street,'de'); var na=parseInt(a.hn,10),nb=parseInt(b.hn,10); if(na!==nb) return (na||0)-(nb||0); return String(a.hn).localeCompare(String(b.hn),'de',{numeric:true}); });
   render();
+  if(!items.length){ setStatus('0 Adressen gefunden — Schreibweise prüfen (genau wie auf dem Strassenschild, z.B. «St. Peterstrasse»).'); return; }
   setStatus(items.length+' Adressen geladen ('+city+') — '+countErfasst()+' erfasst. Punkt anklicken zum Erfassen.');
 }
 function loadOne(){
   var c=document.getElementById('citysel').value;
-  var s=document.getElementById('streetfree').value.trim()||document.getElementById('streetsel').value;
-  loadStreets(c,[s]).catch(function(e){ setStatus('Fehler: '+e.message); });
+  var free=document.getElementById('streetfree').value.trim();
+  var list=free? free.split(',').map(function(x){return x.trim();}).filter(Boolean) : [document.getElementById('streetsel').value];
+  loadStreets(c,list).catch(function(e){ setStatus('Fehler: '+e.message); });
 }
 function loadAll(){
   var c=document.getElementById('citysel').value;
@@ -220,10 +249,11 @@ function render(){
   var lastStreet=null;
   items.forEach(function(it){
     if(it.street!==lastStreet){ lastStreet=it.street;
-      var sh=document.createElement('tr'); sh.className='streethead'; sh.innerHTML='<td colspan="10">'+it.street+', '+it.city+'</td>'; tb.appendChild(sh); }
+      var sh=document.createElement('tr'); sh.className='streethead'; sh.innerHTML='<td colspan="12">'+it.street+', '+it.city+'</td>'; tb.appendChild(sh); }
     var e=entry(it.key);
     var tr=document.createElement('tr'); tr.className='data'; tr.id='row-'+cssKey(it.key);
-    tr.innerHTML='<td><b>'+it.hn+'</b></td><td>'+esc(e.tenant||it.osmInfo)+'</td><td>'+esc(e.owner)+'</td><td>'+esc(e.contact)+'</td><td class="r">'+fmt(e.area)+'</td><td class="r">'+fmt(e.rate)+'</td><td class="r">'+fmt(e.rent)+'</td><td class="r">'+fmt(e.price)+'</td><td><span class="badge s-'+(e.status||'offen')+'">'+(e.status||'offen')+'</span></td><td>'+esc(e.notes)+'</td>';
+    var kontakt=[e.ownerEmail,e.ownerPhone,e.contact].filter(Boolean).join(' · ');
+    tr.innerHTML='<td><b>'+it.hn+'</b></td><td>'+esc(e.tenant||it.osmInfo)+'</td><td>'+esc(e.owner+(e.ownerType?' ('+e.ownerType+')':''))+'</td><td>'+esc(kontakt)+'</td><td>'+esc(e.mgmt)+'</td><td class="r">'+fmt(e.area)+'</td><td class="r">'+fmt(e.rate)+'</td><td class="r">'+fmt(e.rent)+'</td><td>'+esc(e.leaseEnd)+'</td><td class="r">'+fmt(e.price)+'</td><td><span class="badge s-'+(e.status||'offen')+'">'+(e.status||'offen')+'</span></td><td>'+esc(e.notes)+'</td>';
     tr.onclick=function(){ select(it.key); map.setView([it.lat,it.lng],18); };
     tb.appendChild(tr);
   });
@@ -240,18 +270,18 @@ function select(key){
   var e=entry(key);
   document.getElementById('form').style.display='block';
   document.getElementById('f_addr').value=it.street+' '+it.hn+', '+it.city;
-  document.getElementById('f_tenant').value=e.tenant||it.osmInfo;
-  document.getElementById('f_owner').value=e.owner; document.getElementById('f_contact').value=e.contact;
-  document.getElementById('f_area').value=e.area; document.getElementById('f_rate').value=e.rate;
-  document.getElementById('f_rent').value=e.rent; document.getElementById('f_price').value=e.price;
-  document.getElementById('f_status').value=e.status||'offen'; document.getElementById('f_notes').value=e.notes;
+  ['tenant','owner','ownerType','ownerAddr','ownerEmail','ownerPhone','ownerUid','ownerSince','parcel','contact','mgmt','mgmtContact','area','area2','rate','rent','leaseEnd','buildYear','price','notes'].forEach(function(f){ document.getElementById('f_'+f).value=e[f]||''; });
+  if(!e.tenant) document.getElementById('f_tenant').value=it.osmInfo||'';
+  document.getElementById('f_status').value=e.status||'offen';
   document.querySelectorAll('tr.sel').forEach(function(r){r.classList.remove('sel');});
   var row=document.getElementById('row-'+cssKey(key)); if(row){row.classList.add('sel'); row.scrollIntoView({block:'nearest'});}
 }
 function saveEntry(){
   if(!selectedKey) return;
   var d=store();
-  d[selectedKey]={tenant:val('f_tenant'),owner:val('f_owner'),contact:val('f_contact'),area:val('f_area'),rate:val('f_rate'),rent:val('f_rent'),price:val('f_price'),status:val('f_status'),notes:val('f_notes'),updated:new Date().toISOString().slice(0,10)};
+  var rec={updated:new Date().toISOString().slice(0,10),status:val('f_status')};
+  ['tenant','owner','ownerType','ownerAddr','ownerEmail','ownerPhone','ownerUid','ownerSince','parcel','contact','mgmt','mgmtContact','area','area2','rate','rent','leaseEnd','buildYear','price','notes'].forEach(function(f){ rec[f]=val('f_'+f); });
+  d[selectedKey]=rec;
   saveStore(d); render(); select(selectedKey);
   setStatus('Gespeichert: '+document.getElementById('f_addr').value);
 }
@@ -259,8 +289,8 @@ function val(id){ return document.getElementById(id).value.trim(); }
 
 function exportCSV(){
   if(!items.length) return;
-  var rows=[['Stadt','Strasse','Nr','Brand/EG-Mieter','Eigentümer','Kontakt','Fläche m2','Mietpreis CHF/m2/J','Aktuelle Miete CHF/J','Gebäudepreis CHF','Status','Bemerkungen','OSM-Info','Aktualisiert']];
-  items.forEach(function(it){ var e=entry(it.key); rows.push([it.city,it.street,it.hn,e.tenant,e.owner,e.contact,e.area,e.rate,e.rent,e.price,e.status,e.notes,it.osmInfo,e.updated||'']); });
+  var rows=[['Stadt','Strasse','Nr','Brand/EG-Mieter','Eigentümer','Eigentümer-Typ','Eigentümer-Adresse','E-Mail','Telefon','UID/HR','Eigentümer seit','Parzelle/EGRID','Weitere Kontaktperson','Verwaltung','Verwaltungs-Kontakt','Fläche EG m2','Weitere Flächen m2','Mietpreis CHF/m2/J','Aktuelle Miete CHF/J','Mietvertrag bis','Baujahr','Gebäudepreis CHF','Status','Bemerkungen','OSM-Info','Aktualisiert']];
+  items.forEach(function(it){ var e=entry(it.key); rows.push([it.city,it.street,it.hn,e.tenant,e.owner,e.ownerType,e.ownerAddr,e.ownerEmail,e.ownerPhone,e.ownerUid,e.ownerSince,e.parcel,e.contact,e.mgmt,e.mgmtContact,e.area,e.area2,e.rate,e.rent,e.leaseEnd,e.buildYear,e.price,e.status,e.notes,it.osmInfo,e.updated||'']); });
   var csv=rows.map(function(r){return r.map(function(c){return '"'+String(c||'').replace(/"/g,'""')+'"';}).join(';');}).join('\n');
   download(new Blob(['﻿'+csv],{type:'text/csv'}),'RetailMap_'+items[0].city.replace(/[^A-Za-zäöü0-9]/g,'')+'.csv');
 }
