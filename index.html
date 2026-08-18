@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Retail Map — Strassen-Kataster</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  :root{ --navy:#0e1f33; --gold:#c9a55c; --cream:#f7f5f0; --red:#d05a52; --line:#e2ddd2; }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#1a1a1a;background:var(--cream);}
+  header{background:var(--navy);color:#fff;padding:14px 22px;display:flex;align-items:center;gap:18px;flex-wrap:wrap;}
+  header .brand{font-weight:700;letter-spacing:.08em;font-size:15px;}
+  header .brand span{color:var(--red);}
+  header .sub{font-size:11px;color:#9fb0c5;letter-spacing:.12em;text-transform:uppercase;}
+  .controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-left:auto;}
+  .controls input{padding:8px 12px;border:none;border-radius:6px;font-size:14px;width:190px;}
+  .controls button{padding:8px 16px;border:none;border-radius:6px;background:var(--gold);color:var(--navy);font-weight:700;font-size:14px;cursor:pointer;}
+  .controls button.secondary{background:#2a3d55;color:#fff;font-weight:500;}
+  #status{padding:8px 22px;font-size:13px;color:#555;background:#efe9dc;border-bottom:1px solid var(--line);min-height:34px;display:flex;align-items:center;gap:14px;flex-wrap:wrap;}
+  #status .lg{display:inline-flex;align-items:center;gap:5px;font-size:12px;}
+  #status .dot{width:10px;height:10px;border-radius:50%;display:inline-block;}
+  main{display:grid;grid-template-columns:1fr 400px;height:calc(100vh - 220px);min-height:420px;}
+  #map{height:100%;}
+  #editor{background:#fff;border-left:1px solid var(--line);padding:16px;overflow-y:auto;}
+  #editor h2{font-size:15px;margin-bottom:10px;color:var(--navy);}
+  #editor .hint{font-size:12.5px;color:#888;line-height:1.5;}
+  #editor label{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:#8a7b56;margin:10px 0 3px;}
+  #editor input,#editor textarea,#editor select{width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:6px;font-size:14px;font-family:inherit;}
+  #editor textarea{min-height:64px;resize:vertical;}
+  #editor .save{margin-top:14px;width:100%;padding:10px;background:var(--navy);color:#fff;border:none;border-radius:6px;font-weight:700;font-size:14px;cursor:pointer;}
+  #tablewrap{padding:14px 22px 40px;}
+  h3.tbl{font-size:14px;color:var(--navy);margin:14px 0 8px;}
+  table{width:100%;border-collapse:collapse;background:#fff;font-size:13px;}
+  th{background:var(--navy);color:#fff;text-align:left;padding:7px 9px;font-size:11px;letter-spacing:.06em;text-transform:uppercase;position:sticky;top:0;}
+  td{padding:6px 9px;border-bottom:1px solid var(--line);vertical-align:top;}
+  tr{cursor:pointer;} tr:hover td{background:#faf6ec;}
+  tr.sel td{background:#f3ecd9;}
+  .badge{display:inline-block;padding:2px 8px;border-radius:10px;font-size:11px;font-weight:600;}
+  .s-offen{background:#eee;color:#666;} .s-angefragt{background:#fdf3d7;color:#8a6d1a;} .s-erfasst{background:#dcefdc;color:#22662a;} .s-kontaktiert{background:#dde8f8;color:#1f4e96;}
+  @media(max-width:900px){ main{grid-template-columns:1fr;} #editor{border-left:none;border-top:1px solid var(--line);} }
+</style>
+</head>
+<body>
+<header>
+  <div><div class="brand">RETAIL <span>MAP</span></div><div class="sub">Strassen-Kataster &amp; Eigentümer-Erfassung</div></div>
+  <div class="controls">
+    <input id="street" placeholder="Strasse (z.B. Bahnhofstrasse)" value="Bahnhofstrasse">
+    <input id="city" placeholder="Ort (z.B. Zürich)" value="Zürich">
+    <button onclick="loadStreet()">Laden</button>
+    <button class="secondary" onclick="exportCSV()">CSV</button>
+    <button class="secondary" onclick="exportJSON()">Backup</button>
+    <button class="secondary" onclick="document.getElementById('importfile').click()">Import</button>
+    <input type="file" id="importfile" accept=".json" style="display:none" onchange="importJSON(event)">
+  </div>
+</header>
+<div id="status">
+  <span id="statustext">Strasse und Ort eingeben, dann «Laden» — Gebäude &amp; Hausnummern kommen aus OpenStreetMap.</span>
+  <span class="lg"><span class="dot" style="background:#bbb"></span>offen</span>
+  <span class="lg"><span class="dot" style="background:#e8c33f"></span>Auskunft angefragt</span>
+  <span class="lg"><span class="dot" style="background:#4d9e58"></span>erfasst</span>
+  <span class="lg"><span class="dot" style="background:#3f76c9"></span>Eigentümer kontaktiert</span>
+</div>
+<main>
+  <div id="map"></div>
+  <div id="editor">
+    <h2>Objekt-Erfassung</h2>
+    <p class="hint">Gebäude auf der Karte oder Zeile in der Liste anklicken, Eigentümerauskunft eintragen, speichern. Alle Angaben bleiben lokal in diesem Browser (localStorage) — regelmässig «Backup» exportieren.</p>
+    <div id="form" style="display:none">
+      <label>Adresse</label><input id="f_addr" readonly style="background:#f5f2ea">
+      <label>Eigentümer</label><input id="f_owner" placeholder="z.B. Muster Immobilien AG">
+      <label>Eigentümer-Kontakt</label><input id="f_contact" placeholder="Name / Mail / Telefon">
+      <label>EG-Nutzung / Mieter</label><input id="f_tenant" placeholder="z.B. Rituals (Retail)">
+      <label>Status</label>
+      <select id="f_status"><option value="offen">offen</option><option value="angefragt">Auskunft angefragt</option><option value="erfasst">erfasst</option><option value="kontaktiert">Eigentümer kontaktiert</option></select>
+      <label>Bemerkungen</label><textarea id="f_notes" placeholder="Mietvertrags-Infos, Auslauf, Ansprache..."></textarea>
+      <button class="save" onclick="saveEntry()">Speichern</button>
+    </div>
+  </div>
+</main>
+<div id="tablewrap">
+  <h3 class="tbl" id="tbltitle"></h3>
+  <table id="tbl" style="display:none">
+    <thead><tr><th style="width:70px">Nr.</th><th>OSM-Info</th><th>Eigentümer</th><th>Kontakt</th><th>EG-Nutzung / Mieter</th><th>Status</th><th>Bemerkungen</th></tr></thead>
+    <tbody id="tbody"></tbody>
+  </table>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+var map = L.map('map').setView([47.3769, 8.5403], 13);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19, attribution: '&copy; OpenStreetMap'}).addTo(map);
+var layer = L.layerGroup().addTo(map);
+var items = [];            // aktuelle Strasse: [{key,hn,lat,lng,osmInfo,geom}]
+var markers = {};          // key -> layer
+var selectedKey = null;
+var STORE = 'retailmap-v1';
+
+function store(){ try{ return JSON.parse(localStorage.getItem(STORE)||'{}'); }catch(e){ return {}; } }
+function saveStore(d){ localStorage.setItem(STORE, JSON.stringify(d)); }
+function entry(key){ return store()[key] || {owner:'',contact:'',tenant:'',status:'offen',notes:''}; }
+
+function statusColor(s){ return s==='erfasst'?'#4d9e58':s==='angefragt'?'#e8c33f':s==='kontaktiert'?'#3f76c9':'#bbb'; }
+
+function hnSort(a,b){
+  var na=parseInt(a.hn,10), nb=parseInt(b.hn,10);
+  if(na!==nb) return (na||0)-(nb||0);
+  return String(a.hn).localeCompare(String(b.hn),'de',{numeric:true});
+}
+
+async function loadStreet(){
+  var street = document.getElementById('street').value.trim();
+  var city = document.getElementById('city').value.trim();
+  if(!street||!city) return;
+  setStatus('Suche «'+street+'» in '+city+' …');
+  try{
+    // 1) Stadt-Area via Nominatim
+    var nr = await fetch('https://nominatim.openstreetmap.org/search?format=jsonv2&limit=1&q='+encodeURIComponent(city+', Schweiz'), {headers:{'Accept-Language':'de'}});
+    var nj = await nr.json();
+    if(!nj.length) throw new Error('Ort nicht gefunden');
+    var areaId = (nj[0].osm_type==='relation'?3600000000:nj[0].osm_type==='way'?2400000000:0) + nj[0].osm_id;
+    // 2) Adressen via Overpass
+    var q = '[out:json][timeout:40];area('+areaId+')->.a;(nwr(area.a)["addr:street"~"^'+street.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'$",i]["addr:housenumber"];);out center tags;';
+    var endpoints = ['https://overpass-api.de/api/interpreter','https://overpass.kumi.systems/api/interpreter'];
+    var data = null;
+    for(var ep of endpoints){
+      try{ var r = await fetch(ep, {method:'POST', body:'data='+encodeURIComponent(q), headers:{'Content-Type':'application/x-www-form-urlencoded'}}); if(r.ok){ data = await r.json(); break; } }catch(e){}
+    }
+    if(!data) throw new Error('Overpass nicht erreichbar');
+    // 3) Deduplizieren pro Hausnummer
+    var seen = {};
+    items = [];
+    data.elements.forEach(function(el){
+      var t = el.tags||{};
+      var hn = t['addr:housenumber']; if(!hn) return;
+      var lat = el.lat || (el.center&&el.center.lat), lng = el.lon || (el.center&&el.center.lon);
+      if(!lat) return;
+      var key = (city+'|'+street+'|'+hn).toLowerCase();
+      var osmInfo = [t.name, t.shop&&('Shop: '+t.shop), t.amenity&&('Amenity: '+t.amenity), t.office&&('Office: '+t.office)].filter(Boolean).join(' · ');
+      if(seen[key]){ if(osmInfo && !seen[key].osmInfo) seen[key].osmInfo = osmInfo; return; }
+      var it = {key:key, hn:hn, lat:lat, lng:lng, osmInfo:osmInfo, street:street, city:city};
+      seen[key]=it; items.push(it);
+    });
+    items.sort(hnSort);
+    render();
+    setStatus(items.length+' Adressen an der '+street+' ('+city+') geladen — '+countErfasst()+' davon erfasst.');
+  }catch(e){ setStatus('Fehler: '+e.message); }
+}
+
+function countErfasst(){ var s=store(); return items.filter(function(i){var e=s[i.key];return e&&e.status!=='offen';}).length; }
+function setStatus(t){ document.getElementById('statustext').textContent=t; }
+
+function render(){
+  layer.clearLayers(); markers={};
+  var bounds=[];
+  items.forEach(function(it){
+    var e = entry(it.key);
+    var m = L.circleMarker([it.lat,it.lng],{radius:9,color:'#0e1f33',weight:1.5,fillColor:statusColor(e.status),fillOpacity:.92}).addTo(layer);
+    m.bindTooltip(String(it.hn),{permanent:true,direction:'center',className:'hn-label',offset:[0,0]});
+    m.on('click',function(){ select(it.key); });
+    markers[it.key]=m; bounds.push([it.lat,it.lng]);
+  });
+  if(bounds.length) map.fitBounds(bounds,{padding:[40,40]});
+  var tb=document.getElementById('tbody'); tb.innerHTML='';
+  items.forEach(function(it){
+    var e=entry(it.key);
+    var tr=document.createElement('tr'); tr.id='row-'+cssKey(it.key);
+    tr.innerHTML='<td><b>'+it.hn+'</b></td><td>'+(it.osmInfo||'—')+'</td><td>'+esc(e.owner)+'</td><td>'+esc(e.contact)+'</td><td>'+esc(e.tenant)+'</td><td><span class="badge s-'+e.status+'">'+e.status+'</span></td><td>'+esc(e.notes)+'</td>';
+    tr.onclick=function(){ select(it.key); map.setView([it.lat,it.lng],18); };
+    tb.appendChild(tr);
+  });
+  document.getElementById('tbl').style.display = items.length?'table':'none';
+  document.getElementById('tbltitle').textContent = items.length? (items[0].street+', '+items[0].city+' — '+items.length+' Adressen') : '';
+}
+function cssKey(k){ return k.replace(/[^a-z0-9]/gi,'_'); }
+function esc(s){ return (s||'').replace(/</g,'&lt;'); }
+
+function select(key){
+  selectedKey=key;
+  var it=items.find(function(i){return i.key===key;}); if(!it) return;
+  var e=entry(key);
+  document.getElementById('form').style.display='block';
+  document.getElementById('f_addr').value=it.street+' '+it.hn+', '+it.city;
+  document.getElementById('f_owner').value=e.owner; document.getElementById('f_contact').value=e.contact;
+  document.getElementById('f_tenant').value=e.tenant||it.osmInfo; document.getElementById('f_status').value=e.status;
+  document.getElementById('f_notes').value=e.notes;
+  document.querySelectorAll('tr.sel').forEach(function(r){r.classList.remove('sel');});
+  var row=document.getElementById('row-'+cssKey(key)); if(row){row.classList.add('sel'); row.scrollIntoView({block:'nearest'});}
+}
+
+function saveEntry(){
+  if(!selectedKey) return;
+  var d=store();
+  d[selectedKey]={owner:val('f_owner'),contact:val('f_contact'),tenant:val('f_tenant'),status:val('f_status'),notes:val('f_notes'),updated:new Date().toISOString().slice(0,10)};
+  saveStore(d); render(); select(selectedKey);
+  setStatus('Gespeichert: '+document.getElementById('f_addr').value+' — '+countErfasst()+' von '+items.length+' erfasst.');
+}
+function val(id){ return document.getElementById(id).value.trim(); }
+
+function exportCSV(){
+  if(!items.length) return;
+  var rows=[['Strasse','Nr','Ort','OSM-Info','Eigentümer','Kontakt','EG-Nutzung/Mieter','Status','Bemerkungen','Aktualisiert']];
+  items.forEach(function(it){ var e=entry(it.key); rows.push([it.street,it.hn,it.city,it.osmInfo,e.owner,e.contact,e.tenant,e.status,e.notes,e.updated||'']); });
+  var csv=rows.map(function(r){return r.map(function(c){return '"'+String(c||'').replace(/"/g,'""')+'"';}).join(';');}).join('\n');
+  download(new Blob(['﻿'+csv],{type:'text/csv'}), 'RetailMap_'+items[0].street+'_'+items[0].city+'.csv');
+}
+function exportJSON(){ download(new Blob([localStorage.getItem(STORE)||'{}'],{type:'application/json'}), 'RetailMap_Backup_'+new Date().toISOString().slice(0,10)+'.json'); }
+function importJSON(ev){
+  var f=ev.target.files[0]; if(!f) return;
+  var rd=new FileReader();
+  rd.onload=function(){ try{ var incoming=JSON.parse(rd.result); var d=store(); Object.assign(d,incoming); saveStore(d); render(); setStatus('Import ok — '+Object.keys(incoming).length+' Einträge übernommen.'); }catch(e){ setStatus('Import fehlgeschlagen: '+e.message); } };
+  rd.readAsText(f);
+}
+</script>
+<style>.hn-label{background:transparent;border:none;box-shadow:none;font-weight:700;font-size:10px;color:#0e1f33;}</style>
+</body>
+</html>
