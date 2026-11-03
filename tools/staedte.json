@@ -21,11 +21,17 @@
   "stadt": "Genf",
   "ort": "Genève",
   "radius": 1300,
-  "strassen": [],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "strassen": [
+   "Rue du Rhône",
+   "Rue du Marché",
+   "Rue de la Croix-d'Or",
+   "Rue de Rive",
+   "Rue du Mont-Blanc"
+  ],
+  "strassen_ok": true,
+  "letzter_lauf": "2026-11-03",
+  "eigentuemer_quelle": "Grundbuch GE Extrait foncier (frühere Einzelabfragen Kaito, Sept. 2026); SITG-Kataster Feld «Propriété publique» (öffentliche Eigentümer); Rest: Einzelabfrage ge.ch/terextraitfoncier mit Direktlinks",
+  "offen": "138"
  },
  {
   "kanton": "BS",

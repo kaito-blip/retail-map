@@ -1,0 +1,1784 @@
+{
+ "genf|rue de la croix-d'or|2": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "2",
+  "lat": 46.2027889,
+  "lng": 6.1479997,
+  "mieter": [
+   "H&M",
+   "Dosenbach"
+  ],
+  "zuordnung": {
+   "H&M": "naechste",
+   "Dosenbach": "naechste"
+  }
+ },
+ "genf|rue du rhône|80": {
+  "street": "Rue du Rhône",
+  "hn": "80",
+  "lat": 46.2036731,
+  "lng": 6.1494265,
+  "mieter": [
+   "Nexent Bank"
+  ],
+  "zuordnung": {
+   "Nexent Bank": "addr"
+  }
+ },
+ "genf|rue du rhône|106": {
+  "street": "Rue du Rhône",
+  "hn": "106",
+  "lat": 46.202908,
+  "lng": 6.1530193,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|108": {
+  "street": "Rue du Rhône",
+  "hn": "108",
+  "lat": 46.2028828,
+  "lng": 6.1531408,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|110": {
+  "street": "Rue du Rhône",
+  "hn": "110",
+  "lat": 46.2028427,
+  "lng": 6.1533335,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|104": {
+  "street": "Rue du Rhône",
+  "hn": "104",
+  "lat": 46.2029348,
+  "lng": 6.1528906,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de rive|11": {
+  "street": "Rue de Rive",
+  "hn": "11",
+  "lat": 46.202147,
+  "lng": 6.1514722,
+  "mieter": [
+   "Chocolats Favarger",
+   "Maison de la bible"
+  ],
+  "zuordnung": {
+   "Chocolats Favarger": "naechste",
+   "Maison de la bible": "naechste"
+  }
+ },
+ "genf|rue du rhône|98": {
+  "street": "Rue du Rhône",
+  "hn": "98",
+  "lat": 46.2032019,
+  "lng": 6.1516931,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|100": {
+  "street": "Rue du Rhône",
+  "hn": "100",
+  "lat": 46.2030571,
+  "lng": 6.1519538,
+  "mieter": [
+   "Roche Bobois"
+  ],
+  "zuordnung": {
+   "Roche Bobois": "addr"
+  }
+ },
+ "genf|rue de rive|10": {
+  "street": "Rue de Rive",
+  "hn": "10",
+  "lat": 46.2021467,
+  "lng": 6.1508619,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de rive|12": {
+  "street": "Rue de Rive",
+  "hn": "12",
+  "lat": 46.2020808,
+  "lng": 6.1510387,
+  "mieter": [
+   "Snipes"
+  ],
+  "zuordnung": {
+   "Snipes": "naechste"
+  }
+ },
+ "genf|rue de rive|2": {
+  "street": "Rue de Rive",
+  "hn": "2",
+  "lat": 46.2023646,
+  "lng": 6.1500294,
+  "mieter": [
+   "Davidoff",
+   "L'Occitane"
+  ],
+  "zuordnung": {
+   "Davidoff": "addr",
+   "L'Occitane": "naechste"
+  }
+ },
+ "genf|rue de rive|14": {
+  "street": "Rue de Rive",
+  "hn": "14",
+  "lat": 46.2020346,
+  "lng": 6.1512493,
+  "mieter": [
+   "Devernois",
+   "Gahlan",
+   "Pain de Sucre"
+  ],
+  "zuordnung": {
+   "Devernois": "naechste",
+   "Gahlan": "naechste",
+   "Pain de Sucre": "naechste"
+  }
+ },
+ "genf|rue de rive|18": {
+  "street": "Rue de Rive",
+  "hn": "18",
+  "lat": 46.2019491,
+  "lng": 6.1515477,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de rive|16": {
+  "street": "Rue de Rive",
+  "hn": "16",
+  "lat": 46.2019653,
+  "lng": 6.1514918,
+  "mieter": [
+   "FNAC Genève-Rive"
+  ],
+  "zuordnung": {
+   "FNAC Genève-Rive": "addr"
+  }
+ },
+ "genf|rue de la croix-d'or|12": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "12",
+  "lat": 46.2024836,
+  "lng": 6.1495777,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|112": {
+  "street": "Rue du Rhône",
+  "hn": "112",
+  "lat": 46.2027932,
+  "lng": 6.1535716,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|16": {
+  "street": "Rue du Marché",
+  "hn": "16",
+  "lat": 46.2032439,
+  "lng": 6.1462786,
+  "mieter": [
+   "Hugo Boss",
+   "Massimo Dutti"
+  ],
+  "zuordnung": {
+   "Hugo Boss": "naechste",
+   "Massimo Dutti": "naechste"
+  }
+ },
+ "genf|rue du marché|2": {
+  "street": "Rue du Marché",
+  "hn": "2",
+  "lat": 46.203385,
+  "lng": 6.1455654,
+  "mieter": [
+   "Victorinox",
+   "Rituals",
+   "Etam",
+   "Søstrene Grene",
+   "Flying tiger"
+  ],
+  "zuordnung": {
+   "Victorinox": "addr",
+   "Rituals": "naechste",
+   "Etam": "naechste",
+   "Søstrene Grene": "naechste",
+   "Flying tiger": "naechste"
+  }
+ },
+ "genf|rue du marché|28": {
+  "street": "Rue du Marché",
+  "hn": "28",
+  "lat": 46.2030408,
+  "lng": 6.147026,
+  "mieter": [
+   "Repeat",
+   "Sprungli Chocolats"
+  ],
+  "zuordnung": {
+   "Repeat": "naechste",
+   "Sprungli Chocolats": "naechste"
+  }
+ },
+ "genf|rue du marché|4": {
+  "street": "Rue du Marché",
+  "hn": "4",
+  "lat": 46.2033503,
+  "lng": 6.1457541,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|24": {
+  "street": "Rue du Marché",
+  "hn": "24",
+  "lat": 46.2031089,
+  "lng": 6.1467895,
+  "mieter": [
+   "Salt",
+   "Amarante",
+   "Boucherie du Molard"
+  ],
+  "zuordnung": {
+   "Salt": "naechste",
+   "Amarante": "naechste",
+   "Boucherie du Molard": "naechste"
+  }
+ },
+ "genf|rue du marché|34": {
+  "street": "Rue du Marché",
+  "hn": "34",
+  "lat": 46.2029656,
+  "lng": 6.1472775,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|3": {
+  "street": "Rue du Marché",
+  "hn": "3",
+  "lat": 46.2031421,
+  "lng": 6.1457209,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|12": {
+  "street": "Rue du Marché",
+  "hn": "12",
+  "lat": 46.2032891,
+  "lng": 6.1460681,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|9": {
+  "street": "Rue du Marché",
+  "hn": "9",
+  "lat": 46.2030524,
+  "lng": 6.1459871,
+  "mieter": [
+   "Ochsner Sport",
+   "Bershka",
+   "Swarovski"
+  ],
+  "zuordnung": {
+   "Ochsner Sport": "addr (Adresse 9-11)",
+   "Bershka": "addr (Adresse 9-11)",
+   "Swarovski": "addr (Adresse 9-11)"
+  }
+ },
+ "genf|rue du marché|8": {
+  "street": "Rue du Marché",
+  "hn": "8",
+  "lat": 46.2033277,
+  "lng": 6.1458624,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|7": {
+  "street": "Rue du Marché",
+  "hn": "7",
+  "lat": 46.2030993,
+  "lng": 6.1458477,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|14": {
+  "street": "Rue du Marché",
+  "hn": "14",
+  "lat": 46.2032688,
+  "lng": 6.1461669,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|40": {
+  "street": "Rue du Marché",
+  "hn": "40",
+  "lat": 46.2028153,
+  "lng": 6.1477318,
+  "mieter": [
+   "Le Patio by La Bonbonnière",
+   "Aeschbach"
+  ],
+  "zuordnung": {
+   "Le Patio by La Bonbonnière": "naechste",
+   "Aeschbach": "naechste"
+  }
+ },
+ "genf|rue du marché|5": {
+  "street": "Rue du Marché",
+  "hn": "5",
+  "lat": 46.2031281,
+  "lng": 6.145764,
+  "mieter": [
+   "Läderach"
+  ],
+  "zuordnung": {
+   "Läderach": "addr"
+  }
+ },
+ "genf|rue du marché|38": {
+  "street": "Rue du Marché",
+  "hn": "38",
+  "lat": 46.2028939,
+  "lng": 6.1475026,
+  "mieter": [
+   "Swatch",
+   "Favarger"
+  ],
+  "zuordnung": {
+   "Swatch": "naechste",
+   "Favarger": "naechste"
+  }
+ },
+ "genf|rue du rhône|6": {
+  "street": "Rue du Rhône",
+  "hn": "6",
+  "lat": 46.2044659,
+  "lng": 6.1445928,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|12": {
+  "street": "Rue du Rhône",
+  "hn": "12",
+  "lat": 46.2044963,
+  "lng": 6.1453464,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|8": {
+  "street": "Rue du Rhône",
+  "hn": "8",
+  "lat": 46.2044908,
+  "lng": 6.1450823,
+  "mieter": [
+   "Chez Philippe"
+  ],
+  "zuordnung": {
+   "Chez Philippe": "addr"
+  }
+ },
+ "genf|rue du rhône|30": {
+  "street": "Rue du Rhône",
+  "hn": "30",
+  "lat": 46.2044519,
+  "lng": 6.14587,
+  "mieter": [
+   "Jimmy Choo"
+  ],
+  "zuordnung": {
+   "Jimmy Choo": "naechste"
+  }
+ },
+ "genf|rue du rhône|4": {
+  "street": "Rue du Rhône",
+  "hn": "4",
+  "lat": 46.2043713,
+  "lng": 6.1442859,
+  "mieter": [
+   "White Rabbit 2 Brunch & Co"
+  ],
+  "zuordnung": {
+   "White Rabbit 2 Brunch & Co": "addr"
+  }
+ },
+ "genf|rue du rhône|21": {
+  "street": "Rue du Rhône",
+  "hn": "21",
+  "lat": 46.2045588,
+  "lng": 6.1460134,
+  "mieter": [
+   "Nico & Co.",
+   "Tiffany & Company"
+  ],
+  "zuordnung": {
+   "Nico & Co.": "addr",
+   "Tiffany & Company": "naechste"
+  }
+ },
+ "genf|rue du rhône|15": {
+  "street": "Rue du Rhône",
+  "hn": "15",
+  "lat": 46.2046103,
+  "lng": 6.1449726,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|3": {
+  "street": "Rue du Rhône",
+  "hn": "3",
+  "lat": 46.2044905,
+  "lng": 6.144158,
+  "mieter": [
+   "Othmane Khoris"
+  ],
+  "zuordnung": {
+   "Othmane Khoris": "naechste"
+  }
+ },
+ "genf|rue du rhône|1": {
+  "street": "Rue du Rhône",
+  "hn": "1",
+  "lat": 46.2044492,
+  "lng": 6.1439446,
+  "mieter": [
+   "Salt"
+  ],
+  "zuordnung": {
+   "Salt": "naechste"
+  }
+ },
+ "genf|rue du marché|11": {
+  "street": "Rue du Marché",
+  "hn": "11",
+  "lat": 46.2033274,
+  "lng": 6.1466427,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|54": {
+  "street": "Rue du Rhône",
+  "hn": "54",
+  "lat": 46.2038504,
+  "lng": 6.1476175,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|38": {
+  "street": "Rue du Rhône",
+  "hn": "38",
+  "lat": 46.2043374,
+  "lng": 6.1464418,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|17": {
+  "street": "Rue du Marché",
+  "hn": "17",
+  "lat": 46.203142,
+  "lng": 6.1473374,
+  "mieter": [
+   "Longchamp",
+   "Electronic Arts"
+  ],
+  "zuordnung": {
+   "Longchamp": "naechste",
+   "Electronic Arts": "naechste"
+  }
+ },
+ "genf|rue du rhône|44": {
+  "street": "Rue du Rhône",
+  "hn": "44",
+  "lat": 46.2042004,
+  "lng": 6.1470922,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|1": {
+  "street": "Rue du Marché",
+  "hn": "1",
+  "lat": 46.203454,
+  "lng": 6.1460328,
+  "mieter": [
+   "COS",
+   "Gourmet Factory"
+  ],
+  "zuordnung": {
+   "COS": "naechste",
+   "Gourmet Factory": "naechste"
+  }
+ },
+ "genf|rue du marché|13": {
+  "street": "Rue du Marché",
+  "hn": "13",
+  "lat": 46.20325,
+  "lng": 6.1469385,
+  "mieter": [
+   "Nero's"
+  ],
+  "zuordnung": {
+   "Nero's": "naechste"
+  }
+ },
+ "genf|rue du rhône|40": {
+  "street": "Rue du Rhône",
+  "hn": "40",
+  "lat": 46.2042947,
+  "lng": 6.1466553,
+  "mieter": [
+   "Blancpain SA",
+   "Piaget"
+  ],
+  "zuordnung": {
+   "Blancpain SA": "addr",
+   "Piaget": "naechste"
+  }
+ },
+ "genf|rue du rhône|48": {
+  "street": "Rue du Rhône",
+  "hn": "48",
+  "lat": 46.2041339,
+  "lng": 6.147381,
+  "mieter": [
+   "Globus",
+   "Parfum Christian Dior"
+  ],
+  "zuordnung": {
+   "Globus": "addr",
+   "Parfum Christian Dior": "addr"
+  }
+ },
+ "genf|rue du rhône|50": {
+  "street": "Rue du Rhône",
+  "hn": "50",
+  "lat": 46.2040734,
+  "lng": 6.147644,
+  "mieter": [
+   "Green Gorilla Cafe"
+  ],
+  "zuordnung": {
+   "Green Gorilla Cafe": "addr"
+  }
+ },
+ "genf|rue du rhône|42": {
+  "street": "Rue du Rhône",
+  "hn": "42",
+  "lat": 46.2041891,
+  "lng": 6.1470323,
+  "mieter": [
+   "rooftop°42",
+   "Uchitomi",
+   "Harry Winston"
+  ],
+  "zuordnung": {
+   "rooftop°42": "addr",
+   "Uchitomi": "addr",
+   "Harry Winston": "naechste"
+  }
+ },
+ "genf|rue du rhône|46": {
+  "street": "Rue du Rhône",
+  "hn": "46",
+  "lat": 46.2038383,
+  "lng": 6.1468422,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du mont-blanc|26": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "26",
+  "lat": 46.2092074,
+  "lng": 6.143795,
+  "mieter": [
+   "Café de Paris",
+   "Starbucks"
+  ],
+  "zuordnung": {
+   "Café de Paris": "addr",
+   "Starbucks": "naechste"
+  }
+ },
+ "genf|rue de rive|20": {
+  "street": "Rue de Rive",
+  "hn": "20",
+  "lat": 46.2018795,
+  "lng": 6.1517979,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de rive|6": {
+  "street": "Rue de Rive",
+  "hn": "6",
+  "lat": 46.202247,
+  "lng": 6.1505178,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de rive|4": {
+  "street": "Rue de Rive",
+  "hn": "4",
+  "lat": 46.2023027,
+  "lng": 6.1502902,
+  "mieter": [
+   "Apple Store",
+   "Auer Chocolaterie"
+  ],
+  "zuordnung": {
+   "Apple Store": "addr",
+   "Auer Chocolaterie": "addr"
+  }
+ },
+ "genf|rue de rive|8": {
+  "street": "Rue de Rive",
+  "hn": "8",
+  "lat": 46.2021863,
+  "lng": 6.1507405,
+  "mieter": [
+   "Sunrise Shop"
+  ],
+  "zuordnung": {
+   "Sunrise Shop": "naechste"
+  }
+ },
+ "genf|rue du marché|30": {
+  "street": "Rue du Marché",
+  "hn": "30",
+  "lat": 46.2030207,
+  "lng": 6.1470935,
+  "mieter": [
+   "Bongenie"
+  ],
+  "zuordnung": {
+   "Bongenie": "naechste"
+  }
+ },
+ "genf|rue du marché|32": {
+  "street": "Rue du Marché",
+  "hn": "32",
+  "lat": 46.2030004,
+  "lng": 6.1471586,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|19": {
+  "street": "Rue du Rhône",
+  "hn": "19",
+  "lat": 46.2045998,
+  "lng": 6.1456163,
+  "mieter": [
+   "Riverside",
+   "Giorgio Armani"
+  ],
+  "zuordnung": {
+   "Riverside": "addr",
+   "Giorgio Armani": "naechste"
+  }
+ },
+ "genf|rue de la croix-d'or|8": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "8",
+  "lat": 46.2026314,
+  "lng": 6.1487987,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de la croix-d'or|6": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "6",
+  "lat": 46.2026912,
+  "lng": 6.1484912,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|26": {
+  "street": "Rue du Marché",
+  "hn": "26",
+  "lat": 46.2030692,
+  "lng": 6.1469355,
+  "mieter": [
+   "Nespresso"
+  ],
+  "zuordnung": {
+   "Nespresso": "addr"
+  }
+ },
+ "genf|rue du rhône|2": {
+  "street": "Rue du Rhône",
+  "hn": "2",
+  "lat": 46.204333,
+  "lng": 6.1440378,
+  "mieter": [
+   "C&A"
+  ],
+  "zuordnung": {
+   "C&A": "addr"
+  }
+ },
+ "genf|rue du rhône|11": {
+  "street": "Rue du Rhône",
+  "hn": "11",
+  "lat": 46.2045948,
+  "lng": 6.1446985,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|20": {
+  "street": "Rue du Marché",
+  "hn": "20",
+  "lat": 46.2030224,
+  "lng": 6.1465581,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|18": {
+  "street": "Rue du Marché",
+  "hn": "18",
+  "lat": 46.2030381,
+  "lng": 6.1464978,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|17": {
+  "street": "Rue du Rhône",
+  "hn": "17",
+  "lat": 46.2046161,
+  "lng": 6.1450962,
+  "mieter": [
+   "Guillaume Bichet Chocolatier",
+   "Louboutin"
+  ],
+  "zuordnung": {
+   "Guillaume Bichet Chocolatier": "addr",
+   "Louboutin": "naechste"
+  }
+ },
+ "genf|rue du rhône|56": {
+  "street": "Rue du Rhône",
+  "hn": "56",
+  "lat": 46.2040528,
+  "lng": 6.1476351,
+  "mieter": [
+   "Le Baroque",
+   "Jaeger-LeCoultre"
+  ],
+  "zuordnung": {
+   "Le Baroque": "addr",
+   "Jaeger-LeCoultre": "naechste"
+  }
+ },
+ "genf|rue de la croix-d'or|10": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "10",
+  "lat": 46.2025536,
+  "lng": 6.1491969,
+  "mieter": [
+   "Lacoste",
+   "Blue Lemon"
+  ],
+  "zuordnung": {
+   "Lacoste": "naechste",
+   "Blue Lemon": "naechste"
+  }
+ },
+ "genf|rue du rhône|7": {
+  "street": "Rue du Rhône",
+  "hn": "7",
+  "lat": 46.2045573,
+  "lng": 6.1444953,
+  "mieter": [
+   "Arthur's"
+  ],
+  "zuordnung": {
+   "Arthur's": "addr"
+  }
+ },
+ "genf|rue du rhône|53": {
+  "street": "Rue du Rhône",
+  "hn": "53",
+  "lat": 46.2032905,
+  "lng": 6.1520359,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|94": {
+  "street": "Rue du Rhône",
+  "hn": "94",
+  "lat": 46.2032898,
+  "lng": 6.1511998,
+  "mieter": [
+   "Union bancaire privée"
+  ],
+  "zuordnung": {
+   "Union bancaire privée": "naechste"
+  }
+ },
+ "genf|rue de rive|9": {
+  "street": "Rue de Rive",
+  "hn": "9",
+  "lat": 46.2022487,
+  "lng": 6.1511443,
+  "mieter": [
+   "Yves Rocher"
+  ],
+  "zuordnung": {
+   "Yves Rocher": "naechste"
+  }
+ },
+ "genf|rue de rive|15": {
+  "street": "Rue de Rive",
+  "hn": "15",
+  "lat": 46.2020419,
+  "lng": 6.1518699,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|47": {
+  "street": "Rue du Rhône",
+  "hn": "47",
+  "lat": 46.2035786,
+  "lng": 6.1506637,
+  "mieter": [
+   "Bally",
+   "Mont Blanc"
+  ],
+  "zuordnung": {
+   "Bally": "naechste",
+   "Mont Blanc": "naechste"
+  }
+ },
+ "genf|rue du rhône|96": {
+  "street": "Rue du Rhône",
+  "hn": "96",
+  "lat": 46.2032101,
+  "lng": 6.1516558,
+  "mieter": [
+   "Union Bancaire Privée"
+  ],
+  "zuordnung": {
+   "Union Bancaire Privée": "addr (Adresse 96-98)"
+  }
+ },
+ "genf|rue du rhône|59": {
+  "street": "Rue du Rhône",
+  "hn": "59",
+  "lat": 46.2030083,
+  "lng": 6.1533929,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|57": {
+  "street": "Rue du Rhône",
+  "hn": "57",
+  "lat": 46.2030589,
+  "lng": 6.1531482,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de rive|7": {
+  "street": "Rue de Rive",
+  "hn": "7",
+  "lat": 46.2023357,
+  "lng": 6.15086,
+  "mieter": [
+   "Döner kebap",
+   "Visilab",
+   "Peggy Sage"
+  ],
+  "zuordnung": {
+   "Döner kebap": "naechste",
+   "Visilab": "naechste",
+   "Peggy Sage": "naechste"
+  }
+ },
+ "genf|rue du rhône|55": {
+  "street": "Rue du Rhône",
+  "hn": "55",
+  "lat": 46.2031102,
+  "lng": 6.1529159,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|51": {
+  "street": "Rue du Rhône",
+  "hn": "51",
+  "lat": 46.2034571,
+  "lng": 6.1512458,
+  "mieter": [
+   "Prada"
+  ],
+  "zuordnung": {
+   "Prada": "naechste"
+  }
+ },
+ "genf|rue du rhône|61": {
+  "street": "Rue du Rhône",
+  "hn": "61",
+  "lat": 46.2029582,
+  "lng": 6.1536329,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|49": {
+  "street": "Rue du Rhône",
+  "hn": "49",
+  "lat": 46.2035117,
+  "lng": 6.1509862,
+  "mieter": [
+   "F.P. Journe"
+  ],
+  "zuordnung": {
+   "F.P. Journe": "naechste"
+  }
+ },
+ "genf|rue de rive|13": {
+  "street": "Rue de Rive",
+  "hn": "13",
+  "lat": 46.2020861,
+  "lng": 6.1516682,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de rive|1": {
+  "street": "Rue de Rive",
+  "hn": "1",
+  "lat": 46.2025406,
+  "lng": 6.1501084,
+  "mieter": [
+   "Kiko",
+   "Lush"
+  ],
+  "zuordnung": {
+   "Kiko": "naechste",
+   "Lush": "naechste"
+  }
+ },
+ "genf|rue de rive|3": {
+  "street": "Rue de Rive",
+  "hn": "3",
+  "lat": 46.2025142,
+  "lng": 6.1502361,
+  "mieter": [
+   "Fust"
+  ],
+  "zuordnung": {
+   "Fust": "addr"
+  }
+ },
+ "genf|rue du rhône|92": {
+  "street": "Rue du Rhône",
+  "hn": "92",
+  "lat": 46.2033676,
+  "lng": 6.1508181,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de rive|3bis": {
+  "street": "Rue de Rive",
+  "hn": "3Bis",
+  "lat": 46.2024703,
+  "lng": 6.1503628,
+  "mieter": [
+   "Swisscom"
+  ],
+  "zuordnung": {
+   "Swisscom": "naechste"
+  }
+ },
+ "genf|rue de rive|5": {
+  "street": "Rue de Rive",
+  "hn": "5",
+  "lat": 46.2024117,
+  "lng": 6.1506138,
+  "mieter": [
+   "Chemiserie Centrale"
+  ],
+  "zuordnung": {
+   "Chemiserie Centrale": "naechste"
+  }
+ },
+ "genf|rue du rhône|90": {
+  "street": "Rue du Rhône",
+  "hn": "90",
+  "lat": 46.2034142,
+  "lng": 6.1505978,
+  "mieter": [
+   "Bijoux Burma"
+  ],
+  "zuordnung": {
+   "Bijoux Burma": "naechste"
+  }
+ },
+ "genf|rue de la croix-d'or|19a": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "19A",
+  "lat": 46.2029435,
+  "lng": 6.1492216,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de la croix-d'or|27": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "27",
+  "lat": 46.2026526,
+  "lng": 6.1495325,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de la croix-d'or|17a": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "17A",
+  "lat": 46.2029206,
+  "lng": 6.1491716,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de la croix-d'or|29": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "29",
+  "lat": 46.2026317,
+  "lng": 6.1496649,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de la croix-d'or|19": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "19",
+  "lat": 46.2027122,
+  "lng": 6.1492493,
+  "mieter": [
+   "Cyrillus"
+  ],
+  "zuordnung": {
+   "Cyrillus": "naechste"
+  }
+ },
+ "genf|rue de la croix-d'or|15": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "15",
+  "lat": 46.2028063,
+  "lng": 6.1488064,
+  "mieter": [
+   "Tommy Hilfiger"
+  ],
+  "zuordnung": {
+   "Tommy Hilfiger": "naechste"
+  }
+ },
+ "genf|rue de la croix-d'or|25": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "25",
+  "lat": 46.2026608,
+  "lng": 6.1494005,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de la croix-d'or|17": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "17",
+  "lat": 46.2027518,
+  "lng": 6.1490635,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|82": {
+  "street": "Rue du Rhône",
+  "hn": "82",
+  "lat": 46.2036271,
+  "lng": 6.1496312,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|78": {
+  "street": "Rue du Rhône",
+  "hn": "78",
+  "lat": 46.2037223,
+  "lng": 6.1492065,
+  "mieter": [
+   "Dior",
+   "Richard Mille"
+  ],
+  "zuordnung": {
+   "Dior": "naechste",
+   "Richard Mille": "naechste"
+  }
+ },
+ "genf|rue du rhône|84": {
+  "street": "Rue du Rhône",
+  "hn": "84",
+  "lat": 46.2036021,
+  "lng": 6.149743,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|86": {
+  "street": "Rue du Rhône",
+  "hn": "86",
+  "lat": 46.2035685,
+  "lng": 6.1498787,
+  "mieter": [
+   "Hublot"
+  ],
+  "zuordnung": {
+   "Hublot": "naechste"
+  }
+ },
+ "genf|rue du rhône|43": {
+  "street": "Rue du Rhône",
+  "hn": "43",
+  "lat": 46.203759,
+  "lng": 6.1497289,
+  "mieter": [
+   "Chanel"
+  ],
+  "zuordnung": {
+   "Chanel": "naechste"
+  }
+ },
+ "genf|rue du rhône|41": {
+  "street": "Rue du Rhône",
+  "hn": "41",
+  "lat": 46.203803,
+  "lng": 6.1495462,
+  "mieter": [
+   "Patek Philippe"
+  ],
+  "zuordnung": {
+   "Patek Philippe": "naechste"
+  }
+ },
+ "genf|rue du rhône|45": {
+  "street": "Rue du Rhône",
+  "hn": "45",
+  "lat": 46.2037014,
+  "lng": 6.1499625,
+  "mieter": [
+   "Bucherer"
+  ],
+  "zuordnung": {
+   "Bucherer": "addr"
+  }
+ },
+ "genf|rue du rhône|39": {
+  "street": "Rue du Rhône",
+  "hn": "39",
+  "lat": 46.2038496,
+  "lng": 6.1493398,
+  "mieter": [
+   "Hermès"
+  ],
+  "zuordnung": {
+   "Hermès": "naechste"
+  }
+ },
+ "genf|rue du rhône|62": {
+  "street": "Rue du Rhône",
+  "hn": "62",
+  "lat": 46.2038199,
+  "lng": 6.14876,
+  "mieter": [
+   "Les Ambassadeurs",
+   "Fendi"
+  ],
+  "zuordnung": {
+   "Les Ambassadeurs": "naechste",
+   "Fendi": "naechste"
+  }
+ },
+ "genf|rue du rhône|31": {
+  "street": "Rue du Rhône",
+  "hn": "31",
+  "lat": 46.2041583,
+  "lng": 6.147846,
+  "mieter": [
+   "Omega",
+   "Louis Vuitton",
+   "Van Cleef & Arpels"
+  ],
+  "zuordnung": {
+   "Omega": "naechste",
+   "Louis Vuitton": "naechste",
+   "Van Cleef & Arpels": "naechste"
+  }
+ },
+ "genf|rue de la croix-d'or|7": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "7",
+  "lat": 46.2029001,
+  "lng": 6.1483419,
+  "mieter": [
+   "Douglas"
+  ],
+  "zuordnung": {
+   "Douglas": "addr"
+  }
+ },
+ "genf|rue du rhône|35": {
+  "street": "Rue du Rhône",
+  "hn": "35",
+  "lat": 46.2039616,
+  "lng": 6.1487918,
+  "mieter": [
+   "Cartier"
+  ],
+  "zuordnung": {
+   "Cartier": "naechste"
+  }
+ },
+ "genf|rue du rhône|29": {
+  "street": "Rue du Rhône",
+  "hn": "29",
+  "lat": 46.2042212,
+  "lng": 6.1475649,
+  "mieter": [
+   "Graff"
+  ],
+  "zuordnung": {
+   "Graff": "naechste"
+  }
+ },
+ "genf|rue du rhône|37": {
+  "street": "Rue du Rhône",
+  "hn": "37",
+  "lat": 46.2039113,
+  "lng": 6.1490335,
+  "mieter": [
+   "Valentino"
+  ],
+  "zuordnung": {
+   "Valentino": "naechste"
+  }
+ },
+ "genf|rue du rhône|60": {
+  "street": "Rue du Rhône",
+  "hn": "60",
+  "lat": 46.2038845,
+  "lng": 6.1484526,
+  "mieter": [
+   "Christian Dior",
+   "Roger Dubuis"
+  ],
+  "zuordnung": {
+   "Christian Dior": "addr",
+   "Roger Dubuis": "naechste"
+  }
+ },
+ "genf|rue de la croix-d'or|3": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "3",
+  "lat": 46.2029398,
+  "lng": 6.1481389,
+  "mieter": [
+   "H&M Home"
+  ],
+  "zuordnung": {
+   "H&M Home": "naechste"
+  }
+ },
+ "genf|rue de la croix-d'or|1": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "1",
+  "lat": 46.20297,
+  "lng": 6.1479849,
+  "mieter": [
+   "Le Pilier",
+   "Molard souvenirs SA",
+   "Michael Kors"
+  ],
+  "zuordnung": {
+   "Le Pilier": "naechste",
+   "Molard souvenirs SA": "naechste",
+   "Michael Kors": "naechste"
+  }
+ },
+ "genf|rue de la croix-d'or|9": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "9",
+  "lat": 46.2028844,
+  "lng": 6.1484226,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|23": {
+  "street": "Rue du Rhône",
+  "hn": "23",
+  "lat": 46.2043724,
+  "lng": 6.1468727,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue de la croix-d'or|11": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "11",
+  "lat": 46.2028614,
+  "lng": 6.1485397,
+  "mieter": [
+   "Zara Home"
+  ],
+  "zuordnung": {
+   "Zara Home": "naechste"
+  }
+ },
+ "genf|rue du rhône|25": {
+  "street": "Rue du Rhône",
+  "hn": "25",
+  "lat": 46.2043321,
+  "lng": 6.1470599,
+  "mieter": [
+   "Chopard Boutique"
+  ],
+  "zuordnung": {
+   "Chopard Boutique": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|7": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "7",
+  "lat": 46.2077251,
+  "lng": 6.1459993,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du mont-blanc|3": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "3",
+  "lat": 46.2073797,
+  "lng": 6.1466442,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du mont-blanc|5": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "5",
+  "lat": 46.2075382,
+  "lng": 6.1463466,
+  "mieter": [
+   "Sweetzerland Chocolatier",
+   "Rony",
+   "Swixim"
+  ],
+  "zuordnung": {
+   "Sweetzerland Chocolatier": "naechste",
+   "Rony": "naechste",
+   "Swixim": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|1": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "1",
+  "lat": 46.2071979,
+  "lng": 6.1469829,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du mont-blanc|9": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "9",
+  "lat": 46.2084041,
+  "lng": 6.1447468,
+  "mieter": [
+   "UFC Change Mont-Blanc",
+   "Le Mouton",
+   "The Gift Box"
+  ],
+  "zuordnung": {
+   "UFC Change Mont-Blanc": "addr",
+   "Le Mouton": "naechste",
+   "The Gift Box": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|7bis": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "7Bis",
+  "lat": 46.2082544,
+  "lng": 6.1450258,
+  "mieter": [
+   "Aimé Pouly"
+  ],
+  "zuordnung": {
+   "Aimé Pouly": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|11": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "11",
+  "lat": 46.2085072,
+  "lng": 6.1445555,
+  "mieter": [
+   "Horlogerie Souvenirs",
+   "GoldService",
+   "sushi wok"
+  ],
+  "zuordnung": {
+   "Horlogerie Souvenirs": "naechste",
+   "GoldService": "naechste",
+   "sushi wok": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|15": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "15",
+  "lat": 46.2087969,
+  "lng": 6.1439791,
+  "mieter": [
+   "Boreal Coffee Shop",
+   "Marionnaud",
+   "Helvetic Corner",
+   "Guillaume Bichet"
+  ],
+  "zuordnung": {
+   "Boreal Coffee Shop": "addr",
+   "Marionnaud": "naechste",
+   "Helvetic Corner": "naechste",
+   "Guillaume Bichet": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|19": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "19",
+  "lat": 46.2090078,
+  "lng": 6.1435957,
+  "mieter": [
+   "Raiffeisen",
+   "Swatch"
+  ],
+  "zuordnung": {
+   "Raiffeisen": "naechste",
+   "Swatch": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|21": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "21",
+  "lat": 46.2090985,
+  "lng": 6.1434309,
+  "mieter": [
+   "Osteo 7/7",
+   "Kebab Instanbul",
+   "Wasabi"
+  ],
+  "zuordnung": {
+   "Osteo 7/7": "addr",
+   "Kebab Instanbul": "naechste",
+   "Wasabi": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|17": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "17",
+  "lat": 46.2089046,
+  "lng": 6.1437834,
+  "mieter": [
+   "O.Zbinden"
+  ],
+  "zuordnung": {
+   "O.Zbinden": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|28": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "28",
+  "lat": 46.2094106,
+  "lng": 6.1433111,
+  "mieter": [
+   "UBS"
+  ],
+  "zuordnung": {
+   "UBS": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|24": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "24",
+  "lat": 46.209098,
+  "lng": 6.1438911,
+  "mieter": [
+   "Five Guys"
+  ],
+  "zuordnung": {
+   "Five Guys": "addr"
+  }
+ },
+ "genf|rue du mont-blanc|22": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "22",
+  "lat": 46.208995,
+  "lng": 6.1440822,
+  "mieter": [
+   "McDonald's",
+   "Un Chouette Pressing"
+  ],
+  "zuordnung": {
+   "McDonald's": "naechste",
+   "Un Chouette Pressing": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|18": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "18",
+  "lat": 46.2083469,
+  "lng": 6.145409,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du mont-blanc|20": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "20",
+  "lat": 46.2088502,
+  "lng": 6.1444023,
+  "mieter": [
+   "Sunrise",
+   "Harold",
+   "L'Arcane 7"
+  ],
+  "zuordnung": {
+   "Sunrise": "naechste",
+   "Harold": "naechste",
+   "L'Arcane 7": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|14bis": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "14BIS",
+  "lat": 46.2079909,
+  "lng": 6.1463287,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du mont-blanc|16": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "16",
+  "lat": 46.2080888,
+  "lng": 6.1458022,
+  "mieter": [
+   "Change Migros"
+  ],
+  "zuordnung": {
+   "Change Migros": "addr"
+  }
+ },
+ "genf|rue du mont-blanc|2": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "2",
+  "lat": 46.2071516,
+  "lng": 6.1475794,
+  "mieter": [
+   "Franck Namani"
+  ],
+  "zuordnung": {
+   "Franck Namani": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|6": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "6",
+  "lat": 46.2073718,
+  "lng": 6.1471689,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du mont-blanc|14": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "14",
+  "lat": 46.207684,
+  "lng": 6.1465836,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du mont-blanc|8": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "8",
+  "lat": 46.2074963,
+  "lng": 6.1471576,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du mont-blanc|4": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "4",
+  "lat": 46.2072694,
+  "lng": 6.1473578,
+  "mieter": [
+   "Aveda"
+  ],
+  "zuordnung": {
+   "Aveda": "naechste"
+  }
+ },
+ "genf|rue du mont-blanc|10": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "10",
+  "lat": 46.207498,
+  "lng": 6.1469358,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du mont-blanc|12": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "12",
+  "lat": 46.2075952,
+  "lng": 6.1467518,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du marché|36": {
+  "street": "Rue du Marché",
+  "hn": "36",
+  "lat": 46.2029265,
+  "lng": 6.1474058,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|116": {
+  "street": "Rue du Rhône",
+  "hn": "116",
+  "lat": 46.2025447,
+  "lng": 6.1544688,
+  "mieter": [
+   "La Coupole Avenue"
+  ],
+  "zuordnung": {
+   "La Coupole Avenue": "addr"
+  }
+ },
+ "genf|rue du rhône|14": {
+  "street": "Rue du Rhône",
+  "hn": "14",
+  "lat": 46.2044828,
+  "lng": 6.1455542,
+  "mieter": [
+   "Serrurier Secours"
+  ],
+  "zuordnung": {
+   "Serrurier Secours": "addr"
+  }
+ },
+ "genf|rue du rhône|114": {
+  "street": "Rue du Rhône",
+  "hn": "114",
+  "lat": 46.2026089,
+  "lng": 6.1542065,
+  "mieter": [
+   "Orfelis",
+   "La Bonbonnière Chocolaterie",
+   "Boggi"
+  ],
+  "zuordnung": {
+   "Orfelis": "addr",
+   "La Bonbonnière Chocolaterie": "naechste",
+   "Boggi": "naechste"
+  }
+ },
+ "genf|rue du rhône|118": {
+  "street": "Rue du Rhône",
+  "hn": "118",
+  "lat": 46.2024864,
+  "lng": 6.1547429,
+  "mieter": [
+   "Du Rhône Chocolatier"
+  ],
+  "zuordnung": {
+   "Du Rhône Chocolatier": "naechste"
+  }
+ },
+ "genf|rue du rhône|65": {
+  "street": "Rue du Rhône",
+  "hn": "65",
+  "lat": 46.202763,
+  "lng": 6.1547,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|63": {
+  "street": "Rue du Rhône",
+  "hn": "63",
+  "lat": 46.2028614,
+  "lng": 6.1542923,
+  "mieter": [],
+  "zuordnung": {}
+ },
+ "genf|rue du rhône|67": {
+  "street": "Rue du Rhône",
+  "hn": "67",
+  "lat": 46.2025968,
+  "lng": 6.1555188,
+  "mieter": [
+   "Molokai Fusion Poke Bar"
+  ],
+  "zuordnung": {
+   "Molokai Fusion Poke Bar": "addr"
+  }
+ },
+ "genf|rue du rhône|69": {
+  "street": "Rue du Rhône",
+  "hn": "69",
+  "lat": 46.2025243,
+  "lng": 6.15583,
+  "mieter": [
+   "UBS"
+  ],
+  "zuordnung": {
+   "UBS": "naechste"
+  }
+ },
+ "genf|rue de la croix-d'or|4": {
+  "street": "Rue de la Croix-d'Or",
+  "hn": "4",
+  "lat": 46.2027201,
+  "lng": 6.148344,
+  "mieter": [
+   "Martel",
+   "Interdiscount"
+  ],
+  "zuordnung": {
+   "Martel": "addr",
+   "Interdiscount": "naechste"
+  }
+ },
+ "genf|rue du rhône|70": {
+  "street": "Rue du Rhône",
+  "hn": "70",
+  "lat": 46.2037152,
+  "lng": 6.1489525,
+  "mieter": [
+   "Dior",
+   "Brunello Cucinelli"
+  ],
+  "zuordnung": {
+   "Dior": "naechste",
+   "Brunello Cucinelli": "naechste"
+  }
+ },
+ "genf|rue du rhône|88": {
+  "street": "Rue du Rhône",
+  "hn": "88",
+  "lat": 46.2034392,
+  "lng": 6.1501685,
+  "mieter": [
+   "Chaud Froid & Chocolats / Moreau"
+  ],
+  "zuordnung": {
+   "Chaud Froid & Chocolats / Moreau": "addr"
+  }
+ },
+ "genf|rue du mont-blanc|30": {
+  "street": "Rue du Mont-Blanc",
+  "hn": "30",
+  "lat": 46.2092635,
+  "lng": 6.1428183,
+  "mieter": [
+   "Coop",
+   "Läderach",
+   "Fust",
+   "Dosenbach"
+  ],
+  "zuordnung": {
+   "Coop": "addr",
+   "Läderach": "addr",
+   "Fust": "naechste",
+   "Dosenbach": "naechste"
+  }
+ }
+}
