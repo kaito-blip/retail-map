@@ -1,0 +1,2245 @@
+{
+ "basel|steinenvorstadt|1": {
+  "street": "Steinenvorstadt",
+  "hn": "1",
+  "lat": 47.5539932,
+  "lng": 7.5890926,
+  "mieter": [
+   "Museumscafe",
+   "reflex"
+  ],
+  "nah": [
+   "Museumscafe",
+   "reflex"
+  ]
+ },
+ "basel|gerbergasse|76": {
+  "street": "Gerbergasse",
+  "hn": "76",
+  "lat": 47.5551319,
+  "lng": 7.5886898,
+  "mieter": [
+   "Mister Wong"
+  ]
+ },
+ "basel|steinenvorstadt|34": {
+  "street": "Steinenvorstadt",
+  "hn": "34",
+  "lat": 47.5527339,
+  "lng": 7.5884134,
+  "mieter": [
+   "Basler Kantonalbank",
+   "Chicorée",
+   "k kiosk"
+  ],
+  "nah": [
+   "Chicorée",
+   "k kiosk"
+  ]
+ },
+ "basel|freie strasse|82": {
+  "street": "Freie Strasse",
+  "hn": "82",
+  "lat": 47.5545432,
+  "lng": 7.5914764,
+  "mieter": [
+   "Lacoste"
+  ],
+  "nah": [
+   "Lacoste"
+  ]
+ },
+ "basel|freie strasse|95": {
+  "street": "Freie Strasse",
+  "hn": "95",
+  "lat": 47.5548936,
+  "lng": 7.591418,
+  "mieter": [
+   "Aurum"
+  ],
+  "nah": [
+   "Aurum"
+  ]
+ },
+ "basel|freie strasse|68": {
+  "street": "Freie Strasse",
+  "hn": "68",
+  "lat": 47.555158,
+  "lng": 7.5908137,
+  "mieter": [
+   "New Yorker"
+  ]
+ },
+ "basel|freie strasse|89": {
+  "street": "Freie Strasse",
+  "hn": "89",
+  "lat": 47.5550391,
+  "lng": 7.5911961,
+  "mieter": [
+   "Starbucks"
+  ]
+ },
+ "basel|freie strasse|88": {
+  "street": "Freie Strasse",
+  "hn": "88",
+  "lat": 47.5542085,
+  "lng": 7.5917332,
+  "mieter": [
+   "Bico"
+  ],
+  "nah": [
+   "Bico"
+  ]
+ },
+ "basel|freie strasse|101": {
+  "street": "Freie Strasse",
+  "hn": "101",
+  "lat": 47.5546526,
+  "lng": 7.5915829,
+  "mieter": [
+   "Cartier"
+  ]
+ },
+ "basel|gerbergasse|50": {
+  "street": "Gerbergasse",
+  "hn": "50",
+  "lat": 47.5558494,
+  "lng": 7.5885984,
+  "mieter": [
+   "Walliser Kanne"
+  ],
+  "nah": [
+   "Walliser Kanne"
+  ]
+ },
+ "basel|gerbergasse|45": {
+  "street": "Gerbergasse",
+  "hn": "45",
+  "lat": 47.5559392,
+  "lng": 7.588708,
+  "mieter": [
+   "Düby Zinsstag"
+  ],
+  "nah": [
+   "Düby Zinsstag"
+  ]
+ },
+ "basel|gerbergasse|53": {
+  "street": "Gerbergasse",
+  "hn": "53",
+  "lat": 47.5557714,
+  "lng": 7.5887558,
+  "mieter": []
+ },
+ "basel|gerbergasse|77": {
+  "street": "Gerbergasse",
+  "hn": "77",
+  "lat": 47.5552603,
+  "lng": 7.5889749,
+  "mieter": [
+   "CreaDiva"
+  ],
+  "nah": [
+   "CreaDiva"
+  ]
+ },
+ "basel|gerbergasse|69": {
+  "street": "Gerbergasse",
+  "hn": "69",
+  "lat": 47.5554031,
+  "lng": 7.5888936,
+  "mieter": [
+   "Chrüterhüsli"
+  ]
+ },
+ "basel|gerbergasse|70": {
+  "street": "Gerbergasse",
+  "hn": "70",
+  "lat": 47.5553964,
+  "lng": 7.5887611,
+  "mieter": [
+   "Piink"
+  ],
+  "nah": [
+   "Piink"
+  ]
+ },
+ "basel|freie strasse|2": {
+  "street": "Freie Strasse",
+  "hn": "2",
+  "lat": 47.5576874,
+  "lng": 7.5883228,
+  "mieter": [
+   "Swarovski"
+  ]
+ },
+ "basel|freie strasse|2a": {
+  "street": "Freie Strasse",
+  "hn": "2a",
+  "lat": 47.5575875,
+  "lng": 7.5884174,
+  "mieter": [
+   "Guess"
+  ],
+  "nah": [
+   "Guess"
+  ]
+ },
+ "basel|marktplatz|17": {
+  "street": "Marktplatz",
+  "hn": "17",
+  "lat": 47.5579063,
+  "lng": 7.5876077,
+  "mieter": [
+   "Blume 2000",
+   "UBS"
+  ]
+ },
+ "basel|freie strasse|1": {
+  "street": "Freie Strasse",
+  "hn": "1",
+  "lat": 47.5577367,
+  "lng": 7.5884406,
+  "mieter": [
+   "WE"
+  ]
+ },
+ "basel|marktplatz|36": {
+  "street": "Marktplatz",
+  "hn": "36",
+  "lat": 47.5587146,
+  "lng": 7.5873674,
+  "mieter": [
+   "Bohemia"
+  ]
+ },
+ "basel|freie strasse|25": {
+  "street": "Freie Strasse",
+  "hn": "25",
+  "lat": 47.5571707,
+  "lng": 7.58926,
+  "mieter": [
+   "Restaurant Schlüsselzunft",
+   "E. E. Zunft zum Schlüssel"
+  ],
+  "nah": [
+   "E. E. Zunft zum Schlüssel"
+  ]
+ },
+ "basel|gerbergasse|25": {
+  "street": "Gerbergasse",
+  "hn": "25",
+  "lat": 47.5564428,
+  "lng": 7.5886346,
+  "mieter": [
+   "PME Legend"
+  ]
+ },
+ "basel|gerbergasse|16": {
+  "street": "Gerbergasse",
+  "hn": "16",
+  "lat": 47.5571895,
+  "lng": 7.5880552,
+  "mieter": [
+   "Green Bento"
+  ]
+ },
+ "basel|gerbergasse|30": {
+  "street": "Gerbergasse",
+  "hn": "30",
+  "lat": 47.5566039,
+  "lng": 7.5884117,
+  "mieter": [
+   "unternehmen mitte",
+   "Basel | Blütezeit"
+  ]
+ },
+ "basel|gerbergasse|24": {
+  "street": "Gerbergasse",
+  "hn": "24",
+  "lat": 47.5569487,
+  "lng": 7.5881782,
+  "mieter": [
+   "Hotelplan"
+  ]
+ },
+ "basel|freie strasse|43": {
+  "street": "Freie Strasse",
+  "hn": "43",
+  "lat": 47.5563993,
+  "lng": 7.5899455,
+  "mieter": [
+   "Zumstein"
+  ]
+ },
+ "basel|freie strasse|20": {
+  "street": "Freie Strasse",
+  "hn": "20",
+  "lat": 47.5567845,
+  "lng": 7.5892945,
+  "mieter": [
+   "Dr. med. A. Fiebach, Facharzt FMH Oto-Rhino-Laryngologie, Hals- u. Gesichtschirurgie",
+   "Mobilezone",
+   "I&S Moda"
+  ]
+ },
+ "basel|freie strasse|35": {
+  "street": "Freie Strasse",
+  "hn": "35",
+  "lat": 47.5568996,
+  "lng": 7.5894557,
+  "mieter": []
+ },
+ "basel|freie strasse|27": {
+  "street": "Freie Strasse",
+  "hn": "27",
+  "lat": 47.5570634,
+  "lng": 7.589308,
+  "mieter": [
+   "Lindt",
+   "Schweizerische Nationalbank"
+  ],
+  "nah": [
+   "Schweizerische Nationalbank"
+  ]
+ },
+ "basel|freie strasse|29": {
+  "street": "Freie Strasse",
+  "hn": "29",
+  "lat": 47.5569833,
+  "lng": 7.5893783,
+  "mieter": [
+   "Douglas"
+  ],
+  "nah": [
+   "Douglas"
+  ]
+ },
+ "basel|freie strasse|39": {
+  "street": "Freie Strasse",
+  "hn": "39",
+  "lat": 47.5565332,
+  "lng": 7.5898148,
+  "mieter": [
+   "KURZ"
+  ]
+ },
+ "basel|gerbergasse|12": {
+  "street": "Gerbergasse",
+  "hn": "12",
+  "lat": 47.5573634,
+  "lng": 7.5879849,
+  "mieter": [
+   "Metro Boutique"
+  ],
+  "nah": [
+   "Metro Boutique"
+  ]
+ },
+ "basel|gerbergasse|14": {
+  "street": "Gerbergasse",
+  "hn": "14",
+  "lat": 47.5572743,
+  "lng": 7.5880119,
+  "mieter": [
+   "Dosenbach"
+  ],
+  "nah": [
+   "Dosenbach"
+  ]
+ },
+ "basel|freie strasse|10": {
+  "street": "Freie Strasse",
+  "hn": "10",
+  "lat": 47.5573347,
+  "lng": 7.5887215,
+  "mieter": [
+   "vomFASS",
+   "Calzedonia"
+  ],
+  "nah": [
+   "vomFASS",
+   "Calzedonia"
+  ]
+ },
+ "basel|freie strasse|12": {
+  "street": "Freie Strasse",
+  "hn": "12",
+  "lat": 47.5572396,
+  "lng": 7.5888448,
+  "mieter": [
+   "Tchibo"
+  ]
+ },
+ "basel|marktplatz|13": {
+  "street": "Marktplatz",
+  "hn": "13",
+  "lat": 47.5578662,
+  "lng": 7.5884159,
+  "mieter": [
+   "Banque CIC (Suisse)",
+   "E. E. Zunft zu Weinleuten"
+  ],
+  "nah": [
+   "E. E. Zunft zu Weinleuten"
+  ]
+ },
+ "basel|marktplatz|11": {
+  "street": "Marktplatz",
+  "hn": "11",
+  "lat": 47.5579792,
+  "lng": 7.5882343,
+  "mieter": [
+   "ViCafe",
+   "Swisscom"
+  ]
+ },
+ "basel|marktplatz|5": {
+  "street": "Marktplatz",
+  "hn": "5",
+  "lat": 47.5584708,
+  "lng": 7.5879391,
+  "mieter": [
+   "Brezelkönig",
+   "Salt",
+   "Radio Basilisk"
+  ]
+ },
+ "basel|freie strasse|75": {
+  "street": "Freie Strasse",
+  "hn": "75",
+  "lat": 47.5555991,
+  "lng": 7.5906398,
+  "mieter": [
+   "Coop",
+   "Swatch",
+   "Christ",
+   "Import Parfumerie",
+   "Pfauen"
+  ],
+  "nah": [
+   "Pfauen"
+  ]
+ },
+ "basel|freie strasse|40": {
+  "street": "Freie Strasse",
+  "hn": "40",
+  "lat": 47.5561319,
+  "lng": 7.5900113,
+  "mieter": []
+ },
+ "basel|freie strasse|51": {
+  "street": "Freie Strasse",
+  "hn": "51",
+  "lat": 47.5561578,
+  "lng": 7.5901763,
+  "mieter": [
+   "Bucherer"
+  ],
+  "nah": [
+   "Bucherer"
+  ]
+ },
+ "basel|freie strasse|69": {
+  "street": "Freie Strasse",
+  "hn": "69",
+  "lat": 47.5557444,
+  "lng": 7.590525,
+  "mieter": [
+   "Läderach"
+  ]
+ },
+ "basel|gerbergasse|84": {
+  "street": "Gerbergasse",
+  "hn": "84",
+  "lat": 47.5549509,
+  "lng": 7.5887904,
+  "mieter": [
+   "Chez Donati Provisorio",
+   "Brötlibar",
+   "My Way Bar",
+   "Restaurant Cardamom"
+  ],
+  "nah": [
+   "Brötlibar",
+   "My Way Bar",
+   "Restaurant Cardamom"
+  ]
+ },
+ "basel|marktplatz|34": {
+  "street": "Marktplatz",
+  "hn": "34",
+  "lat": 47.5587141,
+  "lng": 7.5871278,
+  "mieter": [
+   "Nooch",
+   "Montblanc"
+  ]
+ },
+ "basel|marktplatz|32": {
+  "street": "Marktplatz",
+  "hn": "32",
+  "lat": 47.5585377,
+  "lng": 7.5871821,
+  "mieter": [
+   "Subdued"
+  ]
+ },
+ "basel|eisengasse|15": {
+  "street": "Eisengasse",
+  "hn": "15",
+  "lat": 47.5591721,
+  "lng": 7.5879823,
+  "mieter": [
+   "Sutter Begg"
+  ]
+ },
+ "basel|eisengasse|12": {
+  "street": "Eisengasse",
+  "hn": "12",
+  "lat": 47.5592429,
+  "lng": 7.5878,
+  "mieter": [
+   "Migros"
+  ]
+ },
+ "basel|eisengasse|10": {
+  "street": "Eisengasse",
+  "hn": "10",
+  "lat": 47.5592838,
+  "lng": 7.5878734,
+  "mieter": [
+   "Die Mobiliar"
+  ]
+ },
+ "basel|eisengasse|6": {
+  "street": "Eisengasse",
+  "hn": "6",
+  "lat": 47.5594177,
+  "lng": 7.5881147,
+  "mieter": [
+   "Le Mouton",
+   "Atelier Maïthé",
+   "OKJOB",
+   "Zahnärzte Mittlere Brücke"
+  ],
+  "nah": [
+   "Zahnärzte Mittlere Brücke"
+  ]
+ },
+ "basel|eisengasse|13": {
+  "street": "Eisengasse",
+  "hn": "13",
+  "lat": 47.5592239,
+  "lng": 7.5880546,
+  "mieter": []
+ },
+ "basel|eisengasse|5": {
+  "street": "Eisengasse",
+  "hn": "5",
+  "lat": 47.5593846,
+  "lng": 7.5884802,
+  "mieter": [
+   "GGG Kurse",
+   "Ernst Schroth",
+   "Advokatur am Rhein",
+   "Impulse",
+   "iPunkt"
+  ],
+  "nah": [
+   "Ernst Schroth",
+   "Advokatur am Rhein",
+   "Impulse",
+   "iPunkt"
+  ]
+ },
+ "basel|steinenvorstadt|36": {
+  "street": "Steinenvorstadt",
+  "hn": "36",
+  "lat": 47.5525383,
+  "lng": 7.588165,
+  "mieter": [
+   "KINOKONI",
+   "Space"
+  ],
+  "nah": [
+   "Space"
+  ]
+ },
+ "basel|steinenvorstadt|32": {
+  "street": "Steinenvorstadt",
+  "hn": "32",
+  "lat": 47.5528226,
+  "lng": 7.5884257,
+  "mieter": [
+   "VIP"
+  ]
+ },
+ "basel|steinenvorstadt|33": {
+  "street": "Steinenvorstadt",
+  "hn": "33",
+  "lat": 47.5529871,
+  "lng": 7.5888576,
+  "mieter": [
+   "Club 59"
+  ]
+ },
+ "basel|steinenvorstadt|13": {
+  "street": "Steinenvorstadt",
+  "hn": "13",
+  "lat": 47.5535132,
+  "lng": 7.5890864,
+  "mieter": [
+   "Mr Pickwick",
+   "Trio Arte",
+   "Walid"
+  ],
+  "nah": [
+   "Trio Arte",
+   "Walid"
+  ]
+ },
+ "basel|marktplatz|30": {
+  "street": "Marktplatz",
+  "hn": "30",
+  "lat": 47.5583481,
+  "lng": 7.5872117,
+  "mieter": []
+ },
+ "basel|freie strasse|56": {
+  "street": "Freie Strasse",
+  "hn": "56",
+  "lat": 47.5554132,
+  "lng": 7.5902737,
+  "mieter": [
+   "C&A"
+  ]
+ },
+ "basel|steinenvorstadt|10": {
+  "street": "Steinenvorstadt",
+  "hn": "10",
+  "lat": 47.5536387,
+  "lng": 7.5888389,
+  "mieter": []
+ },
+ "basel|steinenvorstadt|12": {
+  "street": "Steinenvorstadt",
+  "hn": "12",
+  "lat": 47.5535669,
+  "lng": 7.5888371,
+  "mieter": [
+   "Snipes"
+  ],
+  "nah": [
+   "Snipes"
+  ]
+ },
+ "basel|steinenvorstadt|2": {
+  "street": "Steinenvorstadt",
+  "hn": "2",
+  "lat": 47.5539832,
+  "lng": 7.5888511,
+  "mieter": [
+   "Salt",
+   "Davidoff"
+  ],
+  "nah": [
+   "Davidoff"
+  ]
+ },
+ "basel|steinenvorstadt|4": {
+  "street": "Steinenvorstadt",
+  "hn": "4",
+  "lat": 47.5538549,
+  "lng": 7.5888446,
+  "mieter": [
+   "mPhone"
+  ],
+  "nah": [
+   "mPhone"
+  ]
+ },
+ "basel|steinenvorstadt|6": {
+  "street": "Steinenvorstadt",
+  "hn": "6",
+  "lat": 47.5537822,
+  "lng": 7.5888432,
+  "mieter": [
+   "Sunrise"
+  ]
+ },
+ "basel|steinenvorstadt|8": {
+  "street": "Steinenvorstadt",
+  "hn": "8",
+  "lat": 47.5537165,
+  "lng": 7.5888413,
+  "mieter": [
+   "Boutique Tresor"
+  ],
+  "nah": [
+   "Boutique Tresor"
+  ]
+ },
+ "basel|steinenvorstadt|14": {
+  "street": "Steinenvorstadt",
+  "hn": "14",
+  "lat": 47.5534044,
+  "lng": 7.5888316,
+  "mieter": [
+   "Iwb"
+  ],
+  "nah": [
+   "Iwb"
+  ]
+ },
+ "basel|steinenvorstadt|16": {
+  "street": "Steinenvorstadt",
+  "hn": "16",
+  "lat": 47.5533342,
+  "lng": 7.5888121,
+  "mieter": [
+   "Weedy"
+  ],
+  "nah": [
+   "Weedy"
+  ]
+ },
+ "basel|steinenvorstadt|18": {
+  "street": "Steinenvorstadt",
+  "hn": "18",
+  "lat": 47.5532791,
+  "lng": 7.5887922,
+  "mieter": [
+   "Morgan"
+  ],
+  "nah": [
+   "Morgan"
+  ]
+ },
+ "basel|steinenvorstadt|20": {
+  "street": "Steinenvorstadt",
+  "hn": "20",
+  "lat": 47.5532212,
+  "lng": 7.5887643,
+  "mieter": [
+   "Phase Eight"
+  ],
+  "nah": [
+   "Phase Eight"
+  ]
+ },
+ "basel|steinenvorstadt|22": {
+  "street": "Steinenvorstadt",
+  "hn": "22",
+  "lat": 47.5531684,
+  "lng": 7.5887376,
+  "mieter": [
+   "Anouk"
+  ],
+  "nah": [
+   "Anouk"
+  ]
+ },
+ "basel|steinenvorstadt|24": {
+  "street": "Steinenvorstadt",
+  "hn": "24",
+  "lat": 47.5530683,
+  "lng": 7.588684,
+  "mieter": []
+ },
+ "basel|steinenvorstadt|26": {
+  "street": "Steinenvorstadt",
+  "hn": "26",
+  "lat": 47.5529652,
+  "lng": 7.5886146,
+  "mieter": [
+   "Espresso",
+   "Silvex 925"
+  ],
+  "nah": [
+   "Espresso",
+   "Silvex 925"
+  ]
+ },
+ "basel|steinenvorstadt|30": {
+  "street": "Steinenvorstadt",
+  "hn": "30",
+  "lat": 47.5528537,
+  "lng": 7.5885217,
+  "mieter": [
+   "Holy Cow!"
+  ]
+ },
+ "basel|steinenvorstadt|38": {
+  "street": "Steinenvorstadt",
+  "hn": "38",
+  "lat": 47.552442,
+  "lng": 7.5881523,
+  "mieter": []
+ },
+ "basel|steinenvorstadt|42": {
+  "street": "Steinenvorstadt",
+  "hn": "42",
+  "lat": 47.5523699,
+  "lng": 7.588077,
+  "mieter": [
+   "Amigos Tapas"
+  ],
+  "nah": [
+   "Amigos Tapas"
+  ]
+ },
+ "basel|steinenvorstadt|48": {
+  "street": "Steinenvorstadt",
+  "hn": "48",
+  "lat": 47.5522907,
+  "lng": 7.5880034,
+  "mieter": []
+ },
+ "basel|steinenvorstadt|50": {
+  "street": "Steinenvorstadt",
+  "hn": "50",
+  "lat": 47.552229,
+  "lng": 7.5879454,
+  "mieter": [
+   "Bücheli"
+  ]
+ },
+ "basel|steinenvorstadt|54": {
+  "street": "Steinenvorstadt",
+  "hn": "54",
+  "lat": 47.5521238,
+  "lng": 7.587847,
+  "mieter": [
+   "Soho Bar"
+  ],
+  "nah": [
+   "Soho Bar"
+  ]
+ },
+ "basel|steinenvorstadt|56": {
+  "street": "Steinenvorstadt",
+  "hn": "56",
+  "lat": 47.5520213,
+  "lng": 7.5877541,
+  "mieter": [
+   "Noma"
+  ],
+  "nah": [
+   "Noma"
+  ]
+ },
+ "basel|steinenvorstadt|58": {
+  "street": "Steinenvorstadt",
+  "hn": "58",
+  "lat": 47.5518881,
+  "lng": 7.5876389,
+  "mieter": [
+   "El Mexicano"
+  ],
+  "nah": [
+   "El Mexicano"
+  ]
+ },
+ "basel|steinenvorstadt|60": {
+  "street": "Steinenvorstadt",
+  "hn": "60",
+  "lat": 47.5518402,
+  "lng": 7.5875877,
+  "mieter": [
+   "Restaurant Pizzeria Margherita",
+   "Piadina Bar"
+  ]
+ },
+ "basel|steinenvorstadt|62": {
+  "street": "Steinenvorstadt",
+  "hn": "62",
+  "lat": 47.5517394,
+  "lng": 7.5875239,
+  "mieter": [
+   "Baur Store"
+  ],
+  "nah": [
+   "Baur Store"
+  ]
+ },
+ "basel|steinenvorstadt|37": {
+  "street": "Steinenvorstadt",
+  "hn": "37",
+  "lat": 47.5529032,
+  "lng": 7.5888254,
+  "mieter": [
+   "Oscar One",
+   "Union Diner"
+  ],
+  "nah": [
+   "Union Diner"
+  ]
+ },
+ "basel|gerbergasse|80": {
+  "street": "Gerbergasse",
+  "hn": "80",
+  "lat": 47.5550335,
+  "lng": 7.5887241,
+  "mieter": [
+   "Döner Stop"
+  ]
+ },
+ "basel|freie strasse|17": {
+  "street": "Freie Strasse",
+  "hn": "17",
+  "lat": 47.5573494,
+  "lng": 7.5890328,
+  "mieter": [
+   "Orell Füssli"
+  ]
+ },
+ "basel|steinenvorstadt|11": {
+  "street": "Steinenvorstadt",
+  "hn": "11",
+  "lat": 47.5535618,
+  "lng": 7.5890333,
+  "mieter": [
+   "Foot Locker"
+  ],
+  "nah": [
+   "Foot Locker"
+  ]
+ },
+ "basel|steinenvorstadt|19": {
+  "street": "Steinenvorstadt",
+  "hn": "19",
+  "lat": 47.5533406,
+  "lng": 7.589005,
+  "mieter": [
+   "Spizz & Bomm Frizz"
+  ]
+ },
+ "basel|steinenvorstadt|21": {
+  "street": "Steinenvorstadt",
+  "hn": "21",
+  "lat": 47.5532907,
+  "lng": 7.5889927,
+  "mieter": [
+   "Clochard"
+  ],
+  "nah": [
+   "Clochard"
+  ]
+ },
+ "basel|steinenvorstadt|23": {
+  "street": "Steinenvorstadt",
+  "hn": "23",
+  "lat": 47.5532233,
+  "lng": 7.5889676,
+  "mieter": [
+   "Mister Wong"
+  ],
+  "nah": [
+   "Mister Wong"
+  ]
+ },
+ "basel|steinenvorstadt|25": {
+  "street": "Steinenvorstadt",
+  "hn": "25",
+  "lat": 47.5531741,
+  "lng": 7.5889489,
+  "mieter": [
+   "Hollywood"
+  ],
+  "nah": [
+   "Hollywood"
+  ]
+ },
+ "basel|steinenvorstadt|27": {
+  "street": "Steinenvorstadt",
+  "hn": "27",
+  "lat": 47.5531175,
+  "lng": 7.5889266,
+  "mieter": [
+   "KFC"
+  ],
+  "nah": [
+   "KFC"
+  ]
+ },
+ "basel|steinenvorstadt|29": {
+  "street": "Steinenvorstadt",
+  "hn": "29",
+  "lat": 47.5530562,
+  "lng": 7.5888987,
+  "mieter": [
+   "Black Tap"
+  ],
+  "nah": [
+   "Black Tap"
+  ]
+ },
+ "basel|steinenvorstadt|49": {
+  "street": "Steinenvorstadt",
+  "hn": "49",
+  "lat": 47.5527613,
+  "lng": 7.5886777,
+  "mieter": [
+   "Marionnaud"
+  ]
+ },
+ "basel|steinenvorstadt|5": {
+  "street": "Steinenvorstadt",
+  "hn": "5",
+  "lat": 47.5536738,
+  "lng": 7.5890214,
+  "mieter": [
+   "Jack & Jones"
+  ],
+  "nah": [
+   "Jack & Jones"
+  ]
+ },
+ "basel|steinenvorstadt|51": {
+  "street": "Steinenvorstadt",
+  "hn": "51",
+  "lat": 47.5526999,
+  "lng": 7.588623,
+  "mieter": [
+   "Burger King"
+  ]
+ },
+ "basel|steinenvorstadt|53": {
+  "street": "Steinenvorstadt",
+  "hn": "53",
+  "lat": 47.5526096,
+  "lng": 7.5885401,
+  "mieter": [
+   "Praxis für Allgemeinzahnmedizin und Oralchirurgie Dr. Miriam Merz",
+   "Amorino"
+  ],
+  "nah": [
+   "Amorino"
+  ]
+ },
+ "basel|steinenvorstadt|55": {
+  "street": "Steinenvorstadt",
+  "hn": "55",
+  "lat": 47.5524457,
+  "lng": 7.5883901,
+  "mieter": [
+   "Küchlin"
+  ],
+  "nah": [
+   "Küchlin"
+  ]
+ },
+ "basel|steinenvorstadt|65": {
+  "street": "Steinenvorstadt",
+  "hn": "65",
+  "lat": 47.5522427,
+  "lng": 7.5881863,
+  "mieter": [
+   "l'tur",
+   "Pathé"
+  ],
+  "nah": [
+   "Pathé"
+  ]
+ },
+ "basel|steinenvorstadt|67": {
+  "street": "Steinenvorstadt",
+  "hn": "67",
+  "lat": 47.5521481,
+  "lng": 7.5880821,
+  "mieter": []
+ },
+ "basel|steinenvorstadt|69": {
+  "street": "Steinenvorstadt",
+  "hn": "69",
+  "lat": 47.552068,
+  "lng": 7.5880022,
+  "mieter": []
+ },
+ "basel|steinenvorstadt|71": {
+  "street": "Steinenvorstadt",
+  "hn": "71",
+  "lat": 47.5520103,
+  "lng": 7.5879479,
+  "mieter": [
+   "Molino"
+  ]
+ },
+ "basel|steinenvorstadt|73": {
+  "street": "Steinenvorstadt",
+  "hn": "73",
+  "lat": 47.5519188,
+  "lng": 7.5878648,
+  "mieter": [
+   "Emto",
+   "Ajlo's Hair & Beauty Salon",
+   "Spilag"
+  ],
+  "nah": [
+   "Emto",
+   "Ajlo's Hair & Beauty Salon",
+   "Spilag"
+  ]
+ },
+ "basel|steinenvorstadt|75": {
+  "street": "Steinenvorstadt",
+  "hn": "75",
+  "lat": 47.5518381,
+  "lng": 7.5877851,
+  "mieter": [
+   "Steinen Apotheke"
+  ],
+  "nah": [
+   "Steinen Apotheke"
+  ]
+ },
+ "basel|gerbergasse|48": {
+  "street": "Gerbergasse",
+  "hn": "48",
+  "lat": 47.5559157,
+  "lng": 7.5884745,
+  "mieter": [
+   "Palais des Thés",
+   "Marty's Peepstore",
+   "Mei Mei",
+   "Presser",
+   "Schluggstube",
+   "Hot"
+  ],
+  "nah": [
+   "Marty's Peepstore",
+   "Mei Mei",
+   "Presser",
+   "Schluggstube",
+   "Hot"
+  ]
+ },
+ "basel|gerbergasse|55": {
+  "street": "Gerbergasse",
+  "hn": "55",
+  "lat": 47.5557049,
+  "lng": 7.5888054,
+  "mieter": [
+   "Visilab"
+  ]
+ },
+ "basel|gerbergasse|35": {
+  "street": "Gerbergasse",
+  "hn": "35",
+  "lat": 47.556147,
+  "lng": 7.5886907,
+  "mieter": [
+   "Rework"
+  ]
+ },
+ "basel|eisengasse|7": {
+  "street": "Eisengasse",
+  "hn": "7",
+  "lat": 47.559333,
+  "lng": 7.5883988,
+  "mieter": [
+   "Bookbinders Design",
+   "Advokatur Speiser",
+   "Euregia Consultants"
+  ],
+  "nah": [
+   "Advokatur Speiser",
+   "Euregia Consultants"
+  ]
+ },
+ "basel|gerbergasse|4": {
+  "street": "Gerbergasse",
+  "hn": "4",
+  "lat": 47.5574645,
+  "lng": 7.5878735,
+  "mieter": [
+   "Coop City"
+  ]
+ },
+ "basel|gerbergasse|81": {
+  "street": "Gerbergasse",
+  "hn": "81",
+  "lat": 47.5551973,
+  "lng": 7.589085,
+  "mieter": [
+   "Manger&Boire",
+   "Stöckli"
+  ],
+  "nah": [
+   "Stöckli"
+  ]
+ },
+ "basel|marktplatz|18": {
+  "street": "Marktplatz",
+  "hn": "18",
+  "lat": 47.5580014,
+  "lng": 7.5875005,
+  "mieter": [
+   "McDonald's",
+   "Läderach",
+   "Schiesser"
+  ],
+  "nah": [
+   "Schiesser"
+  ]
+ },
+ "basel|gerbergasse|82": {
+  "street": "Gerbergasse",
+  "hn": "82",
+  "lat": 47.5549968,
+  "lng": 7.588734,
+  "mieter": []
+ },
+ "basel|freie strasse|81": {
+  "street": "Freie Strasse",
+  "hn": "81",
+  "lat": 47.5553474,
+  "lng": 7.5908556,
+  "mieter": [
+   "Marc Cain",
+   "Falconeri",
+   "Weekend Max Mara",
+   "Institut für Medizin und Kommunikation",
+   "Schweizerische Ophthalmologische Gesellschaft",
+   "Schweizerische Gesellschaft für Intensivmedizin"
+  ],
+  "nah": [
+   "Falconeri",
+   "Weekend Max Mara",
+   "Institut für Medizin und Kommunikation",
+   "Schweizerische Ophthalmologische Gesellschaft",
+   "Schweizerische Gesellschaft für Intensivmedizin"
+  ]
+ },
+ "basel|gerbergasse|51": {
+  "street": "Gerbergasse",
+  "hn": "51",
+  "lat": 47.5558292,
+  "lng": 7.5887504,
+  "mieter": [
+   "Confiserie Bachmann",
+   "Asmaa Häfliger"
+  ],
+  "nah": [
+   "Asmaa Häfliger"
+  ]
+ },
+ "basel|freie strasse|37": {
+  "street": "Freie Strasse",
+  "hn": "37",
+  "lat": 47.5566658,
+  "lng": 7.5897819,
+  "mieter": []
+ },
+ "basel|marktplatz|16": {
+  "street": "Marktplatz",
+  "hn": "16",
+  "lat": 47.5576405,
+  "lng": 7.5880859,
+  "mieter": []
+ },
+ "basel|marktplatz|19": {
+  "street": "Marktplatz",
+  "hn": "19",
+  "lat": 47.5580838,
+  "lng": 7.5873866,
+  "mieter": [
+   "Confiserie Schiesser Tea-Room"
+  ]
+ },
+ "basel|steinenvorstadt|1a": {
+  "street": "Steinenvorstadt",
+  "hn": "1a",
+  "lat": 47.5538508,
+  "lng": 7.5890838,
+  "mieter": [
+   "Hans im Glück",
+   "La Sosta",
+   "Vero Moda"
+  ],
+  "nah": [
+   "La Sosta",
+   "Vero Moda"
+  ]
+ },
+ "basel|marktplatz|9": {
+  "street": "Marktplatz",
+  "hn": "9",
+  "lat": 47.5581295,
+  "lng": 7.5881165,
+  "mieter": [
+   "Rathaus Basel"
+  ],
+  "nah": [
+   "Rathaus Basel"
+  ]
+ },
+ "basel|gerbergasse|20": {
+  "street": "Gerbergasse",
+  "hn": "20",
+  "lat": 47.5570676,
+  "lng": 7.5881175,
+  "mieter": [
+   "TUI",
+   "Sahara"
+  ],
+  "nah": [
+   "Sahara"
+  ]
+ },
+ "basel|gerbergasse|26": {
+  "street": "Gerbergasse",
+  "hn": "26",
+  "lat": 47.5568185,
+  "lng": 7.5882447,
+  "mieter": [
+   "Kuoni",
+   "Schlossberg"
+  ],
+  "nah": [
+   "Schlossberg"
+  ]
+ },
+ "basel|gerbergasse|2": {
+  "street": "Gerbergasse",
+  "hn": "2",
+  "lat": 47.5576325,
+  "lng": 7.5878161,
+  "mieter": [
+   "Flying Tiger Copenhagen",
+   "Coop Restaurant"
+  ],
+  "nah": [
+   "Coop Restaurant"
+  ]
+ },
+ "basel|gerbergasse|62": {
+  "street": "Gerbergasse",
+  "hn": "62",
+  "lat": 47.5555912,
+  "lng": 7.5886793,
+  "mieter": [
+   "Schminkbar"
+  ],
+  "nah": [
+   "Schminkbar"
+  ]
+ },
+ "basel|gerbergasse|40": {
+  "street": "Gerbergasse",
+  "hn": "40",
+  "lat": 47.5564181,
+  "lng": 7.5884932,
+  "mieter": [
+   "Burgermeister"
+  ],
+  "nah": [
+   "Burgermeister"
+  ]
+ },
+ "basel|gerbergasse|54": {
+  "street": "Gerbergasse",
+  "hn": "54",
+  "lat": 47.5557463,
+  "lng": 7.5886371,
+  "mieter": [
+   "Cute"
+  ],
+  "nah": [
+   "Cute"
+  ]
+ },
+ "basel|gerbergasse|44": {
+  "street": "Gerbergasse",
+  "hn": "44",
+  "lat": 47.5562067,
+  "lng": 7.5885294,
+  "mieter": [
+   "Müller"
+  ],
+  "nah": [
+   "Müller"
+  ]
+ },
+ "basel|gerbergasse|66": {
+  "street": "Gerbergasse",
+  "hn": "66",
+  "lat": 47.5555174,
+  "lng": 7.5887115,
+  "mieter": [
+   "Nile",
+   "Kannika's Thaimassage",
+   "Café barfi"
+  ],
+  "nah": [
+   "Nile",
+   "Kannika's Thaimassage",
+   "Café barfi"
+  ]
+ },
+ "basel|gerbergasse|56": {
+  "street": "Gerbergasse",
+  "hn": "56",
+  "lat": 47.5556802,
+  "lng": 7.588652,
+  "mieter": [
+   "Perosa",
+   "The Gift Palace"
+  ],
+  "nah": [
+   "Perosa",
+   "The Gift Palace"
+  ]
+ },
+ "basel|gerbergasse|42": {
+  "street": "Gerbergasse",
+  "hn": "42",
+  "lat": 47.556331,
+  "lng": 7.5885206,
+  "mieter": [
+   "Tara Style",
+   "Einzelstück",
+   "Egoissima",
+   "Bodyzone"
+  ],
+  "nah": [
+   "Einzelstück",
+   "Egoissima",
+   "Bodyzone"
+  ]
+ },
+ "basel|gerbergasse|60": {
+  "street": "Gerbergasse",
+  "hn": "60",
+  "lat": 47.5556186,
+  "lng": 7.5886678,
+  "mieter": [
+   "La Sofra"
+  ],
+  "nah": [
+   "La Sofra"
+  ]
+ },
+ "basel|gerbergasse|52": {
+  "street": "Gerbergasse",
+  "hn": "52",
+  "lat": 47.5557922,
+  "lng": 7.5886284,
+  "mieter": [
+   "Edelstein-Mine"
+  ],
+  "nah": [
+   "Edelstein-Mine"
+  ]
+ },
+ "basel|gerbergasse|58": {
+  "street": "Gerbergasse",
+  "hn": "58",
+  "lat": 47.5556538,
+  "lng": 7.5886567,
+  "mieter": [
+   "Gran Gelato"
+  ]
+ },
+ "basel|gerbergasse|43": {
+  "street": "Gerbergasse",
+  "hn": "43",
+  "lat": 47.555984,
+  "lng": 7.5886898,
+  "mieter": [
+   "Niederberger"
+  ],
+  "nah": [
+   "Niederberger"
+  ]
+ },
+ "basel|gerbergasse|85": {
+  "street": "Gerbergasse",
+  "hn": "85",
+  "lat": 47.5551018,
+  "lng": 7.5891044,
+  "mieter": []
+ },
+ "basel|gerbergasse|91": {
+  "street": "Gerbergasse",
+  "hn": "91",
+  "lat": 47.5550435,
+  "lng": 7.5889173,
+  "mieter": []
+ },
+ "basel|gerbergasse|78": {
+  "street": "Gerbergasse",
+  "hn": "78",
+  "lat": 47.5550824,
+  "lng": 7.5887665,
+  "mieter": [
+   "Piadina Bar"
+  ]
+ },
+ "basel|gerbergasse|57": {
+  "street": "Gerbergasse",
+  "hn": "57",
+  "lat": 47.5556545,
+  "lng": 7.588782,
+  "mieter": [
+   "Läckerli Huus"
+  ],
+  "nah": [
+   "Läckerli Huus"
+  ]
+ },
+ "basel|gerbergasse|39": {
+  "street": "Gerbergasse",
+  "hn": "39",
+  "lat": 47.5560855,
+  "lng": 7.5886682,
+  "mieter": [
+   "Calida"
+  ],
+  "nah": [
+   "Calida"
+  ]
+ },
+ "basel|gerbergasse|74": {
+  "street": "Gerbergasse",
+  "hn": "74",
+  "lat": 47.5551894,
+  "lng": 7.588629,
+  "mieter": [
+   "Anatolia"
+  ],
+  "nah": [
+   "Anatolia"
+  ]
+ },
+ "basel|gerbergasse|67": {
+  "street": "Gerbergasse",
+  "hn": "67",
+  "lat": 47.5554372,
+  "lng": 7.5888747,
+  "mieter": [
+   "Amplifon"
+  ]
+ },
+ "basel|gerbergasse|63": {
+  "street": "Gerbergasse",
+  "hn": "63",
+  "lat": 47.5554967,
+  "lng": 7.5888474,
+  "mieter": [
+   "Individuel"
+  ]
+ },
+ "basel|gerbergasse|41": {
+  "street": "Gerbergasse",
+  "hn": "41",
+  "lat": 47.5560426,
+  "lng": 7.588678,
+  "mieter": [
+   "Le Creuset"
+  ]
+ },
+ "basel|gerbergasse|29": {
+  "street": "Gerbergasse",
+  "hn": "29",
+  "lat": 47.5563508,
+  "lng": 7.5886528,
+  "mieter": []
+ },
+ "basel|gerbergasse|89": {
+  "street": "Gerbergasse",
+  "hn": "89",
+  "lat": 47.5551483,
+  "lng": 7.5889635,
+  "mieter": [
+   "Seiler Juwelier"
+  ]
+ },
+ "basel|gerbergasse|75": {
+  "street": "Gerbergasse",
+  "hn": "75",
+  "lat": 47.555284,
+  "lng": 7.5889552,
+  "mieter": [
+   "Caraco"
+  ],
+  "nah": [
+   "Caraco"
+  ]
+ },
+ "basel|gerbergasse|79": {
+  "street": "Gerbergasse",
+  "hn": "79",
+  "lat": 47.5552294,
+  "lng": 7.5890045,
+  "mieter": [
+   "Bonne Maman"
+  ],
+  "nah": [
+   "Bonne Maman"
+  ]
+ },
+ "basel|gerbergasse|65": {
+  "street": "Gerbergasse",
+  "hn": "65",
+  "lat": 47.5554669,
+  "lng": 7.5888606,
+  "mieter": [
+   "Meyer Schmuck Design"
+  ],
+  "nah": [
+   "Meyer Schmuck Design"
+  ]
+ },
+ "basel|gerbergasse|83": {
+  "street": "Gerbergasse",
+  "hn": "83",
+  "lat": 47.5550871,
+  "lng": 7.5891409,
+  "mieter": [
+   "Modfreak"
+  ],
+  "nah": [
+   "Modfreak"
+  ]
+ },
+ "basel|gerbergasse|87": {
+  "street": "Gerbergasse",
+  "hn": "87",
+  "lat": 47.5551195,
+  "lng": 7.5890547,
+  "mieter": [
+   "ZaZaa"
+  ]
+ },
+ "basel|gerbergasse|59": {
+  "street": "Gerbergasse",
+  "hn": "59",
+  "lat": 47.5555951,
+  "lng": 7.5888176,
+  "mieter": [
+   "Brändli"
+  ]
+ },
+ "basel|gerbergasse|71": {
+  "street": "Gerbergasse",
+  "hn": "71",
+  "lat": 47.5553659,
+  "lng": 7.5889131,
+  "mieter": []
+ },
+ "basel|gerbergasse|73": {
+  "street": "Gerbergasse",
+  "hn": "73",
+  "lat": 47.5553182,
+  "lng": 7.5889349,
+  "mieter": [
+   "Nooch"
+  ]
+ },
+ "basel|marktplatz|21": {
+  "street": "Marktplatz",
+  "hn": "21",
+  "lat": 47.5581327,
+  "lng": 7.587449,
+  "mieter": [
+   "Davidoff of Geneva",
+   "Basler Stadtmarkt"
+  ],
+  "nah": [
+   "Basler Stadtmarkt"
+  ]
+ },
+ "basel|marktplatz|30a": {
+  "street": "Marktplatz",
+  "hn": "30a",
+  "lat": 47.5583312,
+  "lng": 7.5873047,
+  "mieter": [
+   "Fachstelle Gleichstellung",
+   "Steuerrekurskommission",
+   "Aussenbeziehungen und Standortmarketing Basel-Stadt",
+   "Personalrekurskommission",
+   "Immobilien Basel-Stadt"
+  ]
+ },
+ "basel|eisengasse|8": {
+  "street": "Eisengasse",
+  "hn": "8",
+  "lat": 47.5593848,
+  "lng": 7.5880554,
+  "mieter": []
+ },
+ "basel|eisengasse|14": {
+  "street": "Eisengasse",
+  "hn": "14",
+  "lat": 47.559101,
+  "lng": 7.5876847,
+  "mieter": [
+   "Bongénie"
+  ]
+ },
+ "basel|freie strasse|107": {
+  "street": "Freie Strasse",
+  "hn": "107",
+  "lat": 47.5543301,
+  "lng": 7.5918305,
+  "mieter": [
+   "Hermès",
+   "Julius Bär"
+  ],
+  "nah": [
+   "Hermès",
+   "Julius Bär"
+  ]
+ },
+ "basel|freie strasse|83": {
+  "street": "Freie Strasse",
+  "hn": "83",
+  "lat": 47.5551351,
+  "lng": 7.5911277,
+  "mieter": [
+   "Breitling"
+  ],
+  "nah": [
+   "Breitling"
+  ]
+ },
+ "basel|freie strasse|109": {
+  "street": "Freie Strasse",
+  "hn": "109",
+  "lat": 47.5542229,
+  "lng": 7.5919036,
+  "mieter": [
+   "Perosa",
+   "Brändli"
+  ],
+  "nah": [
+   "Perosa",
+   "Brändli"
+  ]
+ },
+ "basel|freie strasse|103": {
+  "street": "Freie Strasse",
+  "hn": "103",
+  "lat": 47.5545637,
+  "lng": 7.5916505,
+  "mieter": [
+   "Beldona"
+  ]
+ },
+ "basel|freie strasse|93": {
+  "street": "Freie Strasse",
+  "hn": "93",
+  "lat": 47.5549181,
+  "lng": 7.5913501,
+  "mieter": [
+   "Cinnamood"
+  ]
+ },
+ "basel|freie strasse|105": {
+  "street": "Freie Strasse",
+  "hn": "105",
+  "lat": 47.5544624,
+  "lng": 7.5917281,
+  "mieter": []
+ },
+ "basel|freie strasse|97": {
+  "street": "Freie Strasse",
+  "hn": "97",
+  "lat": 47.5548655,
+  "lng": 7.5915017,
+  "mieter": [
+   "L'Occitane"
+  ]
+ },
+ "basel|freie strasse|34": {
+  "street": "Freie Strasse",
+  "hn": "34",
+  "lat": 47.5564802,
+  "lng": 7.5896731,
+  "mieter": [
+   "Sunrise"
+  ]
+ },
+ "basel|freie strasse|62": {
+  "street": "Freie Strasse",
+  "hn": "62",
+  "lat": 47.5554195,
+  "lng": 7.5905999,
+  "mieter": [
+   "BackWerk",
+   "Wingo",
+   "Hair Care by Paa",
+   "City Nails"
+  ],
+  "nah": [
+   "BackWerk",
+   "Wingo",
+   "Hair Care by Paa",
+   "City Nails"
+  ]
+ },
+ "basel|freie strasse|44": {
+  "street": "Freie Strasse",
+  "hn": "44",
+  "lat": 47.5559753,
+  "lng": 7.5901586,
+  "mieter": [
+   "Blue Lemon"
+  ]
+ },
+ "basel|freie strasse|28": {
+  "street": "Freie Strasse",
+  "hn": "28",
+  "lat": 47.5566195,
+  "lng": 7.5895375,
+  "mieter": [
+   "Ochsner Shoes"
+  ],
+  "nah": [
+   "Ochsner Shoes"
+  ]
+ },
+ "basel|freie strasse|8": {
+  "street": "Freie Strasse",
+  "hn": "8",
+  "lat": 47.557398,
+  "lng": 7.5886382,
+  "mieter": [
+   "Lush"
+  ]
+ },
+ "basel|gerbergasse|3": {
+  "street": "Gerbergasse",
+  "hn": "3",
+  "lat": 47.55744,
+  "lng": 7.588119,
+  "mieter": [
+   "Graf Genuss",
+   "Kohinoor"
+  ],
+  "nah": [
+   "Graf Genuss",
+   "Kohinoor"
+  ]
+ },
+ "basel|freie strasse|42": {
+  "street": "Freie Strasse",
+  "hn": "42",
+  "lat": 47.5560499,
+  "lng": 7.5900893,
+  "mieter": [
+   "ONLY"
+  ],
+  "nah": [
+   "ONLY"
+  ]
+ },
+ "basel|freie strasse|32": {
+  "street": "Freie Strasse",
+  "hn": "32",
+  "lat": 47.5565623,
+  "lng": 7.5895932,
+  "mieter": [
+   "Søstrene Grene",
+   "Fatissa",
+   "AppTec360"
+  ],
+  "nah": [
+   "Fatissa",
+   "AppTec360"
+  ]
+ },
+ "basel|gerbergasse|13": {
+  "street": "Gerbergasse",
+  "hn": "13",
+  "lat": 47.5570358,
+  "lng": 7.5883264,
+  "mieter": []
+ },
+ "basel|freie strasse|54": {
+  "street": "Freie Strasse",
+  "hn": "54",
+  "lat": 47.5556956,
+  "lng": 7.5903831,
+  "mieter": [
+   "Visilab"
+  ]
+ },
+ "basel|freie strasse|6": {
+  "street": "Freie Strasse",
+  "hn": "6",
+  "lat": 47.5574407,
+  "lng": 7.5885869,
+  "mieter": [
+   "Intimissimi"
+  ],
+  "nah": [
+   "Intimissimi"
+  ]
+ },
+ "basel|gerbergasse|1": {
+  "street": "Gerbergasse",
+  "hn": "1",
+  "lat": 47.5575905,
+  "lng": 7.588026,
+  "mieter": [
+   "Safran-Zunft"
+  ]
+ },
+ "basel|freie strasse|26": {
+  "street": "Freie Strasse",
+  "hn": "26",
+  "lat": 47.5566846,
+  "lng": 7.5894744,
+  "mieter": [
+   "H&M"
+  ]
+ },
+ "basel|freie strasse|36": {
+  "street": "Freie Strasse",
+  "hn": "36",
+  "lat": 47.5563929,
+  "lng": 7.589759,
+  "mieter": [
+   "Zara"
+  ]
+ },
+ "basel|freie strasse|50": {
+  "street": "Freie Strasse",
+  "hn": "50",
+  "lat": 47.5558878,
+  "lng": 7.5902313,
+  "mieter": []
+ },
+ "basel|freie strasse|52": {
+  "street": "Freie Strasse",
+  "hn": "52",
+  "lat": 47.5557595,
+  "lng": 7.5903329,
+  "mieter": [
+   "Interdiscount"
+  ]
+ },
+ "basel|freie strasse|4": {
+  "street": "Freie Strasse",
+  "hn": "4",
+  "lat": 47.5574681,
+  "lng": 7.5885537,
+  "mieter": [
+   "yallo",
+   "Leica",
+   "Fotohaus Wolf"
+  ]
+ },
+ "basel|gerbergasse|11": {
+  "street": "Gerbergasse",
+  "hn": "11",
+  "lat": 47.5572023,
+  "lng": 7.5882408,
+  "mieter": [
+   "E. E. Zunft zu Safran",
+   "Wilhelm",
+   "Du Pareil"
+  ],
+  "nah": [
+   "E. E. Zunft zu Safran",
+   "Wilhelm",
+   "Du Pareil"
+  ]
+ },
+ "basel|gerbergasse|5": {
+  "street": "Gerbergasse",
+  "hn": "5",
+  "lat": 47.5573854,
+  "lng": 7.5881475,
+  "mieter": [
+   "Import Parfumerie"
+  ]
+ },
+ "basel|freie strasse|38": {
+  "street": "Freie Strasse",
+  "hn": "38",
+  "lat": 47.5562718,
+  "lng": 7.5898761,
+  "mieter": [
+   "Ultraschallpraxis Freie Strasse",
+   "Genesis"
+  ]
+ },
+ "basel|eisengasse|9": {
+  "street": "Eisengasse",
+  "hn": "9",
+  "lat": 47.5593029,
+  "lng": 7.5882512,
+  "mieter": []
+ },
+ "basel|freie strasse|15": {
+  "street": "Freie Strasse",
+  "hn": "15",
+  "lat": 47.5574174,
+  "lng": 7.5888309,
+  "mieter": [
+   "Thomas Sabo",
+   "Tezenis"
+  ],
+  "nah": [
+   "Tezenis"
+  ]
+ },
+ "basel|freie strasse|9": {
+  "street": "Freie Strasse",
+  "hn": "9",
+  "lat": 47.5575222,
+  "lng": 7.5886961,
+  "mieter": [
+   "Etam"
+  ],
+  "nah": [
+   "Etam"
+  ]
+ },
+ "basel|eisengasse|1": {
+  "street": "Eisengasse",
+  "hn": "1",
+  "lat": 47.5595149,
+  "lng": 7.5888122,
+  "mieter": [
+   "Tonja"
+  ],
+  "nah": [
+   "Tonja"
+  ]
+ },
+ "basel|freie strasse|11": {
+  "street": "Freie Strasse",
+  "hn": "11",
+  "lat": 47.5574649,
+  "lng": 7.5887698,
+  "mieter": [
+   "Rituals"
+  ]
+ },
+ "basel|freie strasse|23": {
+  "street": "Freie Strasse",
+  "hn": "23",
+  "lat": 47.5572253,
+  "lng": 7.5890941,
+  "mieter": [
+   "Pfister"
+  ],
+  "nah": [
+   "Pfister"
+  ]
+ },
+ "basel|marktplatz|2": {
+  "street": "Marktplatz",
+  "hn": "2",
+  "lat": 47.5585884,
+  "lng": 7.587749,
+  "mieter": [
+   "Fielmann",
+   "Magazine zum Globus"
+  ]
+ },
+ "basel|freie strasse|3": {
+  "street": "Freie Strasse",
+  "hn": "3",
+  "lat": 47.5576306,
+  "lng": 7.5885626,
+  "mieter": []
+ },
+ "basel|eisengasse|17": {
+  "street": "Eisengasse",
+  "hn": "17",
+  "lat": 47.5587777,
+  "lng": 7.5877024,
+  "mieter": []
+ },
+ "basel|freie strasse|5": {
+  "street": "Freie Strasse",
+  "hn": "5",
+  "lat": 47.5575979,
+  "lng": 7.5886039,
+  "mieter": []
+ },
+ "basel|freie strasse|45": {
+  "street": "Freie Strasse",
+  "hn": "45",
+  "lat": 47.5563271,
+  "lng": 7.5900131,
+  "mieter": [
+   "Santo Giampà Hairstylist",
+   "Multiplikator",
+   "Madeleine Mägli",
+   "Tally Weijl"
+  ],
+  "nah": [
+   "Santo Giampà Hairstylist",
+   "Multiplikator",
+   "Madeleine Mägli",
+   "Tally Weijl"
+  ]
+ },
+ "basel|freie strasse|47": {
+  "street": "Freie Strasse",
+  "hn": "47",
+  "lat": 47.556276,
+  "lng": 7.5900637,
+  "mieter": [
+   "Apple Store"
+  ]
+ },
+ "basel|freie strasse|59": {
+  "street": "Freie Strasse",
+  "hn": "59",
+  "lat": 47.5559125,
+  "lng": 7.5903937,
+  "mieter": [
+   "Mango",
+   "Kosmetik S. Thoma"
+  ],
+  "nah": [
+   "Mango",
+   "Kosmetik S. Thoma"
+  ]
+ },
+ "basel|freie strasse|53": {
+  "street": "Freie Strasse",
+  "hn": "53",
+  "lat": 47.5560299,
+  "lng": 7.5902945,
+  "mieter": [
+   "Ochsner Sport"
+  ]
+ },
+ "basel|freie strasse|90": {
+  "street": "Freie Strasse",
+  "hn": "90",
+  "lat": 47.5540491,
+  "lng": 7.5918486,
+  "mieter": [
+   "The North Face"
+  ],
+  "nah": [
+   "The North Face"
+  ]
+ },
+ "basel|freie strasse|74": {
+  "street": "Freie Strasse",
+  "hn": "74",
+  "lat": 47.5547469,
+  "lng": 7.591284,
+  "mieter": [
+   "Trois Pommes"
+  ]
+ },
+ "basel|freie strasse|84": {
+  "street": "Freie Strasse",
+  "hn": "84",
+  "lat": 47.5544498,
+  "lng": 7.5915485,
+  "mieter": [
+   "PV Computing",
+   "Cale Immobilien",
+   "Vaga Treuhand",
+   "Kohler Herrenmode"
+  ],
+  "nah": [
+   "PV Computing",
+   "Cale Immobilien",
+   "Vaga Treuhand",
+   "Kohler Herrenmode"
+  ]
+ },
+ "basel|freie strasse|70": {
+  "street": "Freie Strasse",
+  "hn": "70",
+  "lat": 47.5549381,
+  "lng": 7.5910857,
+  "mieter": [
+   "COS"
+  ]
+ },
+ "basel|freie strasse|72": {
+  "street": "Freie Strasse",
+  "hn": "72",
+  "lat": 47.55485,
+  "lng": 7.5911848,
+  "mieter": [
+   "Max Mara"
+  ],
+  "nah": [
+   "Max Mara"
+  ]
+ },
+ "basel|freie strasse|3-5": {
+  "street": "Freie Strasse",
+  "hn": "3-5",
+  "lat": 47.5576399,
+  "lng": 7.5886267,
+  "mieter": [
+   "PKZ"
+  ]
+ },
+ "basel|freie strasse|18": {
+  "street": "Freie Strasse",
+  "hn": "18",
+  "lat": 47.5569751,
+  "lng": 7.5890826,
+  "mieter": [
+   "Nespresso"
+  ]
+ },
+ "basel|eisengasse|11": {
+  "street": "Eisengasse",
+  "hn": "11",
+  "lat": 47.5592568,
+  "lng": 7.5881363,
+  "mieter": [
+   "Bolia"
+  ]
+ },
+ "basel|freie strasse|16": {
+  "street": "Freie Strasse",
+  "hn": "16",
+  "lat": 47.5571577,
+  "lng": 7.5889528,
+  "mieter": [
+   "Pandora"
+  ],
+  "nah": [
+   "Pandora"
+  ]
+ },
+ "basel|freie strasse|14": {
+  "street": "Freie Strasse",
+  "hn": "14",
+  "lat": 47.5571892,
+  "lng": 7.5889119,
+  "mieter": []
+ },
+ "basel|gerbergasse|19": {
+  "street": "Gerbergasse",
+  "hn": "19",
+  "lat": 47.5567331,
+  "lng": 7.5885535,
+  "mieter": []
+ },
+ "basel|gerbergasse|17": {
+  "street": "Gerbergasse",
+  "hn": "17",
+  "lat": 47.5569367,
+  "lng": 7.5883915,
+  "mieter": []
+ },
+ "basel|gerbergasse|15": {
+  "street": "Gerbergasse",
+  "hn": "15",
+  "lat": 47.5570365,
+  "lng": 7.5885459,
+  "mieter": []
+ }
+}

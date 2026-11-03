@@ -38,11 +38,17 @@
   "stadt": "Basel",
   "ort": "Basel",
   "radius": 1300,
-  "strassen": [],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "strassen": [
+   "Freie Strasse",
+   "Marktplatz",
+   "Eisengasse",
+   "Gerbergasse",
+   "Steinenvorstadt"
+  ],
+  "strassen_ok": true,
+  "letzter_lauf": "2026-11-03",
+  "eigentuemer_quelle": "MapBS Eigentumsauskunft (Kaito einzeln, 10/Tag); 2 aus öffentlichen Quellen",
+  "offen": "205"
  },
  {
   "kanton": "BE",
