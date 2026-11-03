@@ -20,10 +20,21 @@ def zentrum(gemeinde):
     if not hits: raise SystemExit(f"Ort {gemeinde} nicht gefunden")
     h = hits[0]; return float(h["lat"]), float(h["lon"]), h["display_name"]
 
+def _curl(ep, q):
+    import subprocess
+    r = subprocess.run(["curl", "-s", "--max-time", "180", "-A", UA["User-Agent"], "-X", "POST", ep, "--data-urlencode", "data=" + q],
+                       capture_output=True, text=True)
+    return json.loads(r.stdout)
+
 def overpass(q):
-    for ep in EPS:
-        try: return get(ep, urllib.parse.urlencode({"data": q}).encode())
-        except Exception as e: err = e; time.sleep(3)
+    """Python 3.9 (LibreSSL) bricht bei overpass.osm.ch sporadisch mit SSL-Handshake ab → Wiederholen, dann curl."""
+    err = None
+    for versuch in range(4):
+        for ep in EPS:
+            for f in (lambda: get(ep, urllib.parse.urlencode({"data": q}).encode()), lambda: _curl(ep, q)):
+                try: return f()
+                except Exception as e: err = e
+        time.sleep(10 * (versuch + 1))
     raise err
 
 def top(gemeinde, n=5, radius=900):

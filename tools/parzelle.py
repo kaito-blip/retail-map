@@ -14,9 +14,9 @@ def parzelle(adresse, ort):
     e, n = hit["attrs"]["y"], hit["attrs"]["x"]  # geo.admin: y = Ost, x = Nord
     idf = _get("https://api3.geo.admin.ch/rest/services/api/MapServer/identify?geometryType=esriGeometryPoint"
                f"&geometry={e},{n}&sr=2056&layers=all:ch.kantone.cadastralwebmap-farbe&tolerance=0&returnGeometry=false")["results"]
-    if not idf: return {"label": hit["attrs"]["label"], "e": e, "n": n}
+    if not idf: return {"label": re.sub("<[^>]+>", "", hit["attrs"]["label"]), "egid": str(hit["attrs"].get("featureId", "")).split("_")[0], "e": e, "n": n}
     a = idf[0]["attributes"]
-    return {"label": re.sub("<[^>]+>", "", hit["attrs"]["label"]), "kanton": a["ak"], "parzelle": a["number"],
+    return {"label": re.sub("<[^>]+>", "", hit["attrs"]["label"]), "egid": str(hit["attrs"].get("featureId", "")).split("_")[0], "kanton": a["ak"], "parzelle": a["number"],
             "egrid": a["egris_egrid"], "e": e, "n": n, "geoportal": a.get("geoportal_url")}
 
 if __name__ == "__main__":

@@ -55,7 +55,13 @@
   "stadt": "Bern",
   "ort": "Bern",
   "radius": 1100,
-  "strassen": [],
+  "strassen": [
+   "Spitalgasse",
+   "Marktgasse",
+   "Kramgasse",
+   "Gerechtigkeitsgasse",
+   "Münstergasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -66,7 +72,13 @@
   "stadt": "Lausanne",
   "ort": "Lausanne",
   "radius": 1100,
-  "strassen": [],
+  "strassen": [
+   "Rue de Bourg",
+   "Rue Saint-François",
+   "Rue du Pont",
+   "Rue Centrale",
+   "Rue Haldimand"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -77,7 +89,13 @@
   "stadt": "Luzern",
   "ort": "Luzern",
   "radius": 1000,
-  "strassen": [],
+  "strassen": [
+   "Weggisgasse",
+   "Hertensteinstrasse",
+   "Kapellgasse",
+   "Grendelstrasse",
+   "Pilatusstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -88,7 +106,13 @@
   "stadt": "St. Gallen",
   "ort": "St. Gallen",
   "radius": 1000,
-  "strassen": [],
+  "strassen": [
+   "Multergasse",
+   "Marktgasse",
+   "Spisergasse",
+   "Neugasse",
+   "Webergasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -99,7 +123,13 @@
   "stadt": "Lugano",
   "ort": "Lugano",
   "radius": 900,
-  "strassen": [],
+  "strassen": [
+   "Via Nassa",
+   "Via Pessina",
+   "Piazza della Riforma",
+   "Via Pretorio",
+   "Via Luvini"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -110,7 +140,13 @@
   "stadt": "Zug",
   "ort": "Zug",
   "radius": 900,
-  "strassen": [],
+  "strassen": [
+   "Bahnhofstrasse",
+   "Neugasse",
+   "Alpenstrasse",
+   "Baarerstrasse",
+   "Bundesplatz"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -121,7 +157,13 @@
   "stadt": "Aarau",
   "ort": "Aarau",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Bahnhofstrasse",
+   "Igelweid",
+   "Kronengasse",
+   "Rathausgasse",
+   "Vordere Vorstadt"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -132,7 +174,13 @@
   "stadt": "Solothurn",
   "ort": "Solothurn",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Hauptgasse",
+   "Gurzelngasse",
+   "Marktplatz",
+   "Stalden",
+   "Hauptbahnhofstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -143,7 +191,13 @@
   "stadt": "Fribourg",
   "ort": "Fribourg",
   "radius": 900,
-  "strassen": [],
+  "strassen": [
+   "Rue de Romont",
+   "Rue de Lausanne",
+   "Boulevard de Pérolles",
+   "Avenue de la Gare",
+   "Rue du Simplon"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -154,7 +208,13 @@
   "stadt": "Neuchâtel",
   "ort": "Neuchâtel",
   "radius": 900,
-  "strassen": [],
+  "strassen": [
+   "Rue du Seyon",
+   "Rue de l'Hôpital",
+   "Rue du Bassin",
+   "Rue Saint-Maurice",
+   "Rue du Temple-Neuf"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -165,7 +225,13 @@
   "stadt": "Sion",
   "ort": "Sion",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Rue du Grand-Pont",
+   "Rue de Lausanne",
+   "Avenue de la Gare",
+   "Rue des Remparts",
+   "Place du Midi"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -176,7 +242,13 @@
   "stadt": "Chur",
   "ort": "Chur",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Bahnhofstrasse",
+   "Poststrasse",
+   "Obere Gasse",
+   "Untere Gasse",
+   "Quaderstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -187,7 +259,13 @@
   "stadt": "Schaffhausen",
   "ort": "Schaffhausen",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Vordergasse",
+   "Vorstadt",
+   "Fronwagplatz",
+   "Webergasse",
+   "Schwertstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -198,7 +276,13 @@
   "stadt": "Frauenfeld",
   "ort": "Frauenfeld",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Zürcherstrasse",
+   "Rheinstrasse",
+   "Freiestrasse",
+   "Bankplatz",
+   "Promenadenstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -209,7 +293,13 @@
   "stadt": "Liestal",
   "ort": "Liestal",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Rathausstrasse",
+   "Kanonengasse",
+   "Fischmarkt",
+   "Bahnhofplatz",
+   "Wasserturmplatz"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -220,7 +310,13 @@
   "stadt": "Schwyz",
   "ort": "Schwyz",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Herrengasse",
+   "Hauptplatz",
+   "Strehlgasse",
+   "Schmiedgasse",
+   "Postplatz"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -231,7 +327,13 @@
   "stadt": "Altdorf",
   "ort": "Altdorf",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Schmiedgasse",
+   "Tellsgasse",
+   "Hellgasse",
+   "Rathausplatz",
+   "Lehnplatz"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -242,7 +344,13 @@
   "stadt": "Sarnen",
   "ort": "Sarnen",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Marktstrasse",
+   "Lindenstrasse",
+   "Dorfplatz",
+   "Brünigstrasse",
+   "Poststrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -253,7 +361,13 @@
   "stadt": "Stans",
   "ort": "Stans",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Dorfplatz",
+   "Marktgasse",
+   "Engelbergstrasse",
+   "Knirigasse",
+   "Bahnhofplatz"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -264,7 +378,13 @@
   "stadt": "Glarus",
   "ort": "Glarus",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Hauptstrasse",
+   "Rathausplatz",
+   "Spielhof",
+   "Zaunplatz",
+   "Bahnhofstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -275,7 +395,13 @@
   "stadt": "Herisau",
   "ort": "Herisau",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Oberdorfstrasse",
+   "Bahnhofstrasse",
+   "Poststrasse",
+   "Platz",
+   "Kasernenstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -286,7 +412,13 @@
   "stadt": "Appenzell",
   "ort": "Appenzell",
   "radius": 500,
-  "strassen": [],
+  "strassen": [
+   "Hauptgasse",
+   "Marktgasse",
+   "Postplatz",
+   "Landsgemeindeplatz",
+   "Engelgasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -297,7 +429,13 @@
   "stadt": "Delémont",
   "ort": "Delémont",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Rue du 23-Juin",
+   "Rue de l'Hôpital",
+   "Avenue de la Gare",
+   "Rue des Moulins",
+   "Place de la Liberté"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -308,7 +446,13 @@
   "stadt": "Winterthur",
   "ort": "Winterthur",
   "radius": 900,
-  "strassen": [],
+  "strassen": [
+   "Marktgasse",
+   "Untertor",
+   "Obertor",
+   "Steinberggasse",
+   "Stadthausstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -319,7 +463,13 @@
   "stadt": "Carouge",
   "ort": "Carouge",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Rue Saint-Joseph",
+   "Rue Saint-Victor",
+   "Rue Ancienne",
+   "Place du Marché",
+   "Rue Jacques-Dalphin"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -330,7 +480,13 @@
   "stadt": "Gstaad",
   "ort": "Gstaad",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Promenade",
+   "Palacestrasse",
+   "Untergstaadstrasse",
+   "Lauenenstrasse",
+   "Güterstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -341,7 +497,13 @@
   "stadt": "Montreux",
   "ort": "Montreux",
   "radius": 900,
-  "strassen": [],
+  "strassen": [
+   "Grand-Rue",
+   "Avenue du Casino",
+   "Avenue des Alpes",
+   "Rue du Théâtre",
+   "Rue de la Paix"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -352,7 +514,13 @@
   "stadt": "Rapperswil",
   "ort": "Rapperswil",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Marktgasse",
+   "Hauptplatz",
+   "Fischmarktplatz",
+   "Untere Bahnhofstrasse",
+   "Halsgasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -363,7 +531,13 @@
   "stadt": "Locarno",
   "ort": "Locarno",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Piazza Grande",
+   "Via Ramogna",
+   "Via della Stazione",
+   "Largo Zorzi",
+   "Via Cittadella"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -374,7 +548,13 @@
   "stadt": "Baar",
   "ort": "Baar",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Dorfstrasse",
+   "Rathausstrasse",
+   "Marktgasse",
+   "Bahnhofstrasse",
+   "Leihgasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -385,7 +565,13 @@
   "stadt": "Baden",
   "ort": "Baden",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Badstrasse",
+   "Weite Gasse",
+   "Bahnhofstrasse",
+   "Cordulaplatz",
+   "Rathausgasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -396,7 +582,13 @@
   "stadt": "Olten",
   "ort": "Olten",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Kirchgasse",
+   "Hauptgasse",
+   "Baslerstrasse",
+   "Ringstrasse",
+   "Hübelistrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -407,7 +599,13 @@
   "stadt": "Bulle",
   "ort": "Bulle",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Grand-Rue",
+   "Rue de Gruyères",
+   "Rue Nicolas-Glasson",
+   "Avenue de la Gare",
+   "Place du Marché"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -418,7 +616,13 @@
   "stadt": "La Chaux-de-Fonds",
   "ort": "La Chaux-de-Fonds",
   "radius": 900,
-  "strassen": [],
+  "strassen": [
+   "Avenue Léopold-Robert",
+   "Rue Neuve",
+   "Place du Marché",
+   "Rue de la Balance",
+   "Rue du Marché"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -429,7 +633,13 @@
   "stadt": "Zermatt",
   "ort": "Zermatt",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Bahnhofstrasse",
+   "Hofmattstrasse",
+   "Kirchplatz",
+   "Bahnhofplatz",
+   "Schluhmattstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -457,7 +667,13 @@
   "stadt": "Kreuzlingen",
   "ort": "Kreuzlingen",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Hauptstrasse",
+   "Bahnhofstrasse",
+   "Konstanzerstrasse",
+   "Bärenplatz",
+   "Sonnenstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -468,7 +684,13 @@
   "stadt": "Allschwil",
   "ort": "Allschwil",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Baslerstrasse",
+   "Binningerstrasse",
+   "Hegenheimermattweg",
+   "Lindenplatz",
+   "Oberwilerstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -479,7 +701,13 @@
   "stadt": "Pfäffikon SZ",
   "ort": "Pfäffikon",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Churerstrasse",
+   "Bahnhofstrasse",
+   "Schindellegistrasse",
+   "Eichenstrasse",
+   "Seedammstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -490,7 +718,13 @@
   "stadt": "Engelberg",
   "ort": "Engelberg",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Dorfstrasse",
+   "Klosterstrasse",
+   "Bahnhofplatz",
+   "Engelbergerstrasse",
+   "Hinterdorfstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -501,7 +735,13 @@
   "stadt": "Porrentruy",
   "ort": "Porrentruy",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Grand-Rue",
+   "Rue Pierre-Péquignat",
+   "Rue des Malvoisins",
+   "Allée des Soupirs",
+   "Rue du 23-Juin"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -512,7 +752,13 @@
   "stadt": "Uster",
   "ort": "Uster",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Bahnhofstrasse",
+   "Poststrasse",
+   "Zentralstrasse",
+   "Gerichtsstrasse",
+   "Webernstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -523,7 +769,13 @@
   "stadt": "Interlaken",
   "ort": "Interlaken",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Höheweg",
+   "Bahnhofstrasse",
+   "Marktgasse",
+   "Jungfraustrasse",
+   "Centralstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -534,7 +786,13 @@
   "stadt": "Vevey",
   "ort": "Vevey",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Rue du Simplon",
+   "Rue du Lac",
+   "Rue de Lausanne",
+   "Rue d'Italie",
+   "Rue du Théâtre"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -545,7 +803,13 @@
   "stadt": "Wil",
   "ort": "Wil",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Obere Bahnhofstrasse",
+   "Untere Bahnhofstrasse",
+   "Marktgasse",
+   "Hofplatz",
+   "Toggenburgerstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -556,7 +820,13 @@
   "stadt": "Ascona",
   "ort": "Ascona",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Piazza Giuseppe Motta",
+   "Via Borgo",
+   "Contrada Maggiore",
+   "Via Collegio",
+   "Viale Papio"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -567,7 +837,13 @@
   "stadt": "Wohlen",
   "ort": "Wohlen",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Zentralstrasse",
+   "Bahnhofstrasse",
+   "Bremgarterstrasse",
+   "Kirchenplatz",
+   "Steingasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -578,7 +854,13 @@
   "stadt": "Crans-Montana",
   "ort": "Crans-Montana",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Rue Centrale",
+   "Route du Rawyl",
+   "Rue du Prado",
+   "Route de la Moubra",
+   "Rue du Pas-de-l'Ours"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -589,7 +871,13 @@
   "stadt": "Davos",
   "ort": "Davos",
   "radius": 1200,
-  "strassen": [],
+  "strassen": [
+   "Promenade",
+   "Talstrasse",
+   "Bahnhofstrasse",
+   "Obere Strasse",
+   "Mattastrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -600,7 +888,13 @@
   "stadt": "Weinfelden",
   "ort": "Weinfelden",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Frauenfelderstrasse",
+   "Rathausstrasse",
+   "Marktplatz",
+   "Bahnhofstrasse",
+   "Wilerstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -611,7 +905,13 @@
   "stadt": "Einsiedeln",
   "ort": "Einsiedeln",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Hauptstrasse",
+   "Klosterplatz",
+   "Kronenstrasse",
+   "Schmiedenstrasse",
+   "Bahnhofplatz"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -622,7 +922,13 @@
   "stadt": "Wädenswil",
   "ort": "Wädenswil",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Zugerstrasse",
+   "Seestrasse",
+   "Oberdorfstrasse",
+   "Florhofstrasse",
+   "Türgass"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -633,7 +939,13 @@
   "stadt": "Thun",
   "ort": "Thun",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Bälliz",
+   "Obere Hauptgasse",
+   "Untere Hauptgasse",
+   "Bahnhofstrasse",
+   "Marktgasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -644,7 +956,13 @@
   "stadt": "Nyon",
   "ort": "Nyon",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Rue de la Gare",
+   "Rue de Rive",
+   "Grand-Rue",
+   "Rue Neuve",
+   "Place du Marché"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -655,7 +973,13 @@
   "stadt": "Buchs SG",
   "ort": "Buchs@47.1675,9.4790",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Bahnhofstrasse",
+   "St. Gallerstrasse",
+   "Churerstrasse",
+   "Grünaustrasse",
+   "Kirchgasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -666,7 +990,13 @@
   "stadt": "Bellinzona",
   "ort": "Bellinzona",
   "radius": 800,
-  "strassen": [],
+  "strassen": [
+   "Viale Stazione",
+   "Piazza Collegiata",
+   "Piazza Nosetto",
+   "Via Camminata",
+   "Via Teatro"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -677,7 +1007,13 @@
   "stadt": "Brugg",
   "ort": "Brugg",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Hauptstrasse",
+   "Bahnhofstrasse",
+   "Neumarkt",
+   "Alte Zürcherstrasse",
+   "Storchengasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -688,7 +1024,13 @@
   "stadt": "Verbier",
   "ort": "Verbier",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Rue de Médran",
+   "Place Centrale",
+   "Route de Verbier Station",
+   "Rue de la Poste",
+   "Route de la Barmaz"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -699,7 +1041,13 @@
   "stadt": "Klosters",
   "ort": "Klosters",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Bahnhofstrasse",
+   "Landstrasse",
+   "Alte Bahnhofstrasse",
+   "Doggilochstrasse",
+   "Silvrettastrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -710,7 +1058,13 @@
   "stadt": "Biel/Bienne",
   "ort": "Biel/Bienne",
   "radius": 900,
-  "strassen": [],
+  "strassen": [
+   "Nidaugasse",
+   "Bahnhofstrasse",
+   "Zentralstrasse",
+   "Marktgasse",
+   "Dufourstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -721,7 +1075,13 @@
   "stadt": "Morges",
   "ort": "Morges",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Grand-Rue",
+   "Rue Louis-de-Savoie",
+   "Rue Centrale",
+   "Place de l'Hôtel-de-Ville",
+   "Rue du Pont-Neuf"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -732,7 +1092,13 @@
   "stadt": "Mendrisio",
   "ort": "Mendrisio",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Corso Bello",
+   "Via Stefano Franscini",
+   "Via Luigi Lavizzari",
+   "Piazzale alla Valle",
+   "Via Vincenzo Vela"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -743,7 +1109,13 @@
   "stadt": "Rheinfelden",
   "ort": "Rheinfelden",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Marktgasse",
+   "Kaiserstrasse",
+   "Bahnhofstrasse",
+   "Kupfergasse",
+   "Fröschweid"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -754,7 +1126,13 @@
   "stadt": "Martigny",
   "ort": "Martigny",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Avenue de la Gare",
+   "Place Centrale",
+   "Rue du Grand-Verger",
+   "Rue de la Poste",
+   "Avenue du Grand-Saint-Bernard"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -765,7 +1143,13 @@
   "stadt": "Yverdon-les-Bains",
   "ort": "Yverdon-les-Bains",
   "radius": 700,
-  "strassen": [],
+  "strassen": [
+   "Rue du Lac",
+   "Rue du Milieu",
+   "Rue de la Plaine",
+   "Place Pestalozzi",
+   "Rue du Casino"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -776,7 +1160,13 @@
   "stadt": "Monthey",
   "ort": "Monthey",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Rue du Commerce",
+   "Place Centrale",
+   "Avenue de la Gare",
+   "Rue des Bourguignons",
+   "Rue du Château"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -787,7 +1177,13 @@
   "stadt": "Visp",
   "ort": "Visp",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Bahnhofstrasse",
+   "Kantonsstrasse",
+   "Kaufplatz",
+   "Balfrinstrasse",
+   "Napoleonstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
@@ -798,7 +1194,13 @@
   "stadt": "Brig",
   "ort": "Brig",
   "radius": 600,
-  "strassen": [],
+  "strassen": [
+   "Bahnhofstrasse",
+   "Furkastrasse",
+   "Sebastiansplatz",
+   "Alte Simplonstrasse",
+   "Saflischstrasse"
+  ],
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
