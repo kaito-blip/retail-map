@@ -4,11 +4,17 @@
   "stadt": "Zürich (Kreis 1)",
   "ort": "Zürich",
   "radius": 1300,
-  "strassen": [],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "strassen": [
+   "Bahnhofstrasse",
+   "Rennweg",
+   "Löwenstrasse",
+   "Limmatquai",
+   "Niederdorfstrasse"
+  ],
+  "strassen_ok": true,
+  "letzter_lauf": "2026-11-03",
+  "eigentuemer_quelle": "Grundbuch ZH (Eigentümerauskunft, frühere Läufe), Geschäftsbericht Swiss Prime Site 2025; Rest: Einzelabfrage GIS-Browser ZH (SMS, ca. 5/Tag) oder Anfrage Notariat Zürich-Altstadt",
+  "offen": "272"
  },
  {
   "kanton": "GE",

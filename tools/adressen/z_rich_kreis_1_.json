@@ -1,0 +1,2776 @@
+{
+ "zürich (kreis 1)|bahnhofstrasse|28a": {
+  "street": "Bahnhofstrasse",
+  "hn": "28a",
+  "lat": 47.3703727,
+  "lng": 8.5399233,
+  "mieter": [
+   "Zeughauskeller",
+   "Hermès"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 47.3692939,
+  "lng": 8.5392157,
+  "mieter": [
+   "Sprüngli Café-Bar",
+   "Sprüngli",
+   "Sprüngli Café & Restaurant"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|57": {
+  "street": "Bahnhofstrasse",
+  "hn": "57",
+  "lat": 47.3729704,
+  "lng": 8.5376718,
+  "mieter": [
+   "Coop City",
+   "Coop Restaurant",
+   "Import Parfumerie",
+   "Coop",
+   "Mövenpick",
+   "Coop to go"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|31-35": {
+  "street": "Löwenstrasse",
+  "hn": "31-35",
+  "lat": 47.3752549,
+  "lng": 8.5361073,
+  "mieter": [
+   "Migros",
+   "Migros Restaurant",
+   "Micasa",
+   "Ochsner Sport",
+   "Kaimug",
+   "Migros Florissimo",
+   "MediaMarkt",
+   "Migros Take-Away",
+   "Extensionpoint & BlowDry Bar",
+   "Amavita",
+   "Sunrise"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|3": {
+  "street": "Limmatquai",
+  "hn": "3",
+  "lat": 47.3678872,
+  "lng": 8.5443882,
+  "mieter": [
+   "Terrasse Restaurant",
+   "Terrasse Bar & Lounge"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|2": {
+  "street": "Limmatquai",
+  "hn": "2",
+  "lat": 47.3677942,
+  "lng": 8.5451446,
+  "mieter": [
+   "Café Bar ODEON",
+   "Achillea Apotheke"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|16": {
+  "street": "Limmatquai",
+  "hn": "16",
+  "lat": 47.3690472,
+  "lng": 8.5439586,
+  "mieter": [
+   "Molino",
+   "Meister"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|48": {
+  "street": "Rennweg",
+  "hn": "48",
+  "lat": 47.3736638,
+  "lng": 8.5392193,
+  "mieter": [
+   "Starbucks"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|53": {
+  "street": "Rennweg",
+  "hn": "53",
+  "lat": 47.3736029,
+  "lng": 8.538956,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|87": {
+  "street": "Bahnhofstrasse",
+  "hn": "87",
+  "lat": 47.3764123,
+  "lng": 8.5392291,
+  "mieter": [
+   "Lovisa",
+   "McOptic",
+   "Sunrise"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|34": {
+  "street": "Löwenstrasse",
+  "hn": "34",
+  "lat": 47.374918,
+  "lng": 8.536476,
+  "mieter": [
+   "Löweneck"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|144": {
+  "street": "Limmatquai",
+  "hn": "144",
+  "lat": 47.3765801,
+  "lng": 8.5441952,
+  "mieter": [
+   "Starbucks"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|66": {
+  "street": "Niederdorfstrasse",
+  "hn": "66",
+  "lat": 47.3755965,
+  "lng": 8.5441089,
+  "mieter": [
+   "Gräbli-Bar"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|40": {
+  "street": "Niederdorfstrasse",
+  "hn": "40",
+  "lat": 47.3745299,
+  "lng": 8.5439247,
+  "mieter": [
+   "dieci"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|76": {
+  "street": "Niederdorfstrasse",
+  "hn": "76",
+  "lat": 47.3759081,
+  "lng": 8.5441559,
+  "mieter": [
+   "Rheinfelder Bierhalle"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|25": {
+  "street": "Niederdorfstrasse",
+  "hn": "25",
+  "lat": 47.3741258,
+  "lng": 8.5435892,
+  "mieter": [
+   "Flying Tiger Copenhagen"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|24": {
+  "street": "Niederdorfstrasse",
+  "hn": "24",
+  "lat": 47.3738276,
+  "lng": 8.5437708,
+  "mieter": [
+   "Kon-Tiki"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|30": {
+  "street": "Niederdorfstrasse",
+  "hn": "30",
+  "lat": 47.3740829,
+  "lng": 8.5438491,
+  "mieter": [
+   "Burger King"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|61": {
+  "street": "Limmatquai",
+  "hn": "61",
+  "lat": 47.3720795,
+  "lng": 8.5426076,
+  "mieter": [
+   "Rathaus-Café",
+   "Polizeiposten Rathaus Zürich"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|70": {
+  "street": "Niederdorfstrasse",
+  "hn": "70",
+  "lat": 47.3757513,
+  "lng": 8.5441431,
+  "mieter": [
+   "Johanniter"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|132": {
+  "street": "Limmatquai",
+  "hn": "132",
+  "lat": 47.3758264,
+  "lng": 8.543866,
+  "mieter": [
+   "Bierhalle Wolf"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|66": {
+  "street": "Limmatquai",
+  "hn": "66",
+  "lat": 47.372316,
+  "lng": 8.5429593,
+  "mieter": [
+   "Gran Café Motta"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|2": {
+  "street": "Löwenstrasse",
+  "hn": "2",
+  "lat": 47.3728509,
+  "lng": 8.5347005,
+  "mieter": [
+   "UrbanVior",
+   "Spaccio",
+   "11Teamsports",
+   "L'Essenza"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|2": {
+  "street": "Niederdorfstrasse",
+  "hn": "2",
+  "lat": 47.37272,
+  "lng": 8.5438402,
+  "mieter": [
+   "Piadina Bar"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|42": {
+  "street": "Limmatquai",
+  "hn": "42",
+  "lat": 47.3708573,
+  "lng": 8.5432024,
+  "mieter": [
+   "Haus zum Rüden"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|7": {
+  "street": "Rennweg",
+  "hn": "7",
+  "lat": 47.3724404,
+  "lng": 8.5398562,
+  "mieter": [
+   "Widder Restaurant"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|142": {
+  "street": "Limmatquai",
+  "hn": "142",
+  "lat": 47.3764199,
+  "lng": 8.5441261,
+  "mieter": [
+   "Weinstube 1923"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|90": {
+  "street": "Niederdorfstrasse",
+  "hn": "90",
+  "lat": 47.3763302,
+  "lng": 8.5440373,
+  "mieter": [
+   "jung seit 1976",
+   "Coiffeur Vanu"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|80": {
+  "street": "Niederdorfstrasse",
+  "hn": "80",
+  "lat": 47.3760133,
+  "lng": 8.5441095,
+  "mieter": [
+   "La Pasta"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|88": {
+  "street": "Niederdorfstrasse",
+  "hn": "88",
+  "lat": 47.3762232,
+  "lng": 8.5440583,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|84": {
+  "street": "Niederdorfstrasse",
+  "hn": "84",
+  "lat": 47.3761215,
+  "lng": 8.544072,
+  "mieter": [
+   "Peak Performance"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|71": {
+  "street": "Niederdorfstrasse",
+  "hn": "71",
+  "lat": 47.3759873,
+  "lng": 8.5439456,
+  "mieter": [
+   "Food Corner"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|74": {
+  "street": "Niederdorfstrasse",
+  "hn": "74",
+  "lat": 47.375826,
+  "lng": 8.5441268,
+  "mieter": [
+   "Da Raffaele"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|68": {
+  "street": "Niederdorfstrasse",
+  "hn": "68",
+  "lat": 47.3756656,
+  "lng": 8.5441177,
+  "mieter": [
+   "N-68"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|64": {
+  "street": "Niederdorfstrasse",
+  "hn": "64",
+  "lat": 47.3754942,
+  "lng": 8.544079,
+  "mieter": [
+   "5. Akt"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|60": {
+  "street": "Niederdorfstrasse",
+  "hn": "60",
+  "lat": 47.3754161,
+  "lng": 8.5440085,
+  "mieter": [
+   "Sando"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|52": {
+  "street": "Niederdorfstrasse",
+  "hn": "52",
+  "lat": 47.3751577,
+  "lng": 8.5439328,
+  "mieter": [
+   "Big Ben Pub"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|39": {
+  "street": "Niederdorfstrasse",
+  "hn": "39",
+  "lat": 47.3749576,
+  "lng": 8.5437443,
+  "mieter": [
+   "Central Power",
+   "Shangrila"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|37": {
+  "street": "Niederdorfstrasse",
+  "hn": "37",
+  "lat": 47.3748977,
+  "lng": 8.5437335,
+  "mieter": [
+   "Iberia"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|29": {
+  "street": "Niederdorfstrasse",
+  "hn": "29",
+  "lat": 47.3745124,
+  "lng": 8.543706,
+  "mieter": [
+   "Drogerie Nature First"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|21": {
+  "street": "Niederdorfstrasse",
+  "hn": "21",
+  "lat": 47.373897,
+  "lng": 8.5436368,
+  "mieter": [
+   "Snipes"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|19": {
+  "street": "Niederdorfstrasse",
+  "hn": "19",
+  "lat": 47.3736974,
+  "lng": 8.5436412,
+  "mieter": [
+   "Steakhouse Old Town"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|17": {
+  "street": "Niederdorfstrasse",
+  "hn": "17",
+  "lat": 47.3735981,
+  "lng": 8.5436373,
+  "mieter": [
+   "RRREVOLVE Fair Fashion Store"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|15": {
+  "street": "Niederdorfstrasse",
+  "hn": "15",
+  "lat": 47.3734874,
+  "lng": 8.5436348,
+  "mieter": [
+   "Vallocaia"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|13": {
+  "street": "Niederdorfstrasse",
+  "hn": "13",
+  "lat": 47.3733773,
+  "lng": 8.5432575,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|11": {
+  "street": "Niederdorfstrasse",
+  "hn": "11",
+  "lat": 47.3733143,
+  "lng": 8.5436396,
+  "mieter": [
+   "7 Day-Shop"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|10": {
+  "street": "Niederdorfstrasse",
+  "hn": "10",
+  "lat": 47.373072,
+  "lng": 8.5439228,
+  "mieter": [
+   "Brasserie Louis",
+   "Louis Take Away",
+   "Tina Bar"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|5": {
+  "street": "Niederdorfstrasse",
+  "hn": "5",
+  "lat": 47.3729061,
+  "lng": 8.5436598,
+  "mieter": [
+   "Spaghetti Factory"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|7": {
+  "street": "Niederdorfstrasse",
+  "hn": "7",
+  "lat": 47.3729877,
+  "lng": 8.5436586,
+  "mieter": [
+   "Trattoria Sempre"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|1": {
+  "street": "Niederdorfstrasse",
+  "hn": "1",
+  "lat": 47.3726619,
+  "lng": 8.5436085,
+  "mieter": [
+   "Henrici"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|31": {
+  "street": "Bahnhofstrasse",
+  "hn": "31",
+  "lat": 47.3709245,
+  "lng": 8.5385422,
+  "mieter": [
+   "Breguet",
+   "Beyer Uhren & Juwelen"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|22": {
+  "street": "Niederdorfstrasse",
+  "hn": "22",
+  "lat": 47.3737764,
+  "lng": 8.5437342,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|96": {
+  "street": "Limmatquai",
+  "hn": "96",
+  "lat": 47.3745017,
+  "lng": 8.5432535,
+  "mieter": [
+   "Magic X"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|98": {
+  "street": "Limmatquai",
+  "hn": "98",
+  "lat": 47.3745643,
+  "lng": 8.5432628,
+  "mieter": [
+   "Marea"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|100": {
+  "street": "Limmatquai",
+  "hn": "100",
+  "lat": 47.374671,
+  "lng": 8.5432714,
+  "mieter": [
+   "Einzelstück"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|106": {
+  "street": "Limmatquai",
+  "hn": "106",
+  "lat": 47.3750168,
+  "lng": 8.5434055,
+  "mieter": [
+   "Hüsler Nest",
+   "Deimos AG"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|110": {
+  "street": "Limmatquai",
+  "hn": "110",
+  "lat": 47.3751241,
+  "lng": 8.5435996,
+  "mieter": [
+   "Jack & Jones"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|116": {
+  "street": "Limmatquai",
+  "hn": "116",
+  "lat": 47.3753724,
+  "lng": 8.543539,
+  "mieter": [
+   "Grande"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|118": {
+  "street": "Limmatquai",
+  "hn": "118",
+  "lat": 47.3754177,
+  "lng": 8.543598,
+  "mieter": [
+   "Grande Cafe & Bar"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|120": {
+  "street": "Limmatquai",
+  "hn": "120",
+  "lat": 47.3754973,
+  "lng": 8.5436165,
+  "mieter": [
+   "ONLY"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|122": {
+  "street": "Limmatquai",
+  "hn": "122",
+  "lat": 47.3756019,
+  "lng": 8.5436018,
+  "mieter": [
+   "Blue Tomato",
+   "Apiax AG"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|102": {
+  "street": "Limmatquai",
+  "hn": "102",
+  "lat": 47.3748142,
+  "lng": 8.5433481,
+  "mieter": [
+   "Passissimo"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|1": {
+  "street": "Löwenstrasse",
+  "hn": "1",
+  "lat": 47.3730935,
+  "lng": 8.534363,
+  "mieter": [
+   "Babu's Bakery & Coffeehouse",
+   "Orinad",
+   "Rotpunkt Apotheke",
+   "Sihlporte Rotpunkt Apotheke",
+   "Nordic Usability GmbH",
+   "Swiss Derma Clinic"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|20": {
+  "street": "Limmatquai",
+  "hn": "20",
+  "lat": 47.3693463,
+  "lng": 8.5437951,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|82": {
+  "street": "Limmatquai",
+  "hn": "82",
+  "lat": 47.3735016,
+  "lng": 8.5429504,
+  "mieter": [
+   "Bianchi"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|88": {
+  "street": "Limmatquai",
+  "hn": "88",
+  "lat": 47.37385,
+  "lng": 8.5430559,
+  "mieter": [
+   "Fleuve"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|94": {
+  "street": "Limmatquai",
+  "hn": "94",
+  "lat": 47.3741873,
+  "lng": 8.5431516,
+  "mieter": [
+   "Zvrich",
+   "Müller Optik Zürich",
+   "Soul",
+   "Augenarztzentrum Zürich",
+   "Timberland",
+   "Pensador Partner AG",
+   "Augenzentrum ONO Zürich Limmatquai"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|4": {
+  "street": "Limmatquai",
+  "hn": "4",
+  "lat": 47.3680495,
+  "lng": 8.5448701,
+  "mieter": [
+   "Starbucks",
+   "Burri Optik",
+   "Travelhouse",
+   "Satellite Office Zürich Zürcherhof"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|18": {
+  "street": "Niederdorfstrasse",
+  "hn": "18",
+  "lat": 47.3735536,
+  "lng": 8.5438226,
+  "mieter": [
+   "Freitag"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|74": {
+  "street": "Limmatquai",
+  "hn": "74",
+  "lat": 47.3729666,
+  "lng": 8.542979,
+  "mieter": [
+   "Vittorio Vanini - Swiss Chocolate since 1871"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|76": {
+  "street": "Limmatquai",
+  "hn": "76",
+  "lat": 47.37309,
+  "lng": 8.5429984,
+  "mieter": [
+   "Anouk"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|62": {
+  "street": "Limmatquai",
+  "hn": "62",
+  "lat": 47.3720822,
+  "lng": 8.5430073,
+  "mieter": [
+   "KochOptik",
+   "Bibliothek der Museumsgesellschaft",
+   "Revendo"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|62": {
+  "street": "Bahnhofstrasse",
+  "hn": "62",
+  "lat": 47.3734096,
+  "lng": 8.5384707,
+  "mieter": [
+   "Genesis"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|80": {
+  "street": "Limmatquai",
+  "hn": "80",
+  "lat": 47.3733722,
+  "lng": 8.542991,
+  "mieter": [
+   "Crédit Agricole"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|46": {
+  "street": "Niederdorfstrasse",
+  "hn": "46",
+  "lat": 47.3749695,
+  "lng": 8.5438675,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|128": {
+  "street": "Limmatquai",
+  "hn": "128",
+  "lat": 47.375737,
+  "lng": 8.5437328,
+  "mieter": [
+   "McConnell"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|126": {
+  "street": "Limmatquai",
+  "hn": "126",
+  "lat": 47.3756867,
+  "lng": 8.5436849,
+  "mieter": [
+   "Messer Dolmetsch"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|61": {
+  "street": "Niederdorfstrasse",
+  "hn": "61",
+  "lat": 47.3756566,
+  "lng": 8.5439639,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|57": {
+  "street": "Niederdorfstrasse",
+  "hn": "57",
+  "lat": 47.375565,
+  "lng": 8.5439407,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|63": {
+  "street": "Niederdorfstrasse",
+  "hn": "63",
+  "lat": 47.375725,
+  "lng": 8.5439814,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|136": {
+  "street": "Limmatquai",
+  "hn": "136",
+  "lat": 47.375978,
+  "lng": 8.5438053,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|134": {
+  "street": "Limmatquai",
+  "hn": "134",
+  "lat": 47.3759136,
+  "lng": 8.5437443,
+  "mieter": [
+   "Berling Optik"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|67": {
+  "street": "Niederdorfstrasse",
+  "hn": "67",
+  "lat": 47.3758131,
+  "lng": 8.5439946,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|69": {
+  "street": "Niederdorfstrasse",
+  "hn": "69",
+  "lat": 47.3758968,
+  "lng": 8.5439942,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|67": {
+  "street": "Bahnhofstrasse",
+  "hn": "67",
+  "lat": 47.3737537,
+  "lng": 8.5380122,
+  "mieter": [
+   "WE",
+   "Sprüngli"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|71": {
+  "street": "Bahnhofstrasse",
+  "hn": "71",
+  "lat": 47.3742811,
+  "lng": 8.5383036,
+  "mieter": [
+   "Rotpunkt Apotheke",
+   "Pandora"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|69": {
+  "street": "Bahnhofstrasse",
+  "hn": "69",
+  "lat": 47.3740287,
+  "lng": 8.5381375,
+  "mieter": [
+   "Swatch"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|66": {
+  "street": "Bahnhofstrasse",
+  "hn": "66",
+  "lat": 47.3737848,
+  "lng": 8.5385683,
+  "mieter": [
+   "Zara"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|73": {
+  "street": "Bahnhofstrasse",
+  "hn": "73",
+  "lat": 47.3745178,
+  "lng": 8.5384221,
+  "mieter": [
+   "Collectif mon Amour",
+   "King Louie"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|80": {
+  "street": "Bahnhofstrasse",
+  "hn": "80",
+  "lat": 47.3750024,
+  "lng": 8.539109,
+  "mieter": [
+   "KURZ"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|78": {
+  "street": "Bahnhofstrasse",
+  "hn": "78",
+  "lat": 47.3749047,
+  "lng": 8.5390586,
+  "mieter": [
+   "Swarovski"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|76": {
+  "street": "Bahnhofstrasse",
+  "hn": "76",
+  "lat": 47.3748167,
+  "lng": 8.5390132,
+  "mieter": [
+   "Salt"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|79": {
+  "street": "Bahnhofstrasse",
+  "hn": "79",
+  "lat": 47.375157,
+  "lng": 8.5387967,
+  "mieter": [
+   "Zara"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|82": {
+  "street": "Bahnhofstrasse",
+  "hn": "82",
+  "lat": 47.3752289,
+  "lng": 8.5391866,
+  "mieter": [
+   "Mango"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|88": {
+  "street": "Bahnhofstrasse",
+  "hn": "88",
+  "lat": 47.3755553,
+  "lng": 8.5394,
+  "mieter": [
+   "PKZ",
+   "Hiltl Dachterrasse",
+   "Kuoni"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|84": {
+  "street": "Bahnhofstrasse",
+  "hn": "84",
+  "lat": 47.3753884,
+  "lng": 8.5392693,
+  "mieter": [
+   "Diesel"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|92": {
+  "street": "Bahnhofstrasse",
+  "hn": "92",
+  "lat": 47.3758108,
+  "lng": 8.5395401,
+  "mieter": [
+   "H&M"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|81": {
+  "street": "Bahnhofstrasse",
+  "hn": "81",
+  "lat": 47.3758718,
+  "lng": 8.5391041,
+  "mieter": [
+   "Coop Vitality",
+   "Ochsner Sport",
+   "Import Parfumerie"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|98": {
+  "street": "Bahnhofstrasse",
+  "hn": "98",
+  "lat": 47.3760882,
+  "lng": 8.5396729,
+  "mieter": [
+   "Götte Optik"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|83": {
+  "street": "Bahnhofstrasse",
+  "hn": "83",
+  "lat": 47.3760714,
+  "lng": 8.5392229,
+  "mieter": [
+   "Fielmann"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|102": {
+  "street": "Bahnhofstrasse",
+  "hn": "102",
+  "lat": 47.3762665,
+  "lng": 8.5397921,
+  "mieter": [
+   "Yooji's"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|93": {
+  "street": "Bahnhofstrasse",
+  "hn": "93",
+  "lat": 47.3768277,
+  "lng": 8.5395824,
+  "mieter": [
+   "ViCafe",
+   "Christ",
+   "Gisada Switzerland",
+   "Swisscom"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|91": {
+  "street": "Bahnhofstrasse",
+  "hn": "91",
+  "lat": 47.3766543,
+  "lng": 8.5394903,
+  "mieter": [
+   "Favarger"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|89": {
+  "street": "Bahnhofstrasse",
+  "hn": "89",
+  "lat": 47.3765411,
+  "lng": 8.5394487,
+  "mieter": [
+   "Bachmann"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|104": {
+  "street": "Bahnhofstrasse",
+  "hn": "104",
+  "lat": 47.3764479,
+  "lng": 8.5398479,
+  "mieter": [
+   "Intimissimi",
+   "Calzedonia",
+   "Falconier"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|106": {
+  "street": "Bahnhofstrasse",
+  "hn": "106",
+  "lat": 47.3765608,
+  "lng": 8.5398953,
+  "mieter": [
+   "Läderach"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|110": {
+  "street": "Bahnhofstrasse",
+  "hn": "110",
+  "lat": 47.3767441,
+  "lng": 8.5399903,
+  "mieter": [
+   "swiss smile"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|108": {
+  "street": "Bahnhofstrasse",
+  "hn": "108",
+  "lat": 47.37669,
+  "lng": 8.5399521,
+  "mieter": [
+   "Amavita"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|41": {
+  "street": "Bahnhofstrasse",
+  "hn": "41",
+  "lat": 47.3714586,
+  "lng": 8.5378013,
+  "mieter": [
+   "Carlton"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|77": {
+  "street": "Bahnhofstrasse",
+  "hn": "77",
+  "lat": 47.3750322,
+  "lng": 8.5386809,
+  "mieter": [
+   "& Other Stories"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|53": {
+  "street": "Bahnhofstrasse",
+  "hn": "53",
+  "lat": 47.3724799,
+  "lng": 8.5380804,
+  "mieter": [
+   "Balenciaga",
+   "COS",
+   "Visilab"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|37": {
+  "street": "Bahnhofstrasse",
+  "hn": "37",
+  "lat": 47.3713882,
+  "lng": 8.5384585,
+  "mieter": [
+   "Bucheron",
+   "Golbal City Finance AG"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|64": {
+  "street": "Bahnhofstrasse",
+  "hn": "64",
+  "lat": 47.3735725,
+  "lng": 8.5384642,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|33": {
+  "street": "Bahnhofstrasse",
+  "hn": "33",
+  "lat": 47.3711931,
+  "lng": 8.5385234,
+  "mieter": [
+   "Meister Juwelier",
+   "Meister Uhren"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|44": {
+  "street": "Bahnhofstrasse",
+  "hn": "44",
+  "lat": 47.3718735,
+  "lng": 8.5387124,
+  "mieter": [
+   "Hublot",
+   "Burberry"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|39": {
+  "street": "Bahnhofstrasse",
+  "hn": "39",
+  "lat": 47.3715921,
+  "lng": 8.5382283,
+  "mieter": [
+   "Gucci",
+   "Chanel"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|54": {
+  "street": "Bahnhofstrasse",
+  "hn": "54",
+  "lat": 47.3729288,
+  "lng": 8.5384758,
+  "mieter": [
+   "Celine"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|40": {
+  "street": "Bahnhofstrasse",
+  "hn": "40",
+  "lat": 47.3715315,
+  "lng": 8.5388391,
+  "mieter": [
+   "Chopard"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|45": {
+  "street": "Bahnhofstrasse",
+  "hn": "45",
+  "lat": 47.3719416,
+  "lng": 8.5382214,
+  "mieter": [
+   "UBS"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|47": {
+  "street": "Bahnhofstrasse",
+  "hn": "47",
+  "lat": 47.3721606,
+  "lng": 8.5382263,
+  "mieter": [
+   "Cartier"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|36": {
+  "street": "Bahnhofstrasse",
+  "hn": "36",
+  "lat": 47.3711844,
+  "lng": 8.5389625,
+  "mieter": [
+   "Gübelin"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|46": {
+  "street": "Bahnhofstrasse",
+  "hn": "46",
+  "lat": 47.3721991,
+  "lng": 8.5385854,
+  "mieter": [
+   "PKZ"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|35": {
+  "street": "Bahnhofstrasse",
+  "hn": "35",
+  "lat": 47.3712995,
+  "lng": 8.5384473,
+  "mieter": [
+   "En Vogue",
+   "Tod's"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|58": {
+  "street": "Bahnhofstrasse",
+  "hn": "58",
+  "lat": 47.373314,
+  "lng": 8.5384614,
+  "mieter": [
+   "Löwen Apotheke",
+   "B Capital Partners AG"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|48": {
+  "street": "Bahnhofstrasse",
+  "hn": "48",
+  "lat": 47.3724616,
+  "lng": 8.5384544,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|42": {
+  "street": "Bahnhofstrasse",
+  "hn": "42",
+  "lat": 47.3717303,
+  "lng": 8.5386834,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|38": {
+  "street": "Bahnhofstrasse",
+  "hn": "38",
+  "lat": 47.3713066,
+  "lng": 8.5389028,
+  "mieter": [
+   "Piaget",
+   "Vacheron Constantin"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|25": {
+  "street": "Bahnhofstrasse",
+  "hn": "25",
+  "lat": 47.3701786,
+  "lng": 8.5389663,
+  "mieter": [
+   "Bulgari"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|7": {
+  "street": "Löwenstrasse",
+  "hn": "7",
+  "lat": 47.3733547,
+  "lng": 8.5344801,
+  "mieter": [
+   "Coop Pronto"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|47": {
+  "street": "Niederdorfstrasse",
+  "hn": "47",
+  "lat": 47.3752069,
+  "lng": 8.5437776,
+  "mieter": [
+   "Suan Long"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|26": {
+  "street": "Rennweg",
+  "hn": "26",
+  "lat": 47.3730209,
+  "lng": 8.5396607,
+  "mieter": [
+   "Liu Jo"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|27": {
+  "street": "Rennweg",
+  "hn": "27",
+  "lat": 47.3731064,
+  "lng": 8.5393968,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|32": {
+  "street": "Rennweg",
+  "hn": "32",
+  "lat": 47.3732785,
+  "lng": 8.5394588,
+  "mieter": [
+   "Tara Jarmon"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|34": {
+  "street": "Rennweg",
+  "hn": "34",
+  "lat": 47.3733238,
+  "lng": 8.5394299,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|43": {
+  "street": "Rennweg",
+  "hn": "43",
+  "lat": 47.3735116,
+  "lng": 8.5390744,
+  "mieter": [
+   "Apple Store"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|52": {
+  "street": "Rennweg",
+  "hn": "52",
+  "lat": 47.3737694,
+  "lng": 8.53907,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|28": {
+  "street": "Rennweg",
+  "hn": "28",
+  "lat": 47.3731716,
+  "lng": 8.5395609,
+  "mieter": [
+   "Wicky"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|35": {
+  "street": "Rennweg",
+  "hn": "35",
+  "lat": 47.3732677,
+  "lng": 8.5392165,
+  "mieter": [
+   "PostFinance",
+   "Søstrene Grene",
+   "Globetrotter"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 47.3681563,
+  "lng": 8.5395142,
+  "mieter": [
+   "Zürcher Kantonalbank",
+   "John Baker",
+   "Büro Züri",
+   "FairForKids Schweiz"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|130": {
+  "street": "Limmatquai",
+  "hn": "130",
+  "lat": 47.3757922,
+  "lng": 8.5436807,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|52": {
+  "street": "Löwenstrasse",
+  "hn": "52",
+  "lat": 47.3762281,
+  "lng": 8.5377838,
+  "mieter": [
+   "Interdiscount"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 47.3676217,
+  "lng": 8.539897,
+  "mieter": [
+   "Bongénie"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|32": {
+  "street": "Bahnhofstrasse",
+  "hn": "32",
+  "lat": 47.3709901,
+  "lng": 8.5393407,
+  "mieter": [
+   "Audemars Piguet"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|56": {
+  "street": "Bahnhofstrasse",
+  "hn": "56",
+  "lat": 47.3730954,
+  "lng": 8.5384687,
+  "mieter": [
+   "Och Sport",
+   "Fusschirurgie Zürich",
+   "Juwelier Frech"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|1": {
+  "street": "Limmatquai",
+  "hn": "1",
+  "lat": 47.3677468,
+  "lng": 8.5447215,
+  "mieter": [
+   "Kuoni",
+   "Panta Rheï"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|6": {
+  "street": "Limmatquai",
+  "hn": "6",
+  "lat": 47.3682065,
+  "lng": 8.5446561,
+  "mieter": [
+   "Bellevue-Alp"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|22": {
+  "street": "Limmatquai",
+  "hn": "22",
+  "lat": 47.3694608,
+  "lng": 8.5438096,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|28": {
+  "street": "Limmatquai",
+  "hn": "28",
+  "lat": 47.3697571,
+  "lng": 8.5435663,
+  "mieter": [
+   "On"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|36": {
+  "street": "Limmatquai",
+  "hn": "36",
+  "lat": 47.3703717,
+  "lng": 8.5434046,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|38": {
+  "street": "Limmatquai",
+  "hn": "38",
+  "lat": 47.3704374,
+  "lng": 8.5433883,
+  "mieter": [
+   "Fata Morgana"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|46": {
+  "street": "Limmatquai",
+  "hn": "46",
+  "lat": 47.3710717,
+  "lng": 8.5432428,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|58": {
+  "street": "Limmatquai",
+  "hn": "58",
+  "lat": 47.3717157,
+  "lng": 8.5429951,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|64": {
+  "street": "Limmatquai",
+  "hn": "64",
+  "lat": 47.3722352,
+  "lng": 8.5429123,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|84": {
+  "street": "Limmatquai",
+  "hn": "84",
+  "lat": 47.3736324,
+  "lng": 8.5429631,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|86": {
+  "street": "Limmatquai",
+  "hn": "86",
+  "lat": 47.3737226,
+  "lng": 8.5429807,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|28": {
+  "street": "Niederdorfstrasse",
+  "hn": "28",
+  "lat": 47.3740157,
+  "lng": 8.5437703,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|31": {
+  "street": "Niederdorfstrasse",
+  "hn": "31",
+  "lat": 47.3745727,
+  "lng": 8.5437695,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|33": {
+  "street": "Niederdorfstrasse",
+  "hn": "33",
+  "lat": 47.37466,
+  "lng": 8.5437766,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|35": {
+  "street": "Niederdorfstrasse",
+  "hn": "35",
+  "lat": 47.3747906,
+  "lng": 8.5437879,
+  "mieter": [
+   "Mir Gold"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|108": {
+  "street": "Limmatquai",
+  "hn": "108",
+  "lat": 47.3750841,
+  "lng": 8.5433934,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|112": {
+  "street": "Limmatquai",
+  "hn": "112",
+  "lat": 47.3752812,
+  "lng": 8.5434704,
+  "mieter": [
+   "Zürcher Kantonalbank"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|41": {
+  "street": "Niederdorfstrasse",
+  "hn": "41",
+  "lat": 47.3750432,
+  "lng": 8.5437912,
+  "mieter": [
+   "Zürich Fried Chicken"
+  ]
+ },
+ "zürich (kreis 1)|niederdorfstrasse|43": {
+  "street": "Niederdorfstrasse",
+  "hn": "43",
+  "lat": 47.375096,
+  "lng": 8.5437997,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|49": {
+  "street": "Niederdorfstrasse",
+  "hn": "49",
+  "lat": 47.3753087,
+  "lng": 8.5438658,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|56": {
+  "street": "Rennweg",
+  "hn": "56",
+  "lat": 47.3738299,
+  "lng": 8.5390242,
+  "mieter": [
+   "Snipes"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|1": {
+  "street": "Rennweg",
+  "hn": "1",
+  "lat": 47.3723541,
+  "lng": 8.540002,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|25": {
+  "street": "Rennweg",
+  "hn": "25",
+  "lat": 47.3729513,
+  "lng": 8.5395282,
+  "mieter": [
+   "Brits' Passion"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|3": {
+  "street": "Rennweg",
+  "hn": "3",
+  "lat": 47.3724323,
+  "lng": 8.5399361,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|28": {
+  "street": "Bahnhofstrasse",
+  "hn": "28",
+  "lat": 47.3698147,
+  "lng": 8.5394452,
+  "mieter": [
+   "Harry Winston",
+   "Blancpain"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|20": {
+  "street": "Bahnhofstrasse",
+  "hn": "20",
+  "lat": 47.3689851,
+  "lng": 8.5398034,
+  "mieter": [
+   "Bally"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 47.3681254,
+  "lng": 8.5400375,
+  "mieter": [
+   "Satellite Office Zürich Haus Gryffenberg"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|58": {
+  "street": "Rennweg",
+  "hn": "58",
+  "lat": 47.3740279,
+  "lng": 8.538867,
+  "mieter": [
+   "Victorinox"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|70": {
+  "street": "Bahnhofstrasse",
+  "hn": "70",
+  "lat": 47.3742685,
+  "lng": 8.5387434,
+  "mieter": [
+   "Breitling"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|82a": {
+  "street": "Bahnhofstrasse",
+  "hn": "82a",
+  "lat": 47.3752973,
+  "lng": 8.5392028,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|86": {
+  "street": "Bahnhofstrasse",
+  "hn": "86",
+  "lat": 47.375339,
+  "lng": 8.539502,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|19": {
+  "street": "Rennweg",
+  "hn": "19",
+  "lat": 47.3727993,
+  "lng": 8.5395787,
+  "mieter": [
+   "Zumstein"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|29": {
+  "street": "Löwenstrasse",
+  "hn": "29",
+  "lat": 47.3748684,
+  "lng": 8.5359836,
+  "mieter": [
+   "Day",
+   "Gidor",
+   "Douglas",
+   "SEAM – Japanese Kappo Cuisine"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|24": {
+  "street": "Löwenstrasse",
+  "hn": "24",
+  "lat": 47.3742554,
+  "lng": 8.5358793,
+  "mieter": [
+   "Bambus"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|42": {
+  "street": "Löwenstrasse",
+  "hn": "42",
+  "lat": 47.3753001,
+  "lng": 8.536785,
+  "mieter": [
+   "Vergani Vino e Grappa"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|32": {
+  "street": "Löwenstrasse",
+  "hn": "32",
+  "lat": 47.374695,
+  "lng": 8.5362165,
+  "mieter": [
+   "Tiny Fish",
+   "Norrona"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|28": {
+  "street": "Löwenstrasse",
+  "hn": "28",
+  "lat": 47.3744168,
+  "lng": 8.5359432,
+  "mieter": [
+   "Scotch & Soda",
+   "Praxisklinik Urania"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|19": {
+  "street": "Löwenstrasse",
+  "hn": "19",
+  "lat": 47.3740716,
+  "lng": 8.5352243,
+  "mieter": [
+   "ghel",
+   "Büromeier"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|22": {
+  "street": "Löwenstrasse",
+  "hn": "22",
+  "lat": 47.3740953,
+  "lng": 8.5356213,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|30": {
+  "street": "Löwenstrasse",
+  "hn": "30",
+  "lat": 47.3746231,
+  "lng": 8.5361459,
+  "mieter": [
+   "Odlo"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|14": {
+  "street": "Löwenstrasse",
+  "hn": "14",
+  "lat": 47.3737061,
+  "lng": 8.5352226,
+  "mieter": [
+   "Patagonia Store Zürich"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|17": {
+  "street": "Löwenstrasse",
+  "hn": "17",
+  "lat": 47.3738729,
+  "lng": 8.5350309,
+  "mieter": [
+   "Spielkiste",
+   "Academic Gateway"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|18": {
+  "street": "Limmatquai",
+  "hn": "18",
+  "lat": 47.3691277,
+  "lng": 8.5437038,
+  "mieter": [
+   "Seidenmann"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|60": {
+  "street": "Löwenstrasse",
+  "hn": "60",
+  "lat": 47.3766142,
+  "lng": 8.5381558,
+  "mieter": [
+   "Mammut"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|61": {
+  "street": "Löwenstrasse",
+  "hn": "61",
+  "lat": 47.376924,
+  "lng": 8.5379942,
+  "mieter": [
+   "Fjällräven"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|57": {
+  "street": "Rennweg",
+  "hn": "57",
+  "lat": 47.3736924,
+  "lng": 8.5388671,
+  "mieter": [
+   "Hanro"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|62": {
+  "street": "Löwenstrasse",
+  "hn": "62",
+  "lat": 47.3768189,
+  "lng": 8.5383293,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|68": {
+  "street": "Löwenstrasse",
+  "hn": "68",
+  "lat": 47.3770438,
+  "lng": 8.5385482,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|47": {
+  "street": "Löwenstrasse",
+  "hn": "47",
+  "lat": 47.3760497,
+  "lng": 8.5371974,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|49": {
+  "street": "Löwenstrasse",
+  "hn": "49",
+  "lat": 47.3761392,
+  "lng": 8.5372836,
+  "mieter": [
+   "Victoria Apotheke"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|50": {
+  "street": "Löwenstrasse",
+  "hn": "50",
+  "lat": 47.3758776,
+  "lng": 8.5376046,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|33": {
+  "street": "Löwenstrasse",
+  "hn": "33",
+  "lat": 47.3752244,
+  "lng": 8.5363857,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|35": {
+  "street": "Löwenstrasse",
+  "hn": "35",
+  "lat": 47.3753269,
+  "lng": 8.536583,
+  "mieter": [
+   "k kiosk",
+   "Hitzberger",
+   "Nails and Beauty Place"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|37": {
+  "street": "Löwenstrasse",
+  "hn": "37",
+  "lat": 47.3755425,
+  "lng": 8.5367944,
+  "mieter": [
+   "PKZ",
+   "The Barber"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|3": {
+  "street": "Löwenstrasse",
+  "hn": "3",
+  "lat": 47.3732816,
+  "lng": 8.5342304,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|26": {
+  "street": "Löwenstrasse",
+  "hn": "26",
+  "lat": 47.3743079,
+  "lng": 8.5357728,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|55": {
+  "street": "Löwenstrasse",
+  "hn": "55",
+  "lat": 47.3766363,
+  "lng": 8.5377105,
+  "mieter": [
+   "Marsano"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|61": {
+  "street": "Bahnhofstrasse",
+  "hn": "61",
+  "lat": 47.3732555,
+  "lng": 8.5381189,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 47.368634,
+  "lng": 8.5395167,
+  "mieter": [
+   "Van Cleef & Arpels",
+   "KochOptik"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 47.3688729,
+  "lng": 8.5394294,
+  "mieter": [
+   "Saint Laurent"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 47.3690848,
+  "lng": 8.5393504,
+  "mieter": [
+   "Parfumerie Osswald"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 47.3689695,
+  "lng": 8.5393963,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|27": {
+  "street": "Bahnhofstrasse",
+  "hn": "27",
+  "lat": 47.3704626,
+  "lng": 8.538858,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|55": {
+  "street": "Bahnhofstrasse",
+  "hn": "55",
+  "lat": 47.3727995,
+  "lng": 8.5377191,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|69": {
+  "street": "Löwenstrasse",
+  "hn": "69",
+  "lat": 47.3772552,
+  "lng": 8.5383138,
+  "mieter": [
+   "Salt",
+   "Generalkonsulat von Peru"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|74": {
+  "street": "Bahnhofstrasse",
+  "hn": "74",
+  "lat": 47.3746615,
+  "lng": 8.5389276,
+  "mieter": [
+   "Rooftop"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|2": {
+  "street": "Rennweg",
+  "hn": "2",
+  "lat": 47.3724001,
+  "lng": 8.5402942,
+  "mieter": [
+   "FALKE"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|4": {
+  "street": "Rennweg",
+  "hn": "4",
+  "lat": 47.3724788,
+  "lng": 8.5401448,
+  "mieter": [
+   "Walter Buchmann"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|6": {
+  "street": "Rennweg",
+  "hn": "6",
+  "lat": 47.37252,
+  "lng": 8.5401021,
+  "mieter": [
+   "Day"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|10": {
+  "street": "Rennweg",
+  "hn": "10",
+  "lat": 47.3726391,
+  "lng": 8.5400104,
+  "mieter": [
+   "Vanessa Bruno"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|43": {
+  "street": "Löwenstrasse",
+  "hn": "43",
+  "lat": 47.375927,
+  "lng": 8.5368796,
+  "mieter": [
+   "l'tur"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|45": {
+  "street": "Löwenstrasse",
+  "hn": "45",
+  "lat": 47.3759602,
+  "lng": 8.5370679,
+  "mieter": [
+   "Valentino Styling Club"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|50": {
+  "street": "Rennweg",
+  "hn": "50",
+  "lat": 47.3737322,
+  "lng": 8.5391398,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|15": {
+  "street": "Rennweg",
+  "hn": "15",
+  "lat": 47.3727186,
+  "lng": 8.5396662,
+  "mieter": [
+   "ONLY"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|23": {
+  "street": "Rennweg",
+  "hn": "23",
+  "lat": 47.37288,
+  "lng": 8.5395423,
+  "mieter": [
+   "Kiehl's"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|39": {
+  "street": "Rennweg",
+  "hn": "39",
+  "lat": 47.3734106,
+  "lng": 8.5391187,
+  "mieter": [
+   "United Colors of Benneton"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|29": {
+  "street": "Rennweg",
+  "hn": "29",
+  "lat": 47.3731565,
+  "lng": 8.5393152,
+  "mieter": [
+   "Schulthess",
+   "Schuhmacherei Schulthess"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|42": {
+  "street": "Rennweg",
+  "hn": "42",
+  "lat": 47.3735388,
+  "lng": 8.539332,
+  "mieter": [
+   "Depot"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|30": {
+  "street": "Rennweg",
+  "hn": "30",
+  "lat": 47.3732427,
+  "lng": 8.5395349,
+  "mieter": [
+   "GANT"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|46": {
+  "street": "Rennweg",
+  "hn": "46",
+  "lat": 47.3736162,
+  "lng": 8.5392669,
+  "mieter": [
+   "Maje"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|65": {
+  "street": "Bahnhofstrasse",
+  "hn": "65",
+  "lat": 47.3735871,
+  "lng": 8.538068,
+  "mieter": [
+   "TAG Heuer"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|59": {
+  "street": "Löwenstrasse",
+  "hn": "59",
+  "lat": 47.3767576,
+  "lng": 8.5378285,
+  "mieter": [
+   "Cachet"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|65": {
+  "street": "Löwenstrasse",
+  "hn": "65",
+  "lat": 47.3770704,
+  "lng": 8.5381354,
+  "mieter": [
+   "Flying Tiger Copenhagen"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|54": {
+  "street": "Löwenstrasse",
+  "hn": "54",
+  "lat": 47.3763435,
+  "lng": 8.5379029,
+  "mieter": [
+   "Mobilezone"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|72": {
+  "street": "Bahnhofstrasse",
+  "hn": "72",
+  "lat": 47.3743373,
+  "lng": 8.5388594,
+  "mieter": [
+   "Bratschi Widerkehr & Buob AG",
+   "UBS"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|53": {
+  "street": "Löwenstrasse",
+  "hn": "53",
+  "lat": 47.3764501,
+  "lng": 8.5375292,
+  "mieter": [
+   "McDonald's"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|31": {
+  "street": "Löwenstrasse",
+  "hn": "31",
+  "lat": 47.3750459,
+  "lng": 8.5360901,
+  "mieter": [
+   "Müller"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 47.3687326,
+  "lng": 8.5398984,
+  "mieter": [
+   "Trois Pommes"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 47.368266,
+  "lng": 8.5400103,
+  "mieter": [
+   "Versace"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 47.3677186,
+  "lng": 8.5402858,
+  "mieter": [
+   "Schweizer Heimatwerk"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|11": {
+  "street": "Löwenstrasse",
+  "hn": "11",
+  "lat": 47.3735992,
+  "lng": 8.5347497,
+  "mieter": [
+   "Notariat, Grundbuch- und Konkursamt Zürich (Altstadt)",
+   "Zapote"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|43": {
+  "street": "Bahnhofstrasse",
+  "hn": "43",
+  "lat": 47.3711761,
+  "lng": 8.5380707,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|40": {
+  "street": "Löwenstrasse",
+  "hn": "40",
+  "lat": 47.3751335,
+  "lng": 8.5366541,
+  "mieter": [
+   "the Gallery",
+   "APP Unternehmensberatung"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|25": {
+  "street": "Löwenstrasse",
+  "hn": "25",
+  "lat": 47.3744886,
+  "lng": 8.535649,
+  "mieter": [
+   "Saleh"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|40": {
+  "street": "Limmatquai",
+  "hn": "40",
+  "lat": 47.3706365,
+  "lng": 8.5432314,
+  "mieter": [
+   "Zunfthaus zur Zimmerleuten"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|51": {
+  "street": "Löwenstrasse",
+  "hn": "51",
+  "lat": 47.3763604,
+  "lng": 8.5374418,
+  "mieter": [
+   "Holy Cow!",
+   "Rice Up!"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|48": {
+  "street": "Limmatquai",
+  "hn": "48",
+  "lat": 47.3711694,
+  "lng": 8.5432159,
+  "mieter": [
+   "Le Mouton"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|50": {
+  "street": "Limmatquai",
+  "hn": "50",
+  "lat": 47.3712995,
+  "lng": 8.5431596,
+  "mieter": [
+   "ONLY"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|100": {
+  "street": "Bahnhofstrasse",
+  "hn": "100",
+  "lat": 47.3761738,
+  "lng": 8.5397139,
+  "mieter": [
+   "Rituals"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|140": {
+  "street": "Limmatquai",
+  "hn": "140",
+  "lat": 47.3761959,
+  "lng": 8.5438626,
+  "mieter": [
+   "Central Jewellery"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|32": {
+  "street": "Limmatquai",
+  "hn": "32",
+  "lat": 47.3701868,
+  "lng": 8.5434285,
+  "mieter": [
+   "Dieci Gelateria"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|94": {
+  "street": "Bahnhofstrasse",
+  "hn": "94",
+  "lat": 47.3759477,
+  "lng": 8.5396057,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|66": {
+  "street": "Löwenstrasse",
+  "hn": "66",
+  "lat": 47.3769457,
+  "lng": 8.538477,
+  "mieter": [
+   "Bijouteria"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|68": {
+  "street": "Limmatquai",
+  "hn": "68",
+  "lat": 47.3725748,
+  "lng": 8.5429287,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|67": {
+  "street": "Löwenstrasse",
+  "hn": "67",
+  "lat": 47.3771569,
+  "lng": 8.538219,
+  "mieter": [
+   "Goldhaus"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|70": {
+  "street": "Limmatquai",
+  "hn": "70",
+  "lat": 47.3727284,
+  "lng": 8.5429449,
+  "mieter": [
+   "Joe & The Juice"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 47.3672969,
+  "lng": 8.539971,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|92": {
+  "street": "Limmatquai",
+  "hn": "92",
+  "lat": 47.3739497,
+  "lng": 8.5431079,
+  "mieter": [
+   "Weekday"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|138": {
+  "street": "Limmatquai",
+  "hn": "138",
+  "lat": 47.3760514,
+  "lng": 8.5438763,
+  "mieter": [
+   "Chopstick"
+  ]
+ },
+ "zürich (kreis 1)|löwenstrasse|16": {
+  "street": "Löwenstrasse",
+  "hn": "16",
+  "lat": 47.3738293,
+  "lng": 8.5353417,
+  "mieter": [
+   "bestsmile"
+  ]
+ },
+ "zürich (kreis 1)|rennweg|24": {
+  "street": "Rennweg",
+  "hn": "24",
+  "lat": 47.3729638,
+  "lng": 8.53975,
+  "mieter": [
+   "KA/NOA"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|75": {
+  "street": "Bahnhofstrasse",
+  "hn": "75",
+  "lat": 47.3748787,
+  "lng": 8.5386018,
+  "mieter": [
+   "Massimo Dutti",
+   "Nespresso",
+   "Commercial - The Project Bahnhofstrasse"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 47.3685998,
+  "lng": 8.5399155,
+  "mieter": [
+   "Q36.5 Pro Cycling Team"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|46a": {
+  "street": "Limmatquai",
+  "hn": "46a",
+  "lat": 47.37108,
+  "lng": 8.543131,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|55": {
+  "street": "Limmatquai",
+  "hn": "55",
+  "lat": 47.3715142,
+  "lng": 8.5426735,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|72": {
+  "street": "Limmatquai",
+  "hn": "72",
+  "lat": 47.3728575,
+  "lng": 8.542981,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|82": {
+  "street": "Niederdorfstrasse",
+  "hn": "82",
+  "lat": 47.3760731,
+  "lng": 8.5441256,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|50": {
+  "street": "Niederdorfstrasse",
+  "hn": "50",
+  "lat": 47.3750965,
+  "lng": 8.5440238,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|48": {
+  "street": "Niederdorfstrasse",
+  "hn": "48",
+  "lat": 47.3750274,
+  "lng": 8.5439935,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|104": {
+  "street": "Limmatquai",
+  "hn": "104",
+  "lat": 47.3749176,
+  "lng": 8.5434714,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|51": {
+  "street": "Niederdorfstrasse",
+  "hn": "51",
+  "lat": 47.3753839,
+  "lng": 8.5438028,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|58": {
+  "street": "Niederdorfstrasse",
+  "hn": "58",
+  "lat": 47.3752631,
+  "lng": 8.5439745,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|56": {
+  "street": "Niederdorfstrasse",
+  "hn": "56",
+  "lat": 47.3752389,
+  "lng": 8.5440655,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|20": {
+  "street": "Niederdorfstrasse",
+  "hn": "20",
+  "lat": 47.3737043,
+  "lng": 8.5439575,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|26": {
+  "street": "Niederdorfstrasse",
+  "hn": "26",
+  "lat": 47.3739195,
+  "lng": 8.5438076,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|77": {
+  "street": "Niederdorfstrasse",
+  "hn": "77",
+  "lat": 47.3762376,
+  "lng": 8.5438906,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|3": {
+  "street": "Niederdorfstrasse",
+  "hn": "3",
+  "lat": 47.3727804,
+  "lng": 8.5436048,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|56": {
+  "street": "Limmatquai",
+  "hn": "56",
+  "lat": 47.3716267,
+  "lng": 8.5431047,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|54": {
+  "street": "Limmatquai",
+  "hn": "54",
+  "lat": 47.3715002,
+  "lng": 8.5431038,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|52": {
+  "street": "Limmatquai",
+  "hn": "52",
+  "lat": 47.3714035,
+  "lng": 8.543204,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|12": {
+  "street": "Löwenstrasse",
+  "hn": "12",
+  "lat": 47.3735874,
+  "lng": 8.5351676,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|20": {
+  "street": "Löwenstrasse",
+  "hn": "20",
+  "lat": 47.3739552,
+  "lng": 8.5355832,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|10": {
+  "street": "Löwenstrasse",
+  "hn": "10",
+  "lat": 47.3734467,
+  "lng": 8.5351303,
+  "mieter": [
+   "Synagoge ICZ Löwenstrasse"
+  ]
+ },
+ "zürich (kreis 1)|bahnhofstrasse|63": {
+  "street": "Bahnhofstrasse",
+  "hn": "63",
+  "lat": 47.3733864,
+  "lng": 8.53798,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|50": {
+  "street": "Bahnhofstrasse",
+  "hn": "50",
+  "lat": 47.3726111,
+  "lng": 8.5385283,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|24": {
+  "street": "Limmatquai",
+  "hn": "24",
+  "lat": 47.3695106,
+  "lng": 8.5437587,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|26": {
+  "street": "Limmatquai",
+  "hn": "26",
+  "lat": 47.3695987,
+  "lng": 8.5437125,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|11": {
+  "street": "Rennweg",
+  "hn": "11",
+  "lat": 47.37262,
+  "lng": 8.5396186,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|9": {
+  "street": "Rennweg",
+  "hn": "9",
+  "lat": 47.3725523,
+  "lng": 8.5396673,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|31": {
+  "street": "Limmatquai",
+  "hn": "31",
+  "lat": 47.3698596,
+  "lng": 8.5431622,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|29": {
+  "street": "Limmatquai",
+  "hn": "29",
+  "lat": 47.3696315,
+  "lng": 8.5431996,
+  "mieter": [
+   "Wasserkirche"
+  ]
+ },
+ "zürich (kreis 1)|limmatquai|34": {
+  "street": "Limmatquai",
+  "hn": "34",
+  "lat": 47.3702739,
+  "lng": 8.5434622,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|40a": {
+  "street": "Limmatquai",
+  "hn": "40a",
+  "lat": 47.3707385,
+  "lng": 8.5433581,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|4": {
+  "street": "Niederdorfstrasse",
+  "hn": "4",
+  "lat": 47.3728703,
+  "lng": 8.5439752,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|78": {
+  "street": "Limmatquai",
+  "hn": "78",
+  "lat": 47.3732626,
+  "lng": 8.5430061,
+  "mieter": []
+ },
+ "zürich (kreis 1)|niederdorfstrasse|54": {
+  "street": "Niederdorfstrasse",
+  "hn": "54",
+  "lat": 47.3751812,
+  "lng": 8.5442341,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|20a": {
+  "street": "Rennweg",
+  "hn": "20a",
+  "lat": 47.3729898,
+  "lng": 8.540144,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|18a": {
+  "street": "Rennweg",
+  "hn": "18a",
+  "lat": 47.3729236,
+  "lng": 8.5400345,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|8a": {
+  "street": "Rennweg",
+  "hn": "8a",
+  "lat": 47.3726477,
+  "lng": 8.5402416,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|2a": {
+  "street": "Rennweg",
+  "hn": "2a",
+  "lat": 47.3723839,
+  "lng": 8.5403773,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|12": {
+  "street": "Rennweg",
+  "hn": "12",
+  "lat": 47.3727352,
+  "lng": 8.5400121,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|14,16": {
+  "street": "Rennweg",
+  "hn": "14,16",
+  "lat": 47.372813,
+  "lng": 8.5399561,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|18": {
+  "street": "Rennweg",
+  "hn": "18",
+  "lat": 47.372869,
+  "lng": 8.5398922,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|20": {
+  "street": "Rennweg",
+  "hn": "20",
+  "lat": 47.372915,
+  "lng": 8.5398948,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|22": {
+  "street": "Rennweg",
+  "hn": "22",
+  "lat": 47.3729455,
+  "lng": 8.5398243,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|4a": {
+  "street": "Rennweg",
+  "hn": "4a",
+  "lat": 47.3725733,
+  "lng": 8.5403566,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|8": {
+  "street": "Rennweg",
+  "hn": "8",
+  "lat": 47.3725956,
+  "lng": 8.5401048,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|52": {
+  "street": "Bahnhofstrasse",
+  "hn": "52",
+  "lat": 47.3728208,
+  "lng": 8.5385616,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|31": {
+  "street": "Rennweg",
+  "hn": "31",
+  "lat": 47.3731504,
+  "lng": 8.5391381,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|60": {
+  "street": "Bahnhofstrasse",
+  "hn": "60",
+  "lat": 47.3732981,
+  "lng": 8.5387393,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|36": {
+  "street": "Rennweg",
+  "hn": "36",
+  "lat": 47.3733928,
+  "lng": 8.5395451,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|38": {
+  "street": "Rennweg",
+  "hn": "38",
+  "lat": 47.373454,
+  "lng": 8.5394532,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|44": {
+  "street": "Rennweg",
+  "hn": "44",
+  "lat": 47.3735952,
+  "lng": 8.5394903,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|30": {
+  "street": "Bahnhofstrasse",
+  "hn": "30",
+  "lat": 47.3705054,
+  "lng": 8.5394394,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|22": {
+  "street": "Bahnhofstrasse",
+  "hn": "22",
+  "lat": 47.3691588,
+  "lng": 8.5397556,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|24": {
+  "street": "Bahnhofstrasse",
+  "hn": "24",
+  "lat": 47.3693079,
+  "lng": 8.5396996,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|26": {
+  "street": "Bahnhofstrasse",
+  "hn": "26",
+  "lat": 47.3694684,
+  "lng": 8.5396417,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.3684368,
+  "lng": 8.5400226,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|64": {
+  "street": "Löwenstrasse",
+  "hn": "64",
+  "lat": 47.3768659,
+  "lng": 8.5384678,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|56": {
+  "street": "Löwenstrasse",
+  "hn": "56",
+  "lat": 47.3764631,
+  "lng": 8.5380808,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|53a": {
+  "street": "Löwenstrasse",
+  "hn": "53a",
+  "lat": 47.3765945,
+  "lng": 8.5372975,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|57": {
+  "street": "Löwenstrasse",
+  "hn": "57",
+  "lat": 47.3766736,
+  "lng": 8.5374357,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|69a": {
+  "street": "Bahnhofstrasse",
+  "hn": "69a",
+  "lat": 47.3741975,
+  "lng": 8.5381563,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|2c": {
+  "street": "Bahnhofstrasse",
+  "hn": "2c",
+  "lat": 47.3668542,
+  "lng": 8.5405161,
+  "mieter": []
+ },
+ "zürich (kreis 1)|limmatquai|89": {
+  "street": "Limmatquai",
+  "hn": "89",
+  "lat": 47.3738846,
+  "lng": 8.5427889,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|50a": {
+  "street": "Löwenstrasse",
+  "hn": "50a",
+  "lat": 47.3760004,
+  "lng": 8.5376916,
+  "mieter": []
+ },
+ "zürich (kreis 1)|rennweg|37": {
+  "street": "Rennweg",
+  "hn": "37",
+  "lat": 47.373299,
+  "lng": 8.5388215,
+  "mieter": []
+ },
+ "zürich (kreis 1)|löwenstrasse|53b": {
+  "street": "Löwenstrasse",
+  "hn": "53b",
+  "lat": 47.3764772,
+  "lng": 8.5373491,
+  "mieter": []
+ },
+ "zürich (kreis 1)|bahnhofstrasse|106a": {
+  "street": "Bahnhofstrasse",
+  "hn": "106a",
+  "lat": 47.3765983,
+  "lng": 8.5400157,
+  "mieter": []
+ }
+}
