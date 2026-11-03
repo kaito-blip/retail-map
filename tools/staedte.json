@@ -428,11 +428,17 @@
   "stadt": "St. Moritz",
   "ort": "St. Moritz",
   "radius": 700,
-  "strassen": [],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "strassen": [
+   "Via Serlas",
+   "Via Maistra",
+   "Via dal Bagn",
+   "Plazza dal Mulin",
+   "Via dal Vout"
+  ],
+  "strassen_ok": true,
+  "letzter_lauf": "2026-11-03",
+  "eigentuemer_quelle": "Grundbuch GR (Geoportal-Einzelabfrage, frühere Läufe; 6 Adressen über gleiche Parzelle abgeleitet); Rest: Einzelabfrage map.geo.gr.ch (Captcha, ca. 10/Tag) oder Anfrage Grundbuchamt Region Maloja",
+  "offen": "234"
  },
  {
   "kanton": "TG",
