@@ -1,0 +1,28 @@
+Du arbeitest im Repo /Users/kaito/retail-map (Retail Map von Kuroiwa / KWI Capital, live auf https://kaito-blip.github.io/retail-map/). Ziel: In jeder Schweizer Stadt mit starkem Gewerbe die 4 bis 5 stärksten Geschäftsstrassen (High Streets) erfassen und für JEDE Adresse an diesen Strassen den Eigentümer herausfinden. Heute bearbeitest du genau eine Stadt (unten angegeben). Du arbeitest unbeaufsichtigt, niemand beantwortet Rückfragen.
+
+Lies zuerst: tools/kantone_quellen.md (wo und wie man Eigentümer je Kanton bekommt), tools/staedte.json (Eintrag der heutigen Stadt), ~/.claude/projects/-Users-kaito/memory/retail-map-tool.md (Datenmodell und Gotchas).
+
+## Ablauf
+
+1. **Strassen festlegen** (nur wenn `strassen_ok` false ist): `python3 tools/topstrassen.py "<ort>" 10 <radius>` liefert die Strassen mit den meisten Läden im Zentrum. Wähle daraus mit deinem Wissen über die Stadt die 4 bis 5 echten Top-Geschäftsstrassen (Fussgängerzone, Luxus- und Filiallagen; keine Ausfallstrassen). Bereits in index.html unter CITIES hinterlegte Strassen der Stadt bleiben drin, du ergänzt nur. Ist die Stadt nicht in CITIES, lege sie an: `q` muss eine Gemeinde mit OSM-Relation sein (prüfen wie im Memory beschrieben, nie ein Ortsteil). Schreibe die gewählten Strassen in staedte.json (`strassen`, `strassen_ok: true`).
+
+2. **Adressen holen**: `python3 tools/adressen.py "<stadt>" "<ort>" "Strasse1;Strasse2;..."`. Ergebnis in tools/adressen/<stadt>.json mit Mietern aus OSM.
+
+3. **Mieter eintragen**: Für jede Adresse mit Mieter-POI das Feld `tenant` setzen (mehrere mit " · " verbinden), aber nur wo `tenant` leer ist. Key-Format `stadt|strasse|hausnummer` kleingeschrieben, Stadt = CITIES-Name. Nutze `tools/seed.py` (load, merge, save). merge überschreibt nie bestehende Werte, und save prüft die JS-Syntax. Schreibe nie selbst Text in die SEED-Zeile.
+
+4. **Eigentümer**: Grundbuch-Portale (GE terextraitfoncier, MapBS, FR RFpublic, Geoportale mit Eigentümerauskunft usw.) fragst du NIE automatisiert ab. Serienabfragen sind nach Art. 27 GBV überall verboten, und die meisten Portale haben SMS, Captcha oder Login. Stattdessen:
+   - Für alle Adressen ohne `owner` Parzelle und E-GRID mit `python3 tools/parzelle.py "<Strasse Nr>" "<Ort>"` ermitteln (geo.admin, 1 Sekunde Pause) und `parcel` setzen («<Gemeinde> <Nr>», E-GRID in notes).
+   - Anfrageliste schreiben: ~/Downloads/Retail Map Anfragen/<Kanton>_<Stadt>.csv (Adresse;Parzelle;E-GRID;Mieter) und daneben <Kanton>_<Stadt>_Anleitung.txt. Inhalt der Anleitung je nach Kanton laut tools/kantone_quellen.md: bei Kantonen mit Online-Einzelauskunft (GE, BS, FR, AI/AR, ZH/ZG/VD mit SMS, Captcha-Kantone) der Link zum Portal und der Hinweis, dass Kaito die Adressen selbst einzeln abfragt (Limits nennen, z.B. BS 10 pro Tag, ZH/VD 5 pro Tag); bei Bestell-Kantonen eine fertige, kurze Mail an das zuständige Grundbuchamt (Eigentümerauskunft nach Art. 970 Abs. 2 ZGB für die Parzellen der Liste, Hinweis dass die Liste beiliegt, Frage nach Kosten vorab; Absender Kaito Weingart, KWI Capital AG, kaito@kwicapital.ch; Sprache des Kantons; keine Gedankenstriche). Ist die Amtsadresse nicht verifiziert, such sie auf der offiziellen Kantonsseite und schreib dazu, ob verifiziert. Nichts versenden.
+   - Liefert Kaito Eigentümer nach (Datei ~/Downloads/Retail Map Anfragen/Antworten/*), trage sie zuerst ein: owner, ownerType (Privatperson / Immobilien-AG/Firma / Pensionskasse/Anlagestiftung / Versicherung / öffentliche Hand / Miteigentum / Stockwerkeigentum), ownerSince, notes «Quelle: …, Datum».
+   - Eigentümer, die du sicher aus öffentlichen Quellen kennst (z.B. Liegenschaft trägt den Namen eines Warenhauses, Geschäftsbericht einer Immobilien-AG oder Anlagestiftung mit Liegenschaftsliste, die Adresse ist dort explizit aufgeführt), darfst du eintragen, mit Quelle in notes und ownerType. Nichts raten. Ist ein Eigentümer nur wahrscheinlich, schreib ihn in notes als «vermutlich …, ungeprüft» und lass `owner` leer.
+   - Für Firmen-Eigentümer: UID und Sitz aus dem Handelsregister (zefix.ch REST oder uid.admin.ch) in ownerUid und ownerAddr ergänzen, wenn ohne Login abrufbar.
+
+5. **Abschluss**:
+   - `python3 tools/seed.py` (Statistik) laufen lassen und staedte.json aktualisieren: `letzter_lauf` = Datum, `eigentuemer_quelle`, `offen` = Anzahl Adressen ohne Eigentümer (als String).
+   - Commit + Push mit kurzer deutscher Commit-Nachricht. Commit ohne jeden Hinweis auf Claude, KI oder Anthropic, keine Co-Authored-By-Zeile. Committe nur index.html und tools/ (keine fremden untracked Dateien wie rl.html).
+   - Bericht nach tools/berichte/<Datum>_<stadt>.md: gewählte Strassen, Anzahl Adressen, neue Mieter, neue Eigentümer, offene Adressen, erstellte Anfragelisten, Probleme.
+   - Wenn eine Stadt in einem früheren Lauf schon bearbeitet wurde (letzter_lauf gesetzt), mach nur Schritt 4 für die noch offenen Adressen weiter.
+
+## Verboten
+
+Keine automatisierten Abfragen von Grundbuch- oder Eigentümerportalen, keine Logins oder Passworteingaben, keine Captchas umgehen, keine Formulare absenden, keine Mails versenden, keine Serienabfragen über die Limits eines Portals hinaus, keine bestehenden Daten löschen oder überschreiben, kein Force-Push. Wenn eine Quelle blockiert oder ein Limit erreicht ist, aufhören und im Bericht vermerken.

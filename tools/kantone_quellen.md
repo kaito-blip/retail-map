@@ -1,0 +1,56 @@
+# Eigentümerauskunft je Kanton (Stand 03.11.2026)
+
+Zweck: Retail-Eigentümer-Mapping. Frage je Kanton: Wie kommt man zum Namen des Eigentümers zu Adresse oder Parzelle?
+
+Legende: **[V]** verifiziert (Seite selbst gesehen oder curl ausgeführt), **[S]** nur aus Suchtreffern (teils Quellen 2017 bis 2021), **[B]** vorbekannt, nicht neu recherchiert.
+Testabfragen: Eine Eigentümerabfrage per curl kam in keinem Kanton zustande, weil vor jeder solchen Abfrage SMS, Login, Captcha oder ein Formular steht. In JU lief ein einziger GetFeatureInfo-Test, und der lieferte nur eine Fehlerseite.
+
+## Kernergebnis
+
+- **Kein Kanton liefert den Eigentümernamen frei per API oder JSON.** Überall gilt die Rechtsgrenze: Abfrage nur zu einem bestimmten Grundstück, Serienabfragen sind verboten (Art. 27 GBV, BGer 5A_279/2019).
+- **Frei ohne Login und ohne Captcha:** GE [B], BS [B] (10 pro Tag), FR RFpublic [V] (nur Formular-POST), AI und AR über geoportal.ch [S].
+- **Online mit Hürde:** ZH (SMS), ZG (SMS), VD (SMS, 5 pro Tag), GR (Captcha oder SMS), SZ, NE, BL und TG (Captcha), VS (Login, 10 pro Tag), AG (Gratiskonto), BE (AGOV) [B].
+- **Nur auf Anfrage beim Grundbuchamt:** SO [B], GL, SH, UR, NW, TI, SG (kantonal; einzelne Gemeinden haben eigene Portale), OW (online nur für Registrierte). LU und JU sind unklar.
+- Formlos ist die Auskunft nach Art. 970 Abs. 2 ZGB (Eigentümer ohne Interessennachweis) in allen Kantonen zu haben. Belegte Kosten: ZG ab CHF 45 für die verbindliche Liste, UR CHF 20 pro Auszug online [S]. Sonst gilt die Gebühr nach Aufwand, Beträge nicht gefunden.
+
+## Tabelle
+
+| Kanton | Quelle/URL | Zugang | Limits | maschinell abrufbar | Grundbuchamt-Kontakt |
+|---|---|---|---|---|---|
+| ZH | GIS-Browser «Öffentliches Grundbuch» maps.zh.ch/?topic=DLGOWfarbigZH (leitet auf geo.zh.ch/maps) [V]; Info zh.ch/de/planen-bauen/geoinformation/kataster/grundbuch.html [V] | gratis, SMS-Code [S] | «nur limitierte Einzelabfragen», Massenabfragen über das Notariat [V]; 5 pro Tag (zeitweise 2), Captcha [S]; Anonymisierung durch Eigentümer möglich [S] | nein | Notariat der Gemeinde (Stadt Zürich: Kreisnotariat, nicht erhoben). Inspektorat: inspektorat@notariate-zh.ch, Thurgauerstrasse 40, 8050 Zürich [V] |
+| BE | GRUDIS public grudis-public.apps.be.ch [B] | AGOV-Login [B] | k.A. | nein | k.A. |
+| LU | Grundbuchplan map.geo.lu.ch/objekte/grundbuchplan/ [V erreichbar, JS-App]; Eigentümerabfrage laut Broschüre eingebaut [S] | vermutlich gratis [S] | 2017 geplant: 10 pro Tag und E-Mail [S, veraltet] | unklar, nicht getestet | Grundbuchämter Luzern Ost/West; E-Mail nicht bestätigt |
+| UR | geo.ur.ch [V erreichbar, kein Eigentümer-Hinweis] | nur auf Anfrage | k.A. | nein | Amt für Grundbuch Uri, Bahnhofstrasse 43, 6460 Altdorf, 041 875 22 59 [S]; Auszug online CHF 20 [S] |
+| SZ | WebGIS map.geo.sz.ch/s/sz_webgis_SmNMxL; Anleitung sz.ch, Amt für Geoinformation [V] | gratis, kein Login, Captcha je Abfrage [V] | Captcha; ohne STWE; ohne Rechtsgültigkeit; Sperre möglich [V] | nein (Captcha) | Bezirksgrundbuchamt, nicht erhoben |
+| OW | gis-daten.ch/?active-map=ow [V Karte]; Eigentümer nur für Registrierte [S] | Login [S] | k.A. | nein | Grundbuchamt Obwalden, Sarnen (Filiale Engelberg); Auskunft per Telefon oder Mail möglich [S] |
+| NW | gis-daten.ch/?active-map=nw [V, kein Eigentümer-Layer] | nur auf Anfrage | k.A. | nein | Grundbuchamt Nidwalden, Bahnhofplatz 3, 6370 Stans, 041 618 72 74 [S] |
+| GL | map.geo.gl.ch [V, kein Eigentümer-Layer] | nur auf Anfrage | k.A. | nein | Grundbuchamt Glarus, Zwinglistrasse 6, 8750 Glarus, 055 646 66 50, grundbuchamt@gl.ch [S] |
+| ZG | ZugMap zugmap.ch; zg.ch/de/planen-bauen/grundbuch/eigentuemerauskunft [V] | gratis, Registrierung mit CH-Handynummer und SMS [S] | Nutzungsbestimmungen nicht gesehen | nein | Grundbuch Zug, Aabachstrasse 5, 6301 Zug, 041 594 56 00, info.agg@zg.ch [V]; verbindliche Eigentümerliste per Formular oder Post, ab CHF 45 [V]; Schalter und Telefon möglich [V] |
+| FR | **RFpublic** keycloak.fr.ch/rfpublic/ [V]; Profi: Intercapi www.rf.fr.ch/intercapi (Bewilligung) [V] | **gratis, ohne Login, ohne Captcha** [V] (Art. 53a kant. GBG, ohne öffentlichen Glauben) | kein Limit und kein Captcha gesehen [V] | **halb**: JSP-Formular-POST `selectCommune.jsp` → `v2TAffImmx01.jsp` (Felder `selcom`, `noIm`, `rue`), kein JSON [V]; nicht abgeschickt, ob ein Name zurückkommt ist ungetestet | nicht nötig; Registre foncier de la Sarine nicht erhoben (fr.ch/rf) |
+| SO | per Mail ans Grundbuchamt [B]; so.ch/services/grundbuch-eigentuemerauskunft-anfragen-bestellen/ | Bestellung [B] | Mail-Anfrage kostenpflichtig [S] | nein | Grundbuchamt der Amtei [B] |
+| BS | MapBS map.geo.bs.ch, Parzelle → Grundstücksinformation [B] | ohne Login [B] | 10 pro IP und Tag [B] | nein (interaktiv) | k.A. |
+| BL | Eigentumsauskunft über GeoView geoview.bl.ch [V erreichbar, JS-App]; baselland.ch → Grundbuchamt → Eigentumsauskunft (403 bei curl) | öffentlich seit 10.11.2020 [S] | Captcha vor jeder Abfrage; früheres Limit 10 pro 24 h weggefallen; Serienabfragen verboten; Sperre möglich [S] | nein (Captcha) | Grundbuchamt BL, nicht erhoben (Seite 403) |
+| SH | map.geo.sh.ch [V, kein Eigentümer-Layer belegt] | nur auf Anfrage | Gebühr nach Aufwand [S] | nein | Grundbuchamt Schaffhausen, gbamt@ktsh.ch [S], Mühlentalstrasse 105, 8200 Schaffhausen [S] |
+| AR | geoportal.ch (IG GIS AG) [V erreichbar, JS-App]; Eigentümer «direkt ersichtlich» [S] | vermutlich gratis, ohne Login [S] | k.A. | unklar, kein Endpunkt gefunden | Grundbuchamt Herisau, Poststrasse 15, 9102 Herisau, 071 354 55 41, grundbuchamt@herisau.ar.ch [S]; pro Gemeinde organisiert |
+| AI | geoportal.ch [V erreichbar]; Eigentümer sichtbar [S] | gratis, kein Login genannt [S] | Einzelabfragen ohne Limit (2019) [S] | nein, kein Endpunkt gefunden | Grundbuchamt AI, Marktgasse 2, 9050 Appenzell, 071 788 94 31, grundbuchamt@vd.ai.ch [S] |
+| SG | kantonal keine Eigentümer auf geoportal.ch [S]; einzelne Gemeinden mit eigenem Portal [S] | kantonal telefonisch beim Grundbuchamt [S] | kommunal max. 10 pro Tag oder Drosselung ab 6 pro IP [S] | nein | Grundbuch kommunal (64 Ämter); für die Multergasse das Grundbuchamt der Stadt St.Gallen, E-Mail nicht gefunden; Aufsicht Amt für Gemeinden, 058 229 62 31 [S] |
+| GR | map.geo.gr.ch/public/theme/uGSP_Grundstueckabfrage [V Weiterleitung]; geogr.ch [V erreichbar] | ohne Login 10 pro Tag mit Captcha, mit Registrierung oder SMS 50 pro Tag [S, 2021] | Captcha; Serienabfragen untersagt [S] | nein (Captcha) | kommunal; Chur: Grundbuchamt der Stadt Chur, Kontakt nicht gefunden |
+| AG | Geoportal Onlinekarten www.ag.ch/geoportal/apps/onlinekarten/ (Grundeigentümerabfrage) [V Link auf ag.ch «Das Grundbuch»] | gratis, Benutzerkonto nötig [S] | Tageslimit nicht gefunden | nein (Login) | Bezirk Aarau gehört zum Grundbuchamt Zofingen [S]; ARP arp@ag.ch, 062 835 14 30 [S] |
+| TG | ThurGIS map.geo.tg.ch (mf-geoadmin3) [V Weiterleitung] | gratis, kein Login genannt [S] | Captcha nach je 10 Abfragen [S, 2019] | nein (Captcha) | Grundbuchamt und Notariat Frauenfeld; Zuständigkeit über gni.tg.ch [S]; E-Mail nicht gefunden |
+| TI | keine öffentliche Online-Abfrage; Geoportal ohne Eigentümer, SIFTI-web nur für Berechtigte [S] | nur auf Anfrage [S] | k.A. | nein | Ufficio del registro fondiario di Lugano, Via Bossi 2A, 6901 Lugano, 091 815 53 71, di-rf.lugano@ti.ch [V] |
+| VD | Intercapi public intercapi-public.vd.ch/territoire/intercapi-public/ und Guichet www.geo.vd.ch [V] | gratis, kein Konto, Bestätigung per SMS [V] | 5 Parzellen pro Tag [V]; keine Serienabfragen [S] | nein (SMS; curl zeigt nur eine Script-App) [V] | Profis: Intercapi-Abo [S]; Kontakt Lausanne nicht erhoben |
+| VS | online.vs.ch «Rechercher un propriétaire foncier» (id=18541) [V] | Registrierung im Portal (AGOV/SwissID für den erweiterten Zugang) [V] | 10 pro Tag und Nutzer; nur informatisierte Gemeinden [V] | nein (Login) | Service du registre foncier, Av. de la Gare 39, 1950 Sion [V]; E-Mail über vs.ch/web/srf/annuaire |
+| NE | SITN sitn.ne.ch, Thema cadastre, Parzelle → «propriétaire» [V FAQ] | gratis, ohne Login, Captcha [V] | Captcha je Abfrage [V] | nein (Captcha) | SGRF www.ne.ch/autorites/ddte/sgrf [S]; E-Mail nicht erhoben |
+| JU | jura.ch verweist auf geo.jura.ch (früher geoportail.jura.ch) [V] | Login nicht erwähnt [V] | nur je Grundstück, keine Listen [V] | ungeklärt; GeoMapFish, Layer `sdt_01_04_h_bf_bien_fonds`, GetFeatureInfo über `/mapserv_proxy` lieferte eine Fehlerseite [V] | Registre foncier, Rue de la Justice 2, 2800 Delémont, 032 420 59 70, registre.foncier@jura.ch [S] |
+| GE | ge.ch/terextraitfoncier [B] | gratis, ohne Login [B] | Serienabfragen technisch gesperrt [B] | nein | k.A. |
+
+## Notizen
+
+- **Für das Mapping praktikabel:** Einzelabfragen interaktiv in GE, BS, FR, AI/AR sowie (mit Captcha oder SMS) in ZH, ZG, SZ, BL, TG, GR, NE und VD. Für Lagen in GL, SH, UR, NW, TI, SG, SO und LU sammelt man die Parzellen (Parzellennummer oder EGRID aus dem Geoportal) und schickt pro Grundbuchamt eine Mail mit der Liste. Das ist zulässig, solange jede Parzelle einzeln benannt ist.
+- **Geteilte Kontingente:** VD 5 pro Tag, ZH 5 pro Tag, BS 10 pro Tag, VS 10 pro Tag, GR 10 ohne bzw. 50 mit Login.
+- **FR** ist der einzige frei zugängliche, formularbasierte Dienst ohne Captcha. Vor jeder Automatisierung müssen Nutzungsbedingungen und Serienverbot geprüft werden. Testen kann man ihn nur durch Absenden des Formulars, das ist hier nicht passiert.
+- **Offen:** offizielle E-Mail-Adressen der Grundbuchämter LU, SZ, BL, SG (Stadt), GR (Chur), TG, VD (Lausanne), VS, NE, FR (Sarine) und Zürich-Stadt; ob LU eine Eigentümerabfrage im Grundbuchplan anbietet; ob AR und AI auf geoportal.ch aktuell ohne Login Eigentümer zeigen.
+
+## Quellen (Auswahl)
+
+zh.ch/de/planen-bauen/geoinformation/kataster/grundbuch.html; law.ch (ZH 5 Abfragen, Anonymisierung); sz.ch Daten und Dienste; zg.ch/de/planen-bauen/grundbuch/eigentuemerauskunft; keycloak.fr.ch/rfpublic/; baselland.ch Eigentumsauskunft; sif.admin.ch Tabelle Zugang Grundbuchdaten; bj.admin.ch Liste Grundbuchbehörden; ratsinfo.sg.ch Interpellation 2017; gr.ch Vorstoss Derungs 2019; suedostschweiz.ch 16.06.2021; ag.ch Das Grundbuch; vd.ch consultation du registre foncier; vs.ch/web/srf/consultation-en-ligne-du-registre-foncier; sitn.ne.ch/help/faq; jura.ch Registre foncier; www4.ti.ch RF Lugano und SIFTI-web; so.ch Eigentümerauskunft; neho.ch Grundbuchamt-Blogs (nur Drittquelle).
