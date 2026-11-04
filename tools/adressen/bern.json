@@ -1,0 +1,2209 @@
+{
+ "bern|gerechtigkeitsgasse|1": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "1",
+  "lat": 46.9485384,
+  "lng": 7.4556746,
+  "mieter": []
+ },
+ "bern|kramgasse|39": {
+  "street": "Kramgasse",
+  "hn": "39",
+  "lat": 46.9478888,
+  "lng": 7.4502935,
+  "mieter": []
+ },
+ "bern|münstergasse|48": {
+  "street": "Münstergasse",
+  "hn": "48",
+  "lat": 46.9475195,
+  "lng": 7.4497974,
+  "mieter": []
+ },
+ "bern|kramgasse|76": {
+  "street": "Kramgasse",
+  "hn": "76",
+  "lat": 46.9480541,
+  "lng": 7.4485846,
+  "mieter": []
+ },
+ "bern|marktgasse|65": {
+  "street": "Marktgasse",
+  "hn": "65",
+  "lat": 46.9479205,
+  "lng": 7.4441732,
+  "mieter": []
+ },
+ "bern|kramgasse|49": {
+  "street": "Kramgasse",
+  "hn": "49",
+  "lat": 46.9476741,
+  "lng": 7.449971,
+  "mieter": []
+ },
+ "bern|kramgasse|26": {
+  "street": "Kramgasse",
+  "hn": "26",
+  "lat": 46.9481882,
+  "lng": 7.450889,
+  "mieter": [
+   "Kellerkino"
+  ]
+ },
+ "bern|kramgasse|47": {
+  "street": "Kramgasse",
+  "hn": "47",
+  "lat": 46.9478829,
+  "lng": 7.4500192,
+  "mieter": [
+   "iljos cucina"
+  ]
+ },
+ "bern|kramgasse|36": {
+  "street": "Kramgasse",
+  "hn": "36",
+  "lat": 46.9480547,
+  "lng": 7.450372,
+  "mieter": []
+ },
+ "bern|kramgasse|19": {
+  "street": "Kramgasse",
+  "hn": "19",
+  "lat": 46.947885,
+  "lng": 7.451165,
+  "mieter": []
+ },
+ "bern|kramgasse|74": {
+  "street": "Kramgasse",
+  "hn": "74",
+  "lat": 46.9480483,
+  "lng": 7.4486847,
+  "mieter": []
+ },
+ "bern|kramgasse|72": {
+  "street": "Kramgasse",
+  "hn": "72",
+  "lat": 46.9480378,
+  "lng": 7.4488557,
+  "mieter": []
+ },
+ "bern|kramgasse|73": {
+  "street": "Kramgasse",
+  "hn": "73",
+  "lat": 46.9478951,
+  "lng": 7.4487591,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|3": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "3",
+  "lat": 46.9485413,
+  "lng": 7.4555496,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|5": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "5",
+  "lat": 46.9485261,
+  "lng": 7.4554659,
+  "mieter": [
+   "Mandala - Thai Massage & Spa Lounge"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|7": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "7",
+  "lat": 46.9485023,
+  "lng": 7.4553361,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|16": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "16",
+  "lat": 46.9487217,
+  "lng": 7.4554854,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|12": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "12",
+  "lat": 46.9487586,
+  "lng": 7.4556448,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|14": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "14",
+  "lat": 46.9487395,
+  "lng": 7.4555621,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|18": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "18",
+  "lat": 46.9487023,
+  "lng": 7.4554016,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|64": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "64",
+  "lat": 46.9481957,
+  "lng": 7.4532062,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|70": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "70",
+  "lat": 46.9481551,
+  "lng": 7.4528586,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|66": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "66",
+  "lat": 46.9481811,
+  "lng": 7.4530876,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|72": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "72",
+  "lat": 46.948146,
+  "lng": 7.4527786,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|68": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "68",
+  "lat": 46.948168,
+  "lng": 7.4529734,
+  "mieter": []
+ },
+ "bern|münstergasse|64": {
+  "street": "Münstergasse",
+  "hn": "64",
+  "lat": 46.9475027,
+  "lng": 7.4488803,
+  "mieter": []
+ },
+ "bern|münstergasse|78": {
+  "street": "Münstergasse",
+  "hn": "78",
+  "lat": 46.9475015,
+  "lng": 7.4482876,
+  "mieter": []
+ },
+ "bern|kramgasse|19a": {
+  "street": "Kramgasse",
+  "hn": "19a",
+  "lat": 46.9478844,
+  "lng": 7.4512554,
+  "mieter": []
+ },
+ "bern|münstergasse|66": {
+  "street": "Münstergasse",
+  "hn": "66",
+  "lat": 46.947504,
+  "lng": 7.4488107,
+  "mieter": []
+ },
+ "bern|münstergasse|62": {
+  "street": "Münstergasse",
+  "hn": "62",
+  "lat": 46.9475018,
+  "lng": 7.4490139,
+  "mieter": [
+   "Stoor"
+  ]
+ },
+ "bern|münstergasse|60": {
+  "street": "Münstergasse",
+  "hn": "60",
+  "lat": 46.9475019,
+  "lng": 7.4491012,
+  "mieter": [
+   "Burrito Bandito"
+  ]
+ },
+ "bern|münstergasse|68": {
+  "street": "Münstergasse",
+  "hn": "68",
+  "lat": 46.9475047,
+  "lng": 7.4487324,
+  "mieter": []
+ },
+ "bern|münstergasse|74": {
+  "street": "Münstergasse",
+  "hn": "74",
+  "lat": 46.947504,
+  "lng": 7.4484333,
+  "mieter": []
+ },
+ "bern|münstergasse|76": {
+  "street": "Münstergasse",
+  "hn": "76",
+  "lat": 46.9475037,
+  "lng": 7.4483655,
+  "mieter": []
+ },
+ "bern|münstergasse|72": {
+  "street": "Münstergasse",
+  "hn": "72",
+  "lat": 46.9475037,
+  "lng": 7.4485091,
+  "mieter": [
+   "zia noli"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|74": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "74",
+  "lat": 46.9481351,
+  "lng": 7.452665,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|54": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "54",
+  "lat": 46.9483069,
+  "lng": 7.4537813,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|60": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "60",
+  "lat": 46.948257,
+  "lng": 7.4535444,
+  "mieter": [
+   "Küchenladen"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|52": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "52",
+  "lat": 46.9483266,
+  "lng": 7.4538951,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|56": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "56",
+  "lat": 46.9482923,
+  "lng": 7.4537135,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|58": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "58",
+  "lat": 46.9482761,
+  "lng": 7.4536377,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|81": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "81",
+  "lat": 46.9479583,
+  "lng": 7.4524219,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|79": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "79",
+  "lat": 46.9479738,
+  "lng": 7.4525878,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|53": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "53",
+  "lat": 46.9480806,
+  "lng": 7.4535208,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|55": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "55",
+  "lat": 46.9480652,
+  "lng": 7.453444,
+  "mieter": []
+ },
+ "bern|marktgasse|45": {
+  "street": "Marktgasse",
+  "hn": "45",
+  "lat": 46.9479598,
+  "lng": 7.4450829,
+  "mieter": []
+ },
+ "bern|marktgasse|49": {
+  "street": "Marktgasse",
+  "hn": "49",
+  "lat": 46.9479746,
+  "lng": 7.4449622,
+  "mieter": []
+ },
+ "bern|marktgasse|51": {
+  "street": "Marktgasse",
+  "hn": "51",
+  "lat": 46.947994,
+  "lng": 7.4448343,
+  "mieter": []
+ },
+ "bern|kramgasse|6": {
+  "street": "Kramgasse",
+  "hn": "6",
+  "lat": 46.9482129,
+  "lng": 7.4519571,
+  "mieter": [
+   "Ono",
+   "küche & raum"
+  ]
+ },
+ "bern|münstergasse|44": {
+  "street": "Münstergasse",
+  "hn": "44",
+  "lat": 46.9475163,
+  "lng": 7.4499885,
+  "mieter": []
+ },
+ "bern|spitalgasse|2": {
+  "street": "Spitalgasse",
+  "hn": "2",
+  "lat": 46.9482831,
+  "lng": 7.4433646,
+  "mieter": []
+ },
+ "bern|kramgasse|12": {
+  "street": "Kramgasse",
+  "hn": "12",
+  "lat": 46.9480561,
+  "lng": 7.4516072,
+  "mieter": [
+   "Botschaft Litauen"
+  ]
+ },
+ "bern|kramgasse|10": {
+  "street": "Kramgasse",
+  "hn": "10",
+  "lat": 46.9480637,
+  "lng": 7.4517377,
+  "mieter": []
+ },
+ "bern|marktgasse|52": {
+  "street": "Marktgasse",
+  "hn": "52",
+  "lat": 46.9482003,
+  "lng": 7.4445272,
+  "mieter": [
+   "augenwerk"
+  ]
+ },
+ "bern|spitalgasse|49": {
+  "street": "Spitalgasse",
+  "hn": "49",
+  "lat": 46.9477556,
+  "lng": 7.4413375,
+  "mieter": []
+ },
+ "bern|spitalgasse|26": {
+  "street": "Spitalgasse",
+  "hn": "26",
+  "lat": 46.9481224,
+  "lng": 7.4423638,
+  "mieter": [
+   "El Mexicano"
+  ]
+ },
+ "bern|spitalgasse|51": {
+  "street": "Spitalgasse",
+  "hn": "51",
+  "lat": 46.9477221,
+  "lng": 7.441191,
+  "mieter": []
+ },
+ "bern|spitalgasse|47": {
+  "street": "Spitalgasse",
+  "hn": "47",
+  "lat": 46.9477801,
+  "lng": 7.4414553,
+  "mieter": []
+ },
+ "bern|spitalgasse|29": {
+  "street": "Spitalgasse",
+  "hn": "29",
+  "lat": 46.9478945,
+  "lng": 7.4420421,
+  "mieter": []
+ },
+ "bern|kramgasse|20": {
+  "street": "Kramgasse",
+  "hn": "20",
+  "lat": 46.9480455,
+  "lng": 7.4510606,
+  "mieter": [
+   "Ooonyva"
+  ]
+ },
+ "bern|kramgasse|29": {
+  "street": "Kramgasse",
+  "hn": "29",
+  "lat": 46.947885,
+  "lng": 7.4507273,
+  "mieter": []
+ },
+ "bern|kramgasse|31": {
+  "street": "Kramgasse",
+  "hn": "31",
+  "lat": 46.9478843,
+  "lng": 7.450638,
+  "mieter": []
+ },
+ "bern|kramgasse|50": {
+  "street": "Kramgasse",
+  "hn": "50",
+  "lat": 46.9480408,
+  "lng": 7.4499089,
+  "mieter": [
+   "Apple;Samsung;Google;Microsoft;HP;Lenovo"
+  ]
+ },
+ "bern|kramgasse|54": {
+  "street": "Kramgasse",
+  "hn": "54",
+  "lat": 46.9480364,
+  "lng": 7.4497329,
+  "mieter": [
+   "Botschaft Ecuador"
+  ]
+ },
+ "bern|kramgasse|80": {
+  "street": "Kramgasse",
+  "hn": "80",
+  "lat": 46.9480621,
+  "lng": 7.4484276,
+  "mieter": []
+ },
+ "bern|kramgasse|84": {
+  "street": "Kramgasse",
+  "hn": "84",
+  "lat": 46.9480693,
+  "lng": 7.4482772,
+  "mieter": []
+ },
+ "bern|kramgasse|30": {
+  "street": "Kramgasse",
+  "hn": "30",
+  "lat": 46.9482133,
+  "lng": 7.4507136,
+  "mieter": [
+   "Narrenpack"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|6": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "6",
+  "lat": 46.9488242,
+  "lng": 7.4558693,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|4": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "4",
+  "lat": 46.948821,
+  "lng": 7.4559421,
+  "mieter": [
+   "Bruin Café & Co"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|8": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "8",
+  "lat": 46.9488271,
+  "lng": 7.4558012,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|2": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "2",
+  "lat": 46.9488138,
+  "lng": 7.4560844,
+  "mieter": []
+ },
+ "bern|kramgasse|1": {
+  "street": "Kramgasse",
+  "hn": "1",
+  "lat": 46.9479332,
+  "lng": 7.4521899,
+  "mieter": []
+ },
+ "bern|kramgasse|18": {
+  "street": "Kramgasse",
+  "hn": "18",
+  "lat": 46.9480444,
+  "lng": 7.4512532,
+  "mieter": []
+ },
+ "bern|kramgasse|45": {
+  "street": "Kramgasse",
+  "hn": "45",
+  "lat": 46.9478852,
+  "lng": 7.4500942,
+  "mieter": []
+ },
+ "bern|marktgasse|24": {
+  "street": "Marktgasse",
+  "hn": "24",
+  "lat": 46.948009,
+  "lng": 7.4460023,
+  "mieter": []
+ },
+ "bern|marktgasse|46": {
+  "street": "Marktgasse",
+  "hn": "46",
+  "lat": 46.9481593,
+  "lng": 7.4448162,
+  "mieter": [
+   "Hotelplan"
+  ]
+ },
+ "bern|marktgasse|10": {
+  "street": "Marktgasse",
+  "hn": "10",
+  "lat": 46.9479885,
+  "lng": 7.4466623,
+  "mieter": []
+ },
+ "bern|marktgasse|4": {
+  "street": "Marktgasse",
+  "hn": "4",
+  "lat": 46.9479794,
+  "lng": 7.4470545,
+  "mieter": []
+ },
+ "bern|marktgasse|6": {
+  "street": "Marktgasse",
+  "hn": "6",
+  "lat": 46.947981,
+  "lng": 7.4468797,
+  "mieter": [
+   "Zockbar"
+  ]
+ },
+ "bern|kramgasse|32": {
+  "street": "Kramgasse",
+  "hn": "32",
+  "lat": 46.9480563,
+  "lng": 7.4506076,
+  "mieter": []
+ },
+ "bern|kramgasse|34": {
+  "street": "Kramgasse",
+  "hn": "34",
+  "lat": 46.9480566,
+  "lng": 7.4505297,
+  "mieter": []
+ },
+ "bern|münstergasse|2": {
+  "street": "Münstergasse",
+  "hn": "2",
+  "lat": 46.9475619,
+  "lng": 7.4521844,
+  "mieter": []
+ },
+ "bern|münstergasse|1": {
+  "street": "Münstergasse",
+  "hn": "1",
+  "lat": 46.9474292,
+  "lng": 7.452321,
+  "mieter": []
+ },
+ "bern|münstergasse|3": {
+  "street": "Münstergasse",
+  "hn": "3",
+  "lat": 46.9472353,
+  "lng": 7.4523223,
+  "mieter": []
+ },
+ "bern|münstergasse|10": {
+  "street": "Münstergasse",
+  "hn": "10",
+  "lat": 46.947541,
+  "lng": 7.4516925,
+  "mieter": []
+ },
+ "bern|münstergasse|12": {
+  "street": "Münstergasse",
+  "hn": "12",
+  "lat": 46.9475379,
+  "lng": 7.4516194,
+  "mieter": []
+ },
+ "bern|münstergasse|14": {
+  "street": "Münstergasse",
+  "hn": "14",
+  "lat": 46.9475336,
+  "lng": 7.4515229,
+  "mieter": []
+ },
+ "bern|münstergasse|16": {
+  "street": "Münstergasse",
+  "hn": "16",
+  "lat": 46.9475283,
+  "lng": 7.4514141,
+  "mieter": []
+ },
+ "bern|münstergasse|18": {
+  "street": "Münstergasse",
+  "hn": "18",
+  "lat": 46.947523,
+  "lng": 7.4513113,
+  "mieter": []
+ },
+ "bern|münstergasse|20": {
+  "street": "Münstergasse",
+  "hn": "20",
+  "lat": 46.9475196,
+  "lng": 7.4512452,
+  "mieter": []
+ },
+ "bern|münstergasse|22": {
+  "street": "Münstergasse",
+  "hn": "22",
+  "lat": 46.9475157,
+  "lng": 7.4511716,
+  "mieter": []
+ },
+ "bern|münstergasse|24": {
+  "street": "Münstergasse",
+  "hn": "24",
+  "lat": 46.9475084,
+  "lng": 7.451042,
+  "mieter": []
+ },
+ "bern|münstergasse|26": {
+  "street": "Münstergasse",
+  "hn": "26",
+  "lat": 46.9475053,
+  "lng": 7.4509316,
+  "mieter": []
+ },
+ "bern|münstergasse|30": {
+  "street": "Münstergasse",
+  "hn": "30",
+  "lat": 46.9475061,
+  "lng": 7.4507758,
+  "mieter": []
+ },
+ "bern|münstergasse|32": {
+  "street": "Münstergasse",
+  "hn": "32",
+  "lat": 46.9475113,
+  "lng": 7.450628,
+  "mieter": [
+   "Plakatkeller"
+  ]
+ },
+ "bern|münstergasse|33": {
+  "street": "Münstergasse",
+  "hn": "33",
+  "lat": 46.9474254,
+  "lng": 7.4503686,
+  "mieter": []
+ },
+ "bern|münstergasse|34": {
+  "street": "Münstergasse",
+  "hn": "34",
+  "lat": 46.9475133,
+  "lng": 7.4504679,
+  "mieter": []
+ },
+ "bern|münstergasse|35": {
+  "street": "Münstergasse",
+  "hn": "35",
+  "lat": 46.9474234,
+  "lng": 7.450294,
+  "mieter": []
+ },
+ "bern|münstergasse|36": {
+  "street": "Münstergasse",
+  "hn": "36",
+  "lat": 46.9475127,
+  "lng": 7.450355,
+  "mieter": []
+ },
+ "bern|münstergasse|38": {
+  "street": "Münstergasse",
+  "hn": "38",
+  "lat": 46.9475132,
+  "lng": 7.450253,
+  "mieter": [
+   "Divina"
+  ]
+ },
+ "bern|münstergasse|4": {
+  "street": "Münstergasse",
+  "hn": "4",
+  "lat": 46.9475539,
+  "lng": 7.4520173,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|41": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "41",
+  "lat": 46.9481868,
+  "lng": 7.4539884,
+  "mieter": []
+ },
+ "bern|münstergasse|41": {
+  "street": "Münstergasse",
+  "hn": "41",
+  "lat": 46.9474218,
+  "lng": 7.4500868,
+  "mieter": []
+ },
+ "bern|münstergasse|42": {
+  "street": "Münstergasse",
+  "hn": "42",
+  "lat": 46.9475146,
+  "lng": 7.4500654,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|43": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "43",
+  "lat": 46.9481616,
+  "lng": 7.4538812,
+  "mieter": []
+ },
+ "bern|münstergasse|49": {
+  "street": "Münstergasse",
+  "hn": "49",
+  "lat": 46.9474105,
+  "lng": 7.4495678,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|50": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "50",
+  "lat": 46.9483502,
+  "lng": 7.454006,
+  "mieter": [
+   "abflugbar"
+  ]
+ },
+ "bern|münstergasse|50": {
+  "street": "Münstergasse",
+  "hn": "50",
+  "lat": 46.9475177,
+  "lng": 7.4496558,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|51": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "51",
+  "lat": 46.9480963,
+  "lng": 7.4535904,
+  "mieter": []
+ },
+ "bern|münstergasse|51": {
+  "street": "Münstergasse",
+  "hn": "51",
+  "lat": 46.947404,
+  "lng": 7.4494511,
+  "mieter": []
+ },
+ "bern|münstergasse|54": {
+  "street": "Münstergasse",
+  "hn": "54",
+  "lat": 46.9475124,
+  "lng": 7.4494885,
+  "mieter": [
+   "Frohsinn"
+  ]
+ },
+ "bern|münstergasse|56": {
+  "street": "Münstergasse",
+  "hn": "56",
+  "lat": 46.9475099,
+  "lng": 7.4493741,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|57": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "57",
+  "lat": 46.9480545,
+  "lng": 7.4533707,
+  "mieter": []
+ },
+ "bern|münstergasse|57": {
+  "street": "Münstergasse",
+  "hn": "57",
+  "lat": 46.9474003,
+  "lng": 7.4492919,
+  "mieter": [
+   "Tab-Tim Thai"
+  ]
+ },
+ "bern|münstergasse|58": {
+  "street": "Münstergasse",
+  "hn": "58",
+  "lat": 46.9475051,
+  "lng": 7.4492199,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|59": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "59",
+  "lat": 46.9480442,
+  "lng": 7.4532933,
+  "mieter": []
+ },
+ "bern|münstergasse|59": {
+  "street": "Münstergasse",
+  "hn": "59",
+  "lat": 46.9473997,
+  "lng": 7.4492248,
+  "mieter": []
+ },
+ "bern|münstergasse|6": {
+  "street": "Münstergasse",
+  "hn": "6",
+  "lat": 46.9475497,
+  "lng": 7.4519096,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|61": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "61",
+  "lat": 46.9480354,
+  "lng": 7.453213,
+  "mieter": []
+ },
+ "bern|münstergasse|61": {
+  "street": "Münstergasse",
+  "hn": "61",
+  "lat": 46.9473971,
+  "lng": 7.4489978,
+  "mieter": [
+   "Bibliothek Münstergasse"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|63": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "63",
+  "lat": 46.9480291,
+  "lng": 7.4531422,
+  "mieter": [
+   "ST. VIR"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|75": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "75",
+  "lat": 46.9479937,
+  "lng": 7.4527827,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|77": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "77",
+  "lat": 46.9479849,
+  "lng": 7.4526988,
+  "mieter": []
+ },
+ "bern|münstergasse|8": {
+  "street": "Münstergasse",
+  "hn": "8",
+  "lat": 46.947545,
+  "lng": 7.4517937,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|39": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "39",
+  "lat": 46.9482009,
+  "lng": 7.4540578,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|46": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "46",
+  "lat": 46.948381,
+  "lng": 7.4541591,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|78": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "78",
+  "lat": 46.9481192,
+  "lng": 7.4524797,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|76": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "76",
+  "lat": 46.9481248,
+  "lng": 7.452553,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|80": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "80",
+  "lat": 46.9481128,
+  "lng": 7.4524067,
+  "mieter": []
+ },
+ "bern|münstergasse|63": {
+  "street": "Münstergasse",
+  "hn": "63",
+  "lat": 46.9473948,
+  "lng": 7.4483954,
+  "mieter": []
+ },
+ "bern|marktgasse|1": {
+  "street": "Marktgasse",
+  "hn": "1",
+  "lat": 46.9478882,
+  "lng": 7.4472339,
+  "mieter": [
+   "Cave Verde"
+  ]
+ },
+ "bern|marktgasse|60": {
+  "street": "Marktgasse",
+  "hn": "60",
+  "lat": 46.9482344,
+  "lng": 7.4442567,
+  "mieter": [
+   "DQ Solutions Filiale Bern"
+  ]
+ },
+ "bern|marktgasse|31": {
+  "street": "Marktgasse",
+  "hn": "31",
+  "lat": 46.9478834,
+  "lng": 7.4457318,
+  "mieter": []
+ },
+ "bern|marktgasse|25": {
+  "street": "Marktgasse",
+  "hn": "25",
+  "lat": 46.9478712,
+  "lng": 7.4459939,
+  "mieter": []
+ },
+ "bern|marktgasse|35": {
+  "street": "Marktgasse",
+  "hn": "35",
+  "lat": 46.9478917,
+  "lng": 7.4456371,
+  "mieter": []
+ },
+ "bern|marktgasse|29": {
+  "street": "Marktgasse",
+  "hn": "29",
+  "lat": 46.9478787,
+  "lng": 7.4458236,
+  "mieter": []
+ },
+ "bern|marktgasse|37": {
+  "street": "Marktgasse",
+  "hn": "37",
+  "lat": 46.9479183,
+  "lng": 7.4454053,
+  "mieter": [
+   "Hof-Bar",
+   "KAISER DELI",
+   "OF GOODS"
+  ]
+ },
+ "bern|marktgasse|27": {
+  "street": "Marktgasse",
+  "hn": "27",
+  "lat": 46.9478756,
+  "lng": 7.4459258,
+  "mieter": []
+ },
+ "bern|marktgasse|63": {
+  "street": "Marktgasse",
+  "hn": "63",
+  "lat": 46.9480777,
+  "lng": 7.4442885,
+  "mieter": []
+ },
+ "bern|marktgasse|59": {
+  "street": "Marktgasse",
+  "hn": "59",
+  "lat": 46.9480437,
+  "lng": 7.4445061,
+  "mieter": []
+ },
+ "bern|marktgasse|61": {
+  "street": "Marktgasse",
+  "hn": "61",
+  "lat": 46.9480587,
+  "lng": 7.4444144,
+  "mieter": []
+ },
+ "bern|marktgasse|53": {
+  "street": "Marktgasse",
+  "hn": "53",
+  "lat": 46.9480094,
+  "lng": 7.4447301,
+  "mieter": []
+ },
+ "bern|marktgasse|55": {
+  "street": "Marktgasse",
+  "hn": "55",
+  "lat": 46.9480249,
+  "lng": 7.4446294,
+  "mieter": [
+   "Zweiblatt Concept Store"
+  ]
+ },
+ "bern|marktgasse|19": {
+  "street": "Marktgasse",
+  "hn": "19",
+  "lat": 46.9478522,
+  "lng": 7.4463416,
+  "mieter": [
+   "Äss-Bar",
+   "Friend or Foe Specialty Coffee Market",
+   "Mr. Packhouse"
+  ]
+ },
+ "bern|marktgasse|15": {
+  "street": "Marktgasse",
+  "hn": "15",
+  "lat": 46.9478465,
+  "lng": 7.4465089,
+  "mieter": []
+ },
+ "bern|marktgasse|13": {
+  "street": "Marktgasse",
+  "hn": "13",
+  "lat": 46.947847,
+  "lng": 7.4465937,
+  "mieter": []
+ },
+ "bern|marktgasse|17": {
+  "street": "Marktgasse",
+  "hn": "17",
+  "lat": 46.9478471,
+  "lng": 7.44644,
+  "mieter": []
+ },
+ "bern|marktgasse|14": {
+  "street": "Marktgasse",
+  "hn": "14",
+  "lat": 46.9479953,
+  "lng": 7.4464917,
+  "mieter": []
+ },
+ "bern|marktgasse|20": {
+  "street": "Marktgasse",
+  "hn": "20",
+  "lat": 46.9480015,
+  "lng": 7.4462752,
+  "mieter": []
+ },
+ "bern|marktgasse|16": {
+  "street": "Marktgasse",
+  "hn": "16",
+  "lat": 46.9479985,
+  "lng": 7.446406,
+  "mieter": []
+ },
+ "bern|marktgasse|18": {
+  "street": "Marktgasse",
+  "hn": "18",
+  "lat": 46.9480004,
+  "lng": 7.4463385,
+  "mieter": []
+ },
+ "bern|marktgasse|50": {
+  "street": "Marktgasse",
+  "hn": "50",
+  "lat": 46.9481911,
+  "lng": 7.4445997,
+  "mieter": []
+ },
+ "bern|marktgasse|44": {
+  "street": "Marktgasse",
+  "hn": "44",
+  "lat": 46.9481346,
+  "lng": 7.4449591,
+  "mieter": []
+ },
+ "bern|marktgasse|40": {
+  "street": "Marktgasse",
+  "hn": "40",
+  "lat": 46.9480915,
+  "lng": 7.4451899,
+  "mieter": []
+ },
+ "bern|marktgasse|38": {
+  "street": "Marktgasse",
+  "hn": "38",
+  "lat": 46.9480704,
+  "lng": 7.4453231,
+  "mieter": []
+ },
+ "bern|marktgasse|42": {
+  "street": "Marktgasse",
+  "hn": "42",
+  "lat": 46.9481118,
+  "lng": 7.4450835,
+  "mieter": [
+   "Gebätshuus"
+  ]
+ },
+ "bern|marktgasse|69": {
+  "street": "Marktgasse",
+  "hn": "69",
+  "lat": 46.9480745,
+  "lng": 7.4440104,
+  "mieter": []
+ },
+ "bern|kramgasse|8": {
+  "street": "Kramgasse",
+  "hn": "8",
+  "lat": 46.9480721,
+  "lng": 7.451861,
+  "mieter": [
+   "Marta"
+  ]
+ },
+ "bern|kramgasse|2": {
+  "street": "Kramgasse",
+  "hn": "2",
+  "lat": 46.9480968,
+  "lng": 7.4521994,
+  "mieter": []
+ },
+ "bern|kramgasse|4": {
+  "street": "Kramgasse",
+  "hn": "4",
+  "lat": 46.9480883,
+  "lng": 7.4520797,
+  "mieter": [
+   "Teppiche 1001"
+  ]
+ },
+ "bern|kramgasse|58": {
+  "street": "Kramgasse",
+  "hn": "58",
+  "lat": 46.9481415,
+  "lng": 7.4495118,
+  "mieter": [
+   "Botschaft Paraguay"
+  ]
+ },
+ "bern|kramgasse|63": {
+  "street": "Kramgasse",
+  "hn": "63",
+  "lat": 46.9478886,
+  "lng": 7.4491951,
+  "mieter": [
+   "Botschaft Uruguay",
+   "Eva's Apples"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|42": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "42",
+  "lat": 46.9484333,
+  "lng": 7.4544021,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|40": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "40",
+  "lat": 46.9484701,
+  "lng": 7.4545843,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|44": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "44",
+  "lat": 46.9484036,
+  "lng": 7.4542637,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|48": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "48",
+  "lat": 46.9483659,
+  "lng": 7.4540836,
+  "mieter": []
+ },
+ "bern|spitalgasse|1": {
+  "street": "Spitalgasse",
+  "hn": "1",
+  "lat": 46.9480979,
+  "lng": 7.4433315,
+  "mieter": []
+ },
+ "bern|spitalgasse|9": {
+  "street": "Spitalgasse",
+  "hn": "9",
+  "lat": 46.9480374,
+  "lng": 7.4429621,
+  "mieter": []
+ },
+ "bern|spitalgasse|3": {
+  "street": "Spitalgasse",
+  "hn": "3",
+  "lat": 46.948068,
+  "lng": 7.4431453,
+  "mieter": []
+ },
+ "bern|spitalgasse|32": {
+  "street": "Spitalgasse",
+  "hn": "32",
+  "lat": 46.948061,
+  "lng": 7.4420225,
+  "mieter": []
+ },
+ "bern|spitalgasse|40": {
+  "street": "Spitalgasse",
+  "hn": "40",
+  "lat": 46.947961,
+  "lng": 7.4414172,
+  "mieter": []
+ },
+ "bern|spitalgasse|34": {
+  "street": "Spitalgasse",
+  "hn": "34",
+  "lat": 46.9480372,
+  "lng": 7.4418893,
+  "mieter": [
+   "Chang Thai Massage and SPA"
+  ]
+ },
+ "bern|spitalgasse|30": {
+  "street": "Spitalgasse",
+  "hn": "30",
+  "lat": 46.9480849,
+  "lng": 7.4421428,
+  "mieter": []
+ },
+ "bern|spitalgasse|36": {
+  "street": "Spitalgasse",
+  "hn": "36",
+  "lat": 46.9480119,
+  "lng": 7.4417323,
+  "mieter": []
+ },
+ "bern|spitalgasse|38": {
+  "street": "Spitalgasse",
+  "hn": "38",
+  "lat": 46.9479866,
+  "lng": 7.4415752,
+  "mieter": [
+   "Aminos Crêperie & Gelateria"
+  ]
+ },
+ "bern|spitalgasse|44": {
+  "street": "Spitalgasse",
+  "hn": "44",
+  "lat": 46.947835,
+  "lng": 7.4408018,
+  "mieter": [
+   "Heiliggeistkirche"
+  ]
+ },
+ "bern|spitalgasse|27": {
+  "street": "Spitalgasse",
+  "hn": "27",
+  "lat": 46.9479086,
+  "lng": 7.4421214,
+  "mieter": []
+ },
+ "bern|spitalgasse|35": {
+  "street": "Spitalgasse",
+  "hn": "35",
+  "lat": 46.9478482,
+  "lng": 7.4417865,
+  "mieter": [
+   "Delinat-Weinbar",
+   "TINYFISH"
+  ]
+ },
+ "bern|spitalgasse|37": {
+  "street": "Spitalgasse",
+  "hn": "37",
+  "lat": 46.9477764,
+  "lng": 7.4416317,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "bern|spitalgasse|33": {
+  "street": "Spitalgasse",
+  "hn": "33",
+  "lat": 46.9478731,
+  "lng": 7.4419241,
+  "mieter": [
+   "Søstrene Grene"
+  ]
+ },
+ "bern|spitalgasse|23": {
+  "street": "Spitalgasse",
+  "hn": "23",
+  "lat": 46.9479309,
+  "lng": 7.4422462,
+  "mieter": []
+ },
+ "bern|spitalgasse|28": {
+  "street": "Spitalgasse",
+  "hn": "28",
+  "lat": 46.948106,
+  "lng": 7.4422611,
+  "mieter": []
+ },
+ "bern|spitalgasse|4": {
+  "street": "Spitalgasse",
+  "hn": "4",
+  "lat": 46.9482399,
+  "lng": 7.4430966,
+  "mieter": [
+   "am Käfigturm",
+   "Sous Soul"
+  ]
+ },
+ "bern|spitalgasse|14": {
+  "street": "Spitalgasse",
+  "hn": "14",
+  "lat": 46.9481979,
+  "lng": 7.4428371,
+  "mieter": []
+ },
+ "bern|spitalgasse|18": {
+  "street": "Spitalgasse",
+  "hn": "18",
+  "lat": 46.9481716,
+  "lng": 7.4426702,
+  "mieter": []
+ },
+ "bern|spitalgasse|16": {
+  "street": "Spitalgasse",
+  "hn": "16",
+  "lat": 46.9481829,
+  "lng": 7.4427404,
+  "mieter": []
+ },
+ "bern|spitalgasse|22": {
+  "street": "Spitalgasse",
+  "hn": "22",
+  "lat": 46.9481469,
+  "lng": 7.4425152,
+  "mieter": []
+ },
+ "bern|spitalgasse|24": {
+  "street": "Spitalgasse",
+  "hn": "24",
+  "lat": 46.9481357,
+  "lng": 7.4424454,
+  "mieter": []
+ },
+ "bern|spitalgasse|16a": {
+  "street": "Spitalgasse",
+  "hn": "16a",
+  "lat": 46.9485517,
+  "lng": 7.4427839,
+  "mieter": []
+ },
+ "bern|spitalgasse|20": {
+  "street": "Spitalgasse",
+  "hn": "20",
+  "lat": 46.948158,
+  "lng": 7.4425861,
+  "mieter": []
+ },
+ "bern|spitalgasse|17": {
+  "street": "Spitalgasse",
+  "hn": "17",
+  "lat": 46.9479956,
+  "lng": 7.4426818,
+  "mieter": []
+ },
+ "bern|marktgasse|58": {
+  "street": "Marktgasse",
+  "hn": "58",
+  "lat": 46.9482242,
+  "lng": 7.4443335,
+  "mieter": []
+ },
+ "bern|marktgasse|56": {
+  "street": "Marktgasse",
+  "hn": "56",
+  "lat": 46.9482168,
+  "lng": 7.4443891,
+  "mieter": []
+ },
+ "bern|spitalgasse|47-51": {
+  "street": "Spitalgasse",
+  "hn": "47-51",
+  "lat": 46.9474178,
+  "lng": 7.4408649,
+  "mieter": [
+   "energyKitchen",
+   "Lidl"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|30": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "30",
+  "lat": 46.9486142,
+  "lng": 7.4550886,
+  "mieter": [
+   "Schnittstelle"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|22": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "22",
+  "lat": 46.9486862,
+  "lng": 7.4553346,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|24": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "24",
+  "lat": 46.948675,
+  "lng": 7.4552824,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|28": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "28",
+  "lat": 46.948639,
+  "lng": 7.4551634,
+  "mieter": []
+ },
+ "bern|kramgasse|87": {
+  "street": "Kramgasse",
+  "hn": "87",
+  "lat": 46.9479008,
+  "lng": 7.4482444,
+  "mieter": []
+ },
+ "bern|kramgasse|83": {
+  "street": "Kramgasse",
+  "hn": "83",
+  "lat": 46.9478999,
+  "lng": 7.4483777,
+  "mieter": []
+ },
+ "bern|kramgasse|85": {
+  "street": "Kramgasse",
+  "hn": "85",
+  "lat": 46.9479006,
+  "lng": 7.4482975,
+  "mieter": []
+ },
+ "bern|kramgasse|7": {
+  "street": "Kramgasse",
+  "hn": "7",
+  "lat": 46.9479026,
+  "lng": 7.4518436,
+  "mieter": []
+ },
+ "bern|kramgasse|5": {
+  "street": "Kramgasse",
+  "hn": "5",
+  "lat": 46.9479143,
+  "lng": 7.4519836,
+  "mieter": []
+ },
+ "bern|kramgasse|3": {
+  "street": "Kramgasse",
+  "hn": "3",
+  "lat": 46.9479248,
+  "lng": 7.4521002,
+  "mieter": [
+   "rytz"
+  ]
+ },
+ "bern|kramgasse|81": {
+  "street": "Kramgasse",
+  "hn": "81",
+  "lat": 46.9478992,
+  "lng": 7.4484542,
+  "mieter": []
+ },
+ "bern|marktgasse|5": {
+  "street": "Marktgasse",
+  "hn": "5",
+  "lat": 46.9478743,
+  "lng": 7.4470362,
+  "mieter": []
+ },
+ "bern|marktgasse|3": {
+  "street": "Marktgasse",
+  "hn": "3",
+  "lat": 46.9478819,
+  "lng": 7.4471193,
+  "mieter": []
+ },
+ "bern|marktgasse|9": {
+  "street": "Marktgasse",
+  "hn": "9",
+  "lat": 46.947858,
+  "lng": 7.446869,
+  "mieter": [
+   "Art D'Luxe"
+  ]
+ },
+ "bern|marktgasse|7": {
+  "street": "Marktgasse",
+  "hn": "7",
+  "lat": 46.947867,
+  "lng": 7.4469667,
+  "mieter": []
+ },
+ "bern|münstergasse|52": {
+  "street": "Münstergasse",
+  "hn": "52",
+  "lat": 46.9475144,
+  "lng": 7.4495618,
+  "mieter": []
+ },
+ "bern|kramgasse|53": {
+  "street": "Kramgasse",
+  "hn": "53",
+  "lat": 46.9478828,
+  "lng": 7.4497696,
+  "mieter": []
+ },
+ "bern|kramgasse|55": {
+  "street": "Kramgasse",
+  "hn": "55",
+  "lat": 46.9478859,
+  "lng": 7.4496496,
+  "mieter": []
+ },
+ "bern|kramgasse|57": {
+  "street": "Kramgasse",
+  "hn": "57",
+  "lat": 46.9478909,
+  "lng": 7.4495631,
+  "mieter": []
+ },
+ "bern|münstergasse|46": {
+  "street": "Münstergasse",
+  "hn": "46",
+  "lat": 46.9475183,
+  "lng": 7.4499113,
+  "mieter": []
+ },
+ "bern|kramgasse|51": {
+  "street": "Kramgasse",
+  "hn": "51",
+  "lat": 46.9478817,
+  "lng": 7.4498795,
+  "mieter": []
+ },
+ "bern|münstergasse|47": {
+  "street": "Münstergasse",
+  "hn": "47",
+  "lat": 46.9474161,
+  "lng": 7.4497652,
+  "mieter": []
+ },
+ "bern|marktgasse|32": {
+  "street": "Marktgasse",
+  "hn": "32",
+  "lat": 46.9480439,
+  "lng": 7.4455337,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|31": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "31",
+  "lat": 46.948262,
+  "lng": 7.4543833,
+  "mieter": [
+   "Puppentheater"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|35": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "35",
+  "lat": 46.9482213,
+  "lng": 7.4541645,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|13": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "13",
+  "lat": 46.9484456,
+  "lng": 7.4550637,
+  "mieter": [
+   "Lieblings"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|33": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "33",
+  "lat": 46.9482394,
+  "lng": 7.4542731,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|29": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "29",
+  "lat": 46.9482912,
+  "lng": 7.4545095,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|19": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "19",
+  "lat": 46.9483997,
+  "lng": 7.4549111,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|23": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "23",
+  "lat": 46.9483643,
+  "lng": 7.4547681,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|15": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "15",
+  "lat": 46.9484303,
+  "lng": 7.4550107,
+  "mieter": [
+   "Seemannskeller Bern"
+  ]
+ },
+ "bern|gerechtigkeitsgasse|25": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "25",
+  "lat": 46.9483415,
+  "lng": 7.4546918,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|11": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "11",
+  "lat": 46.9484605,
+  "lng": 7.4551267,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|21": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "21",
+  "lat": 46.9483814,
+  "lng": 7.4548396,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|27": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "27",
+  "lat": 46.9483162,
+  "lng": 7.4546064,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|17": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "17",
+  "lat": 46.948416,
+  "lng": 7.4549655,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|9": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "9",
+  "lat": 46.9484761,
+  "lng": 7.455199,
+  "mieter": [
+   "handlig"
+  ]
+ },
+ "bern|kramgasse|9": {
+  "street": "Kramgasse",
+  "hn": "9",
+  "lat": 46.9478944,
+  "lng": 7.4517207,
+  "mieter": [
+   "Ryffel Running Shop Bern"
+  ]
+ },
+ "bern|kramgasse|75": {
+  "street": "Kramgasse",
+  "hn": "75",
+  "lat": 46.9478964,
+  "lng": 7.4486808,
+  "mieter": []
+ },
+ "bern|kramgasse|71": {
+  "street": "Kramgasse",
+  "hn": "71",
+  "lat": 46.9478944,
+  "lng": 7.4488314,
+  "mieter": []
+ },
+ "bern|kramgasse|77": {
+  "street": "Kramgasse",
+  "hn": "77",
+  "lat": 46.9478973,
+  "lng": 7.4486027,
+  "mieter": []
+ },
+ "bern|kramgasse|79": {
+  "street": "Kramgasse",
+  "hn": "79",
+  "lat": 46.9478985,
+  "lng": 7.4485323,
+  "mieter": []
+ },
+ "bern|kramgasse|69": {
+  "street": "Kramgasse",
+  "hn": "69",
+  "lat": 46.9478941,
+  "lng": 7.4489077,
+  "mieter": []
+ },
+ "bern|kramgasse|67": {
+  "street": "Kramgasse",
+  "hn": "67",
+  "lat": 46.9478922,
+  "lng": 7.4489836,
+  "mieter": []
+ },
+ "bern|kramgasse|65": {
+  "street": "Kramgasse",
+  "hn": "65",
+  "lat": 46.9478895,
+  "lng": 7.4490693,
+  "mieter": []
+ },
+ "bern|münstergasse|40": {
+  "street": "Münstergasse",
+  "hn": "40",
+  "lat": 46.9475143,
+  "lng": 7.4501542,
+  "mieter": []
+ },
+ "bern|kramgasse|43": {
+  "street": "Kramgasse",
+  "hn": "43",
+  "lat": 46.9478878,
+  "lng": 7.4501715,
+  "mieter": []
+ },
+ "bern|kramgasse|41": {
+  "street": "Kramgasse",
+  "hn": "41",
+  "lat": 46.9478889,
+  "lng": 7.4502371,
+  "mieter": []
+ },
+ "bern|kramgasse|78": {
+  "street": "Kramgasse",
+  "hn": "78",
+  "lat": 46.9480591,
+  "lng": 7.4485012,
+  "mieter": []
+ },
+ "bern|kramgasse|82": {
+  "street": "Kramgasse",
+  "hn": "82",
+  "lat": 46.9480651,
+  "lng": 7.4483543,
+  "mieter": []
+ },
+ "bern|kramgasse|61": {
+  "street": "Kramgasse",
+  "hn": "61",
+  "lat": 46.9478911,
+  "lng": 7.4493509,
+  "mieter": []
+ },
+ "bern|kramgasse|59": {
+  "street": "Kramgasse",
+  "hn": "59",
+  "lat": 46.9478931,
+  "lng": 7.4494887,
+  "mieter": []
+ },
+ "bern|kramgasse|14": {
+  "street": "Kramgasse",
+  "hn": "14",
+  "lat": 46.9480495,
+  "lng": 7.4514933,
+  "mieter": []
+ },
+ "bern|kramgasse|28": {
+  "street": "Kramgasse",
+  "hn": "28",
+  "lat": 46.9480552,
+  "lng": 7.4507936,
+  "mieter": []
+ },
+ "bern|kramgasse|16": {
+  "street": "Kramgasse",
+  "hn": "16",
+  "lat": 46.9480455,
+  "lng": 7.4513628,
+  "mieter": []
+ },
+ "bern|kramgasse|11": {
+  "street": "Kramgasse",
+  "hn": "11",
+  "lat": 46.9478891,
+  "lng": 7.4515998,
+  "mieter": []
+ },
+ "bern|münstergasse|55": {
+  "street": "Münstergasse",
+  "hn": "55",
+  "lat": 46.9474038,
+  "lng": 7.4493471,
+  "mieter": [
+   "Surang"
+  ]
+ },
+ "bern|münstergasse|53": {
+  "street": "Münstergasse",
+  "hn": "53",
+  "lat": 46.9474051,
+  "lng": 7.4493937,
+  "mieter": []
+ },
+ "bern|münstergasse|37": {
+  "street": "Münstergasse",
+  "hn": "37",
+  "lat": 46.9474223,
+  "lng": 7.4502169,
+  "mieter": []
+ },
+ "bern|münstergasse|43": {
+  "street": "Münstergasse",
+  "hn": "43",
+  "lat": 46.9474209,
+  "lng": 7.4500217,
+  "mieter": []
+ },
+ "bern|münstergasse|39": {
+  "street": "Münstergasse",
+  "hn": "39",
+  "lat": 46.947422,
+  "lng": 7.4501448,
+  "mieter": [
+   "ZOE"
+  ]
+ },
+ "bern|münstergasse|45": {
+  "street": "Münstergasse",
+  "hn": "45",
+  "lat": 46.9474188,
+  "lng": 7.449931,
+  "mieter": []
+ },
+ "bern|kramgasse|33": {
+  "street": "Kramgasse",
+  "hn": "33",
+  "lat": 46.9478846,
+  "lng": 7.4505508,
+  "mieter": []
+ },
+ "bern|kramgasse|27": {
+  "street": "Kramgasse",
+  "hn": "27",
+  "lat": 46.9478849,
+  "lng": 7.4508214,
+  "mieter": []
+ },
+ "bern|kramgasse|25": {
+  "street": "Kramgasse",
+  "hn": "25",
+  "lat": 46.9478849,
+  "lng": 7.4508996,
+  "mieter": [
+   "Katakömbli"
+  ]
+ },
+ "bern|kramgasse|37": {
+  "street": "Kramgasse",
+  "hn": "37",
+  "lat": 46.9478885,
+  "lng": 7.4503448,
+  "mieter": []
+ },
+ "bern|kramgasse|35": {
+  "street": "Kramgasse",
+  "hn": "35",
+  "lat": 46.9478867,
+  "lng": 7.4504332,
+  "mieter": []
+ },
+ "bern|kramgasse|21": {
+  "street": "Kramgasse",
+  "hn": "21",
+  "lat": 46.947885,
+  "lng": 7.4510491,
+  "mieter": []
+ },
+ "bern|kramgasse|23": {
+  "street": "Kramgasse",
+  "hn": "23",
+  "lat": 46.9478846,
+  "lng": 7.450977,
+  "mieter": []
+ },
+ "bern|kramgasse|48": {
+  "street": "Kramgasse",
+  "hn": "48",
+  "lat": 46.9480427,
+  "lng": 7.4499558,
+  "mieter": []
+ },
+ "bern|kramgasse|60": {
+  "street": "Kramgasse",
+  "hn": "60",
+  "lat": 46.9480351,
+  "lng": 7.4494533,
+  "mieter": []
+ },
+ "bern|kramgasse|70": {
+  "street": "Kramgasse",
+  "hn": "70",
+  "lat": 46.9480325,
+  "lng": 7.4490232,
+  "mieter": []
+ },
+ "bern|kramgasse|62": {
+  "street": "Kramgasse",
+  "hn": "62",
+  "lat": 46.9480346,
+  "lng": 7.4493868,
+  "mieter": []
+ },
+ "bern|kramgasse|64": {
+  "street": "Kramgasse",
+  "hn": "64",
+  "lat": 46.9480339,
+  "lng": 7.4493302,
+  "mieter": [
+   "vomFASS"
+  ]
+ },
+ "bern|kramgasse|66": {
+  "street": "Kramgasse",
+  "hn": "66",
+  "lat": 46.9480332,
+  "lng": 7.4492349,
+  "mieter": []
+ },
+ "bern|kramgasse|56": {
+  "street": "Kramgasse",
+  "hn": "56",
+  "lat": 46.9480351,
+  "lng": 7.4496188,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|32": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "32",
+  "lat": 46.9485905,
+  "lng": 7.4550122,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|26": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "26",
+  "lat": 46.9486595,
+  "lng": 7.4552263,
+  "mieter": []
+ },
+ "bern|kramgasse|68": {
+  "street": "Kramgasse",
+  "hn": "68",
+  "lat": 46.9480318,
+  "lng": 7.449125,
+  "mieter": [
+   "bespinian"
+  ]
+ },
+ "bern|kramgasse|52": {
+  "street": "Kramgasse",
+  "hn": "52",
+  "lat": 46.9480395,
+  "lng": 7.4498435,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|65": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "65",
+  "lat": 46.9480239,
+  "lng": 7.4530842,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|67": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "67",
+  "lat": 46.9480183,
+  "lng": 7.453029,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|69": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "69",
+  "lat": 46.9480122,
+  "lng": 7.4529767,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|71": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "71",
+  "lat": 46.9480062,
+  "lng": 7.4529195,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|73": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "73",
+  "lat": 46.9480009,
+  "lng": 7.4528593,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|49": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "49",
+  "lat": 46.9481111,
+  "lng": 7.4536576,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|47": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "47",
+  "lat": 46.9481269,
+  "lng": 7.4537276,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|45": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "45",
+  "lat": 46.9481438,
+  "lng": 7.4538018,
+  "mieter": []
+ },
+ "bern|kramgasse|13": {
+  "street": "Kramgasse",
+  "hn": "13",
+  "lat": 46.9478851,
+  "lng": 7.4515014,
+  "mieter": []
+ },
+ "bern|kramgasse|15": {
+  "street": "Kramgasse",
+  "hn": "15",
+  "lat": 46.9478838,
+  "lng": 7.4514306,
+  "mieter": []
+ },
+ "bern|kramgasse|17": {
+  "street": "Kramgasse",
+  "hn": "17",
+  "lat": 46.947884,
+  "lng": 7.4513528,
+  "mieter": []
+ },
+ "bern|münstergasse|28": {
+  "street": "Münstergasse",
+  "hn": "28",
+  "lat": 46.9475037,
+  "lng": 7.4508555,
+  "mieter": []
+ },
+ "bern|münstergasse|70": {
+  "street": "Münstergasse",
+  "hn": "70",
+  "lat": 46.9475043,
+  "lng": 7.4486144,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|36": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "36",
+  "lat": 46.9485379,
+  "lng": 7.4548432,
+  "mieter": []
+ },
+ "bern|gerechtigkeitsgasse|62": {
+  "street": "Gerechtigkeitsgasse",
+  "hn": "62",
+  "lat": 46.9482316,
+  "lng": 7.4534203,
+  "mieter": []
+ },
+ "bern|kramgasse|40": {
+  "street": "Kramgasse",
+  "hn": "40",
+  "lat": 46.9480532,
+  "lng": 7.4502195,
+  "mieter": []
+ },
+ "bern|kramgasse|46": {
+  "street": "Kramgasse",
+  "hn": "46",
+  "lat": 46.9480506,
+  "lng": 7.4501061,
+  "mieter": []
+ },
+ "bern|marktgasse|54": {
+  "street": "Marktgasse",
+  "hn": "54",
+  "lat": 46.9482105,
+  "lng": 7.4444432,
+  "mieter": []
+ },
+ "bern|marktgasse|36": {
+  "street": "Marktgasse",
+  "hn": "36",
+  "lat": 46.9480532,
+  "lng": 7.44545,
+  "mieter": []
+ },
+ "bern|marktgasse|28": {
+  "street": "Marktgasse",
+  "hn": "28",
+  "lat": 46.9480207,
+  "lng": 7.4457799,
+  "mieter": []
+ },
+ "bern|marktgasse|22": {
+  "street": "Marktgasse",
+  "hn": "22",
+  "lat": 46.9480033,
+  "lng": 7.446179,
+  "mieter": []
+ },
+ "bern|spitalgasse|57": {
+  "street": "Spitalgasse",
+  "hn": "57",
+  "lat": 46.9476286,
+  "lng": 7.4408066,
+  "mieter": []
+ },
+ "bern|marktgasse|11": {
+  "street": "Marktgasse",
+  "hn": "11",
+  "lat": 46.9478498,
+  "lng": 7.4467226,
+  "mieter": []
+ },
+ "bern|marktgasse|67": {
+  "street": "Marktgasse",
+  "hn": "67",
+  "lat": 46.9481484,
+  "lng": 7.4439839,
+  "mieter": []
+ }
+}

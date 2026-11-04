@@ -62,10 +62,10 @@
    "Gerechtigkeitsgasse",
    "Münstergasse"
   ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "strassen_ok": true,
+  "letzter_lauf": "2026-11-04",
+  "eigentuemer_quelle": "GRUDIS public (AGOV, Kaito einzeln) bzw. Grundbuchamt Bern-Mittelland; öffentlich: immobilienbusiness.ch, bgbern.ch",
+  "offen": "289"
  },
  {
   "kanton": "VD",
