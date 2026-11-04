@@ -12,9 +12,9 @@
    "Niederdorfstrasse"
   ],
   "strassen_ok": true,
-  "letzter_lauf": "2026-11-03",
-  "eigentuemer_quelle": "Grundbuch ZH (Eigentümerauskunft, frühere Läufe), Geschäftsbericht Swiss Prime Site 2025; Rest: Einzelabfrage GIS-Browser ZH (SMS, ca. 5/Tag) oder Anfrage Notariat Zürich-Altstadt",
-  "offen": "272"
+  "letzter_lauf": "2026-11-04",
+  "eigentuemer_quelle": "Grundbuch ZH (frühere Läufe); öffentliche Quellen 04.11.26: Liegenschafteninventar OGD Stadt Zürich, Geschäftsberichte PSP/SPS, Inventare AXA AST, UBS-Fonds, Swiss Life, CSA; Rest: GIS-Browser ZH (SMS, ca. 5/Tag) oder Notariat Zürich-Altstadt",
+  "offen": "221"
  },
  {
   "kanton": "GE",
