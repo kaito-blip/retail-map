@@ -13,7 +13,7 @@
   ],
   "strassen_ok": true,
   "letzter_lauf": "2026-11-04",
-  "eigentuemer_quelle": "Grundbuch ZH (frühere Läufe); öffentliche Quellen 04.11.26: Liegenschafteninventar OGD Stadt Zürich, Geschäftsberichte PSP/SPS, Inventare AXA AST, UBS-Fonds, Swiss Life, CSA; Rest: GIS-Browser ZH (SMS, ca. 5/Tag) oder Notariat Zürich-Altstadt",
+  "eigentuemer_quelle": "Grundbuch ZH (frühere Läufe); öffentliche Quellen 04.11.26: Liegenschafteninventar OGD Stadt Zürich, Geschäftsberichte PSP/SPS, Inventare AXA AST, UBS-Fonds, Swiss Life, CSA; Rest: GIS-Browser ZH (SMS, ca. 5/Tag) oder Notariat Zürich-Altstadt; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
   "offen": "221"
  },
  {
@@ -30,8 +30,8 @@
   ],
   "strassen_ok": true,
   "letzter_lauf": "2026-11-03",
-  "eigentuemer_quelle": "Grundbuch GE Extrait foncier (frühere Einzelabfragen Kaito, Sept. 2026); SITG-Kataster Feld «Propriété publique» (öffentliche Eigentümer); Rest: Einzelabfrage ge.ch/terextraitfoncier mit Direktlinks",
-  "offen": "138"
+  "eigentuemer_quelle": "Grundbuch GE Extrait foncier (frühere Einzelabfragen Kaito, Sept. 2026); SITG-Kataster Feld «Propriété publique» (öffentliche Eigentümer); Rest: Einzelabfrage ge.ch/terextraitfoncier mit Direktlinks; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 15",
+  "offen": "131"
  },
  {
   "kanton": "BS",
@@ -47,8 +47,8 @@
   ],
   "strassen_ok": true,
   "letzter_lauf": "2026-11-03",
-  "eigentuemer_quelle": "MapBS Eigentumsauskunft (Kaito einzeln, 10/Tag); 2 aus öffentlichen Quellen",
-  "offen": "205"
+  "eigentuemer_quelle": "MapBS Eigentumsauskunft (Kaito einzeln, 10/Tag); 2 aus öffentlichen Quellen; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 34",
+  "offen": "171"
  },
  {
   "kanton": "BE",
@@ -64,8 +64,8 @@
   ],
   "strassen_ok": true,
   "letzter_lauf": "2026-11-04",
-  "eigentuemer_quelle": "GRUDIS public (AGOV, Kaito einzeln) bzw. Grundbuchamt Bern-Mittelland; öffentlich: immobilienbusiness.ch, bgbern.ch",
-  "offen": "289"
+  "eigentuemer_quelle": "GRUDIS public (AGOV, Kaito einzeln) bzw. Grundbuchamt Bern-Mittelland; öffentlich: immobilienbusiness.ch, bgbern.ch; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 24",
+  "offen": "278"
  },
  {
   "kanton": "VD",
@@ -81,8 +81,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12",
+  "offen": "78"
  },
  {
   "kanton": "LU",
@@ -98,8 +98,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 11",
+  "offen": "129"
  },
  {
   "kanton": "SG",
@@ -115,8 +115,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12",
+  "offen": "131"
  },
  {
   "kanton": "TI",
@@ -132,8 +132,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+  "offen": "92"
  },
  {
   "kanton": "ZG",
@@ -149,8 +149,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 16",
+  "offen": "162"
  },
  {
   "kanton": "AG",
@@ -166,8 +166,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 6",
+  "offen": "122"
  },
  {
   "kanton": "SO",
@@ -183,8 +183,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+  "offen": "136"
  },
  {
   "kanton": "FR",
@@ -200,8 +200,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 9",
+  "offen": "204"
  },
  {
   "kanton": "NE",
@@ -217,8 +217,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
+  "offen": "61"
  },
  {
   "kanton": "VS",
@@ -234,8 +234,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 9",
+  "offen": "188"
  },
  {
   "kanton": "GR",
@@ -252,7 +252,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "122"
  },
  {
   "kanton": "SH",
@@ -268,8 +268,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 5",
+  "offen": "199"
  },
  {
   "kanton": "TG",
@@ -285,8 +285,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12",
+  "offen": "321"
  },
  {
   "kanton": "BL",
@@ -302,8 +302,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
+  "offen": "141"
  },
  {
   "kanton": "SZ",
@@ -319,8 +319,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+  "offen": "111"
  },
  {
   "kanton": "UR",
@@ -337,7 +337,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "102"
  },
  {
   "kanton": "OW",
@@ -354,7 +354,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "155"
  },
  {
   "kanton": "NW",
@@ -371,7 +371,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "130"
  },
  {
   "kanton": "GL",
@@ -387,8 +387,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+  "offen": "128"
  },
  {
   "kanton": "AR",
@@ -405,7 +405,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "282"
  },
  {
   "kanton": "AI",
@@ -421,8 +421,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+  "offen": "265"
  },
  {
   "kanton": "JU",
@@ -438,8 +438,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+  "offen": "195"
  },
  {
   "kanton": "ZH",
@@ -455,8 +455,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 19",
+  "offen": "239"
  },
  {
   "kanton": "GE",
@@ -472,8 +472,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+  "offen": "231"
  },
  {
   "kanton": "BE",
@@ -490,7 +490,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "257"
  },
  {
   "kanton": "VD",
@@ -506,8 +506,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 17",
+  "offen": "139"
  },
  {
   "kanton": "SG",
@@ -523,8 +523,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+  "offen": "80"
  },
  {
   "kanton": "TI",
@@ -541,7 +541,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "118"
  },
  {
   "kanton": "ZG",
@@ -558,7 +558,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "150"
  },
  {
   "kanton": "AG",
@@ -574,8 +574,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 6",
+  "offen": "180"
  },
  {
   "kanton": "SO",
@@ -591,8 +591,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+  "offen": "315"
  },
  {
   "kanton": "FR",
@@ -608,8 +608,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
+  "offen": "218"
  },
  {
   "kanton": "NE",
@@ -625,8 +625,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+  "offen": "162"
  },
  {
   "kanton": "VS",
@@ -643,7 +643,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "218"
  },
  {
   "kanton": "GR",
@@ -660,7 +660,7 @@
   "strassen_ok": true,
   "letzter_lauf": "2026-11-03",
   "eigentuemer_quelle": "Grundbuch GR (Geoportal-Einzelabfrage, frühere Läufe; 6 Adressen über gleiche Parzelle abgeleitet); Rest: Einzelabfrage map.geo.gr.ch (Captcha, ca. 10/Tag) oder Anfrage Grundbuchamt Region Maloja",
-  "offen": "234"
+  "offen": "349"
  },
  {
   "kanton": "TG",
@@ -676,8 +676,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+  "offen": "354"
  },
  {
   "kanton": "BL",
@@ -693,8 +693,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 19",
+  "offen": "554"
  },
  {
   "kanton": "SZ",
@@ -711,7 +711,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "0"
  },
  {
   "kanton": "OW",
@@ -728,7 +728,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "128"
  },
  {
   "kanton": "JU",
@@ -745,7 +745,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "89"
  },
  {
   "kanton": "ZH",
@@ -761,8 +761,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+  "offen": "86"
  },
  {
   "kanton": "BE",
@@ -778,8 +778,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+  "offen": "338"
  },
  {
   "kanton": "VD",
@@ -795,8 +795,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 11",
+  "offen": "137"
  },
  {
   "kanton": "SG",
@@ -812,8 +812,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+  "offen": "304"
  },
  {
   "kanton": "TI",
@@ -830,7 +830,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "164"
  },
  {
   "kanton": "AG",
@@ -846,8 +846,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+  "offen": "189"
  },
  {
   "kanton": "VS",
@@ -863,8 +863,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+  "offen": "192"
  },
  {
   "kanton": "GR",
@@ -880,8 +880,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+  "offen": "439"
  },
  {
   "kanton": "TG",
@@ -897,8 +897,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+  "offen": "191"
  },
  {
   "kanton": "SZ",
@@ -915,7 +915,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "148"
  },
  {
   "kanton": "ZH",
@@ -931,8 +931,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
+  "offen": "287"
  },
  {
   "kanton": "BE",
@@ -948,8 +948,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 14",
+  "offen": "272"
  },
  {
   "kanton": "VD",
@@ -965,8 +965,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+  "offen": "156"
  },
  {
   "kanton": "SG",
@@ -982,8 +982,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
+  "offen": "281"
  },
  {
   "kanton": "TI",
@@ -999,8 +999,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
+  "offen": "79"
  },
  {
   "kanton": "AG",
@@ -1016,8 +1016,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
+  "offen": "107"
  },
  {
   "kanton": "VS",
@@ -1034,7 +1034,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "243"
  },
  {
   "kanton": "GR",
@@ -1051,7 +1051,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "273"
  },
  {
   "kanton": "BE",
@@ -1067,8 +1067,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 13",
+  "offen": "117"
  },
  {
   "kanton": "VD",
@@ -1084,8 +1084,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+  "offen": "129"
  },
  {
   "kanton": "TI",
@@ -1101,8 +1101,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+  "offen": "115"
  },
  {
   "kanton": "AG",
@@ -1118,8 +1118,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+  "offen": "141"
  },
  {
   "kanton": "VS",
@@ -1135,8 +1135,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
+  "offen": "164"
  },
  {
   "kanton": "VD",
@@ -1152,8 +1152,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+  "offen": "190"
  },
  {
   "kanton": "VS",
@@ -1169,8 +1169,8 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
+  "offen": "105"
  },
  {
   "kanton": "VS",
@@ -1187,7 +1187,7 @@
   "strassen_ok": false,
   "letzter_lauf": "",
   "eigentuemer_quelle": "",
-  "offen": ""
+  "offen": "155"
  },
  {
   "kanton": "VS",
@@ -1203,7 +1203,7 @@
   ],
   "strassen_ok": false,
   "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": ""
+  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+  "offen": "174"
  }
 ]
