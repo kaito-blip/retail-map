@@ -14,7 +14,7 @@
     "strassen_ok": true,
     "letzter_lauf": "2026-11-05",
     "eigentuemer_quelle": "Grundbuch ZH (frühere Läufe); öffentliche Quellen 04.11.26: Liegenschafteninventar OGD Stadt Zürich, Geschäftsberichte PSP/SPS, Inventare AXA AST, UBS-Fonds, Swiss Life, CSA; Rest: GIS-Browser ZH (SMS, ca. 5/Tag) oder Notariat Zürich-Altstadt; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4; 05.11.26 zusätzlich Schroder ImmoPLUS, ZIF, BVK, PWG, Zünfte, Medien (nur Hinweise), Parzellenabgleich per E-GRID",
-    "offen": "214"
+    "offen": "209"
   },
   {
     "kanton": "GE",

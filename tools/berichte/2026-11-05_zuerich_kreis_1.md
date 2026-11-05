@@ -7,3 +7,4 @@
 - Handelsregister (Zefix, Firmenname mit Strasse) und Baugesuche Amtsblatt ZH (Juni bis Nov. 2026) geprüft, kaum Ertrag.
 - Keine öffentliche Liste: PKZH (nur indirekt investiert), Kanton ZH, Kirchgemeinde, Swiss Re/Swiss Life/Zurich Direktbestand, Zunft zur Saffran.
 - Anfrageliste neu pro Parzelle: ~/Downloads/Retail Map Anfragen/ZH_Zürich (Kreis 1).csv.
+- Grundbuchauskunft ZH 05.11.2026 (4 von 5, Limit): Bahnhofstrasse 25/27 UBS AG, 44 Zürich Lebensversicherungs-Gesellschaft AG, 28 Savoy Hotel Baur en Ville AG, 12 Allianz Suisse; Bahnhofstrasse 46 am Limit gescheitert. Offen jetzt 209.
