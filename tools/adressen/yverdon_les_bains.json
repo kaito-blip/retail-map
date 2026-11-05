@@ -1,0 +1,1463 @@
+{
+ "yverdon-les-bains|place pestalozzi|9": {
+  "street": "Place Pestalozzi",
+  "hn": "9",
+  "lat": 46.7787592,
+  "lng": 6.641351,
+  "mieter": [
+   "Restaurant de la Place"
+  ]
+ },
+ "yverdon-les-bains|place pestalozzi|7": {
+  "street": "Place Pestalozzi",
+  "hn": "7",
+  "lat": 46.7787566,
+  "lng": 6.6411015,
+  "mieter": [
+   "Giga Tacos"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|2": {
+  "street": "Rue de la Plaine",
+  "hn": "2",
+  "lat": 46.7778443,
+  "lng": 6.6419145,
+  "mieter": [
+   "Laiterie du Château"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|3": {
+  "street": "Rue du Milieu",
+  "hn": "3",
+  "lat": 46.7786222,
+  "lng": 6.640335,
+  "mieter": [
+   "Optique Piguet"
+  ]
+ },
+ "yverdon-les-bains|rue du lac|42": {
+  "street": "Rue du Lac",
+  "hn": "42",
+  "lat": 46.7800898,
+  "lng": 6.6384914,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|37": {
+  "street": "Rue du Lac",
+  "hn": "37",
+  "lat": 46.7798054,
+  "lng": 6.6387984,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|84": {
+  "street": "Rue de la Plaine",
+  "hn": "84",
+  "lat": 46.776514,
+  "lng": 6.6465009,
+  "mieter": [
+   "Le Prestige"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|67": {
+  "street": "Rue de la Plaine",
+  "hn": "67",
+  "lat": 46.7767687,
+  "lng": 6.6468591,
+  "mieter": [
+   "Alexandre Pâtisserie Confiserie Boulangerie",
+   "Le Folie's"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|8": {
+  "street": "Rue de la Plaine",
+  "hn": "8",
+  "lat": 46.7777083,
+  "lng": 6.6423537,
+  "mieter": [
+   "La Brass'ry",
+   "Pho Thu"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|28": {
+  "street": "Rue du Milieu",
+  "hn": "28",
+  "lat": 46.7790185,
+  "lng": 6.6388444,
+  "mieter": [
+   "Magasin du Monde"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|25": {
+  "street": "Rue du Milieu",
+  "hn": "25",
+  "lat": 46.7788031,
+  "lng": 6.639266,
+  "mieter": [
+   "Boucherie Costa"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|14": {
+  "street": "Rue de la Plaine",
+  "hn": "14",
+  "lat": 46.7775663,
+  "lng": 6.6427854,
+  "mieter": [
+   "Etude d'avocat Merenyi",
+   "Alternatives et Transitions Coaching"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|56": {
+  "street": "Rue de la Plaine",
+  "hn": "56",
+  "lat": 46.7769823,
+  "lng": 6.6447894,
+  "mieter": [
+   "Restaurant du Café de la Plaine"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|1": {
+  "street": "Rue de la Plaine",
+  "hn": "1",
+  "lat": 46.778324,
+  "lng": 6.6423037,
+  "mieter": [
+   "Kalaya"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|18": {
+  "street": "Rue du Milieu",
+  "hn": "18",
+  "lat": 46.778908,
+  "lng": 6.6393956,
+  "mieter": [
+   "Atmosphère Fleurs"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|2": {
+  "street": "Rue du Milieu",
+  "hn": "2",
+  "lat": 46.7787552,
+  "lng": 6.6402169,
+  "mieter": [
+   "Droguerie du Milieu",
+   "Coiffure Patricia"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|21": {
+  "street": "Rue du Milieu",
+  "hn": "21",
+  "lat": 46.7787645,
+  "lng": 6.6394943,
+  "mieter": [
+   "Les thés du voyage"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|39": {
+  "street": "Rue de la Plaine",
+  "hn": "39",
+  "lat": 46.7774918,
+  "lng": 6.6439429,
+  "mieter": [
+   "Bernard Nicod"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|11": {
+  "street": "Rue du Milieu",
+  "hn": "11",
+  "lat": 46.7787001,
+  "lng": 6.6398966,
+  "mieter": [
+   "Batti Cuore"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|38": {
+  "street": "Rue du Milieu",
+  "hn": "38",
+  "lat": 46.7792086,
+  "lng": 6.638016,
+  "mieter": [
+   "Boiziau Opticien",
+   "Teinture d’iode"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|29": {
+  "street": "Rue du Milieu",
+  "hn": "29",
+  "lat": 46.7788398,
+  "lng": 6.6390934,
+  "mieter": [
+   "Songes"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|33": {
+  "street": "Rue du Milieu",
+  "hn": "33",
+  "lat": 46.7788746,
+  "lng": 6.6389819,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|10": {
+  "street": "Place Pestalozzi",
+  "hn": "10",
+  "lat": 46.7787442,
+  "lng": 6.6414515,
+  "mieter": [
+   "Visilab"
+  ]
+ },
+ "yverdon-les-bains|rue du lac|20": {
+  "street": "Rue du Lac",
+  "hn": "20",
+  "lat": 46.7795042,
+  "lng": 6.6397654,
+  "mieter": [
+   "Coiffure Vision"
+  ]
+ },
+ "yverdon-les-bains|rue du lac|48": {
+  "street": "Rue du Lac",
+  "hn": "48",
+  "lat": 46.7802572,
+  "lng": 6.6382204,
+  "mieter": [
+   "Au salon de Sarah"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|21": {
+  "street": "Rue de la Plaine",
+  "hn": "21",
+  "lat": 46.7777397,
+  "lng": 6.6432127,
+  "mieter": [
+   "Rukan Coiffure"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|27": {
+  "street": "Rue du Milieu",
+  "hn": "27",
+  "lat": 46.7788211,
+  "lng": 6.6391761,
+  "mieter": [
+   "Croco les styles"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|24 bis": {
+  "street": "Rue du Milieu",
+  "hn": "24 bis",
+  "lat": 46.7789722,
+  "lng": 6.6390787,
+  "mieter": [
+   "Belle allure"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|14": {
+  "street": "Rue du Milieu",
+  "hn": "14",
+  "lat": 46.7788744,
+  "lng": 6.6395862,
+  "mieter": [
+   "Ateapic"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|23": {
+  "street": "Rue du Milieu",
+  "hn": "23",
+  "lat": 46.7787764,
+  "lng": 6.6394086,
+  "mieter": [
+   "Fidurex"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|43": {
+  "street": "Rue du Milieu",
+  "hn": "43",
+  "lat": 46.7789951,
+  "lng": 6.6384196,
+  "mieter": [
+   "CSS Assurance"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|15": {
+  "street": "Rue du Milieu",
+  "hn": "15",
+  "lat": 46.7787331,
+  "lng": 6.6396983,
+  "mieter": [
+   "Au Bon Temps"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|7": {
+  "street": "Rue du Milieu",
+  "hn": "7",
+  "lat": 46.7786842,
+  "lng": 6.6399971,
+  "mieter": [
+   "Generali"
+  ]
+ },
+ "yverdon-les-bains|rue du lac|1": {
+  "street": "Rue du Lac",
+  "hn": "1",
+  "lat": 46.7789526,
+  "lng": 6.6403865,
+  "mieter": [
+   "Le Coin Bio"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|44": {
+  "street": "Rue du Milieu",
+  "hn": "44",
+  "lat": 46.7792745,
+  "lng": 6.6375438,
+  "mieter": [
+   "Nadia beauty & nails"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|30": {
+  "street": "Rue de la Plaine",
+  "hn": "30",
+  "lat": 46.7773858,
+  "lng": 6.6434836,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|32": {
+  "street": "Rue de la Plaine",
+  "hn": "32",
+  "lat": 46.7773627,
+  "lng": 6.6435621,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|16": {
+  "street": "Rue de la Plaine",
+  "hn": "16",
+  "lat": 46.7775509,
+  "lng": 6.642915,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|51": {
+  "street": "Rue de la Plaine",
+  "hn": "51",
+  "lat": 46.7772485,
+  "lng": 6.6446553,
+  "mieter": [
+   "Retraites Populaires"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|68": {
+  "street": "Rue de la Plaine",
+  "hn": "68",
+  "lat": 46.7769275,
+  "lng": 6.6450329,
+  "mieter": [
+   "BR+"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|40": {
+  "street": "Rue de la Plaine",
+  "hn": "40",
+  "lat": 46.7772109,
+  "lng": 6.6439509,
+  "mieter": [
+   "Lista Office"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|34": {
+  "street": "Rue de la Plaine",
+  "hn": "34",
+  "lat": 46.777342,
+  "lng": 6.6435937,
+  "mieter": [
+   "Lotus Thaï Massage"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|10": {
+  "street": "Rue du Milieu",
+  "hn": "10",
+  "lat": 46.7788061,
+  "lng": 6.6399391,
+  "mieter": [
+   "d'Y-vins"
+  ]
+ },
+ "yverdon-les-bains|place pestalozzi|1": {
+  "street": "Place Pestalozzi",
+  "hn": "1",
+  "lat": 46.7783877,
+  "lng": 6.6409579,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|2": {
+  "street": "Place Pestalozzi",
+  "hn": "2",
+  "lat": 46.7784267,
+  "lng": 6.6406497,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|6": {
+  "street": "Rue de la Plaine",
+  "hn": "6",
+  "lat": 46.7778087,
+  "lng": 6.6420414,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|4": {
+  "street": "Rue de la Plaine",
+  "hn": "4",
+  "lat": 46.7778317,
+  "lng": 6.6419582,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du casino|8": {
+  "street": "Rue du Casino",
+  "hn": "8",
+  "lat": 46.7796309,
+  "lng": 6.6426685,
+  "mieter": [
+   "Le bøtanik"
+  ]
+ },
+ "yverdon-les-bains|place pestalozzi|8": {
+  "street": "Place Pestalozzi",
+  "hn": "8",
+  "lat": 46.7787603,
+  "lng": 6.6412445,
+  "mieter": [
+   "Barbershop"
+  ]
+ },
+ "yverdon-les-bains|place pestalozzi|16": {
+  "street": "Place Pestalozzi",
+  "hn": "16",
+  "lat": 46.7783194,
+  "lng": 6.6412658,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|15": {
+  "street": "Place Pestalozzi",
+  "hn": "15",
+  "lat": 46.778415,
+  "lng": 6.6416282,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|3": {
+  "street": "Place Pestalozzi",
+  "hn": "3",
+  "lat": 46.7785477,
+  "lng": 6.6405508,
+  "mieter": [
+   "L'Epicerie Vrac"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|55": {
+  "street": "Rue de la Plaine",
+  "hn": "55",
+  "lat": 46.7772547,
+  "lng": 6.6452003,
+  "mieter": [
+   "JEM Yverdon",
+   "L'Authentique"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|42": {
+  "street": "Rue du Milieu",
+  "hn": "42",
+  "lat": 46.7792326,
+  "lng": 6.6377551,
+  "mieter": [
+   "Tacos planet"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|35": {
+  "street": "Rue du Milieu",
+  "hn": "35",
+  "lat": 46.778904,
+  "lng": 6.6388396,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|36": {
+  "street": "Rue du Milieu",
+  "hn": "36",
+  "lat": 46.7791405,
+  "lng": 6.6383452,
+  "mieter": [
+   "Allianz"
+  ]
+ },
+ "yverdon-les-bains|rue du lac|35": {
+  "street": "Rue du Lac",
+  "hn": "35",
+  "lat": 46.7797658,
+  "lng": 6.6388663,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|44": {
+  "street": "Rue du Lac",
+  "hn": "44",
+  "lat": 46.7801292,
+  "lng": 6.6384207,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|46": {
+  "street": "Rue du Lac",
+  "hn": "46",
+  "lat": 46.7801711,
+  "lng": 6.6383487,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|49": {
+  "street": "Rue du Lac",
+  "hn": "49",
+  "lat": 46.7801814,
+  "lng": 6.6381411,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|6": {
+  "street": "Rue du Milieu",
+  "hn": "6",
+  "lat": 46.7787901,
+  "lng": 6.640007,
+  "mieter": [
+   "Planet Bowl"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|19": {
+  "street": "Rue de la Plaine",
+  "hn": "19",
+  "lat": 46.7777732,
+  "lng": 6.6431364,
+  "mieter": [
+   "Mangiabene"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|47": {
+  "street": "Rue du Milieu",
+  "hn": "47",
+  "lat": 46.7791222,
+  "lng": 6.6379282,
+  "mieter": [
+   "Kanjana"
+  ]
+ },
+ "yverdon-les-bains|rue du casino|1": {
+  "street": "Rue du Casino",
+  "hn": "1",
+  "lat": 46.7790593,
+  "lng": 6.6422259,
+  "mieter": [
+   "Système D"
+  ]
+ },
+ "yverdon-les-bains|rue du casino|2": {
+  "street": "Rue du Casino",
+  "hn": "2",
+  "lat": 46.7791858,
+  "lng": 6.642309,
+  "mieter": [
+   "Bocal & Coffee"
+  ]
+ },
+ "yverdon-les-bains|rue du casino|3": {
+  "street": "Rue du Casino",
+  "hn": "3",
+  "lat": 46.779259,
+  "lng": 6.6423818,
+  "mieter": [
+   "La Bonne Note"
+  ]
+ },
+ "yverdon-les-bains|rue du casino|4": {
+  "street": "Rue du Casino",
+  "hn": "4",
+  "lat": 46.7794719,
+  "lng": 6.642534,
+  "mieter": [
+   "Transfert Music"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|9": {
+  "street": "Rue de la Plaine",
+  "hn": "9",
+  "lat": 46.7779845,
+  "lng": 6.6426713,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|74": {
+  "street": "Rue de la Plaine",
+  "hn": "74",
+  "lat": 46.776853,
+  "lng": 6.6452058,
+  "mieter": [
+   "La Lisière"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|30": {
+  "street": "Rue du Milieu",
+  "hn": "30",
+  "lat": 46.779039,
+  "lng": 6.6387427,
+  "mieter": [
+   "Thé.C"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|22": {
+  "street": "Rue du Milieu",
+  "hn": "22",
+  "lat": 46.7789505,
+  "lng": 6.6392508,
+  "mieter": [
+   "Pizzeria Bellucci"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|39": {
+  "street": "Rue du Milieu",
+  "hn": "39",
+  "lat": 46.7789303,
+  "lng": 6.638646,
+  "mieter": [
+   "Il Sogno - Restaurant & Pizzeria"
+  ]
+ },
+ "yverdon-les-bains|rue du milieu|1": {
+  "street": "Rue du Milieu",
+  "hn": "1",
+  "lat": 46.7785933,
+  "lng": 6.6403243,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|5": {
+  "street": "Rue du Milieu",
+  "hn": "5",
+  "lat": 46.7785956,
+  "lng": 6.6401069,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|19": {
+  "street": "Rue du Milieu",
+  "hn": "19",
+  "lat": 46.7787143,
+  "lng": 6.6395831,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|13": {
+  "street": "Rue du Milieu",
+  "hn": "13",
+  "lat": 46.7786822,
+  "lng": 6.6397802,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du casino|9": {
+  "street": "Rue du Casino",
+  "hn": "9",
+  "lat": 46.7798551,
+  "lng": 6.6422292,
+  "mieter": [
+   "Théâtre Benno Besson"
+  ]
+ },
+ "yverdon-les-bains|place pestalozzi|14": {
+  "street": "Place Pestalozzi",
+  "hn": "14",
+  "lat": 46.7786758,
+  "lng": 6.6420005,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|41": {
+  "street": "Rue du Milieu",
+  "hn": "41",
+  "lat": 46.778941,
+  "lng": 6.6385351,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|16": {
+  "street": "Rue du Milieu",
+  "hn": "16",
+  "lat": 46.7789752,
+  "lng": 6.6395377,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|7": {
+  "street": "Rue du Lac",
+  "hn": "7",
+  "lat": 46.7790734,
+  "lng": 6.6399335,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|13": {
+  "street": "Place Pestalozzi",
+  "hn": "13",
+  "lat": 46.7787435,
+  "lng": 6.641776,
+  "mieter": [
+   "Resto-Lounge du Chateau"
+  ]
+ },
+ "yverdon-les-bains|rue du lac|33": {
+  "street": "Rue du Lac",
+  "hn": "33",
+  "lat": 46.7794677,
+  "lng": 6.6388751,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|34": {
+  "street": "Rue du Milieu",
+  "hn": "34",
+  "lat": 46.7791482,
+  "lng": 6.6385283,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|17": {
+  "street": "Rue du Lac",
+  "hn": "17",
+  "lat": 46.7792102,
+  "lng": 6.6395948,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|43": {
+  "street": "Rue du Lac",
+  "hn": "43",
+  "lat": 46.7799699,
+  "lng": 6.6384322,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|24b": {
+  "street": "Rue du Milieu",
+  "hn": "24b",
+  "lat": 46.7790309,
+  "lng": 6.6391045,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|15": {
+  "street": "Rue du Lac",
+  "hn": "15",
+  "lat": 46.7791828,
+  "lng": 6.6396554,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|11": {
+  "street": "Rue du Lac",
+  "hn": "11",
+  "lat": 46.7791278,
+  "lng": 6.6397896,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|49": {
+  "street": "Rue du Milieu",
+  "hn": "49",
+  "lat": 46.7790822,
+  "lng": 6.6378025,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|24": {
+  "street": "Rue du Milieu",
+  "hn": "24",
+  "lat": 46.7790885,
+  "lng": 6.6391973,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|5": {
+  "street": "Rue du Lac",
+  "hn": "5",
+  "lat": 46.7790089,
+  "lng": 6.6400938,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|8": {
+  "street": "Rue du Milieu",
+  "hn": "8",
+  "lat": 46.7788642,
+  "lng": 6.6399751,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|13": {
+  "street": "Rue du Lac",
+  "hn": "13",
+  "lat": 46.7791578,
+  "lng": 6.6397202,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|32": {
+  "street": "Rue du Milieu",
+  "hn": "32",
+  "lat": 46.7791503,
+  "lng": 6.6386555,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|12": {
+  "street": "Rue du Milieu",
+  "hn": "12",
+  "lat": 46.7789247,
+  "lng": 6.6397272,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|27": {
+  "street": "Rue du Lac",
+  "hn": "27",
+  "lat": 46.7794304,
+  "lng": 6.6391336,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|13": {
+  "street": "Rue de la Plaine",
+  "hn": "13",
+  "lat": 46.7780041,
+  "lng": 6.6429498,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|15": {
+  "street": "Rue de la Plaine",
+  "hn": "15",
+  "lat": 46.7780839,
+  "lng": 6.6431838,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|7": {
+  "street": "Rue de la Plaine",
+  "hn": "7",
+  "lat": 46.7782124,
+  "lng": 6.6427506,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|33": {
+  "street": "Rue de la Plaine",
+  "hn": "33",
+  "lat": 46.7776563,
+  "lng": 6.6437082,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|3": {
+  "street": "Rue de la Plaine",
+  "hn": "3",
+  "lat": 46.7782878,
+  "lng": 6.6424129,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|19a": {
+  "street": "Rue de la Plaine",
+  "hn": "19a",
+  "lat": 46.7780248,
+  "lng": 6.6433181,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|41": {
+  "street": "Rue de la Plaine",
+  "hn": "41",
+  "lat": 46.7775099,
+  "lng": 6.6441479,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du casino|5": {
+  "street": "Rue du Casino",
+  "hn": "5",
+  "lat": 46.7793853,
+  "lng": 6.642521,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|43": {
+  "street": "Rue de la Plaine",
+  "hn": "43",
+  "lat": 46.7774728,
+  "lng": 6.6442905,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|29": {
+  "street": "Rue de la Plaine",
+  "hn": "29",
+  "lat": 46.7777528,
+  "lng": 6.6435929,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|35": {
+  "street": "Rue de la Plaine",
+  "hn": "35",
+  "lat": 46.777734,
+  "lng": 6.64386,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du casino|6": {
+  "street": "Rue du Casino",
+  "hn": "6",
+  "lat": 46.7794559,
+  "lng": 6.6425756,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|5": {
+  "street": "Rue de la Plaine",
+  "hn": "5",
+  "lat": 46.7782707,
+  "lng": 6.6426515,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du casino|7": {
+  "street": "Rue du Casino",
+  "hn": "7",
+  "lat": 46.7795198,
+  "lng": 6.6426224,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|37": {
+  "street": "Rue de la Plaine",
+  "hn": "37",
+  "lat": 46.7776747,
+  "lng": 6.6439729,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|31": {
+  "street": "Rue de la Plaine",
+  "hn": "31",
+  "lat": 46.7776997,
+  "lng": 6.6436735,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|65": {
+  "street": "Rue de la Plaine",
+  "hn": "65",
+  "lat": 46.7769702,
+  "lng": 6.6462138,
+  "mieter": [
+   "Mercedes-Benz"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|59": {
+  "street": "Rue de la Plaine",
+  "hn": "59",
+  "lat": 46.7771891,
+  "lng": 6.6455085,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|63": {
+  "street": "Rue de la Plaine",
+  "hn": "63",
+  "lat": 46.777071,
+  "lng": 6.6458085,
+  "mieter": [
+   "Mercedes-Benz"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|53": {
+  "street": "Rue de la Plaine",
+  "hn": "53",
+  "lat": 46.7772113,
+  "lng": 6.6449226,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|3": {
+  "street": "Rue du Lac",
+  "hn": "3",
+  "lat": 46.778971,
+  "lng": 6.6401824,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|82": {
+  "street": "Rue de la Plaine",
+  "hn": "82",
+  "lat": 46.7765057,
+  "lng": 6.6458947,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|80": {
+  "street": "Rue de la Plaine",
+  "hn": "80",
+  "lat": 46.7766864,
+  "lng": 6.6455528,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|12": {
+  "street": "Rue de la Plaine",
+  "hn": "12",
+  "lat": 46.777547,
+  "lng": 6.6426077,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|22": {
+  "street": "Rue de la Plaine",
+  "hn": "22",
+  "lat": 46.7773353,
+  "lng": 6.6430843,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|24": {
+  "street": "Rue de la Plaine",
+  "hn": "24",
+  "lat": 46.777365,
+  "lng": 6.6431689,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|18": {
+  "street": "Rue de la Plaine",
+  "hn": "18",
+  "lat": 46.7774504,
+  "lng": 6.6429866,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|10": {
+  "street": "Rue de la Plaine",
+  "hn": "10",
+  "lat": 46.7775407,
+  "lng": 6.642453,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|26": {
+  "street": "Rue de la Plaine",
+  "hn": "26",
+  "lat": 46.7773714,
+  "lng": 6.6432569,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|28": {
+  "street": "Rue de la Plaine",
+  "hn": "28",
+  "lat": 46.7772471,
+  "lng": 6.6432917,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|62": {
+  "street": "Rue de la Plaine",
+  "hn": "62",
+  "lat": 46.7769253,
+  "lng": 6.6448573,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|46": {
+  "street": "Rue de la Plaine",
+  "hn": "46",
+  "lat": 46.7770225,
+  "lng": 6.6442247,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|52": {
+  "street": "Rue de la Plaine",
+  "hn": "52",
+  "lat": 46.7768784,
+  "lng": 6.6445093,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|60": {
+  "street": "Rue de la Plaine",
+  "hn": "60",
+  "lat": 46.77694,
+  "lng": 6.6448047,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|66": {
+  "street": "Rue de la Plaine",
+  "hn": "66",
+  "lat": 46.7768497,
+  "lng": 6.6448918,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|72": {
+  "street": "Rue de la Plaine",
+  "hn": "72",
+  "lat": 46.7768253,
+  "lng": 6.6450928,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|54": {
+  "street": "Rue de la Plaine",
+  "hn": "54",
+  "lat": 46.7769603,
+  "lng": 6.644639,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|38": {
+  "street": "Rue de la Plaine",
+  "hn": "38",
+  "lat": 46.7771931,
+  "lng": 6.6437925,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|58 bis": {
+  "street": "Rue de la Plaine",
+  "hn": "58 bis",
+  "lat": 46.7765728,
+  "lng": 6.6445335,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|36": {
+  "street": "Rue de la Plaine",
+  "hn": "36",
+  "lat": 46.7772219,
+  "lng": 6.6436485,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|44": {
+  "street": "Rue de la Plaine",
+  "hn": "44",
+  "lat": 46.7770028,
+  "lng": 6.6440849,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|42": {
+  "street": "Rue de la Plaine",
+  "hn": "42",
+  "lat": 46.7770959,
+  "lng": 6.6440151,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|58": {
+  "street": "Rue de la Plaine",
+  "hn": "58",
+  "lat": 46.7767014,
+  "lng": 6.6445842,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|76b": {
+  "street": "Rue de la Plaine",
+  "hn": "76b",
+  "lat": 46.7764852,
+  "lng": 6.6452077,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|88": {
+  "street": "Rue de la Plaine",
+  "hn": "88",
+  "lat": 46.7763887,
+  "lng": 6.647127,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|86": {
+  "street": "Rue de la Plaine",
+  "hn": "86",
+  "lat": 46.7764313,
+  "lng": 6.6469137,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|4": {
+  "street": "Rue du Milieu",
+  "hn": "4",
+  "lat": 46.778825,
+  "lng": 6.6401378,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|23": {
+  "street": "Rue du Lac",
+  "hn": "23",
+  "lat": 46.7793204,
+  "lng": 6.6392981,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|21": {
+  "street": "Rue du Lac",
+  "hn": "21",
+  "lat": 46.7792842,
+  "lng": 6.6394263,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|19": {
+  "street": "Rue du Lac",
+  "hn": "19",
+  "lat": 46.7792418,
+  "lng": 6.6394881,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|25": {
+  "street": "Rue du Lac",
+  "hn": "25",
+  "lat": 46.7793996,
+  "lng": 6.6392666,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|29": {
+  "street": "Rue du Lac",
+  "hn": "29",
+  "lat": 46.7795004,
+  "lng": 6.6391298,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|12": {
+  "street": "Rue du Lac",
+  "hn": "12",
+  "lat": 46.7793613,
+  "lng": 6.6401383,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|8": {
+  "street": "Rue du Lac",
+  "hn": "8",
+  "lat": 46.7791988,
+  "lng": 6.6403615,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|6": {
+  "street": "Rue du Lac",
+  "hn": "6",
+  "lat": 46.7791288,
+  "lng": 6.6405195,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|16": {
+  "street": "Rue du Lac",
+  "hn": "16",
+  "lat": 46.7794251,
+  "lng": 6.6398308,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|10": {
+  "street": "Rue du Lac",
+  "hn": "10",
+  "lat": 46.7792508,
+  "lng": 6.6402684,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|18": {
+  "street": "Rue du Lac",
+  "hn": "18",
+  "lat": 46.7794853,
+  "lng": 6.6397537,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|14": {
+  "street": "Rue du Lac",
+  "hn": "14",
+  "lat": 46.7794308,
+  "lng": 6.6400128,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|4": {
+  "street": "Rue du Lac",
+  "hn": "4",
+  "lat": 46.7790557,
+  "lng": 6.640711,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|24": {
+  "street": "Rue du Lac",
+  "hn": "24",
+  "lat": 46.7795932,
+  "lng": 6.6396325,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|32": {
+  "street": "Rue du Lac",
+  "hn": "32",
+  "lat": 46.7797612,
+  "lng": 6.6393103,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|28": {
+  "street": "Rue du Lac",
+  "hn": "28",
+  "lat": 46.779708,
+  "lng": 6.6394003,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|26": {
+  "street": "Rue du Lac",
+  "hn": "26",
+  "lat": 46.7796678,
+  "lng": 6.6394778,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|22": {
+  "street": "Rue du Lac",
+  "hn": "22",
+  "lat": 46.7794985,
+  "lng": 6.6396475,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|36": {
+  "street": "Rue du Lac",
+  "hn": "36",
+  "lat": 46.7798902,
+  "lng": 6.6392137,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|34": {
+  "street": "Rue du Lac",
+  "hn": "34",
+  "lat": 46.7798527,
+  "lng": 6.6392814,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|11": {
+  "street": "Place Pestalozzi",
+  "hn": "11",
+  "lat": 46.7787804,
+  "lng": 6.6415756,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|5": {
+  "street": "Place Pestalozzi",
+  "hn": "5",
+  "lat": 46.7789873,
+  "lng": 6.6410916,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|6": {
+  "street": "Place Pestalozzi",
+  "hn": "6",
+  "lat": 46.7789003,
+  "lng": 6.6411299,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|4": {
+  "street": "Place Pestalozzi",
+  "hn": "4",
+  "lat": 46.7789575,
+  "lng": 6.6409553,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|2": {
+  "street": "Rue du Lac",
+  "hn": "2",
+  "lat": 46.779021,
+  "lng": 6.6408536,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|12": {
+  "street": "Place Pestalozzi",
+  "hn": "12",
+  "lat": 46.7788333,
+  "lng": 6.6417128,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|41": {
+  "street": "Rue du Lac",
+  "hn": "41",
+  "lat": 46.7798526,
+  "lng": 6.6385384,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|39": {
+  "street": "Rue du Lac",
+  "hn": "39",
+  "lat": 46.7797608,
+  "lng": 6.6386633,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|45": {
+  "street": "Rue du Lac",
+  "hn": "45",
+  "lat": 46.7800062,
+  "lng": 6.6383592,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|40": {
+  "street": "Rue du Milieu",
+  "hn": "40",
+  "lat": 46.7792434,
+  "lng": 6.6378599,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|47": {
+  "street": "Rue du Lac",
+  "hn": "47",
+  "lat": 46.7800298,
+  "lng": 6.6383075,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|51": {
+  "street": "Rue du Milieu",
+  "hn": "51",
+  "lat": 46.779066,
+  "lng": 6.6376506,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|17": {
+  "street": "Rue de la Plaine",
+  "hn": "17",
+  "lat": 46.7779623,
+  "lng": 6.6431732,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|23": {
+  "street": "Rue de la Plaine",
+  "hn": "23",
+  "lat": 46.7777885,
+  "lng": 6.6433341,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|47": {
+  "street": "Rue de la Plaine",
+  "hn": "47",
+  "lat": 46.7773907,
+  "lng": 6.6445476,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|27": {
+  "street": "Rue de la Plaine",
+  "hn": "27",
+  "lat": 46.7777354,
+  "lng": 6.6434583,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|25": {
+  "street": "Rue de la Plaine",
+  "hn": "25",
+  "lat": 46.7778174,
+  "lng": 6.6434398,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|45": {
+  "street": "Rue de la Plaine",
+  "hn": "45",
+  "lat": 46.7774635,
+  "lng": 6.644473,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|78": {
+  "street": "Rue de la Plaine",
+  "hn": "78",
+  "lat": 46.7767706,
+  "lng": 6.6453049,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|76": {
+  "street": "Rue de la Plaine",
+  "hn": "76",
+  "lat": 46.7767853,
+  "lng": 6.6451974,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|19b": {
+  "street": "Rue de la Plaine",
+  "hn": "19b",
+  "lat": 46.7783202,
+  "lng": 6.6436822,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|64": {
+  "street": "Rue de la Plaine",
+  "hn": "64",
+  "lat": 46.7765608,
+  "lng": 6.6446298,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|34b": {
+  "street": "Rue de la Plaine",
+  "hn": "34b",
+  "lat": 46.776795,
+  "lng": 6.6433516,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|50": {
+  "street": "Rue de la Plaine",
+  "hn": "50",
+  "lat": 46.7769466,
+  "lng": 6.6444105,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|48": {
+  "street": "Rue de la Plaine",
+  "hn": "48",
+  "lat": 46.7770445,
+  "lng": 6.6443769,
+  "mieter": [
+   "Evangelisch reformierte Kirche"
+  ]
+ },
+ "yverdon-les-bains|rue de la plaine|20": {
+  "street": "Rue de la Plaine",
+  "hn": "20",
+  "lat": 46.7773507,
+  "lng": 6.6430069,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|26": {
+  "street": "Rue du Milieu",
+  "hn": "26",
+  "lat": 46.7791252,
+  "lng": 6.6389936,
+  "mieter": []
+ }
+}

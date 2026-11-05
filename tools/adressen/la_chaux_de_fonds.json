@@ -1,0 +1,1247 @@
+{
+ "la chaux-de-fonds|rue de la balance|8": {
+  "street": "Rue de la Balance",
+  "hn": "8",
+  "lat": 47.1041167,
+  "lng": 6.8320898,
+  "mieter": [
+   "Casa Rossa"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|13": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "13",
+  "lat": 47.1026084,
+  "lng": 6.8303596,
+  "mieter": [
+   "L'Elite Pizzeria Grill"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|17": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "17",
+  "lat": 47.1025008,
+  "lng": 6.8300033,
+  "mieter": [
+   "Brasserie de la Fontaine"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|32a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "32a",
+  "lat": 47.1022052,
+  "lng": 6.8277827,
+  "mieter": [
+   "Orforte"
+  ]
+ },
+ "la chaux-de-fonds|rue du marché|3": {
+  "street": "Rue du Marché",
+  "hn": "3",
+  "lat": 47.1032311,
+  "lng": 6.8299842,
+  "mieter": [
+   "Café du Coin"
+  ]
+ },
+ "la chaux-de-fonds|rue du marché|2": {
+  "street": "Rue du Marché",
+  "hn": "2",
+  "lat": 47.103623,
+  "lng": 6.8301042,
+  "mieter": [
+   "Filiale 2 Marché"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|146": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "146",
+  "lat": 47.0948029,
+  "lng": 6.8159955,
+  "mieter": [
+   "Filiale 5 Les Entilles"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|58": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "58",
+  "lat": 47.1005192,
+  "lng": 6.8253866,
+  "mieter": [
+   "Le Rendez-vous"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|64": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "64",
+  "lat": 47.0997758,
+  "lng": 6.8244424,
+  "mieter": [
+   "Dick Optique"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|9": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "9",
+  "lat": 47.1027563,
+  "lng": 6.8310085,
+  "mieter": [
+   "BAF! & cocoon"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|56a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "56A",
+  "lat": 47.1007432,
+  "lng": 6.8255201,
+  "mieter": [
+   "Boulangerie Hébert"
+  ]
+ },
+ "la chaux-de-fonds|place du marché|12": {
+  "street": "Place du Marché",
+  "hn": "12",
+  "lat": 47.1037058,
+  "lng": 6.8303292,
+  "mieter": [
+   "Boucherie-Charcuterie de la Prairie"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|45": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "45",
+  "lat": 47.1008667,
+  "lng": 6.8272198,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue neuve|2": {
+  "street": "Rue Neuve",
+  "hn": "2",
+  "lat": 47.1040073,
+  "lng": 6.8318343,
+  "mieter": [
+   "Christen Delicatessen"
+  ]
+ },
+ "la chaux-de-fonds|rue de la balance|12": {
+  "street": "Rue de la Balance",
+  "hn": "12",
+  "lat": 47.1046613,
+  "lng": 6.8315756,
+  "mieter": [
+   "Solarium MySun",
+   "Le Silo"
+  ]
+ },
+ "la chaux-de-fonds|rue du marché|4": {
+  "street": "Rue du Marché",
+  "hn": "4",
+  "lat": 47.1042619,
+  "lng": 6.8313983,
+  "mieter": [
+   "Kiss the Ground"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|79": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "79",
+  "lat": 47.0979498,
+  "lng": 6.8222695,
+  "mieter": [
+   "Le Mocambo"
+  ]
+ },
+ "la chaux-de-fonds|rue neuve|10": {
+  "street": "Rue Neuve",
+  "hn": "10",
+  "lat": 47.1034629,
+  "lng": 6.8308763,
+  "mieter": [
+   "Ador Sàrl"
+  ]
+ },
+ "la chaux-de-fonds|rue neuve|8": {
+  "street": "Rue Neuve",
+  "hn": "8",
+  "lat": 47.1036031,
+  "lng": 6.8309827,
+  "mieter": [
+   "L'Astragale"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|76": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "76",
+  "lat": 47.0989233,
+  "lng": 6.8229701,
+  "mieter": [
+   "DK Coiffeur",
+   "e-job.com",
+   "La T'Chaux",
+   "Dr. Michael Fararik",
+   "Dr. Nicolás Najem Rizk",
+   "Interlangues",
+   "Dr. Véronique Gerber"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|70": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "70",
+  "lat": 47.0992859,
+  "lng": 6.8236151,
+  "mieter": [
+   "Istanbul Kebab et Pizza"
+  ]
+ },
+ "la chaux-de-fonds|rue neuve|5": {
+  "street": "Rue Neuve",
+  "hn": "5",
+  "lat": 47.1035393,
+  "lng": 6.8314109,
+  "mieter": [
+   "Christophe Chocolaterie"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|84": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "84",
+  "lat": 47.0984343,
+  "lng": 6.8221047,
+  "mieter": [
+   "Chez eux"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|132": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "132",
+  "lat": 47.0955933,
+  "lng": 6.8172445,
+  "mieter": [
+   "COD106",
+   "BeChic",
+   "bodyline"
+  ]
+ },
+ "la chaux-de-fonds|rue de la balance|15": {
+  "street": "Rue de la Balance",
+  "hn": "15",
+  "lat": 47.1046948,
+  "lng": 6.8312141,
+  "mieter": [
+   "Maharaja"
+  ]
+ },
+ "la chaux-de-fonds|place du marché|10": {
+  "street": "Place du Marché",
+  "hn": "10",
+  "lat": 47.1038719,
+  "lng": 6.8306138,
+  "mieter": [
+   "L'Atelier Gourmand"
+  ]
+ },
+ "la chaux-de-fonds|rue de la balance|5": {
+  "street": "Rue de la Balance",
+  "hn": "5",
+  "lat": 47.1036747,
+  "lng": 6.8321807,
+  "mieter": [
+   "Hiro Omakase"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|66": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "66",
+  "lat": 47.0995993,
+  "lng": 6.8241529,
+  "mieter": [
+   "L For You",
+   "Moda Barber Shop",
+   "Rammika Enterprises"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|62": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "62",
+  "lat": 47.0999649,
+  "lng": 6.8247513,
+  "mieter": [
+   "Gérance Bosshart & Gautschi SA",
+   "naef"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|74": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "74",
+  "lat": 47.0990525,
+  "lng": 6.8231998,
+  "mieter": [
+   "achador.ch"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|72": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "72",
+  "lat": 47.0992328,
+  "lng": 6.8235206,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|68": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "68",
+  "lat": 47.0993153,
+  "lng": 6.8236673,
+  "mieter": [
+   "Capital Services"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|56b": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "56b",
+  "lat": 47.1006375,
+  "lng": 6.825629,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|151": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "151",
+  "lat": 47.0945184,
+  "lng": 6.8167917,
+  "mieter": [
+   "Coop",
+   "Les Entilles Centre"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|128": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "128",
+  "lat": 47.0957861,
+  "lng": 6.8177202,
+  "mieter": [
+   "Coiffeure E&C"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|67": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "67",
+  "lat": 47.0987101,
+  "lng": 6.8235975,
+  "mieter": [
+   "Unia",
+   "Unia Caisse de Chômage",
+   "espace & habitat",
+   "Caisse de Prévoyance de l'Industrie horlogère suisse"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|65": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "65",
+  "lat": 47.0989307,
+  "lng": 6.8239702,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|10": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "10",
+  "lat": 47.1029389,
+  "lng": 6.8308923,
+  "mieter": [
+   "Tribunal régional des Montagnes et du Val-de-Ruz"
+  ]
+ },
+ "la chaux-de-fonds|rue neuve|18": {
+  "street": "Rue Neuve",
+  "hn": "18",
+  "lat": 47.1031608,
+  "lng": 6.8301745,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|73": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "73",
+  "lat": 47.0985053,
+  "lng": 6.823134,
+  "mieter": [
+   "Inox"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|51": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "51",
+  "lat": 47.1002756,
+  "lng": 6.8265865,
+  "mieter": []
+ },
+ "la chaux-de-fonds|place du marché|6": {
+  "street": "Place du Marché",
+  "hn": "6",
+  "lat": 47.1042295,
+  "lng": 6.8311623,
+  "mieter": [
+   "Ophtalmologue Chobaz"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|61": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "61",
+  "lat": 47.099812,
+  "lng": 6.8255597,
+  "mieter": [
+   "Chef Falafel"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|115": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "115",
+  "lat": 47.0965059,
+  "lng": 6.8198379,
+  "mieter": [
+   "La Mobilière Suisse Société d’assurance SA"
+  ]
+ },
+ "la chaux-de-fonds|rue neuve|6": {
+  "street": "Rue Neuve",
+  "hn": "6",
+  "lat": 47.1036375,
+  "lng": 6.8312241,
+  "mieter": [
+   "Crêperie les 3 lanternes"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|107": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "107",
+  "lat": 47.0972226,
+  "lng": 6.8210076,
+  "mieter": [
+   "Carrosserie prestige"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|88": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "88",
+  "lat": 47.0982096,
+  "lng": 6.8218404,
+  "mieter": [
+   "bkz"
+  ]
+ },
+ "la chaux-de-fonds|rue neuve|16": {
+  "street": "Rue Neuve",
+  "hn": "16",
+  "lat": 47.1032029,
+  "lng": 6.8303511,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue neuve|12": {
+  "street": "Rue Neuve",
+  "hn": "12",
+  "lat": 47.1034171,
+  "lng": 6.8306637,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue neuve|4": {
+  "street": "Rue Neuve",
+  "hn": "4",
+  "lat": 47.1037811,
+  "lng": 6.8315877,
+  "mieter": []
+ },
+ "la chaux-de-fonds|place du marché|8a": {
+  "street": "Place du Marché",
+  "hn": "8a",
+  "lat": 47.103908,
+  "lng": 6.8307359,
+  "mieter": []
+ },
+ "la chaux-de-fonds|place du marché|8": {
+  "street": "Place du Marché",
+  "hn": "8",
+  "lat": 47.1040581,
+  "lng": 6.8307346,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|38": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "38",
+  "lat": 47.1014864,
+  "lng": 6.8272681,
+  "mieter": [
+   "Fielmann"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|41": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "41",
+  "lat": 47.1010609,
+  "lng": 6.8273746,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|19": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "19",
+  "lat": 47.102054,
+  "lng": 6.8300456,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|73a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "73A",
+  "lat": 47.0984421,
+  "lng": 6.8233063,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|63": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "63",
+  "lat": 47.0997606,
+  "lng": 6.825191,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue de la balance|19": {
+  "street": "Rue de la Balance",
+  "hn": "19",
+  "lat": 47.104981,
+  "lng": 6.8310608,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue de la balance|17": {
+  "street": "Rue de la Balance",
+  "hn": "17",
+  "lat": 47.1047996,
+  "lng": 6.8312227,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue de la balance|13": {
+  "street": "Rue de la Balance",
+  "hn": "13",
+  "lat": 47.104568,
+  "lng": 6.8312502,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue neuve|1": {
+  "street": "Rue Neuve",
+  "hn": "1",
+  "lat": 47.1037893,
+  "lng": 6.8318422,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue de la balance|7": {
+  "street": "Rue de la Balance",
+  "hn": "7",
+  "lat": 47.1037581,
+  "lng": 6.8320521,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue neuve|3": {
+  "street": "Rue Neuve",
+  "hn": "3",
+  "lat": 47.1037191,
+  "lng": 6.8316917,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue de la balance|3": {
+  "street": "Rue de la Balance",
+  "hn": "3",
+  "lat": 47.1035801,
+  "lng": 6.8323241,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|94": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "94",
+  "lat": 47.0978504,
+  "lng": 6.8212646,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|96": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "96",
+  "lat": 47.0975549,
+  "lng": 6.8208007,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|100": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "100",
+  "lat": 47.0974654,
+  "lng": 6.8206462,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|102": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "102",
+  "lat": 47.0973054,
+  "lng": 6.8203772,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|90": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "90",
+  "lat": 47.0980599,
+  "lng": 6.821645,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|92": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "92",
+  "lat": 47.0979935,
+  "lng": 6.8215298,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|82": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "82",
+  "lat": 47.0985267,
+  "lng": 6.8224253,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|80": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "80",
+  "lat": 47.0986372,
+  "lng": 6.8226127,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|78": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "78",
+  "lat": 47.0987805,
+  "lng": 6.8228315,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|60": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "60",
+  "lat": 47.1001548,
+  "lng": 6.8251739,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|52": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "52",
+  "lat": 47.1008039,
+  "lng": 6.8262633,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|50": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "50",
+  "lat": 47.1009119,
+  "lng": 6.8264438,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|48": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "48",
+  "lat": 47.1009908,
+  "lng": 6.8265757,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|54": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "54",
+  "lat": 47.1008892,
+  "lng": 6.8259918,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|56": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "56",
+  "lat": 47.100668,
+  "lng": 6.8260323,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|34": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "34",
+  "lat": 47.1018941,
+  "lng": 6.8278977,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|44": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "44",
+  "lat": 47.101143,
+  "lng": 6.826828,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|42": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "42",
+  "lat": 47.1013286,
+  "lng": 6.8271393,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|40": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "40",
+  "lat": 47.1014155,
+  "lng": 6.8272842,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|36": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "36",
+  "lat": 47.1017731,
+  "lng": 6.8276003,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|28": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "28",
+  "lat": 47.1021307,
+  "lng": 6.8284819,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|30": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "30",
+  "lat": 47.1021942,
+  "lng": 6.8283504,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|32": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "32",
+  "lat": 47.1019751,
+  "lng": 6.82803,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue du marché|10": {
+  "street": "Rue du Marché",
+  "hn": "10",
+  "lat": 47.1030438,
+  "lng": 6.829363,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue du marché|8": {
+  "street": "Rue du Marché",
+  "hn": "8",
+  "lat": 47.1031431,
+  "lng": 6.829512,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue du marché|6": {
+  "street": "Rue du Marché",
+  "hn": "6",
+  "lat": 47.1034377,
+  "lng": 6.8297076,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|14": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "14",
+  "lat": 47.1028777,
+  "lng": 6.8298173,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|12": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "12",
+  "lat": 47.1030207,
+  "lng": 6.829893,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|16;18": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "16;18",
+  "lat": 47.1027504,
+  "lng": 6.8293297,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue neuve|14": {
+  "street": "Rue Neuve",
+  "hn": "14",
+  "lat": 47.1034011,
+  "lng": 6.8305194,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue du marché|1": {
+  "street": "Rue du Marché",
+  "hn": "1",
+  "lat": 47.1033921,
+  "lng": 6.8301544,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|150a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "150a",
+  "lat": 47.0943783,
+  "lng": 6.8148558,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|148a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "148a",
+  "lat": 47.0945904,
+  "lng": 6.8152178,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|148": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "148",
+  "lat": 47.0945452,
+  "lng": 6.815589,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|150": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "150",
+  "lat": 47.0943294,
+  "lng": 6.8152332,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|152": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "152",
+  "lat": 47.0941172,
+  "lng": 6.8148669,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue de la balance|6": {
+  "street": "Rue de la Balance",
+  "hn": "6",
+  "lat": 47.1038917,
+  "lng": 6.8322641,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue neuve|11": {
+  "street": "Rue Neuve",
+  "hn": "11",
+  "lat": 47.1031563,
+  "lng": 6.8307522,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|11": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "11",
+  "lat": 47.1026787,
+  "lng": 6.8307729,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|11 a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "11 A",
+  "lat": 47.102419,
+  "lng": 6.8309637,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|13bis": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "13bis",
+  "lat": 47.1025648,
+  "lng": 6.830212,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|21": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "21",
+  "lat": 47.1021325,
+  "lng": 6.8296173,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|7": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "7",
+  "lat": 47.1027518,
+  "lng": 6.83139,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue neuve|9": {
+  "street": "Rue Neuve",
+  "hn": "9",
+  "lat": 47.1033139,
+  "lng": 6.8309913,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue neuve|7": {
+  "street": "Rue Neuve",
+  "hn": "7",
+  "lat": 47.1034212,
+  "lng": 6.8312435,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue de la balance|2": {
+  "street": "Rue de la Balance",
+  "hn": "2",
+  "lat": 47.103616,
+  "lng": 6.8325286,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue de la balance|4": {
+  "street": "Rue de la Balance",
+  "hn": "4",
+  "lat": 47.1037599,
+  "lng": 6.8323904,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|75": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "75",
+  "lat": 47.0982163,
+  "lng": 6.8226994,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|77": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "77",
+  "lat": 47.0980633,
+  "lng": 6.8224489,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|147": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "147",
+  "lat": 47.0949276,
+  "lng": 6.8172191,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|117": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "117",
+  "lat": 47.0961778,
+  "lng": 6.8194712,
+  "mieter": [
+   "Toyota"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|109": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "109",
+  "lat": 47.0970009,
+  "lng": 6.8207052,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|108": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "108",
+  "lat": 47.0969055,
+  "lng": 6.819546,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|130": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "130",
+  "lat": 47.0957408,
+  "lng": 6.8175871,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|126": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "126",
+  "lat": 47.0959117,
+  "lng": 6.8178726,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|120": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "120",
+  "lat": 47.0962544,
+  "lng": 6.8184377,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|118": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "118",
+  "lat": 47.0963664,
+  "lng": 6.8186234,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|114": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "114",
+  "lat": 47.0965966,
+  "lng": 6.8190561,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|110": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "110",
+  "lat": 47.0968102,
+  "lng": 6.8193173,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|81a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "81A",
+  "lat": 47.0976847,
+  "lng": 6.8222429,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|83": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "83",
+  "lat": 47.0976843,
+  "lng": 6.821898,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|81": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "81",
+  "lat": 47.0978303,
+  "lng": 6.8220816,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|39": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "39",
+  "lat": 47.1010882,
+  "lng": 6.8275403,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|37": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "37",
+  "lat": 47.101192,
+  "lng": 6.8277091,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|35": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "35",
+  "lat": 47.1012993,
+  "lng": 6.8278964,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|33": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "33",
+  "lat": 47.1014117,
+  "lng": 6.8280823,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|47": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "47",
+  "lat": 47.1007115,
+  "lng": 6.8269035,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|59": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "59",
+  "lat": 47.1000348,
+  "lng": 6.8257493,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|29": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "29",
+  "lat": 47.1016351,
+  "lng": 6.8286715,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|27": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "27",
+  "lat": 47.1017751,
+  "lng": 6.8289189,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|31a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "31a",
+  "lat": 47.1014337,
+  "lng": 6.8284253,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|31": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "31",
+  "lat": 47.1015247,
+  "lng": 6.8282531,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue de la balance|10": {
+  "street": "Rue de la Balance",
+  "hn": "10",
+  "lat": 47.1043131,
+  "lng": 6.8318785,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue de la balance|14": {
+  "street": "Rue de la Balance",
+  "hn": "14",
+  "lat": 47.1048816,
+  "lng": 6.8314156,
+  "mieter": []
+ },
+ "la chaux-de-fonds|rue de la balance|16": {
+  "street": "Rue de la Balance",
+  "hn": "16",
+  "lat": 47.1050311,
+  "lng": 6.8312935,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|57": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "57",
+  "lat": 47.100137,
+  "lng": 6.8259391,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|15": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "15",
+  "lat": 47.1025189,
+  "lng": 6.8301457,
+  "mieter": []
+ },
+ "la chaux-de-fonds|place du marché|4": {
+  "street": "Place du Marché",
+  "hn": "4",
+  "lat": 47.1043048,
+  "lng": 6.831378,
+  "mieter": []
+ },
+ "la chaux-de-fonds|place du marché|2": {
+  "street": "Place du Marché",
+  "hn": "2",
+  "lat": 47.1043567,
+  "lng": 6.831504,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|49": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "49",
+  "lat": 47.1006014,
+  "lng": 6.8267218,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|53": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "53",
+  "lat": 47.1003149,
+  "lng": 6.8262425,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|53a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "53a",
+  "lat": 47.100229,
+  "lng": 6.8263545,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|25": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "25",
+  "lat": 47.1019954,
+  "lng": 6.8292212,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|105": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "105",
+  "lat": 47.0975179,
+  "lng": 6.8215212,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|105b": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "105B",
+  "lat": 47.0974118,
+  "lng": 6.8213422,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|105a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "105A",
+  "lat": 47.0973537,
+  "lng": 6.8216168,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|135": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "135",
+  "lat": 47.0957985,
+  "lng": 6.818783,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|141": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "141",
+  "lat": 47.095719,
+  "lng": 6.8184403,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|124": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "124",
+  "lat": 47.0960142,
+  "lng": 6.8180314,
+  "mieter": [
+   "Shell"
+  ]
+ },
+ "la chaux-de-fonds|avenue léopold-robert|106": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "106",
+  "lat": 47.0970572,
+  "lng": 6.8197469,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|104a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "104A",
+  "lat": 47.0971846,
+  "lng": 6.8198398,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|104": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "104",
+  "lat": 47.0971356,
+  "lng": 6.8199701,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|124a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "124a",
+  "lat": 47.0967328,
+  "lng": 6.8186303,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|134": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "134",
+  "lat": 47.095349,
+  "lng": 6.8169324,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|136": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "136",
+  "lat": 47.0951873,
+  "lng": 6.8166556,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|138": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "138",
+  "lat": 47.095024,
+  "lng": 6.8163617,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|75a": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "75A",
+  "lat": 47.0980368,
+  "lng": 6.8227253,
+  "mieter": []
+ },
+ "la chaux-de-fonds|avenue léopold-robert|141;135": {
+  "street": "Avenue Léopold-Robert",
+  "hn": "141;135",
+  "lat": 47.0957602,
+  "lng": 6.8186522,
+  "mieter": []
+ },
+ "la chaux-de-fonds|place du marché|1": {
+  "street": "Place du Marché",
+  "hn": "1",
+  "lat": 47.1041105,
+  "lng": 6.8315704,
+  "mieter": []
+ }
+}

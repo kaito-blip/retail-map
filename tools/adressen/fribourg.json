@@ -1,0 +1,1617 @@
+{
+ "fribourg|rue de lausanne|91": {
+  "street": "Rue de Lausanne",
+  "hn": "91",
+  "lat": 46.8053353,
+  "lng": 7.1565082,
+  "mieter": [
+   "Restaurant LUIGIA"
+  ]
+ },
+ "fribourg|rue de lausanne|38": {
+  "street": "Rue de Lausanne",
+  "hn": "38",
+  "lat": 46.8055449,
+  "lng": 7.1588205,
+  "mieter": [
+   "Bindella"
+  ]
+ },
+ "fribourg|rue de romont|25": {
+  "street": "Rue de Romont",
+  "hn": "25",
+  "lat": 46.8046791,
+  "lng": 7.1545091,
+  "mieter": [
+   "Le Midi"
+  ]
+ },
+ "fribourg|rue de romont|3": {
+  "street": "Rue de Romont",
+  "hn": "3",
+  "lat": 46.8049899,
+  "lng": 7.1551521,
+  "mieter": [
+   "Starbucks"
+  ]
+ },
+ "fribourg|rue de romont|15": {
+  "street": "Rue de Romont",
+  "hn": "15",
+  "lat": 46.8048327,
+  "lng": 7.1548029,
+  "mieter": [
+   "McDonald's"
+  ]
+ },
+ "fribourg|boulevard de pérolles|18a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "18A",
+  "lat": 46.8002706,
+  "lng": 7.1525963,
+  "mieter": [
+   "De Pérolles"
+  ]
+ },
+ "fribourg|rue de lausanne|83": {
+  "street": "Rue de Lausanne",
+  "hn": "83",
+  "lat": 46.8052902,
+  "lng": 7.1569558,
+  "mieter": [
+   "Fromagerie L'Artizan"
+  ]
+ },
+ "fribourg|avenue de la gare|9": {
+  "street": "Avenue de la Gare",
+  "hn": "9",
+  "lat": 46.8036365,
+  "lng": 7.1525323,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare|7": {
+  "street": "Avenue de la Gare",
+  "hn": "7",
+  "lat": 46.8034996,
+  "lng": 7.1522753,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare|11": {
+  "street": "Avenue de la Gare",
+  "hn": "11",
+  "lat": 46.8037673,
+  "lng": 7.1527795,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|74": {
+  "street": "Rue de Lausanne",
+  "hn": "74",
+  "lat": 46.8053293,
+  "lng": 7.1575377,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|88": {
+  "street": "Rue de Lausanne",
+  "hn": "88",
+  "lat": 46.8051791,
+  "lng": 7.1570895,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|82": {
+  "street": "Rue de Lausanne",
+  "hn": "82",
+  "lat": 46.8052449,
+  "lng": 7.1572641,
+  "mieter": [
+   "Le comptoir des thés"
+  ]
+ },
+ "fribourg|rue de lausanne|80": {
+  "street": "Rue de Lausanne",
+  "hn": "80",
+  "lat": 46.8052669,
+  "lng": 7.1573339,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|86": {
+  "street": "Rue de Lausanne",
+  "hn": "86",
+  "lat": 46.8052008,
+  "lng": 7.1571408,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|76": {
+  "street": "Rue de Lausanne",
+  "hn": "76",
+  "lat": 46.8053073,
+  "lng": 7.1574626,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|84": {
+  "street": "Rue de Lausanne",
+  "hn": "84",
+  "lat": 46.8052229,
+  "lng": 7.1571998,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|72": {
+  "street": "Rue de Lausanne",
+  "hn": "72",
+  "lat": 46.8053477,
+  "lng": 7.1576128,
+  "mieter": [
+   "Flexsis / Interima"
+  ]
+ },
+ "fribourg|rue de lausanne|78": {
+  "street": "Rue de Lausanne",
+  "hn": "78",
+  "lat": 46.8052853,
+  "lng": 7.1573982,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|90": {
+  "street": "Rue de Lausanne",
+  "hn": "90",
+  "lat": 46.805109,
+  "lng": 7.1568028,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|66": {
+  "street": "Rue de Lausanne",
+  "hn": "66",
+  "lat": 46.8054072,
+  "lng": 7.1578889,
+  "mieter": [
+   "La Bulle"
+  ]
+ },
+ "fribourg|rue de lausanne|54": {
+  "street": "Rue de Lausanne",
+  "hn": "54",
+  "lat": 46.8054894,
+  "lng": 7.1582967,
+  "mieter": [
+   "Café Grand-Rue"
+  ]
+ },
+ "fribourg|rue de lausanne|48": {
+  "street": "Rue de Lausanne",
+  "hn": "48",
+  "lat": 46.8055093,
+  "lng": 7.1585355,
+  "mieter": [
+   "L'Artisan - Sandwich House"
+  ]
+ },
+ "fribourg|rue de lausanne|62": {
+  "street": "Rue de Lausanne",
+  "hn": "62",
+  "lat": 46.8054382,
+  "lng": 7.1580208,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|46": {
+  "street": "Rue de Lausanne",
+  "hn": "46",
+  "lat": 46.8055168,
+  "lng": 7.1585945,
+  "mieter": [
+   "Poulpito"
+  ]
+ },
+ "fribourg|rue de lausanne|52": {
+  "street": "Rue de Lausanne",
+  "hn": "52",
+  "lat": 46.8054995,
+  "lng": 7.158391,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|60": {
+  "street": "Rue de Lausanne",
+  "hn": "60",
+  "lat": 46.8054492,
+  "lng": 7.1580838,
+  "mieter": [
+   "Audiopur"
+  ]
+ },
+ "fribourg|rue de lausanne|40": {
+  "street": "Rue de Lausanne",
+  "hn": "40",
+  "lat": 46.8055388,
+  "lng": 7.1587715,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|68": {
+  "street": "Rue de Lausanne",
+  "hn": "68",
+  "lat": 46.8053903,
+  "lng": 7.157819,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|58": {
+  "street": "Rue de Lausanne",
+  "hn": "58",
+  "lat": 46.8054595,
+  "lng": 7.1581399,
+  "mieter": [
+   "Viper Smoke"
+  ]
+ },
+ "fribourg|rue de lausanne|42": {
+  "street": "Rue de Lausanne",
+  "hn": "42",
+  "lat": 46.8055315,
+  "lng": 7.1587125,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|64": {
+  "street": "Rue de Lausanne",
+  "hn": "64",
+  "lat": 46.805425,
+  "lng": 7.1579539,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|56": {
+  "street": "Rue de Lausanne",
+  "hn": "56",
+  "lat": 46.8054716,
+  "lng": 7.1582161,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|50": {
+  "street": "Rue de Lausanne",
+  "hn": "50",
+  "lat": 46.8055019,
+  "lng": 7.1584658,
+  "mieter": [
+   "Crêperie SucréSalé"
+  ]
+ },
+ "fribourg|rue de lausanne|44": {
+  "street": "Rue de Lausanne",
+  "hn": "44",
+  "lat": 46.8055278,
+  "lng": 7.1586535,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|6": {
+  "street": "Rue de Lausanne",
+  "hn": "6",
+  "lat": 46.8059113,
+  "lng": 7.1602473,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|12": {
+  "street": "Rue de Lausanne",
+  "hn": "12",
+  "lat": 46.8058874,
+  "lng": 7.16014,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|2": {
+  "street": "Rue de Lausanne",
+  "hn": "2",
+  "lat": 46.8060201,
+  "lng": 7.1604558,
+  "mieter": [
+   "Revolunettes"
+  ]
+ },
+ "fribourg|rue de lausanne|28": {
+  "street": "Rue de Lausanne",
+  "hn": "28",
+  "lat": 46.805579,
+  "lng": 7.1594667,
+  "mieter": [
+   "Globetrotter Travel Service"
+  ]
+ },
+ "fribourg|rue de lausanne|32": {
+  "street": "Rue de Lausanne",
+  "hn": "32",
+  "lat": 46.8055569,
+  "lng": 7.1592629,
+  "mieter": [
+   "Bottega Ethica"
+  ]
+ },
+ "fribourg|rue de lausanne|18": {
+  "street": "Rue de Lausanne",
+  "hn": "18",
+  "lat": 46.8056964,
+  "lng": 7.1599012,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|14": {
+  "street": "Rue de Lausanne",
+  "hn": "14",
+  "lat": 46.805869,
+  "lng": 7.1600434,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|36": {
+  "street": "Rue de Lausanne",
+  "hn": "36",
+  "lat": 46.8055439,
+  "lng": 7.1589812,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|26": {
+  "street": "Rue de Lausanne",
+  "hn": "26",
+  "lat": 46.8055991,
+  "lng": 7.1595848,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|22": {
+  "street": "Rue de Lausanne",
+  "hn": "22",
+  "lat": 46.8056487,
+  "lng": 7.1597752,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|24": {
+  "street": "Rue de Lausanne",
+  "hn": "24",
+  "lat": 46.8056267,
+  "lng": 7.1596787,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|34": {
+  "street": "Rue de Lausanne",
+  "hn": "34",
+  "lat": 46.80542,
+  "lng": 7.1584344,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|20": {
+  "street": "Rue de Lausanne",
+  "hn": "20",
+  "lat": 46.8056744,
+  "lng": 7.1598396,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|16": {
+  "street": "Rue de Lausanne",
+  "hn": "16",
+  "lat": 46.8057203,
+  "lng": 7.1599791,
+  "mieter": []
+ },
+ "fribourg|rue de romont|35": {
+  "street": "Rue de Romont",
+  "hn": "35",
+  "lat": 46.8043038,
+  "lng": 7.1538675,
+  "mieter": []
+ },
+ "fribourg|rue de romont|33": {
+  "street": "Rue de Romont",
+  "hn": "33",
+  "lat": 46.8044325,
+  "lng": 7.1541143,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|1": {
+  "street": "Boulevard de Pérolles",
+  "hn": "1",
+  "lat": 46.8020268,
+  "lng": 7.1512463,
+  "mieter": [
+   "Le Pérolles",
+   "Banque Cantonale de Fribourg"
+  ]
+ },
+ "fribourg|boulevard de pérolles|80": {
+  "street": "Boulevard de Pérolles",
+  "hn": "80",
+  "lat": 46.7934257,
+  "lng": 7.1591493,
+  "mieter": [
+   "Restaurant de la Haute école d'ingénierie et d'architecture de Fribourg",
+   "Bibliothèque de la Haute école d'ingénierie et d'architecture"
+  ]
+ },
+ "fribourg|boulevard de pérolles|91": {
+  "street": "Boulevard de Pérolles",
+  "hn": "91",
+  "lat": 46.7947459,
+  "lng": 7.156852,
+  "mieter": [
+   "Cyclo",
+   "Spuma"
+  ]
+ },
+ "fribourg|rue du simplon|13": {
+  "street": "Rue du Simplon",
+  "hn": "13",
+  "lat": 46.7992302,
+  "lng": 7.1503668,
+  "mieter": []
+ },
+ "fribourg|rue du simplon|1": {
+  "street": "Rue du Simplon",
+  "hn": "1",
+  "lat": 46.7995709,
+  "lng": 7.1524183,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|11": {
+  "street": "Boulevard de Pérolles",
+  "hn": "11",
+  "lat": 46.8006722,
+  "lng": 7.1519526,
+  "mieter": [
+   "Star Pizza Kebab",
+   "Oakberry"
+  ]
+ },
+ "fribourg|boulevard de pérolles|13": {
+  "street": "Boulevard de Pérolles",
+  "hn": "13",
+  "lat": 46.8005518,
+  "lng": 7.1520074,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|19": {
+  "street": "Boulevard de Pérolles",
+  "hn": "19",
+  "lat": 46.8000343,
+  "lng": 7.1522849,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|21": {
+  "street": "Boulevard de Pérolles",
+  "hn": "21",
+  "lat": 46.7999309,
+  "lng": 7.1523396,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|21a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "21a",
+  "lat": 46.7999721,
+  "lng": 7.1523148,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|23": {
+  "street": "Boulevard de Pérolles",
+  "hn": "23",
+  "lat": 46.7998576,
+  "lng": 7.1523688,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|9": {
+  "street": "Boulevard de Pérolles",
+  "hn": "9",
+  "lat": 46.8008031,
+  "lng": 7.1518898,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|25": {
+  "street": "Boulevard de Pérolles",
+  "hn": "25",
+  "lat": 46.7992266,
+  "lng": 7.1526392,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|33": {
+  "street": "Boulevard de Pérolles",
+  "hn": "33",
+  "lat": 46.7983301,
+  "lng": 7.1530311,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|87": {
+  "street": "Rue de Lausanne",
+  "hn": "87",
+  "lat": 46.8052823,
+  "lng": 7.1567445,
+  "mieter": [
+   "Les Trentenaires"
+  ]
+ },
+ "fribourg|boulevard de pérolles|5": {
+  "street": "Boulevard de Pérolles",
+  "hn": "5",
+  "lat": 46.8004297,
+  "lng": 7.1515307,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|7a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "7a",
+  "lat": 46.8010144,
+  "lng": 7.1517999,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|7b": {
+  "street": "Boulevard de Pérolles",
+  "hn": "7b",
+  "lat": 46.8011233,
+  "lng": 7.1517896,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare|10": {
+  "street": "Avenue de la Gare",
+  "hn": "10",
+  "lat": 46.8031209,
+  "lng": 7.1522497,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare|2": {
+  "street": "Avenue de la Gare",
+  "hn": "2",
+  "lat": 46.8025682,
+  "lng": 7.1514939,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare|4": {
+  "street": "Avenue de la Gare",
+  "hn": "4",
+  "lat": 46.8027404,
+  "lng": 7.1515168,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare|6": {
+  "street": "Avenue de la Gare",
+  "hn": "6",
+  "lat": 46.8028347,
+  "lng": 7.1516922,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare|8": {
+  "street": "Avenue de la Gare",
+  "hn": "8",
+  "lat": 46.8028595,
+  "lng": 7.1517563,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|10": {
+  "street": "Boulevard de Pérolles",
+  "hn": "10",
+  "lat": 46.8016532,
+  "lng": 7.1519105,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|12": {
+  "street": "Boulevard de Pérolles",
+  "hn": "12",
+  "lat": 46.801483,
+  "lng": 7.1519919,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|14": {
+  "street": "Boulevard de Pérolles",
+  "hn": "14",
+  "lat": 46.8013829,
+  "lng": 7.1520351,
+  "mieter": [
+   "Papeterie Meyer"
+  ]
+ },
+ "fribourg|boulevard de pérolles|16": {
+  "street": "Boulevard de Pérolles",
+  "hn": "16",
+  "lat": 46.8011788,
+  "lng": 7.1521369,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|18": {
+  "street": "Boulevard de Pérolles",
+  "hn": "18",
+  "lat": 46.801003,
+  "lng": 7.1522222,
+  "mieter": [
+   "Walima"
+  ]
+ },
+ "fribourg|boulevard de pérolles|2": {
+  "street": "Boulevard de Pérolles",
+  "hn": "2",
+  "lat": 46.8022651,
+  "lng": 7.1516474,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|20": {
+  "street": "Boulevard de Pérolles",
+  "hn": "20",
+  "lat": 46.8000597,
+  "lng": 7.1526665,
+  "mieter": [
+   "Bois doré"
+  ]
+ },
+ "fribourg|boulevard de pérolles|22": {
+  "street": "Boulevard de Pérolles",
+  "hn": "22",
+  "lat": 46.7999259,
+  "lng": 7.1527226,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|24": {
+  "street": "Boulevard de Pérolles",
+  "hn": "24",
+  "lat": 46.7997478,
+  "lng": 7.1527748,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|26": {
+  "street": "Boulevard de Pérolles",
+  "hn": "26",
+  "lat": 46.7994824,
+  "lng": 7.1529311,
+  "mieter": [
+   "La Tabatière"
+  ]
+ },
+ "fribourg|boulevard de pérolles|28": {
+  "street": "Boulevard de Pérolles",
+  "hn": "28",
+  "lat": 46.7992816,
+  "lng": 7.1529985,
+  "mieter": [
+   "Sciboz"
+  ]
+ },
+ "fribourg|boulevard de pérolles|30": {
+  "street": "Boulevard de Pérolles",
+  "hn": "30",
+  "lat": 46.7991391,
+  "lng": 7.1530669,
+  "mieter": [
+   "Chengdu (成 都)"
+  ]
+ },
+ "fribourg|boulevard de pérolles|32": {
+  "street": "Boulevard de Pérolles",
+  "hn": "32",
+  "lat": 46.7988681,
+  "lng": 7.1532205,
+  "mieter": [
+   "Zig-Zag Fribourg"
+  ]
+ },
+ "fribourg|boulevard de pérolles|34": {
+  "street": "Boulevard de Pérolles",
+  "hn": "34",
+  "lat": 46.7986903,
+  "lng": 7.1533873,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|4": {
+  "street": "Boulevard de Pérolles",
+  "hn": "4",
+  "lat": 46.8021555,
+  "lng": 7.1516867,
+  "mieter": [
+   "Les Gosses du Québec"
+  ]
+ },
+ "fribourg|boulevard de pérolles|45": {
+  "street": "Boulevard de Pérolles",
+  "hn": "45",
+  "lat": 46.7970896,
+  "lng": 7.1540802,
+  "mieter": [
+   "Eglise du Christ Roi"
+  ]
+ },
+ "fribourg|boulevard de pérolles|6": {
+  "street": "Boulevard de Pérolles",
+  "hn": "6",
+  "lat": 46.8019847,
+  "lng": 7.1517739,
+  "mieter": [
+   "Pharmacie Dr.Hagendorf"
+  ]
+ },
+ "fribourg|boulevard de pérolles|8": {
+  "street": "Boulevard de Pérolles",
+  "hn": "8",
+  "lat": 46.8018183,
+  "lng": 7.1518295,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|29": {
+  "street": "Boulevard de Pérolles",
+  "hn": "29",
+  "lat": 46.7986191,
+  "lng": 7.1529055,
+  "mieter": [
+   "Art Floral",
+   "Espace Bio La Sage"
+  ]
+ },
+ "fribourg|boulevard de pérolles|15": {
+  "street": "Boulevard de Pérolles",
+  "hn": "15",
+  "lat": 46.8004131,
+  "lng": 7.1520836,
+  "mieter": [
+   "Korso - Kino Bar Bier"
+  ]
+ },
+ "fribourg|rue du simplon|10": {
+  "street": "Rue du Simplon",
+  "hn": "10",
+  "lat": 46.7990892,
+  "lng": 7.1498902,
+  "mieter": []
+ },
+ "fribourg|rue du simplon|11": {
+  "street": "Rue du Simplon",
+  "hn": "11",
+  "lat": 46.7992681,
+  "lng": 7.1508063,
+  "mieter": []
+ },
+ "fribourg|rue du simplon|3": {
+  "street": "Rue du Simplon",
+  "hn": "3",
+  "lat": 46.7994936,
+  "lng": 7.1520505,
+  "mieter": []
+ },
+ "fribourg|rue du simplon|4": {
+  "street": "Rue du Simplon",
+  "hn": "4",
+  "lat": 46.799133,
+  "lng": 7.1511551,
+  "mieter": []
+ },
+ "fribourg|rue du simplon|5": {
+  "street": "Rue du Simplon",
+  "hn": "5",
+  "lat": 46.7994312,
+  "lng": 7.1517193,
+  "mieter": [
+   "Dragon D'Or"
+  ]
+ },
+ "fribourg|rue du simplon|6": {
+  "street": "Rue du Simplon",
+  "hn": "6",
+  "lat": 46.7988671,
+  "lng": 7.1506148,
+  "mieter": []
+ },
+ "fribourg|rue du simplon|7": {
+  "street": "Rue du Simplon",
+  "hn": "7",
+  "lat": 46.7993753,
+  "lng": 7.1513568,
+  "mieter": []
+ },
+ "fribourg|rue du simplon|8": {
+  "street": "Rue du Simplon",
+  "hn": "8",
+  "lat": 46.7990619,
+  "lng": 7.1501093,
+  "mieter": []
+ },
+ "fribourg|rue du simplon|9": {
+  "street": "Rue du Simplon",
+  "hn": "9",
+  "lat": 46.7993141,
+  "lng": 7.151103,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|55a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "55a",
+  "lat": 46.7963916,
+  "lng": 7.1541197,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|31": {
+  "street": "Boulevard de Pérolles",
+  "hn": "31",
+  "lat": 46.7985258,
+  "lng": 7.1529098,
+  "mieter": [
+   "L'Esprit du Voyage"
+  ]
+ },
+ "fribourg|boulevard de pérolles|27": {
+  "street": "Boulevard de Pérolles",
+  "hn": "27",
+  "lat": 46.7988807,
+  "lng": 7.1528039,
+  "mieter": [
+   "Murith SA"
+  ]
+ },
+ "fribourg|boulevard de pérolles|65": {
+  "street": "Boulevard de Pérolles",
+  "hn": "65",
+  "lat": 46.7960329,
+  "lng": 7.1554906,
+  "mieter": [
+   "Sixty Five"
+  ]
+ },
+ "fribourg|boulevard de pérolles|5a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "5a",
+  "lat": 46.8015593,
+  "lng": 7.1511086,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|7": {
+  "street": "Boulevard de Pérolles",
+  "hn": "7",
+  "lat": 46.8012026,
+  "lng": 7.1517479,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|3": {
+  "street": "Boulevard de Pérolles",
+  "hn": "3",
+  "lat": 46.8013829,
+  "lng": 7.15167,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|11": {
+  "street": "Rue de Lausanne",
+  "hn": "11",
+  "lat": 46.8061049,
+  "lng": 7.1601386,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|13": {
+  "street": "Rue de Lausanne",
+  "hn": "13",
+  "lat": 46.8060674,
+  "lng": 7.1600543,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|15": {
+  "street": "Rue de Lausanne",
+  "hn": "15",
+  "lat": 46.8060143,
+  "lng": 7.1599894,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|17": {
+  "street": "Rue de Lausanne",
+  "hn": "17",
+  "lat": 46.8059836,
+  "lng": 7.1599208,
+  "mieter": [
+   "Jorge Cardoso"
+  ]
+ },
+ "fribourg|rue de lausanne|19": {
+  "street": "Rue de Lausanne",
+  "hn": "19",
+  "lat": 46.8059519,
+  "lng": 7.1598699,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|3": {
+  "street": "Rue de Lausanne",
+  "hn": "3",
+  "lat": 46.8062311,
+  "lng": 7.160422,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|5": {
+  "street": "Rue de Lausanne",
+  "hn": "5",
+  "lat": 46.8061771,
+  "lng": 7.1603279,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|69": {
+  "street": "Rue de Lausanne",
+  "hn": "69",
+  "lat": 46.8054224,
+  "lng": 7.1575178,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|7": {
+  "street": "Rue de Lausanne",
+  "hn": "7",
+  "lat": 46.8061479,
+  "lng": 7.1602494,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|71": {
+  "street": "Rue de Lausanne",
+  "hn": "71",
+  "lat": 46.8054034,
+  "lng": 7.157432,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|73": {
+  "street": "Rue de Lausanne",
+  "hn": "73",
+  "lat": 46.8053919,
+  "lng": 7.1573686,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|75": {
+  "street": "Rue de Lausanne",
+  "hn": "75",
+  "lat": 46.805384,
+  "lng": 7.1573098,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|77": {
+  "street": "Rue de Lausanne",
+  "hn": "77",
+  "lat": 46.8053829,
+  "lng": 7.1572676,
+  "mieter": [
+   "KUMO"
+  ]
+ },
+ "fribourg|rue de lausanne|79": {
+  "street": "Rue de Lausanne",
+  "hn": "79",
+  "lat": 46.8053833,
+  "lng": 7.1572181,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|81": {
+  "street": "Rue de Lausanne",
+  "hn": "81",
+  "lat": 46.805371,
+  "lng": 7.157087,
+  "mieter": [
+   "Restaurant Indian Diyarah",
+   "Manu Gelato"
+  ]
+ },
+ "fribourg|rue de lausanne|85": {
+  "street": "Rue de Lausanne",
+  "hn": "85",
+  "lat": 46.805329,
+  "lng": 7.1568431,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|9": {
+  "street": "Rue de Lausanne",
+  "hn": "9",
+  "lat": 46.8061307,
+  "lng": 7.1601988,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|93": {
+  "street": "Rue de Lausanne",
+  "hn": "93",
+  "lat": 46.8053609,
+  "lng": 7.156326,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|39": {
+  "street": "Rue de Lausanne",
+  "hn": "39",
+  "lat": 46.805681,
+  "lng": 7.1589495,
+  "mieter": [
+   "Franzy's Paradies"
+  ]
+ },
+ "fribourg|rue de romont|5": {
+  "street": "Rue de Romont",
+  "hn": "5",
+  "lat": 46.8049611,
+  "lng": 7.1550967,
+  "mieter": [
+   "Restaurant FIVE"
+  ]
+ },
+ "fribourg|rue de romont|30": {
+  "street": "Rue de Romont",
+  "hn": "30",
+  "lat": 46.8039964,
+  "lng": 7.1538445,
+  "mieter": [
+   "Parfum Christian Dior",
+   "Manor"
+  ]
+ },
+ "fribourg|boulevard de pérolles|53": {
+  "street": "Boulevard de Pérolles",
+  "hn": "53",
+  "lat": 46.7968093,
+  "lng": 7.1545885,
+  "mieter": [
+   "Comptoir libanais"
+  ]
+ },
+ "fribourg|rue de romont|13": {
+  "street": "Rue de Romont",
+  "hn": "13",
+  "lat": 46.8048515,
+  "lng": 7.1548611,
+  "mieter": [
+   "Suard"
+  ]
+ },
+ "fribourg|rue de lausanne|55": {
+  "street": "Rue de Lausanne",
+  "hn": "55",
+  "lat": 46.8055872,
+  "lng": 7.1581798,
+  "mieter": [
+   "Pêches-Sportives"
+  ]
+ },
+ "fribourg|boulevard de pérolles|13a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "13a",
+  "lat": 46.8005708,
+  "lng": 7.1517061,
+  "mieter": [
+   "Miy MakerSpace",
+   "Badog CNC"
+  ]
+ },
+ "fribourg|rue de lausanne|25": {
+  "street": "Rue de Lausanne",
+  "hn": "25",
+  "lat": 46.8057735,
+  "lng": 7.1595762,
+  "mieter": [
+   "Chez Ginette"
+  ]
+ },
+ "fribourg|rue de romont|11": {
+  "street": "Rue de Romont",
+  "hn": "11",
+  "lat": 46.8049076,
+  "lng": 7.1549325,
+  "mieter": [
+   "Graine de shopping"
+  ]
+ },
+ "fribourg|rue de lausanne|57": {
+  "street": "Rue de Lausanne",
+  "hn": "57",
+  "lat": 46.8055705,
+  "lng": 7.1580278,
+  "mieter": [
+   "Fara"
+  ]
+ },
+ "fribourg|boulevard de pérolles|82": {
+  "street": "Boulevard de Pérolles",
+  "hn": "82",
+  "lat": 46.7928197,
+  "lng": 7.1597249,
+  "mieter": [
+   "Haute école d'ingénierie et d'architecture de Fribourg"
+  ]
+ },
+ "fribourg|boulevard de pérolles|95": {
+  "street": "Boulevard de Pérolles",
+  "hn": "95",
+  "lat": 46.7936805,
+  "lng": 7.1576786,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare|1": {
+  "street": "Avenue de la Gare",
+  "hn": "1",
+  "lat": 46.8024927,
+  "lng": 7.1507718,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|57": {
+  "street": "Boulevard de Pérolles",
+  "hn": "57",
+  "lat": 46.7963847,
+  "lng": 7.1549653,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|59": {
+  "street": "Boulevard de Pérolles",
+  "hn": "59",
+  "lat": 46.796271,
+  "lng": 7.155145,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|63": {
+  "street": "Boulevard de Pérolles",
+  "hn": "63",
+  "lat": 46.7961458,
+  "lng": 7.1552847,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|67": {
+  "street": "Boulevard de Pérolles",
+  "hn": "67",
+  "lat": 46.7958322,
+  "lng": 7.1556344,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|69": {
+  "street": "Boulevard de Pérolles",
+  "hn": "69",
+  "lat": 46.795711,
+  "lng": 7.1557741,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|93": {
+  "street": "Boulevard de Pérolles",
+  "hn": "93",
+  "lat": 46.7943745,
+  "lng": 7.1571004,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|93a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "93a",
+  "lat": 46.7944172,
+  "lng": 7.1569727,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|39": {
+  "street": "Boulevard de Pérolles",
+  "hn": "39",
+  "lat": 46.7973878,
+  "lng": 7.1538517,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|37a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "37a",
+  "lat": 46.7971843,
+  "lng": 7.1537964,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|55": {
+  "street": "Boulevard de Pérolles",
+  "hn": "55",
+  "lat": 46.7965289,
+  "lng": 7.1545807,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|39a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "39a",
+  "lat": 46.7972929,
+  "lng": 7.15369,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|41": {
+  "street": "Boulevard de Pérolles",
+  "hn": "41",
+  "lat": 46.7972237,
+  "lng": 7.1540241,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|37": {
+  "street": "Boulevard de Pérolles",
+  "hn": "37",
+  "lat": 46.7975347,
+  "lng": 7.1535991,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|46": {
+  "street": "Boulevard de Pérolles",
+  "hn": "46",
+  "lat": 46.7964635,
+  "lng": 7.1556334,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|71": {
+  "street": "Boulevard de Pérolles",
+  "hn": "71",
+  "lat": 46.7954822,
+  "lng": 7.1559699,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|73": {
+  "street": "Boulevard de Pérolles",
+  "hn": "73",
+  "lat": 46.795418,
+  "lng": 7.1560415,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|75": {
+  "street": "Boulevard de Pérolles",
+  "hn": "75",
+  "lat": 46.7953361,
+  "lng": 7.1561326,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|77": {
+  "street": "Boulevard de Pérolles",
+  "hn": "77",
+  "lat": 46.7952284,
+  "lng": 7.1562527,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|79": {
+  "street": "Boulevard de Pérolles",
+  "hn": "79",
+  "lat": 46.7951188,
+  "lng": 7.1563748,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|81": {
+  "street": "Boulevard de Pérolles",
+  "hn": "81",
+  "lat": 46.7950123,
+  "lng": 7.1564933,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|83": {
+  "street": "Boulevard de Pérolles",
+  "hn": "83",
+  "lat": 46.7949009,
+  "lng": 7.1566175,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|91c": {
+  "street": "Boulevard de Pérolles",
+  "hn": "91c",
+  "lat": 46.7946966,
+  "lng": 7.1564846,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|76": {
+  "street": "Boulevard de Pérolles",
+  "hn": "76",
+  "lat": 46.7946254,
+  "lng": 7.158285,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|68a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "68a",
+  "lat": 46.7947714,
+  "lng": 7.1574205,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|70": {
+  "street": "Boulevard de Pérolles",
+  "hn": "70",
+  "lat": 46.7943573,
+  "lng": 7.158075,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|72": {
+  "street": "Boulevard de Pérolles",
+  "hn": "72",
+  "lat": 46.7953574,
+  "lng": 7.1575588,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|66": {
+  "street": "Boulevard de Pérolles",
+  "hn": "66",
+  "lat": 46.7950951,
+  "lng": 7.157389,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|64": {
+  "street": "Boulevard de Pérolles",
+  "hn": "64",
+  "lat": 46.7953224,
+  "lng": 7.1571368,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|68": {
+  "street": "Boulevard de Pérolles",
+  "hn": "68",
+  "lat": 46.7948312,
+  "lng": 7.1578638,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|36": {
+  "street": "Boulevard de Pérolles",
+  "hn": "36",
+  "lat": 46.7977312,
+  "lng": 7.1541023,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|36a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "36a",
+  "lat": 46.7978407,
+  "lng": 7.1543838,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|36b": {
+  "street": "Boulevard de Pérolles",
+  "hn": "36b",
+  "lat": 46.7979995,
+  "lng": 7.1547082,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|36c": {
+  "street": "Boulevard de Pérolles",
+  "hn": "36c",
+  "lat": 46.7974364,
+  "lng": 7.1556031,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|36d": {
+  "street": "Boulevard de Pérolles",
+  "hn": "36d",
+  "lat": 46.798149,
+  "lng": 7.1559168,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|36e": {
+  "street": "Boulevard de Pérolles",
+  "hn": "36e",
+  "lat": 46.798169,
+  "lng": 7.1557044,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|36f": {
+  "street": "Boulevard de Pérolles",
+  "hn": "36f",
+  "lat": 46.7975149,
+  "lng": 7.1553616,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|36g": {
+  "street": "Boulevard de Pérolles",
+  "hn": "36g",
+  "lat": 46.7979798,
+  "lng": 7.1548622,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|38": {
+  "street": "Boulevard de Pérolles",
+  "hn": "38",
+  "lat": 46.7976423,
+  "lng": 7.1544862,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|40": {
+  "street": "Boulevard de Pérolles",
+  "hn": "40",
+  "lat": 46.797244,
+  "lng": 7.1547061,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|42": {
+  "street": "Boulevard de Pérolles",
+  "hn": "42",
+  "lat": 46.7969351,
+  "lng": 7.155175,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|44": {
+  "street": "Boulevard de Pérolles",
+  "hn": "44",
+  "lat": 46.7977926,
+  "lng": 7.1552687,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|8a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "8a",
+  "lat": 46.7980857,
+  "lng": 7.156118,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|8b": {
+  "street": "Boulevard de Pérolles",
+  "hn": "8b",
+  "lat": 46.7978138,
+  "lng": 7.1560491,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|86": {
+  "street": "Boulevard de Pérolles",
+  "hn": "86",
+  "lat": 46.7919673,
+  "lng": 7.1611565,
+  "mieter": [
+   "Haute école d'ingénierie et d'architecture de Fribourg"
+  ]
+ },
+ "fribourg|avenue de la gare|1a": {
+  "street": "Avenue de la Gare",
+  "hn": "1a",
+  "lat": 46.8023561,
+  "lng": 7.151051,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare|1b": {
+  "street": "Avenue de la Gare",
+  "hn": "1b",
+  "lat": 46.8024212,
+  "lng": 7.1510706,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|35": {
+  "street": "Boulevard de Pérolles",
+  "hn": "35",
+  "lat": 46.7977293,
+  "lng": 7.153411,
+  "mieter": [
+   "Kiosque du Domino"
+  ]
+ },
+ "fribourg|boulevard de pérolles|15a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "15a",
+  "lat": 46.8003394,
+  "lng": 7.1517028,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|84": {
+  "street": "Boulevard de Pérolles",
+  "hn": "84",
+  "lat": 46.7927668,
+  "lng": 7.1603362,
+  "mieter": [
+   "Haute école d'ingénierie et d'architecture de Fribourg"
+  ]
+ },
+ "fribourg|boulevard de pérolles|84a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "84a",
+  "lat": 46.7927373,
+  "lng": 7.1601616,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|90a": {
+  "street": "Boulevard de Pérolles",
+  "hn": "90a",
+  "lat": 46.7932207,
+  "lng": 7.1601839,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|90c": {
+  "street": "Boulevard de Pérolles",
+  "hn": "90c",
+  "lat": 46.7931867,
+  "lng": 7.1604846,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|90": {
+  "street": "Boulevard de Pérolles",
+  "hn": "90",
+  "lat": 46.7938057,
+  "lng": 7.1595828,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare|22": {
+  "street": "Avenue de la Gare",
+  "hn": "22",
+  "lat": 46.8038784,
+  "lng": 7.1537786,
+  "mieter": [
+   "Arena Cinéma"
+  ]
+ },
+ "fribourg|rue de lausanne|19a": {
+  "street": "Rue de Lausanne",
+  "hn": "19a",
+  "lat": 46.8060971,
+  "lng": 7.1597144,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|1": {
+  "street": "Rue de Lausanne",
+  "hn": "1",
+  "lat": 46.8062071,
+  "lng": 7.1605525,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|23": {
+  "street": "Rue de Lausanne",
+  "hn": "23",
+  "lat": 46.8058632,
+  "lng": 7.1596386,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|21": {
+  "street": "Rue de Lausanne",
+  "hn": "21",
+  "lat": 46.8059018,
+  "lng": 7.1597222,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|27": {
+  "street": "Rue de Lausanne",
+  "hn": "27",
+  "lat": 46.8058295,
+  "lng": 7.15943,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|29": {
+  "street": "Rue de Lausanne",
+  "hn": "29",
+  "lat": 46.8058058,
+  "lng": 7.1593767,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|33": {
+  "street": "Rue de Lausanne",
+  "hn": "33",
+  "lat": 46.8057778,
+  "lng": 7.1592917,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|37": {
+  "street": "Rue de Lausanne",
+  "hn": "37",
+  "lat": 46.8057501,
+  "lng": 7.1590867,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|35": {
+  "street": "Rue de Lausanne",
+  "hn": "35",
+  "lat": 46.8057845,
+  "lng": 7.1592052,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|41": {
+  "street": "Rue de Lausanne",
+  "hn": "41",
+  "lat": 46.8057238,
+  "lng": 7.1587538,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|47": {
+  "street": "Rue de Lausanne",
+  "hn": "47",
+  "lat": 46.8057124,
+  "lng": 7.1586529,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|67": {
+  "street": "Rue de Lausanne",
+  "hn": "67",
+  "lat": 46.805514,
+  "lng": 7.1576555,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|63": {
+  "street": "Rue de Lausanne",
+  "hn": "63",
+  "lat": 46.8055615,
+  "lng": 7.1577185,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|61": {
+  "street": "Rue de Lausanne",
+  "hn": "61",
+  "lat": 46.8055707,
+  "lng": 7.1577689,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|59": {
+  "street": "Rue de Lausanne",
+  "hn": "59",
+  "lat": 46.8056175,
+  "lng": 7.1578606,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|53": {
+  "street": "Rue de Lausanne",
+  "hn": "53",
+  "lat": 46.8056731,
+  "lng": 7.1583216,
+  "mieter": []
+ },
+ "fribourg|rue de lausanne|51": {
+  "street": "Rue de Lausanne",
+  "hn": "51",
+  "lat": 46.8057496,
+  "lng": 7.1584479,
+  "mieter": []
+ },
+ "fribourg|boulevard de pérolles|17": {
+  "street": "Boulevard de Pérolles",
+  "hn": "17",
+  "lat": 46.8002338,
+  "lng": 7.1521248,
+  "mieter": []
+ }
+}

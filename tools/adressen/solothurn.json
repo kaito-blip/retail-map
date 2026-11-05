@@ -1,0 +1,1119 @@
+{
+ "solothurn|hauptbahnhofstrasse|2": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "2",
+  "lat": 47.2051064,
+  "lng": 7.5405056,
+  "mieter": [
+   "Medbase"
+  ]
+ },
+ "solothurn|hauptgasse|53": {
+  "street": "Hauptgasse",
+  "hn": "53",
+  "lat": 47.207909,
+  "lng": 7.5374217,
+  "mieter": [
+   "TopPharm"
+  ]
+ },
+ "solothurn|gurzelngasse|34": {
+  "street": "Gurzelngasse",
+  "hn": "34",
+  "lat": 47.208179,
+  "lng": 7.5351844,
+  "mieter": [
+   "NILE"
+  ]
+ },
+ "solothurn|stalden|5": {
+  "street": "Stalden",
+  "hn": "5",
+  "lat": 47.2062531,
+  "lng": 7.5353947,
+  "mieter": [
+   "Hair Fashion"
+  ]
+ },
+ "solothurn|hauptgasse|54": {
+  "street": "Hauptgasse",
+  "hn": "54",
+  "lat": 47.2077298,
+  "lng": 7.5373502,
+  "mieter": [
+   "Bijou"
+  ]
+ },
+ "solothurn|hauptgasse|38": {
+  "street": "Hauptgasse",
+  "hn": "38",
+  "lat": 47.2074222,
+  "lng": 7.5365822,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|41": {
+  "street": "Hauptgasse",
+  "hn": "41",
+  "lat": 47.2075725,
+  "lng": 7.5366033,
+  "mieter": [
+   "El Mexicano"
+  ]
+ },
+ "solothurn|hauptgasse|45": {
+  "street": "Hauptgasse",
+  "hn": "45",
+  "lat": 47.2077,
+  "lng": 7.5367052,
+  "mieter": [
+   "Brasserie Federale"
+  ]
+ },
+ "solothurn|gurzelngasse|17": {
+  "street": "Gurzelngasse",
+  "hn": "17",
+  "lat": 47.2079505,
+  "lng": 7.5357718,
+  "mieter": [
+   "Lüthy Balmer Stocker"
+  ]
+ },
+ "solothurn|hauptbahnhofstrasse|4": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "4",
+  "lat": 47.2049949,
+  "lng": 7.5407086,
+  "mieter": [
+   "Steiner"
+  ]
+ },
+ "solothurn|stalden|17": {
+  "street": "Stalden",
+  "hn": "17",
+  "lat": 47.2065956,
+  "lng": 7.5351475,
+  "mieter": [
+   "Confiserie Hofer"
+  ]
+ },
+ "solothurn|hauptgasse|37": {
+  "street": "Hauptgasse",
+  "hn": "37",
+  "lat": 47.2074964,
+  "lng": 7.5364767,
+  "mieter": [
+   "Interdiscount"
+  ]
+ },
+ "solothurn|stalden|8": {
+  "street": "Stalden",
+  "hn": "8",
+  "lat": 47.2064167,
+  "lng": 7.5356024,
+  "mieter": [
+   "Metro Boutique"
+  ]
+ },
+ "solothurn|stalden|12": {
+  "street": "Stalden",
+  "hn": "12",
+  "lat": 47.2068836,
+  "lng": 7.535178,
+  "mieter": [
+   "Alfred Wyss"
+  ]
+ },
+ "solothurn|hauptgasse|21": {
+  "street": "Hauptgasse",
+  "hn": "21",
+  "lat": 47.2070407,
+  "lng": 7.5359462,
+  "mieter": [
+   "Rituals ..."
+  ]
+ },
+ "solothurn|hauptgasse|50": {
+  "street": "Hauptgasse",
+  "hn": "50",
+  "lat": 47.2076467,
+  "lng": 7.537111,
+  "mieter": [
+   "Müller"
+  ]
+ },
+ "solothurn|hauptgasse|43": {
+  "street": "Hauptgasse",
+  "hn": "43",
+  "lat": 47.2076222,
+  "lng": 7.5366883,
+  "mieter": [
+   "Travelhouse"
+  ]
+ },
+ "solothurn|gurzelngasse|1": {
+  "street": "Gurzelngasse",
+  "hn": "1",
+  "lat": 47.2078324,
+  "lng": 7.5365875,
+  "mieter": [
+   "Viktor"
+  ]
+ },
+ "solothurn|gurzelngasse|25": {
+  "street": "Gurzelngasse",
+  "hn": "25",
+  "lat": 47.2079616,
+  "lng": 7.5352946,
+  "mieter": [
+   "WE"
+  ]
+ },
+ "solothurn|gurzelngasse|31": {
+  "street": "Gurzelngasse",
+  "hn": "31",
+  "lat": 47.2079492,
+  "lng": 7.5350441,
+  "mieter": [
+   "Schuhhaus am Bieltor"
+  ]
+ },
+ "solothurn|gurzelngasse|38": {
+  "street": "Gurzelngasse",
+  "hn": "38",
+  "lat": 47.2082156,
+  "lng": 7.5349803,
+  "mieter": [
+   "Bayard"
+  ]
+ },
+ "solothurn|hauptgasse|35": {
+  "street": "Hauptgasse",
+  "hn": "35",
+  "lat": 47.2074025,
+  "lng": 7.5363598,
+  "mieter": [
+   "Blancados"
+  ]
+ },
+ "solothurn|hauptgasse|63": {
+  "street": "Hauptgasse",
+  "hn": "63",
+  "lat": 47.2080141,
+  "lng": 7.5379562,
+  "mieter": [
+   "Zeller"
+  ]
+ },
+ "solothurn|marktplatz|2": {
+  "street": "Marktplatz",
+  "hn": "2",
+  "lat": 47.2080107,
+  "lng": 7.5367848,
+  "mieter": [
+   "Import Parfumerie"
+  ]
+ },
+ "solothurn|hauptgasse|6": {
+  "street": "Hauptgasse",
+  "hn": "6",
+  "lat": 47.2066589,
+  "lng": 7.5357175,
+  "mieter": [
+   "Schmuck Outlet"
+  ]
+ },
+ "solothurn|gurzelngasse|7": {
+  "street": "Gurzelngasse",
+  "hn": "7",
+  "lat": 47.2078977,
+  "lng": 7.5363562,
+  "mieter": [
+   "Fielmann"
+  ]
+ },
+ "solothurn|hauptgasse|8": {
+  "street": "Hauptgasse",
+  "hn": "8",
+  "lat": 47.2067604,
+  "lng": 7.5359383,
+  "mieter": [
+   "H&M"
+  ]
+ },
+ "solothurn|hauptgasse|30": {
+  "street": "Hauptgasse",
+  "hn": "30",
+  "lat": 47.2071483,
+  "lng": 7.5363331,
+  "mieter": [
+   "Vero Moda"
+  ]
+ },
+ "solothurn|hauptgasse|4": {
+  "street": "Hauptgasse",
+  "hn": "4",
+  "lat": 47.2066178,
+  "lng": 7.5355995,
+  "mieter": [
+   "vomFASS"
+  ]
+ },
+ "solothurn|hauptgasse|55": {
+  "street": "Hauptgasse",
+  "hn": "55",
+  "lat": 47.2079254,
+  "lng": 7.5375658,
+  "mieter": [
+   "Ochsner Shoes"
+  ]
+ },
+ "solothurn|gurzelngasse|36": {
+  "street": "Gurzelngasse",
+  "hn": "36",
+  "lat": 47.2081873,
+  "lng": 7.5350978,
+  "mieter": [
+   "Läderach"
+  ]
+ },
+ "solothurn|stalden|11": {
+  "street": "Stalden",
+  "hn": "11",
+  "lat": 47.206407,
+  "lng": 7.5352721,
+  "mieter": [
+   "Coiffure Fönx",
+   "Bottega Lombardo"
+  ]
+ },
+ "solothurn|gurzelngasse|21": {
+  "street": "Gurzelngasse",
+  "hn": "21",
+  "lat": 47.2079549,
+  "lng": 7.5354307,
+  "mieter": [
+   "Mode Küng"
+  ]
+ },
+ "solothurn|gurzelngasse|9": {
+  "street": "Gurzelngasse",
+  "hn": "9",
+  "lat": 47.2079182,
+  "lng": 7.5361313,
+  "mieter": [
+   "Sunrise"
+  ]
+ },
+ "solothurn|hauptgasse|83": {
+  "street": "Hauptgasse",
+  "hn": "83",
+  "lat": 47.2087012,
+  "lng": 7.5395057,
+  "mieter": [
+   "Studer"
+  ]
+ },
+ "solothurn|stalden|4": {
+  "street": "Stalden",
+  "hn": "4",
+  "lat": 47.2062159,
+  "lng": 7.5355688,
+  "mieter": [
+   "HeimArt",
+   "Nasevelo"
+  ]
+ },
+ "solothurn|gurzelngasse|30": {
+  "street": "Gurzelngasse",
+  "hn": "30",
+  "lat": 47.2081487,
+  "lng": 7.5353663,
+  "mieter": [
+   "Lüthy Paperlove"
+  ]
+ },
+ "solothurn|hauptgasse|11": {
+  "street": "Hauptgasse",
+  "hn": "11",
+  "lat": 47.2068145,
+  "lng": 7.5356754,
+  "mieter": [
+   "Zebra",
+   "Atelier de Beauté"
+  ]
+ },
+ "solothurn|hauptgasse|7": {
+  "street": "Hauptgasse",
+  "hn": "7",
+  "lat": 47.206738,
+  "lng": 7.53552,
+  "mieter": [
+   "Beldona"
+  ]
+ },
+ "solothurn|stalden|3": {
+  "street": "Stalden",
+  "hn": "3",
+  "lat": 47.2062099,
+  "lng": 7.5353868,
+  "mieter": [
+   "Coiffeur Stalden 3"
+  ]
+ },
+ "solothurn|stalden|7": {
+  "street": "Stalden",
+  "hn": "7",
+  "lat": 47.206301,
+  "lng": 7.535338,
+  "mieter": [
+   "Vitaminstation"
+  ]
+ },
+ "solothurn|hauptgasse|23": {
+  "street": "Hauptgasse",
+  "hn": "23",
+  "lat": 47.207199,
+  "lng": 7.535983,
+  "mieter": [
+   "Goldhaus"
+  ]
+ },
+ "solothurn|hauptgasse|67": {
+  "street": "Hauptgasse",
+  "hn": "67",
+  "lat": 47.2082195,
+  "lng": 7.5383002,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "solothurn|hauptgasse|25": {
+  "street": "Hauptgasse",
+  "hn": "25",
+  "lat": 47.2072049,
+  "lng": 7.5360848,
+  "mieter": [
+   "Audika"
+  ]
+ },
+ "solothurn|gurzelngasse|32": {
+  "street": "Gurzelngasse",
+  "hn": "32",
+  "lat": 47.2081645,
+  "lng": 7.5352623,
+  "mieter": [
+   "Swisscom"
+  ]
+ },
+ "solothurn|gurzelngasse|16": {
+  "street": "Gurzelngasse",
+  "hn": "16",
+  "lat": 47.2080777,
+  "lng": 7.5360747,
+  "mieter": [
+   "Luxor Optik"
+  ]
+ },
+ "solothurn|gurzelngasse|14": {
+  "street": "Gurzelngasse",
+  "hn": "14",
+  "lat": 47.2080686,
+  "lng": 7.5361749,
+  "mieter": [
+   "Hofer"
+  ]
+ },
+ "solothurn|gurzelngasse|4": {
+  "street": "Gurzelngasse",
+  "hn": "4",
+  "lat": 47.208007,
+  "lng": 7.5366693,
+  "mieter": [
+   "McOptic"
+  ]
+ },
+ "solothurn|hauptbahnhofstrasse|8-10": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "8-10",
+  "lat": 47.2046768,
+  "lng": 7.5412424,
+  "mieter": [
+   "Amplifon"
+  ]
+ },
+ "solothurn|hauptgasse|60": {
+  "street": "Hauptgasse",
+  "hn": "60",
+  "lat": 47.207757,
+  "lng": 7.5376854,
+  "mieter": [
+   "Jesuitenkirche"
+  ]
+ },
+ "solothurn|gurzelngasse|12": {
+  "street": "Gurzelngasse",
+  "hn": "12",
+  "lat": 47.2081111,
+  "lng": 7.5363095,
+  "mieter": [
+   "Christ"
+  ]
+ },
+ "solothurn|hauptgasse|51": {
+  "street": "Hauptgasse",
+  "hn": "51",
+  "lat": 47.2079039,
+  "lng": 7.5373232,
+  "mieter": [
+   "Calida"
+  ]
+ },
+ "solothurn|hauptgasse|62": {
+  "street": "Hauptgasse",
+  "hn": "62",
+  "lat": 47.2079016,
+  "lng": 7.5382799,
+  "mieter": [
+   "Knecht"
+  ]
+ },
+ "solothurn|hauptgasse|49": {
+  "street": "Hauptgasse",
+  "hn": "49",
+  "lat": 47.2078919,
+  "lng": 7.5372432,
+  "mieter": [
+   "Migros Bank"
+  ]
+ },
+ "solothurn|hauptgasse|58": {
+  "street": "Hauptgasse",
+  "hn": "58",
+  "lat": 47.2077399,
+  "lng": 7.5375899,
+  "mieter": [
+   "Bayard"
+  ]
+ },
+ "solothurn|hauptgasse|52": {
+  "street": "Hauptgasse",
+  "hn": "52",
+  "lat": 47.207658,
+  "lng": 7.5372289,
+  "mieter": []
+ },
+ "solothurn|stalden|33": {
+  "street": "Stalden",
+  "hn": "33",
+  "lat": 47.2069956,
+  "lng": 7.5349826,
+  "mieter": [
+   "Amir Barbershop"
+  ]
+ },
+ "solothurn|hauptgasse|47": {
+  "street": "Hauptgasse",
+  "hn": "47",
+  "lat": 47.2078832,
+  "lng": 7.5371486,
+  "mieter": [
+   "Stadtcafé",
+   "MEZZOGIORNO"
+  ]
+ },
+ "solothurn|stalden|10": {
+  "street": "Stalden",
+  "hn": "10",
+  "lat": 47.2067318,
+  "lng": 7.5352233,
+  "mieter": [
+   "Shop Eleven"
+  ]
+ },
+ "solothurn|stalden|25": {
+  "street": "Stalden",
+  "hn": "25",
+  "lat": 47.2067915,
+  "lng": 7.5350351,
+  "mieter": [
+   "Stampfli Optik AG"
+  ]
+ },
+ "solothurn|stalden|19": {
+  "street": "Stalden",
+  "hn": "19",
+  "lat": 47.2066635,
+  "lng": 7.5350969,
+  "mieter": [
+   "knecht reisen"
+  ]
+ },
+ "solothurn|stalden|13": {
+  "street": "Stalden",
+  "hn": "13",
+  "lat": 47.2065127,
+  "lng": 7.5351948,
+  "mieter": [
+   "dress-up!"
+  ]
+ },
+ "solothurn|hauptbahnhofstrasse|7": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "7",
+  "lat": 47.2049559,
+  "lng": 7.5414198,
+  "mieter": [
+   "Stadtrösterei"
+  ]
+ },
+ "solothurn|hauptbahnhofstrasse|10": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "10",
+  "lat": 47.2046206,
+  "lng": 7.5414516,
+  "mieter": []
+ },
+ "solothurn|hauptbahnhofstrasse|12": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "12",
+  "lat": 47.2045501,
+  "lng": 7.541577,
+  "mieter": []
+ },
+ "solothurn|hauptbahnhofstrasse|8": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "8",
+  "lat": 47.2046779,
+  "lng": 7.5413493,
+  "mieter": []
+ },
+ "solothurn|hauptbahnhofstrasse|3": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "3",
+  "lat": 47.2051497,
+  "lng": 7.540947,
+  "mieter": []
+ },
+ "solothurn|hauptbahnhofstrasse|5": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "5",
+  "lat": 47.2050315,
+  "lng": 7.5411559,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|33": {
+  "street": "Hauptgasse",
+  "hn": "33",
+  "lat": 47.207352,
+  "lng": 7.5363117,
+  "mieter": [
+   "stadtoptik"
+  ]
+ },
+ "solothurn|hauptbahnhofstrasse|1": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "1",
+  "lat": 47.2052216,
+  "lng": 7.5408658,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|9": {
+  "street": "Hauptgasse",
+  "hn": "9",
+  "lat": 47.2067762,
+  "lng": 7.5356021,
+  "mieter": [
+   "Drogerie Nagel Naturathek"
+  ]
+ },
+ "solothurn|hauptgasse|65": {
+  "street": "Hauptgasse",
+  "hn": "65",
+  "lat": 47.2080207,
+  "lng": 7.5381497,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|64": {
+  "street": "Hauptgasse",
+  "hn": "64",
+  "lat": 47.2078934,
+  "lng": 7.5385137,
+  "mieter": [
+   "La Couronne",
+   "Le Restaurant"
+  ]
+ },
+ "solothurn|stalden|35": {
+  "street": "Stalden",
+  "hn": "35",
+  "lat": 47.207083,
+  "lng": 7.5349804,
+  "mieter": [
+   "Restaurant Tiger"
+  ]
+ },
+ "solothurn|stalden|6": {
+  "street": "Stalden",
+  "hn": "6",
+  "lat": 47.2063672,
+  "lng": 7.5354041,
+  "mieter": []
+ },
+ "solothurn|stalden|15": {
+  "street": "Stalden",
+  "hn": "15",
+  "lat": 47.2065842,
+  "lng": 7.5351804,
+  "mieter": []
+ },
+ "solothurn|stalden|29": {
+  "street": "Stalden",
+  "hn": "29",
+  "lat": 47.2068962,
+  "lng": 7.5350472,
+  "mieter": []
+ },
+ "solothurn|stalden|31": {
+  "street": "Stalden",
+  "hn": "31",
+  "lat": 47.2069474,
+  "lng": 7.5350356,
+  "mieter": [
+   "Taverna Amphorea"
+  ]
+ },
+ "solothurn|hauptgasse|79": {
+  "street": "Hauptgasse",
+  "hn": "79",
+  "lat": 47.2086202,
+  "lng": 7.5393286,
+  "mieter": [
+   "Baseltor"
+  ]
+ },
+ "solothurn|hauptgasse|81": {
+  "street": "Hauptgasse",
+  "hn": "81",
+  "lat": 47.2086739,
+  "lng": 7.5394083,
+  "mieter": [
+   "Kuoni"
+  ]
+ },
+ "solothurn|gurzelngasse|27": {
+  "street": "Gurzelngasse",
+  "hn": "27",
+  "lat": 47.2079825,
+  "lng": 7.5352048,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|77": {
+  "street": "Hauptgasse",
+  "hn": "77",
+  "lat": 47.2085792,
+  "lng": 7.5392324,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|75": {
+  "street": "Hauptgasse",
+  "hn": "75",
+  "lat": 47.2085693,
+  "lng": 7.5391997,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|73": {
+  "street": "Hauptgasse",
+  "hn": "73",
+  "lat": 47.2085404,
+  "lng": 7.5390978,
+  "mieter": [
+   "Lego Shop"
+  ]
+ },
+ "solothurn|stalden|1": {
+  "street": "Stalden",
+  "hn": "1",
+  "lat": 47.2060134,
+  "lng": 7.5353919,
+  "mieter": []
+ },
+ "solothurn|stalden|37": {
+  "street": "Stalden",
+  "hn": "37",
+  "lat": 47.20715,
+  "lng": 7.534976,
+  "mieter": []
+ },
+ "solothurn|stalden|39": {
+  "street": "Stalden",
+  "hn": "39",
+  "lat": 47.2071784,
+  "lng": 7.5350508,
+  "mieter": [
+   "Lila, schöne Dinge"
+  ]
+ },
+ "solothurn|hauptgasse|46": {
+  "street": "Hauptgasse",
+  "hn": "46",
+  "lat": 47.2076224,
+  "lng": 7.5369669,
+  "mieter": [
+   "ZOA - Blickfang am Marktplatz"
+  ]
+ },
+ "solothurn|hauptgasse|40": {
+  "street": "Hauptgasse",
+  "hn": "40",
+  "lat": 47.2074916,
+  "lng": 7.5366953,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|42": {
+  "street": "Hauptgasse",
+  "hn": "42",
+  "lat": 47.2075553,
+  "lng": 7.5368151,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|48": {
+  "street": "Hauptgasse",
+  "hn": "48",
+  "lat": 47.207648,
+  "lng": 7.5370505,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|10": {
+  "street": "Gurzelngasse",
+  "hn": "10",
+  "lat": 47.2080613,
+  "lng": 7.5364476,
+  "mieter": []
+ },
+ "solothurn|stalden|9": {
+  "street": "Stalden",
+  "hn": "9",
+  "lat": 47.2063617,
+  "lng": 7.5353195,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|13": {
+  "street": "Hauptgasse",
+  "hn": "13",
+  "lat": 47.2068429,
+  "lng": 7.5357855,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|15": {
+  "street": "Hauptgasse",
+  "hn": "15",
+  "lat": 47.2068567,
+  "lng": 7.5358067,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|14": {
+  "street": "Hauptgasse",
+  "hn": "14",
+  "lat": 47.2069393,
+  "lng": 7.5360596,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|18": {
+  "street": "Hauptgasse",
+  "hn": "18",
+  "lat": 47.2070803,
+  "lng": 7.5362293,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|28": {
+  "street": "Hauptgasse",
+  "hn": "28",
+  "lat": 47.2071282,
+  "lng": 7.5362881,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|5": {
+  "street": "Hauptgasse",
+  "hn": "5",
+  "lat": 47.2066521,
+  "lng": 7.535441,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|32": {
+  "street": "Hauptgasse",
+  "hn": "32",
+  "lat": 47.2071935,
+  "lng": 7.5363289,
+  "mieter": []
+ },
+ "solothurn|stalden|27": {
+  "street": "Stalden",
+  "hn": "27",
+  "lat": 47.2068438,
+  "lng": 7.5350585,
+  "mieter": []
+ },
+ "solothurn|stalden|23": {
+  "street": "Stalden",
+  "hn": "23",
+  "lat": 47.20674,
+  "lng": 7.5350977,
+  "mieter": []
+ },
+ "solothurn|stalden|21": {
+  "street": "Stalden",
+  "hn": "21",
+  "lat": 47.2066942,
+  "lng": 7.5351187,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|57": {
+  "street": "Hauptgasse",
+  "hn": "57",
+  "lat": 47.2079238,
+  "lng": 7.5376835,
+  "mieter": [
+   "Cinema Palace"
+  ]
+ },
+ "solothurn|gurzelngasse|18": {
+  "street": "Gurzelngasse",
+  "hn": "18",
+  "lat": 47.2080664,
+  "lng": 7.5359611,
+  "mieter": []
+ },
+ "solothurn|hauptbahnhofstrasse|9": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "9",
+  "lat": 47.2047016,
+  "lng": 7.5417938,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|35": {
+  "street": "Gurzelngasse",
+  "hn": "35",
+  "lat": 47.208122,
+  "lng": 7.5346907,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|36": {
+  "street": "Hauptgasse",
+  "hn": "36",
+  "lat": 47.2072648,
+  "lng": 7.5365645,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|34": {
+  "street": "Hauptgasse",
+  "hn": "34",
+  "lat": 47.2071679,
+  "lng": 7.5364994,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|31": {
+  "street": "Hauptgasse",
+  "hn": "31",
+  "lat": 47.2073655,
+  "lng": 7.53619,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|56": {
+  "street": "Hauptgasse",
+  "hn": "56",
+  "lat": 47.2076614,
+  "lng": 7.5374817,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|2": {
+  "street": "Hauptgasse",
+  "hn": "2",
+  "lat": 47.2065476,
+  "lng": 7.5355451,
+  "mieter": []
+ },
+ "solothurn|hauptbahnhofstrasse|6": {
+  "street": "Hauptbahnhofstrasse",
+  "hn": "6",
+  "lat": 47.2049099,
+  "lng": 7.540824,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|13": {
+  "street": "Gurzelngasse",
+  "hn": "13",
+  "lat": 47.2079337,
+  "lng": 7.5357776,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|15": {
+  "street": "Gurzelngasse",
+  "hn": "15",
+  "lat": 47.2079164,
+  "lng": 7.535692,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|68": {
+  "street": "Hauptgasse",
+  "hn": "68",
+  "lat": 47.2087018,
+  "lng": 7.5396934,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|26": {
+  "street": "Gurzelngasse",
+  "hn": "26",
+  "lat": 47.2082288,
+  "lng": 7.5355708,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|17": {
+  "street": "Hauptgasse",
+  "hn": "17",
+  "lat": 47.2069982,
+  "lng": 7.5357729,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|27": {
+  "street": "Hauptgasse",
+  "hn": "27",
+  "lat": 47.2072731,
+  "lng": 7.5361277,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|22": {
+  "street": "Gurzelngasse",
+  "hn": "22",
+  "lat": 47.2082065,
+  "lng": 7.535716,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|70": {
+  "street": "Hauptgasse",
+  "hn": "70",
+  "lat": 47.2085498,
+  "lng": 7.5398974,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|6": {
+  "street": "Gurzelngasse",
+  "hn": "6",
+  "lat": 47.2081457,
+  "lng": 7.5365337,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|66": {
+  "street": "Hauptgasse",
+  "hn": "66",
+  "lat": 47.2082393,
+  "lng": 7.5393564,
+  "mieter": [
+   "St. Urs und Viktor"
+  ]
+ },
+ "solothurn|gurzelngasse|2": {
+  "street": "Gurzelngasse",
+  "hn": "2",
+  "lat": 47.2080843,
+  "lng": 7.5367551,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|44": {
+  "street": "Hauptgasse",
+  "hn": "44",
+  "lat": 47.2075741,
+  "lng": 7.5369313,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|28": {
+  "street": "Gurzelngasse",
+  "hn": "28",
+  "lat": 47.2082374,
+  "lng": 7.5354897,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|19": {
+  "street": "Gurzelngasse",
+  "hn": "19",
+  "lat": 47.2078261,
+  "lng": 7.5355028,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|3": {
+  "street": "Gurzelngasse",
+  "hn": "3",
+  "lat": 47.2078239,
+  "lng": 7.5364897,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|1": {
+  "street": "Hauptgasse",
+  "hn": "1",
+  "lat": 47.2066212,
+  "lng": 7.5352985,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|71": {
+  "street": "Hauptgasse",
+  "hn": "71",
+  "lat": 47.2084335,
+  "lng": 7.5389111,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|11": {
+  "street": "Gurzelngasse",
+  "hn": "11",
+  "lat": 47.2078666,
+  "lng": 7.535996,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|20": {
+  "street": "Gurzelngasse",
+  "hn": "20",
+  "lat": 47.2081911,
+  "lng": 7.5358246,
+  "mieter": []
+ },
+ "solothurn|gurzelngasse|24": {
+  "street": "Gurzelngasse",
+  "hn": "24",
+  "lat": 47.2082238,
+  "lng": 7.5356461,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|29": {
+  "street": "Hauptgasse",
+  "hn": "29",
+  "lat": 47.2073252,
+  "lng": 7.5361466,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|3": {
+  "street": "Hauptgasse",
+  "hn": "3",
+  "lat": 47.2066764,
+  "lng": 7.5353542,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|59": {
+  "street": "Hauptgasse",
+  "hn": "59",
+  "lat": 47.2080433,
+  "lng": 7.5377884,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|69": {
+  "street": "Hauptgasse",
+  "hn": "69",
+  "lat": 47.208328,
+  "lng": 7.5385427,
+  "mieter": []
+ },
+ "solothurn|hauptgasse|72": {
+  "street": "Hauptgasse",
+  "hn": "72",
+  "lat": 47.2082971,
+  "lng": 7.540027,
+  "mieter": []
+ }
+}

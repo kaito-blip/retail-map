@@ -1,0 +1,1391 @@
+{
+ "crans-montana|route du rawyl|32": {
+  "street": "Route du Rawyl",
+  "hn": "32",
+  "lat": 46.3092958,
+  "lng": 7.4729474,
+  "mieter": [
+   "Migros",
+   "Amavita"
+  ]
+ },
+ "crans-montana|route du rawyl|10": {
+  "street": "Route du Rawyl",
+  "hn": "10",
+  "lat": 46.3085578,
+  "lng": 7.4700637,
+  "mieter": [
+   "Viva Voce",
+   "Alaïa Lodge Bar & Restaurant",
+   "Alaïa SA"
+  ]
+ },
+ "crans-montana|rue du prado|29": {
+  "street": "Rue du Prado",
+  "hn": "29",
+  "lat": 46.3044386,
+  "lng": 7.4682869,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|7": {
+  "street": "Rue Centrale",
+  "hn": "7",
+  "lat": 46.3044486,
+  "lng": 7.468871,
+  "mieter": [
+   "Bibliothèque de Crans-Montana"
+  ]
+ },
+ "crans-montana|rue du prado|1": {
+  "street": "Rue du Prado",
+  "hn": "1",
+  "lat": 46.3058905,
+  "lng": 7.4684017,
+  "mieter": [
+   "Julia & Co."
+  ]
+ },
+ "crans-montana|rue du prado|3": {
+  "street": "Rue du Prado",
+  "hn": "3",
+  "lat": 46.3056743,
+  "lng": 7.4682358,
+  "mieter": [
+   "Rebel Boutique"
+  ]
+ },
+ "crans-montana|rue centrale|3": {
+  "street": "Rue Centrale",
+  "hn": "3",
+  "lat": 46.3040553,
+  "lng": 7.469146,
+  "mieter": [
+   "Peak Performance"
+  ]
+ },
+ "crans-montana|route du rawyl|16": {
+  "street": "Route du Rawyl",
+  "hn": "16",
+  "lat": 46.3088536,
+  "lng": 7.4711753,
+  "mieter": [
+   "Poste de police"
+  ]
+ },
+ "crans-montana|route du rawyl|39": {
+  "street": "Route du Rawyl",
+  "hn": "39",
+  "lat": 46.3120796,
+  "lng": 7.479112,
+  "mieter": [
+   "Decathlon"
+  ]
+ },
+ "crans-montana|rue centrale|48": {
+  "street": "Rue Centrale",
+  "hn": "48",
+  "lat": 46.3070178,
+  "lng": 7.4687984,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|45": {
+  "street": "Route du Rawyl",
+  "hn": "45",
+  "lat": 46.312351,
+  "lng": 7.4798749,
+  "mieter": [
+   "BEST WEAR SA"
+  ]
+ },
+ "crans-montana|route du rawyl|41": {
+  "street": "Route du Rawyl",
+  "hn": "41",
+  "lat": 46.3121691,
+  "lng": 7.4793229,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "crans-montana|route de la moubra|49": {
+  "street": "Route de la Moubra",
+  "hn": "49",
+  "lat": 46.3075819,
+  "lng": 7.4803296,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|83": {
+  "street": "Route de la Moubra",
+  "hn": "83",
+  "lat": 46.3007442,
+  "lng": 7.4816477,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|33": {
+  "street": "Route du Rawyl",
+  "hn": "33",
+  "lat": 46.3118807,
+  "lng": 7.4785299,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|40": {
+  "street": "Route du Rawyl",
+  "hn": "40",
+  "lat": 46.3100985,
+  "lng": 7.4744613,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|1": {
+  "street": "Route de la Moubra",
+  "hn": "1",
+  "lat": 46.3115046,
+  "lng": 7.4834422,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|35": {
+  "street": "Route du Rawyl",
+  "hn": "35",
+  "lat": 46.3119615,
+  "lng": 7.4787896,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|26": {
+  "street": "Rue Centrale",
+  "hn": "26",
+  "lat": 46.3054466,
+  "lng": 7.4702696,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|60": {
+  "street": "Route de la Moubra",
+  "hn": "60",
+  "lat": 46.3055718,
+  "lng": 7.47837,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|29": {
+  "street": "Route de la Moubra",
+  "hn": "29",
+  "lat": 46.3081392,
+  "lng": 7.4804329,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|20": {
+  "street": "Route du Rawyl",
+  "hn": "20",
+  "lat": 46.3084731,
+  "lng": 7.4722107,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|43": {
+  "street": "Route de la Moubra",
+  "hn": "43",
+  "lat": 46.3072553,
+  "lng": 7.4795773,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|10": {
+  "street": "Route de la Moubra",
+  "hn": "10",
+  "lat": 46.3096846,
+  "lng": 7.483435,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|31": {
+  "street": "Route du Rawyl",
+  "hn": "31",
+  "lat": 46.3118007,
+  "lng": 7.4782678,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|62": {
+  "street": "Route de la Moubra",
+  "hn": "62",
+  "lat": 46.305495,
+  "lng": 7.4790028,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|29": {
+  "street": "Route du Rawyl",
+  "hn": "29",
+  "lat": 46.3112694,
+  "lng": 7.4759444,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|73": {
+  "street": "Route de la Moubra",
+  "hn": "73",
+  "lat": 46.3059409,
+  "lng": 7.4804477,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|56a": {
+  "street": "Route du Rawyl",
+  "hn": "56a",
+  "lat": 46.3120675,
+  "lng": 7.4796114,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|11": {
+  "street": "Rue Centrale",
+  "hn": "11",
+  "lat": 46.3052618,
+  "lng": 7.468749,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|27": {
+  "street": "Route du Rawyl",
+  "hn": "27",
+  "lat": 46.311063,
+  "lng": 7.475547,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|7": {
+  "street": "Route du Rawyl",
+  "hn": "7",
+  "lat": 46.3097028,
+  "lng": 7.4728281,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|55": {
+  "street": "Route de la Moubra",
+  "hn": "55",
+  "lat": 46.3071869,
+  "lng": 7.4782344,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|43": {
+  "street": "Route du Rawyl",
+  "hn": "43",
+  "lat": 46.3122581,
+  "lng": 7.4795168,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|52": {
+  "street": "Route de la Moubra",
+  "hn": "52",
+  "lat": 46.3054045,
+  "lng": 7.4764364,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|85": {
+  "street": "Route de la Moubra",
+  "hn": "85",
+  "lat": 46.2993518,
+  "lng": 7.4799738,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|62": {
+  "street": "Rue Centrale",
+  "hn": "62",
+  "lat": 46.3078842,
+  "lng": 7.4690589,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|21": {
+  "street": "Route du Rawyl",
+  "hn": "21",
+  "lat": 46.3107571,
+  "lng": 7.4752781,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|38": {
+  "street": "Rue Centrale",
+  "hn": "38",
+  "lat": 46.3063236,
+  "lng": 7.4688759,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|32": {
+  "street": "Route de la Moubra",
+  "hn": "32",
+  "lat": 46.3075965,
+  "lng": 7.4781509,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|71": {
+  "street": "Route de la Moubra",
+  "hn": "71",
+  "lat": 46.3058633,
+  "lng": 7.478305,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|22": {
+  "street": "Rue Centrale",
+  "hn": "22",
+  "lat": 46.30535,
+  "lng": 7.4698767,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|42a": {
+  "street": "Route du Rawyl",
+  "hn": "42a",
+  "lat": 46.3110297,
+  "lng": 7.4768228,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|12": {
+  "street": "Route du Rawyl",
+  "hn": "12",
+  "lat": 46.3087468,
+  "lng": 7.4706244,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|5": {
+  "street": "Route de la Moubra",
+  "hn": "5",
+  "lat": 46.3111089,
+  "lng": 7.4838561,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|22": {
+  "street": "Route de la Moubra",
+  "hn": "22",
+  "lat": 46.3083877,
+  "lng": 7.4791183,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|47": {
+  "street": "Route de la Moubra",
+  "hn": "47",
+  "lat": 46.3072395,
+  "lng": 7.480189,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|48": {
+  "street": "Route de la Moubra",
+  "hn": "48",
+  "lat": 46.3050835,
+  "lng": 7.4755636,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|47": {
+  "street": "Route du Rawyl",
+  "hn": "47",
+  "lat": 46.3124744,
+  "lng": 7.4799638,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|12": {
+  "street": "Route de la Moubra",
+  "hn": "12",
+  "lat": 46.3095004,
+  "lng": 7.4830826,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|37": {
+  "street": "Route du Rawyl",
+  "hn": "37",
+  "lat": 46.3120554,
+  "lng": 7.4789572,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|67": {
+  "street": "Route de la Moubra",
+  "hn": "67",
+  "lat": 46.3059621,
+  "lng": 7.4777382,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|46a": {
+  "street": "Route de la Moubra",
+  "hn": "46a",
+  "lat": 46.3052629,
+  "lng": 7.4751547,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|4": {
+  "street": "Rue Centrale",
+  "hn": "4",
+  "lat": 46.3040706,
+  "lng": 7.4697267,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|15": {
+  "street": "Route de la Moubra",
+  "hn": "15",
+  "lat": 46.3095325,
+  "lng": 7.4838372,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|25": {
+  "street": "Route de la Moubra",
+  "hn": "25",
+  "lat": 46.3078369,
+  "lng": 7.4806171,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|42": {
+  "street": "Route de la Moubra",
+  "hn": "42",
+  "lat": 46.3048422,
+  "lng": 7.4745637,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|37": {
+  "street": "Route de la Moubra",
+  "hn": "37",
+  "lat": 46.3076529,
+  "lng": 7.4792075,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|41": {
+  "street": "Route de la Moubra",
+  "hn": "41",
+  "lat": 46.3069035,
+  "lng": 7.4790369,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|13": {
+  "street": "Rue Centrale",
+  "hn": "13",
+  "lat": 46.3053979,
+  "lng": 7.4686992,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|50": {
+  "street": "Rue Centrale",
+  "hn": "50",
+  "lat": 46.3071868,
+  "lng": 7.468859,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|30": {
+  "street": "Route de la Moubra",
+  "hn": "30",
+  "lat": 46.307671,
+  "lng": 7.4783069,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|31": {
+  "street": "Rue Centrale",
+  "hn": "31",
+  "lat": 46.3073523,
+  "lng": 7.4682831,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|11": {
+  "street": "Route de la Moubra",
+  "hn": "11",
+  "lat": 46.3097719,
+  "lng": 7.4840594,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|54": {
+  "street": "Route de la Moubra",
+  "hn": "54",
+  "lat": 46.3054587,
+  "lng": 7.4769809,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|58": {
+  "street": "Rue Centrale",
+  "hn": "58",
+  "lat": 46.3075388,
+  "lng": 7.469291,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|8": {
+  "street": "Rue Centrale",
+  "hn": "8",
+  "lat": 46.3045742,
+  "lng": 7.4694024,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|66": {
+  "street": "Route de la Moubra",
+  "hn": "66",
+  "lat": 46.3047364,
+  "lng": 7.4828073,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|50": {
+  "street": "Route du Rawyl",
+  "hn": "50",
+  "lat": 46.3114131,
+  "lng": 7.4779713,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|8": {
+  "street": "Route de la Moubra",
+  "hn": "8",
+  "lat": 46.3102781,
+  "lng": 7.4834776,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|17": {
+  "street": "Rue Centrale",
+  "hn": "17",
+  "lat": 46.3057556,
+  "lng": 7.4685233,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|19": {
+  "street": "Route du Rawyl",
+  "hn": "19",
+  "lat": 46.3107047,
+  "lng": 7.4748954,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|9": {
+  "street": "Route de la Moubra",
+  "hn": "9",
+  "lat": 46.3107295,
+  "lng": 7.4840145,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|18": {
+  "street": "Route de la Moubra",
+  "hn": "18",
+  "lat": 46.3083967,
+  "lng": 7.4797209,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|44": {
+  "street": "Rue Centrale",
+  "hn": "44",
+  "lat": 46.3064362,
+  "lng": 7.4690445,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|29": {
+  "street": "Rue Centrale",
+  "hn": "29",
+  "lat": 46.3069446,
+  "lng": 7.4686004,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|34": {
+  "street": "Rue Centrale",
+  "hn": "34",
+  "lat": 46.3054735,
+  "lng": 7.4691229,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|24": {
+  "street": "Route de la Moubra",
+  "hn": "24",
+  "lat": 46.3080292,
+  "lng": 7.4793514,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|58": {
+  "street": "Route de la Moubra",
+  "hn": "58",
+  "lat": 46.3054952,
+  "lng": 7.478144,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|27": {
+  "street": "Rue Centrale",
+  "hn": "27",
+  "lat": 46.3069446,
+  "lng": 7.4686004,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|65": {
+  "street": "Route de la Moubra",
+  "hn": "65",
+  "lat": 46.3059719,
+  "lng": 7.4772198,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|56": {
+  "street": "Rue Centrale",
+  "hn": "56",
+  "lat": 46.3074193,
+  "lng": 7.4688543,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|21": {
+  "street": "Route de la Moubra",
+  "hn": "21",
+  "lat": 46.3083691,
+  "lng": 7.481286,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|56": {
+  "street": "Route du Rawyl",
+  "hn": "56",
+  "lat": 46.3116758,
+  "lng": 7.4798918,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|57": {
+  "street": "Route de la Moubra",
+  "hn": "57",
+  "lat": 46.306988,
+  "lng": 7.4778342,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|23": {
+  "street": "Route du Rawyl",
+  "hn": "23",
+  "lat": 46.3109081,
+  "lng": 7.4752294,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|2": {
+  "street": "Route de la Moubra",
+  "hn": "2",
+  "lat": 46.3115083,
+  "lng": 7.4826077,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|35": {
+  "street": "Rue Centrale",
+  "hn": "35",
+  "lat": 46.3080303,
+  "lng": 7.4684887,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|14": {
+  "street": "Rue Centrale",
+  "hn": "14",
+  "lat": 46.3047965,
+  "lng": 7.4693646,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|46": {
+  "street": "Route du Rawyl",
+  "hn": "46",
+  "lat": 46.3109956,
+  "lng": 7.4771801,
+  "mieter": [
+   "Oiken Espace clients Montana"
+  ]
+ },
+ "crans-montana|rue centrale|42": {
+  "street": "Rue Centrale",
+  "hn": "42",
+  "lat": 46.3064503,
+  "lng": 7.4688313,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|23": {
+  "street": "Rue Centrale",
+  "hn": "23",
+  "lat": 46.3065775,
+  "lng": 7.4684014,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|20": {
+  "street": "Route de la Moubra",
+  "hn": "20",
+  "lat": 46.3083666,
+  "lng": 7.4793962,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|21": {
+  "street": "Rue Centrale",
+  "hn": "21",
+  "lat": 46.3064333,
+  "lng": 7.4683579,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|27": {
+  "street": "Route de la Moubra",
+  "hn": "27",
+  "lat": 46.3082457,
+  "lng": 7.4808108,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|18": {
+  "street": "Rue Centrale",
+  "hn": "18",
+  "lat": 46.3052065,
+  "lng": 7.4692498,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|48": {
+  "street": "Route du Rawyl",
+  "hn": "48",
+  "lat": 46.3112554,
+  "lng": 7.477701,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|14": {
+  "street": "Route du Rawyl",
+  "hn": "14",
+  "lat": 46.3088342,
+  "lng": 7.4709716,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|16": {
+  "street": "Route de la Moubra",
+  "hn": "16",
+  "lat": 46.3085618,
+  "lng": 7.4803226,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|35": {
+  "street": "Route de la Moubra",
+  "hn": "35",
+  "lat": 46.3078169,
+  "lng": 7.4796285,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|19": {
+  "street": "Route de la Moubra",
+  "hn": "19",
+  "lat": 46.3085262,
+  "lng": 7.481851,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|75": {
+  "street": "Route de la Moubra",
+  "hn": "75",
+  "lat": 46.3058761,
+  "lng": 7.4811464,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|19": {
+  "street": "Rue Centrale",
+  "hn": "19",
+  "lat": 46.3062993,
+  "lng": 7.4683279,
+  "mieter": [
+   "Altitude Immobilier"
+  ]
+ },
+ "crans-montana|route de la moubra|63": {
+  "street": "Route de la Moubra",
+  "hn": "63",
+  "lat": 46.3059561,
+  "lng": 7.4766396,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|44": {
+  "street": "Route du Rawyl",
+  "hn": "44",
+  "lat": 46.3110547,
+  "lng": 7.4770447,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|46": {
+  "street": "Route de la Moubra",
+  "hn": "46",
+  "lat": 46.3050092,
+  "lng": 7.4751371,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|25": {
+  "street": "Rue Centrale",
+  "hn": "25",
+  "lat": 46.3067096,
+  "lng": 7.4684234,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|23": {
+  "street": "Route de la Moubra",
+  "hn": "23",
+  "lat": 46.307967,
+  "lng": 7.481058,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|44": {
+  "street": "Route de la Moubra",
+  "hn": "44",
+  "lat": 46.3050215,
+  "lng": 7.4750545,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|34": {
+  "street": "Route de la Moubra",
+  "hn": "34",
+  "lat": 46.307537,
+  "lng": 7.4776938,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|54": {
+  "street": "Rue Centrale",
+  "hn": "54",
+  "lat": 46.3073591,
+  "lng": 7.4690408,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|1": {
+  "street": "Rue Centrale",
+  "hn": "1",
+  "lat": 46.303811,
+  "lng": 7.4692101,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|28": {
+  "street": "Route de la Moubra",
+  "hn": "28",
+  "lat": 46.3078008,
+  "lng": 7.4785813,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|50": {
+  "street": "Route de la Moubra",
+  "hn": "50",
+  "lat": 46.3052055,
+  "lng": 7.4760431,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|6": {
+  "street": "Route de la Moubra",
+  "hn": "6",
+  "lat": 46.3103325,
+  "lng": 7.4828192,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|60": {
+  "street": "Rue Centrale",
+  "hn": "60",
+  "lat": 46.307687,
+  "lng": 7.4688861,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|38": {
+  "street": "Route de la Moubra",
+  "hn": "38",
+  "lat": 46.3064847,
+  "lng": 7.4764565,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|6": {
+  "street": "Rue Centrale",
+  "hn": "6",
+  "lat": 46.3043126,
+  "lng": 7.4694763,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|53": {
+  "street": "Route de la Moubra",
+  "hn": "53",
+  "lat": 46.3074225,
+  "lng": 7.4813792,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|36": {
+  "street": "Rue Centrale",
+  "hn": "36",
+  "lat": 46.3060133,
+  "lng": 7.4688549,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|52": {
+  "street": "Rue Centrale",
+  "hn": "52",
+  "lat": 46.3072484,
+  "lng": 7.4688978,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|18": {
+  "street": "Route du Rawyl",
+  "hn": "18",
+  "lat": 46.3082174,
+  "lng": 7.4713195,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|64": {
+  "street": "Rue Centrale",
+  "hn": "64",
+  "lat": 46.3080237,
+  "lng": 7.4692374,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|26": {
+  "street": "Route de la Moubra",
+  "hn": "26",
+  "lat": 46.3079117,
+  "lng": 7.4789824,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|87": {
+  "street": "Route de la Moubra",
+  "hn": "87",
+  "lat": 46.2997387,
+  "lng": 7.4814197,
+  "mieter": [
+   "Clinique Bernoise Montana"
+  ]
+ },
+ "crans-montana|route du rawyl|25": {
+  "street": "Route du Rawyl",
+  "hn": "25",
+  "lat": 46.3109164,
+  "lng": 7.4756234,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|11": {
+  "street": "Route du Rawyl",
+  "hn": "11",
+  "lat": 46.3098069,
+  "lng": 7.4723071,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|4": {
+  "street": "Route de la Moubra",
+  "hn": "4",
+  "lat": 46.3114653,
+  "lng": 7.4826447,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|8": {
+  "street": "Route du Rawyl",
+  "hn": "8",
+  "lat": 46.3081055,
+  "lng": 7.470252,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|12": {
+  "street": "Rue Centrale",
+  "hn": "12",
+  "lat": 46.3049109,
+  "lng": 7.4701159,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|9": {
+  "street": "Route du Rawyl",
+  "hn": "9",
+  "lat": 46.309647,
+  "lng": 7.4724011,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|14": {
+  "street": "Route de la Moubra",
+  "hn": "14",
+  "lat": 46.3086455,
+  "lng": 7.4807951,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|51": {
+  "street": "Route de la Moubra",
+  "hn": "51",
+  "lat": 46.3072906,
+  "lng": 7.4809377,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|31": {
+  "street": "Route de la Moubra",
+  "hn": "31",
+  "lat": 46.3081108,
+  "lng": 7.4804223,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|17": {
+  "street": "Route de la Moubra",
+  "hn": "17",
+  "lat": 46.3085507,
+  "lng": 7.4821094,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|5": {
+  "street": "Rue Centrale",
+  "hn": "5",
+  "lat": 46.3042055,
+  "lng": 7.4691405,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|64": {
+  "street": "Route de la Moubra",
+  "hn": "64",
+  "lat": 46.3052707,
+  "lng": 7.4823782,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|61": {
+  "street": "Route de la Moubra",
+  "hn": "61",
+  "lat": 46.3064023,
+  "lng": 7.4769245,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|46": {
+  "street": "Rue Centrale",
+  "hn": "46",
+  "lat": 46.3068345,
+  "lng": 7.4688485,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|40": {
+  "street": "Route de la Moubra",
+  "hn": "40",
+  "lat": 46.3063793,
+  "lng": 7.4760964,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|59": {
+  "street": "Route de la Moubra",
+  "hn": "59",
+  "lat": 46.3066615,
+  "lng": 7.4772601,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|15": {
+  "street": "Rue Centrale",
+  "hn": "15",
+  "lat": 46.3055328,
+  "lng": 7.4686473,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|33": {
+  "street": "Rue Centrale",
+  "hn": "33",
+  "lat": 46.3076935,
+  "lng": 7.4684556,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|56": {
+  "street": "Route de la Moubra",
+  "hn": "56",
+  "lat": 46.3055779,
+  "lng": 7.4775575,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|37": {
+  "street": "Rue Centrale",
+  "hn": "37",
+  "lat": 46.3081007,
+  "lng": 7.4687496,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|16": {
+  "street": "Rue Centrale",
+  "hn": "16",
+  "lat": 46.3049532,
+  "lng": 7.4692631,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|42": {
+  "street": "Route du Rawyl",
+  "hn": "42",
+  "lat": 46.31093,
+  "lng": 7.4764907,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|3": {
+  "street": "Route de la Moubra",
+  "hn": "3",
+  "lat": 46.3111067,
+  "lng": 7.4835135,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|2": {
+  "street": "Rue Centrale",
+  "hn": "2",
+  "lat": 46.3037689,
+  "lng": 7.4696429,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|2": {
+  "street": "Route du Rawyl",
+  "hn": "2",
+  "lat": 46.3082026,
+  "lng": 7.4697636,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|33": {
+  "street": "Route de la Moubra",
+  "hn": "33",
+  "lat": 46.3079783,
+  "lng": 7.4800427,
+  "mieter": []
+ },
+ "crans-montana|rue centrale|20": {
+  "street": "Rue Centrale",
+  "hn": "20",
+  "lat": 46.3052456,
+  "lng": 7.4695433,
+  "mieter": []
+ },
+ "crans-montana|route de la moubra|7": {
+  "street": "Route de la Moubra",
+  "hn": "7",
+  "lat": 46.3108591,
+  "lng": 7.4837293,
+  "mieter": []
+ },
+ "crans-montana|rue du pas-de-l'ours|41": {
+  "street": "Rue du Pas-de-l'Ours",
+  "hn": "41",
+  "lat": 46.3074227,
+  "lng": 7.4598928,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|15": {
+  "street": "Rue du Prado",
+  "hn": "15",
+  "lat": 46.3051235,
+  "lng": 7.4681494,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|9": {
+  "street": "Rue du Prado",
+  "hn": "9",
+  "lat": 46.305256,
+  "lng": 7.4676679,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|8": {
+  "street": "Rue du Prado",
+  "hn": "8",
+  "lat": 46.3054719,
+  "lng": 7.4672794,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|20": {
+  "street": "Rue du Prado",
+  "hn": "20",
+  "lat": 46.3037341,
+  "lng": 7.4679459,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|25": {
+  "street": "Rue du Prado",
+  "hn": "25",
+  "lat": 46.3047927,
+  "lng": 7.468644,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|6": {
+  "street": "Rue du Prado",
+  "hn": "6",
+  "lat": 46.3055829,
+  "lng": 7.4674648,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|32": {
+  "street": "Rue du Prado",
+  "hn": "32",
+  "lat": 46.303703,
+  "lng": 7.465687,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|19": {
+  "street": "Rue du Prado",
+  "hn": "19",
+  "lat": 46.3049255,
+  "lng": 7.4677885,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|16": {
+  "street": "Rue du Prado",
+  "hn": "16",
+  "lat": 46.3044718,
+  "lng": 7.4677207,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|10": {
+  "street": "Rue du Prado",
+  "hn": "10",
+  "lat": 46.3052162,
+  "lng": 7.4671542,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|4": {
+  "street": "Rue du Prado",
+  "hn": "4",
+  "lat": 46.3057332,
+  "lng": 7.4676983,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|33": {
+  "street": "Rue du Prado",
+  "hn": "33",
+  "lat": 46.3038879,
+  "lng": 7.4690818,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|12": {
+  "street": "Rue du Prado",
+  "hn": "12",
+  "lat": 46.3048594,
+  "lng": 7.4673075,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|18": {
+  "street": "Rue du Prado",
+  "hn": "18",
+  "lat": 46.3042931,
+  "lng": 7.4680156,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|5": {
+  "street": "Rue du Prado",
+  "hn": "5",
+  "lat": 46.3056017,
+  "lng": 7.4679969,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|7": {
+  "street": "Rue du Prado",
+  "hn": "7",
+  "lat": 46.3054086,
+  "lng": 7.467879,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|13": {
+  "street": "Rue du Prado",
+  "hn": "13",
+  "lat": 46.3052408,
+  "lng": 7.4683485,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|31": {
+  "street": "Rue du Prado",
+  "hn": "31",
+  "lat": 46.3043818,
+  "lng": 7.4684679,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|26": {
+  "street": "Rue du Prado",
+  "hn": "26",
+  "lat": 46.3036219,
+  "lng": 7.4688493,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|14": {
+  "street": "Rue du Prado",
+  "hn": "14",
+  "lat": 46.3046956,
+  "lng": 7.4674796,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|2": {
+  "street": "Rue du Prado",
+  "hn": "2",
+  "lat": 46.3059015,
+  "lng": 7.4679088,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|11": {
+  "street": "Rue du Prado",
+  "hn": "11",
+  "lat": 46.3055337,
+  "lng": 7.46833,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|27": {
+  "street": "Rue du Prado",
+  "hn": "27",
+  "lat": 46.304478,
+  "lng": 7.4688149,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|26": {
+  "street": "Route du Rawyl",
+  "hn": "26",
+  "lat": 46.3090065,
+  "lng": 7.4719692,
+  "mieter": [
+   "Crans-Cafe - Restaurant - Pizzeria"
+  ]
+ },
+ "crans-montana|route du rawyl|1": {
+  "street": "Route du Rawyl",
+  "hn": "1",
+  "lat": 46.3088444,
+  "lng": 7.4690639,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|38": {
+  "street": "Route du Rawyl",
+  "hn": "38",
+  "lat": 46.3095576,
+  "lng": 7.4735856,
+  "mieter": []
+ },
+ "crans-montana|rue du pas-de-l'ours|1a": {
+  "street": "Rue du Pas-de-l'Ours",
+  "hn": "1a",
+  "lat": 46.307357,
+  "lng": 7.4683716,
+  "mieter": []
+ },
+ "crans-montana|rue du pas-de-l'ours|1b": {
+  "street": "Rue du Pas-de-l'Ours",
+  "hn": "1b",
+  "lat": 46.3073298,
+  "lng": 7.4680984,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|22": {
+  "street": "Route du Rawyl",
+  "hn": "22",
+  "lat": 46.3088667,
+  "lng": 7.471535,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|28": {
+  "street": "Route du Rawyl",
+  "hn": "28",
+  "lat": 46.3090482,
+  "lng": 7.4722084,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|30": {
+  "street": "Route du Rawyl",
+  "hn": "30",
+  "lat": 46.30913,
+  "lng": 7.4724927,
+  "mieter": []
+ },
+ "crans-montana|rue du pas-de-l'ours|43": {
+  "street": "Rue du Pas-de-l'Ours",
+  "hn": "43",
+  "lat": 46.3073343,
+  "lng": 7.4596176,
+  "mieter": []
+ },
+ "crans-montana|rue du pas-de-l'ours|49": {
+  "street": "Rue du Pas-de-l'Ours",
+  "hn": "49",
+  "lat": 46.3071005,
+  "lng": 7.4592832,
+  "mieter": []
+ },
+ "crans-montana|rue du pas-de-l'ours|39": {
+  "street": "Rue du Pas-de-l'Ours",
+  "hn": "39",
+  "lat": 46.3071172,
+  "lng": 7.4599429,
+  "mieter": []
+ },
+ "crans-montana|rue du pas-de-l'ours|2": {
+  "street": "Rue du Pas-de-l'Ours",
+  "hn": "2",
+  "lat": 46.3076825,
+  "lng": 7.4683043,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|24": {
+  "street": "Route du Rawyl",
+  "hn": "24",
+  "lat": 46.3089253,
+  "lng": 7.4717535,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|36": {
+  "street": "Route du Rawyl",
+  "hn": "36",
+  "lat": 46.3094418,
+  "lng": 7.4733422,
+  "mieter": []
+ },
+ "crans-montana|route du rawyl|34": {
+  "street": "Route du Rawyl",
+  "hn": "34",
+  "lat": 46.3093328,
+  "lng": 7.4731211,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|30": {
+  "street": "Rue du Prado",
+  "hn": "30",
+  "lat": 46.3038406,
+  "lng": 7.466694,
+  "mieter": []
+ },
+ "crans-montana|rue du prado|42": {
+  "street": "Rue du Prado",
+  "hn": "42",
+  "lat": 46.3040645,
+  "lng": 7.4660729,
+  "mieter": []
+ }
+}

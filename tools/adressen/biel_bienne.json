@@ -1,0 +1,1074 @@
+{
+ "biel/bienne|zentralstrasse|60": {
+  "street": "Zentralstrasse",
+  "hn": "60",
+  "lat": 47.1349291,
+  "lng": 7.2481851,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|16": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "16",
+  "lat": 47.134807,
+  "lng": 7.2448703,
+  "mieter": [
+   "Amavita",
+   "WSP Ingenieure und Berater AG",
+   "Interlangues",
+   "dasteam AG"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|2": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "2",
+  "lat": 47.1335295,
+  "lng": 7.2436153,
+  "mieter": [
+   "Caffè Spettacolo"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|36": {
+  "street": "Bahnhofstrasse",
+  "hn": "36",
+  "lat": 47.1355679,
+  "lng": 7.2454548,
+  "mieter": [
+   "Benu",
+   "Schuh Bazar"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|48": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "48",
+  "lat": 47.1359995,
+  "lng": 7.2459793,
+  "mieter": [
+   "Falken / Faucon"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|53": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "53",
+  "lat": 47.1364602,
+  "lng": 7.2461851,
+  "mieter": [
+   "Bäckerei-Konditorei Meyer"
+  ]
+ },
+ "biel/bienne|zentralstrasse|17": {
+  "street": "Zentralstrasse",
+  "hn": "17",
+  "lat": 47.1388635,
+  "lng": 7.2447299,
+  "mieter": []
+ },
+ "biel/bienne|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 47.1350486,
+  "lng": 7.2443027,
+  "mieter": [
+   "Migros",
+   "Denner"
+  ]
+ },
+ "biel/bienne|zentralstrasse|51": {
+  "street": "Zentralstrasse",
+  "hn": "51",
+  "lat": 47.1367203,
+  "lng": 7.247352,
+  "mieter": [
+   "Apollo"
+  ]
+ },
+ "biel/bienne|zentralstrasse|32": {
+  "street": "Zentralstrasse",
+  "hn": "32",
+  "lat": 47.1379348,
+  "lng": 7.2454009,
+  "mieter": [
+   "Lido 1&2"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|11": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "11",
+  "lat": 47.1344452,
+  "lng": 7.2436974,
+  "mieter": [
+   "Rotonde"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|14": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.134395,
+  "lng": 7.2441792,
+  "mieter": [
+   "Inside Africa Akwaaba",
+   "L'Osteria",
+   "Cash Converters",
+   "Intercoiffure Kaiser",
+   "Repas"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|98": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "98",
+  "lat": 47.1323189,
+  "lng": 7.2511192,
+  "mieter": [
+   "UBS"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|51": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "51",
+  "lat": 47.1365974,
+  "lng": 7.2471073,
+  "mieter": [
+   "Le Kebap"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.134454,
+  "lng": 7.2443426,
+  "mieter": [
+   "L'entrecote"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 47.135357,
+  "lng": 7.2447324,
+  "mieter": [
+   "R. Villiger AG"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|25": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "25",
+  "lat": 47.1354656,
+  "lng": 7.2448749,
+  "mieter": [
+   "Trends&Fashion, Shoes And Bags"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|29": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "29",
+  "lat": 47.1355747,
+  "lng": 7.2450208,
+  "mieter": [
+   "Progin"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|31": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "31",
+  "lat": 47.1356241,
+  "lng": 7.2450783,
+  "mieter": [
+   "Odeon"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|33": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "33",
+  "lat": 47.1357138,
+  "lng": 7.2451893,
+  "mieter": [
+   "CLER"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 47.1337442,
+  "lng": 7.2437128,
+  "mieter": [
+   "Café Bar Hasard"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|64": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "64",
+  "lat": 47.1344202,
+  "lng": 7.2489314,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|66": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "66",
+  "lat": 47.1342049,
+  "lng": 7.2488936,
+  "mieter": [
+   "Restaurant Olympia"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|66a": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "66a",
+  "lat": 47.1342839,
+  "lng": 7.248797,
+  "mieter": [
+   "Galerie l'éphémère"
+  ]
+ },
+ "biel/bienne|zentralstrasse|15": {
+  "street": "Zentralstrasse",
+  "hn": "15",
+  "lat": 47.1390397,
+  "lng": 7.2445878,
+  "mieter": [
+   "Perroquet Vert"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 47.1343606,
+  "lng": 7.243673,
+  "mieter": [
+   "Musikschule - École de Musique"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|1a": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "1a",
+  "lat": 47.1338723,
+  "lng": 7.2430744,
+  "mieter": []
+ },
+ "biel/bienne|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 47.1341383,
+  "lng": 7.2440086,
+  "mieter": [
+   "Interdiscount"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|22": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "22",
+  "lat": 47.1351319,
+  "lng": 7.2448598,
+  "mieter": [
+   "Tempus Boutique"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|26": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "26",
+  "lat": 47.1352847,
+  "lng": 7.2450574,
+  "mieter": [
+   "ad-me"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|30": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "30",
+  "lat": 47.1354172,
+  "lng": 7.2452691,
+  "mieter": [
+   "XENIA, Fachstelle Sexarbeit",
+   "Cinevital",
+   "CS Fashion",
+   "Benevol"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|46": {
+  "street": "Bahnhofstrasse",
+  "hn": "46",
+  "lat": 47.1359342,
+  "lng": 7.2459056,
+  "mieter": [
+   "Beldona"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|50": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "50",
+  "lat": 47.1361088,
+  "lng": 7.2461095,
+  "mieter": [
+   "Adecco"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|54": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "54",
+  "lat": 47.1362734,
+  "lng": 7.2463339,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|39": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "39",
+  "lat": 47.135938,
+  "lng": 7.245513,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|41": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "41",
+  "lat": 47.1360457,
+  "lng": 7.2456556,
+  "mieter": [
+   "Clochard"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|43": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "43",
+  "lat": 47.1361498,
+  "lng": 7.2457877,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|45": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "45",
+  "lat": 47.1362368,
+  "lng": 7.2459066,
+  "mieter": [
+   "Alain Afflelou"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 47.1348871,
+  "lng": 7.2441206,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|17": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "17",
+  "lat": 47.1351943,
+  "lng": 7.2445342,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|19": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "19",
+  "lat": 47.1352703,
+  "lng": 7.2446335,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|39": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "39",
+  "lat": 47.1376131,
+  "lng": 7.246028,
+  "mieter": [
+   "Alabama"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|20": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "20",
+  "lat": 47.1350158,
+  "lng": 7.244788,
+  "mieter": [
+   "Café Bar Cecil"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|7": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "7",
+  "lat": 47.1341332,
+  "lng": 7.2435506,
+  "mieter": [
+   "Blaues Kreuz / Croix-Bleue",
+   "Simone Tschopp",
+   "Südhang"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|48": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "48",
+  "lat": 47.1360179,
+  "lng": 7.2473515,
+  "mieter": [
+   "Bar 48"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 47.133755,
+  "lng": 7.2432963,
+  "mieter": [
+   "Keller Tabak",
+   "Driving-School Richard"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|47": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "47",
+  "lat": 47.1372412,
+  "lng": 7.2465124,
+  "mieter": [
+   "Bijou les Boutiques"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 47.1339881,
+  "lng": 7.2434656,
+  "mieter": [
+   "Groupe Mutuel"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|34": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "34",
+  "lat": 47.1378488,
+  "lng": 7.245492,
+  "mieter": [
+   "Marmelade"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|36": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "36",
+  "lat": 47.1377383,
+  "lng": 7.2455138,
+  "mieter": []
+ },
+ "biel/bienne|marktgasse|6": {
+  "street": "Marktgasse",
+  "hn": "6",
+  "lat": 47.1398553,
+  "lng": 7.2463585,
+  "mieter": []
+ },
+ "biel/bienne|marktgasse|26": {
+  "street": "Marktgasse",
+  "hn": "26",
+  "lat": 47.1400961,
+  "lng": 7.2470305,
+  "mieter": []
+ },
+ "biel/bienne|marktgasse|34": {
+  "street": "Marktgasse",
+  "hn": "34",
+  "lat": 47.1404894,
+  "lng": 7.2477482,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|32": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "32",
+  "lat": 47.1354513,
+  "lng": 7.2453735,
+  "mieter": [
+   "Al Capone",
+   "Coiffeur Moloco"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|28": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "28",
+  "lat": 47.1352954,
+  "lng": 7.2451625,
+  "mieter": [
+   "Cordon Bleu House"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|42": {
+  "street": "Bahnhofstrasse",
+  "hn": "42",
+  "lat": 47.13576,
+  "lng": 7.2458129,
+  "mieter": [
+   "Cuba Bar"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|54": {
+  "street": "Bahnhofstrasse",
+  "hn": "54",
+  "lat": 47.1362214,
+  "lng": 7.2463358,
+  "mieter": [
+   "Tchibo"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|54": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "54",
+  "lat": 47.1357557,
+  "lng": 7.2476238,
+  "mieter": [
+   "Duo Club"
+  ]
+ },
+ "biel/bienne|zentralstrasse|6": {
+  "street": "Zentralstrasse",
+  "hn": "6",
+  "lat": 47.1393139,
+  "lng": 7.2437777,
+  "mieter": []
+ },
+ "biel/bienne|zentralstrasse|8": {
+  "street": "Zentralstrasse",
+  "hn": "8",
+  "lat": 47.1392832,
+  "lng": 7.2438097,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|22": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "22",
+  "lat": 47.1386071,
+  "lng": 7.2446553,
+  "mieter": [
+   "Best Man Barber Shop"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|38": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "38",
+  "lat": 47.1356631,
+  "lng": 7.2455654,
+  "mieter": [
+   "Holy Cow!"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|21": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "21",
+  "lat": 47.1354101,
+  "lng": 7.244802,
+  "mieter": [
+   "Optic Lorella & Léonard"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|32a": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "32a",
+  "lat": 47.1380043,
+  "lng": 7.2453274,
+  "mieter": [
+   "essor"
+  ]
+ },
+ "biel/bienne|zentralstrasse|40": {
+  "street": "Zentralstrasse",
+  "hn": "40",
+  "lat": 47.1371171,
+  "lng": 7.2463166,
+  "mieter": [
+   "Parfum Christian Dior"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|27": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "27",
+  "lat": 47.1382577,
+  "lng": 7.2454693,
+  "mieter": [
+   "fussundschuh"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|60": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "60",
+  "lat": 47.1348527,
+  "lng": 7.2478036,
+  "mieter": [
+   "Palais des congrès"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|45": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "45",
+  "lat": 47.1373607,
+  "lng": 7.2463572,
+  "mieter": [
+   "Geno"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|41": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "41",
+  "lat": 47.1375394,
+  "lng": 7.2461321,
+  "mieter": [
+   "Wotyoo Cavocado"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|34": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "34",
+  "lat": 47.1355041,
+  "lng": 7.2454553,
+  "mieter": [
+   "Kieferorthopädie Biel / Orthodontie Bienne"
+  ]
+ },
+ "biel/bienne|zentralstrasse|55": {
+  "street": "Zentralstrasse",
+  "hn": "55",
+  "lat": 47.1362879,
+  "lng": 7.2474112,
+  "mieter": [
+   "Verona"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|14": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "14",
+  "lat": 47.1389042,
+  "lng": 7.2439917,
+  "mieter": [
+   "Bostryche"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|47": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "47",
+  "lat": 47.1363002,
+  "lng": 7.2459787,
+  "mieter": [
+   "Jack & Jones"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|8": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "8",
+  "lat": 47.1394015,
+  "lng": 7.2438211,
+  "mieter": [
+   "Saddler Sitzmanufaktur",
+   "Steelhood"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|63": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "63",
+  "lat": 47.1359574,
+  "lng": 7.2480744,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|4": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "4",
+  "lat": 47.1395274,
+  "lng": 7.243747,
+  "mieter": [
+   "Ici Paris",
+   "Kahnaqueen"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|42": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "42",
+  "lat": 47.1372811,
+  "lng": 7.2461171,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|40": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "40",
+  "lat": 47.1372953,
+  "lng": 7.2461023,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|49": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "49",
+  "lat": 47.1368807,
+  "lng": 7.2471391,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|12": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "12",
+  "lat": 47.1340726,
+  "lng": 7.2440148,
+  "mieter": [
+   "Lässer Treuhand AG"
+  ]
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|24": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "24",
+  "lat": 47.1352364,
+  "lng": 7.2449973,
+  "mieter": [
+   "Gerry Weber",
+   "Kinderwunschpraxis Biel/Bienne / Médecine de la fertilité Biel/Bienne"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|30": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "30",
+  "lat": 47.1381687,
+  "lng": 7.2451736,
+  "mieter": [
+   "Swiss Harmony"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|32": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "32",
+  "lat": 47.1381307,
+  "lng": 7.2452188,
+  "mieter": [
+   "Liloù",
+   "Lubu's"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|23": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "23",
+  "lat": 47.1385646,
+  "lng": 7.2450649,
+  "mieter": [
+   "Bonidee"
+  ]
+ },
+ "biel/bienne|bahnhofstrasse|26": {
+  "street": "Bahnhofstrasse",
+  "hn": "26",
+  "lat": 47.1352658,
+  "lng": 7.2450807,
+  "mieter": [
+   "Fotoboutique Gerber"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|11": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "11",
+  "lat": 47.139161,
+  "lng": 7.2444587,
+  "mieter": [
+   "Boutique Eli"
+  ]
+ },
+ "biel/bienne|zentralstrasse|115": {
+  "street": "Zentralstrasse",
+  "hn": "115",
+  "lat": 47.1332209,
+  "lng": 7.2511949,
+  "mieter": [
+   "B3 Group AG"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|31": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "31",
+  "lat": 47.1347957,
+  "lng": 7.2483088,
+  "mieter": []
+ },
+ "biel/bienne|marktgasse|9": {
+  "street": "Marktgasse",
+  "hn": "9",
+  "lat": 47.1400423,
+  "lng": 7.2461425,
+  "mieter": []
+ },
+ "biel/bienne|marktgasse|7": {
+  "street": "Marktgasse",
+  "hn": "7",
+  "lat": 47.1399996,
+  "lng": 7.2460707,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|55": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "55",
+  "lat": 47.1365095,
+  "lng": 7.2462582,
+  "mieter": [
+   "Genoase"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|19": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "19",
+  "lat": 47.1387227,
+  "lng": 7.2449063,
+  "mieter": [
+   "OAK"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|115": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "115",
+  "lat": 47.1334819,
+  "lng": 7.2514718,
+  "mieter": [
+   "dersu.ch"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|87": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "87",
+  "lat": 47.1345058,
+  "lng": 7.2493254,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|85": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "85",
+  "lat": 47.1346707,
+  "lng": 7.2491485,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|46": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "46",
+  "lat": 47.136258,
+  "lng": 7.2469489,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|90": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "90",
+  "lat": 47.1325924,
+  "lng": 7.2508314,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|44": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "44",
+  "lat": 47.1368109,
+  "lng": 7.2461933,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|68": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "68",
+  "lat": 47.1336463,
+  "lng": 7.2497244,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|21": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "21",
+  "lat": 47.133217,
+  "lng": 7.2490462,
+  "mieter": [
+   "Städtische Kindertagesstätte Zukunft"
+  ]
+ },
+ "biel/bienne|rue centrale / zentralstrasse|76": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "76",
+  "lat": 47.1332403,
+  "lng": 7.2501665,
+  "mieter": []
+ },
+ "biel/bienne|zentralstrasse|141": {
+  "street": "Zentralstrasse",
+  "hn": "141",
+  "lat": 47.1335254,
+  "lng": 7.2519023,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|99": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "99",
+  "lat": 47.1337075,
+  "lng": 7.2501429,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|123": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "123",
+  "lat": 47.1330459,
+  "lng": 7.25175,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|49": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "49",
+  "lat": 47.1364139,
+  "lng": 7.2460419,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|33": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "33",
+  "lat": 47.1378902,
+  "lng": 7.2458251,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|28": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "28",
+  "lat": 47.1384382,
+  "lng": 7.2448089,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|18": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "18",
+  "lat": 47.1387272,
+  "lng": 7.24413,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|16": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "16",
+  "lat": 47.1388057,
+  "lng": 7.2440508,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|2": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "2",
+  "lat": 47.1396643,
+  "lng": 7.2435004,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|27": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "27",
+  "lat": 47.1355537,
+  "lng": 7.2448966,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|56": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "56",
+  "lat": 47.1354977,
+  "lng": 7.2478076,
+  "mieter": []
+ },
+ "biel/bienne|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 47.134865,
+  "lng": 7.2449449,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|36": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "36",
+  "lat": 47.1355525,
+  "lng": 7.2455503,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|40": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "40",
+  "lat": 47.1356982,
+  "lng": 7.2457369,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|42a": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "42a",
+  "lat": 47.135659,
+  "lng": 7.2459893,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|42": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "42",
+  "lat": 47.1357653,
+  "lng": 7.2458251,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|44": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "44",
+  "lat": 47.1358006,
+  "lng": 7.2459526,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|57": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "57",
+  "lat": 47.1365951,
+  "lng": 7.2462757,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|10": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "10",
+  "lat": 47.1339138,
+  "lng": 7.2440822,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|8": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "8",
+  "lat": 47.1339484,
+  "lng": 7.2439173,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|6": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "6",
+  "lat": 47.1337671,
+  "lng": 7.2438756,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|3": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "3",
+  "lat": 47.1339131,
+  "lng": 7.243336,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|3a": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "3a",
+  "lat": 47.1339165,
+  "lng": 7.2431414,
+  "mieter": []
+ },
+ "biel/bienne|rue de la gare / bahnhofstrasse|9": {
+  "street": "Rue de la Gare / Bahnhofstrasse",
+  "hn": "9",
+  "lat": 47.1342404,
+  "lng": 7.2435773,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|72": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "72",
+  "lat": 47.1334511,
+  "lng": 7.2499472,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|91": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "91",
+  "lat": 47.134374,
+  "lng": 7.2495148,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|101": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "101",
+  "lat": 47.1336252,
+  "lng": 7.2502038,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|53": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "53",
+  "lat": 47.1323722,
+  "lng": 7.250205,
+  "mieter": []
+ },
+ "biel/bienne|rue centrale / zentralstrasse|96": {
+  "street": "Rue Centrale / Zentralstrasse",
+  "hn": "96",
+  "lat": 47.1324728,
+  "lng": 7.2509694,
+  "mieter": []
+ }
+}

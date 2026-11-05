@@ -1,0 +1,1138 @@
+{
+ "montreux|avenue du casino|35": {
+  "street": "Avenue du Casino",
+  "hn": "35",
+  "lat": 46.4300029,
+  "lng": 6.9120081,
+  "mieter": []
+ },
+ "montreux|avenue du casino|37": {
+  "street": "Avenue du Casino",
+  "hn": "37",
+  "lat": 46.430155,
+  "lng": 6.9121621,
+  "mieter": []
+ },
+ "montreux|avenue du casino|29": {
+  "street": "Avenue du Casino",
+  "hn": "29",
+  "lat": 46.4300742,
+  "lng": 6.9128632,
+  "mieter": []
+ },
+ "montreux|avenue du casino|31": {
+  "street": "Avenue du Casino",
+  "hn": "31",
+  "lat": 46.4298926,
+  "lng": 6.9129341,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|5": {
+  "street": "Rue du Théâtre",
+  "hn": "5",
+  "lat": 46.4294663,
+  "lng": 6.9130464,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|6": {
+  "street": "Rue du Théâtre",
+  "hn": "6",
+  "lat": 46.4297671,
+  "lng": 6.913949,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|4bis": {
+  "street": "Rue du Théâtre",
+  "hn": "4bis",
+  "lat": 46.4297964,
+  "lng": 6.9141073,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|15": {
+  "street": "Rue du Théâtre",
+  "hn": "15",
+  "lat": 46.4299599,
+  "lng": 6.9145533,
+  "mieter": []
+ },
+ "montreux|avenue du casino|13": {
+  "street": "Avenue du Casino",
+  "hn": "13",
+  "lat": 46.4300376,
+  "lng": 6.9146981,
+  "mieter": []
+ },
+ "montreux|avenue du casino|11": {
+  "street": "Avenue du Casino",
+  "hn": "11",
+  "lat": 46.430045,
+  "lng": 6.9149663,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|96": {
+  "street": "Avenue des Alpes",
+  "hn": "96",
+  "lat": 46.4377043,
+  "lng": 6.9083133,
+  "mieter": [
+   "Electricité Sottas SARL"
+  ]
+ },
+ "montreux|avenue des alpes|5": {
+  "street": "Avenue des Alpes",
+  "hn": "5",
+  "lat": 46.4319605,
+  "lng": 6.9118896,
+  "mieter": [
+   "ASLOCA Montreux – Est-Vaudois"
+  ]
+ },
+ "montreux|rue de la paix|8": {
+  "street": "Rue de la Paix",
+  "hn": "8",
+  "lat": 46.4318958,
+  "lng": 6.9113553,
+  "mieter": []
+ },
+ "montreux|avenue du casino|39": {
+  "street": "Avenue du Casino",
+  "hn": "39",
+  "lat": 46.4302873,
+  "lng": 6.9122404,
+  "mieter": [
+   "Roman Mayer"
+  ]
+ },
+ "montreux|rue du théâtre|16": {
+  "street": "Rue du Théâtre",
+  "hn": "16",
+  "lat": 46.4307423,
+  "lng": 6.9100283,
+  "mieter": [
+   "Le Basilic"
+  ]
+ },
+ "montreux|avenue du casino|32": {
+  "street": "Avenue du Casino",
+  "hn": "32",
+  "lat": 46.4305166,
+  "lng": 6.9122495,
+  "mieter": [
+   "La Brasserie"
+  ]
+ },
+ "montreux|rue de la paix|3": {
+  "street": "Rue de la Paix",
+  "hn": "3",
+  "lat": 46.4315259,
+  "lng": 6.9110187,
+  "mieter": [
+   "Istanbul Pizza",
+   "5àsec"
+  ]
+ },
+ "montreux|rue de la paix|5": {
+  "street": "Rue de la Paix",
+  "hn": "5",
+  "lat": 46.4317291,
+  "lng": 6.9110472,
+  "mieter": []
+ },
+ "montreux|rue de la paix|11": {
+  "street": "Rue de la Paix",
+  "hn": "11",
+  "lat": 46.432197,
+  "lng": 6.9110777,
+  "mieter": [
+   "Regne"
+  ]
+ },
+ "montreux|avenue des alpes|19": {
+  "street": "Avenue des Alpes",
+  "hn": "19",
+  "lat": 46.4333472,
+  "lng": 6.9108826,
+  "mieter": [
+   "Coiffure The Face"
+  ]
+ },
+ "montreux|avenue des alpes|45": {
+  "street": "Avenue des Alpes",
+  "hn": "45",
+  "lat": 46.4359401,
+  "lng": 6.9098334,
+  "mieter": [
+   "Restaurant 45"
+  ]
+ },
+ "montreux|avenue des alpes|49": {
+  "street": "Avenue des Alpes",
+  "hn": "49",
+  "lat": 46.436316,
+  "lng": 6.90957,
+  "mieter": [
+   "Bagel on the way",
+   "Hanabi"
+  ]
+ },
+ "montreux|rue du théâtre|11": {
+  "street": "Rue du Théâtre",
+  "hn": "11",
+  "lat": 46.4304719,
+  "lng": 6.9095146,
+  "mieter": [
+   "Chez Gaston"
+  ]
+ },
+ "montreux|grand-rue|3": {
+  "street": "Grand-Rue",
+  "hn": "3",
+  "lat": 46.4314506,
+  "lng": 6.910212,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|74": {
+  "street": "Avenue des Alpes",
+  "hn": "74",
+  "lat": 46.4357307,
+  "lng": 6.9104364,
+  "mieter": [
+   "Permanence Quai Santé",
+   "SBB Billette, Abonnemente, Freizeitangebote."
+  ]
+ },
+ "montreux|avenue des alpes|144": {
+  "street": "Avenue des Alpes",
+  "hn": "144",
+  "lat": 46.4398372,
+  "lng": 6.9057319,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|142": {
+  "street": "Avenue des Alpes",
+  "hn": "142",
+  "lat": 46.4397519,
+  "lng": 6.9059018,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|63": {
+  "street": "Avenue des Alpes",
+  "hn": "63",
+  "lat": 46.4391162,
+  "lng": 6.9061889,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|84": {
+  "street": "Avenue des Alpes",
+  "hn": "84",
+  "lat": 46.4367648,
+  "lng": 6.9096292,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|82": {
+  "street": "Avenue des Alpes",
+  "hn": "82",
+  "lat": 46.4367053,
+  "lng": 6.9096676,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|80": {
+  "street": "Avenue des Alpes",
+  "hn": "80",
+  "lat": 46.4366457,
+  "lng": 6.9097061,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|88bis": {
+  "street": "Avenue des Alpes",
+  "hn": "88bis",
+  "lat": 46.436925,
+  "lng": 6.9098727,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|80b": {
+  "street": "Avenue des Alpes",
+  "hn": "80b",
+  "lat": 46.4368042,
+  "lng": 6.9099116,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|47": {
+  "street": "Avenue des Alpes",
+  "hn": "47",
+  "lat": 46.4362561,
+  "lng": 6.9096694,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|43": {
+  "street": "Avenue des Alpes",
+  "hn": "43",
+  "lat": 46.4354309,
+  "lng": 6.909955,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|35": {
+  "street": "Avenue des Alpes",
+  "hn": "35",
+  "lat": 46.4348443,
+  "lng": 6.9104769,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|33": {
+  "street": "Avenue des Alpes",
+  "hn": "33",
+  "lat": 46.4347614,
+  "lng": 6.9105088,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|44": {
+  "street": "Avenue des Alpes",
+  "hn": "44",
+  "lat": 46.4335677,
+  "lng": 6.9112549,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|38": {
+  "street": "Avenue des Alpes",
+  "hn": "38",
+  "lat": 46.4332796,
+  "lng": 6.911304,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|42": {
+  "street": "Avenue des Alpes",
+  "hn": "42",
+  "lat": 46.4334824,
+  "lng": 6.9111498,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|40": {
+  "street": "Avenue des Alpes",
+  "hn": "40",
+  "lat": 46.4332764,
+  "lng": 6.9111802,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|50": {
+  "street": "Avenue des Alpes",
+  "hn": "50",
+  "lat": 46.433616,
+  "lng": 6.9114277,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|48": {
+  "street": "Avenue des Alpes",
+  "hn": "48",
+  "lat": 46.4334905,
+  "lng": 6.9114487,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|46": {
+  "street": "Avenue des Alpes",
+  "hn": "46",
+  "lat": 46.4333601,
+  "lng": 6.9114674,
+  "mieter": [
+   "L'elixir Creative Agency"
+  ]
+ },
+ "montreux|avenue des alpes|52": {
+  "street": "Avenue des Alpes",
+  "hn": "52",
+  "lat": 46.4337327,
+  "lng": 6.9114904,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|54": {
+  "street": "Avenue des Alpes",
+  "hn": "54",
+  "lat": 46.4337978,
+  "lng": 6.9114986,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|4": {
+  "street": "Avenue des Alpes",
+  "hn": "4",
+  "lat": 46.4319568,
+  "lng": 6.9129862,
+  "mieter": []
+ },
+ "montreux|avenue du casino|34": {
+  "street": "Avenue du Casino",
+  "hn": "34",
+  "lat": 46.4305406,
+  "lng": 6.9120233,
+  "mieter": []
+ },
+ "montreux|avenue du casino|38": {
+  "street": "Avenue du Casino",
+  "hn": "38",
+  "lat": 46.430587,
+  "lng": 6.9116536,
+  "mieter": []
+ },
+ "montreux|avenue du casino|42": {
+  "street": "Avenue du Casino",
+  "hn": "42",
+  "lat": 46.4307785,
+  "lng": 6.911629,
+  "mieter": []
+ },
+ "montreux|avenue du casino|40": {
+  "street": "Avenue du Casino",
+  "hn": "40",
+  "lat": 46.4306352,
+  "lng": 6.9115232,
+  "mieter": []
+ },
+ "montreux|avenue du casino|14": {
+  "street": "Avenue du Casino",
+  "hn": "14",
+  "lat": 46.4302945,
+  "lng": 6.9143865,
+  "mieter": []
+ },
+ "montreux|avenue du casino|12": {
+  "street": "Avenue du Casino",
+  "hn": "12",
+  "lat": 46.4302539,
+  "lng": 6.9148237,
+  "mieter": []
+ },
+ "montreux|avenue du casino|10": {
+  "street": "Avenue du Casino",
+  "hn": "10",
+  "lat": 46.4302446,
+  "lng": 6.9149417,
+  "mieter": []
+ },
+ "montreux|avenue du casino|28": {
+  "street": "Avenue du Casino",
+  "hn": "28",
+  "lat": 46.4303519,
+  "lng": 6.9129028,
+  "mieter": []
+ },
+ "montreux|avenue du casino|46": {
+  "street": "Avenue du Casino",
+  "hn": "46",
+  "lat": 46.4307276,
+  "lng": 6.9112922,
+  "mieter": []
+ },
+ "montreux|avenue du casino|48": {
+  "street": "Avenue du Casino",
+  "hn": "48",
+  "lat": 46.4307948,
+  "lng": 6.9111326,
+  "mieter": []
+ },
+ "montreux|avenue du casino|50": {
+  "street": "Avenue du Casino",
+  "hn": "50",
+  "lat": 46.4308949,
+  "lng": 6.9109902,
+  "mieter": []
+ },
+ "montreux|avenue du casino|52": {
+  "street": "Avenue du Casino",
+  "hn": "52",
+  "lat": 46.4310332,
+  "lng": 6.9108538,
+  "mieter": []
+ },
+ "montreux|avenue du casino|4": {
+  "street": "Avenue du Casino",
+  "hn": "4",
+  "lat": 46.4311747,
+  "lng": 6.9111773,
+  "mieter": []
+ },
+ "montreux|avenue du casino|6": {
+  "street": "Avenue du Casino",
+  "hn": "6",
+  "lat": 46.431148,
+  "lng": 6.9113957,
+  "mieter": []
+ },
+ "montreux|avenue du casino|8": {
+  "street": "Avenue du Casino",
+  "hn": "8",
+  "lat": 46.4311151,
+  "lng": 6.911639,
+  "mieter": []
+ },
+ "montreux|avenue du casino|33": {
+  "street": "Avenue du Casino",
+  "hn": "33",
+  "lat": 46.4299617,
+  "lng": 6.9125491,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|6ter": {
+  "street": "Rue du Théâtre",
+  "hn": "6ter",
+  "lat": 46.4298258,
+  "lng": 6.9125722,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|6d": {
+  "street": "Rue du Théâtre",
+  "hn": "6d",
+  "lat": 46.4298014,
+  "lng": 6.912982,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|14": {
+  "street": "Rue du Théâtre",
+  "hn": "14",
+  "lat": 46.4306226,
+  "lng": 6.9102388,
+  "mieter": []
+ },
+ "montreux|rue de la paix|1bis": {
+  "street": "Rue de la Paix",
+  "hn": "1bis",
+  "lat": 46.4315843,
+  "lng": 6.9107792,
+  "mieter": []
+ },
+ "montreux|rue de la paix|1": {
+  "street": "Rue de la Paix",
+  "hn": "1",
+  "lat": 46.4313846,
+  "lng": 6.9109006,
+  "mieter": []
+ },
+ "montreux|rue de la paix|7": {
+  "street": "Rue de la Paix",
+  "hn": "7",
+  "lat": 46.4321399,
+  "lng": 6.9111158,
+  "mieter": []
+ },
+ "montreux|rue de la paix|9": {
+  "street": "Rue de la Paix",
+  "hn": "9",
+  "lat": 46.4323251,
+  "lng": 6.9111212,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|17": {
+  "street": "Avenue des Alpes",
+  "hn": "17",
+  "lat": 46.4332784,
+  "lng": 6.9108703,
+  "mieter": [
+   "Big One Burger"
+  ]
+ },
+ "montreux|grand-rue|74": {
+  "street": "Grand-Rue",
+  "hn": "74",
+  "lat": 46.4362034,
+  "lng": 6.909235,
+  "mieter": [
+   "Gem Swiss"
+  ]
+ },
+ "montreux|avenue des alpes|68": {
+  "street": "Avenue des Alpes",
+  "hn": "68",
+  "lat": 46.4347311,
+  "lng": 6.910776,
+  "mieter": [
+   "Sleepy Bear Coffee Shop"
+  ]
+ },
+ "montreux|rue du théâtre|9": {
+  "street": "Rue du Théâtre",
+  "hn": "9",
+  "lat": 46.4298602,
+  "lng": 6.9113156,
+  "mieter": [
+   "C+ 1820",
+   "Casino Barrière de Montreux"
+  ]
+ },
+ "montreux|grand-rue|73": {
+  "street": "Grand-Rue",
+  "hn": "73",
+  "lat": 46.4360551,
+  "lng": 6.9089111,
+  "mieter": [
+   "Administration générale"
+  ]
+ },
+ "montreux|avenue des alpes|128": {
+  "street": "Avenue des Alpes",
+  "hn": "128",
+  "lat": 46.4392981,
+  "lng": 6.906925,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|94": {
+  "street": "Avenue des Alpes",
+  "hn": "94",
+  "lat": 46.4373727,
+  "lng": 6.9094399,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|51": {
+  "street": "Avenue des Alpes",
+  "hn": "51",
+  "lat": 46.4366767,
+  "lng": 6.9093568,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|53": {
+  "street": "Avenue des Alpes",
+  "hn": "53",
+  "lat": 46.4369238,
+  "lng": 6.909161,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|39": {
+  "street": "Avenue des Alpes",
+  "hn": "39",
+  "lat": 46.4351545,
+  "lng": 6.9102714,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|41": {
+  "street": "Avenue des Alpes",
+  "hn": "41",
+  "lat": 46.4353136,
+  "lng": 6.9101306,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|90": {
+  "street": "Avenue des Alpes",
+  "hn": "90",
+  "lat": 46.4370778,
+  "lng": 6.9095444,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|120": {
+  "street": "Avenue des Alpes",
+  "hn": "120",
+  "lat": 46.438788,
+  "lng": 6.9075543,
+  "mieter": []
+ },
+ "montreux|grand-rue|71": {
+  "street": "Grand-Rue",
+  "hn": "71",
+  "lat": 46.4359019,
+  "lng": 6.9088249,
+  "mieter": []
+ },
+ "montreux|avenue du casino|25": {
+  "street": "Avenue du Casino",
+  "hn": "25",
+  "lat": 46.4301388,
+  "lng": 6.913371,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|1": {
+  "street": "Rue du Théâtre",
+  "hn": "1",
+  "lat": 46.4295893,
+  "lng": 6.9143009,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|3": {
+  "street": "Rue du Théâtre",
+  "hn": "3",
+  "lat": 46.4295192,
+  "lng": 6.9139413,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|22": {
+  "street": "Avenue des Alpes",
+  "hn": "22",
+  "lat": 46.432399,
+  "lng": 6.9115224,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|70": {
+  "street": "Avenue des Alpes",
+  "hn": "70",
+  "lat": 46.4349149,
+  "lng": 6.9108364,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|72": {
+  "street": "Avenue des Alpes",
+  "hn": "72",
+  "lat": 46.4351853,
+  "lng": 6.9106306,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|14": {
+  "street": "Avenue des Alpes",
+  "hn": "14",
+  "lat": 46.4321625,
+  "lng": 6.9122078,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|15": {
+  "street": "Avenue des Alpes",
+  "hn": "15",
+  "lat": 46.4327269,
+  "lng": 6.9109302,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|27bis": {
+  "street": "Avenue des Alpes",
+  "hn": "27bis",
+  "lat": 46.4342256,
+  "lng": 6.9106285,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|29": {
+  "street": "Avenue des Alpes",
+  "hn": "29",
+  "lat": 46.4344139,
+  "lng": 6.9105716,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|25": {
+  "street": "Avenue des Alpes",
+  "hn": "25",
+  "lat": 46.433834,
+  "lng": 6.9107256,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|27": {
+  "street": "Avenue des Alpes",
+  "hn": "27",
+  "lat": 46.4340368,
+  "lng": 6.9106745,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|21": {
+  "street": "Avenue des Alpes",
+  "hn": "21",
+  "lat": 46.4334848,
+  "lng": 6.910832,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|2": {
+  "street": "Avenue des Alpes",
+  "hn": "2",
+  "lat": 46.4318041,
+  "lng": 6.9131001,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|12": {
+  "street": "Avenue des Alpes",
+  "hn": "12",
+  "lat": 46.4320132,
+  "lng": 6.9124449,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|18": {
+  "street": "Avenue des Alpes",
+  "hn": "18",
+  "lat": 46.432268,
+  "lng": 6.9117171,
+  "mieter": [
+   "Office de la population"
+  ]
+ },
+ "montreux|avenue des alpes|56": {
+  "street": "Avenue des Alpes",
+  "hn": "56",
+  "lat": 46.4338576,
+  "lng": 6.9111064,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|28": {
+  "street": "Avenue des Alpes",
+  "hn": "28",
+  "lat": 46.4328528,
+  "lng": 6.9120222,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|8": {
+  "street": "Avenue des Alpes",
+  "hn": "8",
+  "lat": 46.4318753,
+  "lng": 6.9127024,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|156": {
+  "street": "Avenue des Alpes",
+  "hn": "156",
+  "lat": 46.4400651,
+  "lng": 6.9045901,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|152": {
+  "street": "Avenue des Alpes",
+  "hn": "152",
+  "lat": 46.440167,
+  "lng": 6.9048516,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|150": {
+  "street": "Avenue des Alpes",
+  "hn": "150",
+  "lat": 46.4401012,
+  "lng": 6.9050519,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|146": {
+  "street": "Avenue des Alpes",
+  "hn": "146",
+  "lat": 46.4399691,
+  "lng": 6.9053414,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|130": {
+  "street": "Avenue des Alpes",
+  "hn": "130",
+  "lat": 46.4394763,
+  "lng": 6.9062478,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|126": {
+  "street": "Avenue des Alpes",
+  "hn": "126",
+  "lat": 46.4389992,
+  "lng": 6.9070509,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|37": {
+  "street": "Avenue des Alpes",
+  "hn": "37",
+  "lat": 46.4349929,
+  "lng": 6.9102343,
+  "mieter": []
+ },
+ "montreux|avenue du casino|26": {
+  "street": "Avenue du Casino",
+  "hn": "26",
+  "lat": 46.4304313,
+  "lng": 6.9133831,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|6c": {
+  "street": "Rue du Théâtre",
+  "hn": "6c",
+  "lat": 46.4298019,
+  "lng": 6.9133503,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|6b": {
+  "street": "Rue du Théâtre",
+  "hn": "6b",
+  "lat": 46.4298034,
+  "lng": 6.9136548,
+  "mieter": []
+ },
+ "montreux|avenue du casino|17": {
+  "street": "Avenue du Casino",
+  "hn": "17",
+  "lat": 46.430103,
+  "lng": 6.9140858,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|7": {
+  "street": "Rue du Théâtre",
+  "hn": "7",
+  "lat": 46.4294564,
+  "lng": 6.9124638,
+  "mieter": []
+ },
+ "montreux|avenue du casino|41": {
+  "street": "Avenue du Casino",
+  "hn": "41",
+  "lat": 46.4303484,
+  "lng": 6.9116373,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|8": {
+  "street": "Rue du Théâtre",
+  "hn": "8",
+  "lat": 46.4301882,
+  "lng": 6.9112128,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|10": {
+  "street": "Rue du Théâtre",
+  "hn": "10",
+  "lat": 46.4302829,
+  "lng": 6.9109206,
+  "mieter": []
+ },
+ "montreux|avenue du casino|53": {
+  "street": "Avenue du Casino",
+  "hn": "53",
+  "lat": 46.4308253,
+  "lng": 6.9105972,
+  "mieter": []
+ },
+ "montreux|avenue du casino|51": {
+  "street": "Avenue du Casino",
+  "hn": "51",
+  "lat": 46.4307249,
+  "lng": 6.9107405,
+  "mieter": []
+ },
+ "montreux|avenue du casino|49": {
+  "street": "Avenue du Casino",
+  "hn": "49",
+  "lat": 46.430617,
+  "lng": 6.9109052,
+  "mieter": []
+ },
+ "montreux|avenue du casino|47": {
+  "street": "Avenue du Casino",
+  "hn": "47",
+  "lat": 46.4305494,
+  "lng": 6.9111853,
+  "mieter": []
+ },
+ "montreux|avenue du casino|45": {
+  "street": "Avenue du Casino",
+  "hn": "45",
+  "lat": 46.4304468,
+  "lng": 6.9114238,
+  "mieter": []
+ },
+ "montreux|rue du théâtre|12": {
+  "street": "Rue du Théâtre",
+  "hn": "12",
+  "lat": 46.4304872,
+  "lng": 6.9108732,
+  "mieter": []
+ },
+ "montreux|avenue du casino|44": {
+  "street": "Avenue du Casino",
+  "hn": "44",
+  "lat": 46.4308731,
+  "lng": 6.9117327,
+  "mieter": []
+ },
+ "montreux|avenue du casino|7": {
+  "street": "Avenue du Casino",
+  "hn": "7",
+  "lat": 46.4299404,
+  "lng": 6.915327,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|104": {
+  "street": "Avenue des Alpes",
+  "hn": "104",
+  "lat": 46.4382675,
+  "lng": 6.9084864,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|108": {
+  "street": "Avenue des Alpes",
+  "hn": "108",
+  "lat": 46.4383695,
+  "lng": 6.9083211,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|102": {
+  "street": "Avenue des Alpes",
+  "hn": "102",
+  "lat": 46.4381499,
+  "lng": 6.9086441,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|59bis": {
+  "street": "Avenue des Alpes",
+  "hn": "59bis",
+  "lat": 46.4378126,
+  "lng": 6.9083796,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|59": {
+  "street": "Avenue des Alpes",
+  "hn": "59",
+  "lat": 46.4378021,
+  "lng": 6.9085918,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|57": {
+  "street": "Avenue des Alpes",
+  "hn": "57",
+  "lat": 46.437629,
+  "lng": 6.9087419,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|3": {
+  "street": "Avenue des Alpes",
+  "hn": "3",
+  "lat": 46.431877,
+  "lng": 6.911862,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|1": {
+  "street": "Avenue des Alpes",
+  "hn": "1",
+  "lat": 46.4317988,
+  "lng": 6.9121787,
+  "mieter": []
+ },
+ "montreux|rue de la paix|4": {
+  "street": "Rue de la Paix",
+  "hn": "4",
+  "lat": 46.43164,
+  "lng": 6.9114467,
+  "mieter": []
+ },
+ "montreux|rue de la paix|2": {
+  "street": "Rue de la Paix",
+  "hn": "2",
+  "lat": 46.431641,
+  "lng": 6.9117819,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|31": {
+  "street": "Avenue des Alpes",
+  "hn": "31",
+  "lat": 46.4345619,
+  "lng": 6.9105235,
+  "mieter": []
+ },
+ "montreux|avenue du casino|3": {
+  "street": "Avenue du Casino",
+  "hn": "3",
+  "lat": 46.4301323,
+  "lng": 6.9166416,
+  "mieter": []
+ },
+ "montreux|avenue du casino|1": {
+  "street": "Avenue du Casino",
+  "hn": "1",
+  "lat": 46.4300918,
+  "lng": 6.9170896,
+  "mieter": []
+ },
+ "montreux|avenue du casino|36": {
+  "street": "Avenue du Casino",
+  "hn": "36",
+  "lat": 46.4306142,
+  "lng": 6.9118723,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|128b": {
+  "street": "Avenue des Alpes",
+  "hn": "128b",
+  "lat": 46.4392074,
+  "lng": 6.9066032,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|122": {
+  "street": "Avenue des Alpes",
+  "hn": "122",
+  "lat": 46.4390469,
+  "lng": 6.9073301,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|114": {
+  "street": "Avenue des Alpes",
+  "hn": "114",
+  "lat": 46.4388546,
+  "lng": 6.9079787,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|112": {
+  "street": "Avenue des Alpes",
+  "hn": "112",
+  "lat": 46.4387128,
+  "lng": 6.9082239,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|110": {
+  "street": "Avenue des Alpes",
+  "hn": "110",
+  "lat": 46.4384807,
+  "lng": 6.9083071,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|98": {
+  "street": "Avenue des Alpes",
+  "hn": "98",
+  "lat": 46.4379298,
+  "lng": 6.9088202,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|23": {
+  "street": "Avenue des Alpes",
+  "hn": "23",
+  "lat": 46.4336435,
+  "lng": 6.9107576,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|17bis": {
+  "street": "Avenue des Alpes",
+  "hn": "17bis",
+  "lat": 46.4332579,
+  "lng": 6.9108695,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|64": {
+  "street": "Avenue des Alpes",
+  "hn": "64",
+  "lat": 46.434488,
+  "lng": 6.9110876,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|66": {
+  "street": "Avenue des Alpes",
+  "hn": "66",
+  "lat": 46.4346051,
+  "lng": 6.9108935,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|62": {
+  "street": "Avenue des Alpes",
+  "hn": "62",
+  "lat": 46.4342194,
+  "lng": 6.9109681,
+  "mieter": [
+   "Tea-room des Alpes"
+  ]
+ },
+ "montreux|avenue des alpes|60": {
+  "street": "Avenue des Alpes",
+  "hn": "60",
+  "lat": 46.4340729,
+  "lng": 6.9110319,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|86": {
+  "street": "Avenue des Alpes",
+  "hn": "86",
+  "lat": 46.4368936,
+  "lng": 6.9096128,
+  "mieter": []
+ },
+ "montreux|avenue des alpes|88": {
+  "street": "Avenue des Alpes",
+  "hn": "88",
+  "lat": 46.4369237,
+  "lng": 6.9097096,
+  "mieter": []
+ },
+ "montreux|avenue du casino|44bis": {
+  "street": "Avenue du Casino",
+  "hn": "44bis",
+  "lat": 46.4308049,
+  "lng": 6.911858,
+  "mieter": []
+ },
+ "montreux|avenue du casino|19": {
+  "street": "Avenue du Casino",
+  "hn": "19",
+  "lat": 46.4301542,
+  "lng": 6.9139127,
+  "mieter": []
+ }
+}

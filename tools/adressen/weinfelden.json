@@ -1,0 +1,1399 @@
+{
+ "weinfelden|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 47.5658415,
+  "lng": 9.1079733,
+  "mieter": [
+   "Gasthof Eisenbahn"
+  ]
+ },
+ "weinfelden|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 47.566659,
+  "lng": 9.1066201,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "weinfelden|wilerstrasse|11": {
+  "street": "Wilerstrasse",
+  "hn": "11",
+  "lat": 47.5641058,
+  "lng": 9.1082947,
+  "mieter": [
+   "Grüner Baum"
+  ]
+ },
+ "weinfelden|wilerstrasse|8": {
+  "street": "Wilerstrasse",
+  "hn": "8",
+  "lat": 47.5647012,
+  "lng": 9.1079874,
+  "mieter": [
+   "Pulcinella"
+  ]
+ },
+ "weinfelden|rathausstrasse|11": {
+  "street": "Rathausstrasse",
+  "hn": "11",
+  "lat": 47.5677353,
+  "lng": 9.10932,
+  "mieter": [
+   "UBS"
+  ]
+ },
+ "weinfelden|frauenfelderstrasse|50": {
+  "street": "Frauenfelderstrasse",
+  "hn": "50",
+  "lat": 47.5698497,
+  "lng": 9.1066232,
+  "mieter": [
+   "Nelson Pub"
+  ]
+ },
+ "weinfelden|bahnhofstrasse|1a": {
+  "street": "Bahnhofstrasse",
+  "hn": "1a",
+  "lat": 47.5669237,
+  "lng": 9.1062011,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 47.5671903,
+  "lng": 9.106196,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 47.5675166,
+  "lng": 9.1062399,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 47.5677427,
+  "lng": 9.1063372,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 47.5679247,
+  "lng": 9.1063776,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 47.5684161,
+  "lng": 9.1064648,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 47.5660175,
+  "lng": 9.1074604,
+  "mieter": [
+   "House of Sweets"
+  ]
+ },
+ "weinfelden|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 47.5659969,
+  "lng": 9.1076178,
+  "mieter": [
+   "Lehmann shop - Bio uf dä Weg"
+  ]
+ },
+ "weinfelden|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 47.5664118,
+  "lng": 9.1070041,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.567348,
+  "lng": 9.1066275,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 47.567744,
+  "lng": 9.1066945,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 47.5680291,
+  "lng": 9.1067516,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|22": {
+  "street": "Bahnhofstrasse",
+  "hn": "22",
+  "lat": 47.5683883,
+  "lng": 9.1069016,
+  "mieter": [
+   "Swica"
+  ]
+ },
+ "weinfelden|bahnhofstrasse|20": {
+  "street": "Bahnhofstrasse",
+  "hn": "20",
+  "lat": 47.568197,
+  "lng": 9.1067853,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|26": {
+  "street": "Bahnhofstrasse",
+  "hn": "26",
+  "lat": 47.5693424,
+  "lng": 9.1073962,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|28": {
+  "street": "Bahnhofstrasse",
+  "hn": "28",
+  "lat": 47.5695288,
+  "lng": 9.1072783,
+  "mieter": [
+   "Floristik-Design Reitinger"
+  ]
+ },
+ "weinfelden|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 47.5687814,
+  "lng": 9.106543,
+  "mieter": [
+   "Fachzahnarzt für Kieferorthopädie"
+  ]
+ },
+ "weinfelden|bahnhofstrasse|19": {
+  "street": "Bahnhofstrasse",
+  "hn": "19",
+  "lat": 47.5694025,
+  "lng": 9.1068834,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 47.5695904,
+  "lng": 9.1070157,
+  "mieter": [
+   "Coiffure Colada"
+  ]
+ },
+ "weinfelden|marktplatz|3": {
+  "street": "Marktplatz",
+  "hn": "3",
+  "lat": 47.5673968,
+  "lng": 9.1099205,
+  "mieter": [
+   "Medbase Weinfelden"
+  ]
+ },
+ "weinfelden|marktplatz|5": {
+  "street": "Marktplatz",
+  "hn": "5",
+  "lat": 47.5672904,
+  "lng": 9.1102,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|48": {
+  "street": "Frauenfelderstrasse",
+  "hn": "48",
+  "lat": 47.5698348,
+  "lng": 9.1068111,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|46": {
+  "street": "Frauenfelderstrasse",
+  "hn": "46",
+  "lat": 47.5698837,
+  "lng": 9.1070782,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|44": {
+  "street": "Frauenfelderstrasse",
+  "hn": "44",
+  "lat": 47.5697536,
+  "lng": 9.1071995,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|40": {
+  "street": "Frauenfelderstrasse",
+  "hn": "40",
+  "lat": 47.5696658,
+  "lng": 9.107824,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|54": {
+  "street": "Frauenfelderstrasse",
+  "hn": "54",
+  "lat": 47.5698961,
+  "lng": 9.1064942,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|56": {
+  "street": "Frauenfelderstrasse",
+  "hn": "56",
+  "lat": 47.5700177,
+  "lng": 9.106383,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|43": {
+  "street": "Bahnhofstrasse",
+  "hn": "43",
+  "lat": 47.5695682,
+  "lng": 9.1074888,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|5": {
+  "street": "Frauenfelderstrasse",
+  "hn": "5",
+  "lat": 47.5690051,
+  "lng": 9.1091175,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|2": {
+  "street": "Frauenfelderstrasse",
+  "hn": "2",
+  "lat": 47.568645,
+  "lng": 9.1099414,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|2": {
+  "street": "Rathausstrasse",
+  "hn": "2",
+  "lat": 47.5686088,
+  "lng": 9.1095501,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|10": {
+  "street": "Frauenfelderstrasse",
+  "hn": "10",
+  "lat": 47.5691732,
+  "lng": 9.1092407,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|1": {
+  "street": "Rathausstrasse",
+  "hn": "1",
+  "lat": 47.5683132,
+  "lng": 9.1099067,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|5": {
+  "street": "Rathausstrasse",
+  "hn": "5",
+  "lat": 47.5681411,
+  "lng": 9.1096356,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|7": {
+  "street": "Rathausstrasse",
+  "hn": "7",
+  "lat": 47.5680725,
+  "lng": 9.1095894,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|9": {
+  "street": "Rathausstrasse",
+  "hn": "9",
+  "lat": 47.5679881,
+  "lng": 9.1095236,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|8": {
+  "street": "Rathausstrasse",
+  "hn": "8",
+  "lat": 47.568356,
+  "lng": 9.1094736,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|10": {
+  "street": "Rathausstrasse",
+  "hn": "10",
+  "lat": 47.5682976,
+  "lng": 9.1094206,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|12": {
+  "street": "Rathausstrasse",
+  "hn": "12",
+  "lat": 47.5682446,
+  "lng": 9.1093805,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|14": {
+  "street": "Rathausstrasse",
+  "hn": "14",
+  "lat": 47.56816,
+  "lng": 9.1093177,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|16": {
+  "street": "Rathausstrasse",
+  "hn": "16",
+  "lat": 47.5680661,
+  "lng": 9.1092396,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|18": {
+  "street": "Rathausstrasse",
+  "hn": "18",
+  "lat": 47.567724,
+  "lng": 9.1089239,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|12": {
+  "street": "Frauenfelderstrasse",
+  "hn": "12",
+  "lat": 47.5692129,
+  "lng": 9.1090874,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|14": {
+  "street": "Frauenfelderstrasse",
+  "hn": "14",
+  "lat": 47.5693169,
+  "lng": 9.1090072,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|16": {
+  "street": "Frauenfelderstrasse",
+  "hn": "16",
+  "lat": 47.5696605,
+  "lng": 9.1092758,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|18": {
+  "street": "Frauenfelderstrasse",
+  "hn": "18",
+  "lat": 47.5694432,
+  "lng": 9.1089138,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|20": {
+  "street": "Frauenfelderstrasse",
+  "hn": "20",
+  "lat": 47.5694462,
+  "lng": 9.1087206,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|20a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "20a",
+  "lat": 47.5695572,
+  "lng": 9.1087437,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|22": {
+  "street": "Frauenfelderstrasse",
+  "hn": "22",
+  "lat": 47.569444,
+  "lng": 9.1084805,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|24": {
+  "street": "Frauenfelderstrasse",
+  "hn": "24",
+  "lat": 47.5697247,
+  "lng": 9.1086268,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|26": {
+  "street": "Frauenfelderstrasse",
+  "hn": "26",
+  "lat": 47.5698143,
+  "lng": 9.1085966,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|30": {
+  "street": "Frauenfelderstrasse",
+  "hn": "30",
+  "lat": 47.5697548,
+  "lng": 9.1084445,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|32": {
+  "street": "Frauenfelderstrasse",
+  "hn": "32",
+  "lat": 47.5695002,
+  "lng": 9.10829,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|38": {
+  "street": "Frauenfelderstrasse",
+  "hn": "38",
+  "lat": 47.5695661,
+  "lng": 9.1078807,
+  "mieter": [
+   "Hairstiling Olivia"
+  ]
+ },
+ "weinfelden|frauenfelderstrasse|7": {
+  "street": "Frauenfelderstrasse",
+  "hn": "7",
+  "lat": 47.5690837,
+  "lng": 9.1090381,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|9": {
+  "street": "Frauenfelderstrasse",
+  "hn": "9",
+  "lat": 47.5691224,
+  "lng": 9.1089462,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|11": {
+  "street": "Frauenfelderstrasse",
+  "hn": "11",
+  "lat": 47.5691654,
+  "lng": 9.1088464,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|13": {
+  "street": "Frauenfelderstrasse",
+  "hn": "13",
+  "lat": 47.5691687,
+  "lng": 9.1087324,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|15": {
+  "street": "Frauenfelderstrasse",
+  "hn": "15",
+  "lat": 47.5692105,
+  "lng": 9.108665,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|17": {
+  "street": "Frauenfelderstrasse",
+  "hn": "17",
+  "lat": 47.5692359,
+  "lng": 9.1085749,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|19": {
+  "street": "Frauenfelderstrasse",
+  "hn": "19",
+  "lat": 47.5692162,
+  "lng": 9.1084303,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|21": {
+  "street": "Frauenfelderstrasse",
+  "hn": "21",
+  "lat": 47.5692995,
+  "lng": 9.1082742,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|23": {
+  "street": "Frauenfelderstrasse",
+  "hn": "23",
+  "lat": 47.5690977,
+  "lng": 9.1080072,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|29": {
+  "street": "Frauenfelderstrasse",
+  "hn": "29",
+  "lat": 47.5689776,
+  "lng": 9.107597,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|35": {
+  "street": "Frauenfelderstrasse",
+  "hn": "35",
+  "lat": 47.5692391,
+  "lng": 9.1079314,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|37": {
+  "street": "Frauenfelderstrasse",
+  "hn": "37",
+  "lat": 47.5694481,
+  "lng": 9.1078202,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|41": {
+  "street": "Bahnhofstrasse",
+  "hn": "41",
+  "lat": 47.5695348,
+  "lng": 9.1076028,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|45": {
+  "street": "Frauenfelderstrasse",
+  "hn": "45",
+  "lat": 47.5696214,
+  "lng": 9.1068455,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|47": {
+  "street": "Frauenfelderstrasse",
+  "hn": "47",
+  "lat": 47.5696919,
+  "lng": 9.1066928,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|47a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "47a",
+  "lat": 47.5695004,
+  "lng": 9.1065992,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|51": {
+  "street": "Frauenfelderstrasse",
+  "hn": "51",
+  "lat": 47.5697514,
+  "lng": 9.1061316,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|55": {
+  "street": "Frauenfelderstrasse",
+  "hn": "55",
+  "lat": 47.5698274,
+  "lng": 9.1059545,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|58": {
+  "street": "Frauenfelderstrasse",
+  "hn": "58",
+  "lat": 47.5700883,
+  "lng": 9.1058826,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|58a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "58a",
+  "lat": 47.5702483,
+  "lng": 9.1059182,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|60": {
+  "street": "Frauenfelderstrasse",
+  "hn": "60",
+  "lat": 47.5701033,
+  "lng": 9.1054525,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|60a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "60a",
+  "lat": 47.570136,
+  "lng": 9.1052279,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|49": {
+  "street": "Frauenfelderstrasse",
+  "hn": "49",
+  "lat": 47.5696806,
+  "lng": 9.1064464,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|49a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "49a",
+  "lat": 47.5695815,
+  "lng": 9.1062039,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|49b": {
+  "street": "Frauenfelderstrasse",
+  "hn": "49b",
+  "lat": 47.5695628,
+  "lng": 9.1062958,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|8": {
+  "street": "Frauenfelderstrasse",
+  "hn": "8",
+  "lat": 47.5690325,
+  "lng": 9.1094175,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|57": {
+  "street": "Frauenfelderstrasse",
+  "hn": "57",
+  "lat": 47.5697362,
+  "lng": 9.1055462,
+  "mieter": [
+   "Storchen"
+  ]
+ },
+ "weinfelden|rathausstrasse|17": {
+  "street": "Rathausstrasse",
+  "hn": "17",
+  "lat": 47.5669196,
+  "lng": 9.1093949,
+  "mieter": [
+   "Müller",
+   "Neuroth"
+  ]
+ },
+ "weinfelden|rathausstrasse|22": {
+  "street": "Rathausstrasse",
+  "hn": "22",
+  "lat": 47.5671229,
+  "lng": 9.1082093,
+  "mieter": [
+   "Pestalozzi- Schulhaus"
+  ]
+ },
+ "weinfelden|rathausstrasse|26": {
+  "street": "Rathausstrasse",
+  "hn": "26",
+  "lat": 47.5668899,
+  "lng": 9.108531,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|28": {
+  "street": "Rathausstrasse",
+  "hn": "28",
+  "lat": 47.5667805,
+  "lng": 9.1084784,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|30": {
+  "street": "Rathausstrasse",
+  "hn": "30",
+  "lat": 47.5666752,
+  "lng": 9.1084266,
+  "mieter": [
+   "Salt"
+  ]
+ },
+ "weinfelden|rathausstrasse|32": {
+  "street": "Rathausstrasse",
+  "hn": "32",
+  "lat": 47.5665776,
+  "lng": 9.1083822,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|34": {
+  "street": "Rathausstrasse",
+  "hn": "34",
+  "lat": 47.5664712,
+  "lng": 9.1083635,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|36": {
+  "street": "Rathausstrasse",
+  "hn": "36",
+  "lat": 47.5662628,
+  "lng": 9.1083251,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|42": {
+  "street": "Rathausstrasse",
+  "hn": "42",
+  "lat": 47.5660094,
+  "lng": 9.1082506,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|61": {
+  "street": "Frauenfelderstrasse",
+  "hn": "61",
+  "lat": 47.5698537,
+  "lng": 9.105284,
+  "mieter": [
+   "Velo Schwarz AG"
+  ]
+ },
+ "weinfelden|frauenfelderstrasse|62": {
+  "street": "Frauenfelderstrasse",
+  "hn": "62",
+  "lat": 47.5703458,
+  "lng": 9.1055106,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|62a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "62a",
+  "lat": 47.5704053,
+  "lng": 9.1052745,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|59": {
+  "street": "Frauenfelderstrasse",
+  "hn": "59",
+  "lat": 47.5697912,
+  "lng": 9.1054193,
+  "mieter": [
+   "hair.women"
+  ]
+ },
+ "weinfelden|marktplatz|1": {
+  "street": "Marktplatz",
+  "hn": "1",
+  "lat": 47.5675755,
+  "lng": 9.1095316,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|53": {
+  "street": "Frauenfelderstrasse",
+  "hn": "53",
+  "lat": 47.5697929,
+  "lng": 9.1060427,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|37": {
+  "street": "Rathausstrasse",
+  "hn": "37",
+  "lat": 47.5662306,
+  "lng": 9.1085655,
+  "mieter": [
+   "Hurtado"
+  ]
+ },
+ "weinfelden|rathausstrasse|33": {
+  "street": "Rathausstrasse",
+  "hn": "33",
+  "lat": 47.566458,
+  "lng": 9.1085982,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|35": {
+  "street": "Rathausstrasse",
+  "hn": "35",
+  "lat": 47.566353,
+  "lng": 9.1085756,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|39": {
+  "street": "Rathausstrasse",
+  "hn": "39",
+  "lat": 47.5661097,
+  "lng": 9.1086098,
+  "mieter": [
+   "Steffen Clair und Richard"
+  ]
+ },
+ "weinfelden|frauenfelderstrasse|3": {
+  "street": "Frauenfelderstrasse",
+  "hn": "3",
+  "lat": 47.568892,
+  "lng": 9.1092544,
+  "mieter": [
+   "Siemis Restaurant"
+  ]
+ },
+ "weinfelden|rathausstrasse|13": {
+  "street": "Rathausstrasse",
+  "hn": "13",
+  "lat": 47.5671268,
+  "lng": 9.1088528,
+  "mieter": [
+   "Kostbar"
+  ]
+ },
+ "weinfelden|bahnhofstrasse|24a": {
+  "street": "Bahnhofstrasse",
+  "hn": "24a",
+  "lat": 47.5690723,
+  "lng": 9.1071644,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|24": {
+  "street": "Bahnhofstrasse",
+  "hn": "24",
+  "lat": 47.5689537,
+  "lng": 9.1071291,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|24b": {
+  "street": "Bahnhofstrasse",
+  "hn": "24b",
+  "lat": 47.569114,
+  "lng": 9.1070392,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|46a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "46a",
+  "lat": 47.5700709,
+  "lng": 9.1072511,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|28": {
+  "street": "Frauenfelderstrasse",
+  "hn": "28",
+  "lat": 47.5697887,
+  "lng": 9.1086754,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|38": {
+  "street": "Rathausstrasse",
+  "hn": "38",
+  "lat": 47.5661549,
+  "lng": 9.108301,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|40": {
+  "street": "Rathausstrasse",
+  "hn": "40",
+  "lat": 47.5661055,
+  "lng": 9.1082765,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|52": {
+  "street": "Frauenfelderstrasse",
+  "hn": "52",
+  "lat": 47.569876,
+  "lng": 9.1065758,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|49c": {
+  "street": "Frauenfelderstrasse",
+  "hn": "49c",
+  "lat": 47.5695401,
+  "lng": 9.1063887,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 47.5681344,
+  "lng": 9.1061728,
+  "mieter": [
+   "Amplifon"
+  ]
+ },
+ "weinfelden|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 47.5567251,
+  "lng": 9.0838123,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|17a": {
+  "street": "Wilerstrasse",
+  "hn": "17a",
+  "lat": 47.5636531,
+  "lng": 9.1089333,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|17b": {
+  "street": "Wilerstrasse",
+  "hn": "17b",
+  "lat": 47.5636187,
+  "lng": 9.1091163,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|4": {
+  "street": "Frauenfelderstrasse",
+  "hn": "4",
+  "lat": 47.5688619,
+  "lng": 9.1097226,
+  "mieter": [
+   "Wein & mehr GmbH"
+  ]
+ },
+ "weinfelden|frauenfelderstrasse|70": {
+  "street": "Frauenfelderstrasse",
+  "hn": "70",
+  "lat": 47.5704586,
+  "lng": 9.1035943,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|70a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "70a",
+  "lat": 47.5706558,
+  "lng": 9.1036533,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|68": {
+  "street": "Frauenfelderstrasse",
+  "hn": "68",
+  "lat": 47.5706956,
+  "lng": 9.1040234,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|66": {
+  "street": "Frauenfelderstrasse",
+  "hn": "66",
+  "lat": 47.5703509,
+  "lng": 9.1043225,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|66a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "66a",
+  "lat": 47.5705518,
+  "lng": 9.1043708,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|64": {
+  "street": "Frauenfelderstrasse",
+  "hn": "64",
+  "lat": 47.5702658,
+  "lng": 9.1048241,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|64a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "64a",
+  "lat": 47.5704749,
+  "lng": 9.1049314,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|88": {
+  "street": "Frauenfelderstrasse",
+  "hn": "88",
+  "lat": 47.5708959,
+  "lng": 9.0999216,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|26": {
+  "street": "Wilerstrasse",
+  "hn": "26",
+  "lat": 47.5614457,
+  "lng": 9.1066021,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|63": {
+  "street": "Frauenfelderstrasse",
+  "hn": "63",
+  "lat": 47.5698896,
+  "lng": 9.1049308,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|18": {
+  "street": "Wilerstrasse",
+  "hn": "18",
+  "lat": 47.5635165,
+  "lng": 9.1079114,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|22": {
+  "street": "Wilerstrasse",
+  "hn": "22",
+  "lat": 47.5626919,
+  "lng": 9.1075972,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|25": {
+  "street": "Wilerstrasse",
+  "hn": "25",
+  "lat": 47.5623402,
+  "lng": 9.1079757,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|6a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "6a",
+  "lat": 47.5691064,
+  "lng": 9.1098562,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|37": {
+  "street": "Wilerstrasse",
+  "hn": "37",
+  "lat": 47.5599548,
+  "lng": 9.107428,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|35": {
+  "street": "Wilerstrasse",
+  "hn": "35",
+  "lat": 47.5600814,
+  "lng": 9.1071312,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|39": {
+  "street": "Wilerstrasse",
+  "hn": "39",
+  "lat": 47.5596444,
+  "lng": 9.1071556,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|41": {
+  "street": "Wilerstrasse",
+  "hn": "41",
+  "lat": 47.5595577,
+  "lng": 9.106549,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|45": {
+  "street": "Wilerstrasse",
+  "hn": "45",
+  "lat": 47.5593015,
+  "lng": 9.1063657,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|24": {
+  "street": "Wilerstrasse",
+  "hn": "24",
+  "lat": 47.5620652,
+  "lng": 9.1073716,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|4a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "4a",
+  "lat": 47.5690164,
+  "lng": 9.1099518,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|6": {
+  "street": "Frauenfelderstrasse",
+  "hn": "6",
+  "lat": 47.5689613,
+  "lng": 9.1096594,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|34": {
+  "street": "Frauenfelderstrasse",
+  "hn": "34",
+  "lat": 47.5695402,
+  "lng": 9.1080127,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|32a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "32a",
+  "lat": 47.5697042,
+  "lng": 9.1081586,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|24c": {
+  "street": "Bahnhofstrasse",
+  "hn": "24c",
+  "lat": 47.5693184,
+  "lng": 9.1071149,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|15": {
+  "street": "Rathausstrasse",
+  "hn": "15",
+  "lat": 47.5670214,
+  "lng": 9.1088788,
+  "mieter": []
+ },
+ "weinfelden|rathausstrasse|20": {
+  "street": "Rathausstrasse",
+  "hn": "20",
+  "lat": 47.5676414,
+  "lng": 9.1088051,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 47.5661485,
+  "lng": 9.1072824,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 47.5691123,
+  "lng": 9.1066706,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|111": {
+  "street": "Frauenfelderstrasse",
+  "hn": "111",
+  "lat": 47.5704709,
+  "lng": 9.1008787,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|107": {
+  "street": "Frauenfelderstrasse",
+  "hn": "107",
+  "lat": 47.5704227,
+  "lng": 9.1011911,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|80": {
+  "street": "Frauenfelderstrasse",
+  "hn": "80",
+  "lat": 47.5706904,
+  "lng": 9.1013962,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|84": {
+  "street": "Frauenfelderstrasse",
+  "hn": "84",
+  "lat": 47.5709824,
+  "lng": 9.1003886,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|82a": {
+  "street": "Frauenfelderstrasse",
+  "hn": "82a",
+  "lat": 47.5708266,
+  "lng": 9.1008769,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|42": {
+  "street": "Wilerstrasse",
+  "hn": "42",
+  "lat": 47.5568421,
+  "lng": 9.1040328,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|9": {
+  "street": "Wilerstrasse",
+  "hn": "9",
+  "lat": 47.5642677,
+  "lng": 9.1083872,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|19": {
+  "street": "Wilerstrasse",
+  "hn": "19",
+  "lat": 47.563507,
+  "lng": 9.1084421,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|21": {
+  "street": "Wilerstrasse",
+  "hn": "21",
+  "lat": 47.5633117,
+  "lng": 9.1085117,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|14": {
+  "street": "Wilerstrasse",
+  "hn": "14",
+  "lat": 47.5642751,
+  "lng": 9.108014,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|15": {
+  "street": "Wilerstrasse",
+  "hn": "15",
+  "lat": 47.5638681,
+  "lng": 9.1086966,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|12": {
+  "street": "Wilerstrasse",
+  "hn": "12",
+  "lat": 47.5644158,
+  "lng": 9.1079595,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|10": {
+  "street": "Wilerstrasse",
+  "hn": "10",
+  "lat": 47.5645413,
+  "lng": 9.1080076,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|17": {
+  "street": "Wilerstrasse",
+  "hn": "17",
+  "lat": 47.5637292,
+  "lng": 9.108486,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|16": {
+  "street": "Wilerstrasse",
+  "hn": "16",
+  "lat": 47.5641162,
+  "lng": 9.1079584,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|13": {
+  "street": "Wilerstrasse",
+  "hn": "13",
+  "lat": 47.5639458,
+  "lng": 9.1083644,
+  "mieter": []
+ },
+ "weinfelden|wilerstrasse|6": {
+  "street": "Wilerstrasse",
+  "hn": "6",
+  "lat": 47.5648381,
+  "lng": 9.10799,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|20a": {
+  "street": "Bahnhofstrasse",
+  "hn": "20a",
+  "lat": 47.5681723,
+  "lng": 9.1070902,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|39": {
+  "street": "Frauenfelderstrasse",
+  "hn": "39",
+  "lat": 47.569493,
+  "lng": 9.1076908,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|81": {
+  "street": "Frauenfelderstrasse",
+  "hn": "81",
+  "lat": 47.570202,
+  "lng": 9.1025868,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|75": {
+  "street": "Frauenfelderstrasse",
+  "hn": "75",
+  "lat": 47.5701516,
+  "lng": 9.1028029,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|79": {
+  "street": "Frauenfelderstrasse",
+  "hn": "79",
+  "lat": 47.5701861,
+  "lng": 9.1026591,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|77": {
+  "street": "Frauenfelderstrasse",
+  "hn": "77",
+  "lat": 47.5701652,
+  "lng": 9.1027264,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|103": {
+  "street": "Frauenfelderstrasse",
+  "hn": "103",
+  "lat": 47.5703684,
+  "lng": 9.1013165,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|105": {
+  "street": "Frauenfelderstrasse",
+  "hn": "105",
+  "lat": 47.5704037,
+  "lng": 9.1012543,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|82": {
+  "street": "Frauenfelderstrasse",
+  "hn": "82",
+  "lat": 47.5707445,
+  "lng": 9.10105,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|83": {
+  "street": "Frauenfelderstrasse",
+  "hn": "83",
+  "lat": 47.5701848,
+  "lng": 9.1023276,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|85": {
+  "street": "Frauenfelderstrasse",
+  "hn": "85",
+  "lat": 47.5702049,
+  "lng": 9.1022601,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|87": {
+  "street": "Frauenfelderstrasse",
+  "hn": "87",
+  "lat": 47.570232,
+  "lng": 9.1021985,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|89": {
+  "street": "Frauenfelderstrasse",
+  "hn": "89",
+  "lat": 47.5702514,
+  "lng": 9.1021335,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|91": {
+  "street": "Frauenfelderstrasse",
+  "hn": "91",
+  "lat": 47.5702716,
+  "lng": 9.1020657,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|93": {
+  "street": "Frauenfelderstrasse",
+  "hn": "93",
+  "lat": 47.5702656,
+  "lng": 9.1018068,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|95": {
+  "street": "Frauenfelderstrasse",
+  "hn": "95",
+  "lat": 47.5702858,
+  "lng": 9.1017404,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|97": {
+  "street": "Frauenfelderstrasse",
+  "hn": "97",
+  "lat": 47.5703106,
+  "lng": 9.1016815,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|99": {
+  "street": "Frauenfelderstrasse",
+  "hn": "99",
+  "lat": 47.57033,
+  "lng": 9.1016179,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|101": {
+  "street": "Frauenfelderstrasse",
+  "hn": "101",
+  "lat": 47.5703501,
+  "lng": 9.1015517,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|109": {
+  "street": "Frauenfelderstrasse",
+  "hn": "109",
+  "lat": 47.5704523,
+  "lng": 9.1009731,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|113": {
+  "street": "Frauenfelderstrasse",
+  "hn": "113",
+  "lat": 47.5705602,
+  "lng": 9.1004825,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|115": {
+  "street": "Frauenfelderstrasse",
+  "hn": "115",
+  "lat": 47.5703293,
+  "lng": 9.1003192,
+  "mieter": []
+ },
+ "weinfelden|frauenfelderstrasse|117": {
+  "street": "Frauenfelderstrasse",
+  "hn": "117",
+  "lat": 47.5705815,
+  "lng": 9.1000748,
+  "mieter": []
+ },
+ "weinfelden|bahnhofstrasse|5a": {
+  "street": "Bahnhofstrasse",
+  "hn": "5a",
+  "lat": 47.5675798,
+  "lng": 9.1058365,
+  "mieter": []
+ }
+}

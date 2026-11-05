@@ -1,0 +1,935 @@
+{
+ "stans|dorfplatz|9": {
+  "street": "Dorfplatz",
+  "hn": "9",
+  "lat": 46.9573602,
+  "lng": 8.3653005,
+  "mieter": [
+   "Dorfplatz 9",
+   "Christen Beck"
+  ]
+ },
+ "stans|engelbergstrasse|37 a": {
+  "street": "Engelbergstrasse",
+  "hn": "37 A",
+  "lat": 46.9568406,
+  "lng": 8.3708705,
+  "mieter": [
+   "Achermann Sport"
+  ]
+ },
+ "stans|marktgasse|2": {
+  "street": "Marktgasse",
+  "hn": "2",
+  "lat": 46.9566476,
+  "lng": 8.3661994,
+  "mieter": [
+   "VOI"
+  ]
+ },
+ "stans|marktgasse|7": {
+  "street": "Marktgasse",
+  "hn": "7",
+  "lat": 46.9564051,
+  "lng": 8.3669712,
+  "mieter": [
+   "Papeterie Spichtig"
+  ]
+ },
+ "stans|engelbergstrasse|33": {
+  "street": "Engelbergstrasse",
+  "hn": "33",
+  "lat": 46.9568853,
+  "lng": 8.3697742,
+  "mieter": [
+   "Praxis \"Medwalden\""
+  ]
+ },
+ "stans|marktgasse|1": {
+  "street": "Marktgasse",
+  "hn": "1",
+  "lat": 46.9566764,
+  "lng": 8.3664949,
+  "mieter": [
+   "Neuroth"
+  ]
+ },
+ "stans|dorfplatz|6": {
+  "street": "Dorfplatz",
+  "hn": "6",
+  "lat": 46.9569447,
+  "lng": 8.3665308,
+  "mieter": [
+   "Praxis Dr. Wolfisberg"
+  ]
+ },
+ "stans|dorfplatz|2": {
+  "street": "Dorfplatz",
+  "hn": "2",
+  "lat": 46.9573793,
+  "lng": 8.3662098,
+  "mieter": [
+   "Staatskanzlei Kanton Nidwalden"
+  ]
+ },
+ "stans|dorfplatz|7": {
+  "street": "Dorfplatz",
+  "hn": "7",
+  "lat": 46.9567787,
+  "lng": 8.3663039,
+  "mieter": []
+ },
+ "stans|dorfplatz|7a": {
+  "street": "Dorfplatz",
+  "hn": "7a",
+  "lat": 46.9567069,
+  "lng": 8.3663268,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|54a": {
+  "street": "Engelbergstrasse",
+  "hn": "54a",
+  "lat": 46.9555782,
+  "lng": 8.372496,
+  "mieter": []
+ },
+ "stans|dorfplatz|5": {
+  "street": "Dorfplatz",
+  "hn": "5",
+  "lat": 46.9570456,
+  "lng": 8.3666556,
+  "mieter": [
+   "Coletta's Café Bar"
+  ]
+ },
+ "stans|bahnhofplatz|3": {
+  "street": "Bahnhofplatz",
+  "hn": "3",
+  "lat": 46.9588088,
+  "lng": 8.3670311,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|22": {
+  "street": "Engelbergstrasse",
+  "hn": "22",
+  "lat": 46.95673,
+  "lng": 8.368044,
+  "mieter": []
+ },
+ "stans|dorfplatz|1": {
+  "street": "Dorfplatz",
+  "hn": "1",
+  "lat": 46.9575346,
+  "lng": 8.3659509,
+  "mieter": []
+ },
+ "stans|knirigasse|1": {
+  "street": "Knirigasse",
+  "hn": "1",
+  "lat": 46.9564923,
+  "lng": 8.3653859,
+  "mieter": []
+ },
+ "stans|dorfplatz|8": {
+  "street": "Dorfplatz",
+  "hn": "8",
+  "lat": 46.9565958,
+  "lng": 8.3661327,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|7": {
+  "street": "Engelbergstrasse",
+  "hn": "7",
+  "lat": 46.9569177,
+  "lng": 8.367299,
+  "mieter": []
+ },
+ "stans|knirigasse|2": {
+  "street": "Knirigasse",
+  "hn": "2",
+  "lat": 46.9566521,
+  "lng": 8.3651028,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|14": {
+  "street": "Engelbergstrasse",
+  "hn": "14",
+  "lat": 46.956647,
+  "lng": 8.3675787,
+  "mieter": []
+ },
+ "stans|dorfplatz|4": {
+  "street": "Dorfplatz",
+  "hn": "4",
+  "lat": 46.9571202,
+  "lng": 8.3665685,
+  "mieter": []
+ },
+ "stans|dorfplatz|3": {
+  "street": "Dorfplatz",
+  "hn": "3",
+  "lat": 46.9572452,
+  "lng": 8.3664914,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|20": {
+  "street": "Engelbergstrasse",
+  "hn": "20",
+  "lat": 46.9567725,
+  "lng": 8.3678804,
+  "mieter": []
+ },
+ "stans|marktgasse|5": {
+  "street": "Marktgasse",
+  "hn": "5",
+  "lat": 46.9565437,
+  "lng": 8.3667869,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|40a": {
+  "street": "Engelbergstrasse",
+  "hn": "40a",
+  "lat": 46.9561646,
+  "lng": 8.3712141,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|15": {
+  "street": "Engelbergstrasse",
+  "hn": "15",
+  "lat": 46.9572454,
+  "lng": 8.369004,
+  "mieter": []
+ },
+ "stans|knirigasse|15": {
+  "street": "Knirigasse",
+  "hn": "15",
+  "lat": 46.9555823,
+  "lng": 8.3630852,
+  "mieter": []
+ },
+ "stans|knirigasse|22": {
+  "street": "Knirigasse",
+  "hn": "22",
+  "lat": 46.9554225,
+  "lng": 8.3602036,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|44a": {
+  "street": "Engelbergstrasse",
+  "hn": "44a",
+  "lat": 46.9560795,
+  "lng": 8.3719704,
+  "mieter": []
+ },
+ "stans|knirigasse|14": {
+  "street": "Knirigasse",
+  "hn": "14",
+  "lat": 46.9558579,
+  "lng": 8.3629637,
+  "mieter": []
+ },
+ "stans|knirigasse|27a": {
+  "street": "Knirigasse",
+  "hn": "27a",
+  "lat": 46.954911,
+  "lng": 8.360278,
+  "mieter": []
+ },
+ "stans|knirigasse|10": {
+  "street": "Knirigasse",
+  "hn": "10",
+  "lat": 46.9563713,
+  "lng": 8.3640796,
+  "mieter": []
+ },
+ "stans|knirigasse|6": {
+  "street": "Knirigasse",
+  "hn": "6",
+  "lat": 46.9566927,
+  "lng": 8.3644431,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|40": {
+  "street": "Engelbergstrasse",
+  "hn": "40",
+  "lat": 46.9565633,
+  "lng": 8.3710519,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|32": {
+  "street": "Engelbergstrasse",
+  "hn": "32",
+  "lat": 46.9566648,
+  "lng": 8.369519,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|39": {
+  "street": "Engelbergstrasse",
+  "hn": "39",
+  "lat": 46.9568294,
+  "lng": 8.3715277,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|37a": {
+  "street": "Engelbergstrasse",
+  "hn": "37a",
+  "lat": 46.9569322,
+  "lng": 8.3707709,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|34": {
+  "street": "Engelbergstrasse",
+  "hn": "34",
+  "lat": 46.9565001,
+  "lng": 8.3698256,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|85": {
+  "street": "Engelbergstrasse",
+  "hn": "85",
+  "lat": 46.9507031,
+  "lng": 8.3814963,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|88": {
+  "street": "Engelbergstrasse",
+  "hn": "88",
+  "lat": 46.9536656,
+  "lng": 8.3783287,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|94": {
+  "street": "Engelbergstrasse",
+  "hn": "94",
+  "lat": 46.9513464,
+  "lng": 8.377735,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|94a": {
+  "street": "Engelbergstrasse",
+  "hn": "94a",
+  "lat": 46.9511147,
+  "lng": 8.3778174,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|86": {
+  "street": "Engelbergstrasse",
+  "hn": "86",
+  "lat": 46.9537897,
+  "lng": 8.3785616,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|71": {
+  "street": "Engelbergstrasse",
+  "hn": "71",
+  "lat": 46.9562347,
+  "lng": 8.3765402,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|74": {
+  "street": "Engelbergstrasse",
+  "hn": "74",
+  "lat": 46.9558387,
+  "lng": 8.3766625,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|96": {
+  "street": "Engelbergstrasse",
+  "hn": "96",
+  "lat": 46.9509835,
+  "lng": 8.3803013,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|87": {
+  "street": "Engelbergstrasse",
+  "hn": "87",
+  "lat": 46.9506042,
+  "lng": 8.3816598,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|2": {
+  "street": "Engelbergstrasse",
+  "hn": "2",
+  "lat": 46.9551517,
+  "lng": 8.3786631,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|69": {
+  "street": "Engelbergstrasse",
+  "hn": "69",
+  "lat": 46.9563435,
+  "lng": 8.3762542,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|76": {
+  "street": "Engelbergstrasse",
+  "hn": "76",
+  "lat": 46.9556666,
+  "lng": 8.3768949,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|1": {
+  "street": "Engelbergstrasse",
+  "hn": "1",
+  "lat": 46.956272,
+  "lng": 8.3775143,
+  "mieter": []
+ },
+ "stans|knirigasse|26": {
+  "street": "Knirigasse",
+  "hn": "26",
+  "lat": 46.9550888,
+  "lng": 8.3577126,
+  "mieter": []
+ },
+ "stans|knirigasse|34": {
+  "street": "Knirigasse",
+  "hn": "34",
+  "lat": 46.9546602,
+  "lng": 8.3552012,
+  "mieter": []
+ },
+ "stans|knirigasse|51": {
+  "street": "Knirigasse",
+  "hn": "51",
+  "lat": 46.9537586,
+  "lng": 8.3529241,
+  "mieter": []
+ },
+ "stans|knirigasse|21": {
+  "street": "Knirigasse",
+  "hn": "21",
+  "lat": 46.9549095,
+  "lng": 8.3621406,
+  "mieter": []
+ },
+ "stans|knirigasse|19": {
+  "street": "Knirigasse",
+  "hn": "19",
+  "lat": 46.9548477,
+  "lng": 8.3624797,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|54c": {
+  "street": "Engelbergstrasse",
+  "hn": "54c",
+  "lat": 46.9551544,
+  "lng": 8.3730529,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|58": {
+  "street": "Engelbergstrasse",
+  "hn": "58",
+  "lat": 46.9563213,
+  "lng": 8.3736865,
+  "mieter": []
+ },
+ "stans|knirigasse|19a": {
+  "street": "Knirigasse",
+  "hn": "19a",
+  "lat": 46.9547276,
+  "lng": 8.3626604,
+  "mieter": []
+ },
+ "stans|knirigasse|23": {
+  "street": "Knirigasse",
+  "hn": "23",
+  "lat": 46.954122,
+  "lng": 8.3629913,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|6": {
+  "street": "Engelbergstrasse",
+  "hn": "6",
+  "lat": 46.9567586,
+  "lng": 8.3671618,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|54": {
+  "street": "Engelbergstrasse",
+  "hn": "54",
+  "lat": 46.9563063,
+  "lng": 8.373311,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|11": {
+  "street": "Engelbergstrasse",
+  "hn": "11",
+  "lat": 46.9571123,
+  "lng": 8.3683659,
+  "mieter": [
+   "Tellenmatt 3"
+  ]
+ },
+ "stans|engelbergstrasse|30": {
+  "street": "Engelbergstrasse",
+  "hn": "30",
+  "lat": 46.9567091,
+  "lng": 8.3692839,
+  "mieter": []
+ },
+ "stans|dorfplatz|13": {
+  "street": "Dorfplatz",
+  "hn": "13",
+  "lat": 46.9575197,
+  "lng": 8.3656277,
+  "mieter": []
+ },
+ "stans|dorfplatz|12": {
+  "street": "Dorfplatz",
+  "hn": "12",
+  "lat": 46.9575096,
+  "lng": 8.3653946,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|4": {
+  "street": "Engelbergstrasse",
+  "hn": "4",
+  "lat": 46.9567527,
+  "lng": 8.3669171,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|50": {
+  "street": "Engelbergstrasse",
+  "hn": "50",
+  "lat": 46.9563773,
+  "lng": 8.3725228,
+  "mieter": []
+ },
+ "stans|knirigasse|18": {
+  "street": "Knirigasse",
+  "hn": "18",
+  "lat": 46.9556094,
+  "lng": 8.3605574,
+  "mieter": []
+ },
+ "stans|knirigasse|20": {
+  "street": "Knirigasse",
+  "hn": "20",
+  "lat": 46.9556635,
+  "lng": 8.3604051,
+  "mieter": []
+ },
+ "stans|knirigasse|17a": {
+  "street": "Knirigasse",
+  "hn": "17a",
+  "lat": 46.9553773,
+  "lng": 8.3627824,
+  "mieter": []
+ },
+ "stans|knirigasse|24a": {
+  "street": "Knirigasse",
+  "hn": "24a",
+  "lat": 46.9552629,
+  "lng": 8.3599553,
+  "mieter": []
+ },
+ "stans|knirigasse|27": {
+  "street": "Knirigasse",
+  "hn": "27",
+  "lat": 46.9549108,
+  "lng": 8.3598777,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|3": {
+  "street": "Engelbergstrasse",
+  "hn": "3",
+  "lat": 46.9569305,
+  "lng": 8.366972,
+  "mieter": []
+ },
+ "stans|knirigasse|3": {
+  "street": "Knirigasse",
+  "hn": "3",
+  "lat": 46.9564087,
+  "lng": 8.3649572,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|23": {
+  "street": "Engelbergstrasse",
+  "hn": "23",
+  "lat": 46.9574191,
+  "lng": 8.3691535,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|73": {
+  "street": "Engelbergstrasse",
+  "hn": "73",
+  "lat": 46.9560451,
+  "lng": 8.3768141,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|35a": {
+  "street": "Engelbergstrasse",
+  "hn": "35a",
+  "lat": 46.9572283,
+  "lng": 8.3698329,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|42": {
+  "street": "Engelbergstrasse",
+  "hn": "42",
+  "lat": 46.9565462,
+  "lng": 8.3715874,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|25": {
+  "street": "Engelbergstrasse",
+  "hn": "25",
+  "lat": 46.9573384,
+  "lng": 8.3695237,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|35": {
+  "street": "Engelbergstrasse",
+  "hn": "35",
+  "lat": 46.9570817,
+  "lng": 8.3701458,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|42a": {
+  "street": "Engelbergstrasse",
+  "hn": "42a",
+  "lat": 46.9565617,
+  "lng": 8.371394,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|23a": {
+  "street": "Engelbergstrasse",
+  "hn": "23a",
+  "lat": 46.9574546,
+  "lng": 8.3689021,
+  "mieter": []
+ },
+ "stans|knirigasse|10a": {
+  "street": "Knirigasse",
+  "hn": "10a",
+  "lat": 46.9562334,
+  "lng": 8.3638141,
+  "mieter": []
+ },
+ "stans|knirigasse|13": {
+  "street": "Knirigasse",
+  "hn": "13",
+  "lat": 46.9557498,
+  "lng": 8.3632997,
+  "mieter": []
+ },
+ "stans|knirigasse|10b": {
+  "street": "Knirigasse",
+  "hn": "10b",
+  "lat": 46.9561492,
+  "lng": 8.3636704,
+  "mieter": []
+ },
+ "stans|knirigasse|11": {
+  "street": "Knirigasse",
+  "hn": "11",
+  "lat": 46.9558865,
+  "lng": 8.3636103,
+  "mieter": []
+ },
+ "stans|knirigasse|8": {
+  "street": "Knirigasse",
+  "hn": "8",
+  "lat": 46.9564966,
+  "lng": 8.3637492,
+  "mieter": []
+ },
+ "stans|bahnhofplatz|2": {
+  "street": "Bahnhofplatz",
+  "hn": "2",
+  "lat": 46.9584467,
+  "lng": 8.3665909,
+  "mieter": []
+ },
+ "stans|bahnhofplatz|4": {
+  "street": "Bahnhofplatz",
+  "hn": "4",
+  "lat": 46.9583642,
+  "lng": 8.3669184,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|5": {
+  "street": "Engelbergstrasse",
+  "hn": "5",
+  "lat": 46.9570833,
+  "lng": 8.3669267,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|62": {
+  "street": "Engelbergstrasse",
+  "hn": "62",
+  "lat": 46.9562771,
+  "lng": 8.3744331,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|60": {
+  "street": "Engelbergstrasse",
+  "hn": "60",
+  "lat": 46.9563975,
+  "lng": 8.3739968,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|44": {
+  "street": "Engelbergstrasse",
+  "hn": "44",
+  "lat": 46.9560149,
+  "lng": 8.3716274,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|46": {
+  "street": "Engelbergstrasse",
+  "hn": "46",
+  "lat": 46.9565213,
+  "lng": 8.3719364,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|52": {
+  "street": "Engelbergstrasse",
+  "hn": "52",
+  "lat": 46.9561555,
+  "lng": 8.3725067,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|38": {
+  "street": "Engelbergstrasse",
+  "hn": "38",
+  "lat": 46.9566238,
+  "lng": 8.3704323,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|28": {
+  "street": "Engelbergstrasse",
+  "hn": "28",
+  "lat": 46.9567348,
+  "lng": 8.3687111,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|21": {
+  "street": "Engelbergstrasse",
+  "hn": "21",
+  "lat": 46.9570668,
+  "lng": 8.3690836,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|28a": {
+  "street": "Engelbergstrasse",
+  "hn": "28a",
+  "lat": 46.9565926,
+  "lng": 8.368502,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|17": {
+  "street": "Engelbergstrasse",
+  "hn": "17",
+  "lat": 46.9568904,
+  "lng": 8.3687962,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|26": {
+  "street": "Engelbergstrasse",
+  "hn": "26",
+  "lat": 46.9567588,
+  "lng": 8.3683571,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|81": {
+  "street": "Engelbergstrasse",
+  "hn": "81",
+  "lat": 46.9530177,
+  "lng": 8.381526,
+  "mieter": []
+ },
+ "stans|knirigasse|8b": {
+  "street": "Knirigasse",
+  "hn": "8b",
+  "lat": 46.9570372,
+  "lng": 8.3610257,
+  "mieter": []
+ },
+ "stans|knirigasse|8a": {
+  "street": "Knirigasse",
+  "hn": "8a",
+  "lat": 46.9568868,
+  "lng": 8.3613261,
+  "mieter": []
+ },
+ "stans|knirigasse|4": {
+  "street": "Knirigasse",
+  "hn": "4",
+  "lat": 46.9568103,
+  "lng": 8.36468,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|19": {
+  "street": "Engelbergstrasse",
+  "hn": "19",
+  "lat": 46.9569381,
+  "lng": 8.3691085,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|37": {
+  "street": "Engelbergstrasse",
+  "hn": "37",
+  "lat": 46.9570769,
+  "lng": 8.3705646,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|29": {
+  "street": "Engelbergstrasse",
+  "hn": "29",
+  "lat": 46.9570033,
+  "lng": 8.3694675,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|31": {
+  "street": "Engelbergstrasse",
+  "hn": "31",
+  "lat": 46.9569472,
+  "lng": 8.369708,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|91": {
+  "street": "Engelbergstrasse",
+  "hn": "91",
+  "lat": 46.9494603,
+  "lng": 8.386767,
+  "mieter": []
+ },
+ "stans|knirigasse|5": {
+  "street": "Knirigasse",
+  "hn": "5",
+  "lat": 46.9562883,
+  "lng": 8.3644638,
+  "mieter": []
+ },
+ "stans|knirigasse|7": {
+  "street": "Knirigasse",
+  "hn": "7",
+  "lat": 46.956223,
+  "lng": 8.3642324,
+  "mieter": []
+ },
+ "stans|knirigasse|9": {
+  "street": "Knirigasse",
+  "hn": "9",
+  "lat": 46.9561009,
+  "lng": 8.3639063,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|12": {
+  "street": "Engelbergstrasse",
+  "hn": "12",
+  "lat": 46.9566614,
+  "lng": 8.3673909,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|10": {
+  "street": "Engelbergstrasse",
+  "hn": "10",
+  "lat": 46.9567889,
+  "lng": 8.3675403,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|46a": {
+  "street": "Engelbergstrasse",
+  "hn": "46a",
+  "lat": 46.9563886,
+  "lng": 8.3718703,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|8": {
+  "street": "Engelbergstrasse",
+  "hn": "8",
+  "lat": 46.956797,
+  "lng": 8.3674077,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|36": {
+  "street": "Engelbergstrasse",
+  "hn": "36",
+  "lat": 46.95664,
+  "lng": 8.370207,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|48a": {
+  "street": "Engelbergstrasse",
+  "hn": "48a",
+  "lat": 46.9563736,
+  "lng": 8.372219,
+  "mieter": []
+ },
+ "stans|marktgasse|4": {
+  "street": "Marktgasse",
+  "hn": "4",
+  "lat": 46.9563933,
+  "lng": 8.3665034,
+  "mieter": [
+   "Kantonsgericht Nidwalden"
+  ]
+ },
+ "stans|marktgasse|3": {
+  "street": "Marktgasse",
+  "hn": "3",
+  "lat": 46.9565947,
+  "lng": 8.3666843,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|6a": {
+  "street": "Engelbergstrasse",
+  "hn": "6a",
+  "lat": 46.9566892,
+  "lng": 8.3670909,
+  "mieter": []
+ },
+ "stans|knirigasse|8c": {
+  "street": "Knirigasse",
+  "hn": "8c",
+  "lat": 46.9567474,
+  "lng": 8.3612653,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|48": {
+  "street": "Engelbergstrasse",
+  "hn": "48",
+  "lat": 46.9564824,
+  "lng": 8.3722748,
+  "mieter": []
+ },
+ "stans|engelbergstrasse|18": {
+  "street": "Engelbergstrasse",
+  "hn": "18",
+  "lat": 46.956778,
+  "lng": 8.3677153,
+  "mieter": []
+ },
+ "stans|marktgasse|6": {
+  "street": "Marktgasse",
+  "hn": "6",
+  "lat": 46.956399,
+  "lng": 8.3667608,
+  "mieter": []
+ },
+ "stans|knirigasse|24b": {
+  "street": "Knirigasse",
+  "hn": "24b",
+  "lat": 46.9552986,
+  "lng": 8.3598935,
+  "mieter": []
+ },
+ "stans|knirigasse|17": {
+  "street": "Knirigasse",
+  "hn": "17",
+  "lat": 46.9554375,
+  "lng": 8.3628553,
+  "mieter": []
+ },
+ "stans|bahnhofplatz|1": {
+  "street": "Bahnhofplatz",
+  "hn": "1",
+  "lat": 46.9589563,
+  "lng": 8.3666703,
+  "mieter": []
+ }
+}

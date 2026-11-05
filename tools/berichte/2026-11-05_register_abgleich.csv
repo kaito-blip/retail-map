@@ -1,6 +1,32 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
-owner;lausanne|place saint-françois|5;PSP Real Estate AG;;Eigentümer lt. PSP Swiss Property: Geschäftsbericht 2025, Immobilienangaben S. 303–316 (31.12.2025), Alleineigentum
-owner;lausanne|rue william-haldimand|16;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland Commercial;;Eigentümer lt. UBS AST 4 Real Estate Switzerland Commercial: Data Report per 30.09.2025, Liegenschaftenverzeichnis S. 24 (2025-09-30)
+owner;aarau|bahnhofstrasse|26;BVK Personalvorsorge des Kantons Zürich;;"Eigentümer lt. BVK: BVK-Portal «Verfügbare Immobilien der BVK» (Flatfox-Auswahl 4413, abgerufen 05.11.2026), BVK-Liegenschaft Nr. 6120, Bewirtschaftung BVK; nur Objekte mit aktuellem Mietangebot (Teilmenge des Bestands) (05.11.2026), E-GRID CH715203237744"
+owner;aarau|bahnhofstrasse|28;BVK Personalvorsorge des Kantons Zürich;;"Eigentümer lt. BVK: BVK-Portal «Verfügbare Immobilien der BVK» (Flatfox-Auswahl 4413, abgerufen 05.11.2026), BVK-Liegenschaft Nr. 6120, Bewirtschaftung BVK, Privera AG; nur Objekte mit aktuellem Mietangebot (Teilmenge des Bestands) (05.11.2026), E-GRID CH715203237744"
+owner;aarau|igelweid|22;BVK Personalvorsorge des Kantons Zürich;;"Eigentümer lt. BVK: BVK-Portal «Verfügbare Immobilien der BVK» (Flatfox-Auswahl 4413, abgerufen 05.11.2026), BVK-Liegenschaft Nr. 6110, Bewirtschaftung Privera AG; nur Objekte mit aktuellem Mietangebot (Teilmenge des Bestands) (05.11.2026), E-GRID CH467723520733"
+owner;bern|marktgasse|49;Schroder Investment Management (Switzerland) AG für Schroder ImmoPLUS;;Eigentümer lt. Schroder ImmoPLUS: Ungeprüfter Halbjahresbericht 31.03.2026, Liegenschaftenverzeichnis S. 8–9 (2026-03-31), E-GRID CH213543467651
+hinweis;fribourg|avenue de la gare|1;;;"Register mehrdeutig, vermutlich: Schweizerische Bundesbahnen SBB / Zurich Invest AG für ZIF Immobilien Direkt Schweiz (Quellen: SBB: OGD Parzellen der SBB, Fribourg Parz. 7347 (EGRID CH131083941657), Adresse via amtl. Gebäudeadressverzeichnis (Punkt in Parzelle) (06.11.2023); ZIF Immobilien Direkt Schweiz: Jahresbericht 2025/2026 (30.06.2026), Liegenschafts- und Immobilienstruktur PDF-S. 35–36 (2026-06-30)), ungeprüft"
+owner;genf|rue du mont-blanc|21;Schroder Investment Management (Switzerland) AG für Schroder ImmoPLUS;;Eigentümer lt. Schroder ImmoPLUS: Ungeprüfter Halbjahresbericht 31.03.2026, Liegenschaftenverzeichnis S. 8–9 (2026-03-31), E-GRID CH988865638975
+owner;luzern|hertensteinstrasse|32;Schroder Investment Management (Switzerland) AG für Schroder ImmoPLUS;;Eigentümer lt. Schroder ImmoPLUS: Ungeprüfter Halbjahresbericht 31.03.2026, Liegenschaftenverzeichnis S. 8–9 (2026-03-31), E-GRID CH513562508845
+owner;wil|obere bahnhofstrasse|39;Schroder Investment Management (Switzerland) AG für Schroder ImmoPLUS;;Eigentümer lt. Schroder ImmoPLUS: Ungeprüfter Halbjahresbericht 31.03.2026, Liegenschaftenverzeichnis S. 8–9 (2026-03-31), Baurecht (marginaler Teil), E-GRID CH567793128293
+owner;winterthur|stadthausstrasse|10b;Schroder Investment Management (Switzerland) AG für Schroder ImmoPLUS;;Eigentümer lt. Schroder ImmoPLUS: Ungeprüfter Halbjahresbericht 31.03.2026, Liegenschaftenverzeichnis S. 8–9 (2026-03-31), E-GRID CH507708122048
+owner;zug|baarerstrasse|57;Zurich Invest AG für ZIF Immobilien Direkt Schweiz;;Eigentümer lt. ZIF Immobilien Direkt Schweiz: Jahresbericht 2025/2026 (30.06.2026), Liegenschafts- und Immobilienstruktur PDF-S. 35–36 (2026-06-30), Alleineigentum, E-GRID CH167406657271
+owner;zug|baarerstrasse|59;Zurich Invest AG für ZIF Immobilien Direkt Schweiz;;Eigentümer lt. ZIF Immobilien Direkt Schweiz: Jahresbericht 2025/2026 (30.06.2026), Liegenschafts- und Immobilienstruktur PDF-S. 35–36 (2026-06-30), Alleineigentum, E-GRID CH167406657271
+owner;zug|bahnhofstrasse|17;Schroder Investment Management (Switzerland) AG für Schroder ImmoPLUS;;Eigentümer lt. Schroder ImmoPLUS: Ungeprüfter Halbjahresbericht 31.03.2026, Liegenschaftenverzeichnis S. 8–9 (2026-03-31), E-GRID CH230674657546
+owner;zug|bahnhofstrasse|21;Zurich Invest AG für ZIF Immobilien Direkt Schweiz;;Eigentümer lt. ZIF Immobilien Direkt Schweiz: Jahresbericht 2025/2026 (30.06.2026), Liegenschafts- und Immobilienstruktur PDF-S. 35–36 (2026-06-30), Alleineigentum, E-GRID CH387506657406
+hinweis;zürich (kreis 1)|bahnhofstrasse|13;;;vermutlich Swiss Life AG (Vehikel nicht genannt) (Quelle: Swiss Life: NZZ, 17.04.2017, Wem die Zürcher Bahnhofstrasse gehört (Swiss Life erwarb von der ZKB die Nummern 17 und 13 ( NZZ 23.10.2024 bestätigt Kauf alter ZKB-Hauptsitz 2013) unbestätigt)), ungeprüft
+hinweis;zürich (kreis 1)|bahnhofstrasse|17;;;vermutlich John Latsis / Familie Latsis (Vehikel nicht genannt) (Quelle: Latsis: NZZ, 23.10.2024, Der König der Zürcher Bahnhofstrasse und seine Gegenspieler (Latsis besitzt Nr. 17, ehem. EFG, Mieter Graff ( Widerspruch NZZ 2017: Swiss Life von ZKB) unbestätigt)), ungeprüft
+hinweis;zürich (kreis 1)|bahnhofstrasse|21;;;vermutlich Familie der Inhaber der Confiserie Sprüngli (Vehikel nicht genannt) (Quelle: Sprüngli (Eigennutzer): NZZ, 23.10.2024, Der König der Zürcher Bahnhofstrasse und seine Gegenspieler (Haus im Besitz der Nachkommen der gegenwärtigen Geschäftsinhaber, z.B. Sprüngli am Paradeplatz ( juristische Person nicht genannt) bestätigt)), ungeprüft
+owner;zürich (kreis 1)|bahnhofstrasse|26;Schroder Investment Management (Switzerland) AG für Schroder ImmoPLUS;;Eigentümer lt. Schroder ImmoPLUS: Ungeprüfter Halbjahresbericht 31.03.2026, Liegenschaftenverzeichnis S. 8–9 (2026-03-31), E-GRID CH557099779108
+hinweis;zürich (kreis 1)|bahnhofstrasse|36;;;vermutlich Bank Julius Bär & Co. AG (Quelle: Julius Bär (Eigennutzer): finews, 15.09.2025, Bank Julius Bär: Hundert Jahre Bahnhofstrasse 36 (Kauf 1924 für CHF 1.3 Mio, Hauptsitz seit 1925 ( aktuelles Eigentum nicht explizit) unbestätigt)), ungeprüft
+hinweis;zürich (kreis 1)|bahnhofstrasse|38;;;vermutlich Bank Julius Bär & Co. AG (Quelle: Julius Bär: Bilanz, 17.05.2011, Luxusindustrie: Das Uhrenmekka (Liegenschaft Nr. 38 gehört der Bank Bär, Mieter Piaget) unbestätigt (2011-05-17)), ungeprüft
+hinweis;zürich (kreis 1)|bahnhofstrasse|45;;;vermutlich UBS AG (Quelle: UBS (Eigennutzer): Bilanz, 19.08.2014, CS und UBS: Die Immo-Tycoons (bankeigener Hauptsitz Bahnhofstrasse ( Gesamtsanierung durch UBS AG als Bauherrin 2015–2018 inkl. Nr. 47, Pelikanstrasse 5/9a) unbestätigt)), ungeprüft
+hinweis;zürich (kreis 1)|bahnhofstrasse|47;;;vermutlich UBS AG (Quelle: UBS (Eigennutzer): UBS Medienmitteilung, 30.11.2018, Headquarters and branch at Bahnhofstrasse reopen (Teil Hauptsitz-Komplex 45/47, Eigentum nicht explizit) unbestätigt (2018-11-30)), ungeprüft
+hinweis;zürich (kreis 1)|bahnhofstrasse|48;;;vermutlich Swiss Life (AG oder Fonds, nicht genannt) (Quelle: Swiss Life: NZZ, 23.10.2024, Der König der Zürcher Bahnhofstrasse und seine Gegenspieler (ehem. Broderie Sturzenegger, an Swiss Life verkauft, Mieter Omega) bestätigt (2024-10-23)), ungeprüft
+hinweis;zürich (kreis 1)|limmatquai|40;;;"vermutlich Stiftung Zunfthaus zur Zimmerleuten (bzw. Zunft zur Zimmerleuten) (Quelle: Zunft zur Zimmerleuten: HR-Auszug (onlineinfo), Stiftung Zunfthaus zur Zimmerleuten CHE-110.315.931 (Zweck: Mittel für Unterhalt Zunfthaus Kat. AA3452–AA3456 ( Eigentum nicht explizit) unbestätigt); Zunft zur Zimmerleuten: Website Zunft zur Zimmerleuten «Das Zunfthaus» (Zunft erwarb das Haus im 15. Jh., Zweck u.a. das Zunfthaus zu erhalten ( Eigentum heute nicht ausdrücklich genannt))), ungeprüft"
+hinweis;zürich (kreis 1)|limmatquai|55;;;vermutlich Kanton Zürich (Quelle: Kanton Zürich: Kanton Zürich Medienmitteilung, 28.10.2010, Rathaus (Mietvertrag Kanton→Stadt für Rathausnutzung) unbestätigt (2010-10-28)), ungeprüft
+hinweis;zürich (kreis 1)|löwenstrasse|31;;;vermutlich Genossenschaft Migros Zürich (Quelle: Migros Zürich (Eigennutzer): Föllmi Referenz, Umbau Migros City Löwenstrasse 31-35 (Bauherrin Genossenschaft Migros Zürich, Umbau 2014/15 ( Eigentum nicht explizit) unbestätigt)), ungeprüft
+hinweis;zürich (kreis 1)|löwenstrasse|33;;;vermutlich Genossenschaft Migros Zürich (Quelle: Migros Zürich (Eigennutzer): Föllmi Referenz, Umbau Migros City Löwenstrasse 31-35 (Bauherrin Genossenschaft Migros Zürich, Umbau 2014/15 ( Eigentum nicht explizit) unbestätigt)), ungeprüft
+hinweis;zürich (kreis 1)|löwenstrasse|35;;;vermutlich Genossenschaft Migros Zürich (Quelle: Migros Zürich (Eigennutzer): Föllmi Referenz, Umbau Migros City Löwenstrasse 31-35 (Bauherrin Genossenschaft Migros Zürich, Umbau 2014/15 ( Eigentum nicht explizit) unbestätigt)), ungeprüft
+hinweis;zürich (kreis 1)|rennweg|7;;;vermutlich Swiss Life AG (Quelle: Swiss Life: Keystone-SDA/Nau, 31.08.2018, UBS verkauft Widder Hotel an Swiss Life (mit Augustinerhof 1, Augustinergasse 15/20, Widdergasse 10 ( Betrieb IHAG/The Living Circle) unbestätigt)), ungeprüft
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -168,7 +194,6 @@ bestätigt;frauenfeld|zürcherstrasse|237a;;Novavest Real Estate AG;
 bestätigt;frauenfeld|zürcherstrasse|239;;Novavest Real Estate AG;
 bestätigt;frauenfeld|zürcherstrasse|268;;Fundamenta Real Estate AG;
 bestätigt;frauenfeld|zürcherstrasse|270;;Fundamenta Real Estate AG;
-bestätigt;fribourg|avenue de la gare|1;;Schweizerische Bundesbahnen SBB;
 bestätigt;fribourg|avenue de la gare|1a;;Schweizerische Bundesbahnen SBB;
 bestätigt;fribourg|avenue de la gare|1b;;Schweizerische Bundesbahnen SBB;
 bestätigt;fribourg|avenue de la gare|22;;Procimmo Real Estate SICAV, Teilvermögen «Industrial» (Fondsleitung Procimmo SA);
@@ -198,6 +223,7 @@ bestätigt;glarus|hauptstrasse|48;;BNP Paribas Asset Management Switzerland AG f
 bestätigt;interlaken|höheweg|74a;;Kanton Bern;
 bestätigt;kreuzlingen|bahnhofstrasse|12;;Schweizerische Bundesbahnen SBB;
 bestätigt;la chaux-de-fonds|avenue léopold-robert|25;;Cronos Finance SA für Cronos Immo Fund;
+bestätigt;lausanne|place saint-françois|5;;PSP Real Estate AG;
 bestätigt;lausanne|rue centrale|10;;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);
 bestätigt;lausanne|rue centrale|15;;PSP Real Estate AG;
 bestätigt;lausanne|rue centrale|17;;Investissements Fonciers SA für La Foncière (über 100%-Immobiliengesellschaften LA FONCIERE xx SA);
@@ -210,6 +236,7 @@ bestätigt;lausanne|rue de bourg|27;;Anlagestiftung Pensimo, Anlagegruppe Prorea
 bestätigt;lausanne|rue de bourg|30;;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);
 bestätigt;lausanne|rue de bourg|43;;Investissements Fonciers SA für La Foncière (über 100%-Immobiliengesellschaften LA FONCIERE xx SA);
 bestätigt;lausanne|rue du pont|1;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland;
+bestätigt;lausanne|rue william-haldimand|16;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland Commercial;
 bestätigt;liestal|bahnhofplatz|1;;Schweizerische Bundesbahnen SBB;
 bestätigt;liestal|bahnhofplatz|11;;Warteck Invest AG;
 bestätigt;liestal|bahnhofplatz|1d;;Schweizerische Bundesbahnen SBB;
@@ -389,6 +416,7 @@ bestätigt;zug|bahnhofstrasse|2;;Anlagestiftung Pensimo, Anlagegruppe Proreal;
 bestätigt;zürich (kreis 1)|bahnhofstrasse|10;;PSP Real Estate AG (Gruppe PSP Swiss Property AG), Alleineigentum;
 bestätigt;zürich (kreis 1)|bahnhofstrasse|106;;Swiss Prime Site Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Hardstrasse 201, 8005 Zürich, Schweiz, Alleineigentum;
 bestätigt;zürich (kreis 1)|bahnhofstrasse|28a;;PSP Properties AG (Gruppe PSP Swiss Property AG), Alleineigentum;
+bestätigt;zürich (kreis 1)|bahnhofstrasse|31;;UBS AG;
 bestätigt;zürich (kreis 1)|bahnhofstrasse|32;;Swiss Prime Anlagestiftung (SPA Immobilien Schweiz);
 bestätigt;zürich (kreis 1)|bahnhofstrasse|39;;PSP Real Estate AG (Gruppe PSP Swiss Property AG), Alleineigentum;
 bestätigt;zürich (kreis 1)|bahnhofstrasse|42;;Swiss Prime Site (Konzern), Alleineigentum;
@@ -403,9 +431,11 @@ bestätigt;zürich (kreis 1)|bahnhofstrasse|81;;PSP Properties AG, Seestrasse 35
 bestätigt;zürich (kreis 1)|limmatquai|122;;UBS (CH) Property Fund Swiss Mixed «Sima», Fondsleitung UBS Fund Management (Switzerland) AG;
 bestätigt;zürich (kreis 1)|limmatquai|144;;PSP Properties AG (Gruppe PSP Swiss Property AG), Alleineigentum;
 bestätigt;zürich (kreis 1)|limmatquai|4;;PSP Real Estate AG (Gruppe PSP Swiss Property AG), Alleineigentum;
+bestätigt;zürich (kreis 1)|limmatquai|42;;Genossenschaft zum Rüden (Gesellschaft zur Constaffel);
 bestätigt;zürich (kreis 1)|limmatquai|50;;AXA Anlagestiftung, AXA Immobilien Schweiz;
 bestätigt;zürich (kreis 1)|limmatquai|80;;UBS (CH) Property Fund Swiss Commercial «Interswiss», Fondsleitung UBS Fund Management (Switzerland) AG;
 bestätigt;zürich (kreis 1)|limmatquai|84;;CSA Real Estate Switzerland, Anlagegruppe der UBS Investment Foundation 4 (ex Credit Suisse Anlagestiftung);
+bestätigt;zürich (kreis 1)|löwenstrasse|11;;BVK Personalvorsorge des Kantons Zürich;
 bestätigt;zürich (kreis 1)|löwenstrasse|22;;PSP Real Estate AG (Gruppe PSP Swiss Property AG), Alleineigentum;
 bestätigt;zürich (kreis 1)|löwenstrasse|25;;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);
 bestätigt;zürich (kreis 1)|löwenstrasse|29;;UBS (CH) Property Fund Swiss Commercial «Interswiss», Fondsleitung UBS Fund Management (Switzerland) AG;

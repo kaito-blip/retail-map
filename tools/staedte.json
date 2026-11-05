@@ -1,1210 +1,1210 @@
 [
- {
-  "kanton": "ZH",
-  "stadt": "Zürich (Kreis 1)",
-  "ort": "Zürich",
-  "radius": 1300,
-  "strassen": [
-   "Bahnhofstrasse",
-   "Rennweg",
-   "Löwenstrasse",
-   "Limmatquai",
-   "Niederdorfstrasse"
-  ],
-  "strassen_ok": true,
-  "letzter_lauf": "2026-11-04",
-  "eigentuemer_quelle": "Grundbuch ZH (frühere Läufe); öffentliche Quellen 04.11.26: Liegenschafteninventar OGD Stadt Zürich, Geschäftsberichte PSP/SPS, Inventare AXA AST, UBS-Fonds, Swiss Life, CSA; Rest: GIS-Browser ZH (SMS, ca. 5/Tag) oder Notariat Zürich-Altstadt; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
-  "offen": "221"
- },
- {
-  "kanton": "GE",
-  "stadt": "Genf",
-  "ort": "Genève",
-  "radius": 1300,
-  "strassen": [
-   "Rue du Rhône",
-   "Rue du Marché",
-   "Rue de la Croix-d'Or",
-   "Rue de Rive",
-   "Rue du Mont-Blanc"
-  ],
-  "strassen_ok": true,
-  "letzter_lauf": "2026-11-03",
-  "eigentuemer_quelle": "Grundbuch GE Extrait foncier (frühere Einzelabfragen Kaito, Sept. 2026); SITG-Kataster Feld «Propriété publique» (öffentliche Eigentümer); Rest: Einzelabfrage ge.ch/terextraitfoncier mit Direktlinks; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 15",
-  "offen": "131"
- },
- {
-  "kanton": "BS",
-  "stadt": "Basel",
-  "ort": "Basel",
-  "radius": 1300,
-  "strassen": [
-   "Freie Strasse",
-   "Marktplatz",
-   "Eisengasse",
-   "Gerbergasse",
-   "Steinenvorstadt"
-  ],
-  "strassen_ok": true,
-  "letzter_lauf": "2026-11-03",
-  "eigentuemer_quelle": "MapBS Eigentumsauskunft (Kaito einzeln, 10/Tag); 2 aus öffentlichen Quellen; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 34",
-  "offen": "171"
- },
- {
-  "kanton": "BE",
-  "stadt": "Bern",
-  "ort": "Bern",
-  "radius": 1100,
-  "strassen": [
-   "Spitalgasse",
-   "Marktgasse",
-   "Kramgasse",
-   "Gerechtigkeitsgasse",
-   "Münstergasse"
-  ],
-  "strassen_ok": true,
-  "letzter_lauf": "2026-11-04",
-  "eigentuemer_quelle": "GRUDIS public (AGOV, Kaito einzeln) bzw. Grundbuchamt Bern-Mittelland; öffentlich: immobilienbusiness.ch, bgbern.ch; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 24",
-  "offen": "278"
- },
- {
-  "kanton": "VD",
-  "stadt": "Lausanne",
-  "ort": "Lausanne",
-  "radius": 1100,
-  "strassen": [
-   "Rue de Bourg",
-   "Rue Saint-François",
-   "Place Saint-François",
-   "Rue du Pont",
-   "Rue Centrale",
-   "Rue William-Haldimand"
-  ],
-  "strassen_ok": true,
-  "letzter_lauf": "2026-11-05",
-  "eigentuemer_quelle": "Intercapi public (SMS, 5/Tag, Kaito einzeln) bzw. Registre foncier Office de Lausanne; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 14; Grundbuch-Einträge vom 19.08.26: 5 (+2 gleiche Parzelle)",
-  "offen": "111"
- },
- {
-  "kanton": "LU",
-  "stadt": "Luzern",
-  "ort": "Luzern",
-  "radius": 1000,
-  "strassen": [
-   "Weggisgasse",
-   "Hertensteinstrasse",
-   "Kapellgasse",
-   "Grendelstrasse",
-   "Pilatusstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 11",
-  "offen": "129"
- },
- {
-  "kanton": "SG",
-  "stadt": "St. Gallen",
-  "ort": "St. Gallen",
-  "radius": 1000,
-  "strassen": [
-   "Multergasse",
-   "Marktgasse",
-   "Spisergasse",
-   "Neugasse",
-   "Webergasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12",
-  "offen": "131"
- },
- {
-  "kanton": "TI",
-  "stadt": "Lugano",
-  "ort": "Lugano",
-  "radius": 900,
-  "strassen": [
-   "Via Nassa",
-   "Via Pessina",
-   "Piazza della Riforma",
-   "Via Pretorio",
-   "Via Luvini"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
-  "offen": "92"
- },
- {
-  "kanton": "ZG",
-  "stadt": "Zug",
-  "ort": "Zug",
-  "radius": 900,
-  "strassen": [
-   "Bahnhofstrasse",
-   "Neugasse",
-   "Alpenstrasse",
-   "Baarerstrasse",
-   "Bundesplatz"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 16",
-  "offen": "162"
- },
- {
-  "kanton": "AG",
-  "stadt": "Aarau",
-  "ort": "Aarau",
-  "radius": 800,
-  "strassen": [
-   "Bahnhofstrasse",
-   "Igelweid",
-   "Kronengasse",
-   "Rathausgasse",
-   "Vordere Vorstadt"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 6",
-  "offen": "122"
- },
- {
-  "kanton": "SO",
-  "stadt": "Solothurn",
-  "ort": "Solothurn",
-  "radius": 800,
-  "strassen": [
-   "Hauptgasse",
-   "Gurzelngasse",
-   "Marktplatz",
-   "Stalden",
-   "Hauptbahnhofstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
-  "offen": "136"
- },
- {
-  "kanton": "FR",
-  "stadt": "Fribourg",
-  "ort": "Fribourg",
-  "radius": 900,
-  "strassen": [
-   "Rue de Romont",
-   "Rue de Lausanne",
-   "Boulevard de Pérolles",
-   "Avenue de la Gare",
-   "Rue du Simplon"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 9",
-  "offen": "204"
- },
- {
-  "kanton": "NE",
-  "stadt": "Neuchâtel",
-  "ort": "Neuchâtel",
-  "radius": 900,
-  "strassen": [
-   "Rue du Seyon",
-   "Rue de l'Hôpital",
-   "Rue du Bassin",
-   "Rue Saint-Maurice",
-   "Rue du Temple-Neuf"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
-  "offen": "61"
- },
- {
-  "kanton": "VS",
-  "stadt": "Sion",
-  "ort": "Sion",
-  "radius": 800,
-  "strassen": [
-   "Rue du Grand-Pont",
-   "Rue de Lausanne",
-   "Avenue de la Gare",
-   "Rue des Remparts",
-   "Place du Midi"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 9",
-  "offen": "188"
- },
- {
-  "kanton": "GR",
-  "stadt": "Chur",
-  "ort": "Chur",
-  "radius": 800,
-  "strassen": [
-   "Bahnhofstrasse",
-   "Poststrasse",
-   "Obere Gasse",
-   "Untere Gasse",
-   "Quaderstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "122"
- },
- {
-  "kanton": "SH",
-  "stadt": "Schaffhausen",
-  "ort": "Schaffhausen",
-  "radius": 800,
-  "strassen": [
-   "Vordergasse",
-   "Vorstadt",
-   "Fronwagplatz",
-   "Webergasse",
-   "Schwertstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 5",
-  "offen": "199"
- },
- {
-  "kanton": "TG",
-  "stadt": "Frauenfeld",
-  "ort": "Frauenfeld",
-  "radius": 800,
-  "strassen": [
-   "Zürcherstrasse",
-   "Rheinstrasse",
-   "Freiestrasse",
-   "Bankplatz",
-   "Promenadenstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12",
-  "offen": "321"
- },
- {
-  "kanton": "BL",
-  "stadt": "Liestal",
-  "ort": "Liestal",
-  "radius": 700,
-  "strassen": [
-   "Rathausstrasse",
-   "Kanonengasse",
-   "Fischmarkt",
-   "Bahnhofplatz",
-   "Wasserturmplatz"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
-  "offen": "141"
- },
- {
-  "kanton": "SZ",
-  "stadt": "Schwyz",
-  "ort": "Schwyz",
-  "radius": 700,
-  "strassen": [
-   "Herrengasse",
-   "Hauptplatz",
-   "Strehlgasse",
-   "Schmiedgasse",
-   "Postplatz"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
-  "offen": "111"
- },
- {
-  "kanton": "UR",
-  "stadt": "Altdorf",
-  "ort": "Altdorf",
-  "radius": 600,
-  "strassen": [
-   "Schmiedgasse",
-   "Tellsgasse",
-   "Hellgasse",
-   "Rathausplatz",
-   "Lehnplatz"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "102"
- },
- {
-  "kanton": "OW",
-  "stadt": "Sarnen",
-  "ort": "Sarnen",
-  "radius": 600,
-  "strassen": [
-   "Marktstrasse",
-   "Lindenstrasse",
-   "Dorfplatz",
-   "Brünigstrasse",
-   "Poststrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "155"
- },
- {
-  "kanton": "NW",
-  "stadt": "Stans",
-  "ort": "Stans",
-  "radius": 600,
-  "strassen": [
-   "Dorfplatz",
-   "Marktgasse",
-   "Engelbergstrasse",
-   "Knirigasse",
-   "Bahnhofplatz"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "130"
- },
- {
-  "kanton": "GL",
-  "stadt": "Glarus",
-  "ort": "Glarus",
-  "radius": 600,
-  "strassen": [
-   "Hauptstrasse",
-   "Rathausplatz",
-   "Spielhof",
-   "Zaunplatz",
-   "Bahnhofstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-  "offen": "128"
- },
- {
-  "kanton": "AR",
-  "stadt": "Herisau",
-  "ort": "Herisau",
-  "radius": 600,
-  "strassen": [
-   "Oberdorfstrasse",
-   "Bahnhofstrasse",
-   "Poststrasse",
-   "Platz",
-   "Kasernenstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "282"
- },
- {
-  "kanton": "AI",
-  "stadt": "Appenzell",
-  "ort": "Appenzell",
-  "radius": 500,
-  "strassen": [
-   "Hauptgasse",
-   "Marktgasse",
-   "Postplatz",
-   "Landsgemeindeplatz",
-   "Engelgasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-  "offen": "265"
- },
- {
-  "kanton": "JU",
-  "stadt": "Delémont",
-  "ort": "Delémont",
-  "radius": 700,
-  "strassen": [
-   "Rue du 23-Juin",
-   "Rue de l'Hôpital",
-   "Avenue de la Gare",
-   "Rue des Moulins",
-   "Place de la Liberté"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-  "offen": "195"
- },
- {
-  "kanton": "ZH",
-  "stadt": "Winterthur",
-  "ort": "Winterthur",
-  "radius": 900,
-  "strassen": [
-   "Marktgasse",
-   "Untertor",
-   "Obertor",
-   "Steinberggasse",
-   "Stadthausstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 19",
-  "offen": "239"
- },
- {
-  "kanton": "GE",
-  "stadt": "Carouge",
-  "ort": "Carouge",
-  "radius": 600,
-  "strassen": [
-   "Rue Saint-Joseph",
-   "Rue Saint-Victor",
-   "Rue Ancienne",
-   "Place du Marché",
-   "Rue Jacques-Dalphin"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-  "offen": "231"
- },
- {
-  "kanton": "BE",
-  "stadt": "Gstaad",
-  "ort": "Gstaad",
-  "radius": 600,
-  "strassen": [
-   "Promenade",
-   "Palacestrasse",
-   "Untergstaadstrasse",
-   "Lauenenstrasse",
-   "Güterstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "257"
- },
- {
-  "kanton": "VD",
-  "stadt": "Montreux",
-  "ort": "Montreux",
-  "radius": 900,
-  "strassen": [
-   "Grand-Rue",
-   "Avenue du Casino",
-   "Avenue des Alpes",
-   "Rue du Théâtre",
-   "Rue de la Paix"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 17",
-  "offen": "139"
- },
- {
-  "kanton": "SG",
-  "stadt": "Rapperswil",
-  "ort": "Rapperswil",
-  "radius": 700,
-  "strassen": [
-   "Marktgasse",
-   "Hauptplatz",
-   "Fischmarktplatz",
-   "Untere Bahnhofstrasse",
-   "Halsgasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-  "offen": "80"
- },
- {
-  "kanton": "TI",
-  "stadt": "Locarno",
-  "ort": "Locarno",
-  "radius": 800,
-  "strassen": [
-   "Piazza Grande",
-   "Via Ramogna",
-   "Via della Stazione",
-   "Largo Zorzi",
-   "Via Cittadella"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "118"
- },
- {
-  "kanton": "ZG",
-  "stadt": "Baar",
-  "ort": "Baar",
-  "radius": 700,
-  "strassen": [
-   "Dorfstrasse",
-   "Rathausstrasse",
-   "Marktgasse",
-   "Bahnhofstrasse",
-   "Leihgasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "150"
- },
- {
-  "kanton": "AG",
-  "stadt": "Baden",
-  "ort": "Baden",
-  "radius": 800,
-  "strassen": [
-   "Badstrasse",
-   "Weite Gasse",
-   "Bahnhofstrasse",
-   "Cordulaplatz",
-   "Rathausgasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 6",
-  "offen": "180"
- },
- {
-  "kanton": "SO",
-  "stadt": "Olten",
-  "ort": "Olten",
-  "radius": 800,
-  "strassen": [
-   "Kirchgasse",
-   "Hauptgasse",
-   "Baslerstrasse",
-   "Ringstrasse",
-   "Hübelistrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-  "offen": "315"
- },
- {
-  "kanton": "FR",
-  "stadt": "Bulle",
-  "ort": "Bulle",
-  "radius": 700,
-  "strassen": [
-   "Grand-Rue",
-   "Rue de Gruyères",
-   "Rue Nicolas-Glasson",
-   "Avenue de la Gare",
-   "Place du Marché"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
-  "offen": "218"
- },
- {
-  "kanton": "NE",
-  "stadt": "La Chaux-de-Fonds",
-  "ort": "La Chaux-de-Fonds",
-  "radius": 900,
-  "strassen": [
-   "Avenue Léopold-Robert",
-   "Rue Neuve",
-   "Place du Marché",
-   "Rue de la Balance",
-   "Rue du Marché"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-  "offen": "162"
- },
- {
-  "kanton": "VS",
-  "stadt": "Zermatt",
-  "ort": "Zermatt",
-  "radius": 700,
-  "strassen": [
-   "Bahnhofstrasse",
-   "Hofmattstrasse",
-   "Kirchplatz",
-   "Bahnhofplatz",
-   "Schluhmattstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "218"
- },
- {
-  "kanton": "GR",
-  "stadt": "St. Moritz",
-  "ort": "St. Moritz",
-  "radius": 700,
-  "strassen": [
-   "Via Serlas",
-   "Via Maistra",
-   "Via dal Bagn",
-   "Plazza dal Mulin",
-   "Via dal Vout"
-  ],
-  "strassen_ok": true,
-  "letzter_lauf": "2026-11-03",
-  "eigentuemer_quelle": "Grundbuch GR (Geoportal-Einzelabfrage, frühere Läufe; 6 Adressen über gleiche Parzelle abgeleitet); Rest: Einzelabfrage map.geo.gr.ch (Captcha, ca. 10/Tag) oder Anfrage Grundbuchamt Region Maloja",
-  "offen": "349"
- },
- {
-  "kanton": "TG",
-  "stadt": "Kreuzlingen",
-  "ort": "Kreuzlingen",
-  "radius": 800,
-  "strassen": [
-   "Hauptstrasse",
-   "Bahnhofstrasse",
-   "Konstanzerstrasse",
-   "Bärenplatz",
-   "Sonnenstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-  "offen": "354"
- },
- {
-  "kanton": "BL",
-  "stadt": "Allschwil",
-  "ort": "Allschwil",
-  "radius": 600,
-  "strassen": [
-   "Baslerstrasse",
-   "Binningerstrasse",
-   "Hegenheimermattweg",
-   "Lindenplatz",
-   "Oberwilerstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 19",
-  "offen": "554"
- },
- {
-  "kanton": "SZ",
-  "stadt": "Pfäffikon SZ",
-  "ort": "Pfäffikon",
-  "radius": 700,
-  "strassen": [
-   "Churerstrasse",
-   "Bahnhofstrasse",
-   "Schindellegistrasse",
-   "Eichenstrasse",
-   "Seedammstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "0"
- },
- {
-  "kanton": "OW",
-  "stadt": "Engelberg",
-  "ort": "Engelberg",
-  "radius": 600,
-  "strassen": [
-   "Dorfstrasse",
-   "Klosterstrasse",
-   "Bahnhofplatz",
-   "Engelbergerstrasse",
-   "Hinterdorfstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "128"
- },
- {
-  "kanton": "JU",
-  "stadt": "Porrentruy",
-  "ort": "Porrentruy",
-  "radius": 600,
-  "strassen": [
-   "Grand-Rue",
-   "Rue Pierre-Péquignat",
-   "Rue des Malvoisins",
-   "Allée des Soupirs",
-   "Rue du 23-Juin"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "89"
- },
- {
-  "kanton": "ZH",
-  "stadt": "Uster",
-  "ort": "Uster",
-  "radius": 700,
-  "strassen": [
-   "Bahnhofstrasse",
-   "Poststrasse",
-   "Zentralstrasse",
-   "Gerichtsstrasse",
-   "Webernstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-  "offen": "86"
- },
- {
-  "kanton": "BE",
-  "stadt": "Interlaken",
-  "ort": "Interlaken",
-  "radius": 700,
-  "strassen": [
-   "Höheweg",
-   "Bahnhofstrasse",
-   "Marktgasse",
-   "Jungfraustrasse",
-   "Centralstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-  "offen": "338"
- },
- {
-  "kanton": "VD",
-  "stadt": "Vevey",
-  "ort": "Vevey",
-  "radius": 700,
-  "strassen": [
-   "Rue du Simplon",
-   "Rue du Lac",
-   "Rue de Lausanne",
-   "Rue d'Italie",
-   "Rue du Théâtre"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 11",
-  "offen": "137"
- },
- {
-  "kanton": "SG",
-  "stadt": "Wil",
-  "ort": "Wil",
-  "radius": 700,
-  "strassen": [
-   "Obere Bahnhofstrasse",
-   "Untere Bahnhofstrasse",
-   "Marktgasse",
-   "Hofplatz",
-   "Toggenburgerstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-  "offen": "304"
- },
- {
-  "kanton": "TI",
-  "stadt": "Ascona",
-  "ort": "Ascona",
-  "radius": 600,
-  "strassen": [
-   "Piazza Giuseppe Motta",
-   "Via Borgo",
-   "Contrada Maggiore",
-   "Via Collegio",
-   "Viale Papio"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "164"
- },
- {
-  "kanton": "AG",
-  "stadt": "Wohlen",
-  "ort": "Wohlen",
-  "radius": 600,
-  "strassen": [
-   "Zentralstrasse",
-   "Bahnhofstrasse",
-   "Bremgarterstrasse",
-   "Kirchenplatz",
-   "Steingasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-  "offen": "189"
- },
- {
-  "kanton": "VS",
-  "stadt": "Crans-Montana",
-  "ort": "Crans-Montana",
-  "radius": 800,
-  "strassen": [
-   "Rue Centrale",
-   "Route du Rawyl",
-   "Rue du Prado",
-   "Route de la Moubra",
-   "Rue du Pas-de-l'Ours"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
-  "offen": "192"
- },
- {
-  "kanton": "GR",
-  "stadt": "Davos",
-  "ort": "Davos",
-  "radius": 1200,
-  "strassen": [
-   "Promenade",
-   "Talstrasse",
-   "Bahnhofstrasse",
-   "Obere Strasse",
-   "Mattastrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
-  "offen": "439"
- },
- {
-  "kanton": "TG",
-  "stadt": "Weinfelden",
-  "ort": "Weinfelden",
-  "radius": 600,
-  "strassen": [
-   "Frauenfelderstrasse",
-   "Rathausstrasse",
-   "Marktplatz",
-   "Bahnhofstrasse",
-   "Wilerstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-  "offen": "191"
- },
- {
-  "kanton": "SZ",
-  "stadt": "Einsiedeln",
-  "ort": "Einsiedeln",
-  "radius": 600,
-  "strassen": [
-   "Hauptstrasse",
-   "Klosterplatz",
-   "Kronenstrasse",
-   "Schmiedenstrasse",
-   "Bahnhofplatz"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "148"
- },
- {
-  "kanton": "ZH",
-  "stadt": "Wädenswil",
-  "ort": "Wädenswil",
-  "radius": 600,
-  "strassen": [
-   "Zugerstrasse",
-   "Seestrasse",
-   "Oberdorfstrasse",
-   "Florhofstrasse",
-   "Türgass"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
-  "offen": "287"
- },
- {
-  "kanton": "BE",
-  "stadt": "Thun",
-  "ort": "Thun",
-  "radius": 800,
-  "strassen": [
-   "Bälliz",
-   "Obere Hauptgasse",
-   "Untere Hauptgasse",
-   "Bahnhofstrasse",
-   "Marktgasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 14",
-  "offen": "272"
- },
- {
-  "kanton": "VD",
-  "stadt": "Nyon",
-  "ort": "Nyon",
-  "radius": 700,
-  "strassen": [
-   "Rue de la Gare",
-   "Rue de Rive",
-   "Grand-Rue",
-   "Rue Neuve",
-   "Place du Marché"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
-  "offen": "156"
- },
- {
-  "kanton": "SG",
-  "stadt": "Buchs SG",
-  "ort": "Buchs@47.1675,9.4790",
-  "radius": 600,
-  "strassen": [
-   "Bahnhofstrasse",
-   "St. Gallerstrasse",
-   "Churerstrasse",
-   "Grünaustrasse",
-   "Kirchgasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
-  "offen": "281"
- },
- {
-  "kanton": "TI",
-  "stadt": "Bellinzona",
-  "ort": "Bellinzona",
-  "radius": 800,
-  "strassen": [
-   "Viale Stazione",
-   "Piazza Collegiata",
-   "Piazza Nosetto",
-   "Via Camminata",
-   "Via Teatro"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
-  "offen": "79"
- },
- {
-  "kanton": "AG",
-  "stadt": "Brugg",
-  "ort": "Brugg",
-  "radius": 600,
-  "strassen": [
-   "Hauptstrasse",
-   "Bahnhofstrasse",
-   "Neumarkt",
-   "Alte Zürcherstrasse",
-   "Storchengasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
-  "offen": "107"
- },
- {
-  "kanton": "VS",
-  "stadt": "Verbier",
-  "ort": "Verbier",
-  "radius": 600,
-  "strassen": [
-   "Rue de Médran",
-   "Place Centrale",
-   "Route de Verbier Station",
-   "Rue de la Poste",
-   "Route de la Barmaz"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "243"
- },
- {
-  "kanton": "GR",
-  "stadt": "Klosters",
-  "ort": "Klosters",
-  "radius": 700,
-  "strassen": [
-   "Bahnhofstrasse",
-   "Landstrasse",
-   "Alte Bahnhofstrasse",
-   "Doggilochstrasse",
-   "Silvrettastrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "273"
- },
- {
-  "kanton": "BE",
-  "stadt": "Biel/Bienne",
-  "ort": "Biel/Bienne",
-  "radius": 900,
-  "strassen": [
-   "Nidaugasse",
-   "Bahnhofstrasse",
-   "Zentralstrasse",
-   "Marktgasse",
-   "Dufourstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 13",
-  "offen": "117"
- },
- {
-  "kanton": "VD",
-  "stadt": "Morges",
-  "ort": "Morges",
-  "radius": 700,
-  "strassen": [
-   "Grand-Rue",
-   "Rue Louis-de-Savoie",
-   "Rue Centrale",
-   "Place de l'Hôtel-de-Ville",
-   "Rue du Pont-Neuf"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-  "offen": "129"
- },
- {
-  "kanton": "TI",
-  "stadt": "Mendrisio",
-  "ort": "Mendrisio",
-  "radius": 600,
-  "strassen": [
-   "Corso Bello",
-   "Via Stefano Franscini",
-   "Via Luigi Lavizzari",
-   "Piazzale alla Valle",
-   "Via Vincenzo Vela"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-  "offen": "115"
- },
- {
-  "kanton": "AG",
-  "stadt": "Rheinfelden",
-  "ort": "Rheinfelden",
-  "radius": 600,
-  "strassen": [
-   "Marktgasse",
-   "Kaiserstrasse",
-   "Bahnhofstrasse",
-   "Kupfergasse",
-   "Fröschweid"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-  "offen": "141"
- },
- {
-  "kanton": "VS",
-  "stadt": "Martigny",
-  "ort": "Martigny",
-  "radius": 700,
-  "strassen": [
-   "Avenue de la Gare",
-   "Place Centrale",
-   "Rue du Grand-Verger",
-   "Rue de la Poste",
-   "Avenue du Grand-Saint-Bernard"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
-  "offen": "164"
- },
- {
-  "kanton": "VD",
-  "stadt": "Yverdon-les-Bains",
-  "ort": "Yverdon-les-Bains",
-  "radius": 700,
-  "strassen": [
-   "Rue du Lac",
-   "Rue du Milieu",
-   "Rue de la Plaine",
-   "Place Pestalozzi",
-   "Rue du Casino"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-  "offen": "190"
- },
- {
-  "kanton": "VS",
-  "stadt": "Monthey",
-  "ort": "Monthey",
-  "radius": 600,
-  "strassen": [
-   "Rue du Commerce",
-   "Place Centrale",
-   "Avenue de la Gare",
-   "Rue des Bourguignons",
-   "Rue du Château"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
-  "offen": "105"
- },
- {
-  "kanton": "VS",
-  "stadt": "Visp",
-  "ort": "Visp",
-  "radius": 600,
-  "strassen": [
-   "Bahnhofstrasse",
-   "Kantonsstrasse",
-   "Kaufplatz",
-   "Balfrinstrasse",
-   "Napoleonstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "",
-  "offen": "155"
- },
- {
-  "kanton": "VS",
-  "stadt": "Brig",
-  "ort": "Brig",
-  "radius": 600,
-  "strassen": [
-   "Bahnhofstrasse",
-   "Furkastrasse",
-   "Sebastiansplatz",
-   "Alte Simplonstrasse",
-   "Saflischstrasse"
-  ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-  "offen": "174"
- }
+  {
+    "kanton": "ZH",
+    "stadt": "Zürich (Kreis 1)",
+    "ort": "Zürich",
+    "radius": 1300,
+    "strassen": [
+      "Bahnhofstrasse",
+      "Rennweg",
+      "Löwenstrasse",
+      "Limmatquai",
+      "Niederdorfstrasse"
+    ],
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-05",
+    "eigentuemer_quelle": "Grundbuch ZH (frühere Läufe); öffentliche Quellen 04.11.26: Liegenschafteninventar OGD Stadt Zürich, Geschäftsberichte PSP/SPS, Inventare AXA AST, UBS-Fonds, Swiss Life, CSA; Rest: GIS-Browser ZH (SMS, ca. 5/Tag) oder Notariat Zürich-Altstadt; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4; 05.11.26 zusätzlich Schroder ImmoPLUS, ZIF, BVK, PWG, Zünfte, Medien (nur Hinweise), Parzellenabgleich per E-GRID",
+    "offen": "214"
+  },
+  {
+    "kanton": "GE",
+    "stadt": "Genf",
+    "ort": "Genève",
+    "radius": 1300,
+    "strassen": [
+      "Rue du Rhône",
+      "Rue du Marché",
+      "Rue de la Croix-d'Or",
+      "Rue de Rive",
+      "Rue du Mont-Blanc"
+    ],
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-03",
+    "eigentuemer_quelle": "Grundbuch GE Extrait foncier (frühere Einzelabfragen Kaito, Sept. 2026); SITG-Kataster Feld «Propriété publique» (öffentliche Eigentümer); Rest: Einzelabfrage ge.ch/terextraitfoncier mit Direktlinks; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 15",
+    "offen": "131"
+  },
+  {
+    "kanton": "BS",
+    "stadt": "Basel",
+    "ort": "Basel",
+    "radius": 1300,
+    "strassen": [
+      "Freie Strasse",
+      "Marktplatz",
+      "Eisengasse",
+      "Gerbergasse",
+      "Steinenvorstadt"
+    ],
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-03",
+    "eigentuemer_quelle": "MapBS Eigentumsauskunft (Kaito einzeln, 10/Tag); 2 aus öffentlichen Quellen; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 34",
+    "offen": "171"
+  },
+  {
+    "kanton": "BE",
+    "stadt": "Bern",
+    "ort": "Bern",
+    "radius": 1100,
+    "strassen": [
+      "Spitalgasse",
+      "Marktgasse",
+      "Kramgasse",
+      "Gerechtigkeitsgasse",
+      "Münstergasse"
+    ],
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-04",
+    "eigentuemer_quelle": "GRUDIS public (AGOV, Kaito einzeln) bzw. Grundbuchamt Bern-Mittelland; öffentlich: immobilienbusiness.ch, bgbern.ch; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 24",
+    "offen": "278"
+  },
+  {
+    "kanton": "VD",
+    "stadt": "Lausanne",
+    "ort": "Lausanne",
+    "radius": 1100,
+    "strassen": [
+      "Rue de Bourg",
+      "Rue Saint-François",
+      "Place Saint-François",
+      "Rue du Pont",
+      "Rue Centrale",
+      "Rue William-Haldimand"
+    ],
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-05",
+    "eigentuemer_quelle": "Intercapi public (SMS, 5/Tag, Kaito einzeln) bzw. Registre foncier Office de Lausanne; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 14; Grundbuch-Einträge vom 19.08.26: 5 (+2 gleiche Parzelle)",
+    "offen": "111"
+  },
+  {
+    "kanton": "LU",
+    "stadt": "Luzern",
+    "ort": "Luzern",
+    "radius": 1000,
+    "strassen": [
+      "Weggisgasse",
+      "Hertensteinstrasse",
+      "Kapellgasse",
+      "Grendelstrasse",
+      "Pilatusstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 11",
+    "offen": "129"
+  },
+  {
+    "kanton": "SG",
+    "stadt": "St. Gallen",
+    "ort": "St. Gallen",
+    "radius": 1000,
+    "strassen": [
+      "Multergasse",
+      "Marktgasse",
+      "Spisergasse",
+      "Neugasse",
+      "Webergasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12",
+    "offen": "131"
+  },
+  {
+    "kanton": "TI",
+    "stadt": "Lugano",
+    "ort": "Lugano",
+    "radius": 900,
+    "strassen": [
+      "Via Nassa",
+      "Via Pessina",
+      "Piazza della Riforma",
+      "Via Pretorio",
+      "Via Luvini"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+    "offen": "92"
+  },
+  {
+    "kanton": "ZG",
+    "stadt": "Zug",
+    "ort": "Zug",
+    "radius": 900,
+    "strassen": [
+      "Bahnhofstrasse",
+      "Neugasse",
+      "Alpenstrasse",
+      "Baarerstrasse",
+      "Bundesplatz"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 16",
+    "offen": "162"
+  },
+  {
+    "kanton": "AG",
+    "stadt": "Aarau",
+    "ort": "Aarau",
+    "radius": 800,
+    "strassen": [
+      "Bahnhofstrasse",
+      "Igelweid",
+      "Kronengasse",
+      "Rathausgasse",
+      "Vordere Vorstadt"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 6",
+    "offen": "122"
+  },
+  {
+    "kanton": "SO",
+    "stadt": "Solothurn",
+    "ort": "Solothurn",
+    "radius": 800,
+    "strassen": [
+      "Hauptgasse",
+      "Gurzelngasse",
+      "Marktplatz",
+      "Stalden",
+      "Hauptbahnhofstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+    "offen": "136"
+  },
+  {
+    "kanton": "FR",
+    "stadt": "Fribourg",
+    "ort": "Fribourg",
+    "radius": 900,
+    "strassen": [
+      "Rue de Romont",
+      "Rue de Lausanne",
+      "Boulevard de Pérolles",
+      "Avenue de la Gare",
+      "Rue du Simplon"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 9",
+    "offen": "204"
+  },
+  {
+    "kanton": "NE",
+    "stadt": "Neuchâtel",
+    "ort": "Neuchâtel",
+    "radius": 900,
+    "strassen": [
+      "Rue du Seyon",
+      "Rue de l'Hôpital",
+      "Rue du Bassin",
+      "Rue Saint-Maurice",
+      "Rue du Temple-Neuf"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
+    "offen": "61"
+  },
+  {
+    "kanton": "VS",
+    "stadt": "Sion",
+    "ort": "Sion",
+    "radius": 800,
+    "strassen": [
+      "Rue du Grand-Pont",
+      "Rue de Lausanne",
+      "Avenue de la Gare",
+      "Rue des Remparts",
+      "Place du Midi"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 9",
+    "offen": "188"
+  },
+  {
+    "kanton": "GR",
+    "stadt": "Chur",
+    "ort": "Chur",
+    "radius": 800,
+    "strassen": [
+      "Bahnhofstrasse",
+      "Poststrasse",
+      "Obere Gasse",
+      "Untere Gasse",
+      "Quaderstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "122"
+  },
+  {
+    "kanton": "SH",
+    "stadt": "Schaffhausen",
+    "ort": "Schaffhausen",
+    "radius": 800,
+    "strassen": [
+      "Vordergasse",
+      "Vorstadt",
+      "Fronwagplatz",
+      "Webergasse",
+      "Schwertstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 5",
+    "offen": "199"
+  },
+  {
+    "kanton": "TG",
+    "stadt": "Frauenfeld",
+    "ort": "Frauenfeld",
+    "radius": 800,
+    "strassen": [
+      "Zürcherstrasse",
+      "Rheinstrasse",
+      "Freiestrasse",
+      "Bankplatz",
+      "Promenadenstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12",
+    "offen": "321"
+  },
+  {
+    "kanton": "BL",
+    "stadt": "Liestal",
+    "ort": "Liestal",
+    "radius": 700,
+    "strassen": [
+      "Rathausstrasse",
+      "Kanonengasse",
+      "Fischmarkt",
+      "Bahnhofplatz",
+      "Wasserturmplatz"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
+    "offen": "141"
+  },
+  {
+    "kanton": "SZ",
+    "stadt": "Schwyz",
+    "ort": "Schwyz",
+    "radius": 700,
+    "strassen": [
+      "Herrengasse",
+      "Hauptplatz",
+      "Strehlgasse",
+      "Schmiedgasse",
+      "Postplatz"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+    "offen": "111"
+  },
+  {
+    "kanton": "UR",
+    "stadt": "Altdorf",
+    "ort": "Altdorf",
+    "radius": 600,
+    "strassen": [
+      "Schmiedgasse",
+      "Tellsgasse",
+      "Hellgasse",
+      "Rathausplatz",
+      "Lehnplatz"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "102"
+  },
+  {
+    "kanton": "OW",
+    "stadt": "Sarnen",
+    "ort": "Sarnen",
+    "radius": 600,
+    "strassen": [
+      "Marktstrasse",
+      "Lindenstrasse",
+      "Dorfplatz",
+      "Brünigstrasse",
+      "Poststrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "155"
+  },
+  {
+    "kanton": "NW",
+    "stadt": "Stans",
+    "ort": "Stans",
+    "radius": 600,
+    "strassen": [
+      "Dorfplatz",
+      "Marktgasse",
+      "Engelbergstrasse",
+      "Knirigasse",
+      "Bahnhofplatz"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "130"
+  },
+  {
+    "kanton": "GL",
+    "stadt": "Glarus",
+    "ort": "Glarus",
+    "radius": 600,
+    "strassen": [
+      "Hauptstrasse",
+      "Rathausplatz",
+      "Spielhof",
+      "Zaunplatz",
+      "Bahnhofstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+    "offen": "128"
+  },
+  {
+    "kanton": "AR",
+    "stadt": "Herisau",
+    "ort": "Herisau",
+    "radius": 600,
+    "strassen": [
+      "Oberdorfstrasse",
+      "Bahnhofstrasse",
+      "Poststrasse",
+      "Platz",
+      "Kasernenstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "282"
+  },
+  {
+    "kanton": "AI",
+    "stadt": "Appenzell",
+    "ort": "Appenzell",
+    "radius": 500,
+    "strassen": [
+      "Hauptgasse",
+      "Marktgasse",
+      "Postplatz",
+      "Landsgemeindeplatz",
+      "Engelgasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+    "offen": "265"
+  },
+  {
+    "kanton": "JU",
+    "stadt": "Delémont",
+    "ort": "Delémont",
+    "radius": 700,
+    "strassen": [
+      "Rue du 23-Juin",
+      "Rue de l'Hôpital",
+      "Avenue de la Gare",
+      "Rue des Moulins",
+      "Place de la Liberté"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+    "offen": "195"
+  },
+  {
+    "kanton": "ZH",
+    "stadt": "Winterthur",
+    "ort": "Winterthur",
+    "radius": 900,
+    "strassen": [
+      "Marktgasse",
+      "Untertor",
+      "Obertor",
+      "Steinberggasse",
+      "Stadthausstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 19",
+    "offen": "239"
+  },
+  {
+    "kanton": "GE",
+    "stadt": "Carouge",
+    "ort": "Carouge",
+    "radius": 600,
+    "strassen": [
+      "Rue Saint-Joseph",
+      "Rue Saint-Victor",
+      "Rue Ancienne",
+      "Place du Marché",
+      "Rue Jacques-Dalphin"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+    "offen": "231"
+  },
+  {
+    "kanton": "BE",
+    "stadt": "Gstaad",
+    "ort": "Gstaad",
+    "radius": 600,
+    "strassen": [
+      "Promenade",
+      "Palacestrasse",
+      "Untergstaadstrasse",
+      "Lauenenstrasse",
+      "Güterstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "257"
+  },
+  {
+    "kanton": "VD",
+    "stadt": "Montreux",
+    "ort": "Montreux",
+    "radius": 900,
+    "strassen": [
+      "Grand-Rue",
+      "Avenue du Casino",
+      "Avenue des Alpes",
+      "Rue du Théâtre",
+      "Rue de la Paix"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 17",
+    "offen": "139"
+  },
+  {
+    "kanton": "SG",
+    "stadt": "Rapperswil",
+    "ort": "Rapperswil",
+    "radius": 700,
+    "strassen": [
+      "Marktgasse",
+      "Hauptplatz",
+      "Fischmarktplatz",
+      "Untere Bahnhofstrasse",
+      "Halsgasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+    "offen": "80"
+  },
+  {
+    "kanton": "TI",
+    "stadt": "Locarno",
+    "ort": "Locarno",
+    "radius": 800,
+    "strassen": [
+      "Piazza Grande",
+      "Via Ramogna",
+      "Via della Stazione",
+      "Largo Zorzi",
+      "Via Cittadella"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "118"
+  },
+  {
+    "kanton": "ZG",
+    "stadt": "Baar",
+    "ort": "Baar",
+    "radius": 700,
+    "strassen": [
+      "Dorfstrasse",
+      "Rathausstrasse",
+      "Marktgasse",
+      "Bahnhofstrasse",
+      "Leihgasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "150"
+  },
+  {
+    "kanton": "AG",
+    "stadt": "Baden",
+    "ort": "Baden",
+    "radius": 800,
+    "strassen": [
+      "Badstrasse",
+      "Weite Gasse",
+      "Bahnhofstrasse",
+      "Cordulaplatz",
+      "Rathausgasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 6",
+    "offen": "180"
+  },
+  {
+    "kanton": "SO",
+    "stadt": "Olten",
+    "ort": "Olten",
+    "radius": 800,
+    "strassen": [
+      "Kirchgasse",
+      "Hauptgasse",
+      "Baslerstrasse",
+      "Ringstrasse",
+      "Hübelistrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+    "offen": "315"
+  },
+  {
+    "kanton": "FR",
+    "stadt": "Bulle",
+    "ort": "Bulle",
+    "radius": 700,
+    "strassen": [
+      "Grand-Rue",
+      "Rue de Gruyères",
+      "Rue Nicolas-Glasson",
+      "Avenue de la Gare",
+      "Place du Marché"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
+    "offen": "218"
+  },
+  {
+    "kanton": "NE",
+    "stadt": "La Chaux-de-Fonds",
+    "ort": "La Chaux-de-Fonds",
+    "radius": 900,
+    "strassen": [
+      "Avenue Léopold-Robert",
+      "Rue Neuve",
+      "Place du Marché",
+      "Rue de la Balance",
+      "Rue du Marché"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+    "offen": "162"
+  },
+  {
+    "kanton": "VS",
+    "stadt": "Zermatt",
+    "ort": "Zermatt",
+    "radius": 700,
+    "strassen": [
+      "Bahnhofstrasse",
+      "Hofmattstrasse",
+      "Kirchplatz",
+      "Bahnhofplatz",
+      "Schluhmattstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "218"
+  },
+  {
+    "kanton": "GR",
+    "stadt": "St. Moritz",
+    "ort": "St. Moritz",
+    "radius": 700,
+    "strassen": [
+      "Via Serlas",
+      "Via Maistra",
+      "Via dal Bagn",
+      "Plazza dal Mulin",
+      "Via dal Vout"
+    ],
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-03",
+    "eigentuemer_quelle": "Grundbuch GR (Geoportal-Einzelabfrage, frühere Läufe; 6 Adressen über gleiche Parzelle abgeleitet); Rest: Einzelabfrage map.geo.gr.ch (Captcha, ca. 10/Tag) oder Anfrage Grundbuchamt Region Maloja",
+    "offen": "349"
+  },
+  {
+    "kanton": "TG",
+    "stadt": "Kreuzlingen",
+    "ort": "Kreuzlingen",
+    "radius": 800,
+    "strassen": [
+      "Hauptstrasse",
+      "Bahnhofstrasse",
+      "Konstanzerstrasse",
+      "Bärenplatz",
+      "Sonnenstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+    "offen": "354"
+  },
+  {
+    "kanton": "BL",
+    "stadt": "Allschwil",
+    "ort": "Allschwil",
+    "radius": 600,
+    "strassen": [
+      "Baslerstrasse",
+      "Binningerstrasse",
+      "Hegenheimermattweg",
+      "Lindenplatz",
+      "Oberwilerstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 19",
+    "offen": "554"
+  },
+  {
+    "kanton": "SZ",
+    "stadt": "Pfäffikon SZ",
+    "ort": "Pfäffikon",
+    "radius": 700,
+    "strassen": [
+      "Churerstrasse",
+      "Bahnhofstrasse",
+      "Schindellegistrasse",
+      "Eichenstrasse",
+      "Seedammstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "0"
+  },
+  {
+    "kanton": "OW",
+    "stadt": "Engelberg",
+    "ort": "Engelberg",
+    "radius": 600,
+    "strassen": [
+      "Dorfstrasse",
+      "Klosterstrasse",
+      "Bahnhofplatz",
+      "Engelbergerstrasse",
+      "Hinterdorfstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "128"
+  },
+  {
+    "kanton": "JU",
+    "stadt": "Porrentruy",
+    "ort": "Porrentruy",
+    "radius": 600,
+    "strassen": [
+      "Grand-Rue",
+      "Rue Pierre-Péquignat",
+      "Rue des Malvoisins",
+      "Allée des Soupirs",
+      "Rue du 23-Juin"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "89"
+  },
+  {
+    "kanton": "ZH",
+    "stadt": "Uster",
+    "ort": "Uster",
+    "radius": 700,
+    "strassen": [
+      "Bahnhofstrasse",
+      "Poststrasse",
+      "Zentralstrasse",
+      "Gerichtsstrasse",
+      "Webernstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+    "offen": "86"
+  },
+  {
+    "kanton": "BE",
+    "stadt": "Interlaken",
+    "ort": "Interlaken",
+    "radius": 700,
+    "strassen": [
+      "Höheweg",
+      "Bahnhofstrasse",
+      "Marktgasse",
+      "Jungfraustrasse",
+      "Centralstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+    "offen": "338"
+  },
+  {
+    "kanton": "VD",
+    "stadt": "Vevey",
+    "ort": "Vevey",
+    "radius": 700,
+    "strassen": [
+      "Rue du Simplon",
+      "Rue du Lac",
+      "Rue de Lausanne",
+      "Rue d'Italie",
+      "Rue du Théâtre"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 11",
+    "offen": "137"
+  },
+  {
+    "kanton": "SG",
+    "stadt": "Wil",
+    "ort": "Wil",
+    "radius": 700,
+    "strassen": [
+      "Obere Bahnhofstrasse",
+      "Untere Bahnhofstrasse",
+      "Marktgasse",
+      "Hofplatz",
+      "Toggenburgerstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+    "offen": "304"
+  },
+  {
+    "kanton": "TI",
+    "stadt": "Ascona",
+    "ort": "Ascona",
+    "radius": 600,
+    "strassen": [
+      "Piazza Giuseppe Motta",
+      "Via Borgo",
+      "Contrada Maggiore",
+      "Via Collegio",
+      "Viale Papio"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "164"
+  },
+  {
+    "kanton": "AG",
+    "stadt": "Wohlen",
+    "ort": "Wohlen",
+    "radius": 600,
+    "strassen": [
+      "Zentralstrasse",
+      "Bahnhofstrasse",
+      "Bremgarterstrasse",
+      "Kirchenplatz",
+      "Steingasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+    "offen": "189"
+  },
+  {
+    "kanton": "VS",
+    "stadt": "Crans-Montana",
+    "ort": "Crans-Montana",
+    "radius": 800,
+    "strassen": [
+      "Rue Centrale",
+      "Route du Rawyl",
+      "Rue du Prado",
+      "Route de la Moubra",
+      "Rue du Pas-de-l'Ours"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+    "offen": "192"
+  },
+  {
+    "kanton": "GR",
+    "stadt": "Davos",
+    "ort": "Davos",
+    "radius": 1200,
+    "strassen": [
+      "Promenade",
+      "Talstrasse",
+      "Bahnhofstrasse",
+      "Obere Strasse",
+      "Mattastrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+    "offen": "439"
+  },
+  {
+    "kanton": "TG",
+    "stadt": "Weinfelden",
+    "ort": "Weinfelden",
+    "radius": 600,
+    "strassen": [
+      "Frauenfelderstrasse",
+      "Rathausstrasse",
+      "Marktplatz",
+      "Bahnhofstrasse",
+      "Wilerstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+    "offen": "191"
+  },
+  {
+    "kanton": "SZ",
+    "stadt": "Einsiedeln",
+    "ort": "Einsiedeln",
+    "radius": 600,
+    "strassen": [
+      "Hauptstrasse",
+      "Klosterplatz",
+      "Kronenstrasse",
+      "Schmiedenstrasse",
+      "Bahnhofplatz"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "148"
+  },
+  {
+    "kanton": "ZH",
+    "stadt": "Wädenswil",
+    "ort": "Wädenswil",
+    "radius": 600,
+    "strassen": [
+      "Zugerstrasse",
+      "Seestrasse",
+      "Oberdorfstrasse",
+      "Florhofstrasse",
+      "Türgass"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
+    "offen": "287"
+  },
+  {
+    "kanton": "BE",
+    "stadt": "Thun",
+    "ort": "Thun",
+    "radius": 800,
+    "strassen": [
+      "Bälliz",
+      "Obere Hauptgasse",
+      "Untere Hauptgasse",
+      "Bahnhofstrasse",
+      "Marktgasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 14",
+    "offen": "272"
+  },
+  {
+    "kanton": "VD",
+    "stadt": "Nyon",
+    "ort": "Nyon",
+    "radius": 700,
+    "strassen": [
+      "Rue de la Gare",
+      "Rue de Rive",
+      "Grand-Rue",
+      "Rue Neuve",
+      "Place du Marché"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+    "offen": "156"
+  },
+  {
+    "kanton": "SG",
+    "stadt": "Buchs SG",
+    "ort": "Buchs@47.1675,9.4790",
+    "radius": 600,
+    "strassen": [
+      "Bahnhofstrasse",
+      "St. Gallerstrasse",
+      "Churerstrasse",
+      "Grünaustrasse",
+      "Kirchgasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
+    "offen": "281"
+  },
+  {
+    "kanton": "TI",
+    "stadt": "Bellinzona",
+    "ort": "Bellinzona",
+    "radius": 800,
+    "strassen": [
+      "Viale Stazione",
+      "Piazza Collegiata",
+      "Piazza Nosetto",
+      "Via Camminata",
+      "Via Teatro"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
+    "offen": "79"
+  },
+  {
+    "kanton": "AG",
+    "stadt": "Brugg",
+    "ort": "Brugg",
+    "radius": 600,
+    "strassen": [
+      "Hauptstrasse",
+      "Bahnhofstrasse",
+      "Neumarkt",
+      "Alte Zürcherstrasse",
+      "Storchengasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
+    "offen": "107"
+  },
+  {
+    "kanton": "VS",
+    "stadt": "Verbier",
+    "ort": "Verbier",
+    "radius": 600,
+    "strassen": [
+      "Rue de Médran",
+      "Place Centrale",
+      "Route de Verbier Station",
+      "Rue de la Poste",
+      "Route de la Barmaz"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "243"
+  },
+  {
+    "kanton": "GR",
+    "stadt": "Klosters",
+    "ort": "Klosters",
+    "radius": 700,
+    "strassen": [
+      "Bahnhofstrasse",
+      "Landstrasse",
+      "Alte Bahnhofstrasse",
+      "Doggilochstrasse",
+      "Silvrettastrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "273"
+  },
+  {
+    "kanton": "BE",
+    "stadt": "Biel/Bienne",
+    "ort": "Biel/Bienne",
+    "radius": 900,
+    "strassen": [
+      "Nidaugasse",
+      "Bahnhofstrasse",
+      "Zentralstrasse",
+      "Marktgasse",
+      "Dufourstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 13",
+    "offen": "117"
+  },
+  {
+    "kanton": "VD",
+    "stadt": "Morges",
+    "ort": "Morges",
+    "radius": 700,
+    "strassen": [
+      "Grand-Rue",
+      "Rue Louis-de-Savoie",
+      "Rue Centrale",
+      "Place de l'Hôtel-de-Ville",
+      "Rue du Pont-Neuf"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+    "offen": "129"
+  },
+  {
+    "kanton": "TI",
+    "stadt": "Mendrisio",
+    "ort": "Mendrisio",
+    "radius": 600,
+    "strassen": [
+      "Corso Bello",
+      "Via Stefano Franscini",
+      "Via Luigi Lavizzari",
+      "Piazzale alla Valle",
+      "Via Vincenzo Vela"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+    "offen": "115"
+  },
+  {
+    "kanton": "AG",
+    "stadt": "Rheinfelden",
+    "ort": "Rheinfelden",
+    "radius": 600,
+    "strassen": [
+      "Marktgasse",
+      "Kaiserstrasse",
+      "Bahnhofstrasse",
+      "Kupfergasse",
+      "Fröschweid"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+    "offen": "141"
+  },
+  {
+    "kanton": "VS",
+    "stadt": "Martigny",
+    "ort": "Martigny",
+    "radius": 700,
+    "strassen": [
+      "Avenue de la Gare",
+      "Place Centrale",
+      "Rue du Grand-Verger",
+      "Rue de la Poste",
+      "Avenue du Grand-Saint-Bernard"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
+    "offen": "164"
+  },
+  {
+    "kanton": "VD",
+    "stadt": "Yverdon-les-Bains",
+    "ort": "Yverdon-les-Bains",
+    "radius": 700,
+    "strassen": [
+      "Rue du Lac",
+      "Rue du Milieu",
+      "Rue de la Plaine",
+      "Place Pestalozzi",
+      "Rue du Casino"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+    "offen": "190"
+  },
+  {
+    "kanton": "VS",
+    "stadt": "Monthey",
+    "ort": "Monthey",
+    "radius": 600,
+    "strassen": [
+      "Rue du Commerce",
+      "Place Centrale",
+      "Avenue de la Gare",
+      "Rue des Bourguignons",
+      "Rue du Château"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
+    "offen": "105"
+  },
+  {
+    "kanton": "VS",
+    "stadt": "Visp",
+    "ort": "Visp",
+    "radius": 600,
+    "strassen": [
+      "Bahnhofstrasse",
+      "Kantonsstrasse",
+      "Kaufplatz",
+      "Balfrinstrasse",
+      "Napoleonstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "",
+    "offen": "155"
+  },
+  {
+    "kanton": "VS",
+    "stadt": "Brig",
+    "ort": "Brig",
+    "radius": 600,
+    "strassen": [
+      "Bahnhofstrasse",
+      "Furkastrasse",
+      "Sebastiansplatz",
+      "Alte Simplonstrasse",
+      "Saflischstrasse"
+    ],
+    "strassen_ok": false,
+    "letzter_lauf": "",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
+    "offen": "174"
+  }
 ]

@@ -1,0 +1,956 @@
+{
+ "morges|rue louis-de-savoie|61": {
+  "street": "Rue Louis-de-Savoie",
+  "hn": "61",
+  "lat": 46.5077325,
+  "lng": 6.498554,
+  "mieter": [
+   "Restaurant du Léman"
+  ]
+ },
+ "morges|grand-rue|93": {
+  "street": "Grand-Rue",
+  "hn": "93",
+  "lat": 46.5078885,
+  "lng": 6.4970903,
+  "mieter": [
+   "Il napoletano"
+  ]
+ },
+ "morges|place de l'hôtel-de-ville|3": {
+  "street": "Place de l'Hôtel-de-Ville",
+  "hn": "3",
+  "lat": 46.508465,
+  "lng": 6.4979977,
+  "mieter": []
+ },
+ "morges|place de l'hôtel-de-ville|1": {
+  "street": "Place de l'Hôtel-de-Ville",
+  "hn": "1",
+  "lat": 46.5082655,
+  "lng": 6.4981798,
+  "mieter": []
+ },
+ "morges|grand-rue|101": {
+  "street": "Grand-Rue",
+  "hn": "101",
+  "lat": 46.5075968,
+  "lng": 6.4967102,
+  "mieter": [
+   "NH Automobiles"
+  ]
+ },
+ "morges|grand-rue|100": {
+  "street": "Grand-Rue",
+  "hn": "100",
+  "lat": 46.5080196,
+  "lng": 6.4969902,
+  "mieter": [
+   "Pharmacie Populaire"
+  ]
+ },
+ "morges|grand-rue|83-87": {
+  "street": "Grand-Rue",
+  "hn": "83-87",
+  "lat": 46.5082155,
+  "lng": 6.4975121,
+  "mieter": [
+   "Moyard"
+  ]
+ },
+ "morges|grand-rue|95": {
+  "street": "Grand-Rue",
+  "hn": "95",
+  "lat": 46.5078187,
+  "lng": 6.4969852,
+  "mieter": [
+   "Ullrich"
+  ]
+ },
+ "morges|grand-rue|79": {
+  "street": "Grand-Rue",
+  "hn": "79",
+  "lat": 46.5085718,
+  "lng": 6.4981141,
+  "mieter": []
+ },
+ "morges|rue louis-de-savoie|72": {
+  "street": "Rue Louis-de-Savoie",
+  "hn": "72",
+  "lat": 46.5080633,
+  "lng": 6.4980249,
+  "mieter": [
+   "Raffaele & Dany"
+  ]
+ },
+ "morges|grand-rue|90": {
+  "street": "Grand-Rue",
+  "hn": "90",
+  "lat": 46.5082479,
+  "lng": 6.4972409,
+  "mieter": [
+   "François Sports - Surf Shop"
+  ]
+ },
+ "morges|rue centrale|25": {
+  "street": "Rue Centrale",
+  "hn": "25",
+  "lat": 46.5104582,
+  "lng": 6.4959886,
+  "mieter": []
+ },
+ "morges|grand-rue|97": {
+  "street": "Grand-Rue",
+  "hn": "97",
+  "lat": 46.5077971,
+  "lng": 6.4969356,
+  "mieter": [
+   "La Boîte à Thé"
+  ]
+ },
+ "morges|grand-rue|102": {
+  "street": "Grand-Rue",
+  "hn": "102",
+  "lat": 46.5079028,
+  "lng": 6.4968207,
+  "mieter": []
+ },
+ "morges|rue centrale|26b": {
+  "street": "Rue Centrale",
+  "hn": "26b",
+  "lat": 46.5106705,
+  "lng": 6.4959765,
+  "mieter": [
+   "La Mobilière"
+  ]
+ },
+ "morges|rue centrale|23": {
+  "street": "Rue Centrale",
+  "hn": "23",
+  "lat": 46.510389,
+  "lng": 6.4962207,
+  "mieter": []
+ },
+ "morges|rue centrale|21": {
+  "street": "Rue Centrale",
+  "hn": "21",
+  "lat": 46.5103161,
+  "lng": 6.4964098,
+  "mieter": []
+ },
+ "morges|rue du pont-neuf|3": {
+  "street": "Rue du Pont-Neuf",
+  "hn": "3",
+  "lat": 46.5092974,
+  "lng": 6.4944503,
+  "mieter": []
+ },
+ "morges|rue du pont-neuf|1": {
+  "street": "Rue du Pont-Neuf",
+  "hn": "1",
+  "lat": 46.5093998,
+  "lng": 6.4947467,
+  "mieter": []
+ },
+ "morges|rue centrale|11": {
+  "street": "Rue Centrale",
+  "hn": "11",
+  "lat": 46.5097541,
+  "lng": 6.497682,
+  "mieter": []
+ },
+ "morges|rue centrale|13": {
+  "street": "Rue Centrale",
+  "hn": "13",
+  "lat": 46.5098942,
+  "lng": 6.49734,
+  "mieter": []
+ },
+ "morges|rue centrale|14": {
+  "street": "Rue Centrale",
+  "hn": "14",
+  "lat": 46.5099068,
+  "lng": 6.4977962,
+  "mieter": []
+ },
+ "morges|rue du pont-neuf|6": {
+  "street": "Rue du Pont-Neuf",
+  "hn": "6",
+  "lat": 46.5095755,
+  "lng": 6.4943373,
+  "mieter": []
+ },
+ "morges|rue du pont-neuf|4": {
+  "street": "Rue du Pont-Neuf",
+  "hn": "4",
+  "lat": 46.5096409,
+  "lng": 6.4945015,
+  "mieter": []
+ },
+ "morges|rue du pont-neuf|2": {
+  "street": "Rue du Pont-Neuf",
+  "hn": "2",
+  "lat": 46.5096757,
+  "lng": 6.4947152,
+  "mieter": []
+ },
+ "morges|grand-rue|98": {
+  "street": "Grand-Rue",
+  "hn": "98",
+  "lat": 46.5081635,
+  "lng": 6.4969451,
+  "mieter": []
+ },
+ "morges|grand-rue|96": {
+  "street": "Grand-Rue",
+  "hn": "96",
+  "lat": 46.5081987,
+  "lng": 6.4970039,
+  "mieter": []
+ },
+ "morges|grand-rue|94": {
+  "street": "Grand-Rue",
+  "hn": "94",
+  "lat": 46.5082333,
+  "lng": 6.4970619,
+  "mieter": []
+ },
+ "morges|grand-rue|92": {
+  "street": "Grand-Rue",
+  "hn": "92",
+  "lat": 46.508265,
+  "lng": 6.497115,
+  "mieter": []
+ },
+ "morges|grand-rue|88": {
+  "street": "Grand-Rue",
+  "hn": "88",
+  "lat": 46.508357,
+  "lng": 6.4974039,
+  "mieter": []
+ },
+ "morges|grand-rue|99": {
+  "street": "Grand-Rue",
+  "hn": "99",
+  "lat": 46.5077652,
+  "lng": 6.4968833,
+  "mieter": []
+ },
+ "morges|rue centrale|16": {
+  "street": "Rue Centrale",
+  "hn": "16",
+  "lat": 46.5100382,
+  "lng": 6.4973806,
+  "mieter": []
+ },
+ "morges|rue centrale|18a": {
+  "street": "Rue Centrale",
+  "hn": "18A",
+  "lat": 46.510111,
+  "lng": 6.4971789,
+  "mieter": []
+ },
+ "morges|rue centrale|18b": {
+  "street": "Rue Centrale",
+  "hn": "18B",
+  "lat": 46.5101525,
+  "lng": 6.4970949,
+  "mieter": []
+ },
+ "morges|rue centrale|24": {
+  "street": "Rue Centrale",
+  "hn": "24",
+  "lat": 46.510525,
+  "lng": 6.496538,
+  "mieter": [
+   "Centre médical Charpentiers"
+  ]
+ },
+ "morges|rue centrale|22": {
+  "street": "Rue Centrale",
+  "hn": "22",
+  "lat": 46.5104186,
+  "lng": 6.496735,
+  "mieter": []
+ },
+ "morges|grand-rue|91": {
+  "street": "Grand-Rue",
+  "hn": "91",
+  "lat": 46.5079264,
+  "lng": 6.4972739,
+  "mieter": []
+ },
+ "morges|grand-rue|85": {
+  "street": "Grand-Rue",
+  "hn": "85",
+  "lat": 46.5081751,
+  "lng": 6.4975882,
+  "mieter": []
+ },
+ "morges|grand-rue|83": {
+  "street": "Grand-Rue",
+  "hn": "83",
+  "lat": 46.508286,
+  "lng": 6.4977183,
+  "mieter": []
+ },
+ "morges|grand-rue|81": {
+  "street": "Grand-Rue",
+  "hn": "81",
+  "lat": 46.5084424,
+  "lng": 6.4977827,
+  "mieter": []
+ },
+ "morges|rue centrale|12": {
+  "street": "Rue Centrale",
+  "hn": "12",
+  "lat": 46.5097378,
+  "lng": 6.4981532,
+  "mieter": []
+ },
+ "morges|rue centrale|12a": {
+  "street": "Rue Centrale",
+  "hn": "12A",
+  "lat": 46.5098194,
+  "lng": 6.4979486,
+  "mieter": []
+ },
+ "morges|place de l'hôtel-de-ville|2a": {
+  "street": "Place de l'Hôtel-de-Ville",
+  "hn": "2A",
+  "lat": 46.5084247,
+  "lng": 6.4983583,
+  "mieter": []
+ },
+ "morges|grand-rue|53": {
+  "street": "Grand-Rue",
+  "hn": "53",
+  "lat": 46.5092986,
+  "lng": 6.4986952,
+  "mieter": []
+ },
+ "morges|grand-rue|51": {
+  "street": "Grand-Rue",
+  "hn": "51",
+  "lat": 46.509338,
+  "lng": 6.4987298,
+  "mieter": []
+ },
+ "morges|rue centrale|5": {
+  "street": "Rue Centrale",
+  "hn": "5",
+  "lat": 46.5092761,
+  "lng": 6.4988375,
+  "mieter": []
+ },
+ "morges|rue centrale|3": {
+  "street": "Rue Centrale",
+  "hn": "3",
+  "lat": 46.5092394,
+  "lng": 6.4988909,
+  "mieter": []
+ },
+ "morges|grand-rue|55": {
+  "street": "Grand-Rue",
+  "hn": "55",
+  "lat": 46.5092744,
+  "lng": 6.4986492,
+  "mieter": []
+ },
+ "morges|grand-rue|57": {
+  "street": "Grand-Rue",
+  "hn": "57",
+  "lat": 46.509155,
+  "lng": 6.4985538,
+  "mieter": []
+ },
+ "morges|grand-rue|59": {
+  "street": "Grand-Rue",
+  "hn": "59",
+  "lat": 46.5091087,
+  "lng": 6.4984975,
+  "mieter": []
+ },
+ "morges|grand-rue|61": {
+  "street": "Grand-Rue",
+  "hn": "61",
+  "lat": 46.5090761,
+  "lng": 6.4984609,
+  "mieter": []
+ },
+ "morges|grand-rue|63": {
+  "street": "Grand-Rue",
+  "hn": "63",
+  "lat": 46.50904,
+  "lng": 6.4984223,
+  "mieter": []
+ },
+ "morges|grand-rue|65": {
+  "street": "Grand-Rue",
+  "hn": "65",
+  "lat": 46.5090053,
+  "lng": 6.4983818,
+  "mieter": []
+ },
+ "morges|grand-rue|67": {
+  "street": "Grand-Rue",
+  "hn": "67",
+  "lat": 46.508957,
+  "lng": 6.4983334,
+  "mieter": []
+ },
+ "morges|grand-rue|69": {
+  "street": "Grand-Rue",
+  "hn": "69",
+  "lat": 46.5088885,
+  "lng": 6.4982502,
+  "mieter": []
+ },
+ "morges|grand-rue|71": {
+  "street": "Grand-Rue",
+  "hn": "71",
+  "lat": 46.5088656,
+  "lng": 6.4982285,
+  "mieter": []
+ },
+ "morges|grand-rue|73": {
+  "street": "Grand-Rue",
+  "hn": "73",
+  "lat": 46.5088073,
+  "lng": 6.4981792,
+  "mieter": []
+ },
+ "morges|grand-rue|75": {
+  "street": "Grand-Rue",
+  "hn": "75",
+  "lat": 46.5087774,
+  "lng": 6.4981515,
+  "mieter": []
+ },
+ "morges|grand-rue|77": {
+  "street": "Grand-Rue",
+  "hn": "77",
+  "lat": 46.5086618,
+  "lng": 6.4981897,
+  "mieter": []
+ },
+ "morges|place de l'hôtel-de-ville|2": {
+  "street": "Place de l'Hôtel-de-Ville",
+  "hn": "2",
+  "lat": 46.5085147,
+  "lng": 6.4982303,
+  "mieter": []
+ },
+ "morges|grand-rue|27": {
+  "street": "Grand-Rue",
+  "hn": "27",
+  "lat": 46.5099338,
+  "lng": 6.4993369,
+  "mieter": []
+ },
+ "morges|grand-rue|25": {
+  "street": "Grand-Rue",
+  "hn": "25",
+  "lat": 46.5099746,
+  "lng": 6.4993794,
+  "mieter": []
+ },
+ "morges|grand-rue|23": {
+  "street": "Grand-Rue",
+  "hn": "23",
+  "lat": 46.5100093,
+  "lng": 6.4994189,
+  "mieter": []
+ },
+ "morges|grand-rue|1": {
+  "street": "Grand-Rue",
+  "hn": "1",
+  "lat": 46.5104147,
+  "lng": 6.4997724,
+  "mieter": []
+ },
+ "morges|grand-rue|5": {
+  "street": "Grand-Rue",
+  "hn": "5",
+  "lat": 46.5103756,
+  "lng": 6.4997355,
+  "mieter": []
+ },
+ "morges|grand-rue|7": {
+  "street": "Grand-Rue",
+  "hn": "7",
+  "lat": 46.5103016,
+  "lng": 6.4996871,
+  "mieter": []
+ },
+ "morges|grand-rue|11": {
+  "street": "Grand-Rue",
+  "hn": "11",
+  "lat": 46.5102547,
+  "lng": 6.4996424,
+  "mieter": []
+ },
+ "morges|grand-rue|13": {
+  "street": "Grand-Rue",
+  "hn": "13",
+  "lat": 46.5102183,
+  "lng": 6.4996078,
+  "mieter": []
+ },
+ "morges|grand-rue|19": {
+  "street": "Grand-Rue",
+  "hn": "19",
+  "lat": 46.5100903,
+  "lng": 6.4994889,
+  "mieter": []
+ },
+ "morges|grand-rue|15": {
+  "street": "Grand-Rue",
+  "hn": "15",
+  "lat": 46.5101197,
+  "lng": 6.4995214,
+  "mieter": []
+ },
+ "morges|grand-rue|29": {
+  "street": "Grand-Rue",
+  "hn": "29",
+  "lat": 46.5098639,
+  "lng": 6.4992553,
+  "mieter": []
+ },
+ "morges|grand-rue|31": {
+  "street": "Grand-Rue",
+  "hn": "31",
+  "lat": 46.5098116,
+  "lng": 6.4991773,
+  "mieter": []
+ },
+ "morges|grand-rue|33": {
+  "street": "Grand-Rue",
+  "hn": "33",
+  "lat": 46.5097731,
+  "lng": 6.4991486,
+  "mieter": []
+ },
+ "morges|grand-rue|35": {
+  "street": "Grand-Rue",
+  "hn": "35",
+  "lat": 46.5097198,
+  "lng": 6.4990755,
+  "mieter": []
+ },
+ "morges|grand-rue|37": {
+  "street": "Grand-Rue",
+  "hn": "37",
+  "lat": 46.5097016,
+  "lng": 6.4990552,
+  "mieter": []
+ },
+ "morges|grand-rue|39": {
+  "street": "Grand-Rue",
+  "hn": "39",
+  "lat": 46.5096283,
+  "lng": 6.4990036,
+  "mieter": []
+ },
+ "morges|grand-rue|41": {
+  "street": "Grand-Rue",
+  "hn": "41",
+  "lat": 46.5095913,
+  "lng": 6.4989665,
+  "mieter": []
+ },
+ "morges|grand-rue|43": {
+  "street": "Grand-Rue",
+  "hn": "43",
+  "lat": 46.5095531,
+  "lng": 6.4989252,
+  "mieter": []
+ },
+ "morges|grand-rue|45": {
+  "street": "Grand-Rue",
+  "hn": "45",
+  "lat": 46.5095115,
+  "lng": 6.4988808,
+  "mieter": []
+ },
+ "morges|grand-rue|49": {
+  "street": "Grand-Rue",
+  "hn": "49",
+  "lat": 46.5094533,
+  "lng": 6.4988178,
+  "mieter": []
+ },
+ "morges|rue centrale|6": {
+  "street": "Rue Centrale",
+  "hn": "6",
+  "lat": 46.5093998,
+  "lng": 6.4988351,
+  "mieter": []
+ },
+ "morges|rue centrale|4": {
+  "street": "Rue Centrale",
+  "hn": "4",
+  "lat": 46.5093093,
+  "lng": 6.4989721,
+  "mieter": []
+ },
+ "morges|grand-rue|36": {
+  "street": "Grand-Rue",
+  "hn": "36",
+  "lat": 46.5095372,
+  "lng": 6.4986977,
+  "mieter": []
+ },
+ "morges|grand-rue|34": {
+  "street": "Grand-Rue",
+  "hn": "34",
+  "lat": 46.5097701,
+  "lng": 6.4989331,
+  "mieter": []
+ },
+ "morges|grand-rue|32": {
+  "street": "Grand-Rue",
+  "hn": "32",
+  "lat": 46.5098208,
+  "lng": 6.4989373,
+  "mieter": []
+ },
+ "morges|grand-rue|30": {
+  "street": "Grand-Rue",
+  "hn": "30",
+  "lat": 46.5098523,
+  "lng": 6.4989752,
+  "mieter": []
+ },
+ "morges|grand-rue|28": {
+  "street": "Grand-Rue",
+  "hn": "28",
+  "lat": 46.5098841,
+  "lng": 6.4990154,
+  "mieter": []
+ },
+ "morges|grand-rue|26": {
+  "street": "Grand-Rue",
+  "hn": "26",
+  "lat": 46.5099171,
+  "lng": 6.4990622,
+  "mieter": []
+ },
+ "morges|grand-rue|24": {
+  "street": "Grand-Rue",
+  "hn": "24",
+  "lat": 46.5099411,
+  "lng": 6.4990916,
+  "mieter": []
+ },
+ "morges|grand-rue|22": {
+  "street": "Grand-Rue",
+  "hn": "22",
+  "lat": 46.5099747,
+  "lng": 6.4991283,
+  "mieter": []
+ },
+ "morges|grand-rue|20": {
+  "street": "Grand-Rue",
+  "hn": "20",
+  "lat": 46.510023,
+  "lng": 6.4991865,
+  "mieter": []
+ },
+ "morges|grand-rue|18": {
+  "street": "Grand-Rue",
+  "hn": "18",
+  "lat": 46.5100813,
+  "lng": 6.4992501,
+  "mieter": []
+ },
+ "morges|grand-rue|16": {
+  "street": "Grand-Rue",
+  "hn": "16",
+  "lat": 46.5101342,
+  "lng": 6.4993113,
+  "mieter": []
+ },
+ "morges|grand-rue|14": {
+  "street": "Grand-Rue",
+  "hn": "14",
+  "lat": 46.5101792,
+  "lng": 6.4993623,
+  "mieter": []
+ },
+ "morges|grand-rue|12": {
+  "street": "Grand-Rue",
+  "hn": "12",
+  "lat": 46.5102168,
+  "lng": 6.4993995,
+  "mieter": []
+ },
+ "morges|grand-rue|10": {
+  "street": "Grand-Rue",
+  "hn": "10",
+  "lat": 46.5102599,
+  "lng": 6.4994348,
+  "mieter": []
+ },
+ "morges|grand-rue|8": {
+  "street": "Grand-Rue",
+  "hn": "8",
+  "lat": 46.510282,
+  "lng": 6.4994745,
+  "mieter": []
+ },
+ "morges|grand-rue|6": {
+  "street": "Grand-Rue",
+  "hn": "6",
+  "lat": 46.5103279,
+  "lng": 6.499519,
+  "mieter": []
+ },
+ "morges|grand-rue|4": {
+  "street": "Grand-Rue",
+  "hn": "4",
+  "lat": 46.5103779,
+  "lng": 6.4995838,
+  "mieter": []
+ },
+ "morges|grand-rue|2": {
+  "street": "Grand-Rue",
+  "hn": "2",
+  "lat": 46.5104212,
+  "lng": 6.4996252,
+  "mieter": []
+ },
+ "morges|grand-rue|68": {
+  "street": "Grand-Rue",
+  "hn": "68",
+  "lat": 46.5088639,
+  "lng": 6.4978821,
+  "mieter": []
+ },
+ "morges|grand-rue|86": {
+  "street": "Grand-Rue",
+  "hn": "86",
+  "lat": 46.5084514,
+  "lng": 6.4973799,
+  "mieter": []
+ },
+ "morges|grand-rue|84": {
+  "street": "Grand-Rue",
+  "hn": "84",
+  "lat": 46.5084209,
+  "lng": 6.4975021,
+  "mieter": []
+ },
+ "morges|grand-rue|82": {
+  "street": "Grand-Rue",
+  "hn": "82",
+  "lat": 46.5085471,
+  "lng": 6.4974964,
+  "mieter": []
+ },
+ "morges|grand-rue|80": {
+  "street": "Grand-Rue",
+  "hn": "80",
+  "lat": 46.5085413,
+  "lng": 6.4976449,
+  "mieter": [
+   "La Maison du Vrac"
+  ]
+ },
+ "morges|grand-rue|78": {
+  "street": "Grand-Rue",
+  "hn": "78",
+  "lat": 46.5086394,
+  "lng": 6.4976088,
+  "mieter": []
+ },
+ "morges|grand-rue|76": {
+  "street": "Grand-Rue",
+  "hn": "76",
+  "lat": 46.5086749,
+  "lng": 6.497652,
+  "mieter": []
+ },
+ "morges|grand-rue|72": {
+  "street": "Grand-Rue",
+  "hn": "72",
+  "lat": 46.5087518,
+  "lng": 6.4977456,
+  "mieter": []
+ },
+ "morges|grand-rue|70": {
+  "street": "Grand-Rue",
+  "hn": "70",
+  "lat": 46.5087368,
+  "lng": 6.4978652,
+  "mieter": []
+ },
+ "morges|grand-rue|74": {
+  "street": "Grand-Rue",
+  "hn": "74",
+  "lat": 46.5087119,
+  "lng": 6.497697,
+  "mieter": [
+   "Kuoni"
+  ]
+ },
+ "morges|grand-rue|66": {
+  "street": "Grand-Rue",
+  "hn": "66",
+  "lat": 46.5089108,
+  "lng": 6.4979392,
+  "mieter": []
+ },
+ "morges|grand-rue|64": {
+  "street": "Grand-Rue",
+  "hn": "64",
+  "lat": 46.5089542,
+  "lng": 6.4980011,
+  "mieter": []
+ },
+ "morges|grand-rue|62": {
+  "street": "Grand-Rue",
+  "hn": "62",
+  "lat": 46.5089876,
+  "lng": 6.4980452,
+  "mieter": []
+ },
+ "morges|grand-rue|60": {
+  "street": "Grand-Rue",
+  "hn": "60",
+  "lat": 46.5090319,
+  "lng": 6.4981006,
+  "mieter": []
+ },
+ "morges|grand-rue|58": {
+  "street": "Grand-Rue",
+  "hn": "58",
+  "lat": 46.5091021,
+  "lng": 6.4981285,
+  "mieter": []
+ },
+ "morges|grand-rue|52": {
+  "street": "Grand-Rue",
+  "hn": "52",
+  "lat": 46.509285,
+  "lng": 6.4982845,
+  "mieter": []
+ },
+ "morges|grand-rue|50": {
+  "street": "Grand-Rue",
+  "hn": "50",
+  "lat": 46.5092865,
+  "lng": 6.4984253,
+  "mieter": []
+ },
+ "morges|grand-rue|48": {
+  "street": "Grand-Rue",
+  "hn": "48",
+  "lat": 46.5093321,
+  "lng": 6.4984761,
+  "mieter": []
+ },
+ "morges|rue centrale|7": {
+  "street": "Rue Centrale",
+  "hn": "7",
+  "lat": 46.5094453,
+  "lng": 6.4983447,
+  "mieter": []
+ },
+ "morges|rue centrale|9": {
+  "street": "Rue Centrale",
+  "hn": "9",
+  "lat": 46.5096127,
+  "lng": 6.498068,
+  "mieter": []
+ },
+ "morges|grand-rue|56": {
+  "street": "Grand-Rue",
+  "hn": "56",
+  "lat": 46.5091621,
+  "lng": 6.4981577,
+  "mieter": []
+ },
+ "morges|grand-rue|54": {
+  "street": "Grand-Rue",
+  "hn": "54",
+  "lat": 46.5092289,
+  "lng": 6.498216,
+  "mieter": []
+ },
+ "morges|grand-rue|89": {
+  "street": "Grand-Rue",
+  "hn": "89",
+  "lat": 46.5079876,
+  "lng": 6.4973373,
+  "mieter": []
+ },
+ "morges|rue centrale|1": {
+  "street": "Rue Centrale",
+  "hn": "1",
+  "lat": 46.5091219,
+  "lng": 6.4990615,
+  "mieter": []
+ },
+ "morges|grand-rue|87": {
+  "street": "Grand-Rue",
+  "hn": "87",
+  "lat": 46.5080684,
+  "lng": 6.497454,
+  "mieter": []
+ },
+ "morges|grand-rue|21": {
+  "street": "Grand-Rue",
+  "hn": "21",
+  "lat": 46.5100501,
+  "lng": 6.4994601,
+  "mieter": []
+ },
+ "morges|rue louis-de-savoie|69": {
+  "street": "Rue Louis-de-Savoie",
+  "hn": "69",
+  "lat": 46.5077755,
+  "lng": 6.4979384,
+  "mieter": []
+ },
+ "morges|rue centrale|29": {
+  "street": "Rue Centrale",
+  "hn": "29",
+  "lat": 46.5107576,
+  "lng": 6.4953402,
+  "mieter": []
+ },
+ "morges|rue centrale|27": {
+  "street": "Rue Centrale",
+  "hn": "27",
+  "lat": 46.5107293,
+  "lng": 6.4954038,
+  "mieter": []
+ },
+ "morges|rue centrale|26a": {
+  "street": "Rue Centrale",
+  "hn": "26A",
+  "lat": 46.5105912,
+  "lng": 6.4961906,
+  "mieter": []
+ },
+ "morges|rue louis-de-savoie|24": {
+  "street": "Rue Louis-de-Savoie",
+  "hn": "24",
+  "lat": 46.5096045,
+  "lng": 6.4997099,
+  "mieter": [
+   "Madame Kim"
+  ]
+ },
+ "morges|grand-rue|73-75": {
+  "street": "Grand-Rue",
+  "hn": "73-75",
+  "lat": 46.5087673,
+  "lng": 6.4982175,
+  "mieter": [
+   "Unia"
+  ]
+ }
+}

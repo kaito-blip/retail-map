@@ -1,0 +1,1638 @@
+{
+ "zermatt|bahnhofplatz|6": {
+  "street": "Bahnhofplatz",
+  "hn": "6",
+  "lat": 46.0235437,
+  "lng": 7.7484443,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "zermatt|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 46.0229061,
+  "lng": 7.7475402,
+  "mieter": [
+   "McDonald's"
+  ]
+ },
+ "zermatt|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 46.021898,
+  "lng": 7.7472172,
+  "mieter": [
+   "Testa Grigia",
+   "Hotel Testa Grigia"
+  ]
+ },
+ "zermatt|schluhmattstrasse|97": {
+  "street": "Schluhmattstrasse",
+  "hn": "97",
+  "lat": 46.0159283,
+  "lng": 7.7433736,
+  "mieter": [
+   "la Taverne"
+  ]
+ },
+ "zermatt|bahnhofstrasse|43": {
+  "street": "Bahnhofstrasse",
+  "hn": "43",
+  "lat": 46.0205663,
+  "lng": 7.7464218,
+  "mieter": [
+   "Hexen Bar"
+  ]
+ },
+ "zermatt|bahnhofstrasse|2 or 4?": {
+  "street": "Bahnhofstrasse",
+  "hn": "2 or 4?",
+  "lat": 46.0234088,
+  "lng": 7.7477594,
+  "mieter": [
+   "avec"
+  ]
+ },
+ "zermatt|schluhmattstrasse|1": {
+  "street": "Schluhmattstrasse",
+  "hn": "1",
+  "lat": 46.0187587,
+  "lng": 7.7482871,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|28": {
+  "street": "Bahnhofstrasse",
+  "hn": "28",
+  "lat": 46.0222482,
+  "lng": 7.7471129,
+  "mieter": [
+   "Fuchs",
+   "Vegistube"
+  ]
+ },
+ "zermatt|bahnhofplatz|3": {
+  "street": "Bahnhofplatz",
+  "hn": "3",
+  "lat": 46.0235935,
+  "lng": 7.7475646,
+  "mieter": [
+   "Kantonspolizei"
+  ]
+ },
+ "zermatt|bahnhofplatz|1": {
+  "street": "Bahnhofplatz",
+  "hn": "1",
+  "lat": 46.0235268,
+  "lng": 7.747675,
+  "mieter": [
+   "Müller"
+  ]
+ },
+ "zermatt|hofmattstrasse|4": {
+  "street": "Hofmattstrasse",
+  "hn": "4",
+  "lat": 46.0219724,
+  "lng": 7.7477286,
+  "mieter": [
+   "Julen Sport"
+  ]
+ },
+ "zermatt|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 46.0227922,
+  "lng": 7.7476527,
+  "mieter": [
+   "Schindler",
+   "La Muña"
+  ]
+ },
+ "zermatt|kirchplatz|3": {
+  "street": "Kirchplatz",
+  "hn": "3",
+  "lat": 46.0193622,
+  "lng": 7.7461624,
+  "mieter": [
+   "Gemeindehaus"
+  ]
+ },
+ "zermatt|bahnhofplatz|54": {
+  "street": "Bahnhofplatz",
+  "hn": "54",
+  "lat": 46.0243709,
+  "lng": 7.7487609,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|5": {
+  "street": "Bahnhofplatz",
+  "hn": "5",
+  "lat": 46.0236881,
+  "lng": 7.747672,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|12": {
+  "street": "Hofmattstrasse",
+  "hn": "12",
+  "lat": 46.0217606,
+  "lng": 7.7481937,
+  "mieter": [
+   "Migros",
+   "Capri"
+  ]
+ },
+ "zermatt|hofmattstrasse|7": {
+  "street": "Hofmattstrasse",
+  "hn": "7",
+  "lat": 46.0219914,
+  "lng": 7.7484465,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|2": {
+  "street": "Bahnhofplatz",
+  "hn": "2",
+  "lat": 46.0235156,
+  "lng": 7.7480914,
+  "mieter": [
+   "Mont Bell",
+   "Golden India Zermatt"
+  ]
+ },
+ "zermatt|bahnhofstrasse|45": {
+  "street": "Bahnhofstrasse",
+  "hn": "45",
+  "lat": 46.0205277,
+  "lng": 7.7465514,
+  "mieter": [
+   "Stadel"
+  ]
+ },
+ "zermatt|bahnhofstrasse|41": {
+  "street": "Bahnhofstrasse",
+  "hn": "41",
+  "lat": 46.0206963,
+  "lng": 7.7464913,
+  "mieter": [
+   "Pöstli Stübli",
+   "Brown Cow Pub",
+   "Vivanda"
+  ]
+ },
+ "zermatt|schluhmattstrasse|131": {
+  "street": "Schluhmattstrasse",
+  "hn": "131",
+  "lat": 46.0140009,
+  "lng": 7.7425865,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|80": {
+  "street": "Bahnhofstrasse",
+  "hn": "80",
+  "lat": 46.0201555,
+  "lng": 7.7462059,
+  "mieter": [
+   "Whymper-Stube"
+  ]
+ },
+ "zermatt|hofmattstrasse|38": {
+  "street": "Hofmattstrasse",
+  "hn": "38",
+  "lat": 46.0208994,
+  "lng": 7.7490081,
+  "mieter": [
+   "La Ferme"
+  ]
+ },
+ "zermatt|bahnhofstrasse|64": {
+  "street": "Bahnhofstrasse",
+  "hn": "64",
+  "lat": 46.0209307,
+  "lng": 7.7464702,
+  "mieter": [
+   "Le Gitan"
+  ]
+ },
+ "zermatt|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 46.0216269,
+  "lng": 7.7468005,
+  "mieter": [
+   "Walliserkame Steakhouse",
+   "China Garden",
+   "PeakPerformance"
+  ]
+ },
+ "zermatt|schluhmattstrasse|58": {
+  "street": "Schluhmattstrasse",
+  "hn": "58",
+  "lat": 46.0152426,
+  "lng": 7.7422902,
+  "mieter": [
+   "Schmugglerhöhle"
+  ]
+ },
+ "zermatt|bahnhofstrasse|102": {
+  "street": "Bahnhofstrasse",
+  "hn": "102",
+  "lat": 46.0198303,
+  "lng": 7.7461218,
+  "mieter": [
+   "Bogner"
+  ]
+ },
+ "zermatt|schluhmattstrasse|15": {
+  "street": "Schluhmattstrasse",
+  "hn": "15",
+  "lat": 46.0182393,
+  "lng": 7.7478459,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|19": {
+  "street": "Schluhmattstrasse",
+  "hn": "19",
+  "lat": 46.0181254,
+  "lng": 7.7475615,
+  "mieter": [
+   "Fuji",
+   "Rua Thai"
+  ]
+ },
+ "zermatt|schluhmattstrasse|31": {
+  "street": "Schluhmattstrasse",
+  "hn": "31",
+  "lat": 46.0177279,
+  "lng": 7.7469494,
+  "mieter": [
+   "Top Of Zermatt",
+   "Massage Yin Yang"
+  ]
+ },
+ "zermatt|schluhmattstrasse|53": {
+  "street": "Schluhmattstrasse",
+  "hn": "53",
+  "lat": 46.0173106,
+  "lng": 7.7460606,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|55": {
+  "street": "Schluhmattstrasse",
+  "hn": "55",
+  "lat": 46.0171324,
+  "lng": 7.745659,
+  "mieter": [
+   "Bar 55"
+  ]
+ },
+ "zermatt|schluhmattstrasse|69": {
+  "street": "Schluhmattstrasse",
+  "hn": "69",
+  "lat": 46.0158386,
+  "lng": 7.7456183,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|59": {
+  "street": "Schluhmattstrasse",
+  "hn": "59",
+  "lat": 46.0168794,
+  "lng": 7.7452203,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|117": {
+  "street": "Schluhmattstrasse",
+  "hn": "117",
+  "lat": 46.0152214,
+  "lng": 7.7429588,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|121": {
+  "street": "Schluhmattstrasse",
+  "hn": "121",
+  "lat": 46.0149653,
+  "lng": 7.7427224,
+  "mieter": [
+   "Dorsaz Sport"
+  ]
+ },
+ "zermatt|schluhmattstrasse|229": {
+  "street": "Schluhmattstrasse",
+  "hn": "229",
+  "lat": 46.0123836,
+  "lng": 7.7461312,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|130": {
+  "street": "Schluhmattstrasse",
+  "hn": "130",
+  "lat": 46.0125169,
+  "lng": 7.7426362,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|165": {
+  "street": "Schluhmattstrasse",
+  "hn": "165",
+  "lat": 46.013036,
+  "lng": 7.7422196,
+  "mieter": [
+   "Bergstube"
+  ]
+ },
+ "zermatt|schluhmattstrasse|141": {
+  "street": "Schluhmattstrasse",
+  "hn": "141",
+  "lat": 46.0135532,
+  "lng": 7.7420531,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|76": {
+  "street": "Schluhmattstrasse",
+  "hn": "76",
+  "lat": 46.0138836,
+  "lng": 7.741918,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|64": {
+  "street": "Schluhmattstrasse",
+  "hn": "64",
+  "lat": 46.0146773,
+  "lng": 7.7420804,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|60": {
+  "street": "Schluhmattstrasse",
+  "hn": "60",
+  "lat": 46.0148732,
+  "lng": 7.7423645,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|58": {
+  "street": "Bahnhofplatz",
+  "hn": "58",
+  "lat": 46.0248097,
+  "lng": 7.7490768,
+  "mieter": [
+   "Zahnärzte"
+  ]
+ },
+ "zermatt|bahnhofplatz|50": {
+  "street": "Bahnhofplatz",
+  "hn": "50",
+  "lat": 46.024309,
+  "lng": 7.749034,
+  "mieter": [
+   "Rosstall"
+  ]
+ },
+ "zermatt|bahnhofplatz|36": {
+  "street": "Bahnhofplatz",
+  "hn": "36",
+  "lat": 46.0242771,
+  "lng": 7.7487941,
+  "mieter": [
+   "CasaMia"
+  ]
+ },
+ "zermatt|bahnhofplatz|14": {
+  "street": "Bahnhofplatz",
+  "hn": "14",
+  "lat": 46.0240251,
+  "lng": 7.7492519,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|18": {
+  "street": "Bahnhofplatz",
+  "hn": "18",
+  "lat": 46.0240778,
+  "lng": 7.7496979,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 46.0233703,
+  "lng": 7.7479699,
+  "mieter": [
+   "Bistro Bar"
+  ]
+ },
+ "zermatt|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 46.0232505,
+  "lng": 7.7478979,
+  "mieter": [
+   "Mammut"
+  ]
+ },
+ "zermatt|hofmattstrasse|23": {
+  "street": "Hofmattstrasse",
+  "hn": "23",
+  "lat": 46.0208132,
+  "lng": 7.7491379,
+  "mieter": [
+   "Le Mazot"
+  ]
+ },
+ "zermatt|bahnhofstrasse|7b": {
+  "street": "Bahnhofstrasse",
+  "hn": "7b",
+  "lat": 46.0225935,
+  "lng": 7.7474926,
+  "mieter": [
+   "Estheme Cashmere"
+  ]
+ },
+ "zermatt|hofmattstrasse|2": {
+  "street": "Hofmattstrasse",
+  "hn": "2",
+  "lat": 46.0221182,
+  "lng": 7.7475349,
+  "mieter": [
+   "Millet"
+  ]
+ },
+ "zermatt|bahnhofstrasse|31": {
+  "street": "Bahnhofstrasse",
+  "hn": "31",
+  "lat": 46.0210313,
+  "lng": 7.7470589,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|14": {
+  "street": "Hofmattstrasse",
+  "hn": "14",
+  "lat": 46.0216193,
+  "lng": 7.7485055,
+  "mieter": [
+   "Olmo"
+  ]
+ },
+ "zermatt|hofmattstrasse|30": {
+  "street": "Hofmattstrasse",
+  "hn": "30",
+  "lat": 46.0213226,
+  "lng": 7.7486985,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|20": {
+  "street": "Hofmattstrasse",
+  "hn": "20",
+  "lat": 46.0210441,
+  "lng": 7.7484124,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|35": {
+  "street": "Bahnhofstrasse",
+  "hn": "35",
+  "lat": 46.0209254,
+  "lng": 7.7466587,
+  "mieter": [
+   "Bayard"
+  ]
+ },
+ "zermatt|bahnhofstrasse|39": {
+  "street": "Bahnhofstrasse",
+  "hn": "39",
+  "lat": 46.0208315,
+  "lng": 7.7465278,
+  "mieter": [
+   "Fernanda's"
+  ]
+ },
+ "zermatt|bahnhofstrasse|55": {
+  "street": "Bahnhofstrasse",
+  "hn": "55",
+  "lat": 46.0199454,
+  "lng": 7.7466405,
+  "mieter": [
+   "Prato Borni"
+  ]
+ },
+ "zermatt|bahnhofplatz|7": {
+  "street": "Bahnhofplatz",
+  "hn": "7",
+  "lat": 46.0241951,
+  "lng": 7.7482596,
+  "mieter": [
+   "Pizza Delivery Zermatt"
+  ]
+ },
+ "zermatt|bahnhofstrasse|32": {
+  "street": "Bahnhofstrasse",
+  "hn": "32",
+  "lat": 46.0218436,
+  "lng": 7.7470263,
+  "mieter": [
+   "Walliserkanne"
+  ]
+ },
+ "zermatt|bahnhofstrasse|52": {
+  "street": "Bahnhofstrasse",
+  "hn": "52",
+  "lat": 46.0216905,
+  "lng": 7.7468278,
+  "mieter": [
+   "Lindt",
+   "Molino Pizzeria Ristorante"
+  ]
+ },
+ "zermatt|bahnhofstrasse|60": {
+  "street": "Bahnhofstrasse",
+  "hn": "60",
+  "lat": 46.0210203,
+  "lng": 7.7465833,
+  "mieter": [
+   "Little Bar"
+  ]
+ },
+ "zermatt|bahnhofstrasse|72": {
+  "street": "Bahnhofstrasse",
+  "hn": "72",
+  "lat": 46.0205999,
+  "lng": 7.7463455,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|92": {
+  "street": "Bahnhofstrasse",
+  "hn": "92",
+  "lat": 46.0199951,
+  "lng": 7.746147,
+  "mieter": [
+   "Gemeinde Bibliothek"
+  ]
+ },
+ "zermatt|bahnhofstrasse|84": {
+  "street": "Bahnhofstrasse",
+  "hn": "84",
+  "lat": 46.0201744,
+  "lng": 7.7458373,
+  "mieter": [
+   "1818"
+  ]
+ },
+ "zermatt|bahnhofstrasse|20": {
+  "street": "Bahnhofstrasse",
+  "hn": "20",
+  "lat": 46.0226653,
+  "lng": 7.7473427,
+  "mieter": [
+   "Yosemite"
+  ]
+ },
+ "zermatt|bahnhofstrasse|50": {
+  "street": "Bahnhofstrasse",
+  "hn": "50",
+  "lat": 46.0217245,
+  "lng": 7.7467856,
+  "mieter": [
+   "Dr. med. Dieter Stoessel"
+  ]
+ },
+ "zermatt|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 46.0228462,
+  "lng": 7.7476751,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 46.0223191,
+  "lng": 7.7474821,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|30": {
+  "street": "Bahnhofstrasse",
+  "hn": "30",
+  "lat": 46.021964,
+  "lng": 7.7470237,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|30a": {
+  "street": "Bahnhofstrasse",
+  "hn": "30a",
+  "lat": 46.0219061,
+  "lng": 7.7469948,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|200": {
+  "street": "Schluhmattstrasse",
+  "hn": "200",
+  "lat": 46.012334,
+  "lng": 7.7448608,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|78": {
+  "street": "Bahnhofstrasse",
+  "hn": "78",
+  "lat": 46.0201641,
+  "lng": 7.7461481,
+  "mieter": [
+   "Matterhorn Sport"
+  ]
+ },
+ "zermatt|bahnhofstrasse|25": {
+  "street": "Bahnhofstrasse",
+  "hn": "25",
+  "lat": 46.021754,
+  "lng": 7.7471142,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|27": {
+  "street": "Schluhmattstrasse",
+  "hn": "27",
+  "lat": 46.0178253,
+  "lng": 7.7472249,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|39a": {
+  "street": "Bahnhofstrasse",
+  "hn": "39a",
+  "lat": 46.0208181,
+  "lng": 7.746573,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|8": {
+  "street": "Kirchplatz",
+  "hn": "8",
+  "lat": 46.0198511,
+  "lng": 7.7457819,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|16": {
+  "street": "Kirchplatz",
+  "hn": "16",
+  "lat": 46.0196881,
+  "lng": 7.7460503,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 46.0229995,
+  "lng": 7.7473029,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|26": {
+  "street": "Bahnhofstrasse",
+  "hn": "26",
+  "lat": 46.0223598,
+  "lng": 7.7472306,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|53": {
+  "street": "Bahnhofstrasse",
+  "hn": "53",
+  "lat": 46.0203726,
+  "lng": 7.7468385,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|96": {
+  "street": "Bahnhofstrasse",
+  "hn": "96",
+  "lat": 46.0199279,
+  "lng": 7.7456749,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|12": {
+  "street": "Kirchplatz",
+  "hn": "12",
+  "lat": 46.0196693,
+  "lng": 7.7457791,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|9": {
+  "street": "Kirchplatz",
+  "hn": "9",
+  "lat": 46.0195119,
+  "lng": 7.7473594,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|66": {
+  "street": "Bahnhofstrasse",
+  "hn": "66",
+  "lat": 46.0208944,
+  "lng": 7.7462498,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|18": {
+  "street": "Kirchplatz",
+  "hn": "18",
+  "lat": 46.0196122,
+  "lng": 7.7460501,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|22": {
+  "street": "Bahnhofstrasse",
+  "hn": "22",
+  "lat": 46.0225502,
+  "lng": 7.747309,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|47": {
+  "street": "Bahnhofstrasse",
+  "hn": "47",
+  "lat": 46.020471,
+  "lng": 7.7467095,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|14": {
+  "street": "Kirchplatz",
+  "hn": "14",
+  "lat": 46.01966,
+  "lng": 7.7458614,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|74": {
+  "street": "Bahnhofstrasse",
+  "hn": "74",
+  "lat": 46.0206523,
+  "lng": 7.7461225,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|76": {
+  "street": "Bahnhofstrasse",
+  "hn": "76",
+  "lat": 46.020567,
+  "lng": 7.7460573,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|1": {
+  "street": "Kirchplatz",
+  "hn": "1",
+  "lat": 46.0195373,
+  "lng": 7.7462825,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|6": {
+  "street": "Kirchplatz",
+  "hn": "6",
+  "lat": 46.0198102,
+  "lng": 7.7458213,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|4": {
+  "street": "Kirchplatz",
+  "hn": "4",
+  "lat": 46.0197515,
+  "lng": 7.7459464,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|37": {
+  "street": "Bahnhofstrasse",
+  "hn": "37",
+  "lat": 46.0208762,
+  "lng": 7.7466118,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|33": {
+  "street": "Bahnhofstrasse",
+  "hn": "33",
+  "lat": 46.0210232,
+  "lng": 7.7468451,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|57": {
+  "street": "Bahnhofstrasse",
+  "hn": "57",
+  "lat": 46.0199446,
+  "lng": 7.7463737,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|90": {
+  "street": "Bahnhofstrasse",
+  "hn": "90",
+  "lat": 46.0201499,
+  "lng": 7.7457169,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|78b": {
+  "street": "Bahnhofstrasse",
+  "hn": "78b",
+  "lat": 46.0204137,
+  "lng": 7.7462189,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|82": {
+  "street": "Bahnhofstrasse",
+  "hn": "82",
+  "lat": 46.0203109,
+  "lng": 7.7459883,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|100": {
+  "street": "Bahnhofstrasse",
+  "hn": "100",
+  "lat": 46.019877,
+  "lng": 7.7459341,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|24": {
+  "street": "Bahnhofstrasse",
+  "hn": "24",
+  "lat": 46.0224588,
+  "lng": 7.7472808,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|46": {
+  "street": "Bahnhofstrasse",
+  "hn": "46",
+  "lat": 46.0217264,
+  "lng": 7.7462863,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|42": {
+  "street": "Bahnhofstrasse",
+  "hn": "42",
+  "lat": 46.0218953,
+  "lng": 7.7458909,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|48": {
+  "street": "Bahnhofstrasse",
+  "hn": "48",
+  "lat": 46.0217692,
+  "lng": 7.7463038,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|44": {
+  "street": "Bahnhofstrasse",
+  "hn": "44",
+  "lat": 46.0218613,
+  "lng": 7.7461814,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|98": {
+  "street": "Bahnhofstrasse",
+  "hn": "98",
+  "lat": 46.0198875,
+  "lng": 7.7457804,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 46.0220315,
+  "lng": 7.7472442,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|27": {
+  "street": "Bahnhofstrasse",
+  "hn": "27",
+  "lat": 46.0217017,
+  "lng": 7.7470886,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|38": {
+  "street": "Bahnhofstrasse",
+  "hn": "38",
+  "lat": 46.0219948,
+  "lng": 7.746281,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|68": {
+  "street": "Bahnhofstrasse",
+  "hn": "68",
+  "lat": 46.020786,
+  "lng": 7.7463926,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|10": {
+  "street": "Kirchplatz",
+  "hn": "10",
+  "lat": 46.0197705,
+  "lng": 7.7457764,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|23": {
+  "street": "Bahnhofstrasse",
+  "hn": "23",
+  "lat": 46.0216842,
+  "lng": 7.7472401,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|58": {
+  "street": "Bahnhofstrasse",
+  "hn": "58",
+  "lat": 46.0211588,
+  "lng": 7.7467466,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|49": {
+  "street": "Bahnhofstrasse",
+  "hn": "49",
+  "lat": 46.0204873,
+  "lng": 7.7464004,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|45a": {
+  "street": "Bahnhofstrasse",
+  "hn": "45a",
+  "lat": 46.0205645,
+  "lng": 7.7466626,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|78a": {
+  "street": "Bahnhofstrasse",
+  "hn": "78a",
+  "lat": 46.0204756,
+  "lng": 7.7461288,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|11": {
+  "street": "Kirchplatz",
+  "hn": "11",
+  "lat": 46.0197446,
+  "lng": 7.7464065,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|62": {
+  "street": "Bahnhofstrasse",
+  "hn": "62",
+  "lat": 46.0209762,
+  "lng": 7.7465887,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|29": {
+  "street": "Bahnhofstrasse",
+  "hn": "29",
+  "lat": 46.0215564,
+  "lng": 7.7470751,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|19": {
+  "street": "Bahnhofstrasse",
+  "hn": "19",
+  "lat": 46.0219672,
+  "lng": 7.7471987,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|94": {
+  "street": "Bahnhofstrasse",
+  "hn": "94",
+  "lat": 46.0200682,
+  "lng": 7.7457791,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|21": {
+  "street": "Schluhmattstrasse",
+  "hn": "21",
+  "lat": 46.0180731,
+  "lng": 7.7473488,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|36": {
+  "street": "Bahnhofstrasse",
+  "hn": "36",
+  "lat": 46.0219306,
+  "lng": 7.7463708,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|2": {
+  "street": "Kirchplatz",
+  "hn": "2",
+  "lat": 46.019736,
+  "lng": 7.7460517,
+  "mieter": []
+ },
+ "zermatt|kirchplatz|7": {
+  "street": "Kirchplatz",
+  "hn": "7",
+  "lat": 46.019275,
+  "lng": 7.7464698,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|11": {
+  "street": "Hofmattstrasse",
+  "hn": "11",
+  "lat": 46.0215308,
+  "lng": 7.748812,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|2": {
+  "street": "Schluhmattstrasse",
+  "hn": "2",
+  "lat": 46.0187304,
+  "lng": 7.7480517,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|5": {
+  "street": "Hofmattstrasse",
+  "hn": "5",
+  "lat": 46.0221071,
+  "lng": 7.7481535,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|7": {
+  "street": "Schluhmattstrasse",
+  "hn": "7",
+  "lat": 46.0184617,
+  "lng": 7.7479807,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|23": {
+  "street": "Schluhmattstrasse",
+  "hn": "23",
+  "lat": 46.0179494,
+  "lng": 7.7474403,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 46.0232255,
+  "lng": 7.7477198,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|9": {
+  "street": "Schluhmattstrasse",
+  "hn": "9",
+  "lat": 46.0183533,
+  "lng": 7.7481862,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 46.0224882,
+  "lng": 7.7474522,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|28": {
+  "street": "Hofmattstrasse",
+  "hn": "28",
+  "lat": 46.0209859,
+  "lng": 7.7487404,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|18": {
+  "street": "Hofmattstrasse",
+  "hn": "18",
+  "lat": 46.0210851,
+  "lng": 7.7482536,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|16": {
+  "street": "Hofmattstrasse",
+  "hn": "16",
+  "lat": 46.0214925,
+  "lng": 7.748687,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 46.022436,
+  "lng": 7.7474195,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 46.0228842,
+  "lng": 7.7474461,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 46.0230264,
+  "lng": 7.7475998,
+  "mieter": [
+   "Potato-FINE FOOD RESTAURANT"
+  ]
+ },
+ "zermatt|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 46.0231573,
+  "lng": 7.7476893,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|3": {
+  "street": "Schluhmattstrasse",
+  "hn": "3",
+  "lat": 46.0186657,
+  "lng": 7.7481974,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|7c": {
+  "street": "Bahnhofstrasse",
+  "hn": "7c",
+  "lat": 46.0225566,
+  "lng": 7.7474755,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|9": {
+  "street": "Hofmattstrasse",
+  "hn": "9",
+  "lat": 46.0217867,
+  "lng": 7.74893,
+  "mieter": []
+ },
+ "zermatt|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 46.0231186,
+  "lng": 7.7475798,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|3": {
+  "street": "Hofmattstrasse",
+  "hn": "3",
+  "lat": 46.0222031,
+  "lng": 7.7476182,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|32": {
+  "street": "Hofmattstrasse",
+  "hn": "32",
+  "lat": 46.0210255,
+  "lng": 7.7489092,
+  "mieter": []
+ },
+ "zermatt|hofmattstrasse|17": {
+  "street": "Hofmattstrasse",
+  "hn": "17",
+  "lat": 46.021389,
+  "lng": 7.7490443,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|4": {
+  "street": "Bahnhofplatz",
+  "hn": "4",
+  "lat": 46.023503,
+  "lng": 7.748631,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|155": {
+  "street": "Schluhmattstrasse",
+  "hn": "155",
+  "lat": 46.0131569,
+  "lng": 7.7422418,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|191": {
+  "street": "Schluhmattstrasse",
+  "hn": "191",
+  "lat": 46.012569,
+  "lng": 7.7435877,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|72": {
+  "street": "Schluhmattstrasse",
+  "hn": "72",
+  "lat": 46.0140488,
+  "lng": 7.7420054,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|162": {
+  "street": "Schluhmattstrasse",
+  "hn": "162",
+  "lat": 46.0122273,
+  "lng": 7.7426994,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|137": {
+  "street": "Schluhmattstrasse",
+  "hn": "137",
+  "lat": 46.0138093,
+  "lng": 7.7420326,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|176": {
+  "street": "Schluhmattstrasse",
+  "hn": "176",
+  "lat": 46.0124109,
+  "lng": 7.7436076,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|171": {
+  "street": "Schluhmattstrasse",
+  "hn": "171",
+  "lat": 46.0131061,
+  "lng": 7.7428692,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|122": {
+  "street": "Schluhmattstrasse",
+  "hn": "122",
+  "lat": 46.0127131,
+  "lng": 7.7424972,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|153": {
+  "street": "Schluhmattstrasse",
+  "hn": "153",
+  "lat": 46.0131488,
+  "lng": 7.7421258,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|168": {
+  "street": "Schluhmattstrasse",
+  "hn": "168",
+  "lat": 46.0123888,
+  "lng": 7.7432622,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|54": {
+  "street": "Schluhmattstrasse",
+  "hn": "54",
+  "lat": 46.0151508,
+  "lng": 7.7422438,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|88": {
+  "street": "Schluhmattstrasse",
+  "hn": "88",
+  "lat": 46.0123847,
+  "lng": 7.7413896,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|68": {
+  "street": "Schluhmattstrasse",
+  "hn": "68",
+  "lat": 46.014487,
+  "lng": 7.741998,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|154": {
+  "street": "Schluhmattstrasse",
+  "hn": "154",
+  "lat": 46.012481,
+  "lng": 7.7431075,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|90": {
+  "street": "Schluhmattstrasse",
+  "hn": "90",
+  "lat": 46.0126105,
+  "lng": 7.7417143,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|143": {
+  "street": "Schluhmattstrasse",
+  "hn": "143",
+  "lat": 46.0135136,
+  "lng": 7.7422525,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|166": {
+  "street": "Schluhmattstrasse",
+  "hn": "166",
+  "lat": 46.012088,
+  "lng": 7.7429748,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|62": {
+  "street": "Schluhmattstrasse",
+  "hn": "62",
+  "lat": 46.0144681,
+  "lng": 7.7421842,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|167": {
+  "street": "Schluhmattstrasse",
+  "hn": "167",
+  "lat": 46.0131627,
+  "lng": 7.7425643,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|160": {
+  "street": "Schluhmattstrasse",
+  "hn": "160",
+  "lat": 46.0122479,
+  "lng": 7.7428671,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|145": {
+  "street": "Schluhmattstrasse",
+  "hn": "145",
+  "lat": 46.0134138,
+  "lng": 7.7420803,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|100": {
+  "street": "Schluhmattstrasse",
+  "hn": "100",
+  "lat": 46.0130785,
+  "lng": 7.7418273,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|159": {
+  "street": "Schluhmattstrasse",
+  "hn": "159",
+  "lat": 46.0132965,
+  "lng": 7.7425023,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|112": {
+  "street": "Schluhmattstrasse",
+  "hn": "112",
+  "lat": 46.0125994,
+  "lng": 7.7419776,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|101": {
+  "street": "Schluhmattstrasse",
+  "hn": "101",
+  "lat": 46.0156361,
+  "lng": 7.7431401,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|50": {
+  "street": "Schluhmattstrasse",
+  "hn": "50",
+  "lat": 46.0152149,
+  "lng": 7.7424896,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|123": {
+  "street": "Schluhmattstrasse",
+  "hn": "123",
+  "lat": 46.0148611,
+  "lng": 7.7428094,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|126": {
+  "street": "Schluhmattstrasse",
+  "hn": "126",
+  "lat": 46.012532,
+  "lng": 7.7425197,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|42": {
+  "street": "Schluhmattstrasse",
+  "hn": "42",
+  "lat": 46.0160504,
+  "lng": 7.743263,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|46": {
+  "street": "Schluhmattstrasse",
+  "hn": "46",
+  "lat": 46.0155857,
+  "lng": 7.7429457,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|139": {
+  "street": "Schluhmattstrasse",
+  "hn": "139",
+  "lat": 46.0136247,
+  "lng": 7.7420755,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|152": {
+  "street": "Schluhmattstrasse",
+  "hn": "152",
+  "lat": 46.0124705,
+  "lng": 7.7428788,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|169": {
+  "street": "Schluhmattstrasse",
+  "hn": "169",
+  "lat": 46.0128795,
+  "lng": 7.7426193,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|132": {
+  "street": "Schluhmattstrasse",
+  "hn": "132",
+  "lat": 46.0122931,
+  "lng": 7.7422226,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|9": {
+  "street": "Bahnhofplatz",
+  "hn": "9",
+  "lat": 46.0243709,
+  "lng": 7.7483171,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|46": {
+  "street": "Bahnhofplatz",
+  "hn": "46",
+  "lat": 46.024116,
+  "lng": 7.7488631,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|11": {
+  "street": "Bahnhofplatz",
+  "hn": "11",
+  "lat": 46.0245558,
+  "lng": 7.7483939,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|48": {
+  "street": "Bahnhofplatz",
+  "hn": "48",
+  "lat": 46.02423,
+  "lng": 7.7490125,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|28": {
+  "street": "Bahnhofplatz",
+  "hn": "28",
+  "lat": 46.0244258,
+  "lng": 7.7490685,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|18b": {
+  "street": "Bahnhofplatz",
+  "hn": "18b",
+  "lat": 46.024081,
+  "lng": 7.7499983,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|18a": {
+  "street": "Bahnhofplatz",
+  "hn": "18a",
+  "lat": 46.024081,
+  "lng": 7.7499983,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|32": {
+  "street": "Bahnhofplatz",
+  "hn": "32",
+  "lat": 46.0241735,
+  "lng": 7.7490215,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|12": {
+  "street": "Bahnhofplatz",
+  "hn": "12",
+  "lat": 46.0240547,
+  "lng": 7.7489391,
+  "mieter": []
+ },
+ "zermatt|bahnhofplatz|8": {
+  "street": "Bahnhofplatz",
+  "hn": "8",
+  "lat": 46.023921,
+  "lng": 7.7483742,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|73": {
+  "street": "Schluhmattstrasse",
+  "hn": "73",
+  "lat": 46.0156426,
+  "lng": 7.7455773,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|43": {
+  "street": "Schluhmattstrasse",
+  "hn": "43",
+  "lat": 46.0174481,
+  "lng": 7.7466033,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|30": {
+  "street": "Schluhmattstrasse",
+  "hn": "30",
+  "lat": 46.0171221,
+  "lng": 7.745388,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|63": {
+  "street": "Schluhmattstrasse",
+  "hn": "63",
+  "lat": 46.0165644,
+  "lng": 7.7446378,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|28": {
+  "street": "Schluhmattstrasse",
+  "hn": "28",
+  "lat": 46.0172225,
+  "lng": 7.7455795,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|87": {
+  "street": "Schluhmattstrasse",
+  "hn": "87",
+  "lat": 46.0156703,
+  "lng": 7.7438281,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|125": {
+  "street": "Schluhmattstrasse",
+  "hn": "125",
+  "lat": 46.015048,
+  "lng": 7.7439562,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|34": {
+  "street": "Schluhmattstrasse",
+  "hn": "34",
+  "lat": 46.0169751,
+  "lng": 7.745077,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|36": {
+  "street": "Schluhmattstrasse",
+  "hn": "36",
+  "lat": 46.0168331,
+  "lng": 7.7447279,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|32": {
+  "street": "Schluhmattstrasse",
+  "hn": "32",
+  "lat": 46.017116,
+  "lng": 7.7453047,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|67": {
+  "street": "Schluhmattstrasse",
+  "hn": "67",
+  "lat": 46.0155306,
+  "lng": 7.7458008,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|41": {
+  "street": "Schluhmattstrasse",
+  "hn": "41",
+  "lat": 46.0175471,
+  "lng": 7.7464508,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|33": {
+  "street": "Schluhmattstrasse",
+  "hn": "33",
+  "lat": 46.0176077,
+  "lng": 7.7471596,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|196": {
+  "street": "Schluhmattstrasse",
+  "hn": "196",
+  "lat": 46.0123479,
+  "lng": 7.7444963,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|206": {
+  "street": "Schluhmattstrasse",
+  "hn": "206",
+  "lat": 46.0123505,
+  "lng": 7.7452267,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|182": {
+  "street": "Schluhmattstrasse",
+  "hn": "182",
+  "lat": 46.0123693,
+  "lng": 7.7439177,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|210": {
+  "street": "Schluhmattstrasse",
+  "hn": "210",
+  "lat": 46.0121703,
+  "lng": 7.7449261,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|194": {
+  "street": "Schluhmattstrasse",
+  "hn": "194",
+  "lat": 46.0123214,
+  "lng": 7.7443283,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|223": {
+  "street": "Schluhmattstrasse",
+  "hn": "223",
+  "lat": 46.0125227,
+  "lng": 7.7448664,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|208": {
+  "street": "Schluhmattstrasse",
+  "hn": "208",
+  "lat": 46.0123636,
+  "lng": 7.7453373,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|186": {
+  "street": "Schluhmattstrasse",
+  "hn": "186",
+  "lat": 46.0123552,
+  "lng": 7.7441571,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|215": {
+  "street": "Schluhmattstrasse",
+  "hn": "215",
+  "lat": 46.0125736,
+  "lng": 7.7444039,
+  "mieter": []
+ },
+ "zermatt|schluhmattstrasse|211": {
+  "street": "Schluhmattstrasse",
+  "hn": "211",
+  "lat": 46.0125797,
+  "lng": 7.7439547,
+  "mieter": []
+ }
+}

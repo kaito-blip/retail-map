@@ -1,0 +1,2017 @@
+{
+ "herisau|platz|7": {
+  "street": "Platz",
+  "hn": "7",
+  "lat": 47.3860253,
+  "lng": 9.2785597,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "herisau|poststrasse|9": {
+  "street": "Poststrasse",
+  "hn": "9",
+  "lat": 47.3844036,
+  "lng": 9.2779422,
+  "mieter": [
+   "Bibliothek / Ludothek Herisau",
+   "Kulturzentrum Casino"
+  ]
+ },
+ "herisau|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 47.3859765,
+  "lng": 9.2802205,
+  "mieter": [
+   "Treffpunkt"
+  ]
+ },
+ "herisau|platz|13": {
+  "street": "Platz",
+  "hn": "13",
+  "lat": 47.385566,
+  "lng": 9.2788911,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|62": {
+  "street": "Oberdorfstrasse",
+  "hn": "62",
+  "lat": 47.3891427,
+  "lng": 9.2900168,
+  "mieter": [
+   "GEOINFO IT AG"
+  ]
+ },
+ "herisau|kasernenstrasse|68": {
+  "street": "Kasernenstrasse",
+  "hn": "68",
+  "lat": 47.3894853,
+  "lng": 9.2894995,
+  "mieter": [
+   "Biber-Bäckerei Messmer"
+  ]
+ },
+ "herisau|kasernenstrasse|41": {
+  "street": "Kasernenstrasse",
+  "hn": "41",
+  "lat": 47.387729,
+  "lng": 9.2855692,
+  "mieter": [
+   "Augenklinik AG"
+  ]
+ },
+ "herisau|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 47.3874307,
+  "lng": 9.2776805,
+  "mieter": [
+   "COMFORT & MORE"
+  ]
+ },
+ "herisau|kasernenstrasse|30": {
+  "street": "Kasernenstrasse",
+  "hn": "30",
+  "lat": 47.3868361,
+  "lng": 9.2844429,
+  "mieter": [
+   "Anthony's Club"
+  ]
+ },
+ "herisau|oberdorfstrasse|82": {
+  "street": "Oberdorfstrasse",
+  "hn": "82",
+  "lat": 47.3868057,
+  "lng": 9.2861933,
+  "mieter": [
+   "Copy Herisau"
+  ]
+ },
+ "herisau|kasernenstrasse|18": {
+  "street": "Kasernenstrasse",
+  "hn": "18",
+  "lat": 47.3862008,
+  "lng": 9.2833661,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|24": {
+  "street": "Kasernenstrasse",
+  "hn": "24",
+  "lat": 47.3865404,
+  "lng": 9.2839174,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|61": {
+  "street": "Oberdorfstrasse",
+  "hn": "61",
+  "lat": 47.3857263,
+  "lng": 9.2832493,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|63": {
+  "street": "Oberdorfstrasse",
+  "hn": "63",
+  "lat": 47.3858425,
+  "lng": 9.2836912,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|67": {
+  "street": "Oberdorfstrasse",
+  "hn": "67",
+  "lat": 47.3860257,
+  "lng": 9.2841478,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|91": {
+  "street": "Kasernenstrasse",
+  "hn": "91",
+  "lat": 47.3920384,
+  "lng": 9.2940586,
+  "mieter": [
+   "Stiftung Altersbetreuung Herisau"
+  ]
+ },
+ "herisau|kasernenstrasse|71": {
+  "street": "Kasernenstrasse",
+  "hn": "71",
+  "lat": 47.390044,
+  "lng": 9.2900147,
+  "mieter": []
+ },
+ "herisau|poststrasse|12": {
+  "street": "Poststrasse",
+  "hn": "12",
+  "lat": 47.3843776,
+  "lng": 9.2771947,
+  "mieter": [
+   "Zentrum Werken"
+  ]
+ },
+ "herisau|poststrasse|15": {
+  "street": "Poststrasse",
+  "hn": "15",
+  "lat": 47.3840951,
+  "lng": 9.2774237,
+  "mieter": [
+   "Grundbuchamt"
+  ]
+ },
+ "herisau|kasernenstrasse|2": {
+  "street": "Kasernenstrasse",
+  "hn": "2",
+  "lat": 47.3856404,
+  "lng": 9.2808618,
+  "mieter": [
+   "Spar"
+  ]
+ },
+ "herisau|poststrasse|31": {
+  "street": "Poststrasse",
+  "hn": "31",
+  "lat": 47.3815572,
+  "lng": 9.2782309,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|31": {
+  "street": "Bahnhofstrasse",
+  "hn": "31",
+  "lat": 47.3897029,
+  "lng": 9.2756666,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|100": {
+  "street": "Oberdorfstrasse",
+  "hn": "100",
+  "lat": 47.3875679,
+  "lng": 9.2882577,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|100a": {
+  "street": "Oberdorfstrasse",
+  "hn": "100a",
+  "lat": 47.3875915,
+  "lng": 9.2882847,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|74": {
+  "street": "Kasernenstrasse",
+  "hn": "74",
+  "lat": 47.3897867,
+  "lng": 9.2900896,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|74/n1": {
+  "street": "Kasernenstrasse",
+  "hn": "74/n1",
+  "lat": 47.38977,
+  "lng": 9.2901445,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|5872": {
+  "street": "Kasernenstrasse",
+  "hn": "5872",
+  "lat": 47.38973,
+  "lng": 9.2899945,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|135": {
+  "street": "Oberdorfstrasse",
+  "hn": "135",
+  "lat": 47.3900933,
+  "lng": 9.2922523,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|137": {
+  "street": "Oberdorfstrasse",
+  "hn": "137",
+  "lat": 47.3901359,
+  "lng": 9.2924216,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|45": {
+  "street": "Kasernenstrasse",
+  "hn": "45",
+  "lat": 47.3884345,
+  "lng": 9.2863159,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 47.3872334,
+  "lng": 9.2780708,
+  "mieter": [
+   "Moo"
+  ]
+ },
+ "herisau|oberdorfstrasse|68": {
+  "street": "Oberdorfstrasse",
+  "hn": "68",
+  "lat": 47.3860799,
+  "lng": 9.2849272,
+  "mieter": []
+ },
+ "herisau|poststrasse|35": {
+  "street": "Poststrasse",
+  "hn": "35",
+  "lat": 47.3807686,
+  "lng": 9.2787773,
+  "mieter": []
+ },
+ "herisau|poststrasse|37": {
+  "street": "Poststrasse",
+  "hn": "37",
+  "lat": 47.3805417,
+  "lng": 9.2789926,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|102": {
+  "street": "Oberdorfstrasse",
+  "hn": "102",
+  "lat": 47.3876236,
+  "lng": 9.28855,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|94": {
+  "street": "Oberdorfstrasse",
+  "hn": "94",
+  "lat": 47.3872271,
+  "lng": 9.2877249,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|102a": {
+  "street": "Oberdorfstrasse",
+  "hn": "102a",
+  "lat": 47.3876406,
+  "lng": 9.2889441,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|98": {
+  "street": "Oberdorfstrasse",
+  "hn": "98",
+  "lat": 47.3874122,
+  "lng": 9.288068,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 47.3871125,
+  "lng": 9.2783672,
+  "mieter": []
+ },
+ "herisau|poststrasse|19": {
+  "street": "Poststrasse",
+  "hn": "19",
+  "lat": 47.3835283,
+  "lng": 9.2771953,
+  "mieter": []
+ },
+ "herisau|poststrasse|28": {
+  "street": "Poststrasse",
+  "hn": "28",
+  "lat": 47.3813002,
+  "lng": 9.2778874,
+  "mieter": []
+ },
+ "herisau|poststrasse|32": {
+  "street": "Poststrasse",
+  "hn": "32",
+  "lat": 47.3810831,
+  "lng": 9.2780751,
+  "mieter": []
+ },
+ "herisau|poststrasse|22": {
+  "street": "Poststrasse",
+  "hn": "22",
+  "lat": 47.382232,
+  "lng": 9.2770013,
+  "mieter": []
+ },
+ "herisau|poststrasse|30": {
+  "street": "Poststrasse",
+  "hn": "30",
+  "lat": 47.3811737,
+  "lng": 9.2779727,
+  "mieter": []
+ },
+ "herisau|poststrasse|14a": {
+  "street": "Poststrasse",
+  "hn": "14A",
+  "lat": 47.3841999,
+  "lng": 9.2767333,
+  "mieter": []
+ },
+ "herisau|poststrasse|34": {
+  "street": "Poststrasse",
+  "hn": "34",
+  "lat": 47.3809409,
+  "lng": 9.2781344,
+  "mieter": []
+ },
+ "herisau|poststrasse|26": {
+  "street": "Poststrasse",
+  "hn": "26",
+  "lat": 47.3817054,
+  "lng": 9.2774847,
+  "mieter": []
+ },
+ "herisau|poststrasse|17": {
+  "street": "Poststrasse",
+  "hn": "17",
+  "lat": 47.3838164,
+  "lng": 9.2772365,
+  "mieter": []
+ },
+ "herisau|poststrasse|7": {
+  "street": "Poststrasse",
+  "hn": "7",
+  "lat": 47.3847985,
+  "lng": 9.2782161,
+  "mieter": []
+ },
+ "herisau|poststrasse|14": {
+  "street": "Poststrasse",
+  "hn": "14",
+  "lat": 47.384121,
+  "lng": 9.2769554,
+  "mieter": []
+ },
+ "herisau|poststrasse|38": {
+  "street": "Poststrasse",
+  "hn": "38",
+  "lat": 47.3806689,
+  "lng": 9.2784145,
+  "mieter": []
+ },
+ "herisau|poststrasse|13": {
+  "street": "Poststrasse",
+  "hn": "13",
+  "lat": 47.3842351,
+  "lng": 9.2777582,
+  "mieter": []
+ },
+ "herisau|poststrasse|36": {
+  "street": "Poststrasse",
+  "hn": "36",
+  "lat": 47.3808728,
+  "lng": 9.2783153,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 47.3874227,
+  "lng": 9.277283,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|22": {
+  "street": "Bahnhofstrasse",
+  "hn": "22",
+  "lat": 47.3887596,
+  "lng": 9.2765492,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|20": {
+  "street": "Bahnhofstrasse",
+  "hn": "20",
+  "lat": 47.3882624,
+  "lng": 9.2770724,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|23": {
+  "street": "Bahnhofstrasse",
+  "hn": "23",
+  "lat": 47.3882215,
+  "lng": 9.2764616,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|25": {
+  "street": "Bahnhofstrasse",
+  "hn": "25",
+  "lat": 47.3884432,
+  "lng": 9.2760877,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|17a": {
+  "street": "Kasernenstrasse",
+  "hn": "17a",
+  "lat": 47.3864894,
+  "lng": 9.2823459,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|13": {
+  "street": "Kasernenstrasse",
+  "hn": "13",
+  "lat": 47.3861522,
+  "lng": 9.2819099,
+  "mieter": []
+ },
+ "herisau|poststrasse|6": {
+  "street": "Poststrasse",
+  "hn": "6",
+  "lat": 47.385081,
+  "lng": 9.2778523,
+  "mieter": [
+   "Gemeindehaus"
+  ]
+ },
+ "herisau|oberdorfstrasse|106b": {
+  "street": "Oberdorfstrasse",
+  "hn": "106b",
+  "lat": 47.3882096,
+  "lng": 9.2890445,
+  "mieter": []
+ },
+ "herisau|platz|1a": {
+  "street": "Platz",
+  "hn": "1a",
+  "lat": 47.3858645,
+  "lng": 9.2793348,
+  "mieter": [
+   "Evangelisch-reformierte Kirche"
+  ]
+ },
+ "herisau|platz|11": {
+  "street": "Platz",
+  "hn": "11",
+  "lat": 47.3857257,
+  "lng": 9.2786015,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|4": {
+  "street": "Kasernenstrasse",
+  "hn": "4",
+  "lat": 47.3855394,
+  "lng": 9.2813054,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|26": {
+  "street": "Oberdorfstrasse",
+  "hn": "26",
+  "lat": 47.385143,
+  "lng": 9.2804518,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|83": {
+  "street": "Oberdorfstrasse",
+  "hn": "83",
+  "lat": 47.3869239,
+  "lng": 9.2860347,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|6": {
+  "street": "Kasernenstrasse",
+  "hn": "6",
+  "lat": 47.3857438,
+  "lng": 9.2813537,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|64": {
+  "street": "Kasernenstrasse",
+  "hn": "64",
+  "lat": 47.3888941,
+  "lng": 9.288861,
+  "mieter": [
+   "Appenzeller Druckerei AG"
+  ]
+ },
+ "herisau|oberdorfstrasse|53a": {
+  "street": "Oberdorfstrasse",
+  "hn": "53a",
+  "lat": 47.3856098,
+  "lng": 9.2822271,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|16": {
+  "street": "Oberdorfstrasse",
+  "hn": "16",
+  "lat": 47.3851554,
+  "lng": 9.2794927,
+  "mieter": []
+ },
+ "herisau|poststrasse|11": {
+  "street": "Poststrasse",
+  "hn": "11",
+  "lat": 47.3844961,
+  "lng": 9.2778449,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|131": {
+  "street": "Oberdorfstrasse",
+  "hn": "131",
+  "lat": 47.3899874,
+  "lng": 9.2916212,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|107": {
+  "street": "Oberdorfstrasse",
+  "hn": "107",
+  "lat": 47.3882873,
+  "lng": 9.288693,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|35": {
+  "street": "Kasernenstrasse",
+  "hn": "35",
+  "lat": 47.3873577,
+  "lng": 9.2847763,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|11a": {
+  "street": "Kasernenstrasse",
+  "hn": "11a",
+  "lat": 47.3862692,
+  "lng": 9.2817862,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|139": {
+  "street": "Oberdorfstrasse",
+  "hn": "139",
+  "lat": 47.3903662,
+  "lng": 9.2925496,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|34": {
+  "street": "Kasernenstrasse",
+  "hn": "34",
+  "lat": 47.386988,
+  "lng": 9.2848769,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|81": {
+  "street": "Oberdorfstrasse",
+  "hn": "81",
+  "lat": 47.3868581,
+  "lng": 9.2858601,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|133": {
+  "street": "Oberdorfstrasse",
+  "hn": "133",
+  "lat": 47.3900587,
+  "lng": 9.2918427,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|49": {
+  "street": "Oberdorfstrasse",
+  "hn": "49",
+  "lat": 47.3855238,
+  "lng": 9.2820415,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|43": {
+  "street": "Kasernenstrasse",
+  "hn": "43",
+  "lat": 47.3879157,
+  "lng": 9.2857705,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|109": {
+  "street": "Oberdorfstrasse",
+  "hn": "109",
+  "lat": 47.3883841,
+  "lng": 9.2888106,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|99": {
+  "street": "Oberdorfstrasse",
+  "hn": "99",
+  "lat": 47.3876377,
+  "lng": 9.2880546,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|80": {
+  "street": "Oberdorfstrasse",
+  "hn": "80",
+  "lat": 47.3866975,
+  "lng": 9.2860593,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|82a": {
+  "street": "Kasernenstrasse",
+  "hn": "82a",
+  "lat": 47.3901887,
+  "lng": 9.2913863,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|90": {
+  "street": "Oberdorfstrasse",
+  "hn": "90",
+  "lat": 47.3870016,
+  "lng": 9.2870631,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|112": {
+  "street": "Oberdorfstrasse",
+  "hn": "112",
+  "lat": 47.3886392,
+  "lng": 9.2896981,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 47.386765,
+  "lng": 9.2790574,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|24": {
+  "street": "Oberdorfstrasse",
+  "hn": "24",
+  "lat": 47.3851421,
+  "lng": 9.2802967,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|38": {
+  "street": "Oberdorfstrasse",
+  "hn": "38",
+  "lat": 47.3851016,
+  "lng": 9.2812853,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|129": {
+  "street": "Oberdorfstrasse",
+  "hn": "129",
+  "lat": 47.3899058,
+  "lng": 9.2914008,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|114": {
+  "street": "Oberdorfstrasse",
+  "hn": "114",
+  "lat": 47.3888319,
+  "lng": 9.2899929,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|39": {
+  "street": "Kasernenstrasse",
+  "hn": "39",
+  "lat": 47.3876032,
+  "lng": 9.2852614,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|10a": {
+  "street": "Oberdorfstrasse",
+  "hn": "10a",
+  "lat": 47.3851158,
+  "lng": 9.2787762,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|77": {
+  "street": "Oberdorfstrasse",
+  "hn": "77",
+  "lat": 47.3867245,
+  "lng": 9.2855705,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|57": {
+  "street": "Oberdorfstrasse",
+  "hn": "57",
+  "lat": 47.3856525,
+  "lng": 9.2827793,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|118": {
+  "street": "Oberdorfstrasse",
+  "hn": "118",
+  "lat": 47.3891167,
+  "lng": 9.2905012,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|12": {
+  "street": "Kasernenstrasse",
+  "hn": "12",
+  "lat": 47.3859789,
+  "lng": 9.2821633,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|82": {
+  "street": "Kasernenstrasse",
+  "hn": "82",
+  "lat": 47.3902932,
+  "lng": 9.291144,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|105": {
+  "street": "Oberdorfstrasse",
+  "hn": "105",
+  "lat": 47.3881563,
+  "lng": 9.2885866,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|58": {
+  "street": "Kasernenstrasse",
+  "hn": "58",
+  "lat": 47.3885379,
+  "lng": 9.2877827,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|73": {
+  "street": "Oberdorfstrasse",
+  "hn": "73",
+  "lat": 47.3864047,
+  "lng": 9.2849872,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|85": {
+  "street": "Oberdorfstrasse",
+  "hn": "85",
+  "lat": 47.3870011,
+  "lng": 9.2862137,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|45": {
+  "street": "Oberdorfstrasse",
+  "hn": "45",
+  "lat": 47.3853371,
+  "lng": 9.2819958,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|127": {
+  "street": "Oberdorfstrasse",
+  "hn": "127",
+  "lat": 47.3899391,
+  "lng": 9.2912574,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|35a": {
+  "street": "Kasernenstrasse",
+  "hn": "35a",
+  "lat": 47.3875524,
+  "lng": 9.2845469,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|11b": {
+  "street": "Kasernenstrasse",
+  "hn": "11b",
+  "lat": 47.3863377,
+  "lng": 9.2819496,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|16a": {
+  "street": "Oberdorfstrasse",
+  "hn": "16a",
+  "lat": 47.3848662,
+  "lng": 9.2798304,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 47.3869599,
+  "lng": 9.2785478,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|125": {
+  "street": "Oberdorfstrasse",
+  "hn": "125",
+  "lat": 47.3898233,
+  "lng": 9.2911846,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|79": {
+  "street": "Oberdorfstrasse",
+  "hn": "79",
+  "lat": 47.3867869,
+  "lng": 9.2857104,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|116": {
+  "street": "Oberdorfstrasse",
+  "hn": "116",
+  "lat": 47.3889446,
+  "lng": 9.2901915,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|53": {
+  "street": "Oberdorfstrasse",
+  "hn": "53",
+  "lat": 47.3854848,
+  "lng": 9.2823101,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|37": {
+  "street": "Kasernenstrasse",
+  "hn": "37",
+  "lat": 47.387479,
+  "lng": 9.28503,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|88": {
+  "street": "Oberdorfstrasse",
+  "hn": "88",
+  "lat": 47.3869248,
+  "lng": 9.2868278,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|111": {
+  "street": "Oberdorfstrasse",
+  "hn": "111",
+  "lat": 47.3884961,
+  "lng": 9.2889586,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|110": {
+  "street": "Oberdorfstrasse",
+  "hn": "110",
+  "lat": 47.3885234,
+  "lng": 9.2894373,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|89": {
+  "street": "Oberdorfstrasse",
+  "hn": "89",
+  "lat": 47.3871603,
+  "lng": 9.2866736,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|20a": {
+  "street": "Oberdorfstrasse",
+  "hn": "20a",
+  "lat": 47.3849081,
+  "lng": 9.2803335,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|91": {
+  "street": "Oberdorfstrasse",
+  "hn": "91",
+  "lat": 47.3872059,
+  "lng": 9.2869185,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|71": {
+  "street": "Oberdorfstrasse",
+  "hn": "71",
+  "lat": 47.3863202,
+  "lng": 9.2848028,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|113": {
+  "street": "Oberdorfstrasse",
+  "hn": "113",
+  "lat": 47.3888252,
+  "lng": 9.289549,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|36": {
+  "street": "Kasernenstrasse",
+  "hn": "36",
+  "lat": 47.3870631,
+  "lng": 9.2851388,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|40b": {
+  "street": "Oberdorfstrasse",
+  "hn": "40b",
+  "lat": 47.3849992,
+  "lng": 9.2814668,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|204": {
+  "street": "Oberdorfstrasse",
+  "hn": "204",
+  "lat": 47.3849689,
+  "lng": 9.2812381,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|15": {
+  "street": "Kasernenstrasse",
+  "hn": "15",
+  "lat": 47.386205,
+  "lng": 9.2821317,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|108": {
+  "street": "Oberdorfstrasse",
+  "hn": "108",
+  "lat": 47.3884083,
+  "lng": 9.2892317,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|22": {
+  "street": "Oberdorfstrasse",
+  "hn": "22",
+  "lat": 47.3851246,
+  "lng": 9.2801289,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|48": {
+  "street": "Oberdorfstrasse",
+  "hn": "48",
+  "lat": 47.3851986,
+  "lng": 9.2821476,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|18": {
+  "street": "Oberdorfstrasse",
+  "hn": "18",
+  "lat": 47.3851075,
+  "lng": 9.2797627,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|14b": {
+  "street": "Oberdorfstrasse",
+  "hn": "14b",
+  "lat": 47.3850197,
+  "lng": 9.2793099,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|87": {
+  "street": "Oberdorfstrasse",
+  "hn": "87",
+  "lat": 47.3871033,
+  "lng": 9.2864688,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 47.3867438,
+  "lng": 9.2783779,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|69": {
+  "street": "Oberdorfstrasse",
+  "hn": "69",
+  "lat": 47.3862383,
+  "lng": 9.2846153,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|11": {
+  "street": "Kasernenstrasse",
+  "hn": "11",
+  "lat": 47.3860744,
+  "lng": 9.2817281,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|123a": {
+  "street": "Oberdorfstrasse",
+  "hn": "123a",
+  "lat": 47.3898243,
+  "lng": 9.2906075,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|10": {
+  "street": "Kasernenstrasse",
+  "hn": "10",
+  "lat": 47.3858684,
+  "lng": 9.2819038,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|120": {
+  "street": "Oberdorfstrasse",
+  "hn": "120",
+  "lat": 47.3892029,
+  "lng": 9.2906553,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|119": {
+  "street": "Oberdorfstrasse",
+  "hn": "119",
+  "lat": 47.3895263,
+  "lng": 9.2905411,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|123": {
+  "street": "Oberdorfstrasse",
+  "hn": "123",
+  "lat": 47.3898226,
+  "lng": 9.2909043,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|55": {
+  "street": "Oberdorfstrasse",
+  "hn": "55",
+  "lat": 47.3857211,
+  "lng": 9.282542,
+  "mieter": []
+ },
+ "herisau|poststrasse|5": {
+  "street": "Poststrasse",
+  "hn": "5",
+  "lat": 47.3850653,
+  "lng": 9.2784989,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|17": {
+  "street": "Kasernenstrasse",
+  "hn": "17",
+  "lat": 47.3863046,
+  "lng": 9.2823935,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|121": {
+  "street": "Oberdorfstrasse",
+  "hn": "121",
+  "lat": 47.3896397,
+  "lng": 9.2907274,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|80": {
+  "street": "Kasernenstrasse",
+  "hn": "80",
+  "lat": 47.39021,
+  "lng": 9.2909537,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|104": {
+  "street": "Oberdorfstrasse",
+  "hn": "104",
+  "lat": 47.3879077,
+  "lng": 9.2887753,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|93": {
+  "street": "Oberdorfstrasse",
+  "hn": "93",
+  "lat": 47.3873697,
+  "lng": 9.2871219,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|7": {
+  "street": "Kasernenstrasse",
+  "hn": "7",
+  "lat": 47.3861069,
+  "lng": 9.2812983,
+  "mieter": []
+ },
+ "herisau|platz|1": {
+  "street": "Platz",
+  "hn": "1",
+  "lat": 47.3861377,
+  "lng": 9.2789957,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|9a": {
+  "street": "Kasernenstrasse",
+  "hn": "9a",
+  "lat": 47.3864404,
+  "lng": 9.2815418,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|33": {
+  "street": "Kasernenstrasse",
+  "hn": "33",
+  "lat": 47.3872669,
+  "lng": 9.2843463,
+  "mieter": [
+   "Landhaus"
+  ]
+ },
+ "herisau|kasernenstrasse|38": {
+  "street": "Kasernenstrasse",
+  "hn": "38",
+  "lat": 47.3872564,
+  "lng": 9.2852723,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 47.3864189,
+  "lng": 9.2796525,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|39a": {
+  "street": "Kasernenstrasse",
+  "hn": "39a",
+  "lat": 47.3879009,
+  "lng": 9.2852092,
+  "mieter": [
+   "Alte Stuhlfabrik"
+  ]
+ },
+ "herisau|kasernenstrasse|80a": {
+  "street": "Kasernenstrasse",
+  "hn": "80a",
+  "lat": 47.390023,
+  "lng": 9.2910178,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|86a": {
+  "street": "Kasernenstrasse",
+  "hn": "86a",
+  "lat": 47.3903931,
+  "lng": 9.291926,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|44": {
+  "street": "Kasernenstrasse",
+  "hn": "44",
+  "lat": 47.387733,
+  "lng": 9.2862295,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|86": {
+  "street": "Oberdorfstrasse",
+  "hn": "86",
+  "lat": 47.386871,
+  "lng": 9.2866376,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|18a": {
+  "street": "Oberdorfstrasse",
+  "hn": "18a",
+  "lat": 47.3850072,
+  "lng": 9.27988,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|54": {
+  "street": "Oberdorfstrasse",
+  "hn": "54",
+  "lat": 47.3853347,
+  "lng": 9.2825559,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|78": {
+  "street": "Kasernenstrasse",
+  "hn": "78",
+  "lat": 47.3899935,
+  "lng": 9.290528,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|76": {
+  "street": "Kasernenstrasse",
+  "hn": "76",
+  "lat": 47.389891,
+  "lng": 9.2903286,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|75": {
+  "street": "Oberdorfstrasse",
+  "hn": "75",
+  "lat": 47.3866471,
+  "lng": 9.285417,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|46": {
+  "street": "Oberdorfstrasse",
+  "hn": "46",
+  "lat": 47.3851428,
+  "lng": 9.2820047,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|91a": {
+  "street": "Kasernenstrasse",
+  "hn": "91a",
+  "lat": 47.3924902,
+  "lng": 9.29344,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|84": {
+  "street": "Kasernenstrasse",
+  "hn": "84",
+  "lat": 47.3904566,
+  "lng": 9.2914303,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|67": {
+  "street": "Kasernenstrasse",
+  "hn": "67",
+  "lat": 47.3894933,
+  "lng": 9.2888909,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|63": {
+  "street": "Kasernenstrasse",
+  "hn": "63",
+  "lat": 47.3893396,
+  "lng": 9.2883871,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|86": {
+  "street": "Kasernenstrasse",
+  "hn": "86",
+  "lat": 47.3905747,
+  "lng": 9.2916699,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|92": {
+  "street": "Kasernenstrasse",
+  "hn": "92",
+  "lat": 47.3910948,
+  "lng": 9.2931084,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|97": {
+  "street": "Kasernenstrasse",
+  "hn": "97",
+  "lat": 47.3925155,
+  "lng": 9.2956832,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|65": {
+  "street": "Kasernenstrasse",
+  "hn": "65",
+  "lat": 47.3893923,
+  "lng": 9.2887298,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|99": {
+  "street": "Kasernenstrasse",
+  "hn": "99",
+  "lat": 47.3926479,
+  "lng": 9.2959365,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|106": {
+  "street": "Oberdorfstrasse",
+  "hn": "106",
+  "lat": 47.3882349,
+  "lng": 9.2900835,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|140": {
+  "street": "Oberdorfstrasse",
+  "hn": "140",
+  "lat": 47.3905243,
+  "lng": 9.2933768,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|101": {
+  "street": "Kasernenstrasse",
+  "hn": "101",
+  "lat": 47.3929941,
+  "lng": 9.2965815,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|142": {
+  "street": "Oberdorfstrasse",
+  "hn": "142",
+  "lat": 47.3907451,
+  "lng": 9.2937986,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|88": {
+  "street": "Kasernenstrasse",
+  "hn": "88",
+  "lat": 47.3908792,
+  "lng": 9.2923561,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|100": {
+  "street": "Kasernenstrasse",
+  "hn": "100",
+  "lat": 47.3928271,
+  "lng": 9.296252,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|90": {
+  "street": "Kasernenstrasse",
+  "hn": "90",
+  "lat": 47.390957,
+  "lng": 9.2926079,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|95": {
+  "street": "Kasernenstrasse",
+  "hn": "95",
+  "lat": 47.3924101,
+  "lng": 9.2954383,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|106a": {
+  "street": "Oberdorfstrasse",
+  "hn": "106a",
+  "lat": 47.3880561,
+  "lng": 9.2898674,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|143": {
+  "street": "Oberdorfstrasse",
+  "hn": "143",
+  "lat": 47.3908068,
+  "lng": 9.2931037,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|69": {
+  "street": "Kasernenstrasse",
+  "hn": "69",
+  "lat": 47.3896508,
+  "lng": 9.2891889,
+  "mieter": []
+ },
+ "herisau|platz|8": {
+  "street": "Platz",
+  "hn": "8",
+  "lat": 47.3859425,
+  "lng": 9.2784171,
+  "mieter": []
+ },
+ "herisau|platz|6": {
+  "street": "Platz",
+  "hn": "6",
+  "lat": 47.3861487,
+  "lng": 9.2784999,
+  "mieter": []
+ },
+ "herisau|poststrasse|4": {
+  "street": "Poststrasse",
+  "hn": "4",
+  "lat": 47.385382,
+  "lng": 9.2781358,
+  "mieter": []
+ },
+ "herisau|poststrasse|6a": {
+  "street": "Poststrasse",
+  "hn": "6a",
+  "lat": 47.385391,
+  "lng": 9.2773901,
+  "mieter": []
+ },
+ "herisau|poststrasse|6b": {
+  "street": "Poststrasse",
+  "hn": "6b",
+  "lat": 47.3852486,
+  "lng": 9.2772536,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|31": {
+  "street": "Kasernenstrasse",
+  "hn": "31",
+  "lat": 47.3871393,
+  "lng": 9.2839738,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|27": {
+  "street": "Kasernenstrasse",
+  "hn": "27",
+  "lat": 47.3869419,
+  "lng": 9.2835813,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|29": {
+  "street": "Kasernenstrasse",
+  "hn": "29",
+  "lat": 47.3869399,
+  "lng": 9.2838632,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|56": {
+  "street": "Kasernenstrasse",
+  "hn": "56",
+  "lat": 47.3883704,
+  "lng": 9.2874602,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|54": {
+  "street": "Kasernenstrasse",
+  "hn": "54",
+  "lat": 47.3882156,
+  "lng": 9.2871519,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|27": {
+  "street": "Bahnhofstrasse",
+  "hn": "27",
+  "lat": 47.3886294,
+  "lng": 9.2756837,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|29": {
+  "street": "Bahnhofstrasse",
+  "hn": "29",
+  "lat": 47.3887759,
+  "lng": 9.2754897,
+  "mieter": []
+ },
+ "herisau|poststrasse|10a": {
+  "street": "Poststrasse",
+  "hn": "10a",
+  "lat": 47.3848318,
+  "lng": 9.2772631,
+  "mieter": []
+ },
+ "herisau|poststrasse|10": {
+  "street": "Poststrasse",
+  "hn": "10",
+  "lat": 47.384737,
+  "lng": 9.2774363,
+  "mieter": []
+ },
+ "herisau|platz|10": {
+  "street": "Platz",
+  "hn": "10",
+  "lat": 47.3857561,
+  "lng": 9.2782957,
+  "mieter": []
+ },
+ "herisau|platz|9": {
+  "street": "Platz",
+  "hn": "9",
+  "lat": 47.385851,
+  "lng": 9.2783767,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|19": {
+  "street": "Bahnhofstrasse",
+  "hn": "19",
+  "lat": 47.3879518,
+  "lng": 9.2767973,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 47.3880527,
+  "lng": 9.2766839,
+  "mieter": []
+ },
+ "herisau|poststrasse|25": {
+  "street": "Poststrasse",
+  "hn": "25",
+  "lat": 47.382458,
+  "lng": 9.2773893,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|20": {
+  "street": "Oberdorfstrasse",
+  "hn": "20",
+  "lat": 47.3850742,
+  "lng": 9.279974,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|93": {
+  "street": "Kasernenstrasse",
+  "hn": "93",
+  "lat": 47.3920695,
+  "lng": 9.2944718,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|53b": {
+  "street": "Oberdorfstrasse",
+  "hn": "53b",
+  "lat": 47.385771,
+  "lng": 9.2821893,
+  "mieter": []
+ },
+ "herisau|platz|2": {
+  "street": "Platz",
+  "hn": "2",
+  "lat": 47.3861327,
+  "lng": 9.2788445,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|21": {
+  "street": "Kasernenstrasse",
+  "hn": "21",
+  "lat": 47.3866559,
+  "lng": 9.283401,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|23": {
+  "street": "Kasernenstrasse",
+  "hn": "23",
+  "lat": 47.3866931,
+  "lng": 9.2835098,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|25": {
+  "street": "Kasernenstrasse",
+  "hn": "25",
+  "lat": 47.3867275,
+  "lng": 9.2836145,
+  "mieter": []
+ },
+ "herisau|platz|12a": {
+  "street": "Platz",
+  "hn": "12a",
+  "lat": 47.385464,
+  "lng": 9.2786303,
+  "mieter": []
+ },
+ "herisau|poststrasse|3": {
+  "street": "Poststrasse",
+  "hn": "3",
+  "lat": 47.3853778,
+  "lng": 9.2784703,
+  "mieter": []
+ },
+ "herisau|poststrasse|1": {
+  "street": "Poststrasse",
+  "hn": "1",
+  "lat": 47.3855859,
+  "lng": 9.2785,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|12": {
+  "street": "Oberdorfstrasse",
+  "hn": "12",
+  "lat": 47.3851339,
+  "lng": 9.2791025,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|10": {
+  "street": "Oberdorfstrasse",
+  "hn": "10",
+  "lat": 47.3851283,
+  "lng": 9.2789399,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|4": {
+  "street": "Oberdorfstrasse",
+  "hn": "4",
+  "lat": 47.385432,
+  "lng": 9.2790846,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|6": {
+  "street": "Oberdorfstrasse",
+  "hn": "6",
+  "lat": 47.3853678,
+  "lng": 9.2791179,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|4b": {
+  "street": "Oberdorfstrasse",
+  "hn": "4b",
+  "lat": 47.3853254,
+  "lng": 9.2787642,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|8": {
+  "street": "Oberdorfstrasse",
+  "hn": "8",
+  "lat": 47.3852498,
+  "lng": 9.2789105,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|2": {
+  "street": "Oberdorfstrasse",
+  "hn": "2",
+  "lat": 47.3855489,
+  "lng": 9.279023,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|14a": {
+  "street": "Oberdorfstrasse",
+  "hn": "14a",
+  "lat": 47.3851275,
+  "lng": 9.2792588,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|14": {
+  "street": "Oberdorfstrasse",
+  "hn": "14",
+  "lat": 47.3851779,
+  "lng": 9.2792257,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|31": {
+  "street": "Oberdorfstrasse",
+  "hn": "31",
+  "lat": 47.385303,
+  "lng": 9.2807387,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|29": {
+  "street": "Oberdorfstrasse",
+  "hn": "29",
+  "lat": 47.3853048,
+  "lng": 9.2806357,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|27": {
+  "street": "Oberdorfstrasse",
+  "hn": "27",
+  "lat": 47.3853082,
+  "lng": 9.2805178,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|40c": {
+  "street": "Oberdorfstrasse",
+  "hn": "40c",
+  "lat": 47.3849429,
+  "lng": 9.2814758,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|16": {
+  "street": "Kasernenstrasse",
+  "hn": "16",
+  "lat": 47.3860775,
+  "lng": 9.2827195,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|58": {
+  "street": "Oberdorfstrasse",
+  "hn": "58",
+  "lat": 47.3854655,
+  "lng": 9.2829259,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|56": {
+  "street": "Oberdorfstrasse",
+  "hn": "56",
+  "lat": 47.3854022,
+  "lng": 9.2827521,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|52": {
+  "street": "Oberdorfstrasse",
+  "hn": "52",
+  "lat": 47.385301,
+  "lng": 9.2824364,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|50": {
+  "street": "Oberdorfstrasse",
+  "hn": "50",
+  "lat": 47.3852676,
+  "lng": 9.2823334,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|44": {
+  "street": "Oberdorfstrasse",
+  "hn": "44",
+  "lat": 47.3851414,
+  "lng": 9.2817977,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|40a": {
+  "street": "Oberdorfstrasse",
+  "hn": "40a",
+  "lat": 47.3850871,
+  "lng": 9.2815445,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|42": {
+  "street": "Oberdorfstrasse",
+  "hn": "42",
+  "lat": 47.3851383,
+  "lng": 9.281683,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|40": {
+  "street": "Oberdorfstrasse",
+  "hn": "40",
+  "lat": 47.385131,
+  "lng": 9.2815379,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|34": {
+  "street": "Oberdorfstrasse",
+  "hn": "34",
+  "lat": 47.3851415,
+  "lng": 9.2810877,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|32": {
+  "street": "Oberdorfstrasse",
+  "hn": "32",
+  "lat": 47.3851514,
+  "lng": 9.2808787,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|30a": {
+  "street": "Oberdorfstrasse",
+  "hn": "30a",
+  "lat": 47.3851164,
+  "lng": 9.2807562,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|30": {
+  "street": "Oberdorfstrasse",
+  "hn": "30",
+  "lat": 47.3851538,
+  "lng": 9.280749,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|28": {
+  "street": "Oberdorfstrasse",
+  "hn": "28",
+  "lat": 47.3851255,
+  "lng": 9.2806575,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|1": {
+  "street": "Oberdorfstrasse",
+  "hn": "1",
+  "lat": 47.3855114,
+  "lng": 9.2793195,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|39": {
+  "street": "Oberdorfstrasse",
+  "hn": "39",
+  "lat": 47.3853706,
+  "lng": 9.2816134,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|37": {
+  "street": "Oberdorfstrasse",
+  "hn": "37",
+  "lat": 47.3853248,
+  "lng": 9.281353,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|35": {
+  "street": "Oberdorfstrasse",
+  "hn": "35",
+  "lat": 47.3853491,
+  "lng": 9.2810723,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|33": {
+  "street": "Oberdorfstrasse",
+  "hn": "33",
+  "lat": 47.3853122,
+  "lng": 9.2809236,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|9b": {
+  "street": "Kasernenstrasse",
+  "hn": "9b",
+  "lat": 47.3865774,
+  "lng": 9.281512,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|66": {
+  "street": "Oberdorfstrasse",
+  "hn": "66",
+  "lat": 47.3858737,
+  "lng": 9.2844736,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|64": {
+  "street": "Oberdorfstrasse",
+  "hn": "64",
+  "lat": 47.3857041,
+  "lng": 9.284091,
+  "mieter": []
+ },
+ "herisau|platz|12": {
+  "street": "Platz",
+  "hn": "12",
+  "lat": 47.3856662,
+  "lng": 9.2787078,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|1": {
+  "street": "Kasernenstrasse",
+  "hn": "1",
+  "lat": 47.3859177,
+  "lng": 9.2805415,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|5": {
+  "street": "Kasernenstrasse",
+  "hn": "5",
+  "lat": 47.3860155,
+  "lng": 9.2808715,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.3874826,
+  "lng": 9.277752,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 47.387005,
+  "lng": 9.277729,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 47.3870723,
+  "lng": 9.2775017,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 47.3869218,
+  "lng": 9.277932,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 47.3868537,
+  "lng": 9.278159,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|84": {
+  "street": "Oberdorfstrasse",
+  "hn": "84",
+  "lat": 47.3868309,
+  "lng": 9.2864445,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|52": {
+  "street": "Kasernenstrasse",
+  "hn": "52",
+  "lat": 47.3880683,
+  "lng": 9.2868602,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|50": {
+  "street": "Kasernenstrasse",
+  "hn": "50",
+  "lat": 47.3880302,
+  "lng": 9.2867862,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|48": {
+  "street": "Kasernenstrasse",
+  "hn": "48",
+  "lat": 47.3879423,
+  "lng": 9.2866175,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|46": {
+  "street": "Kasernenstrasse",
+  "hn": "46",
+  "lat": 47.3879045,
+  "lng": 9.2865434,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|95": {
+  "street": "Oberdorfstrasse",
+  "hn": "95",
+  "lat": 47.3874923,
+  "lng": 9.2872827,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|92": {
+  "street": "Oberdorfstrasse",
+  "hn": "92",
+  "lat": 47.3870797,
+  "lng": 9.2873664,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|103b": {
+  "street": "Oberdorfstrasse",
+  "hn": "103b",
+  "lat": 47.3879793,
+  "lng": 9.2884476,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|103a": {
+  "street": "Oberdorfstrasse",
+  "hn": "103a",
+  "lat": 47.3879037,
+  "lng": 9.2883773,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|103": {
+  "street": "Oberdorfstrasse",
+  "hn": "103",
+  "lat": 47.3878356,
+  "lng": 9.2882945,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|101": {
+  "street": "Oberdorfstrasse",
+  "hn": "101",
+  "lat": 47.3877488,
+  "lng": 9.2882247,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|138": {
+  "street": "Oberdorfstrasse",
+  "hn": "138",
+  "lat": 47.3903937,
+  "lng": 9.2931923,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|124a": {
+  "street": "Oberdorfstrasse",
+  "hn": "124a",
+  "lat": 47.3893781,
+  "lng": 9.291726,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|124c": {
+  "street": "Oberdorfstrasse",
+  "hn": "124c",
+  "lat": 47.3895251,
+  "lng": 9.2918892,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|124b": {
+  "street": "Oberdorfstrasse",
+  "hn": "124b",
+  "lat": 47.3896854,
+  "lng": 9.2918234,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|131a": {
+  "street": "Oberdorfstrasse",
+  "hn": "131a",
+  "lat": 47.3900028,
+  "lng": 9.2917164,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|104": {
+  "street": "Kasernenstrasse",
+  "hn": "104",
+  "lat": 47.3955086,
+  "lng": 9.2991055,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|58a": {
+  "street": "Kasernenstrasse",
+  "hn": "58a",
+  "lat": 47.3882054,
+  "lng": 9.2882792,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|58b": {
+  "street": "Kasernenstrasse",
+  "hn": "58b",
+  "lat": 47.3883703,
+  "lng": 9.2881139,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|66": {
+  "street": "Kasernenstrasse",
+  "hn": "66",
+  "lat": 47.3891428,
+  "lng": 9.2892344,
+  "mieter": [
+   "Renault"
+  ]
+ },
+ "herisau|kasernenstrasse|66a": {
+  "street": "Kasernenstrasse",
+  "hn": "66a",
+  "lat": 47.389269,
+  "lng": 9.2893117,
+  "mieter": []
+ },
+ "herisau|oberdorfstrasse|4585": {
+  "street": "Oberdorfstrasse",
+  "hn": "4585",
+  "lat": 47.3869352,
+  "lng": 9.2873647,
+  "mieter": []
+ },
+ "herisau|bahnhofstrasse|1144": {
+  "street": "Bahnhofstrasse",
+  "hn": "1144",
+  "lat": 47.3869214,
+  "lng": 9.2774556,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|68a": {
+  "street": "Kasernenstrasse",
+  "hn": "68a",
+  "lat": 47.3892092,
+  "lng": 9.2898518,
+  "mieter": []
+ },
+ "herisau|kasernenstrasse|40": {
+  "street": "Kasernenstrasse",
+  "hn": "40",
+  "lat": 47.3873528,
+  "lng": 9.2858252,
+  "mieter": []
+ }
+}

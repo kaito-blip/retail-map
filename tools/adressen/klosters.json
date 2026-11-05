@@ -1,0 +1,1972 @@
+{
+ "klosters|doggilochstrasse|51": {
+  "street": "Doggilochstrasse",
+  "hn": "51",
+  "lat": 46.8657002,
+  "lng": 9.8855065,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 46.8693524,
+  "lng": 9.8815782,
+  "mieter": [
+   "P7 Antiquitäten"
+  ]
+ },
+ "klosters|landstrasse|179": {
+  "street": "Landstrasse",
+  "hn": "179",
+  "lat": 46.8675463,
+  "lng": 9.8839572,
+  "mieter": []
+ },
+ "klosters|landstrasse|190": {
+  "street": "Landstrasse",
+  "hn": "190",
+  "lat": 46.8659042,
+  "lng": 9.8817013,
+  "mieter": []
+ },
+ "klosters|alte bahnhofstrasse|1": {
+  "street": "Alte Bahnhofstrasse",
+  "hn": "1",
+  "lat": 46.8665854,
+  "lng": 9.8820797,
+  "mieter": [
+   "Bär's"
+  ]
+ },
+ "klosters|landstrasse|95": {
+  "street": "Landstrasse",
+  "hn": "95",
+  "lat": 46.8777927,
+  "lng": 9.8803623,
+  "mieter": []
+ },
+ "klosters|landstrasse|142a": {
+  "street": "Landstrasse",
+  "hn": "142a",
+  "lat": 46.8721872,
+  "lng": 9.88062,
+  "mieter": [
+   "Kantonspolizei Graubünden",
+   "Schneiders Brioche"
+  ]
+ },
+ "klosters|landstrasse|143": {
+  "street": "Landstrasse",
+  "hn": "143",
+  "lat": 46.8715338,
+  "lng": 9.8812907,
+  "mieter": [
+   "Roniger"
+  ]
+ },
+ "klosters|bahnhofstrasse|22": {
+  "street": "Bahnhofstrasse",
+  "hn": "22",
+  "lat": 46.8674977,
+  "lng": 9.8834753,
+  "mieter": [
+   "Al Capone"
+  ]
+ },
+ "klosters|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 46.8685794,
+  "lng": 9.882,
+  "mieter": [
+   "Klosters"
+  ]
+ },
+ "klosters|landstrasse|15": {
+  "street": "Landstrasse",
+  "hn": "15",
+  "lat": 46.8843066,
+  "lng": 9.8750833,
+  "mieter": [
+   "Dörfji-Sport Klosters"
+  ]
+ },
+ "klosters|landstrasse|181": {
+  "street": "Landstrasse",
+  "hn": "181",
+  "lat": 46.8672174,
+  "lng": 9.8836537,
+  "mieter": [
+   "Beck Hitz AG"
+  ]
+ },
+ "klosters|landstrasse|205": {
+  "street": "Landstrasse",
+  "hn": "205",
+  "lat": 46.8646627,
+  "lng": 9.8823051,
+  "mieter": [
+   "Hotel Wynegg"
+  ]
+ },
+ "klosters|doggilochstrasse|55": {
+  "street": "Doggilochstrasse",
+  "hn": "55",
+  "lat": 46.8640497,
+  "lng": 9.8893615,
+  "mieter": []
+ },
+ "klosters|alte bahnhofstrasse|11": {
+  "street": "Alte Bahnhofstrasse",
+  "hn": "11",
+  "lat": 46.8678046,
+  "lng": 9.8820701,
+  "mieter": [
+   "Helios"
+  ]
+ },
+ "klosters|alte bahnhofstrasse|6": {
+  "street": "Alte Bahnhofstrasse",
+  "hn": "6",
+  "lat": 46.8673719,
+  "lng": 9.8823926,
+  "mieter": [
+   "Graubündner Kantonalbank"
+  ]
+ },
+ "klosters|alte bahnhofstrasse|4": {
+  "street": "Alte Bahnhofstrasse",
+  "hn": "4",
+  "lat": 46.8671261,
+  "lng": 9.8823825,
+  "mieter": [
+   "ANDRIST Sport & Fashion"
+  ]
+ },
+ "klosters|landstrasse|26": {
+  "street": "Landstrasse",
+  "hn": "26",
+  "lat": 46.8829924,
+  "lng": 9.8769442,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 46.8682146,
+  "lng": 9.8824719,
+  "mieter": [
+   "Maissen"
+  ]
+ },
+ "klosters|landstrasse|215": {
+  "street": "Landstrasse",
+  "hn": "215",
+  "lat": 46.8636331,
+  "lng": 9.8819657,
+  "mieter": [
+   "Bicobello"
+  ]
+ },
+ "klosters|madrisastrasse|5": {
+  "street": "Madrisastrasse",
+  "hn": "5",
+  "lat": 46.8839748,
+  "lng": 9.8764541,
+  "mieter": [
+   "Pizzeria Madrisa-Mia"
+  ]
+ },
+ "klosters|madrisastrasse|3": {
+  "street": "Madrisastrasse",
+  "hn": "3",
+  "lat": 46.883703,
+  "lng": 9.8765339,
+  "mieter": [
+   "Toyota"
+  ]
+ },
+ "klosters|landstrasse|185": {
+  "street": "Landstrasse",
+  "hn": "185",
+  "lat": 46.8666914,
+  "lng": 9.8830229,
+  "mieter": [
+   "Bardill"
+  ]
+ },
+ "klosters|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 46.8678439,
+  "lng": 9.8825347,
+  "mieter": []
+ },
+ "klosters|alte bahnhofstrasse|5": {
+  "street": "Alte Bahnhofstrasse",
+  "hn": "5",
+  "lat": 46.8673826,
+  "lng": 9.8821081,
+  "mieter": [
+   "Gotschna Sport AG"
+  ]
+ },
+ "klosters|landstrasse|220": {
+  "street": "Landstrasse",
+  "hn": "220",
+  "lat": 46.8634297,
+  "lng": 9.8816574,
+  "mieter": []
+ },
+ "klosters|landstrasse|222": {
+  "street": "Landstrasse",
+  "hn": "222",
+  "lat": 46.8633188,
+  "lng": 9.8816292,
+  "mieter": []
+ },
+ "klosters|landstrasse|199a": {
+  "street": "Landstrasse",
+  "hn": "199a",
+  "lat": 46.865194,
+  "lng": 9.8822463,
+  "mieter": []
+ },
+ "klosters|landstrasse|199b": {
+  "street": "Landstrasse",
+  "hn": "199b",
+  "lat": 46.8651124,
+  "lng": 9.8822759,
+  "mieter": []
+ },
+ "klosters|landstrasse|165": {
+  "street": "Landstrasse",
+  "hn": "165",
+  "lat": 46.8700694,
+  "lng": 9.8828375,
+  "mieter": [
+   "Dorfmetzgerei Guler"
+  ]
+ },
+ "klosters|landstrasse|173": {
+  "street": "Landstrasse",
+  "hn": "173",
+  "lat": 46.8692494,
+  "lng": 9.883414,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 46.8680459,
+  "lng": 9.8822119,
+  "mieter": [
+   "Andrist Sport"
+  ]
+ },
+ "klosters|alte bahnhofstrasse|9": {
+  "street": "Alte Bahnhofstrasse",
+  "hn": "9",
+  "lat": 46.8676129,
+  "lng": 9.8821976,
+  "mieter": [
+   "Ahead Fashion"
+  ]
+ },
+ "klosters|landstrasse|157": {
+  "street": "Landstrasse",
+  "hn": "157",
+  "lat": 46.8707075,
+  "lng": 9.8819952,
+  "mieter": [
+   "Marchtchäller"
+  ]
+ },
+ "klosters|landstrasse|159": {
+  "street": "Landstrasse",
+  "hn": "159",
+  "lat": 46.8704729,
+  "lng": 9.8822593,
+  "mieter": [
+   "Miraina"
+  ]
+ },
+ "klosters|landstrasse|24": {
+  "street": "Landstrasse",
+  "hn": "24",
+  "lat": 46.8830702,
+  "lng": 9.8764828,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|6a": {
+  "street": "Bahnhofstrasse",
+  "hn": "6a",
+  "lat": 46.8828878,
+  "lng": 9.8763068,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|6b": {
+  "street": "Bahnhofstrasse",
+  "hn": "6b",
+  "lat": 46.8828169,
+  "lng": 9.8763425,
+  "mieter": []
+ },
+ "klosters|landstrasse|1": {
+  "street": "Landstrasse",
+  "hn": "1",
+  "lat": 46.8847338,
+  "lng": 9.8744519,
+  "mieter": []
+ },
+ "klosters|landstrasse|1a": {
+  "street": "Landstrasse",
+  "hn": "1a",
+  "lat": 46.8847385,
+  "lng": 9.874611,
+  "mieter": []
+ },
+ "klosters|alte bahnhofstrasse|8": {
+  "street": "Alte Bahnhofstrasse",
+  "hn": "8",
+  "lat": 46.867478,
+  "lng": 9.8824577,
+  "mieter": []
+ },
+ "klosters|landstrasse|207": {
+  "street": "Landstrasse",
+  "hn": "207",
+  "lat": 46.8642049,
+  "lng": 9.882177,
+  "mieter": []
+ },
+ "klosters|landstrasse|195": {
+  "street": "Landstrasse",
+  "hn": "195",
+  "lat": 46.8655106,
+  "lng": 9.8820483,
+  "mieter": [
+   "Sprit's Bar"
+  ]
+ },
+ "klosters|landstrasse|184": {
+  "street": "Landstrasse",
+  "hn": "184",
+  "lat": 46.866851,
+  "lng": 9.882751,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|10": {
+  "street": "Doggilochstrasse",
+  "hn": "10",
+  "lat": 46.8641497,
+  "lng": 9.883456,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|47": {
+  "street": "Doggilochstrasse",
+  "hn": "47",
+  "lat": 46.8653303,
+  "lng": 9.8868965,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|45": {
+  "street": "Doggilochstrasse",
+  "hn": "45",
+  "lat": 46.8651205,
+  "lng": 9.8867253,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|2a": {
+  "street": "Bahnhofstrasse",
+  "hn": "2a",
+  "lat": 46.8687721,
+  "lng": 9.8813723,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 46.8682785,
+  "lng": 9.8817404,
+  "mieter": [
+   "KaffeeKlatsch Easy"
+  ]
+ },
+ "klosters|doggilochstrasse|56": {
+  "street": "Doggilochstrasse",
+  "hn": "56",
+  "lat": 46.8641126,
+  "lng": 9.8884403,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|68": {
+  "street": "Doggilochstrasse",
+  "hn": "68",
+  "lat": 46.8635833,
+  "lng": 9.8900466,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|74": {
+  "street": "Doggilochstrasse",
+  "hn": "74",
+  "lat": 46.8631412,
+  "lng": 9.8906288,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|58": {
+  "street": "Doggilochstrasse",
+  "hn": "58",
+  "lat": 46.8640094,
+  "lng": 9.8886993,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|66": {
+  "street": "Doggilochstrasse",
+  "hn": "66",
+  "lat": 46.8637321,
+  "lng": 9.8896828,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|64": {
+  "street": "Doggilochstrasse",
+  "hn": "64",
+  "lat": 46.8637874,
+  "lng": 9.8892777,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|54": {
+  "street": "Doggilochstrasse",
+  "hn": "54",
+  "lat": 46.8642085,
+  "lng": 9.8879941,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|52": {
+  "street": "Doggilochstrasse",
+  "hn": "52",
+  "lat": 46.8644162,
+  "lng": 9.8873333,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|67": {
+  "street": "Doggilochstrasse",
+  "hn": "67",
+  "lat": 46.8637047,
+  "lng": 9.8905281,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|50": {
+  "street": "Doggilochstrasse",
+  "hn": "50",
+  "lat": 46.8641179,
+  "lng": 9.8869977,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|31": {
+  "street": "Doggilochstrasse",
+  "hn": "31",
+  "lat": 46.8650073,
+  "lng": 9.8852369,
+  "mieter": [
+   "Simon's Bike Base"
+  ]
+ },
+ "klosters|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 46.8684044,
+  "lng": 9.8822473,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 46.8677321,
+  "lng": 9.8827401,
+  "mieter": []
+ },
+ "klosters|landstrasse|174": {
+  "street": "Landstrasse",
+  "hn": "174",
+  "lat": 46.8684994,
+  "lng": 9.8828519,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 46.868465,
+  "lng": 9.8815713,
+  "mieter": []
+ },
+ "klosters|landstrasse|168": {
+  "street": "Landstrasse",
+  "hn": "168",
+  "lat": 46.8689608,
+  "lng": 9.8830693,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 46.8686262,
+  "lng": 9.8814696,
+  "mieter": []
+ },
+ "klosters|landstrasse|176": {
+  "street": "Landstrasse",
+  "hn": "176",
+  "lat": 46.868278,
+  "lng": 9.8831568,
+  "mieter": []
+ },
+ "klosters|alte bahnhofstrasse|3": {
+  "street": "Alte Bahnhofstrasse",
+  "hn": "3",
+  "lat": 46.8669937,
+  "lng": 9.8820164,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|10b": {
+  "street": "Bahnhofstrasse",
+  "hn": "10b",
+  "lat": 46.8679719,
+  "lng": 9.8821528,
+  "mieter": []
+ },
+ "klosters|landstrasse|170": {
+  "street": "Landstrasse",
+  "hn": "170",
+  "lat": 46.8686842,
+  "lng": 9.8830744,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 46.8691767,
+  "lng": 9.8817763,
+  "mieter": []
+ },
+ "klosters|landstrasse|156a": {
+  "street": "Landstrasse",
+  "hn": "156a",
+  "lat": 46.869908,
+  "lng": 9.8824739,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 46.869419,
+  "lng": 9.8809841,
+  "mieter": []
+ },
+ "klosters|landstrasse|171": {
+  "street": "Landstrasse",
+  "hn": "171",
+  "lat": 46.8695405,
+  "lng": 9.8833019,
+  "mieter": []
+ },
+ "klosters|landstrasse|155": {
+  "street": "Landstrasse",
+  "hn": "155",
+  "lat": 46.8708436,
+  "lng": 9.8817708,
+  "mieter": [
+   "Sonne"
+  ]
+ },
+ "klosters|landstrasse|160": {
+  "street": "Landstrasse",
+  "hn": "160",
+  "lat": 46.8695566,
+  "lng": 9.8828247,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 46.8690361,
+  "lng": 9.8819806,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 46.8693221,
+  "lng": 9.8819545,
+  "mieter": []
+ },
+ "klosters|landstrasse|164": {
+  "street": "Landstrasse",
+  "hn": "164",
+  "lat": 46.8690334,
+  "lng": 9.882444,
+  "mieter": []
+ },
+ "klosters|landstrasse|158": {
+  "street": "Landstrasse",
+  "hn": "158",
+  "lat": 46.8698854,
+  "lng": 9.8826905,
+  "mieter": []
+ },
+ "klosters|landstrasse|169": {
+  "street": "Landstrasse",
+  "hn": "169",
+  "lat": 46.8696707,
+  "lng": 9.8831988,
+  "mieter": []
+ },
+ "klosters|landstrasse|145": {
+  "street": "Landstrasse",
+  "hn": "145",
+  "lat": 46.8714056,
+  "lng": 9.8815837,
+  "mieter": []
+ },
+ "klosters|landstrasse|167": {
+  "street": "Landstrasse",
+  "hn": "167",
+  "lat": 46.8697893,
+  "lng": 9.8830934,
+  "mieter": []
+ },
+ "klosters|landstrasse|152": {
+  "street": "Landstrasse",
+  "hn": "152",
+  "lat": 46.870671,
+  "lng": 9.8814819,
+  "mieter": []
+ },
+ "klosters|landstrasse|153": {
+  "street": "Landstrasse",
+  "hn": "153",
+  "lat": 46.8710361,
+  "lng": 9.8815979,
+  "mieter": []
+ },
+ "klosters|landstrasse|189": {
+  "street": "Landstrasse",
+  "hn": "189",
+  "lat": 46.8663051,
+  "lng": 9.8826251,
+  "mieter": []
+ },
+ "klosters|landstrasse|187": {
+  "street": "Landstrasse",
+  "hn": "187",
+  "lat": 46.8664648,
+  "lng": 9.8827965,
+  "mieter": []
+ },
+ "klosters|landstrasse|20": {
+  "street": "Landstrasse",
+  "hn": "20",
+  "lat": 46.8833494,
+  "lng": 9.87573,
+  "mieter": []
+ },
+ "klosters|landstrasse|128": {
+  "street": "Landstrasse",
+  "hn": "128",
+  "lat": 46.8735617,
+  "lng": 9.8796946,
+  "mieter": []
+ },
+ "klosters|landstrasse|128a": {
+  "street": "Landstrasse",
+  "hn": "128a",
+  "lat": 46.8737787,
+  "lng": 9.8796299,
+  "mieter": [
+   "Sankt Josef"
+  ]
+ },
+ "klosters|landstrasse|146": {
+  "street": "Landstrasse",
+  "hn": "146",
+  "lat": 46.8717552,
+  "lng": 9.8807609,
+  "mieter": []
+ },
+ "klosters|landstrasse|141": {
+  "street": "Landstrasse",
+  "hn": "141",
+  "lat": 46.8718411,
+  "lng": 9.8813091,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 46.8675394,
+  "lng": 9.8828716,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 46.8681174,
+  "lng": 9.8828455,
+  "mieter": []
+ },
+ "klosters|landstrasse|175": {
+  "street": "Landstrasse",
+  "hn": "175",
+  "lat": 46.8685194,
+  "lng": 9.8837034,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 46.8676023,
+  "lng": 9.8832101,
+  "mieter": []
+ },
+ "klosters|landstrasse|177": {
+  "street": "Landstrasse",
+  "hn": "177",
+  "lat": 46.8683982,
+  "lng": 9.8837063,
+  "mieter": []
+ },
+ "klosters|landstrasse|137a": {
+  "street": "Landstrasse",
+  "hn": "137a",
+  "lat": 46.8723774,
+  "lng": 9.8815801,
+  "mieter": []
+ },
+ "klosters|landstrasse|135a": {
+  "street": "Landstrasse",
+  "hn": "135a",
+  "lat": 46.8727341,
+  "lng": 9.8808381,
+  "mieter": []
+ },
+ "klosters|landstrasse|133": {
+  "street": "Landstrasse",
+  "hn": "133",
+  "lat": 46.873036,
+  "lng": 9.8807564,
+  "mieter": []
+ },
+ "klosters|landstrasse|137": {
+  "street": "Landstrasse",
+  "hn": "137",
+  "lat": 46.8722471,
+  "lng": 9.8810395,
+  "mieter": []
+ },
+ "klosters|landstrasse|139": {
+  "street": "Landstrasse",
+  "hn": "139",
+  "lat": 46.8720019,
+  "lng": 9.8810957,
+  "mieter": []
+ },
+ "klosters|landstrasse|131": {
+  "street": "Landstrasse",
+  "hn": "131",
+  "lat": 46.8732493,
+  "lng": 9.8804323,
+  "mieter": []
+ },
+ "klosters|landstrasse|127": {
+  "street": "Landstrasse",
+  "hn": "127",
+  "lat": 46.8739908,
+  "lng": 9.8800693,
+  "mieter": []
+ },
+ "klosters|landstrasse|118": {
+  "street": "Landstrasse",
+  "hn": "118",
+  "lat": 46.8756827,
+  "lng": 9.8792682,
+  "mieter": []
+ },
+ "klosters|landstrasse|123": {
+  "street": "Landstrasse",
+  "hn": "123",
+  "lat": 46.8745102,
+  "lng": 9.8799523,
+  "mieter": []
+ },
+ "klosters|landstrasse|125": {
+  "street": "Landstrasse",
+  "hn": "125",
+  "lat": 46.8742936,
+  "lng": 9.8799832,
+  "mieter": []
+ },
+ "klosters|landstrasse|119": {
+  "street": "Landstrasse",
+  "hn": "119",
+  "lat": 46.8748892,
+  "lng": 9.8799478,
+  "mieter": []
+ },
+ "klosters|landstrasse|120": {
+  "street": "Landstrasse",
+  "hn": "120",
+  "lat": 46.8754366,
+  "lng": 9.8794238,
+  "mieter": []
+ },
+ "klosters|landstrasse|111": {
+  "street": "Landstrasse",
+  "hn": "111",
+  "lat": 46.8756872,
+  "lng": 9.8796731,
+  "mieter": []
+ },
+ "klosters|landstrasse|116": {
+  "street": "Landstrasse",
+  "hn": "116",
+  "lat": 46.8758606,
+  "lng": 9.8791998,
+  "mieter": []
+ },
+ "klosters|landstrasse|130": {
+  "street": "Landstrasse",
+  "hn": "130",
+  "lat": 46.8731352,
+  "lng": 9.8799504,
+  "mieter": []
+ },
+ "klosters|landstrasse|122": {
+  "street": "Landstrasse",
+  "hn": "122",
+  "lat": 46.8748961,
+  "lng": 9.8794571,
+  "mieter": []
+ },
+ "klosters|landstrasse|102": {
+  "street": "Landstrasse",
+  "hn": "102",
+  "lat": 46.8765016,
+  "lng": 9.8790551,
+  "mieter": []
+ },
+ "klosters|landstrasse|105": {
+  "street": "Landstrasse",
+  "hn": "105",
+  "lat": 46.8765621,
+  "lng": 9.8795689,
+  "mieter": []
+ },
+ "klosters|landstrasse|107": {
+  "street": "Landstrasse",
+  "hn": "107",
+  "lat": 46.8762524,
+  "lng": 9.8796206,
+  "mieter": []
+ },
+ "klosters|landstrasse|103": {
+  "street": "Landstrasse",
+  "hn": "103",
+  "lat": 46.8768177,
+  "lng": 9.8794256,
+  "mieter": []
+ },
+ "klosters|landstrasse|106": {
+  "street": "Landstrasse",
+  "hn": "106",
+  "lat": 46.8761755,
+  "lng": 9.8790453,
+  "mieter": []
+ },
+ "klosters|landstrasse|124": {
+  "street": "Landstrasse",
+  "hn": "124",
+  "lat": 46.8745706,
+  "lng": 9.8795388,
+  "mieter": []
+ },
+ "klosters|landstrasse|107a": {
+  "street": "Landstrasse",
+  "hn": "107a",
+  "lat": 46.876415,
+  "lng": 9.8794432,
+  "mieter": []
+ },
+ "klosters|landstrasse|126": {
+  "street": "Landstrasse",
+  "hn": "126",
+  "lat": 46.8741854,
+  "lng": 9.8796096,
+  "mieter": []
+ },
+ "klosters|landstrasse|104": {
+  "street": "Landstrasse",
+  "hn": "104",
+  "lat": 46.8764652,
+  "lng": 9.8788225,
+  "mieter": []
+ },
+ "klosters|landstrasse|95c": {
+  "street": "Landstrasse",
+  "hn": "95c",
+  "lat": 46.8776536,
+  "lng": 9.8808806,
+  "mieter": []
+ },
+ "klosters|landstrasse|95a": {
+  "street": "Landstrasse",
+  "hn": "95a",
+  "lat": 46.8774767,
+  "lng": 9.8800166,
+  "mieter": []
+ },
+ "klosters|landstrasse|95b": {
+  "street": "Landstrasse",
+  "hn": "95b",
+  "lat": 46.8772146,
+  "lng": 9.8802861,
+  "mieter": []
+ },
+ "klosters|landstrasse|90": {
+  "street": "Landstrasse",
+  "hn": "90",
+  "lat": 46.8782452,
+  "lng": 9.879005,
+  "mieter": []
+ },
+ "klosters|landstrasse|91": {
+  "street": "Landstrasse",
+  "hn": "91",
+  "lat": 46.877941,
+  "lng": 9.8798595,
+  "mieter": []
+ },
+ "klosters|landstrasse|92": {
+  "street": "Landstrasse",
+  "hn": "92",
+  "lat": 46.8782214,
+  "lng": 9.8794221,
+  "mieter": []
+ },
+ "klosters|landstrasse|89": {
+  "street": "Landstrasse",
+  "hn": "89",
+  "lat": 46.8782943,
+  "lng": 9.8800086,
+  "mieter": []
+ },
+ "klosters|landstrasse|96": {
+  "street": "Landstrasse",
+  "hn": "96",
+  "lat": 46.8778035,
+  "lng": 9.8791344,
+  "mieter": []
+ },
+ "klosters|landstrasse|82": {
+  "street": "Landstrasse",
+  "hn": "82",
+  "lat": 46.8784721,
+  "lng": 9.8795567,
+  "mieter": []
+ },
+ "klosters|landstrasse|93": {
+  "street": "Landstrasse",
+  "hn": "93",
+  "lat": 46.8780439,
+  "lng": 9.8801787,
+  "mieter": []
+ },
+ "klosters|landstrasse|84": {
+  "street": "Landstrasse",
+  "hn": "84",
+  "lat": 46.8785681,
+  "lng": 9.87921,
+  "mieter": []
+ },
+ "klosters|landstrasse|94": {
+  "street": "Landstrasse",
+  "hn": "94",
+  "lat": 46.8779307,
+  "lng": 9.8792603,
+  "mieter": []
+ },
+ "klosters|landstrasse|86": {
+  "street": "Landstrasse",
+  "hn": "86",
+  "lat": 46.8787952,
+  "lng": 9.8791757,
+  "mieter": []
+ },
+ "klosters|landstrasse|80": {
+  "street": "Landstrasse",
+  "hn": "80",
+  "lat": 46.8787341,
+  "lng": 9.8796658,
+  "mieter": []
+ },
+ "klosters|landstrasse|73": {
+  "street": "Landstrasse",
+  "hn": "73",
+  "lat": 46.8792014,
+  "lng": 9.8802809,
+  "mieter": []
+ },
+ "klosters|landstrasse|71": {
+  "street": "Landstrasse",
+  "hn": "71",
+  "lat": 46.8794408,
+  "lng": 9.8807447,
+  "mieter": []
+ },
+ "klosters|landstrasse|69": {
+  "street": "Landstrasse",
+  "hn": "69",
+  "lat": 46.8796768,
+  "lng": 9.8811107,
+  "mieter": []
+ },
+ "klosters|landstrasse|68": {
+  "street": "Landstrasse",
+  "hn": "68",
+  "lat": 46.8798474,
+  "lng": 9.8799167,
+  "mieter": []
+ },
+ "klosters|landstrasse|66": {
+  "street": "Landstrasse",
+  "hn": "66",
+  "lat": 46.8801194,
+  "lng": 9.879968,
+  "mieter": []
+ },
+ "klosters|landstrasse|62": {
+  "street": "Landstrasse",
+  "hn": "62",
+  "lat": 46.8804679,
+  "lng": 9.8798892,
+  "mieter": []
+ },
+ "klosters|landstrasse|61": {
+  "street": "Landstrasse",
+  "hn": "61",
+  "lat": 46.8806615,
+  "lng": 9.8802996,
+  "mieter": []
+ },
+ "klosters|landstrasse|60": {
+  "street": "Landstrasse",
+  "hn": "60",
+  "lat": 46.8806854,
+  "lng": 9.879755,
+  "mieter": []
+ },
+ "klosters|landstrasse|58": {
+  "street": "Landstrasse",
+  "hn": "58",
+  "lat": 46.8809496,
+  "lng": 9.8796903,
+  "mieter": []
+ },
+ "klosters|landstrasse|56": {
+  "street": "Landstrasse",
+  "hn": "56",
+  "lat": 46.8811213,
+  "lng": 9.8795505,
+  "mieter": []
+ },
+ "klosters|landstrasse|54": {
+  "street": "Landstrasse",
+  "hn": "54",
+  "lat": 46.881303,
+  "lng": 9.8794263,
+  "mieter": []
+ },
+ "klosters|landstrasse|52": {
+  "street": "Landstrasse",
+  "hn": "52",
+  "lat": 46.8814672,
+  "lng": 9.8793753,
+  "mieter": []
+ },
+ "klosters|landstrasse|46c": {
+  "street": "Landstrasse",
+  "hn": "46c",
+  "lat": 46.8815,
+  "lng": 9.8789787,
+  "mieter": []
+ },
+ "klosters|landstrasse|48": {
+  "street": "Landstrasse",
+  "hn": "48",
+  "lat": 46.8817279,
+  "lng": 9.8792523,
+  "mieter": []
+ },
+ "klosters|landstrasse|46b": {
+  "street": "Landstrasse",
+  "hn": "46b",
+  "lat": 46.8817652,
+  "lng": 9.87893,
+  "mieter": []
+ },
+ "klosters|landstrasse|46a": {
+  "street": "Landstrasse",
+  "hn": "46a",
+  "lat": 46.8820116,
+  "lng": 9.8789021,
+  "mieter": []
+ },
+ "klosters|landstrasse|44": {
+  "street": "Landstrasse",
+  "hn": "44",
+  "lat": 46.8823507,
+  "lng": 9.8788485,
+  "mieter": []
+ },
+ "klosters|landstrasse|42": {
+  "street": "Landstrasse",
+  "hn": "42",
+  "lat": 46.8825266,
+  "lng": 9.8786324,
+  "mieter": []
+ },
+ "klosters|landstrasse|38": {
+  "street": "Landstrasse",
+  "hn": "38",
+  "lat": 46.8826008,
+  "lng": 9.8782676,
+  "mieter": []
+ },
+ "klosters|landstrasse|36": {
+  "street": "Landstrasse",
+  "hn": "36",
+  "lat": 46.8826955,
+  "lng": 9.8776377,
+  "mieter": []
+ },
+ "klosters|landstrasse|40": {
+  "street": "Landstrasse",
+  "hn": "40",
+  "lat": 46.8823598,
+  "lng": 9.8780513,
+  "mieter": []
+ },
+ "klosters|landstrasse|36b": {
+  "street": "Landstrasse",
+  "hn": "36b",
+  "lat": 46.8824229,
+  "lng": 9.8776547,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|12b": {
+  "street": "Bahnhofstrasse",
+  "hn": "12b",
+  "lat": 46.8826019,
+  "lng": 9.8775566,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|12a": {
+  "street": "Bahnhofstrasse",
+  "hn": "12a",
+  "lat": 46.8826199,
+  "lng": 9.8773663,
+  "mieter": []
+ },
+ "klosters|landstrasse|43": {
+  "street": "Landstrasse",
+  "hn": "43",
+  "lat": 46.8827885,
+  "lng": 9.8788325,
+  "mieter": []
+ },
+ "klosters|landstrasse|41": {
+  "street": "Landstrasse",
+  "hn": "41",
+  "lat": 46.8828994,
+  "lng": 9.8782996,
+  "mieter": []
+ },
+ "klosters|madrisastrasse|14": {
+  "street": "Madrisastrasse",
+  "hn": "14",
+  "lat": 46.8852937,
+  "lng": 9.876727,
+  "mieter": []
+ },
+ "klosters|madrisastrasse|11": {
+  "street": "Madrisastrasse",
+  "hn": "11",
+  "lat": 46.8851777,
+  "lng": 9.8757338,
+  "mieter": []
+ },
+ "klosters|madrisastrasse|13": {
+  "street": "Madrisastrasse",
+  "hn": "13",
+  "lat": 46.8851686,
+  "lng": 9.8759216,
+  "mieter": []
+ },
+ "klosters|landstrasse|35": {
+  "street": "Landstrasse",
+  "hn": "35",
+  "lat": 46.883169,
+  "lng": 9.876927,
+  "mieter": []
+ },
+ "klosters|landstrasse|33": {
+  "street": "Landstrasse",
+  "hn": "33",
+  "lat": 46.8832436,
+  "lng": 9.8766331,
+  "mieter": []
+ },
+ "klosters|landstrasse|29": {
+  "street": "Landstrasse",
+  "hn": "29",
+  "lat": 46.8833116,
+  "lng": 9.8763484,
+  "mieter": []
+ },
+ "klosters|madrisastrasse|7": {
+  "street": "Madrisastrasse",
+  "hn": "7",
+  "lat": 46.8844984,
+  "lng": 9.875664,
+  "mieter": []
+ },
+ "klosters|landstrasse|22": {
+  "street": "Landstrasse",
+  "hn": "22",
+  "lat": 46.8832079,
+  "lng": 9.8759943,
+  "mieter": []
+ },
+ "klosters|landstrasse|23": {
+  "street": "Landstrasse",
+  "hn": "23",
+  "lat": 46.883684,
+  "lng": 9.8757921,
+  "mieter": []
+ },
+ "klosters|landstrasse|21": {
+  "street": "Landstrasse",
+  "hn": "21",
+  "lat": 46.8838148,
+  "lng": 9.8755794,
+  "mieter": []
+ },
+ "klosters|landstrasse|17": {
+  "street": "Landstrasse",
+  "hn": "17",
+  "lat": 46.8841214,
+  "lng": 9.8753853,
+  "mieter": []
+ },
+ "klosters|landstrasse|19": {
+  "street": "Landstrasse",
+  "hn": "19",
+  "lat": 46.8841929,
+  "lng": 9.8756583,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|36": {
+  "street": "Doggilochstrasse",
+  "hn": "36",
+  "lat": 46.8646003,
+  "lng": 9.8853432,
+  "mieter": []
+ },
+ "klosters|landstrasse|11": {
+  "street": "Landstrasse",
+  "hn": "11",
+  "lat": 46.8844702,
+  "lng": 9.8747037,
+  "mieter": []
+ },
+ "klosters|landstrasse|3": {
+  "street": "Landstrasse",
+  "hn": "3",
+  "lat": 46.8846065,
+  "lng": 9.8744772,
+  "mieter": []
+ },
+ "klosters|landstrasse|9": {
+  "street": "Landstrasse",
+  "hn": "9",
+  "lat": 46.8845494,
+  "lng": 9.8745624,
+  "mieter": []
+ },
+ "klosters|landstrasse|7": {
+  "street": "Landstrasse",
+  "hn": "7",
+  "lat": 46.8846129,
+  "lng": 9.8748431,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|10a": {
+  "street": "Bahnhofstrasse",
+  "hn": "10a",
+  "lat": 46.8680846,
+  "lng": 9.8818678,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "klosters|doggilochstrasse|4": {
+  "street": "Doggilochstrasse",
+  "hn": "4",
+  "lat": 46.8641699,
+  "lng": 9.8826996,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|41": {
+  "street": "Doggilochstrasse",
+  "hn": "41",
+  "lat": 46.8648821,
+  "lng": 9.886268,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|3": {
+  "street": "Doggilochstrasse",
+  "hn": "3",
+  "lat": 46.8648159,
+  "lng": 9.8830979,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|25": {
+  "street": "Doggilochstrasse",
+  "hn": "25",
+  "lat": 46.8650234,
+  "lng": 9.8844138,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|17": {
+  "street": "Doggilochstrasse",
+  "hn": "17",
+  "lat": 46.8650217,
+  "lng": 9.8837768,
+  "mieter": []
+ },
+ "klosters|landstrasse|210": {
+  "street": "Landstrasse",
+  "hn": "210",
+  "lat": 46.8645047,
+  "lng": 9.8819656,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|27": {
+  "street": "Doggilochstrasse",
+  "hn": "27",
+  "lat": 46.8651461,
+  "lng": 9.8846824,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|32a": {
+  "street": "Doggilochstrasse",
+  "hn": "32a",
+  "lat": 46.8646823,
+  "lng": 9.8849352,
+  "mieter": []
+ },
+ "klosters|landstrasse|194": {
+  "street": "Landstrasse",
+  "hn": "194",
+  "lat": 46.8653473,
+  "lng": 9.881878,
+  "mieter": []
+ },
+ "klosters|landstrasse|193": {
+  "street": "Landstrasse",
+  "hn": "193",
+  "lat": 46.8655827,
+  "lng": 9.8827707,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|30": {
+  "street": "Doggilochstrasse",
+  "hn": "30",
+  "lat": 46.8647261,
+  "lng": 9.8845388,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|57": {
+  "street": "Doggilochstrasse",
+  "hn": "57",
+  "lat": 46.8642301,
+  "lng": 9.8896852,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|6a": {
+  "street": "Doggilochstrasse",
+  "hn": "6a",
+  "lat": 46.8643514,
+  "lng": 9.8827749,
+  "mieter": []
+ },
+ "klosters|landstrasse|208": {
+  "street": "Landstrasse",
+  "hn": "208",
+  "lat": 46.8646643,
+  "lng": 9.8820086,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|28": {
+  "street": "Doggilochstrasse",
+  "hn": "28",
+  "lat": 46.864768,
+  "lng": 9.8843138,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|73": {
+  "street": "Doggilochstrasse",
+  "hn": "73",
+  "lat": 46.8637642,
+  "lng": 9.8913547,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|39": {
+  "street": "Doggilochstrasse",
+  "hn": "39",
+  "lat": 46.8650812,
+  "lng": 9.8860193,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|71": {
+  "street": "Doggilochstrasse",
+  "hn": "71",
+  "lat": 46.863476,
+  "lng": 9.8912008,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|19": {
+  "street": "Doggilochstrasse",
+  "hn": "19",
+  "lat": 46.8650006,
+  "lng": 9.8842507,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|42": {
+  "street": "Doggilochstrasse",
+  "hn": "42",
+  "lat": 46.8646174,
+  "lng": 9.8859182,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|15": {
+  "street": "Doggilochstrasse",
+  "hn": "15",
+  "lat": 46.8650236,
+  "lng": 9.8833921,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|12": {
+  "street": "Doggilochstrasse",
+  "hn": "12",
+  "lat": 46.8642827,
+  "lng": 9.8839755,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|7": {
+  "street": "Doggilochstrasse",
+  "hn": "7",
+  "lat": 46.8651995,
+  "lng": 9.8828919,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|21": {
+  "street": "Doggilochstrasse",
+  "hn": "21",
+  "lat": 46.8652747,
+  "lng": 9.884468,
+  "mieter": []
+ },
+ "klosters|landstrasse|182": {
+  "street": "Landstrasse",
+  "hn": "182",
+  "lat": 46.867059,
+  "lng": 9.8830111,
+  "mieter": []
+ },
+ "klosters|landstrasse|212": {
+  "street": "Landstrasse",
+  "hn": "212",
+  "lat": 46.8643625,
+  "lng": 9.8819614,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|48": {
+  "street": "Doggilochstrasse",
+  "hn": "48",
+  "lat": 46.8646188,
+  "lng": 9.8867384,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|20": {
+  "street": "Doggilochstrasse",
+  "hn": "20",
+  "lat": 46.8645547,
+  "lng": 9.8831777,
+  "mieter": []
+ },
+ "klosters|landstrasse|192": {
+  "street": "Landstrasse",
+  "hn": "192",
+  "lat": 46.8654913,
+  "lng": 9.88181,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|61": {
+  "street": "Doggilochstrasse",
+  "hn": "61",
+  "lat": 46.8645481,
+  "lng": 9.8897535,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|8": {
+  "street": "Doggilochstrasse",
+  "hn": "8",
+  "lat": 46.86441,
+  "lng": 9.8832841,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|65": {
+  "street": "Doggilochstrasse",
+  "hn": "65",
+  "lat": 46.8640032,
+  "lng": 9.8903785,
+  "mieter": []
+ },
+ "klosters|landstrasse|206": {
+  "street": "Landstrasse",
+  "hn": "206",
+  "lat": 46.8648355,
+  "lng": 9.8820083,
+  "mieter": []
+ },
+ "klosters|landstrasse|201": {
+  "street": "Landstrasse",
+  "hn": "201",
+  "lat": 46.8650445,
+  "lng": 9.8824061,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|26": {
+  "street": "Doggilochstrasse",
+  "hn": "26",
+  "lat": 46.8646624,
+  "lng": 9.8840881,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|75": {
+  "street": "Doggilochstrasse",
+  "hn": "75",
+  "lat": 46.8640026,
+  "lng": 9.8908071,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|37": {
+  "street": "Doggilochstrasse",
+  "hn": "37",
+  "lat": 46.8649154,
+  "lng": 9.8859483,
+  "mieter": []
+ },
+ "klosters|landstrasse|198": {
+  "street": "Landstrasse",
+  "hn": "198",
+  "lat": 46.8651323,
+  "lng": 9.881821,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|5": {
+  "street": "Doggilochstrasse",
+  "hn": "5",
+  "lat": 46.8649631,
+  "lng": 9.8830488,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|9": {
+  "street": "Doggilochstrasse",
+  "hn": "9",
+  "lat": 46.8653924,
+  "lng": 9.8826002,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|22": {
+  "street": "Doggilochstrasse",
+  "hn": "22",
+  "lat": 46.8646014,
+  "lng": 9.8834213,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|23": {
+  "street": "Doggilochstrasse",
+  "hn": "23",
+  "lat": 46.8653173,
+  "lng": 9.8839292,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|40": {
+  "street": "Doggilochstrasse",
+  "hn": "40",
+  "lat": 46.8642942,
+  "lng": 9.8851723,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|18": {
+  "street": "Doggilochstrasse",
+  "hn": "18",
+  "lat": 46.8645047,
+  "lng": 9.8828889,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|29": {
+  "street": "Doggilochstrasse",
+  "hn": "29",
+  "lat": 46.8651437,
+  "lng": 9.885014,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|87": {
+  "street": "Doggilochstrasse",
+  "hn": "87",
+  "lat": 46.8636214,
+  "lng": 9.89181,
+  "mieter": []
+ },
+ "klosters|landstrasse|196": {
+  "street": "Landstrasse",
+  "hn": "196",
+  "lat": 46.8652242,
+  "lng": 9.8820216,
+  "mieter": []
+ },
+ "klosters|alte bahnhofstrasse|10": {
+  "street": "Alte Bahnhofstrasse",
+  "hn": "10",
+  "lat": 46.8672814,
+  "lng": 9.8827581,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|6b": {
+  "street": "Doggilochstrasse",
+  "hn": "6b",
+  "lat": 46.864322,
+  "lng": 9.8829254,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|43": {
+  "street": "Doggilochstrasse",
+  "hn": "43",
+  "lat": 46.8650347,
+  "lng": 9.8863331,
+  "mieter": []
+ },
+ "klosters|landstrasse|204a": {
+  "street": "Landstrasse",
+  "hn": "204a",
+  "lat": 46.8649524,
+  "lng": 9.8820754,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|77": {
+  "street": "Doggilochstrasse",
+  "hn": "77",
+  "lat": 46.8643569,
+  "lng": 9.890317,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|1": {
+  "street": "Doggilochstrasse",
+  "hn": "1",
+  "lat": 46.8646957,
+  "lng": 9.8828446,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|2": {
+  "street": "Doggilochstrasse",
+  "hn": "2",
+  "lat": 46.8644045,
+  "lng": 9.8822786,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|38": {
+  "street": "Doggilochstrasse",
+  "hn": "38",
+  "lat": 46.864238,
+  "lng": 9.8857119,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|32b": {
+  "street": "Doggilochstrasse",
+  "hn": "32b",
+  "lat": 46.8646775,
+  "lng": 9.8848018,
+  "mieter": []
+ },
+ "klosters|landstrasse|115a": {
+  "street": "Landstrasse",
+  "hn": "115a",
+  "lat": 46.8753295,
+  "lng": 9.8804939,
+  "mieter": []
+ },
+ "klosters|landstrasse|115": {
+  "street": "Landstrasse",
+  "hn": "115",
+  "lat": 46.8753219,
+  "lng": 9.8802069,
+  "mieter": []
+ },
+ "klosters|landstrasse|113": {
+  "street": "Landstrasse",
+  "hn": "113",
+  "lat": 46.8756451,
+  "lng": 9.8801486,
+  "mieter": []
+ },
+ "klosters|landstrasse|148": {
+  "street": "Landstrasse",
+  "hn": "148",
+  "lat": 46.8714076,
+  "lng": 9.8808035,
+  "mieter": []
+ },
+ "klosters|landstrasse|144": {
+  "street": "Landstrasse",
+  "hn": "144",
+  "lat": 46.8719735,
+  "lng": 9.8805909,
+  "mieter": []
+ },
+ "klosters|landstrasse|140": {
+  "street": "Landstrasse",
+  "hn": "140",
+  "lat": 46.8725373,
+  "lng": 9.8804022,
+  "mieter": []
+ },
+ "klosters|landstrasse|214": {
+  "street": "Landstrasse",
+  "hn": "214",
+  "lat": 46.8640418,
+  "lng": 9.8818324,
+  "mieter": []
+ },
+ "klosters|landstrasse|216": {
+  "street": "Landstrasse",
+  "hn": "216",
+  "lat": 46.8638126,
+  "lng": 9.8816984,
+  "mieter": []
+ },
+ "klosters|landstrasse|221": {
+  "street": "Landstrasse",
+  "hn": "221",
+  "lat": 46.8626893,
+  "lng": 9.8812841,
+  "mieter": []
+ },
+ "klosters|landstrasse|217": {
+  "street": "Landstrasse",
+  "hn": "217",
+  "lat": 46.8634185,
+  "lng": 9.8818823,
+  "mieter": []
+ },
+ "klosters|landstrasse|209": {
+  "street": "Landstrasse",
+  "hn": "209",
+  "lat": 46.8639432,
+  "lng": 9.8825432,
+  "mieter": []
+ },
+ "klosters|landstrasse|211": {
+  "street": "Landstrasse",
+  "hn": "211",
+  "lat": 46.8639201,
+  "lng": 9.8821563,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|20a": {
+  "street": "Bahnhofstrasse",
+  "hn": "20a",
+  "lat": 46.8673997,
+  "lng": 9.8830419,
+  "mieter": []
+ },
+ "klosters|landstrasse|178": {
+  "street": "Landstrasse",
+  "hn": "178",
+  "lat": 46.8673776,
+  "lng": 9.8833368,
+  "mieter": []
+ },
+ "klosters|landstrasse|180": {
+  "street": "Landstrasse",
+  "hn": "180",
+  "lat": 46.8672162,
+  "lng": 9.8831799,
+  "mieter": []
+ },
+ "klosters|landstrasse|142b": {
+  "street": "Landstrasse",
+  "hn": "142b",
+  "lat": 46.872124,
+  "lng": 9.8801691,
+  "mieter": []
+ },
+ "klosters|landstrasse|150b": {
+  "street": "Landstrasse",
+  "hn": "150b",
+  "lat": 46.8706484,
+  "lng": 9.8811074,
+  "mieter": []
+ },
+ "klosters|landstrasse|150a": {
+  "street": "Landstrasse",
+  "hn": "150a",
+  "lat": 46.8711073,
+  "lng": 9.8810636,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|51a": {
+  "street": "Doggilochstrasse",
+  "hn": "51a",
+  "lat": 46.8658736,
+  "lng": 9.8847233,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|56b": {
+  "street": "Doggilochstrasse",
+  "hn": "56b",
+  "lat": 46.8638864,
+  "lng": 9.8882271,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|14a": {
+  "street": "Doggilochstrasse",
+  "hn": "14a",
+  "lat": 46.8640787,
+  "lng": 9.8837906,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|14b": {
+  "street": "Doggilochstrasse",
+  "hn": "14b",
+  "lat": 46.864049,
+  "lng": 9.8836299,
+  "mieter": []
+ },
+ "klosters|landstrasse|100": {
+  "street": "Landstrasse",
+  "hn": "100",
+  "lat": 46.8769026,
+  "lng": 9.87896,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|24": {
+  "street": "Doggilochstrasse",
+  "hn": "24",
+  "lat": 46.8644717,
+  "lng": 9.883656,
+  "mieter": []
+ },
+ "klosters|landstrasse|1b": {
+  "street": "Landstrasse",
+  "hn": "1b",
+  "lat": 46.8847388,
+  "lng": 9.8749029,
+  "mieter": []
+ },
+ "klosters|landstrasse|17a": {
+  "street": "Landstrasse",
+  "hn": "17a",
+  "lat": 46.8839779,
+  "lng": 9.8754522,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|16b": {
+  "street": "Bahnhofstrasse",
+  "hn": "16b",
+  "lat": 46.8677036,
+  "lng": 9.8829172,
+  "mieter": []
+ },
+ "klosters|bahnhofstrasse|16a": {
+  "street": "Bahnhofstrasse",
+  "hn": "16a",
+  "lat": 46.8676727,
+  "lng": 9.8830202,
+  "mieter": []
+ },
+ "klosters|landstrasse|156": {
+  "street": "Landstrasse",
+  "hn": "156",
+  "lat": 46.869986,
+  "lng": 9.8823307,
+  "mieter": []
+ },
+ "klosters|doggilochstrasse|65a": {
+  "street": "Doggilochstrasse",
+  "hn": "65a",
+  "lat": 46.8638232,
+  "lng": 9.890163,
+  "mieter": []
+ },
+ "klosters|landstrasse|213": {
+  "street": "Landstrasse",
+  "hn": "213",
+  "lat": 46.8637432,
+  "lng": 9.8820864,
+  "mieter": []
+ },
+ "klosters|landstrasse|202": {
+  "street": "Landstrasse",
+  "hn": "202",
+  "lat": 46.865039,
+  "lng": 9.8820663,
+  "mieter": []
+ },
+ "klosters|landstrasse|204b": {
+  "street": "Landstrasse",
+  "hn": "204b",
+  "lat": 46.8648982,
+  "lng": 9.8820661,
+  "mieter": []
+ },
+ "klosters|landstrasse|135b": {
+  "street": "Landstrasse",
+  "hn": "135b",
+  "lat": 46.8725142,
+  "lng": 9.8809107,
+  "mieter": []
+ },
+ "klosters|landstrasse|36a": {
+  "street": "Landstrasse",
+  "hn": "36a",
+  "lat": 46.8826441,
+  "lng": 9.877906,
+  "mieter": []
+ },
+ "klosters|landstrasse|95d": {
+  "street": "Landstrasse",
+  "hn": "95d",
+  "lat": 46.8775161,
+  "lng": 9.8807344,
+  "mieter": []
+ },
+ "klosters|landstrasse|63": {
+  "street": "Landstrasse",
+  "hn": "63",
+  "lat": 46.8802452,
+  "lng": 9.8804584,
+  "mieter": []
+ }
+}

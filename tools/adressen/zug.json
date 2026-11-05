@@ -1,0 +1,1428 @@
+{
+ "zug|baarerstrasse|30": {
+  "street": "Baarerstrasse",
+  "hn": "30",
+  "lat": 47.1737401,
+  "lng": 8.5171375,
+  "mieter": [
+   "Tibits"
+  ]
+ },
+ "zug|baarerstrasse|41": {
+  "street": "Baarerstrasse",
+  "hn": "41",
+  "lat": 47.1738925,
+  "lng": 8.5162087,
+  "mieter": [
+   "McDonald's"
+  ]
+ },
+ "zug|baarerstrasse|12": {
+  "street": "Baarerstrasse",
+  "hn": "12",
+  "lat": 47.1717295,
+  "lng": 8.5166076,
+  "mieter": [
+   "Zuger Kantonalbank",
+   "Café Bossard"
+  ]
+ },
+ "zug|alpenstrasse|11": {
+  "street": "Alpenstrasse",
+  "hn": "11",
+  "lat": 47.1725847,
+  "lng": 8.514474,
+  "mieter": [
+   "Mr. Pickwick"
+  ]
+ },
+ "zug|bundesplatz|11": {
+  "street": "Bundesplatz",
+  "hn": "11",
+  "lat": 47.171496,
+  "lng": 8.5145777,
+  "mieter": [
+   "Coop",
+   "Fust",
+   "Import Parfumerie"
+  ]
+ },
+ "zug|neugasse|6": {
+  "street": "Neugasse",
+  "hn": "6",
+  "lat": 47.1673682,
+  "lng": 8.5155539,
+  "mieter": [
+   "Why Not Bar"
+  ]
+ },
+ "zug|baarerstrasse|22": {
+  "street": "Baarerstrasse",
+  "hn": "22",
+  "lat": 47.1731419,
+  "lng": 8.5183034,
+  "mieter": [
+   "Migros",
+   "Denner",
+   "Interdiscount",
+   "Migros Daily",
+   "Bachmann",
+   "L'Occitane",
+   "Swarovski",
+   "Migros Florissimo",
+   "Beldona"
+  ]
+ },
+ "zug|alpenstrasse|12": {
+  "street": "Alpenstrasse",
+  "hn": "12",
+  "lat": 47.1724831,
+  "lng": 8.5149005,
+  "mieter": [
+   "Speck",
+   "TopPharm"
+  ]
+ },
+ "zug|alpenstrasse|14": {
+  "street": "Alpenstrasse",
+  "hn": "14",
+  "lat": 47.1726777,
+  "lng": 8.515034,
+  "mieter": [
+   "Mantra",
+   "Globetrotter"
+  ]
+ },
+ "zug|baarerstrasse|6": {
+  "street": "Baarerstrasse",
+  "hn": "6",
+  "lat": 47.1709854,
+  "lng": 8.5164346,
+  "mieter": [
+   "Coop",
+   "Coop Restaurant"
+  ]
+ },
+ "zug|baarerstrasse|14a": {
+  "street": "Baarerstrasse",
+  "hn": "14a",
+  "lat": 47.1719791,
+  "lng": 8.5174673,
+  "mieter": [
+   "UBS"
+  ]
+ },
+ "zug|baarerstrasse|63": {
+  "street": "Baarerstrasse",
+  "hn": "63",
+  "lat": 47.1756915,
+  "lng": 8.5171271,
+  "mieter": [
+   "Han",
+   "Chicago"
+  ]
+ },
+ "zug|baarerstrasse|53": {
+  "street": "Baarerstrasse",
+  "hn": "53",
+  "lat": 47.1748579,
+  "lng": 8.5168962,
+  "mieter": [
+   "Subway"
+  ]
+ },
+ "zug|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 47.1687174,
+  "lng": 8.5159138,
+  "mieter": [
+   "Spar",
+   "Centralis"
+  ]
+ },
+ "zug|baarerstrasse|25": {
+  "street": "Baarerstrasse",
+  "hn": "25",
+  "lat": 47.1729504,
+  "lng": 8.5164115,
+  "mieter": [
+   "Burger King",
+   "Migros Bank",
+   "Swisscom"
+  ]
+ },
+ "zug|baarerstrasse|8": {
+  "street": "Baarerstrasse",
+  "hn": "8",
+  "lat": 47.1712785,
+  "lng": 8.5164592,
+  "mieter": [
+   "Denner",
+   "Bayard Co Ltd"
+  ]
+ },
+ "zug|neugasse|16": {
+  "street": "Neugasse",
+  "hn": "16",
+  "lat": 47.1669901,
+  "lng": 8.5153406,
+  "mieter": [
+   "Olive & Oregano"
+  ]
+ },
+ "zug|baarerstrasse|40": {
+  "street": "Baarerstrasse",
+  "hn": "40",
+  "lat": 47.1745594,
+  "lng": 8.5172703,
+  "mieter": [
+   "Vabi‘s"
+  ]
+ },
+ "zug|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 47.1692031,
+  "lng": 8.5158839,
+  "mieter": [
+   "Walder",
+   "Rhomberg"
+  ]
+ },
+ "zug|baarerstrasse|82": {
+  "street": "Baarerstrasse",
+  "hn": "82",
+  "lat": 47.1772062,
+  "lng": 8.5182138,
+  "mieter": [
+   "eleven Bar",
+   "zCapital AG"
+  ]
+ },
+ "zug|alpenstrasse|9": {
+  "street": "Alpenstrasse",
+  "hn": "9",
+  "lat": 47.1723715,
+  "lng": 8.5142059,
+  "mieter": [
+   "Medical Beauty",
+   "VIVA Wine Bar"
+  ]
+ },
+ "zug|baarerstrasse|87": {
+  "street": "Baarerstrasse",
+  "hn": "87",
+  "lat": 47.1776904,
+  "lng": 8.5179287,
+  "mieter": [
+   "Lieblings Salat"
+  ]
+ },
+ "zug|bundesplatz|16": {
+  "street": "Bundesplatz",
+  "hn": "16",
+  "lat": 47.1721253,
+  "lng": 8.5150161,
+  "mieter": [
+   "Flangans"
+  ]
+ },
+ "zug|baarerstrasse|2": {
+  "street": "Baarerstrasse",
+  "hn": "2",
+  "lat": 47.1707987,
+  "lng": 8.5166033,
+  "mieter": [
+   "Thai",
+   "Amcon Treuhand",
+   "Rockybit"
+  ]
+ },
+ "zug|bahnhofstrasse|32": {
+  "street": "Bahnhofstrasse",
+  "hn": "32",
+  "lat": 47.1704944,
+  "lng": 8.5159964,
+  "mieter": [
+   "Fielmann",
+   "Arkan",
+   "Smilezone Zahnarztpraxis",
+   "Tiberius Group",
+   "Augenärzte Zug",
+   "Sinoswiss",
+   "Scalable Systems AG",
+   "Pearl Management Consulting",
+   "Graziol & Partner AG",
+   "Grundstück AG",
+   "OMVIA",
+   "Praxis für Kinder und Jugendliche speziell auch Hormonkrankheiten",
+   "Hautpraxis Zug AG"
+  ]
+ },
+ "zug|bahnhofstrasse|28": {
+  "street": "Bahnhofstrasse",
+  "hn": "28",
+  "lat": 47.1701316,
+  "lng": 8.515973,
+  "mieter": [
+   "knecht reisen",
+   "Zahnarztpraxis Steinhof"
+  ]
+ },
+ "zug|bahnhofstrasse|30": {
+  "street": "Bahnhofstrasse",
+  "hn": "30",
+  "lat": 47.1703034,
+  "lng": 8.5159825,
+  "mieter": [
+   "The Body Shop",
+   "Hidén Harlekin",
+   "Gerlacher AG",
+   "Strolz Immobilien  AG",
+   "MWP Treuhand",
+   "1.618 Capital AG"
+  ]
+ },
+ "zug|bahnhofstrasse|32a": {
+  "street": "Bahnhofstrasse",
+  "hn": "32a",
+  "lat": 47.1706505,
+  "lng": 8.5160332,
+  "mieter": [
+   "Lush",
+   "TakeSushi"
+  ]
+ },
+ "zug|bundesplatz|3": {
+  "street": "Bundesplatz",
+  "hn": "3",
+  "lat": 47.1707724,
+  "lng": 8.5154976,
+  "mieter": [
+   "Treichler"
+  ]
+ },
+ "zug|neugasse|24": {
+  "street": "Neugasse",
+  "hn": "24",
+  "lat": 47.1666801,
+  "lng": 8.5154814,
+  "mieter": [
+   "Leue Beck"
+  ]
+ },
+ "zug|baarerstrasse|43": {
+  "street": "Baarerstrasse",
+  "hn": "43",
+  "lat": 47.1738755,
+  "lng": 8.5166223,
+  "mieter": [
+   "Day",
+   "Swissworx GmbH"
+  ]
+ },
+ "zug|baarerstrasse|69": {
+  "street": "Baarerstrasse",
+  "hn": "69",
+  "lat": 47.1766852,
+  "lng": 8.5175481,
+  "mieter": [
+   "Gabor Vertriebs GmbH",
+   "Texpress"
+  ]
+ },
+ "zug|neugasse|1": {
+  "street": "Neugasse",
+  "hn": "1",
+  "lat": 47.1676406,
+  "lng": 8.5157866,
+  "mieter": []
+ },
+ "zug|neugasse|11": {
+  "street": "Neugasse",
+  "hn": "11",
+  "lat": 47.1672336,
+  "lng": 8.5157292,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 47.1688604,
+  "lng": 8.5158765,
+  "mieter": [
+   "VZ VermögensZentrum AG",
+   "Benci Brothers - Store Zug"
+  ]
+ },
+ "zug|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 47.1689815,
+  "lng": 8.515657,
+  "mieter": []
+ },
+ "zug|neugasse|13": {
+  "street": "Neugasse",
+  "hn": "13",
+  "lat": 47.1671184,
+  "lng": 8.5157197,
+  "mieter": []
+ },
+ "zug|neugasse|17": {
+  "street": "Neugasse",
+  "hn": "17",
+  "lat": 47.1668454,
+  "lng": 8.5156711,
+  "mieter": []
+ },
+ "zug|neugasse|18": {
+  "street": "Neugasse",
+  "hn": "18",
+  "lat": 47.1668981,
+  "lng": 8.5155084,
+  "mieter": []
+ },
+ "zug|neugasse|19": {
+  "street": "Neugasse",
+  "hn": "19",
+  "lat": 47.1668122,
+  "lng": 8.5156638,
+  "mieter": []
+ },
+ "zug|neugasse|2": {
+  "street": "Neugasse",
+  "hn": "2",
+  "lat": 47.1676049,
+  "lng": 8.5155786,
+  "mieter": []
+ },
+ "zug|neugasse|20": {
+  "street": "Neugasse",
+  "hn": "20",
+  "lat": 47.1668434,
+  "lng": 8.5154992,
+  "mieter": []
+ },
+ "zug|neugasse|22": {
+  "street": "Neugasse",
+  "hn": "22",
+  "lat": 47.1667698,
+  "lng": 8.5154866,
+  "mieter": []
+ },
+ "zug|neugasse|25": {
+  "street": "Neugasse",
+  "hn": "25",
+  "lat": 47.1666594,
+  "lng": 8.515646,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|29": {
+  "street": "Bahnhofstrasse",
+  "hn": "29",
+  "lat": 47.1704614,
+  "lng": 8.5157301,
+  "mieter": [
+   "ONLY"
+  ]
+ },
+ "zug|neugasse|27": {
+  "street": "Neugasse",
+  "hn": "27",
+  "lat": 47.1665408,
+  "lng": 8.5156303,
+  "mieter": [
+   "Lohri Goldschmied"
+  ]
+ },
+ "zug|neugasse|29": {
+  "street": "Neugasse",
+  "hn": "29",
+  "lat": 47.1665211,
+  "lng": 8.5156341,
+  "mieter": []
+ },
+ "zug|neugasse|31": {
+  "street": "Neugasse",
+  "hn": "31",
+  "lat": 47.1663781,
+  "lng": 8.5156118,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 47.1684562,
+  "lng": 8.5158514,
+  "mieter": [
+   "WE",
+   "AT ADHEERA GBMH KIOSK"
+  ]
+ },
+ "zug|neugasse|9": {
+  "street": "Neugasse",
+  "hn": "9",
+  "lat": 47.1673345,
+  "lng": 8.515775,
+  "mieter": [
+   "Lohri Goldschmied"
+  ]
+ },
+ "zug|bahnhofstrasse|23": {
+  "street": "Bahnhofstrasse",
+  "hn": "23",
+  "lat": 47.1699887,
+  "lng": 8.5156593,
+  "mieter": [
+   "BONITA",
+   "vonRoll infratec (services) AG"
+  ]
+ },
+ "zug|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 47.1687951,
+  "lng": 8.515584,
+  "mieter": [
+   "Spillmann",
+   "Tschümperlin"
+  ]
+ },
+ "zug|bahnhofstrasse|19": {
+  "street": "Bahnhofstrasse",
+  "hn": "19",
+  "lat": 47.1696217,
+  "lng": 8.5156882,
+  "mieter": [
+   "Kohinoor"
+  ]
+ },
+ "zug|bahnhofstrasse|22": {
+  "street": "Bahnhofstrasse",
+  "hn": "22",
+  "lat": 47.1696812,
+  "lng": 8.5159426,
+  "mieter": [
+   "Schuhaus Gretener AG"
+  ]
+ },
+ "zug|baarerstrasse|14": {
+  "street": "Baarerstrasse",
+  "hn": "14",
+  "lat": 47.172201,
+  "lng": 8.516775,
+  "mieter": [
+   "Negishi Sushi Bar",
+   "Kinder- und Jugendtheater Zug",
+   "HRM Management GmbH"
+  ]
+ },
+ "zug|baarerstrasse|4": {
+  "street": "Baarerstrasse",
+  "hn": "4",
+  "lat": 47.1707322,
+  "lng": 8.5164269,
+  "mieter": []
+ },
+ "zug|baarerstrasse|88": {
+  "street": "Baarerstrasse",
+  "hn": "88",
+  "lat": 47.1778884,
+  "lng": 8.5183324,
+  "mieter": [
+   "Hotz Rust",
+   "CST Architekten AG"
+  ]
+ },
+ "zug|baarerstrasse|97": {
+  "street": "Baarerstrasse",
+  "hn": "97",
+  "lat": 47.178342,
+  "lng": 8.5180983,
+  "mieter": [
+   "Lokal97"
+  ]
+ },
+ "zug|baarerstrasse|16": {
+  "street": "Baarerstrasse",
+  "hn": "16",
+  "lat": 47.1728315,
+  "lng": 8.5169684,
+  "mieter": [
+   "H&M",
+   "Otto's BeautyShop"
+  ]
+ },
+ "zug|baarerstrasse|19": {
+  "street": "Baarerstrasse",
+  "hn": "19",
+  "lat": 47.1722651,
+  "lng": 8.5161479,
+  "mieter": [
+   "Verkehrsausbildungszentrum Zug"
+  ]
+ },
+ "zug|baarerstrasse|27": {
+  "street": "Baarerstrasse",
+  "hn": "27",
+  "lat": 47.1731428,
+  "lng": 8.5164669,
+  "mieter": [
+   "Globus",
+   "Cachet",
+   "Press & Books"
+  ]
+ },
+ "zug|neugasse|4": {
+  "street": "Neugasse",
+  "hn": "4",
+  "lat": 47.1674483,
+  "lng": 8.5155732,
+  "mieter": [
+   "San Rocco Hats"
+  ]
+ },
+ "zug|baarerstrasse|50": {
+  "street": "Baarerstrasse",
+  "hn": "50",
+  "lat": 47.1752458,
+  "lng": 8.5175441,
+  "mieter": [
+   "Sanft Zahnmedizin & Implantologie"
+  ]
+ },
+ "zug|baarerstrasse|115": {
+  "street": "Baarerstrasse",
+  "hn": "115",
+  "lat": 47.1800328,
+  "lng": 8.5183726,
+  "mieter": []
+ },
+ "zug|baarerstrasse|117": {
+  "street": "Baarerstrasse",
+  "hn": "117",
+  "lat": 47.1801027,
+  "lng": 8.5179399,
+  "mieter": []
+ },
+ "zug|baarerstrasse|117a": {
+  "street": "Baarerstrasse",
+  "hn": "117a",
+  "lat": 47.1801341,
+  "lng": 8.5177455,
+  "mieter": []
+ },
+ "zug|baarerstrasse|23": {
+  "street": "Baarerstrasse",
+  "hn": "23",
+  "lat": 47.1721534,
+  "lng": 8.5161399,
+  "mieter": [
+   "Nespresso",
+   "cut&color"
+  ]
+ },
+ "zug|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 47.1693172,
+  "lng": 8.5155765,
+  "mieter": [
+   "Globus"
+  ]
+ },
+ "zug|alpenstrasse|15": {
+  "street": "Alpenstrasse",
+  "hn": "15",
+  "lat": 47.1730298,
+  "lng": 8.5146925,
+  "mieter": [
+   "Neuroth",
+   "Niione Natur"
+  ]
+ },
+ "zug|bundesplatz|9": {
+  "street": "Bundesplatz",
+  "hn": "9",
+  "lat": 47.1710955,
+  "lng": 8.5140318,
+  "mieter": [
+   "Amplifon"
+  ]
+ },
+ "zug|baarerstrasse|10": {
+  "street": "Baarerstrasse",
+  "hn": "10",
+  "lat": 47.1714587,
+  "lng": 8.516529,
+  "mieter": [
+   "Marionnaud",
+   "Zebra"
+  ]
+ },
+ "zug|baarerstrasse|141": {
+  "street": "Baarerstrasse",
+  "hn": "141",
+  "lat": 47.1817256,
+  "lng": 8.5187126,
+  "mieter": [
+   "Mövenpick Wein"
+  ]
+ },
+ "zug|bahnhofstrasse|27": {
+  "street": "Bahnhofstrasse",
+  "hn": "27",
+  "lat": 47.1702342,
+  "lng": 8.5156993,
+  "mieter": [
+   "Anouk"
+  ]
+ },
+ "zug|baarerstrasse|38": {
+  "street": "Baarerstrasse",
+  "hn": "38",
+  "lat": 47.1743646,
+  "lng": 8.5172031,
+  "mieter": [
+   "PostFinance"
+  ]
+ },
+ "zug|baarerstrasse|145": {
+  "street": "Baarerstrasse",
+  "hn": "145",
+  "lat": 47.1820949,
+  "lng": 8.5192308,
+  "mieter": []
+ },
+ "zug|baarerstrasse|147": {
+  "street": "Baarerstrasse",
+  "hn": "147",
+  "lat": 47.182364,
+  "lng": 8.5193629,
+  "mieter": [
+   "Little Star Day School"
+  ]
+ },
+ "zug|baarerstrasse|149": {
+  "street": "Baarerstrasse",
+  "hn": "149",
+  "lat": 47.1826639,
+  "lng": 8.5194296,
+  "mieter": []
+ },
+ "zug|baarerstrasse|111a": {
+  "street": "Baarerstrasse",
+  "hn": "111a",
+  "lat": 47.1794233,
+  "lng": 8.518159,
+  "mieter": []
+ },
+ "zug|baarerstrasse|111d": {
+  "street": "Baarerstrasse",
+  "hn": "111d",
+  "lat": 47.1795736,
+  "lng": 8.5174256,
+  "mieter": []
+ },
+ "zug|baarerstrasse|111c": {
+  "street": "Baarerstrasse",
+  "hn": "111c",
+  "lat": 47.1795238,
+  "lng": 8.5177317,
+  "mieter": []
+ },
+ "zug|baarerstrasse|113b": {
+  "street": "Baarerstrasse",
+  "hn": "113b",
+  "lat": 47.1796489,
+  "lng": 8.5178361,
+  "mieter": []
+ },
+ "zug|baarerstrasse|111b": {
+  "street": "Baarerstrasse",
+  "hn": "111b",
+  "lat": 47.1794912,
+  "lng": 8.5179725,
+  "mieter": []
+ },
+ "zug|baarerstrasse|113a": {
+  "street": "Baarerstrasse",
+  "hn": "113a",
+  "lat": 47.1795916,
+  "lng": 8.5182287,
+  "mieter": []
+ },
+ "zug|baarerstrasse|52": {
+  "street": "Baarerstrasse",
+  "hn": "52",
+  "lat": 47.1755687,
+  "lng": 8.5176109,
+  "mieter": [
+   "Cé La Vi"
+  ]
+ },
+ "zug|alpenstrasse|13": {
+  "street": "Alpenstrasse",
+  "hn": "13",
+  "lat": 47.1727994,
+  "lng": 8.5147464,
+  "mieter": [
+   "Zündhölzli"
+  ]
+ },
+ "zug|baarerstrasse|78": {
+  "street": "Baarerstrasse",
+  "hn": "78",
+  "lat": 47.1768023,
+  "lng": 8.5180118,
+  "mieter": []
+ },
+ "zug|baarerstrasse|120a": {
+  "street": "Baarerstrasse",
+  "hn": "120a",
+  "lat": 47.1809752,
+  "lng": 8.5194285,
+  "mieter": []
+ },
+ "zug|baarerstrasse|107": {
+  "street": "Baarerstrasse",
+  "hn": "107",
+  "lat": 47.1791042,
+  "lng": 8.5183748,
+  "mieter": []
+ },
+ "zug|baarerstrasse|77": {
+  "street": "Baarerstrasse",
+  "hn": "77",
+  "lat": 47.1773388,
+  "lng": 8.5177403,
+  "mieter": []
+ },
+ "zug|baarerstrasse|110c": {
+  "street": "Baarerstrasse",
+  "hn": "110c",
+  "lat": 47.1800499,
+  "lng": 8.5193683,
+  "mieter": []
+ },
+ "zug|baarerstrasse|110a": {
+  "street": "Baarerstrasse",
+  "hn": "110a",
+  "lat": 47.1797931,
+  "lng": 8.5192754,
+  "mieter": []
+ },
+ "zug|baarerstrasse|98": {
+  "street": "Baarerstrasse",
+  "hn": "98",
+  "lat": 47.1786646,
+  "lng": 8.5186212,
+  "mieter": []
+ },
+ "zug|baarerstrasse|96": {
+  "street": "Baarerstrasse",
+  "hn": "96",
+  "lat": 47.178483,
+  "lng": 8.518613,
+  "mieter": []
+ },
+ "zug|baarerstrasse|94": {
+  "street": "Baarerstrasse",
+  "hn": "94",
+  "lat": 47.1783187,
+  "lng": 8.5185085,
+  "mieter": []
+ },
+ "zug|baarerstrasse|135": {
+  "street": "Baarerstrasse",
+  "hn": "135",
+  "lat": 47.1814033,
+  "lng": 8.5189409,
+  "mieter": []
+ },
+ "zug|baarerstrasse|131": {
+  "street": "Baarerstrasse",
+  "hn": "131",
+  "lat": 47.1810426,
+  "lng": 8.5188196,
+  "mieter": []
+ },
+ "zug|baarerstrasse|103": {
+  "street": "Baarerstrasse",
+  "hn": "103",
+  "lat": 47.1789264,
+  "lng": 8.5183183,
+  "mieter": []
+ },
+ "zug|baarerstrasse|99": {
+  "street": "Baarerstrasse",
+  "hn": "99",
+  "lat": 47.1785988,
+  "lng": 8.5180999,
+  "mieter": []
+ },
+ "zug|baarerstrasse|79": {
+  "street": "Baarerstrasse",
+  "hn": "79",
+  "lat": 47.1774816,
+  "lng": 8.517783,
+  "mieter": []
+ },
+ "zug|baarerstrasse|133": {
+  "street": "Baarerstrasse",
+  "hn": "133",
+  "lat": 47.1810043,
+  "lng": 8.5184792,
+  "mieter": []
+ },
+ "zug|baarerstrasse|108a": {
+  "street": "Baarerstrasse",
+  "hn": "108a",
+  "lat": 47.179536,
+  "lng": 8.518884,
+  "mieter": []
+ },
+ "zug|baarerstrasse|125": {
+  "street": "Baarerstrasse",
+  "hn": "125",
+  "lat": 47.180355,
+  "lng": 8.5186036,
+  "mieter": []
+ },
+ "zug|baarerstrasse|122": {
+  "street": "Baarerstrasse",
+  "hn": "122",
+  "lat": 47.1812077,
+  "lng": 8.5194517,
+  "mieter": []
+ },
+ "zug|baarerstrasse|91": {
+  "street": "Baarerstrasse",
+  "hn": "91",
+  "lat": 47.1779775,
+  "lng": 8.5180086,
+  "mieter": []
+ },
+ "zug|baarerstrasse|134": {
+  "street": "Baarerstrasse",
+  "hn": "134",
+  "lat": 47.1824825,
+  "lng": 8.5200397,
+  "mieter": []
+ },
+ "zug|baarerstrasse|136": {
+  "street": "Baarerstrasse",
+  "hn": "136",
+  "lat": 47.1823446,
+  "lng": 8.5199958,
+  "mieter": []
+ },
+ "zug|baarerstrasse|130": {
+  "street": "Baarerstrasse",
+  "hn": "130",
+  "lat": 47.1822055,
+  "lng": 8.5199507,
+  "mieter": []
+ },
+ "zug|baarerstrasse|140": {
+  "street": "Baarerstrasse",
+  "hn": "140",
+  "lat": 47.1825098,
+  "lng": 8.5204872,
+  "mieter": []
+ },
+ "zug|baarerstrasse|18": {
+  "street": "Baarerstrasse",
+  "hn": "18",
+  "lat": 47.1729195,
+  "lng": 8.5174527,
+  "mieter": []
+ },
+ "zug|alpenstrasse|1": {
+  "street": "Alpenstrasse",
+  "hn": "1",
+  "lat": 47.1711521,
+  "lng": 8.5136024,
+  "mieter": []
+ },
+ "zug|baarerstrasse|20": {
+  "street": "Baarerstrasse",
+  "hn": "20",
+  "lat": 47.1729722,
+  "lng": 8.5170158,
+  "mieter": []
+ },
+ "zug|baarerstrasse|21": {
+  "street": "Baarerstrasse",
+  "hn": "21",
+  "lat": 47.1724833,
+  "lng": 8.5160694,
+  "mieter": []
+ },
+ "zug|baarerstrasse|11": {
+  "street": "Baarerstrasse",
+  "hn": "11",
+  "lat": 47.1718304,
+  "lng": 8.5159249,
+  "mieter": []
+ },
+ "zug|baarerstrasse|124": {
+  "street": "Baarerstrasse",
+  "hn": "124",
+  "lat": 47.1815203,
+  "lng": 8.519847,
+  "mieter": []
+ },
+ "zug|baarerstrasse|120b": {
+  "street": "Baarerstrasse",
+  "hn": "120b",
+  "lat": 47.1808623,
+  "lng": 8.5192933,
+  "mieter": []
+ },
+ "zug|baarerstrasse|139": {
+  "street": "Baarerstrasse",
+  "hn": "139",
+  "lat": 47.1817651,
+  "lng": 8.519058,
+  "mieter": []
+ },
+ "zug|alpenstrasse|7": {
+  "street": "Alpenstrasse",
+  "hn": "7",
+  "lat": 47.1721133,
+  "lng": 8.5143341,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|25": {
+  "street": "Bahnhofstrasse",
+  "hn": "25",
+  "lat": 47.1701323,
+  "lng": 8.5156976,
+  "mieter": [
+   "Sträuli Brillen"
+  ]
+ },
+ "zug|bahnhofstrasse|26": {
+  "street": "Bahnhofstrasse",
+  "hn": "26",
+  "lat": 47.1699119,
+  "lng": 8.5159539,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 47.1697455,
+  "lng": 8.5156924,
+  "mieter": []
+ },
+ "zug|alpenstrasse|4": {
+  "street": "Alpenstrasse",
+  "hn": "4",
+  "lat": 47.1709033,
+  "lng": 8.513858,
+  "mieter": []
+ },
+ "zug|alpenstrasse|2": {
+  "street": "Alpenstrasse",
+  "hn": "2",
+  "lat": 47.1707561,
+  "lng": 8.5137622,
+  "mieter": []
+ },
+ "zug|alpenstrasse|5": {
+  "street": "Alpenstrasse",
+  "hn": "5",
+  "lat": 47.1720061,
+  "lng": 8.5142701,
+  "mieter": []
+ },
+ "zug|neugasse|3": {
+  "street": "Neugasse",
+  "hn": "3",
+  "lat": 47.1675794,
+  "lng": 8.5157877,
+  "mieter": []
+ },
+ "zug|neugasse|12": {
+  "street": "Neugasse",
+  "hn": "12",
+  "lat": 47.1672053,
+  "lng": 8.5155427,
+  "mieter": []
+ },
+ "zug|neugasse|10": {
+  "street": "Neugasse",
+  "hn": "10",
+  "lat": 47.1672763,
+  "lng": 8.5155548,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 47.1684717,
+  "lng": 8.5154389,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 47.1682502,
+  "lng": 8.5158233,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 47.1685919,
+  "lng": 8.5156292,
+  "mieter": []
+ },
+ "zug|baarerstrasse|137": {
+  "street": "Baarerstrasse",
+  "hn": "137",
+  "lat": 47.1813591,
+  "lng": 8.5185968,
+  "mieter": []
+ },
+ "zug|baarerstrasse|132": {
+  "street": "Baarerstrasse",
+  "hn": "132",
+  "lat": 47.182622,
+  "lng": 8.5200851,
+  "mieter": []
+ },
+ "zug|baarerstrasse|142": {
+  "street": "Baarerstrasse",
+  "hn": "142",
+  "lat": 47.1823591,
+  "lng": 8.5204396,
+  "mieter": []
+ },
+ "zug|baarerstrasse|138": {
+  "street": "Baarerstrasse",
+  "hn": "138",
+  "lat": 47.1821943,
+  "lng": 8.5203844,
+  "mieter": []
+ },
+ "zug|neugasse|23": {
+  "street": "Neugasse",
+  "hn": "23",
+  "lat": 47.1667112,
+  "lng": 8.5156518,
+  "mieter": []
+ },
+ "zug|neugasse|21": {
+  "street": "Neugasse",
+  "hn": "21",
+  "lat": 47.1667592,
+  "lng": 8.5156599,
+  "mieter": []
+ },
+ "zug|neugasse|14": {
+  "street": "Neugasse",
+  "hn": "14",
+  "lat": 47.1671264,
+  "lng": 8.5155342,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 47.1692903,
+  "lng": 8.515877,
+  "mieter": []
+ },
+ "zug|neugasse|8": {
+  "street": "Neugasse",
+  "hn": "8",
+  "lat": 47.167317,
+  "lng": 8.5155603,
+  "mieter": []
+ },
+ "zug|neugasse|7": {
+  "street": "Neugasse",
+  "hn": "7",
+  "lat": 47.1674601,
+  "lng": 8.5158354,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 47.1683124,
+  "lng": 8.5155561,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|20": {
+  "street": "Bahnhofstrasse",
+  "hn": "20",
+  "lat": 47.169413,
+  "lng": 8.515881,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.1689989,
+  "lng": 8.515879,
+  "mieter": []
+ },
+ "zug|neugasse|15": {
+  "street": "Neugasse",
+  "hn": "15",
+  "lat": 47.1669327,
+  "lng": 8.5156778,
+  "mieter": []
+ },
+ "zug|neugasse|26": {
+  "street": "Neugasse",
+  "hn": "26",
+  "lat": 47.1666253,
+  "lng": 8.5154739,
+  "mieter": []
+ },
+ "zug|alpenstrasse|3": {
+  "street": "Alpenstrasse",
+  "hn": "3",
+  "lat": 47.1717877,
+  "lng": 8.5139252,
+  "mieter": []
+ },
+ "zug|baarerstrasse|110b": {
+  "street": "Baarerstrasse",
+  "hn": "110b",
+  "lat": 47.1799175,
+  "lng": 8.5193133,
+  "mieter": []
+ },
+ "zug|baarerstrasse|100": {
+  "street": "Baarerstrasse",
+  "hn": "100",
+  "lat": 47.178979,
+  "lng": 8.5188068,
+  "mieter": []
+ },
+ "zug|baarerstrasse|112": {
+  "street": "Baarerstrasse",
+  "hn": "112",
+  "lat": 47.1802018,
+  "lng": 8.5194151,
+  "mieter": []
+ },
+ "zug|baarerstrasse|108": {
+  "street": "Baarerstrasse",
+  "hn": "108",
+  "lat": 47.179417,
+  "lng": 8.5193263,
+  "mieter": []
+ },
+ "zug|baarerstrasse|106": {
+  "street": "Baarerstrasse",
+  "hn": "106",
+  "lat": 47.1793102,
+  "lng": 8.5192959,
+  "mieter": []
+ },
+ "zug|baarerstrasse|104": {
+  "street": "Baarerstrasse",
+  "hn": "104",
+  "lat": 47.1792051,
+  "lng": 8.51926,
+  "mieter": []
+ },
+ "zug|baarerstrasse|46": {
+  "street": "Baarerstrasse",
+  "hn": "46",
+  "lat": 47.1748509,
+  "lng": 8.5173608,
+  "mieter": []
+ },
+ "zug|baarerstrasse|86": {
+  "street": "Baarerstrasse",
+  "hn": "86",
+  "lat": 47.1776089,
+  "lng": 8.5182226,
+  "mieter": []
+ },
+ "zug|baarerstrasse|48": {
+  "street": "Baarerstrasse",
+  "hn": "48",
+  "lat": 47.174956,
+  "lng": 8.5174121,
+  "mieter": []
+ },
+ "zug|baarerstrasse|95": {
+  "street": "Baarerstrasse",
+  "hn": "95",
+  "lat": 47.1784016,
+  "lng": 8.5176065,
+  "mieter": []
+ },
+ "zug|baarerstrasse|105": {
+  "street": "Baarerstrasse",
+  "hn": "105",
+  "lat": 47.1790149,
+  "lng": 8.5183427,
+  "mieter": []
+ },
+ "zug|baarerstrasse|89": {
+  "street": "Baarerstrasse",
+  "hn": "89",
+  "lat": 47.1778354,
+  "lng": 8.5179679,
+  "mieter": []
+ },
+ "zug|baarerstrasse|65": {
+  "street": "Baarerstrasse",
+  "hn": "65",
+  "lat": 47.1762263,
+  "lng": 8.5174689,
+  "mieter": []
+ },
+ "zug|baarerstrasse|49": {
+  "street": "Baarerstrasse",
+  "hn": "49",
+  "lat": 47.1742825,
+  "lng": 8.5168718,
+  "mieter": []
+ },
+ "zug|baarerstrasse|42": {
+  "street": "Baarerstrasse",
+  "hn": "42",
+  "lat": 47.1746717,
+  "lng": 8.5173104,
+  "mieter": []
+ },
+ "zug|baarerstrasse|36": {
+  "street": "Baarerstrasse",
+  "hn": "36",
+  "lat": 47.1741788,
+  "lng": 8.5171642,
+  "mieter": []
+ },
+ "zug|baarerstrasse|34": {
+  "street": "Baarerstrasse",
+  "hn": "34",
+  "lat": 47.1739985,
+  "lng": 8.5171067,
+  "mieter": []
+ },
+ "zug|baarerstrasse|54": {
+  "street": "Baarerstrasse",
+  "hn": "54",
+  "lat": 47.1757674,
+  "lng": 8.5178334,
+  "mieter": []
+ },
+ "zug|baarerstrasse|75": {
+  "street": "Baarerstrasse",
+  "hn": "75",
+  "lat": 47.1771935,
+  "lng": 8.5176978,
+  "mieter": []
+ },
+ "zug|baarerstrasse|109": {
+  "street": "Baarerstrasse",
+  "hn": "109",
+  "lat": 47.1791935,
+  "lng": 8.5184049,
+  "mieter": []
+ },
+ "zug|baarerstrasse|101": {
+  "street": "Baarerstrasse",
+  "hn": "101",
+  "lat": 47.1787579,
+  "lng": 8.518191,
+  "mieter": []
+ },
+ "zug|baarerstrasse|45": {
+  "street": "Baarerstrasse",
+  "hn": "45",
+  "lat": 47.1739573,
+  "lng": 8.5167706,
+  "mieter": []
+ },
+ "zug|baarerstrasse|71": {
+  "street": "Baarerstrasse",
+  "hn": "71",
+  "lat": 47.1768543,
+  "lng": 8.5176621,
+  "mieter": []
+ },
+ "zug|baarerstrasse|57": {
+  "street": "Baarerstrasse",
+  "hn": "57",
+  "lat": 47.1753369,
+  "lng": 8.5168951,
+  "mieter": []
+ },
+ "zug|baarerstrasse|80": {
+  "street": "Baarerstrasse",
+  "hn": "80",
+  "lat": 47.1770145,
+  "lng": 8.5180781,
+  "mieter": []
+ },
+ "zug|baarerstrasse|55": {
+  "street": "Baarerstrasse",
+  "hn": "55",
+  "lat": 47.1749526,
+  "lng": 8.5168415,
+  "mieter": []
+ },
+ "zug|baarerstrasse|73": {
+  "street": "Baarerstrasse",
+  "hn": "73",
+  "lat": 47.177017,
+  "lng": 8.5176491,
+  "mieter": []
+ },
+ "zug|baarerstrasse|59": {
+  "street": "Baarerstrasse",
+  "hn": "59",
+  "lat": 47.1754426,
+  "lng": 8.5171445,
+  "mieter": []
+ },
+ "zug|baarerstrasse|62": {
+  "street": "Baarerstrasse",
+  "hn": "62",
+  "lat": 47.1760991,
+  "lng": 8.5180735,
+  "mieter": []
+ },
+ "zug|baarerstrasse|37": {
+  "street": "Baarerstrasse",
+  "hn": "37",
+  "lat": 47.1734469,
+  "lng": 8.5165397,
+  "mieter": []
+ },
+ "zug|baarerstrasse|44": {
+  "street": "Baarerstrasse",
+  "hn": "44",
+  "lat": 47.1747588,
+  "lng": 8.517337,
+  "mieter": []
+ },
+ "zug|baarerstrasse|47": {
+  "street": "Baarerstrasse",
+  "hn": "47",
+  "lat": 47.1741013,
+  "lng": 8.5168366,
+  "mieter": []
+ },
+ "zug|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 47.169437,
+  "lng": 8.515679,
+  "mieter": []
+ }
+}

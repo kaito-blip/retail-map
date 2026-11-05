@@ -1,0 +1,908 @@
+{
+ "mendrisio|via industria|16 b": {
+  "street": "Via Industria",
+  "hn": "16 b",
+  "lat": 45.8896904,
+  "lng": 8.9723883,
+  "mieter": [
+   "Fiorenzo Tommasi Moto (Honda)"
+  ]
+ },
+ "mendrisio|via luigi lavizzari|15": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "15",
+  "lat": 45.8705889,
+  "lng": 8.9859778,
+  "mieter": [
+   "UBS"
+  ]
+ },
+ "mendrisio|via luigi lavizzari|19": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "19",
+  "lat": 45.8704729,
+  "lng": 8.9863709,
+  "mieter": [
+   "Farmacia Amavita Lurà"
+  ]
+ },
+ "mendrisio|via industria|6": {
+  "street": "Via Industria",
+  "hn": "6",
+  "lat": 45.8693961,
+  "lng": 8.989525,
+  "mieter": [
+   "Bar Elvezia"
+  ]
+ },
+ "mendrisio|via stefano franscini|16": {
+  "street": "Via Stefano Franscini",
+  "hn": "16",
+  "lat": 45.8697811,
+  "lng": 8.9800689,
+  "mieter": [
+   "Bar Varese",
+   "Basilese"
+  ]
+ },
+ "mendrisio|via luigi lavizzari|19a": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "19a",
+  "lat": 45.8704122,
+  "lng": 8.9866619,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "mendrisio|via luigi lavizzari|20": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "20",
+  "lat": 45.8700504,
+  "lng": 8.9880195,
+  "mieter": [
+   "Libreria Al Ponte"
+  ]
+ },
+ "mendrisio|via industria|3": {
+  "street": "Via Industria",
+  "hn": "3",
+  "lat": 45.8696315,
+  "lng": 8.9894109,
+  "mieter": [
+   "Angolocasa",
+   "Eventinfiore"
+  ]
+ },
+ "mendrisio|via stefano franscini|2": {
+  "street": "Via Stefano Franscini",
+  "hn": "2",
+  "lat": 45.8679052,
+  "lng": 8.9777729,
+  "mieter": [
+   "Piccadilly",
+   "Migrolino"
+  ]
+ },
+ "mendrisio|via luigi lavizzari|25": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "25",
+  "lat": 45.870169,
+  "lng": 8.9879357,
+  "mieter": [
+   "Belotti",
+   "Farmacia Ferregutti"
+  ]
+ },
+ "mendrisio|corso bello|8": {
+  "street": "Corso Bello",
+  "hn": "8",
+  "lat": 45.8697884,
+  "lng": 8.9880498,
+  "mieter": [
+   "VAV immobiliare"
+  ]
+ },
+ "mendrisio|corso bello|11": {
+  "street": "Corso Bello",
+  "hn": "11",
+  "lat": 45.8698694,
+  "lng": 8.988075,
+  "mieter": [
+   "Idea Viaggi"
+  ]
+ },
+ "mendrisio|corso bello|10": {
+  "street": "Corso Bello",
+  "hn": "10",
+  "lat": 45.8698076,
+  "lng": 8.9881375,
+  "mieter": [
+   "Bar Vittoria"
+  ]
+ },
+ "mendrisio|corso bello|13": {
+  "street": "Corso Bello",
+  "hn": "13",
+  "lat": 45.8698975,
+  "lng": 8.9882183,
+  "mieter": [
+   "Amplifon"
+  ]
+ },
+ "mendrisio|via stefano franscini|12": {
+  "street": "Via Stefano Franscini",
+  "hn": "12",
+  "lat": 45.8694521,
+  "lng": 8.9796417,
+  "mieter": [
+   "Pizza Im",
+   "Portofino's"
+  ]
+ },
+ "mendrisio|via stefano franscini|29b": {
+  "street": "Via Stefano Franscini",
+  "hn": "29b",
+  "lat": 45.8685255,
+  "lng": 8.9785131,
+  "mieter": [
+   "Farmacia Stazione"
+  ]
+ },
+ "mendrisio|via industria|5": {
+  "street": "Via Industria",
+  "hn": "5",
+  "lat": 45.8695316,
+  "lng": 8.9900629,
+  "mieter": [
+   "Il Magnifico Borgo",
+   "Biblioteca cantonale di Mendrisio",
+   "MoMoLudica",
+   "Boutique Hair"
+  ]
+ },
+ "mendrisio|corso bello|9": {
+  "street": "Corso Bello",
+  "hn": "9",
+  "lat": 45.8699732,
+  "lng": 8.9878668,
+  "mieter": [
+   "Essenziale Lounge"
+  ]
+ },
+ "mendrisio|via stefano franscini|11": {
+  "street": "Via Stefano Franscini",
+  "hn": "11",
+  "lat": 45.8691216,
+  "lng": 8.9787803,
+  "mieter": [
+   "avec"
+  ]
+ },
+ "mendrisio|via industria|8": {
+  "street": "Via Industria",
+  "hn": "8",
+  "lat": 45.8693158,
+  "lng": 8.9897279,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|9": {
+  "street": "Via Vincenzo Vela",
+  "hn": "9",
+  "lat": 45.871867,
+  "lng": 8.9839219,
+  "mieter": [
+   "Hub Bistrot"
+  ]
+ },
+ "mendrisio|via vincenzo vela|26": {
+  "street": "Via Vincenzo Vela",
+  "hn": "26",
+  "lat": 45.8724351,
+  "lng": 8.9876291,
+  "mieter": [
+   "aTavola"
+  ]
+ },
+ "mendrisio|via luigi lavizzari|26": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "26",
+  "lat": 45.8700464,
+  "lng": 8.9883897,
+  "mieter": [
+   "Sir Marcus Suite Barbershop - Mendrisio"
+  ]
+ },
+ "mendrisio|corso bello|4": {
+  "street": "Corso Bello",
+  "hn": "4",
+  "lat": 45.8697559,
+  "lng": 8.9877268,
+  "mieter": [
+   "Nico Gruyere a casa"
+  ]
+ },
+ "mendrisio|via luigi lavizzari|28": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "28",
+  "lat": 45.8700691,
+  "lng": 8.9884427,
+  "mieter": [
+   "Bottega del Mondo"
+  ]
+ },
+ "mendrisio|via stefano franscini|20": {
+  "street": "Via Stefano Franscini",
+  "hn": "20",
+  "lat": 45.8700984,
+  "lng": 8.9804263,
+  "mieter": [
+   "Tecnofrank",
+   "Il Cambissimo",
+   "LDA costruzioni"
+  ]
+ },
+ "mendrisio|via stefano franscini|10": {
+  "street": "Via Stefano Franscini",
+  "hn": "10",
+  "lat": 45.8693148,
+  "lng": 8.9795044,
+  "mieter": [
+   "Gibo snack bar"
+  ]
+ },
+ "mendrisio|via luigi lavizzari|21": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "21",
+  "lat": 45.8703392,
+  "lng": 8.9869194,
+  "mieter": [
+   "Salone Borgo d'Oro"
+  ]
+ },
+ "mendrisio|via vincenzo vela|1": {
+  "street": "Via Vincenzo Vela",
+  "hn": "1",
+  "lat": 45.8711464,
+  "lng": 8.9828723,
+  "mieter": [
+   "Salone New Liberty"
+  ]
+ },
+ "mendrisio|via luigi lavizzari|17": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "17",
+  "lat": 45.870502,
+  "lng": 8.986239,
+  "mieter": []
+ },
+ "mendrisio|via luigi lavizzari|6": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "6",
+  "lat": 45.8699047,
+  "lng": 8.9860954,
+  "mieter": []
+ },
+ "mendrisio|via luigi lavizzari|4": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "4",
+  "lat": 45.8699998,
+  "lng": 8.9857245,
+  "mieter": []
+ },
+ "mendrisio|via luigi lavizzari|10": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "10",
+  "lat": 45.8698154,
+  "lng": 8.9866982,
+  "mieter": []
+ },
+ "mendrisio|via luigi lavizzari|8": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "8",
+  "lat": 45.86981,
+  "lng": 8.986466,
+  "mieter": []
+ },
+ "mendrisio|via luigi lavizzari|18": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "18",
+  "lat": 45.869858,
+  "lng": 8.9875832,
+  "mieter": [
+   "Cross Research Sa"
+  ]
+ },
+ "mendrisio|corso bello|7": {
+  "street": "Corso Bello",
+  "hn": "7",
+  "lat": 45.8698301,
+  "lng": 8.9874955,
+  "mieter": []
+ },
+ "mendrisio|via stefano franscini|9": {
+  "street": "Via Stefano Franscini",
+  "hn": "9",
+  "lat": 45.868946,
+  "lng": 8.978618,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|7": {
+  "street": "Via Vincenzo Vela",
+  "hn": "7",
+  "lat": 45.870018,
+  "lng": 8.966087,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|5": {
+  "street": "Via Vincenzo Vela",
+  "hn": "5",
+  "lat": 45.870045,
+  "lng": 8.966172,
+  "mieter": []
+ },
+ "mendrisio|via industria|18": {
+  "street": "Via Industria",
+  "hn": "18",
+  "lat": 45.889202,
+  "lng": 8.972392,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|3": {
+  "street": "Via Vincenzo Vela",
+  "hn": "3",
+  "lat": 45.870167,
+  "lng": 8.966362,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|1a": {
+  "street": "Via Vincenzo Vela",
+  "hn": "1a",
+  "lat": 45.87018,
+  "lng": 8.966473,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|3b": {
+  "street": "Via Vincenzo Vela",
+  "hn": "3b",
+  "lat": 45.86999,
+  "lng": 8.96658,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|3a": {
+  "street": "Via Vincenzo Vela",
+  "hn": "3a",
+  "lat": 45.870083,
+  "lng": 8.966523,
+  "mieter": []
+ },
+ "mendrisio|corso bello|14": {
+  "street": "Corso Bello",
+  "hn": "14",
+  "lat": 45.8699496,
+  "lng": 8.9885429,
+  "mieter": [
+   "TiCOLORs"
+  ]
+ },
+ "mendrisio|via stefano franscini|24": {
+  "street": "Via Stefano Franscini",
+  "hn": "24",
+  "lat": 45.8707454,
+  "lng": 8.9812842,
+  "mieter": [
+   "Società studio v. Comal sangiorgio architettura"
+  ]
+ },
+ "mendrisio|via stefano franscini|22": {
+  "street": "Via Stefano Franscini",
+  "hn": "22",
+  "lat": 45.8703983,
+  "lng": 8.9809125,
+  "mieter": [
+   "Live Painting"
+  ]
+ },
+ "mendrisio|via stefano franscini|26": {
+  "street": "Via Stefano Franscini",
+  "hn": "26",
+  "lat": 45.8711322,
+  "lng": 8.9816662,
+  "mieter": [
+   "Elettrostar Fontana"
+  ]
+ },
+ "mendrisio|via industria|10": {
+  "street": "Via Industria",
+  "hn": "10",
+  "lat": 45.8692705,
+  "lng": 8.9900642,
+  "mieter": [
+   "Centro Estetico Energia Vitale"
+  ]
+ },
+ "mendrisio|via luigi lavizzari|16": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "16",
+  "lat": 45.869827,
+  "lng": 8.987314,
+  "mieter": []
+ },
+ "mendrisio|via luigi lavizzari|14": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "14",
+  "lat": 45.869766,
+  "lng": 8.986981,
+  "mieter": []
+ },
+ "mendrisio|corso bello|3": {
+  "street": "Corso Bello",
+  "hn": "3",
+  "lat": 45.869633,
+  "lng": 8.987074,
+  "mieter": []
+ },
+ "mendrisio|corso bello|5": {
+  "street": "Corso Bello",
+  "hn": "5",
+  "lat": 45.869743,
+  "lng": 8.987314,
+  "mieter": []
+ },
+ "mendrisio|via industria|16": {
+  "street": "Via Industria",
+  "hn": "16",
+  "lat": 45.8899654,
+  "lng": 8.9722459,
+  "mieter": []
+ },
+ "mendrisio|via industria|11": {
+  "street": "Via Industria",
+  "hn": "11",
+  "lat": 45.8899509,
+  "lng": 8.9733829,
+  "mieter": []
+ },
+ "mendrisio|via industria|14": {
+  "street": "Via Industria",
+  "hn": "14",
+  "lat": 45.8905654,
+  "lng": 8.9717487,
+  "mieter": []
+ },
+ "mendrisio|via industria|16c": {
+  "street": "Via Industria",
+  "hn": "16c",
+  "lat": 45.8895189,
+  "lng": 8.9717879,
+  "mieter": []
+ },
+ "mendrisio|via stefano franscini|1": {
+  "street": "Via Stefano Franscini",
+  "hn": "1",
+  "lat": 45.8674285,
+  "lng": 8.9767202,
+  "mieter": []
+ },
+ "mendrisio|via stefano franscini|7": {
+  "street": "Via Stefano Franscini",
+  "hn": "7",
+  "lat": 45.8686713,
+  "lng": 8.9782336,
+  "mieter": [
+   "Ufficio Postale Mendrisio Stazione"
+  ]
+ },
+ "mendrisio|via stefano franscini|3": {
+  "street": "Via Stefano Franscini",
+  "hn": "3",
+  "lat": 45.8679121,
+  "lng": 8.9773504,
+  "mieter": []
+ },
+ "mendrisio|via stefano franscini|8": {
+  "street": "Via Stefano Franscini",
+  "hn": "8",
+  "lat": 45.8689588,
+  "lng": 8.9792887,
+  "mieter": []
+ },
+ "mendrisio|via industria|13a": {
+  "street": "Via Industria",
+  "hn": "13a",
+  "lat": 45.8893402,
+  "lng": 8.9738566,
+  "mieter": []
+ },
+ "mendrisio|via industria|13g": {
+  "street": "Via Industria",
+  "hn": "13g",
+  "lat": 45.889665,
+  "lng": 8.9748103,
+  "mieter": []
+ },
+ "mendrisio|via stefano franscini|6": {
+  "street": "Via Stefano Franscini",
+  "hn": "6",
+  "lat": 45.8684678,
+  "lng": 8.9787367,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|4": {
+  "street": "Via Vincenzo Vela",
+  "hn": "4",
+  "lat": 45.8710954,
+  "lng": 8.9832651,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|6": {
+  "street": "Via Vincenzo Vela",
+  "hn": "6",
+  "lat": 45.8711089,
+  "lng": 8.9836223,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|8": {
+  "street": "Via Vincenzo Vela",
+  "hn": "8",
+  "lat": 45.8712294,
+  "lng": 8.9839798,
+  "mieter": []
+ },
+ "mendrisio|corso bello|16": {
+  "street": "Corso Bello",
+  "hn": "16",
+  "lat": 45.8698902,
+  "lng": 8.9886202,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|10": {
+  "street": "Via Vincenzo Vela",
+  "hn": "10",
+  "lat": 45.8716297,
+  "lng": 8.9852586,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|12": {
+  "street": "Via Vincenzo Vela",
+  "hn": "12",
+  "lat": 45.8718131,
+  "lng": 8.9855562,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|14": {
+  "street": "Via Vincenzo Vela",
+  "hn": "14",
+  "lat": 45.8717621,
+  "lng": 8.9858441,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|20": {
+  "street": "Via Vincenzo Vela",
+  "hn": "20",
+  "lat": 45.8718917,
+  "lng": 8.9871058,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|24": {
+  "street": "Via Vincenzo Vela",
+  "hn": "24",
+  "lat": 45.8723255,
+  "lng": 8.9872357,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|22": {
+  "street": "Via Vincenzo Vela",
+  "hn": "22",
+  "lat": 45.8721427,
+  "lng": 8.9869668,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|18": {
+  "street": "Via Vincenzo Vela",
+  "hn": "18",
+  "lat": 45.8719195,
+  "lng": 8.9866629,
+  "mieter": []
+ },
+ "mendrisio|via industria|4": {
+  "street": "Via Industria",
+  "hn": "4",
+  "lat": 45.8696016,
+  "lng": 8.9892124,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|11": {
+  "street": "Via Vincenzo Vela",
+  "hn": "11",
+  "lat": 45.8718879,
+  "lng": 8.9848294,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|15": {
+  "street": "Via Vincenzo Vela",
+  "hn": "15",
+  "lat": 45.8719864,
+  "lng": 8.9853331,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|17": {
+  "street": "Via Vincenzo Vela",
+  "hn": "17",
+  "lat": 45.8720931,
+  "lng": 8.985737,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|19": {
+  "street": "Via Vincenzo Vela",
+  "hn": "19",
+  "lat": 45.8721419,
+  "lng": 8.9859953,
+  "mieter": []
+ },
+ "mendrisio|via industria|9": {
+  "street": "Via Industria",
+  "hn": "9",
+  "lat": 45.8699421,
+  "lng": 8.9913965,
+  "mieter": []
+ },
+ "mendrisio|via industria|13": {
+  "street": "Via Industria",
+  "hn": "13",
+  "lat": 45.8703962,
+  "lng": 8.9933537,
+  "mieter": []
+ },
+ "mendrisio|via industria|15": {
+  "street": "Via Industria",
+  "hn": "15",
+  "lat": 45.870685,
+  "lng": 8.9930325,
+  "mieter": []
+ },
+ "mendrisio|via industria|25": {
+  "street": "Via Industria",
+  "hn": "25",
+  "lat": 45.8707306,
+  "lng": 8.9934256,
+  "mieter": []
+ },
+ "mendrisio|via industria|27": {
+  "street": "Via Industria",
+  "hn": "27",
+  "lat": 45.8706502,
+  "lng": 8.9937196,
+  "mieter": []
+ },
+ "mendrisio|via industria|19": {
+  "street": "Via Industria",
+  "hn": "19",
+  "lat": 45.8708865,
+  "lng": 8.9927369,
+  "mieter": []
+ },
+ "mendrisio|via industria|21": {
+  "street": "Via Industria",
+  "hn": "21",
+  "lat": 45.8710557,
+  "lng": 8.9929629,
+  "mieter": []
+ },
+ "mendrisio|via industria|23": {
+  "street": "Via Industria",
+  "hn": "23",
+  "lat": 45.870885,
+  "lng": 8.9931741,
+  "mieter": []
+ },
+ "mendrisio|via stefano franscini|17": {
+  "street": "Via Stefano Franscini",
+  "hn": "17",
+  "lat": 45.8717953,
+  "lng": 8.9820792,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|16": {
+  "street": "Via Vincenzo Vela",
+  "hn": "16",
+  "lat": 45.8716564,
+  "lng": 8.9859061,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|5a": {
+  "street": "Via Vincenzo Vela",
+  "hn": "5a",
+  "lat": 45.8699635,
+  "lng": 8.9664288,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|21": {
+  "street": "Via Vincenzo Vela",
+  "hn": "21",
+  "lat": 45.8693106,
+  "lng": 8.9651567,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|23": {
+  "street": "Via Vincenzo Vela",
+  "hn": "23",
+  "lat": 45.8692291,
+  "lng": 8.9649545,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|2": {
+  "street": "Via Vincenzo Vela",
+  "hn": "2",
+  "lat": 45.8704202,
+  "lng": 8.9662461,
+  "mieter": []
+ },
+ "mendrisio|via industria|18a": {
+  "street": "Via Industria",
+  "hn": "18a",
+  "lat": 45.8891407,
+  "lng": 8.9719777,
+  "mieter": []
+ },
+ "mendrisio|via industria|13h": {
+  "street": "Via Industria",
+  "hn": "13h",
+  "lat": 45.8904775,
+  "lng": 8.9741519,
+  "mieter": []
+ },
+ "mendrisio|via industria|16a": {
+  "street": "Via Industria",
+  "hn": "16a",
+  "lat": 45.8896512,
+  "lng": 8.972046,
+  "mieter": []
+ },
+ "mendrisio|corso bello|2": {
+  "street": "Corso Bello",
+  "hn": "2",
+  "lat": 45.8696625,
+  "lng": 8.9875821,
+  "mieter": []
+ },
+ "mendrisio|corso bello|6": {
+  "street": "Corso Bello",
+  "hn": "6",
+  "lat": 45.8695898,
+  "lng": 8.987837,
+  "mieter": []
+ },
+ "mendrisio|corso bello|6a": {
+  "street": "Corso Bello",
+  "hn": "6a",
+  "lat": 45.8696583,
+  "lng": 8.9880492,
+  "mieter": []
+ },
+ "mendrisio|corso bello|12": {
+  "street": "Corso Bello",
+  "hn": "12",
+  "lat": 45.8697908,
+  "lng": 8.9883329,
+  "mieter": []
+ },
+ "mendrisio|via industria|8b": {
+  "street": "Via Industria",
+  "hn": "8b",
+  "lat": 45.8692978,
+  "lng": 8.9897197,
+  "mieter": []
+ },
+ "mendrisio|via industria|12": {
+  "street": "Via Industria",
+  "hn": "12",
+  "lat": 45.8691393,
+  "lng": 8.9906619,
+  "mieter": []
+ },
+ "mendrisio|via industria|20": {
+  "street": "Via Industria",
+  "hn": "20",
+  "lat": 45.8698684,
+  "lng": 8.9923343,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|25": {
+  "street": "Via Vincenzo Vela",
+  "hn": "25",
+  "lat": 45.8723663,
+  "lng": 8.9866672,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|29": {
+  "street": "Via Vincenzo Vela",
+  "hn": "29",
+  "lat": 45.8725128,
+  "lng": 8.9871339,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|27": {
+  "street": "Via Vincenzo Vela",
+  "hn": "27",
+  "lat": 45.872511,
+  "lng": 8.9869356,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|25a": {
+  "street": "Via Vincenzo Vela",
+  "hn": "25a",
+  "lat": 45.8724315,
+  "lng": 8.9867884,
+  "mieter": []
+ },
+ "mendrisio|via luigi lavizzari|25a": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "25a",
+  "lat": 45.8701885,
+  "lng": 8.9882162,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|24a": {
+  "street": "Via Vincenzo Vela",
+  "hn": "24a",
+  "lat": 45.872172,
+  "lng": 8.9872681,
+  "mieter": []
+ },
+ "mendrisio|via luigi lavizzari|24": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "24",
+  "lat": 45.869977,
+  "lng": 8.9883596,
+  "mieter": []
+ },
+ "mendrisio|via luigi lavizzari|22": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "22",
+  "lat": 45.8699574,
+  "lng": 8.9883021,
+  "mieter": []
+ },
+ "mendrisio|corso bello|15": {
+  "street": "Corso Bello",
+  "hn": "15",
+  "lat": 45.8700295,
+  "lng": 8.9884012,
+  "mieter": []
+ },
+ "mendrisio|via stefano franscini|14": {
+  "street": "Via Stefano Franscini",
+  "hn": "14",
+  "lat": 45.8696212,
+  "lng": 8.979862,
+  "mieter": []
+ },
+ "mendrisio|via luigi lavizzari|2": {
+  "street": "Via Luigi Lavizzari",
+  "hn": "2",
+  "lat": 45.8702336,
+  "lng": 8.9865865,
+  "mieter": []
+ },
+ "mendrisio|via stefano franscini|28": {
+  "street": "Via Stefano Franscini",
+  "hn": "28",
+  "lat": 45.8711247,
+  "lng": 8.9820681,
+  "mieter": []
+ },
+ "mendrisio|via vincenzo vela|11a": {
+  "street": "Via Vincenzo Vela",
+  "hn": "11a",
+  "lat": 45.8720887,
+  "lng": 8.9846767,
+  "mieter": []
+ },
+ "mendrisio|via industria|18b": {
+  "street": "Via Industria",
+  "hn": "18b",
+  "lat": 45.8890864,
+  "lng": 8.9718574,
+  "mieter": []
+ }
+}

@@ -147,6 +147,7 @@ def owner_type(row):
     if re.search(r"anlagestiftung|fondation de placement", e): return "Fonds/Anlagestiftung"
     if re.search(r"pensionskasse|caisse de pr|prévoyance|cpeg|bvk|publica|vorsorge", e): return "Pensionskasse"
     if re.search(r"stiftung|fondation", e): return "Stiftung"
+    if re.search(r"\bzunft\b|constaffel|genossenschaft zum r", e): return ""  # Zunft/Verein: kein passender Formularwert
     if re.search(r"versicherung|assurance|insurance|swiss life|baloise|helvetia|mobiliar|allianz|axa leben", e): return "Versicherung"
     return "Immobilien-AG/Firma"
 

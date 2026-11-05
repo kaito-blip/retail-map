@@ -1,0 +1,1218 @@
+{
+ "einsiedeln|hauptstrasse|19": {
+  "street": "Hauptstrasse",
+  "hn": "19",
+  "lat": 47.1275272,
+  "lng": 8.7452633,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "einsiedeln|hauptstrasse|83": {
+  "street": "Hauptstrasse",
+  "hn": "83",
+  "lat": 47.1268695,
+  "lng": 8.7495245,
+  "mieter": [
+   "Credit Suisse"
+  ]
+ },
+ "einsiedeln|hauptstrasse|61": {
+  "street": "Hauptstrasse",
+  "hn": "61",
+  "lat": 47.1271818,
+  "lng": 8.7477544,
+  "mieter": [
+   "SZKB",
+   "Helvetia"
+  ]
+ },
+ "einsiedeln|eisenbahnstrasse|20a": {
+  "street": "Eisenbahnstrasse",
+  "hn": "20a",
+  "lat": 47.1287135,
+  "lng": 8.7491763,
+  "mieter": [
+   "Polizeiposten Einsiedeln"
+  ]
+ },
+ "einsiedeln|hauptstrasse|27": {
+  "street": "Hauptstrasse",
+  "hn": "27",
+  "lat": 47.1273326,
+  "lng": 8.7461851,
+  "mieter": [
+   "Dorfmetzg Schnidrig"
+  ]
+ },
+ "einsiedeln|hauptstrasse|25": {
+  "street": "Hauptstrasse",
+  "hn": "25",
+  "lat": 47.1274697,
+  "lng": 8.7461299,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|43": {
+  "street": "Hauptstrasse",
+  "hn": "43",
+  "lat": 47.1272011,
+  "lng": 8.7467933,
+  "mieter": [
+   "Eda Keramik"
+  ]
+ },
+ "einsiedeln|hauptstrasse|50": {
+  "street": "Hauptstrasse",
+  "hn": "50",
+  "lat": 47.1268251,
+  "lng": 8.7478134,
+  "mieter": [
+   "Faros"
+  ]
+ },
+ "einsiedeln|hauptstrasse|53": {
+  "street": "Hauptstrasse",
+  "hn": "53",
+  "lat": 47.1272268,
+  "lng": 8.7473896,
+  "mieter": [
+   "Coiffure Pegasus"
+  ]
+ },
+ "einsiedeln|hauptstrasse|21": {
+  "street": "Hauptstrasse",
+  "hn": "21",
+  "lat": 47.1275253,
+  "lng": 8.745568,
+  "mieter": [
+   "twentyfour sport",
+   "Amalfi"
+  ]
+ },
+ "einsiedeln|hauptstrasse|8": {
+  "street": "Hauptstrasse",
+  "hn": "8",
+  "lat": 47.1274504,
+  "lng": 8.7442689,
+  "mieter": [
+   "Blumenträff",
+   "Demki"
+  ]
+ },
+ "einsiedeln|hauptstrasse|81": {
+  "street": "Hauptstrasse",
+  "hn": "81",
+  "lat": 47.126967,
+  "lng": 8.7493428,
+  "mieter": [
+   "Medbase"
+  ]
+ },
+ "einsiedeln|hauptstrasse|28": {
+  "street": "Hauptstrasse",
+  "hn": "28",
+  "lat": 47.1272563,
+  "lng": 8.7460031,
+  "mieter": [
+   "Sihlsee",
+   "Nailstudio Joy"
+  ]
+ },
+ "einsiedeln|hauptstrasse|23": {
+  "street": "Hauptstrasse",
+  "hn": "23",
+  "lat": 47.1274116,
+  "lng": 8.7459477,
+  "mieter": [
+   "Paracelsus Apotheke"
+  ]
+ },
+ "einsiedeln|eisenbahnstrasse|8": {
+  "street": "Eisenbahnstrasse",
+  "hn": "8",
+  "lat": 47.1288289,
+  "lng": 8.7469074,
+  "mieter": [
+   "CSS Versicherung"
+  ]
+ },
+ "einsiedeln|hauptstrasse|35": {
+  "street": "Hauptstrasse",
+  "hn": "35",
+  "lat": 47.1272643,
+  "lng": 8.7464886,
+  "mieter": [
+   "Zitlos"
+  ]
+ },
+ "einsiedeln|hauptstrasse|30": {
+  "street": "Hauptstrasse",
+  "hn": "30",
+  "lat": 47.1270343,
+  "lng": 8.7462606,
+  "mieter": [
+   "Art of Travel"
+  ]
+ },
+ "einsiedeln|hauptstrasse|10": {
+  "street": "Hauptstrasse",
+  "hn": "10",
+  "lat": 47.1273112,
+  "lng": 8.7443954,
+  "mieter": [
+   "Schifflände"
+  ]
+ },
+ "einsiedeln|bahnhofplatz|2": {
+  "street": "Bahnhofplatz",
+  "hn": "2",
+  "lat": 47.1277068,
+  "lng": 8.7436912,
+  "mieter": [
+   "EKZ Eltop"
+  ]
+ },
+ "einsiedeln|hauptstrasse|14": {
+  "street": "Hauptstrasse",
+  "hn": "14",
+  "lat": 47.1272183,
+  "lng": 8.7446801,
+  "mieter": [
+   "Kryenbühl"
+  ]
+ },
+ "einsiedeln|hauptstrasse|60": {
+  "street": "Hauptstrasse",
+  "hn": "60",
+  "lat": 47.1269245,
+  "lng": 8.7486103,
+  "mieter": [
+   "Tisch unikate"
+  ]
+ },
+ "einsiedeln|hauptstrasse|3": {
+  "street": "Hauptstrasse",
+  "hn": "3",
+  "lat": 47.1276336,
+  "lng": 8.7444608,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|20": {
+  "street": "Schmiedenstrasse",
+  "hn": "20",
+  "lat": 47.1278799,
+  "lng": 8.7482964,
+  "mieter": [
+   "Theiler"
+  ]
+ },
+ "einsiedeln|hauptstrasse|26": {
+  "street": "Hauptstrasse",
+  "hn": "26",
+  "lat": 47.1273193,
+  "lng": 8.7457873,
+  "mieter": [
+   "Basler Versicherung"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|31": {
+  "street": "Schmiedenstrasse",
+  "hn": "31",
+  "lat": 47.1279882,
+  "lng": 8.7495568,
+  "mieter": [
+   "Sushi Chen",
+   "Veechia Napoli"
+  ]
+ },
+ "einsiedeln|hauptstrasse|32": {
+  "street": "Hauptstrasse",
+  "hn": "32",
+  "lat": 47.1271143,
+  "lng": 8.746572,
+  "mieter": [
+   "Import Optik"
+  ]
+ },
+ "einsiedeln|hauptstrasse|2a": {
+  "street": "Hauptstrasse",
+  "hn": "2a",
+  "lat": 47.1276115,
+  "lng": 8.7439035,
+  "mieter": [
+   "Walhalla"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|27": {
+  "street": "Schmiedenstrasse",
+  "hn": "27",
+  "lat": 47.1279447,
+  "lng": 8.7490067,
+  "mieter": [
+   "Dr. Göller"
+  ]
+ },
+ "einsiedeln|eisenbahnstrasse|20": {
+  "street": "Eisenbahnstrasse",
+  "hn": "20",
+  "lat": 47.1286915,
+  "lng": 8.7492434,
+  "mieter": [
+   "Bezirksamt",
+   "Bezirksgericht"
+  ]
+ },
+ "einsiedeln|hauptstrasse|18": {
+  "street": "Hauptstrasse",
+  "hn": "18",
+  "lat": 47.1272084,
+  "lng": 8.7448802,
+  "mieter": [
+   "Inkredible - Tattoo & Piercing Studio"
+  ]
+ },
+ "einsiedeln|hauptstrasse|11": {
+  "street": "Hauptstrasse",
+  "hn": "11",
+  "lat": 47.1274279,
+  "lng": 8.7449356,
+  "mieter": [
+   "Zürich Versicherung"
+  ]
+ },
+ "einsiedeln|hauptstrasse|58": {
+  "street": "Hauptstrasse",
+  "hn": "58",
+  "lat": 47.1269402,
+  "lng": 8.7484268,
+  "mieter": [
+   "mobileeinsiedeln"
+  ]
+ },
+ "einsiedeln|hauptstrasse|6": {
+  "street": "Hauptstrasse",
+  "hn": "6",
+  "lat": 47.127551,
+  "lng": 8.7440609,
+  "mieter": [
+   "Knecht Reisen"
+  ]
+ },
+ "einsiedeln|hauptstrasse|56": {
+  "street": "Hauptstrasse",
+  "hn": "56",
+  "lat": 47.1269401,
+  "lng": 8.748226,
+  "mieter": [
+   "Tiefenbacher",
+   "Nails Beauty"
+  ]
+ },
+ "einsiedeln|bahnhofplatz|20": {
+  "street": "Bahnhofplatz",
+  "hn": "20",
+  "lat": 47.1283859,
+  "lng": 8.7454961,
+  "mieter": [
+   "Schefer"
+  ]
+ },
+ "einsiedeln|hauptstrasse|17": {
+  "street": "Hauptstrasse",
+  "hn": "17",
+  "lat": 47.1275649,
+  "lng": 8.7449172,
+  "mieter": [
+   "Binder"
+  ]
+ },
+ "einsiedeln|hauptstrasse|85": {
+  "street": "Hauptstrasse",
+  "hn": "85",
+  "lat": 47.1269317,
+  "lng": 8.7498423,
+  "mieter": [
+   "Benziger"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|10": {
+  "street": "Schmiedenstrasse",
+  "hn": "10",
+  "lat": 47.1276014,
+  "lng": 8.7474887,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|7": {
+  "street": "Hauptstrasse",
+  "hn": "7",
+  "lat": 47.1274086,
+  "lng": 8.7447831,
+  "mieter": [
+   "Doc Hollidays"
+  ]
+ },
+ "einsiedeln|hauptstrasse|15": {
+  "street": "Hauptstrasse",
+  "hn": "15",
+  "lat": 47.1275073,
+  "lng": 8.7450469,
+  "mieter": [
+   "Einsiedler Stübli"
+  ]
+ },
+ "einsiedeln|hauptstrasse|13": {
+  "street": "Hauptstrasse",
+  "hn": "13",
+  "lat": 47.1274691,
+  "lng": 8.7449257,
+  "mieter": [
+   "Coiffure Walker"
+  ]
+ },
+ "einsiedeln|eisenbahnstrasse|3": {
+  "street": "Eisenbahnstrasse",
+  "hn": "3",
+  "lat": 47.1292162,
+  "lng": 8.7459462,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|16": {
+  "street": "Eisenbahnstrasse",
+  "hn": "16",
+  "lat": 47.1288285,
+  "lng": 8.7476488,
+  "mieter": [
+   "Restaurant Du Nord"
+  ]
+ },
+ "einsiedeln|eisenbahnstrasse|6": {
+  "street": "Eisenbahnstrasse",
+  "hn": "6",
+  "lat": 47.1288266,
+  "lng": 8.7464622,
+  "mieter": [
+   "Trudis Nähatelier"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|1": {
+  "street": "Schmiedenstrasse",
+  "hn": "1",
+  "lat": 47.1276767,
+  "lng": 8.7457193,
+  "mieter": [
+   "Schmiede"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|5": {
+  "street": "Schmiedenstrasse",
+  "hn": "5",
+  "lat": 47.1276841,
+  "lng": 8.7463939,
+  "mieter": [
+   "Vinothek Vino Miracolo"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|6": {
+  "street": "Schmiedenstrasse",
+  "hn": "6",
+  "lat": 47.1275806,
+  "lng": 8.7468669,
+  "mieter": [
+   "Hofstatt",
+   "Reichmuth"
+  ]
+ },
+ "einsiedeln|hauptstrasse|89": {
+  "street": "Hauptstrasse",
+  "hn": "89",
+  "lat": 47.1271476,
+  "lng": 8.7500175,
+  "mieter": [
+   "Tulipan"
+  ]
+ },
+ "einsiedeln|hauptstrasse|48": {
+  "street": "Hauptstrasse",
+  "hn": "48",
+  "lat": 47.1269008,
+  "lng": 8.7476594,
+  "mieter": [
+   "La Fontanella"
+  ]
+ },
+ "einsiedeln|eisenbahnstrasse|5": {
+  "street": "Eisenbahnstrasse",
+  "hn": "5",
+  "lat": 47.1290622,
+  "lng": 8.7466843,
+  "mieter": [
+   "Coiffeur Rita",
+   "Coiffeur Toni",
+   "Fuchs Computer",
+   "Wen-Wa-Kei",
+   "Augenzentrum ONO Einsiedeln"
+  ]
+ },
+ "einsiedeln|hauptstrasse|72": {
+  "street": "Hauptstrasse",
+  "hn": "72",
+  "lat": 47.1268356,
+  "lng": 8.7492011,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|54": {
+  "street": "Hauptstrasse",
+  "hn": "54",
+  "lat": 47.1269095,
+  "lng": 8.7480142,
+  "mieter": [
+   "Schön und Schräg"
+  ]
+ },
+ "einsiedeln|kronenstrasse|2": {
+  "street": "Kronenstrasse",
+  "hn": "2",
+  "lat": 47.1272842,
+  "lng": 8.7487222,
+  "mieter": [
+   "chill & style"
+  ]
+ },
+ "einsiedeln|hauptstrasse|64": {
+  "street": "Hauptstrasse",
+  "hn": "64",
+  "lat": 47.1268982,
+  "lng": 8.748816,
+  "mieter": [
+   "Broadway NYC Fashion"
+  ]
+ },
+ "einsiedeln|eisenbahnstrasse|7": {
+  "street": "Eisenbahnstrasse",
+  "hn": "7",
+  "lat": 47.1293848,
+  "lng": 8.7469781,
+  "mieter": [
+   "Möbel Huus Kälin"
+  ]
+ },
+ "einsiedeln|hauptstrasse|71": {
+  "street": "Hauptstrasse",
+  "hn": "71",
+  "lat": 47.1270725,
+  "lng": 8.7487953,
+  "mieter": [
+   "Chicorée"
+  ]
+ },
+ "einsiedeln|bahnhofplatz|1": {
+  "street": "Bahnhofplatz",
+  "hn": "1",
+  "lat": 47.1279106,
+  "lng": 8.7442305,
+  "mieter": [
+   "Caprez-Bühler",
+   "Migrolino",
+   "Praxis im Bahnhof"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|13": {
+  "street": "Schmiedenstrasse",
+  "hn": "13",
+  "lat": 47.1277892,
+  "lng": 8.7469209,
+  "mieter": [
+   "Limacher"
+  ]
+ },
+ "einsiedeln|hauptstrasse|76": {
+  "street": "Hauptstrasse",
+  "hn": "76",
+  "lat": 47.1266828,
+  "lng": 8.7495182,
+  "mieter": [
+   "Schefer",
+   "Dr. Müller",
+   "Bären"
+  ]
+ },
+ "einsiedeln|hauptstrasse|66": {
+  "street": "Hauptstrasse",
+  "hn": "66",
+  "lat": 47.1269013,
+  "lng": 8.7489844,
+  "mieter": [
+   "Kaffeerösterei zu den Dreiherzen"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|29": {
+  "street": "Schmiedenstrasse",
+  "hn": "29",
+  "lat": 47.1279872,
+  "lng": 8.7492672,
+  "mieter": [
+   "Lienert Kerzen"
+  ]
+ },
+ "einsiedeln|hauptstrasse|67": {
+  "street": "Hauptstrasse",
+  "hn": "67",
+  "lat": 47.1271166,
+  "lng": 8.7484167,
+  "mieter": [
+   "Trubä67"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|23": {
+  "street": "Schmiedenstrasse",
+  "hn": "23",
+  "lat": 47.1280608,
+  "lng": 8.7484902,
+  "mieter": [
+   "Cosmodermis"
+  ]
+ },
+ "einsiedeln|hauptstrasse|47": {
+  "street": "Hauptstrasse",
+  "hn": "47",
+  "lat": 47.1271837,
+  "lng": 8.7470789,
+  "mieter": [
+   "Papeterie Kälin",
+   "Claro Weltladen"
+  ]
+ },
+ "einsiedeln|hauptstrasse|31": {
+  "street": "Hauptstrasse",
+  "hn": "31",
+  "lat": 47.1272926,
+  "lng": 8.7463872,
+  "mieter": [
+   "Spatz & Co."
+  ]
+ },
+ "einsiedeln|hauptstrasse|39": {
+  "street": "Hauptstrasse",
+  "hn": "39",
+  "lat": 47.1272073,
+  "lng": 8.7466854,
+  "mieter": [
+   "Blickfang"
+  ]
+ },
+ "einsiedeln|eisenbahnstrasse|2": {
+  "street": "Eisenbahnstrasse",
+  "hn": "2",
+  "lat": 47.1288072,
+  "lng": 8.7461279,
+  "mieter": [
+   "Kleinkindertreff Räbelnäschtli",
+   "The Barber Shop",
+   "Denner",
+   "Tschümperlin",
+   "Acat-Schuhe"
+  ]
+ },
+ "einsiedeln|hauptstrasse|65": {
+  "street": "Hauptstrasse",
+  "hn": "65",
+  "lat": 47.1270753,
+  "lng": 8.74825,
+  "mieter": [
+   "St. Meinrad"
+  ]
+ },
+ "einsiedeln|hauptstrasse|36": {
+  "street": "Hauptstrasse",
+  "hn": "36",
+  "lat": 47.1270571,
+  "lng": 8.7471163,
+  "mieter": [
+   "Lexi Fashion"
+  ]
+ },
+ "einsiedeln|kronenstrasse|3": {
+  "street": "Kronenstrasse",
+  "hn": "3",
+  "lat": 47.1274522,
+  "lng": 8.7485681,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|80": {
+  "street": "Hauptstrasse",
+  "hn": "80",
+  "lat": 47.1265515,
+  "lng": 8.749824,
+  "mieter": [
+   "Goldapfel",
+   "Rot-Hut"
+  ]
+ },
+ "einsiedeln|hauptstrasse|22": {
+  "street": "Hauptstrasse",
+  "hn": "22",
+  "lat": 47.1272838,
+  "lng": 8.745514,
+  "mieter": [
+   "Z. Kälin"
+  ]
+ },
+ "einsiedeln|hauptstrasse|34": {
+  "street": "Hauptstrasse",
+  "hn": "34",
+  "lat": 47.1270694,
+  "lng": 8.7469448,
+  "mieter": [
+   "Blöchliger"
+  ]
+ },
+ "einsiedeln|hauptstrasse|69": {
+  "street": "Hauptstrasse",
+  "hn": "69",
+  "lat": 47.1270912,
+  "lng": 8.7485323,
+  "mieter": [
+   "Krone Bar",
+   "Bistro Krone Take Away"
+  ]
+ },
+ "einsiedeln|hauptstrasse|57": {
+  "street": "Hauptstrasse",
+  "hn": "57",
+  "lat": 47.1274416,
+  "lng": 8.7477174,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|46": {
+  "street": "Hauptstrasse",
+  "hn": "46",
+  "lat": 47.1270328,
+  "lng": 8.7474883,
+  "mieter": [
+   "Sternen Bistro"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|14": {
+  "street": "Schmiedenstrasse",
+  "hn": "14",
+  "lat": 47.1278778,
+  "lng": 8.7480724,
+  "mieter": [
+   "Spektrum 23 GmbH"
+  ]
+ },
+ "einsiedeln|hauptstrasse|12": {
+  "street": "Hauptstrasse",
+  "hn": "12",
+  "lat": 47.1271733,
+  "lng": 8.7444748,
+  "mieter": [
+   "Stoff mit Stil"
+  ]
+ },
+ "einsiedeln|eisenbahnstrasse|9": {
+  "street": "Eisenbahnstrasse",
+  "hn": "9",
+  "lat": 47.1292436,
+  "lng": 8.7472227,
+  "mieter": [
+   "Concordia"
+  ]
+ },
+ "einsiedeln|bahnhofplatz|3": {
+  "street": "Bahnhofplatz",
+  "hn": "3",
+  "lat": 47.1283888,
+  "lng": 8.7446838,
+  "mieter": [
+   "Brockenstube",
+   "Post"
+  ]
+ },
+ "einsiedeln|bahnhofplatz|10": {
+  "street": "Bahnhofplatz",
+  "hn": "10",
+  "lat": 47.1278263,
+  "lng": 8.7448516,
+  "mieter": [
+   "Memo's Imbiss & Cafe"
+  ]
+ },
+ "einsiedeln|hauptstrasse|20": {
+  "street": "Hauptstrasse",
+  "hn": "20",
+  "lat": 47.1269685,
+  "lng": 8.7450606,
+  "mieter": [
+   "Kindergarten Zwei Raben"
+  ]
+ },
+ "einsiedeln|hauptstrasse|87": {
+  "street": "Hauptstrasse",
+  "hn": "87",
+  "lat": 47.1268195,
+  "lng": 8.749743,
+  "mieter": [
+   "Das Hiesig"
+  ]
+ },
+ "einsiedeln|hauptstrasse|82": {
+  "street": "Hauptstrasse",
+  "hn": "82",
+  "lat": 47.1264787,
+  "lng": 8.7498918,
+  "mieter": [
+   "Sonne"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|28": {
+  "street": "Schmiedenstrasse",
+  "hn": "28",
+  "lat": 47.1277915,
+  "lng": 8.7496052,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|4a": {
+  "street": "Kronenstrasse",
+  "hn": "4a",
+  "lat": 47.127542,
+  "lng": 8.7487286,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|4b": {
+  "street": "Kronenstrasse",
+  "hn": "4b",
+  "lat": 47.127673,
+  "lng": 8.7487199,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|4c": {
+  "street": "Kronenstrasse",
+  "hn": "4c",
+  "lat": 47.127751,
+  "lng": 8.7487098,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|4": {
+  "street": "Kronenstrasse",
+  "hn": "4",
+  "lat": 47.1273604,
+  "lng": 8.7487239,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|78": {
+  "street": "Hauptstrasse",
+  "hn": "78",
+  "lat": 47.1265142,
+  "lng": 8.7496262,
+  "mieter": [
+   "Rathaus Einsiedeln"
+  ]
+ },
+ "einsiedeln|schmiedenstrasse|32": {
+  "street": "Schmiedenstrasse",
+  "hn": "32",
+  "lat": 47.1275237,
+  "lng": 8.7498171,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|34": {
+  "street": "Schmiedenstrasse",
+  "hn": "34",
+  "lat": 47.1274229,
+  "lng": 8.7499332,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|2": {
+  "street": "Hauptstrasse",
+  "hn": "2",
+  "lat": 47.127595,
+  "lng": 8.7439168,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|10": {
+  "street": "Eisenbahnstrasse",
+  "hn": "10",
+  "lat": 47.1288213,
+  "lng": 8.7471678,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|12": {
+  "street": "Eisenbahnstrasse",
+  "hn": "12",
+  "lat": 47.1288279,
+  "lng": 8.7473586,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|14": {
+  "street": "Eisenbahnstrasse",
+  "hn": "14",
+  "lat": 47.1288318,
+  "lng": 8.7475178,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|21": {
+  "street": "Eisenbahnstrasse",
+  "hn": "21",
+  "lat": 47.1289172,
+  "lng": 8.7509214,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|30": {
+  "street": "Schmiedenstrasse",
+  "hn": "30",
+  "lat": 47.1277489,
+  "lng": 8.7499828,
+  "mieter": []
+ },
+ "einsiedeln|bahnhofplatz|18": {
+  "street": "Bahnhofplatz",
+  "hn": "18",
+  "lat": 47.1282393,
+  "lng": 8.7453354,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|29": {
+  "street": "Hauptstrasse",
+  "hn": "29",
+  "lat": 47.1274142,
+  "lng": 8.7463411,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|3": {
+  "street": "Schmiedenstrasse",
+  "hn": "3",
+  "lat": 47.12776,
+  "lng": 8.7461997,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|45": {
+  "street": "Hauptstrasse",
+  "hn": "45",
+  "lat": 47.127265,
+  "lng": 8.7470015,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|2": {
+  "street": "Schmiedenstrasse",
+  "hn": "2",
+  "lat": 47.1275572,
+  "lng": 8.7466389,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|15": {
+  "street": "Schmiedenstrasse",
+  "hn": "15",
+  "lat": 47.1278357,
+  "lng": 8.7471838,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|19": {
+  "street": "Schmiedenstrasse",
+  "hn": "19",
+  "lat": 47.1279717,
+  "lng": 8.7475432,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|9": {
+  "street": "Schmiedenstrasse",
+  "hn": "9",
+  "lat": 47.1278135,
+  "lng": 8.7466861,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|4": {
+  "street": "Schmiedenstrasse",
+  "hn": "4",
+  "lat": 47.1275339,
+  "lng": 8.7467941,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|17": {
+  "street": "Schmiedenstrasse",
+  "hn": "17",
+  "lat": 47.1278843,
+  "lng": 8.7473416,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|7": {
+  "street": "Schmiedenstrasse",
+  "hn": "7",
+  "lat": 47.1277139,
+  "lng": 8.74651,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|37": {
+  "street": "Hauptstrasse",
+  "hn": "37",
+  "lat": 47.1274047,
+  "lng": 8.7465632,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|79": {
+  "street": "Hauptstrasse",
+  "hn": "79",
+  "lat": 47.1271134,
+  "lng": 8.7492517,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|19": {
+  "street": "Kronenstrasse",
+  "hn": "19",
+  "lat": 47.1284863,
+  "lng": 8.7484097,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|75": {
+  "street": "Hauptstrasse",
+  "hn": "75",
+  "lat": 47.1271146,
+  "lng": 8.7490412,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|21": {
+  "street": "Schmiedenstrasse",
+  "hn": "21",
+  "lat": 47.1280981,
+  "lng": 8.7480398,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|77": {
+  "street": "Hauptstrasse",
+  "hn": "77",
+  "lat": 47.1270979,
+  "lng": 8.7491341,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|25": {
+  "street": "Schmiedenstrasse",
+  "hn": "25",
+  "lat": 47.1281695,
+  "lng": 8.7488351,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|1": {
+  "street": "Kronenstrasse",
+  "hn": "1",
+  "lat": 47.1273008,
+  "lng": 8.7485436,
+  "mieter": []
+ },
+ "einsiedeln|schmiedenstrasse|12": {
+  "street": "Schmiedenstrasse",
+  "hn": "12",
+  "lat": 47.1277915,
+  "lng": 8.7477986,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|31": {
+  "street": "Kronenstrasse",
+  "hn": "31",
+  "lat": 47.1315014,
+  "lng": 8.7484578,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|29": {
+  "street": "Kronenstrasse",
+  "hn": "29",
+  "lat": 47.1311913,
+  "lng": 8.7484396,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|23": {
+  "street": "Kronenstrasse",
+  "hn": "23",
+  "lat": 47.1305545,
+  "lng": 8.7484357,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|11": {
+  "street": "Eisenbahnstrasse",
+  "hn": "11",
+  "lat": 47.1290597,
+  "lng": 8.7476317,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|25": {
+  "street": "Kronenstrasse",
+  "hn": "25",
+  "lat": 47.1308186,
+  "lng": 8.7484396,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|27": {
+  "street": "Kronenstrasse",
+  "hn": "27",
+  "lat": 47.1310169,
+  "lng": 8.7484299,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|33": {
+  "street": "Kronenstrasse",
+  "hn": "33",
+  "lat": 47.1318282,
+  "lng": 8.7484929,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|10": {
+  "street": "Kronenstrasse",
+  "hn": "10",
+  "lat": 47.1297329,
+  "lng": 8.7488143,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|15": {
+  "street": "Eisenbahnstrasse",
+  "hn": "15",
+  "lat": 47.1290566,
+  "lng": 8.7484385,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|20": {
+  "street": "Kronenstrasse",
+  "hn": "20",
+  "lat": 47.1308223,
+  "lng": 8.7488498,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|8": {
+  "street": "Kronenstrasse",
+  "hn": "8",
+  "lat": 47.1295633,
+  "lng": 8.7487929,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|21": {
+  "street": "Kronenstrasse",
+  "hn": "21",
+  "lat": 47.1297588,
+  "lng": 8.7483763,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|12": {
+  "street": "Kronenstrasse",
+  "hn": "12",
+  "lat": 47.1299779,
+  "lng": 8.7487877,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|17": {
+  "street": "Eisenbahnstrasse",
+  "hn": "17",
+  "lat": 47.1290565,
+  "lng": 8.7487768,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|13": {
+  "street": "Eisenbahnstrasse",
+  "hn": "13",
+  "lat": 47.1290501,
+  "lng": 8.7479433,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|18": {
+  "street": "Kronenstrasse",
+  "hn": "18",
+  "lat": 47.1306018,
+  "lng": 8.7488363,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|14": {
+  "street": "Kronenstrasse",
+  "hn": "14",
+  "lat": 47.1301296,
+  "lng": 8.7488038,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|22": {
+  "street": "Kronenstrasse",
+  "hn": "22",
+  "lat": 47.1311065,
+  "lng": 8.7488753,
+  "mieter": []
+ },
+ "einsiedeln|kronenstrasse|16": {
+  "street": "Kronenstrasse",
+  "hn": "16",
+  "lat": 47.1303485,
+  "lng": 8.7488283,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|19a": {
+  "street": "Eisenbahnstrasse",
+  "hn": "19a",
+  "lat": 47.1292945,
+  "lng": 8.7504184,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|19": {
+  "street": "Eisenbahnstrasse",
+  "hn": "19",
+  "lat": 47.129174,
+  "lng": 8.7500537,
+  "mieter": []
+ },
+ "einsiedeln|eisenbahnstrasse|19b": {
+  "street": "Eisenbahnstrasse",
+  "hn": "19b",
+  "lat": 47.1291251,
+  "lng": 8.7507085,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|74": {
+  "street": "Hauptstrasse",
+  "hn": "74",
+  "lat": 47.1267473,
+  "lng": 8.7492623,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|68": {
+  "street": "Hauptstrasse",
+  "hn": "68",
+  "lat": 47.1268411,
+  "lng": 8.7490105,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|62": {
+  "street": "Hauptstrasse",
+  "hn": "62",
+  "lat": 47.1269099,
+  "lng": 8.7486632,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|41": {
+  "street": "Hauptstrasse",
+  "hn": "41",
+  "lat": 47.1272908,
+  "lng": 8.7468287,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|42": {
+  "street": "Hauptstrasse",
+  "hn": "42",
+  "lat": 47.1270024,
+  "lng": 8.7473504,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|5": {
+  "street": "Hauptstrasse",
+  "hn": "5",
+  "lat": 47.1274725,
+  "lng": 8.7446319,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|5a": {
+  "street": "Hauptstrasse",
+  "hn": "5a",
+  "lat": 47.1275754,
+  "lng": 8.7446295,
+  "mieter": []
+ },
+ "einsiedeln|hauptstrasse|1": {
+  "street": "Hauptstrasse",
+  "hn": "1",
+  "lat": 47.1280156,
+  "lng": 8.7441065,
+  "mieter": []
+ }
+}

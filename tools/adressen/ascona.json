@@ -1,0 +1,1190 @@
+{
+ "ascona|via borgo|2": {
+  "street": "Via Borgo",
+  "hn": "2",
+  "lat": 46.1567452,
+  "lng": 8.7689353,
+  "mieter": [
+   "Corner Banca"
+  ]
+ },
+ "ascona|via borgo|20": {
+  "street": "Via Borgo",
+  "hn": "20",
+  "lat": 46.156265,
+  "lng": 8.7681016,
+  "mieter": [
+   "Farmacia Nuova"
+  ]
+ },
+ "ascona|via borgo|28": {
+  "street": "Via Borgo",
+  "hn": "28",
+  "lat": 46.1560169,
+  "lng": 8.767642,
+  "mieter": [
+   "Amavita Centro"
+  ]
+ },
+ "ascona|piazza giuseppe motta|7": {
+  "street": "Piazza Giuseppe Motta",
+  "hn": "7",
+  "lat": 46.1548314,
+  "lng": 8.7672477,
+  "mieter": [
+   "Pizzeria 4 Stagioni"
+  ]
+ },
+ "ascona|piazza giuseppe motta|29": {
+  "street": "Piazza Giuseppe Motta",
+  "hn": "29",
+  "lat": 46.1536444,
+  "lng": 8.7685495,
+  "mieter": [
+   "Ascona"
+  ]
+ },
+ "ascona|via borgo|1": {
+  "street": "Via Borgo",
+  "hn": "1",
+  "lat": 46.1565453,
+  "lng": 8.7694949,
+  "mieter": [
+   "Ufficio postale"
+  ]
+ },
+ "ascona|via borgo|19": {
+  "street": "Via Borgo",
+  "hn": "19",
+  "lat": 46.1558992,
+  "lng": 8.7676928,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|4": {
+  "street": "Contrada Maggiore",
+  "hn": "4",
+  "lat": 46.1553616,
+  "lng": 8.7673111,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|2": {
+  "street": "Contrada Maggiore",
+  "hn": "2",
+  "lat": 46.1555519,
+  "lng": 8.7672709,
+  "mieter": [
+   "Boutique farfalla"
+  ]
+ },
+ "ascona|via borgo|41": {
+  "street": "Via Borgo",
+  "hn": "41",
+  "lat": 46.1557275,
+  "lng": 8.7674822,
+  "mieter": [
+   "Bar Kiki"
+  ]
+ },
+ "ascona|via borgo|34": {
+  "street": "Via Borgo",
+  "hn": "34",
+  "lat": 46.1557009,
+  "lng": 8.7671687,
+  "mieter": []
+ },
+ "ascona|via borgo|47": {
+  "street": "Via Borgo",
+  "hn": "47",
+  "lat": 46.15569,
+  "lng": 8.7674188,
+  "mieter": [
+   "Cattaneo"
+  ]
+ },
+ "ascona|contrada maggiore|8": {
+  "street": "Contrada Maggiore",
+  "hn": "8",
+  "lat": 46.155302,
+  "lng": 8.7677253,
+  "mieter": [
+   "Balu Glam"
+  ]
+ },
+ "ascona|via collegio|14": {
+  "street": "Via Collegio",
+  "hn": "14",
+  "lat": 46.1552908,
+  "lng": 8.7695534,
+  "mieter": []
+ },
+ "ascona|via collegio|16": {
+  "street": "Via Collegio",
+  "hn": "16",
+  "lat": 46.1552532,
+  "lng": 8.7694101,
+  "mieter": [
+   "Antico Ristorante Borromeo"
+  ]
+ },
+ "ascona|contrada maggiore|42": {
+  "street": "Contrada Maggiore",
+  "hn": "42",
+  "lat": 46.1702327,
+  "lng": 8.7778785,
+  "mieter": [
+   "La Saporita, CRAI Simpatia"
+  ]
+ },
+ "ascona|piazza giuseppe motta|15": {
+  "street": "Piazza Giuseppe Motta",
+  "hn": "15",
+  "lat": 46.1545955,
+  "lng": 8.7677234,
+  "mieter": [
+   "Trattoria Pizzeria Bella Ciao"
+  ]
+ },
+ "ascona|viale monte verità|15": {
+  "street": "Viale Monte Verità",
+  "hn": "15",
+  "lat": 46.1577344,
+  "lng": 8.7704316,
+  "mieter": [
+   "al porto"
+  ]
+ },
+ "ascona|piazza giuseppe motta|37": {
+  "street": "Piazza Giuseppe Motta",
+  "hn": "37",
+  "lat": 46.1535811,
+  "lng": 8.7698574,
+  "mieter": [
+   "Biblioteca Popolare Ascona"
+  ]
+ },
+ "ascona|via borgo|30a": {
+  "street": "Via Borgo",
+  "hn": "30a",
+  "lat": 46.1559598,
+  "lng": 8.7674977,
+  "mieter": [
+   "Ascona Square Garden"
+  ]
+ },
+ "ascona|viale monte verità|45": {
+  "street": "Viale Monte Verità",
+  "hn": "45",
+  "lat": 46.159275,
+  "lng": 8.7726295,
+  "mieter": [
+   "Ristorante II Barone Ascona"
+  ]
+ },
+ "ascona|via borgo|11": {
+  "street": "Via Borgo",
+  "hn": "11",
+  "lat": 46.1560963,
+  "lng": 8.7681239,
+  "mieter": []
+ },
+ "ascona|via borgo|9": {
+  "street": "Via Borgo",
+  "hn": "9",
+  "lat": 46.1559876,
+  "lng": 8.7681943,
+  "mieter": []
+ },
+ "ascona|via collegio|18": {
+  "street": "Via Collegio",
+  "hn": "18",
+  "lat": 46.1551308,
+  "lng": 8.7692055,
+  "mieter": []
+ },
+ "ascona|piazza giuseppe motta|25": {
+  "street": "Piazza Giuseppe Motta",
+  "hn": "25",
+  "lat": 46.1541492,
+  "lng": 8.7686837,
+  "mieter": [
+   "Riva"
+  ]
+ },
+ "ascona|contrada maggiore|37": {
+  "street": "Contrada Maggiore",
+  "hn": "37",
+  "lat": 46.170288,
+  "lng": 8.7781515,
+  "mieter": []
+ },
+ "ascona|via borgo|47a": {
+  "street": "Via Borgo",
+  "hn": "47a",
+  "lat": 46.15539,
+  "lng": 8.767055,
+  "mieter": []
+ },
+ "ascona|viale monte verità|5": {
+  "street": "Viale Monte Verità",
+  "hn": "5",
+  "lat": 46.15703,
+  "lng": 8.769498,
+  "mieter": []
+ },
+ "ascona|viale monte verità|3": {
+  "street": "Viale Monte Verità",
+  "hn": "3",
+  "lat": 46.156963,
+  "lng": 8.769404,
+  "mieter": []
+ },
+ "ascona|via borgo|14": {
+  "street": "Via Borgo",
+  "hn": "14",
+  "lat": 46.1564407,
+  "lng": 8.768475,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|18": {
+  "street": "Contrada Maggiore",
+  "hn": "18",
+  "lat": 46.16807,
+  "lng": 8.757841,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|18a": {
+  "street": "Contrada Maggiore",
+  "hn": "18a",
+  "lat": 46.1681,
+  "lng": 8.757845,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|30": {
+  "street": "Contrada Maggiore",
+  "hn": "30",
+  "lat": 46.168774,
+  "lng": 8.757511,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|34": {
+  "street": "Contrada Maggiore",
+  "hn": "34",
+  "lat": 46.16882,
+  "lng": 8.757412,
+  "mieter": []
+ },
+ "ascona|viale monte verità|11": {
+  "street": "Viale Monte Verità",
+  "hn": "11",
+  "lat": 46.157567,
+  "lng": 8.770237,
+  "mieter": [
+   "ITY Outlet"
+  ]
+ },
+ "ascona|contrada maggiore|15": {
+  "street": "Contrada Maggiore",
+  "hn": "15",
+  "lat": 46.1551413,
+  "lng": 8.7682022,
+  "mieter": [
+   "Balu WM"
+  ]
+ },
+ "ascona|piazza giuseppe motta|57": {
+  "street": "Piazza Giuseppe Motta",
+  "hn": "57",
+  "lat": 46.1531483,
+  "lng": 8.7705434,
+  "mieter": []
+ },
+ "ascona|via collegio|6": {
+  "street": "Via Collegio",
+  "hn": "6",
+  "lat": 46.1554553,
+  "lng": 8.7699535,
+  "mieter": []
+ },
+ "ascona|via collegio|8": {
+  "street": "Via Collegio",
+  "hn": "8",
+  "lat": 46.1557108,
+  "lng": 8.7698107,
+  "mieter": []
+ },
+ "ascona|via borgo|7": {
+  "street": "Via Borgo",
+  "hn": "7",
+  "lat": 46.1561877,
+  "lng": 8.7684259,
+  "mieter": []
+ },
+ "ascona|viale monte verità|10": {
+  "street": "Viale Monte Verità",
+  "hn": "10",
+  "lat": 46.1570921,
+  "lng": 8.770141,
+  "mieter": []
+ },
+ "ascona|viale monte verità|12": {
+  "street": "Viale Monte Verità",
+  "hn": "12",
+  "lat": 46.1572431,
+  "lng": 8.7704292,
+  "mieter": []
+ },
+ "ascona|viale monte verità|7": {
+  "street": "Viale Monte Verità",
+  "hn": "7",
+  "lat": 46.1572226,
+  "lng": 8.7696359,
+  "mieter": []
+ },
+ "ascona|viale monte verità|66": {
+  "street": "Viale Monte Verità",
+  "hn": "66",
+  "lat": 46.1591492,
+  "lng": 8.7731322,
+  "mieter": []
+ },
+ "ascona|viale monte verità|60": {
+  "street": "Viale Monte Verità",
+  "hn": "60",
+  "lat": 46.1590091,
+  "lng": 8.7728472,
+  "mieter": []
+ },
+ "ascona|viale monte verità|23": {
+  "street": "Viale Monte Verità",
+  "hn": "23",
+  "lat": 46.1581585,
+  "lng": 8.7710885,
+  "mieter": []
+ },
+ "ascona|viale monte verità|25a": {
+  "street": "Viale Monte Verità",
+  "hn": "25a",
+  "lat": 46.158555,
+  "lng": 8.7709929,
+  "mieter": []
+ },
+ "ascona|via borgo|4": {
+  "street": "Via Borgo",
+  "hn": "4",
+  "lat": 46.1569347,
+  "lng": 8.7686871,
+  "mieter": []
+ },
+ "ascona|viale monte verità|70": {
+  "street": "Viale Monte Verità",
+  "hn": "70",
+  "lat": 46.1593488,
+  "lng": 8.7737163,
+  "mieter": []
+ },
+ "ascona|viale monte verità|25": {
+  "street": "Viale Monte Verità",
+  "hn": "25",
+  "lat": 46.1583656,
+  "lng": 8.7713135,
+  "mieter": []
+ },
+ "ascona|viale monte verità|80": {
+  "street": "Viale Monte Verità",
+  "hn": "80",
+  "lat": 46.1601529,
+  "lng": 8.7746276,
+  "mieter": []
+ },
+ "ascona|viale monte verità|42": {
+  "street": "Viale Monte Verità",
+  "hn": "42",
+  "lat": 46.1580037,
+  "lng": 8.7722603,
+  "mieter": []
+ },
+ "ascona|viale monte verità|27b,27c": {
+  "street": "Viale Monte Verità",
+  "hn": "27b,27c",
+  "lat": 46.1590872,
+  "lng": 8.7710686,
+  "mieter": []
+ },
+ "ascona|viale monte verità|50": {
+  "street": "Viale Monte Verità",
+  "hn": "50",
+  "lat": 46.158371,
+  "lng": 8.7726054,
+  "mieter": []
+ },
+ "ascona|viale monte verità|41a,41b,41c": {
+  "street": "Viale Monte Verità",
+  "hn": "41a,41b,41c",
+  "lat": 46.1590554,
+  "lng": 8.7719479,
+  "mieter": []
+ },
+ "ascona|viale monte verità|68": {
+  "street": "Viale Monte Verità",
+  "hn": "68",
+  "lat": 46.1594015,
+  "lng": 8.7733981,
+  "mieter": []
+ },
+ "ascona|viale monte verità|24": {
+  "street": "Viale Monte Verità",
+  "hn": "24",
+  "lat": 46.1575988,
+  "lng": 8.7710258,
+  "mieter": []
+ },
+ "ascona|viale monte verità|32": {
+  "street": "Viale Monte Verità",
+  "hn": "32",
+  "lat": 46.1579854,
+  "lng": 8.771435,
+  "mieter": []
+ },
+ "ascona|viale monte verità|72": {
+  "street": "Viale Monte Verità",
+  "hn": "72",
+  "lat": 46.1595624,
+  "lng": 8.7737144,
+  "mieter": []
+ },
+ "ascona|viale monte verità|48": {
+  "street": "Viale Monte Verità",
+  "hn": "48",
+  "lat": 46.1585027,
+  "lng": 8.7720862,
+  "mieter": []
+ },
+ "ascona|viale monte verità|76": {
+  "street": "Viale Monte Verità",
+  "hn": "76",
+  "lat": 46.1599388,
+  "lng": 8.7747443,
+  "mieter": []
+ },
+ "ascona|viale monte verità|38": {
+  "street": "Viale Monte Verità",
+  "hn": "38",
+  "lat": 46.1580049,
+  "lng": 8.7718508,
+  "mieter": []
+ },
+ "ascona|viale monte verità|27a": {
+  "street": "Viale Monte Verità",
+  "hn": "27a",
+  "lat": 46.1587977,
+  "lng": 8.7712496,
+  "mieter": []
+ },
+ "ascona|viale monte verità|44": {
+  "street": "Viale Monte Verità",
+  "hn": "44",
+  "lat": 46.158343,
+  "lng": 8.77206,
+  "mieter": []
+ },
+ "ascona|viale monte verità|39": {
+  "street": "Viale Monte Verità",
+  "hn": "39",
+  "lat": 46.1586269,
+  "lng": 8.7716889,
+  "mieter": []
+ },
+ "ascona|viale monte verità|16": {
+  "street": "Viale Monte Verità",
+  "hn": "16",
+  "lat": 46.1574551,
+  "lng": 8.770707,
+  "mieter": []
+ },
+ "ascona|viale monte verità|26": {
+  "street": "Viale Monte Verità",
+  "hn": "26",
+  "lat": 46.1577633,
+  "lng": 8.7713557,
+  "mieter": []
+ },
+ "ascona|viale monte verità|54": {
+  "street": "Viale Monte Verità",
+  "hn": "54",
+  "lat": 46.1587384,
+  "lng": 8.7726443,
+  "mieter": []
+ },
+ "ascona|viale monte verità|9": {
+  "street": "Viale Monte Verità",
+  "hn": "9",
+  "lat": 46.1574401,
+  "lng": 8.7700496,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|7": {
+  "street": "Contrada Maggiore",
+  "hn": "7",
+  "lat": 46.1707627,
+  "lng": 8.7797906,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|1a": {
+  "street": "Contrada Maggiore",
+  "hn": "1a",
+  "lat": 46.1704125,
+  "lng": 8.779599,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|1": {
+  "street": "Contrada Maggiore",
+  "hn": "1",
+  "lat": 46.1705946,
+  "lng": 8.7796902,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|3": {
+  "street": "Contrada Maggiore",
+  "hn": "3",
+  "lat": 46.1704837,
+  "lng": 8.7799657,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|32": {
+  "street": "Contrada Maggiore",
+  "hn": "32",
+  "lat": 46.1710504,
+  "lng": 8.7779845,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|39": {
+  "street": "Contrada Maggiore",
+  "hn": "39",
+  "lat": 46.1701486,
+  "lng": 8.778001,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|10": {
+  "street": "Contrada Maggiore",
+  "hn": "10",
+  "lat": 46.1708321,
+  "lng": 8.7801271,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|14a": {
+  "street": "Contrada Maggiore",
+  "hn": "14a",
+  "lat": 46.1710145,
+  "lng": 8.7797855,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|16": {
+  "street": "Contrada Maggiore",
+  "hn": "16",
+  "lat": 46.1711107,
+  "lng": 8.7797721,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|36": {
+  "street": "Contrada Maggiore",
+  "hn": "36",
+  "lat": 46.1707126,
+  "lng": 8.7777729,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|31": {
+  "street": "Contrada Maggiore",
+  "hn": "31",
+  "lat": 46.1704517,
+  "lng": 8.7781489,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|35": {
+  "street": "Contrada Maggiore",
+  "hn": "35",
+  "lat": 46.1703375,
+  "lng": 8.7781166,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|33": {
+  "street": "Contrada Maggiore",
+  "hn": "33",
+  "lat": 46.1704046,
+  "lng": 8.7782247,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|40": {
+  "street": "Contrada Maggiore",
+  "hn": "40",
+  "lat": 46.1704106,
+  "lng": 8.7777564,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|38": {
+  "street": "Contrada Maggiore",
+  "hn": "38",
+  "lat": 46.1705074,
+  "lng": 8.7777975,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|24": {
+  "street": "Contrada Maggiore",
+  "hn": "24",
+  "lat": 46.1709889,
+  "lng": 8.7784789,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|11": {
+  "street": "Contrada Maggiore",
+  "hn": "11",
+  "lat": 46.1708355,
+  "lng": 8.7791411,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|13": {
+  "street": "Contrada Maggiore",
+  "hn": "13",
+  "lat": 46.1707336,
+  "lng": 8.7791527,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|21": {
+  "street": "Contrada Maggiore",
+  "hn": "21",
+  "lat": 46.1708636,
+  "lng": 8.7788135,
+  "mieter": []
+ },
+ "ascona|viale monte verità|43,45": {
+  "street": "Viale Monte Verità",
+  "hn": "43,45",
+  "lat": 46.1593155,
+  "lng": 8.7723172,
+  "mieter": []
+ },
+ "ascona|via borgo|37": {
+  "street": "Via Borgo",
+  "hn": "37",
+  "lat": 46.155647,
+  "lng": 8.7678763,
+  "mieter": []
+ },
+ "ascona|via borgo|29": {
+  "street": "Via Borgo",
+  "hn": "29",
+  "lat": 46.1559304,
+  "lng": 8.7676939,
+  "mieter": []
+ },
+ "ascona|via borgo|30c": {
+  "street": "Via Borgo",
+  "hn": "30c",
+  "lat": 46.1559349,
+  "lng": 8.7671881,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|5": {
+  "street": "Contrada Maggiore",
+  "hn": "5",
+  "lat": 46.1554328,
+  "lng": 8.7678142,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|6": {
+  "street": "Contrada Maggiore",
+  "hn": "6",
+  "lat": 46.1679326,
+  "lng": 8.7576858,
+  "mieter": []
+ },
+ "ascona|via borgo|5": {
+  "street": "Via Borgo",
+  "hn": "5",
+  "lat": 46.1561191,
+  "lng": 8.7687944,
+  "mieter": []
+ },
+ "ascona|via borgo|45": {
+  "street": "Via Borgo",
+  "hn": "45",
+  "lat": 46.1557153,
+  "lng": 8.7675316,
+  "mieter": []
+ },
+ "ascona|viale monte verità|21": {
+  "street": "Viale Monte Verità",
+  "hn": "21",
+  "lat": 46.1580379,
+  "lng": 8.7709445,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|44": {
+  "street": "Contrada Maggiore",
+  "hn": "44",
+  "lat": 46.1698971,
+  "lng": 8.7573151,
+  "mieter": []
+ },
+ "ascona|viale monte verità|22": {
+  "street": "Viale Monte Verità",
+  "hn": "22",
+  "lat": 46.1574602,
+  "lng": 8.771195,
+  "mieter": []
+ },
+ "ascona|via borgo|24": {
+  "street": "Via Borgo",
+  "hn": "24",
+  "lat": 46.1561789,
+  "lng": 8.767815,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|39a": {
+  "street": "Contrada Maggiore",
+  "hn": "39a",
+  "lat": 46.1695871,
+  "lng": 8.7567945,
+  "mieter": []
+ },
+ "ascona|viale monte verità|51": {
+  "street": "Viale Monte Verità",
+  "hn": "51",
+  "lat": 46.1595807,
+  "lng": 8.7730376,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|25": {
+  "street": "Contrada Maggiore",
+  "hn": "25",
+  "lat": 46.1549546,
+  "lng": 8.7685946,
+  "mieter": []
+ },
+ "ascona|piazza giuseppe motta|51": {
+  "street": "Piazza Giuseppe Motta",
+  "hn": "51",
+  "lat": 46.1534993,
+  "lng": 8.770903,
+  "mieter": []
+ },
+ "ascona|via borgo|33": {
+  "street": "Via Borgo",
+  "hn": "33",
+  "lat": 46.1558541,
+  "lng": 8.7676487,
+  "mieter": []
+ },
+ "ascona|via borgo|43": {
+  "street": "Via Borgo",
+  "hn": "43",
+  "lat": 46.1557933,
+  "lng": 8.7675842,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|46": {
+  "street": "Contrada Maggiore",
+  "hn": "46",
+  "lat": 46.1700471,
+  "lng": 8.7572411,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|12": {
+  "street": "Contrada Maggiore",
+  "hn": "12",
+  "lat": 46.1678964,
+  "lng": 8.7579527,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|23": {
+  "street": "Contrada Maggiore",
+  "hn": "23",
+  "lat": 46.1550101,
+  "lng": 8.7684978,
+  "mieter": []
+ },
+ "ascona|via borgo|10": {
+  "street": "Via Borgo",
+  "hn": "10",
+  "lat": 46.1566224,
+  "lng": 8.7687147,
+  "mieter": []
+ },
+ "ascona|via borgo|30b": {
+  "street": "Via Borgo",
+  "hn": "30b",
+  "lat": 46.1560911,
+  "lng": 8.7672657,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|20": {
+  "street": "Contrada Maggiore",
+  "hn": "20",
+  "lat": 46.1680827,
+  "lng": 8.7577276,
+  "mieter": []
+ },
+ "ascona|viale monte verità|1": {
+  "street": "Viale Monte Verità",
+  "hn": "1",
+  "lat": 46.1569411,
+  "lng": 8.7691624,
+  "mieter": []
+ },
+ "ascona|viale monte verità|49": {
+  "street": "Viale Monte Verità",
+  "hn": "49",
+  "lat": 46.1595167,
+  "lng": 8.7728954,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|41": {
+  "street": "Contrada Maggiore",
+  "hn": "41",
+  "lat": 46.1697169,
+  "lng": 8.7568118,
+  "mieter": []
+ },
+ "ascona|via borgo|22": {
+  "street": "Via Borgo",
+  "hn": "22",
+  "lat": 46.1562845,
+  "lng": 8.7679259,
+  "mieter": []
+ },
+ "ascona|via borgo|30d": {
+  "street": "Via Borgo",
+  "hn": "30d",
+  "lat": 46.1558126,
+  "lng": 8.7672956,
+  "mieter": []
+ },
+ "ascona|viale monte verità|19": {
+  "street": "Viale Monte Verità",
+  "hn": "19",
+  "lat": 46.1579603,
+  "lng": 8.7706492,
+  "mieter": []
+ },
+ "ascona|piazza giuseppe motta|3": {
+  "street": "Piazza Giuseppe Motta",
+  "hn": "3",
+  "lat": 46.1549596,
+  "lng": 8.7670041,
+  "mieter": []
+ },
+ "ascona|via borgo|44": {
+  "street": "Via Borgo",
+  "hn": "44",
+  "lat": 46.1553184,
+  "lng": 8.7666898,
+  "mieter": []
+ },
+ "ascona|via borgo|55": {
+  "street": "Via Borgo",
+  "hn": "55",
+  "lat": 46.1550218,
+  "lng": 8.7668373,
+  "mieter": []
+ },
+ "ascona|piazza giuseppe motta|5": {
+  "street": "Piazza Giuseppe Motta",
+  "hn": "5",
+  "lat": 46.1549221,
+  "lng": 8.767151,
+  "mieter": []
+ },
+ "ascona|via collegio|28": {
+  "street": "Via Collegio",
+  "hn": "28",
+  "lat": 46.1547986,
+  "lng": 8.7682649,
+  "mieter": []
+ },
+ "ascona|via collegio|26": {
+  "street": "Via Collegio",
+  "hn": "26",
+  "lat": 46.1548594,
+  "lng": 8.7684198,
+  "mieter": []
+ },
+ "ascona|via collegio|15": {
+  "street": "Via Collegio",
+  "hn": "15",
+  "lat": 46.1548952,
+  "lng": 8.7687579,
+  "mieter": []
+ },
+ "ascona|piazza giuseppe motta|47": {
+  "street": "Piazza Giuseppe Motta",
+  "hn": "47",
+  "lat": 46.1532634,
+  "lng": 8.7704747,
+  "mieter": []
+ },
+ "ascona|piazza giuseppe motta|55": {
+  "street": "Piazza Giuseppe Motta",
+  "hn": "55",
+  "lat": 46.1532846,
+  "lng": 8.770701,
+  "mieter": []
+ },
+ "ascona|via collegio|11": {
+  "street": "Via Collegio",
+  "hn": "11",
+  "lat": 46.1549441,
+  "lng": 8.7688382,
+  "mieter": []
+ },
+ "ascona|via collegio|20": {
+  "street": "Via Collegio",
+  "hn": "20",
+  "lat": 46.1550712,
+  "lng": 8.7687999,
+  "mieter": []
+ },
+ "ascona|via collegio|24": {
+  "street": "Via Collegio",
+  "hn": "24",
+  "lat": 46.1550917,
+  "lng": 8.7686209,
+  "mieter": []
+ },
+ "ascona|via collegio|5": {
+  "street": "Via Collegio",
+  "hn": "5",
+  "lat": 46.1549876,
+  "lng": 8.7692522,
+  "mieter": []
+ },
+ "ascona|via collegio|9": {
+  "street": "Via Collegio",
+  "hn": "9",
+  "lat": 46.1548832,
+  "lng": 8.7690182,
+  "mieter": []
+ },
+ "ascona|via borgo|53": {
+  "street": "Via Borgo",
+  "hn": "53",
+  "lat": 46.1551529,
+  "lng": 8.7667987,
+  "mieter": []
+ },
+ "ascona|via borgo|50": {
+  "street": "Via Borgo",
+  "hn": "50",
+  "lat": 46.1550138,
+  "lng": 8.7666213,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|17": {
+  "street": "Contrada Maggiore",
+  "hn": "17",
+  "lat": 46.1684209,
+  "lng": 8.7574049,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|23a": {
+  "street": "Contrada Maggiore",
+  "hn": "23a",
+  "lat": 46.168535,
+  "lng": 8.7573661,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|26": {
+  "street": "Contrada Maggiore",
+  "hn": "26",
+  "lat": 46.1684204,
+  "lng": 8.7575788,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|28": {
+  "street": "Contrada Maggiore",
+  "hn": "28",
+  "lat": 46.1686829,
+  "lng": 8.757543,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|29": {
+  "street": "Contrada Maggiore",
+  "hn": "29",
+  "lat": 46.1687946,
+  "lng": 8.7572813,
+  "mieter": []
+ },
+ "ascona|via collegio|10": {
+  "street": "Via Collegio",
+  "hn": "10",
+  "lat": 46.1557537,
+  "lng": 8.7693598,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|19": {
+  "street": "Contrada Maggiore",
+  "hn": "19",
+  "lat": 46.1708438,
+  "lng": 8.7788891,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|9": {
+  "street": "Contrada Maggiore",
+  "hn": "9",
+  "lat": 46.1707716,
+  "lng": 8.7793707,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|10a": {
+  "street": "Contrada Maggiore",
+  "hn": "10a",
+  "lat": 46.1709058,
+  "lng": 8.7800852,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|32a": {
+  "street": "Contrada Maggiore",
+  "hn": "32a",
+  "lat": 46.1710409,
+  "lng": 8.7778337,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|1b": {
+  "street": "Contrada Maggiore",
+  "hn": "1b",
+  "lat": 46.1704264,
+  "lng": 8.7797128,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|14": {
+  "street": "Contrada Maggiore",
+  "hn": "14",
+  "lat": 46.1709172,
+  "lng": 8.7797613,
+  "mieter": []
+ },
+ "ascona|via collegio|7": {
+  "street": "Via Collegio",
+  "hn": "7",
+  "lat": 46.1549974,
+  "lng": 8.7689577,
+  "mieter": []
+ },
+ "ascona|via collegio|12": {
+  "street": "Via Collegio",
+  "hn": "12",
+  "lat": 46.1553864,
+  "lng": 8.7696734,
+  "mieter": []
+ },
+ "ascona|via borgo|27": {
+  "street": "Via Borgo",
+  "hn": "27",
+  "lat": 46.1558522,
+  "lng": 8.7680026,
+  "mieter": []
+ },
+ "ascona|via borgo|35": {
+  "street": "Via Borgo",
+  "hn": "35",
+  "lat": 46.155756,
+  "lng": 8.7678001,
+  "mieter": []
+ },
+ "ascona|via borgo|31": {
+  "street": "Via Borgo",
+  "hn": "31",
+  "lat": 46.1557993,
+  "lng": 8.7677395,
+  "mieter": []
+ },
+ "ascona|via borgo|25": {
+  "street": "Via Borgo",
+  "hn": "25",
+  "lat": 46.155868,
+  "lng": 8.767848,
+  "mieter": []
+ },
+ "ascona|via borgo|51": {
+  "street": "Via Borgo",
+  "hn": "51",
+  "lat": 46.155193,
+  "lng": 8.7668745,
+  "mieter": []
+ },
+ "ascona|via borgo|49": {
+  "street": "Via Borgo",
+  "hn": "49",
+  "lat": 46.1552655,
+  "lng": 8.7669807,
+  "mieter": []
+ },
+ "ascona|via borgo|18": {
+  "street": "Via Borgo",
+  "hn": "18",
+  "lat": 46.1563347,
+  "lng": 8.7681922,
+  "mieter": []
+ },
+ "ascona|via borgo|36": {
+  "street": "Via Borgo",
+  "hn": "36",
+  "lat": 46.1556054,
+  "lng": 8.7670896,
+  "mieter": []
+ },
+ "ascona|via borgo|42": {
+  "street": "Via Borgo",
+  "hn": "42",
+  "lat": 46.1553895,
+  "lng": 8.7668327,
+  "mieter": []
+ },
+ "ascona|via borgo|46": {
+  "street": "Via Borgo",
+  "hn": "46",
+  "lat": 46.155238,
+  "lng": 8.7665876,
+  "mieter": []
+ },
+ "ascona|via borgo|12": {
+  "street": "Via Borgo",
+  "hn": "12",
+  "lat": 46.1565619,
+  "lng": 8.7685923,
+  "mieter": []
+ },
+ "ascona|viale monte verità|47": {
+  "street": "Viale Monte Verità",
+  "hn": "47",
+  "lat": 46.1594006,
+  "lng": 8.7728063,
+  "mieter": []
+ },
+ "ascona|viale monte verità|34": {
+  "street": "Viale Monte Verità",
+  "hn": "34",
+  "lat": 46.1578657,
+  "lng": 8.7716172,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|37a": {
+  "street": "Contrada Maggiore",
+  "hn": "37a",
+  "lat": 46.1689802,
+  "lng": 8.7571162,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|15a": {
+  "street": "Contrada Maggiore",
+  "hn": "15a",
+  "lat": 46.1682541,
+  "lng": 8.7575326,
+  "mieter": []
+ },
+ "ascona|contrada maggiore|7a": {
+  "street": "Contrada Maggiore",
+  "hn": "7a",
+  "lat": 46.1681018,
+  "lng": 8.7576071,
+  "mieter": []
+ }
+}

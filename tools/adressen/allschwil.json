@@ -1,0 +1,4150 @@
+{
+ "allschwil|binningerstrasse|91": {
+  "street": "Binningerstrasse",
+  "hn": "91",
+  "lat": 47.5484517,
+  "lng": 7.546409,
+  "mieter": [
+   "Shell"
+  ]
+ },
+ "allschwil|hegenheimermattweg|119": {
+  "street": "Hegenheimermattweg",
+  "hn": "119",
+  "lat": 47.5574974,
+  "lng": 7.5469471,
+  "mieter": [
+   "Coop",
+   "Coop Pronto"
+  ]
+ },
+ "allschwil|baslerstrasse|310": {
+  "street": "Baslerstrasse",
+  "hn": "310",
+  "lat": 47.5575535,
+  "lng": 7.5602294,
+  "mieter": [
+   "Sutter Begg"
+  ]
+ },
+ "allschwil|lindenplatz|1": {
+  "street": "Lindenplatz",
+  "hn": "1",
+  "lat": 47.5577775,
+  "lng": 7.5596342,
+  "mieter": [
+   "Migros Partner"
+  ]
+ },
+ "allschwil|baslerstrasse|323": {
+  "street": "Baslerstrasse",
+  "hn": "323",
+  "lat": 47.5578901,
+  "lng": 7.5609404,
+  "mieter": [
+   "Lindenplatz"
+  ]
+ },
+ "allschwil|baslerstrasse|191": {
+  "street": "Baslerstrasse",
+  "hn": "191",
+  "lat": 47.5531289,
+  "lng": 7.5503002,
+  "mieter": [
+   "Migros"
+  ]
+ },
+ "allschwil|baslerstrasse|28": {
+  "street": "Baslerstrasse",
+  "hn": "28",
+  "lat": 47.5514531,
+  "lng": 7.5381559,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "allschwil|baslerstrasse|111": {
+  "street": "Baslerstrasse",
+  "hn": "111",
+  "lat": 47.5524992,
+  "lng": 7.5462997,
+  "mieter": [
+   "Einwohnergemeinde Allschwil",
+   "Gemeindepolizei Allschwil"
+  ]
+ },
+ "allschwil|baslerstrasse|29": {
+  "street": "Baslerstrasse",
+  "hn": "29",
+  "lat": 47.5516438,
+  "lng": 7.5377819,
+  "mieter": [
+   "Dorfplatz-Apotheke"
+  ]
+ },
+ "allschwil|oberwilerstrasse|8": {
+  "street": "Oberwilerstrasse",
+  "hn": "8",
+  "lat": 47.5503858,
+  "lng": 7.5369971,
+  "mieter": [
+   "Pico Pizzeria",
+   "Restaurant Eintracht"
+  ]
+ },
+ "allschwil|hegenheimermattweg|183": {
+  "street": "Hegenheimermattweg",
+  "hn": "183",
+  "lat": 47.5627834,
+  "lng": 7.5556169,
+  "mieter": [
+   "Aldi"
+  ]
+ },
+ "allschwil|baslerstrasse|176": {
+  "street": "Baslerstrasse",
+  "hn": "176",
+  "lat": 47.551762,
+  "lng": 7.5490377,
+  "mieter": [
+   "Kübler"
+  ]
+ },
+ "allschwil|baslerstrasse|169": {
+  "street": "Baslerstrasse",
+  "hn": "169",
+  "lat": 47.5520441,
+  "lng": 7.5488169,
+  "mieter": [
+   "Central-Apotheke",
+   "Express Schneider Atelier"
+  ]
+ },
+ "allschwil|binningerstrasse|86": {
+  "street": "Binningerstrasse",
+  "hn": "86",
+  "lat": 47.5476493,
+  "lng": 7.5471367,
+  "mieter": [
+   "ALDI",
+   "Interdiscount"
+  ]
+ },
+ "allschwil|binningerstrasse|169": {
+  "street": "Binningerstrasse",
+  "hn": "169",
+  "lat": 47.5466743,
+  "lng": 7.5539145,
+  "mieter": [
+   "Pferdemetzgerei Bürgi"
+  ]
+ },
+ "allschwil|binningerstrasse|154": {
+  "street": "Binningerstrasse",
+  "hn": "154",
+  "lat": 47.545885,
+  "lng": 7.5561026,
+  "mieter": [
+   "decuspena GmbH"
+  ]
+ },
+ "allschwil|baslerstrasse|126": {
+  "street": "Baslerstrasse",
+  "hn": "126",
+  "lat": 47.5522515,
+  "lng": 7.5451593,
+  "mieter": [
+   "La Vita"
+  ]
+ },
+ "allschwil|binningerstrasse|70": {
+  "street": "Binningerstrasse",
+  "hn": "70",
+  "lat": 47.5483533,
+  "lng": 7.544095,
+  "mieter": [
+   "Schlagzeugschule und Shop"
+  ]
+ },
+ "allschwil|baslerstrasse|103a": {
+  "street": "Baslerstrasse",
+  "hn": "103a",
+  "lat": 47.5525004,
+  "lng": 7.5456179,
+  "mieter": [
+   "brix cross media AG",
+   "McHighEnd AG"
+  ]
+ },
+ "allschwil|binningerstrasse|53": {
+  "street": "Binningerstrasse",
+  "hn": "53",
+  "lat": 47.5497696,
+  "lng": 7.542313,
+  "mieter": [
+   "Ernst Gürtler AG"
+  ]
+ },
+ "allschwil|binningerstrasse|99": {
+  "street": "Binningerstrasse",
+  "hn": "99",
+  "lat": 47.5481608,
+  "lng": 7.5475358,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|94": {
+  "street": "Binningerstrasse",
+  "hn": "94",
+  "lat": 47.5475672,
+  "lng": 7.5488835,
+  "mieter": [
+   "VW;Audi;Scoda",
+   "AXA Winterthur",
+   "Würth AG"
+  ]
+ },
+ "allschwil|baslerstrasse|70": {
+  "street": "Baslerstrasse",
+  "hn": "70",
+  "lat": 47.5524557,
+  "lng": 7.5408446,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "allschwil|binningerstrasse|95": {
+  "street": "Binningerstrasse",
+  "hn": "95",
+  "lat": 47.5483431,
+  "lng": 7.5469437,
+  "mieter": [
+   "Leftclick AG"
+  ]
+ },
+ "allschwil|hegenheimermattweg|185": {
+  "street": "Hegenheimermattweg",
+  "hn": "185",
+  "lat": 47.563168,
+  "lng": 7.5562602,
+  "mieter": [
+   "Müller"
+  ]
+ },
+ "allschwil|oberwilerstrasse|2": {
+  "street": "Oberwilerstrasse",
+  "hn": "2",
+  "lat": 47.5506625,
+  "lng": 7.5364539,
+  "mieter": [
+   "BlumenStil"
+  ]
+ },
+ "allschwil|binningerstrasse|5": {
+  "street": "Binningerstrasse",
+  "hn": "5",
+  "lat": 47.5519317,
+  "lng": 7.5402197,
+  "mieter": [
+   "Dill Optik"
+  ]
+ },
+ "allschwil|baslerstrasse|180": {
+  "street": "Baslerstrasse",
+  "hn": "180",
+  "lat": 47.5518814,
+  "lng": 7.5493292,
+  "mieter": [
+   "ATS Sicherheitstechnik AG"
+  ]
+ },
+ "allschwil|baslerstrasse|136": {
+  "street": "Baslerstrasse",
+  "hn": "136",
+  "lat": 47.55191,
+  "lng": 7.54575,
+  "mieter": [
+   "Bieli Bestattungen"
+  ]
+ },
+ "allschwil|binningerstrasse|7": {
+  "street": "Binningerstrasse",
+  "hn": "7",
+  "lat": 47.5517643,
+  "lng": 7.54027,
+  "mieter": [
+   "Kleider- & Wäsche-Service",
+   "Simple & Perfect KMU Consulting"
+  ]
+ },
+ "allschwil|binningerstrasse|57": {
+  "street": "Binningerstrasse",
+  "hn": "57",
+  "lat": 47.5495635,
+  "lng": 7.5427254,
+  "mieter": [
+   "Dream Look"
+  ]
+ },
+ "allschwil|binningerstrasse|101": {
+  "street": "Binningerstrasse",
+  "hn": "101",
+  "lat": 47.5482385,
+  "lng": 7.5479143,
+  "mieter": [
+   "Kitchen Brew"
+  ]
+ },
+ "allschwil|baslerstrasse|26": {
+  "street": "Baslerstrasse",
+  "hn": "26",
+  "lat": 47.5514289,
+  "lng": 7.5378839,
+  "mieter": [
+   "Remax"
+  ]
+ },
+ "allschwil|binningerstrasse|173": {
+  "street": "Binningerstrasse",
+  "hn": "173",
+  "lat": 47.5466258,
+  "lng": 7.5542236,
+  "mieter": [
+   "Coiffure Sunshine"
+  ]
+ },
+ "allschwil|baslerstrasse|103": {
+  "street": "Baslerstrasse",
+  "hn": "103",
+  "lat": 47.5527023,
+  "lng": 7.545354,
+  "mieter": [
+   "My Post 24",
+   "Post Allschwil 1"
+  ]
+ },
+ "allschwil|baslerstrasse|10a": {
+  "street": "Baslerstrasse",
+  "hn": "10A",
+  "lat": 47.5510768,
+  "lng": 7.5375351,
+  "mieter": [
+   "Andy's Sportlade"
+  ]
+ },
+ "allschwil|hegenheimermattweg|119a": {
+  "street": "Hegenheimermattweg",
+  "hn": "119a",
+  "lat": 47.5576005,
+  "lng": 7.5472443,
+  "mieter": [
+   "Avatar Billiard Café"
+  ]
+ },
+ "allschwil|binningerstrasse|110": {
+  "street": "Binningerstrasse",
+  "hn": "110",
+  "lat": 47.5468499,
+  "lng": 7.5507429,
+  "mieter": [
+   "Therapy Shop"
+  ]
+ },
+ "allschwil|baslerstrasse|46": {
+  "street": "Baslerstrasse",
+  "hn": "46",
+  "lat": 47.5516093,
+  "lng": 7.5387851,
+  "mieter": [
+   "Spätkauf Supermarket"
+  ]
+ },
+ "allschwil|hegenheimermattweg|167a": {
+  "street": "Hegenheimermattweg",
+  "hn": "167a",
+  "lat": 47.5605447,
+  "lng": 7.5514837,
+  "mieter": [
+   "Hamilton Applab"
+  ]
+ },
+ "allschwil|baslerstrasse|333": {
+  "street": "Baslerstrasse",
+  "hn": "333",
+  "lat": 47.5578603,
+  "lng": 7.5616552,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|331": {
+  "street": "Baslerstrasse",
+  "hn": "331",
+  "lat": 47.5578765,
+  "lng": 7.5615579,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|329": {
+  "street": "Baslerstrasse",
+  "hn": "329",
+  "lat": 47.5578936,
+  "lng": 7.5614552,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|254": {
+  "street": "Baslerstrasse",
+  "hn": "254",
+  "lat": 47.5554001,
+  "lng": 7.5571387,
+  "mieter": [
+   "Dr. Daniel Périat - Kardiologe"
+  ]
+ },
+ "allschwil|baslerstrasse|203": {
+  "street": "Baslerstrasse",
+  "hn": "203",
+  "lat": 47.5538676,
+  "lng": 7.5523626,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|125": {
+  "street": "Hegenheimermattweg",
+  "hn": "125",
+  "lat": 47.5592538,
+  "lng": 7.5493326,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|128": {
+  "street": "Baslerstrasse",
+  "hn": "128",
+  "lat": 47.5520891,
+  "lng": 7.5450848,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|85a": {
+  "street": "Binningerstrasse",
+  "hn": "85a",
+  "lat": 47.5485148,
+  "lng": 7.5452179,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|122": {
+  "street": "Baslerstrasse",
+  "hn": "122",
+  "lat": 47.5523269,
+  "lng": 7.5448426,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|120": {
+  "street": "Baslerstrasse",
+  "hn": "120",
+  "lat": 47.5523501,
+  "lng": 7.5447592,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|111a": {
+  "street": "Oberwilerstrasse",
+  "hn": "111a",
+  "lat": 47.5386547,
+  "lng": 7.544628,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|255": {
+  "street": "Baslerstrasse",
+  "hn": "255",
+  "lat": 47.5550108,
+  "lng": 7.5558145,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|195": {
+  "street": "Binningerstrasse",
+  "hn": "195",
+  "lat": 47.5463442,
+  "lng": 7.5556959,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|277": {
+  "street": "Baslerstrasse",
+  "hn": "277",
+  "lat": 47.5559722,
+  "lng": 7.5567887,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|101": {
+  "street": "Oberwilerstrasse",
+  "hn": "101",
+  "lat": 47.540058,
+  "lng": 7.5435054,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|105": {
+  "street": "Oberwilerstrasse",
+  "hn": "105",
+  "lat": 47.5397099,
+  "lng": 7.5441257,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|101b": {
+  "street": "Oberwilerstrasse",
+  "hn": "101b",
+  "lat": 47.5401119,
+  "lng": 7.5441268,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|266": {
+  "street": "Baslerstrasse",
+  "hn": "266",
+  "lat": 47.5556618,
+  "lng": 7.5573226,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|250": {
+  "street": "Baslerstrasse",
+  "hn": "250",
+  "lat": 47.5549895,
+  "lng": 7.5563871,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|258": {
+  "street": "Baslerstrasse",
+  "hn": "258",
+  "lat": 47.5551119,
+  "lng": 7.5577251,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|252": {
+  "street": "Baslerstrasse",
+  "hn": "252",
+  "lat": 47.5550932,
+  "lng": 7.5570068,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|276": {
+  "street": "Baslerstrasse",
+  "hn": "276",
+  "lat": 47.5558362,
+  "lng": 7.5582947,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|266a": {
+  "street": "Baslerstrasse",
+  "hn": "266a",
+  "lat": 47.5556031,
+  "lng": 7.5575652,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|256": {
+  "street": "Baslerstrasse",
+  "hn": "256",
+  "lat": 47.5552286,
+  "lng": 7.5575763,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|260": {
+  "street": "Baslerstrasse",
+  "hn": "260",
+  "lat": 47.5550111,
+  "lng": 7.5578964,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|6a": {
+  "street": "Oberwilerstrasse",
+  "hn": "6a",
+  "lat": 47.5503912,
+  "lng": 7.5365096,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|3": {
+  "street": "Baslerstrasse",
+  "hn": "3",
+  "lat": 47.5512045,
+  "lng": 7.5368984,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|4": {
+  "street": "Oberwilerstrasse",
+  "hn": "4",
+  "lat": 47.5506718,
+  "lng": 7.5366439,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|200b": {
+  "street": "Hegenheimermattweg",
+  "hn": "200b",
+  "lat": 47.5620265,
+  "lng": 7.5582172,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|179": {
+  "street": "Hegenheimermattweg",
+  "hn": "179",
+  "lat": 47.5618955,
+  "lng": 7.5544912,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|167b": {
+  "street": "Hegenheimermattweg",
+  "hn": "167b",
+  "lat": 47.5611369,
+  "lng": 7.5525408,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|150c": {
+  "street": "Hegenheimermattweg",
+  "hn": "150c",
+  "lat": 47.5604527,
+  "lng": 7.5528001,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|202": {
+  "street": "Hegenheimermattweg",
+  "hn": "202",
+  "lat": 47.5628196,
+  "lng": 7.5565979,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|255d": {
+  "street": "Baslerstrasse",
+  "hn": "255d",
+  "lat": 47.5558165,
+  "lng": 7.5562174,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|261": {
+  "street": "Baslerstrasse",
+  "hn": "261",
+  "lat": 47.5554008,
+  "lng": 7.5561875,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|48a": {
+  "street": "Baslerstrasse",
+  "hn": "48a",
+  "lat": 47.5513971,
+  "lng": 7.5392256,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|111": {
+  "street": "Oberwilerstrasse",
+  "hn": "111",
+  "lat": 47.5387841,
+  "lng": 7.5446481,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|90": {
+  "street": "Oberwilerstrasse",
+  "hn": "90",
+  "lat": 47.5435082,
+  "lng": 7.5398999,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|111e": {
+  "street": "Oberwilerstrasse",
+  "hn": "111e",
+  "lat": 47.538494,
+  "lng": 7.5447338,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|80": {
+  "street": "Oberwilerstrasse",
+  "hn": "80",
+  "lat": 47.544391,
+  "lng": 7.5385169,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|104a": {
+  "street": "Hegenheimermattweg",
+  "hn": "104a",
+  "lat": 47.557173,
+  "lng": 7.5473761,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|132": {
+  "street": "Hegenheimermattweg",
+  "hn": "132",
+  "lat": 47.557863,
+  "lng": 7.5485687,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|167": {
+  "street": "Hegenheimermattweg",
+  "hn": "167",
+  "lat": 47.5604113,
+  "lng": 7.5516438,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|167c": {
+  "street": "Hegenheimermattweg",
+  "hn": "167c",
+  "lat": 47.5616391,
+  "lng": 7.5518858,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|167d": {
+  "street": "Hegenheimermattweg",
+  "hn": "167d",
+  "lat": 47.5610438,
+  "lng": 7.5508155,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|95": {
+  "street": "Hegenheimermattweg",
+  "hn": "95",
+  "lat": 47.5571575,
+  "lng": 7.5459827,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|125c": {
+  "street": "Hegenheimermattweg",
+  "hn": "125c",
+  "lat": 47.559109,
+  "lng": 7.5487918,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|150a": {
+  "street": "Hegenheimermattweg",
+  "hn": "150a",
+  "lat": 47.5598489,
+  "lng": 7.5516154,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|104c": {
+  "street": "Hegenheimermattweg",
+  "hn": "104c",
+  "lat": 47.5567925,
+  "lng": 7.5465014,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|150": {
+  "street": "Hegenheimermattweg",
+  "hn": "150",
+  "lat": 47.5597071,
+  "lng": 7.5515823,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|130": {
+  "street": "Hegenheimermattweg",
+  "hn": "130",
+  "lat": 47.5577876,
+  "lng": 7.5484831,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|121": {
+  "street": "Hegenheimermattweg",
+  "hn": "121",
+  "lat": 47.5580207,
+  "lng": 7.5477481,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|91": {
+  "street": "Hegenheimermattweg",
+  "hn": "91",
+  "lat": 47.5565599,
+  "lng": 7.545484,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|150b": {
+  "street": "Hegenheimermattweg",
+  "hn": "150b",
+  "lat": 47.5600506,
+  "lng": 7.5519531,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|123": {
+  "street": "Hegenheimermattweg",
+  "hn": "123",
+  "lat": 47.5583457,
+  "lng": 7.5473362,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|302": {
+  "street": "Baslerstrasse",
+  "hn": "302",
+  "lat": 47.5573819,
+  "lng": 7.5598273,
+  "mieter": [
+   "Dem"
+  ]
+ },
+ "allschwil|baslerstrasse|290": {
+  "street": "Baslerstrasse",
+  "hn": "290",
+  "lat": 47.556855,
+  "lng": 7.5589452,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|286": {
+  "street": "Baslerstrasse",
+  "hn": "286",
+  "lat": 47.5565826,
+  "lng": 7.5587086,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|284a": {
+  "street": "Baslerstrasse",
+  "hn": "284a",
+  "lat": 47.5566085,
+  "lng": 7.5585426,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|300a": {
+  "street": "Baslerstrasse",
+  "hn": "300a",
+  "lat": 47.5571562,
+  "lng": 7.55969,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|326a": {
+  "street": "Baslerstrasse",
+  "hn": "326a",
+  "lat": 47.5574871,
+  "lng": 7.5610378,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|319": {
+  "street": "Baslerstrasse",
+  "hn": "319",
+  "lat": 47.557367,
+  "lng": 7.5593067,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|286d": {
+  "street": "Baslerstrasse",
+  "hn": "286d",
+  "lat": 47.5562557,
+  "lng": 7.5592565,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|328a": {
+  "street": "Baslerstrasse",
+  "hn": "328a",
+  "lat": 47.5575334,
+  "lng": 7.5611033,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|312b": {
+  "street": "Baslerstrasse",
+  "hn": "312b",
+  "lat": 47.5573376,
+  "lng": 7.5605439,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|325": {
+  "street": "Baslerstrasse",
+  "hn": "325",
+  "lat": 47.5578939,
+  "lng": 7.5611087,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|321": {
+  "street": "Baslerstrasse",
+  "hn": "321",
+  "lat": 47.5574093,
+  "lng": 7.5593861,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|303": {
+  "street": "Baslerstrasse",
+  "hn": "303",
+  "lat": 47.5568448,
+  "lng": 7.5578479,
+  "mieter": []
+ },
+ "allschwil|lindenplatz|6": {
+  "street": "Lindenplatz",
+  "hn": "6",
+  "lat": 47.5583019,
+  "lng": 7.5604298,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|270": {
+  "street": "Baslerstrasse",
+  "hn": "270",
+  "lat": 47.5560514,
+  "lng": 7.5579187,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|290a": {
+  "street": "Baslerstrasse",
+  "hn": "290a",
+  "lat": 47.5567431,
+  "lng": 7.5590138,
+  "mieter": []
+ },
+ "allschwil|lindenplatz|8": {
+  "street": "Lindenplatz",
+  "hn": "8",
+  "lat": 47.557897,
+  "lng": 7.560547,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|305": {
+  "street": "Baslerstrasse",
+  "hn": "305",
+  "lat": 47.5568395,
+  "lng": 7.5584675,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|300": {
+  "street": "Baslerstrasse",
+  "hn": "300",
+  "lat": 47.5572574,
+  "lng": 7.5595237,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|326": {
+  "street": "Baslerstrasse",
+  "hn": "326",
+  "lat": 47.5577341,
+  "lng": 7.560872,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|288": {
+  "street": "Baslerstrasse",
+  "hn": "288",
+  "lat": 47.5567129,
+  "lng": 7.5588204,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|286b": {
+  "street": "Baslerstrasse",
+  "hn": "286b",
+  "lat": 47.5564176,
+  "lng": 7.5589612,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|278": {
+  "street": "Baslerstrasse",
+  "hn": "278",
+  "lat": 47.5561745,
+  "lng": 7.5586781,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|272": {
+  "street": "Baslerstrasse",
+  "hn": "272",
+  "lat": 47.5562178,
+  "lng": 7.5581752,
+  "mieter": []
+ },
+ "allschwil|lindenplatz|4a": {
+  "street": "Lindenplatz",
+  "hn": "4a",
+  "lat": 47.5582843,
+  "lng": 7.5606921,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|286c": {
+  "street": "Baslerstrasse",
+  "hn": "286c",
+  "lat": 47.5563378,
+  "lng": 7.5591052,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|325a": {
+  "street": "Baslerstrasse",
+  "hn": "325a",
+  "lat": 47.5580115,
+  "lng": 7.5610242,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|316a": {
+  "street": "Baslerstrasse",
+  "hn": "316a",
+  "lat": 47.5574774,
+  "lng": 7.5605956,
+  "mieter": []
+ },
+ "allschwil|lindenplatz|6c": {
+  "street": "Lindenplatz",
+  "hn": "6c",
+  "lat": 47.5583826,
+  "lng": 7.560563,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|284": {
+  "street": "Baslerstrasse",
+  "hn": "284",
+  "lat": 47.5566241,
+  "lng": 7.5586006,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|328": {
+  "street": "Baslerstrasse",
+  "hn": "328",
+  "lat": 47.5577469,
+  "lng": 7.5610535,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|274": {
+  "street": "Baslerstrasse",
+  "hn": "274",
+  "lat": 47.5564037,
+  "lng": 7.5583992,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|60a": {
+  "street": "Oberwilerstrasse",
+  "hn": "60a",
+  "lat": 47.5459781,
+  "lng": 7.5369743,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|247a": {
+  "street": "Baslerstrasse",
+  "hn": "247a",
+  "lat": 47.554578,
+  "lng": 7.5542924,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|242": {
+  "street": "Baslerstrasse",
+  "hn": "242",
+  "lat": 47.5542374,
+  "lng": 7.5548552,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|231a": {
+  "street": "Baslerstrasse",
+  "hn": "231a",
+  "lat": 47.5540565,
+  "lng": 7.5530891,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|247": {
+  "street": "Baslerstrasse",
+  "hn": "247",
+  "lat": 47.5545041,
+  "lng": 7.5545482,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|222": {
+  "street": "Baslerstrasse",
+  "hn": "222",
+  "lat": 47.5532273,
+  "lng": 7.5527012,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|244": {
+  "street": "Baslerstrasse",
+  "hn": "244",
+  "lat": 47.5544545,
+  "lng": 7.5555092,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|243": {
+  "street": "Baslerstrasse",
+  "hn": "243",
+  "lat": 47.5544401,
+  "lng": 7.5541808,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|114i": {
+  "street": "Binningerstrasse",
+  "hn": "114i",
+  "lat": 47.5454694,
+  "lng": 7.5499634,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|183a": {
+  "street": "Baslerstrasse",
+  "hn": "183a",
+  "lat": 47.5532276,
+  "lng": 7.5497392,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|96a": {
+  "street": "Binningerstrasse",
+  "hn": "96a",
+  "lat": 47.5468677,
+  "lng": 7.5492762,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|123a": {
+  "street": "Binningerstrasse",
+  "hn": "123a",
+  "lat": 47.5478211,
+  "lng": 7.5502239,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|141": {
+  "street": "Binningerstrasse",
+  "hn": "141",
+  "lat": 47.5471287,
+  "lng": 7.5520759,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|187": {
+  "street": "Binningerstrasse",
+  "hn": "187",
+  "lat": 47.5464384,
+  "lng": 7.5549514,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|151": {
+  "street": "Binningerstrasse",
+  "hn": "151",
+  "lat": 47.546918,
+  "lng": 7.5528069,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|185b": {
+  "street": "Binningerstrasse",
+  "hn": "185b",
+  "lat": 47.5466463,
+  "lng": 7.5547648,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|189a": {
+  "street": "Binningerstrasse",
+  "hn": "189a",
+  "lat": 47.5465606,
+  "lng": 7.5551306,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|144a": {
+  "street": "Binningerstrasse",
+  "hn": "144a",
+  "lat": 47.5461606,
+  "lng": 7.5548734,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|116b": {
+  "street": "Binningerstrasse",
+  "hn": "116b",
+  "lat": 47.5450363,
+  "lng": 7.5520663,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|191": {
+  "street": "Binningerstrasse",
+  "hn": "191",
+  "lat": 47.5463941,
+  "lng": 7.5551486,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|159": {
+  "street": "Binningerstrasse",
+  "hn": "159",
+  "lat": 47.5468268,
+  "lng": 7.5532175,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|193a": {
+  "street": "Binningerstrasse",
+  "hn": "193a",
+  "lat": 47.5466444,
+  "lng": 7.5555251,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|175": {
+  "street": "Binningerstrasse",
+  "hn": "175",
+  "lat": 47.5465647,
+  "lng": 7.5543907,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|191a": {
+  "street": "Binningerstrasse",
+  "hn": "191a",
+  "lat": 47.5465578,
+  "lng": 7.5553178,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|187a": {
+  "street": "Binningerstrasse",
+  "hn": "187a",
+  "lat": 47.5465907,
+  "lng": 7.555043,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|173a": {
+  "street": "Binningerstrasse",
+  "hn": "173a",
+  "lat": 47.5467664,
+  "lng": 7.5542527,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|167a": {
+  "street": "Binningerstrasse",
+  "hn": "167a",
+  "lat": 47.5468299,
+  "lng": 7.553878,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|45c": {
+  "street": "Oberwilerstrasse",
+  "hn": "45c",
+  "lat": 47.5490931,
+  "lng": 7.5386207,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|33": {
+  "street": "Hegenheimermattweg",
+  "hn": "33",
+  "lat": 47.5537687,
+  "lng": 7.5410042,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|56": {
+  "street": "Baslerstrasse",
+  "hn": "56",
+  "lat": 47.5517271,
+  "lng": 7.5395738,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|61": {
+  "street": "Oberwilerstrasse",
+  "hn": "61",
+  "lat": 47.5481688,
+  "lng": 7.5388969,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|24b": {
+  "street": "Binningerstrasse",
+  "hn": "24b",
+  "lat": 47.5506091,
+  "lng": 7.5408303,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|85e": {
+  "street": "Binningerstrasse",
+  "hn": "85e",
+  "lat": 47.5489294,
+  "lng": 7.5456852,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|107e": {
+  "street": "Binningerstrasse",
+  "hn": "107e",
+  "lat": 47.5480041,
+  "lng": 7.5489554,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|85": {
+  "street": "Hegenheimermattweg",
+  "hn": "85",
+  "lat": 47.5560798,
+  "lng": 7.5447628,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|60": {
+  "street": "Hegenheimermattweg",
+  "hn": "60",
+  "lat": 47.5547233,
+  "lng": 7.5431683,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|82a": {
+  "street": "Hegenheimermattweg",
+  "hn": "82a",
+  "lat": 47.5555288,
+  "lng": 7.5455857,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|82": {
+  "street": "Hegenheimermattweg",
+  "hn": "82",
+  "lat": 47.5557498,
+  "lng": 7.5457546,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|89": {
+  "street": "Hegenheimermattweg",
+  "hn": "89",
+  "lat": 47.5562759,
+  "lng": 7.5450379,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|70c": {
+  "street": "Hegenheimermattweg",
+  "hn": "70c",
+  "lat": 47.5546213,
+  "lng": 7.5441669,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|75a": {
+  "street": "Hegenheimermattweg",
+  "hn": "75a",
+  "lat": 47.5558373,
+  "lng": 7.5434789,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|80": {
+  "street": "Hegenheimermattweg",
+  "hn": "80",
+  "lat": 47.5560021,
+  "lng": 7.545401,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|55a": {
+  "street": "Hegenheimermattweg",
+  "hn": "55a",
+  "lat": 47.5545818,
+  "lng": 7.5419723,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|61a": {
+  "street": "Hegenheimermattweg",
+  "hn": "61a",
+  "lat": 47.5547748,
+  "lng": 7.5426518,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|75": {
+  "street": "Oberwilerstrasse",
+  "hn": "75",
+  "lat": 47.5461594,
+  "lng": 7.5385455,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|40a": {
+  "street": "Baslerstrasse",
+  "hn": "40a",
+  "lat": 47.5510263,
+  "lng": 7.5389154,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|49a": {
+  "street": "Oberwilerstrasse",
+  "hn": "49a",
+  "lat": 47.5487838,
+  "lng": 7.5386535,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|14": {
+  "street": "Hegenheimermattweg",
+  "hn": "14",
+  "lat": 47.5525644,
+  "lng": 7.5396628,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|24a": {
+  "street": "Binningerstrasse",
+  "hn": "24a",
+  "lat": 47.5506091,
+  "lng": 7.5408303,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|85c": {
+  "street": "Binningerstrasse",
+  "hn": "85c",
+  "lat": 47.5489923,
+  "lng": 7.545672,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|262": {
+  "street": "Baslerstrasse",
+  "hn": "262",
+  "lat": 47.5549286,
+  "lng": 7.5580899,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|150": {
+  "street": "Oberwilerstrasse",
+  "hn": "150",
+  "lat": 47.5317367,
+  "lng": 7.5409668,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|85b": {
+  "street": "Binningerstrasse",
+  "hn": "85b",
+  "lat": 47.5486205,
+  "lng": 7.5453637,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|195": {
+  "street": "Baslerstrasse",
+  "hn": "195",
+  "lat": 47.5535361,
+  "lng": 7.5505429,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|233": {
+  "street": "Baslerstrasse",
+  "hn": "233",
+  "lat": 47.5540193,
+  "lng": 7.5533304,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|144b": {
+  "street": "Binningerstrasse",
+  "hn": "144b",
+  "lat": 47.545862,
+  "lng": 7.5547142,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|144": {
+  "street": "Binningerstrasse",
+  "hn": "144",
+  "lat": 47.5462839,
+  "lng": 7.5549119,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|183a": {
+  "street": "Binningerstrasse",
+  "hn": "183a",
+  "lat": 47.5465976,
+  "lng": 7.5548435,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|195a": {
+  "street": "Baslerstrasse",
+  "hn": "195a",
+  "lat": 47.5536667,
+  "lng": 7.5504145,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|179": {
+  "street": "Binningerstrasse",
+  "hn": "179",
+  "lat": 47.5465198,
+  "lng": 7.5545898,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|155": {
+  "street": "Binningerstrasse",
+  "hn": "155",
+  "lat": 47.5469936,
+  "lng": 7.5531362,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|153": {
+  "street": "Binningerstrasse",
+  "hn": "153",
+  "lat": 47.5468977,
+  "lng": 7.5528989,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|235": {
+  "street": "Baslerstrasse",
+  "hn": "235",
+  "lat": 47.554077,
+  "lng": 7.553413,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|224": {
+  "street": "Baslerstrasse",
+  "hn": "224",
+  "lat": 47.5535047,
+  "lng": 7.5528401,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|189": {
+  "street": "Binningerstrasse",
+  "hn": "189",
+  "lat": 47.546417,
+  "lng": 7.5550464,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|226": {
+  "street": "Baslerstrasse",
+  "hn": "226",
+  "lat": 47.5536584,
+  "lng": 7.5532585,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|48": {
+  "street": "Hegenheimermattweg",
+  "hn": "48",
+  "lat": 47.5543129,
+  "lng": 7.5423641,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|94b": {
+  "street": "Baslerstrasse",
+  "hn": "94b",
+  "lat": 47.5526475,
+  "lng": 7.5423722,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|37a": {
+  "street": "Binningerstrasse",
+  "hn": "37a",
+  "lat": 47.5505861,
+  "lng": 7.5414452,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|50": {
+  "street": "Hegenheimermattweg",
+  "hn": "50",
+  "lat": 47.5544563,
+  "lng": 7.5426046,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|66a": {
+  "street": "Hegenheimermattweg",
+  "hn": "66a",
+  "lat": 47.5549449,
+  "lng": 7.5437797,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|339": {
+  "street": "Baslerstrasse",
+  "hn": "339",
+  "lat": 47.5577387,
+  "lng": 7.562453,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|345": {
+  "street": "Baslerstrasse",
+  "hn": "345",
+  "lat": 47.5575891,
+  "lng": 7.562862,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|362": {
+  "street": "Baslerstrasse",
+  "hn": "362",
+  "lat": 47.5570161,
+  "lng": 7.5640164,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|360": {
+  "street": "Baslerstrasse",
+  "hn": "360",
+  "lat": 47.5570764,
+  "lng": 7.5637435,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|354": {
+  "street": "Baslerstrasse",
+  "hn": "354",
+  "lat": 47.5571984,
+  "lng": 7.5632464,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|327": {
+  "street": "Baslerstrasse",
+  "hn": "327",
+  "lat": 47.5578914,
+  "lng": 7.5612366,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|337": {
+  "street": "Baslerstrasse",
+  "hn": "337",
+  "lat": 47.5577469,
+  "lng": 7.5622316,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|348": {
+  "street": "Baslerstrasse",
+  "hn": "348",
+  "lat": 47.5574254,
+  "lng": 7.5624463,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|343": {
+  "street": "Baslerstrasse",
+  "hn": "343",
+  "lat": 47.558108,
+  "lng": 7.5629846,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|332": {
+  "street": "Baslerstrasse",
+  "hn": "332",
+  "lat": 47.5576497,
+  "lng": 7.5615494,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|358a": {
+  "street": "Baslerstrasse",
+  "hn": "358a",
+  "lat": 47.5569859,
+  "lng": 7.5635415,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|330": {
+  "street": "Baslerstrasse",
+  "hn": "330",
+  "lat": 47.5577492,
+  "lng": 7.5611355,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|364": {
+  "street": "Baslerstrasse",
+  "hn": "364",
+  "lat": 47.5569885,
+  "lng": 7.5641165,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|350": {
+  "street": "Baslerstrasse",
+  "hn": "350",
+  "lat": 47.5573467,
+  "lng": 7.562724,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|341": {
+  "street": "Baslerstrasse",
+  "hn": "341",
+  "lat": 47.5579736,
+  "lng": 7.5628641,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|356a": {
+  "street": "Baslerstrasse",
+  "hn": "356a",
+  "lat": 47.5571373,
+  "lng": 7.5633687,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|360a": {
+  "street": "Baslerstrasse",
+  "hn": "360a",
+  "lat": 47.556938,
+  "lng": 7.5636992,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|335": {
+  "street": "Baslerstrasse",
+  "hn": "335",
+  "lat": 47.5577728,
+  "lng": 7.5619844,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|356": {
+  "street": "Baslerstrasse",
+  "hn": "356",
+  "lat": 47.5571506,
+  "lng": 7.5634806,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|353b": {
+  "street": "Baslerstrasse",
+  "hn": "353b",
+  "lat": 47.5576427,
+  "lng": 7.5637137,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|353a": {
+  "street": "Baslerstrasse",
+  "hn": "353a",
+  "lat": 47.5574956,
+  "lng": 7.5635238,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|358": {
+  "street": "Baslerstrasse",
+  "hn": "358",
+  "lat": 47.5571291,
+  "lng": 7.5635558,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|351": {
+  "street": "Baslerstrasse",
+  "hn": "351",
+  "lat": 47.5574194,
+  "lng": 7.5632439,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|335a": {
+  "street": "Baslerstrasse",
+  "hn": "335a",
+  "lat": 47.5579059,
+  "lng": 7.5622139,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|353": {
+  "street": "Baslerstrasse",
+  "hn": "353",
+  "lat": 47.5573878,
+  "lng": 7.5633524,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|352": {
+  "street": "Baslerstrasse",
+  "hn": "352",
+  "lat": 47.5573059,
+  "lng": 7.5628675,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|349": {
+  "street": "Baslerstrasse",
+  "hn": "349",
+  "lat": 47.557523,
+  "lng": 7.5630586,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|327a": {
+  "street": "Baslerstrasse",
+  "hn": "327a",
+  "lat": 47.5580526,
+  "lng": 7.5612477,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|347": {
+  "street": "Baslerstrasse",
+  "hn": "347",
+  "lat": 47.5579029,
+  "lng": 7.563229,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|70b": {
+  "street": "Hegenheimermattweg",
+  "hn": "70b",
+  "lat": 47.5546081,
+  "lng": 7.5443565,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|64": {
+  "street": "Hegenheimermattweg",
+  "hn": "64",
+  "lat": 47.5548455,
+  "lng": 7.5432863,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|55b": {
+  "street": "Hegenheimermattweg",
+  "hn": "55b",
+  "lat": 47.5546866,
+  "lng": 7.5418334,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|55": {
+  "street": "Hegenheimermattweg",
+  "hn": "55",
+  "lat": 47.554454,
+  "lng": 7.542133,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|101d": {
+  "street": "Oberwilerstrasse",
+  "hn": "101d",
+  "lat": 47.5402769,
+  "lng": 7.5441491,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|101a": {
+  "street": "Oberwilerstrasse",
+  "hn": "101a",
+  "lat": 47.5401436,
+  "lng": 7.5438162,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|105a": {
+  "street": "Oberwilerstrasse",
+  "hn": "105a",
+  "lat": 47.5398004,
+  "lng": 7.5443338,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|181": {
+  "street": "Binningerstrasse",
+  "hn": "181",
+  "lat": 47.5465002,
+  "lng": 7.5546773,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|183": {
+  "street": "Binningerstrasse",
+  "hn": "183",
+  "lat": 47.5464806,
+  "lng": 7.5547646,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|220": {
+  "street": "Baslerstrasse",
+  "hn": "220",
+  "lat": 47.5533345,
+  "lng": 7.5523861,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|116": {
+  "street": "Binningerstrasse",
+  "hn": "116",
+  "lat": 47.5452172,
+  "lng": 7.5523618,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|167": {
+  "street": "Binningerstrasse",
+  "hn": "167",
+  "lat": 47.5467004,
+  "lng": 7.553798,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|157": {
+  "street": "Binningerstrasse",
+  "hn": "157",
+  "lat": 47.546848,
+  "lng": 7.5531265,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|143c": {
+  "street": "Binningerstrasse",
+  "hn": "143c",
+  "lat": 47.5474501,
+  "lng": 7.5523783,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|201": {
+  "street": "Baslerstrasse",
+  "hn": "201",
+  "lat": 47.5537529,
+  "lng": 7.552482,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|200": {
+  "street": "Hegenheimermattweg",
+  "hn": "200",
+  "lat": 47.5621316,
+  "lng": 7.5554461,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|185": {
+  "street": "Binningerstrasse",
+  "hn": "185",
+  "lat": 47.5464605,
+  "lng": 7.5548541,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|193": {
+  "street": "Binningerstrasse",
+  "hn": "193",
+  "lat": 47.5463937,
+  "lng": 7.5554616,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|177": {
+  "street": "Binningerstrasse",
+  "hn": "177",
+  "lat": 47.5465399,
+  "lng": 7.5545009,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|116a": {
+  "street": "Binningerstrasse",
+  "hn": "116a",
+  "lat": 47.5453024,
+  "lng": 7.5520021,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|275": {
+  "street": "Baslerstrasse",
+  "hn": "275",
+  "lat": 47.5558557,
+  "lng": 7.5571389,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|267": {
+  "street": "Baslerstrasse",
+  "hn": "267",
+  "lat": 47.5555533,
+  "lng": 7.5567248,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|303a": {
+  "street": "Baslerstrasse",
+  "hn": "303a",
+  "lat": 47.5567573,
+  "lng": 7.5578466,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|43a": {
+  "street": "Baslerstrasse",
+  "hn": "43a",
+  "lat": 47.5521065,
+  "lng": 7.5391943,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|8a": {
+  "street": "Binningerstrasse",
+  "hn": "8a",
+  "lat": 47.5515794,
+  "lng": 7.5399934,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|366": {
+  "street": "Baslerstrasse",
+  "hn": "366",
+  "lat": 47.5569601,
+  "lng": 7.5643633,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|265": {
+  "street": "Baslerstrasse",
+  "hn": "265",
+  "lat": 47.555422,
+  "lng": 7.5565465,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|273": {
+  "street": "Baslerstrasse",
+  "hn": "273",
+  "lat": 47.5557702,
+  "lng": 7.5570233,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|231": {
+  "street": "Baslerstrasse",
+  "hn": "231",
+  "lat": 47.5539635,
+  "lng": 7.5532446,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|156": {
+  "street": "Binningerstrasse",
+  "hn": "156",
+  "lat": 47.5459925,
+  "lng": 7.5562544,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|312": {
+  "street": "Baslerstrasse",
+  "hn": "312",
+  "lat": 47.5575991,
+  "lng": 7.5603666,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|50a": {
+  "street": "Baslerstrasse",
+  "hn": "50a",
+  "lat": 47.5513477,
+  "lng": 7.5394778,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|43": {
+  "street": "Baslerstrasse",
+  "hn": "43",
+  "lat": 47.5520904,
+  "lng": 7.5391532,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|317": {
+  "street": "Baslerstrasse",
+  "hn": "317",
+  "lat": 47.5573242,
+  "lng": 7.5592284,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|84": {
+  "street": "Binningerstrasse",
+  "hn": "84",
+  "lat": 47.5477744,
+  "lng": 7.546773,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "allschwil|binningerstrasse|123": {
+  "street": "Binningerstrasse",
+  "hn": "123",
+  "lat": 47.5476347,
+  "lng": 7.5500727,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|24": {
+  "street": "Binningerstrasse",
+  "hn": "24",
+  "lat": 47.5506686,
+  "lng": 7.540773,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|8": {
+  "street": "Binningerstrasse",
+  "hn": "8",
+  "lat": 47.5516535,
+  "lng": 7.53996,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|112": {
+  "street": "Hegenheimermattweg",
+  "hn": "112",
+  "lat": 47.5561899,
+  "lng": 7.5471646,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|110c": {
+  "street": "Binningerstrasse",
+  "hn": "110c",
+  "lat": 47.5450249,
+  "lng": 7.548851,
+  "mieter": [
+   "Yoko Sunset Bar"
+  ]
+ },
+ "allschwil|baslerstrasse|197": {
+  "street": "Baslerstrasse",
+  "hn": "197",
+  "lat": 47.5532146,
+  "lng": 7.550857,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|199": {
+  "street": "Baslerstrasse",
+  "hn": "199",
+  "lat": 47.553349,
+  "lng": 7.5510327,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|193": {
+  "street": "Baslerstrasse",
+  "hn": "193",
+  "lat": 47.5531352,
+  "lng": 7.5506401,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|167": {
+  "street": "Baslerstrasse",
+  "hn": "167",
+  "lat": 47.5519982,
+  "lng": 7.5486461,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|92": {
+  "street": "Binningerstrasse",
+  "hn": "92",
+  "lat": 47.5473421,
+  "lng": 7.5480046,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|74": {
+  "street": "Binningerstrasse",
+  "hn": "74",
+  "lat": 47.5480212,
+  "lng": 7.5449882,
+  "mieter": [
+   "Jumbo",
+   "Ziegelei Kebap und Pizza Haus"
+  ]
+ },
+ "allschwil|binningerstrasse|96": {
+  "street": "Binningerstrasse",
+  "hn": "96",
+  "lat": 47.547116,
+  "lng": 7.5488785,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|90": {
+  "street": "Binningerstrasse",
+  "hn": "90",
+  "lat": 47.5476794,
+  "lng": 7.5481866,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|91d": {
+  "street": "Binningerstrasse",
+  "hn": "91d",
+  "lat": 47.548753,
+  "lng": 7.5464189,
+  "mieter": [
+   "Migrol"
+  ]
+ },
+ "allschwil|binningerstrasse|91c": {
+  "street": "Binningerstrasse",
+  "hn": "91c",
+  "lat": 47.5485412,
+  "lng": 7.5461745,
+  "mieter": [
+   "Migrolino"
+  ]
+ },
+ "allschwil|binningerstrasse|112": {
+  "street": "Binningerstrasse",
+  "hn": "112",
+  "lat": 47.5471153,
+  "lng": 7.5511404,
+  "mieter": [
+   "Auto Aebi"
+  ]
+ },
+ "allschwil|binningerstrasse|145": {
+  "street": "Binningerstrasse",
+  "hn": "145",
+  "lat": 47.5470931,
+  "lng": 7.5524935,
+  "mieter": [
+   "Restaurant Pizzeria Sonneck"
+  ]
+ },
+ "allschwil|binningerstrasse|152": {
+  "street": "Binningerstrasse",
+  "hn": "152",
+  "lat": 47.5460267,
+  "lng": 7.5557238,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|108": {
+  "street": "Binningerstrasse",
+  "hn": "108",
+  "lat": 47.5472528,
+  "lng": 7.5505946,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|139": {
+  "street": "Binningerstrasse",
+  "hn": "139",
+  "lat": 47.5472708,
+  "lng": 7.5519435,
+  "mieter": [
+   "Marcel Fischer AG"
+  ]
+ },
+ "allschwil|binningerstrasse|129": {
+  "street": "Binningerstrasse",
+  "hn": "129",
+  "lat": 47.5474318,
+  "lng": 7.5507477,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|107c": {
+  "street": "Binningerstrasse",
+  "hn": "107c",
+  "lat": 47.5485284,
+  "lng": 7.5493434,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|107a": {
+  "street": "Binningerstrasse",
+  "hn": "107a",
+  "lat": 47.5482126,
+  "lng": 7.5488099,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|127": {
+  "street": "Binningerstrasse",
+  "hn": "127",
+  "lat": 47.5476028,
+  "lng": 7.5505447,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|117": {
+  "street": "Binningerstrasse",
+  "hn": "117",
+  "lat": 47.5478182,
+  "lng": 7.5496752,
+  "mieter": [
+   "Merkur Garage"
+  ]
+ },
+ "allschwil|binningerstrasse|129b": {
+  "street": "Binningerstrasse",
+  "hn": "129b",
+  "lat": 47.5476231,
+  "lng": 7.5509695,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|115": {
+  "street": "Binningerstrasse",
+  "hn": "115",
+  "lat": 47.5478562,
+  "lng": 7.5492936,
+  "mieter": [
+   "Blaser Glas Expo"
+  ]
+ },
+ "allschwil|binningerstrasse|97a": {
+  "street": "Binningerstrasse",
+  "hn": "97a",
+  "lat": 47.548679,
+  "lng": 7.5475073,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|97b": {
+  "street": "Binningerstrasse",
+  "hn": "97b",
+  "lat": 47.5483986,
+  "lng": 7.547353,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|97": {
+  "street": "Binningerstrasse",
+  "hn": "97",
+  "lat": 47.5482708,
+  "lng": 7.5472591,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|76": {
+  "street": "Hegenheimermattweg",
+  "hn": "76",
+  "lat": 47.5554499,
+  "lng": 7.5444638,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|70": {
+  "street": "Hegenheimermattweg",
+  "hn": "70",
+  "lat": 47.5551052,
+  "lng": 7.5440384,
+  "mieter": [
+   "Kinder- & Familien Freizeithaus Allschwil"
+  ]
+ },
+ "allschwil|hegenheimermattweg|65": {
+  "street": "Hegenheimermattweg",
+  "hn": "65",
+  "lat": 47.5554724,
+  "lng": 7.543473,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|75": {
+  "street": "Hegenheimermattweg",
+  "hn": "75",
+  "lat": 47.5557822,
+  "lng": 7.5439856,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|42": {
+  "street": "Hegenheimermattweg",
+  "hn": "42",
+  "lat": 47.5538349,
+  "lng": 7.5416252,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|101": {
+  "street": "Baslerstrasse",
+  "hn": "101",
+  "lat": 47.5527546,
+  "lng": 7.5451591,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|355": {
+  "street": "Baslerstrasse",
+  "hn": "355",
+  "lat": 47.557446,
+  "lng": 7.5638809,
+  "mieter": [
+   "Zic Zac Basel"
+  ]
+ },
+ "allschwil|hegenheimermattweg|57": {
+  "street": "Hegenheimermattweg",
+  "hn": "57",
+  "lat": 47.5547318,
+  "lng": 7.5423211,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|61": {
+  "street": "Hegenheimermattweg",
+  "hn": "61",
+  "lat": 47.555266,
+  "lng": 7.5426689,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|127": {
+  "street": "Hegenheimermattweg",
+  "hn": "127",
+  "lat": 47.5594341,
+  "lng": 7.5498907,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|85": {
+  "street": "Binningerstrasse",
+  "hn": "85",
+  "lat": 47.5488203,
+  "lng": 7.5454709,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|107": {
+  "street": "Binningerstrasse",
+  "hn": "107",
+  "lat": 47.5480121,
+  "lng": 7.5485355,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|70a": {
+  "street": "Binningerstrasse",
+  "hn": "70a",
+  "lat": 47.5483807,
+  "lng": 7.5440182,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|66": {
+  "street": "Binningerstrasse",
+  "hn": "66",
+  "lat": 47.5487111,
+  "lng": 7.5437199,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|62": {
+  "street": "Binningerstrasse",
+  "hn": "62",
+  "lat": 47.548927,
+  "lng": 7.5431455,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|48": {
+  "street": "Binningerstrasse",
+  "hn": "48",
+  "lat": 47.549161,
+  "lng": 7.5427376,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|46": {
+  "street": "Binningerstrasse",
+  "hn": "46",
+  "lat": 47.5493669,
+  "lng": 7.5423627,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|59": {
+  "street": "Binningerstrasse",
+  "hn": "59",
+  "lat": 47.5495042,
+  "lng": 7.5428998,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|61a": {
+  "street": "Binningerstrasse",
+  "hn": "61a",
+  "lat": 47.5496147,
+  "lng": 7.5430662,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|55": {
+  "street": "Binningerstrasse",
+  "hn": "55",
+  "lat": 47.5499167,
+  "lng": 7.5429119,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|96": {
+  "street": "Baslerstrasse",
+  "hn": "96",
+  "lat": 47.5525605,
+  "lng": 7.5431157,
+  "mieter": [
+   "UBS"
+  ]
+ },
+ "allschwil|baslerstrasse|172": {
+  "street": "Baslerstrasse",
+  "hn": "172",
+  "lat": 47.5514797,
+  "lng": 7.5490289,
+  "mieter": [
+   "Basellandschaftliche Kantonalbank"
+  ]
+ },
+ "allschwil|binningerstrasse|1": {
+  "street": "Binningerstrasse",
+  "hn": "1",
+  "lat": 47.5520597,
+  "lng": 7.540153,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|10": {
+  "street": "Binningerstrasse",
+  "hn": "10",
+  "lat": 47.551375,
+  "lng": 7.5400957,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|20": {
+  "street": "Binningerstrasse",
+  "hn": "20",
+  "lat": 47.5508593,
+  "lng": 7.5404584,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|42": {
+  "street": "Binningerstrasse",
+  "hn": "42",
+  "lat": 47.5498379,
+  "lng": 7.5416957,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|45": {
+  "street": "Binningerstrasse",
+  "hn": "45",
+  "lat": 47.5502293,
+  "lng": 7.5419644,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|43": {
+  "street": "Binningerstrasse",
+  "hn": "43",
+  "lat": 47.5503073,
+  "lng": 7.5417315,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|39": {
+  "street": "Binningerstrasse",
+  "hn": "39",
+  "lat": 47.5504464,
+  "lng": 7.5414819,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|37": {
+  "street": "Binningerstrasse",
+  "hn": "37",
+  "lat": 47.5505747,
+  "lng": 7.5413298,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|9": {
+  "street": "Binningerstrasse",
+  "hn": "9",
+  "lat": 47.5516758,
+  "lng": 7.540475,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|13": {
+  "street": "Binningerstrasse",
+  "hn": "13",
+  "lat": 47.5511863,
+  "lng": 7.540813,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|115a": {
+  "street": "Binningerstrasse",
+  "hn": "115a",
+  "lat": 47.5483009,
+  "lng": 7.5495588,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|83": {
+  "street": "Binningerstrasse",
+  "hn": "83",
+  "lat": 47.5489646,
+  "lng": 7.5452027,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|81": {
+  "street": "Binningerstrasse",
+  "hn": "81",
+  "lat": 47.5487794,
+  "lng": 7.54504,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|79": {
+  "street": "Binningerstrasse",
+  "hn": "79",
+  "lat": 47.5486421,
+  "lng": 7.5449587,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|114f": {
+  "street": "Binningerstrasse",
+  "hn": "114f",
+  "lat": 47.5469319,
+  "lng": 7.5510682,
+  "mieter": [
+   "Zoo Häner"
+  ]
+ },
+ "allschwil|binningerstrasse|104a": {
+  "street": "Binningerstrasse",
+  "hn": "104a",
+  "lat": 47.5466954,
+  "lng": 7.5493982,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|99b": {
+  "street": "Binningerstrasse",
+  "hn": "99b",
+  "lat": 47.5485845,
+  "lng": 7.5477675,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|99a": {
+  "street": "Binningerstrasse",
+  "hn": "99a",
+  "lat": 47.5484158,
+  "lng": 7.5475797,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|86a": {
+  "street": "Binningerstrasse",
+  "hn": "86a",
+  "lat": 47.5471292,
+  "lng": 7.5475959,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|106": {
+  "street": "Binningerstrasse",
+  "hn": "106",
+  "lat": 47.5466571,
+  "lng": 7.5497965,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|110a": {
+  "street": "Binningerstrasse",
+  "hn": "110a",
+  "lat": 47.5459922,
+  "lng": 7.5501031,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|110d": {
+  "street": "Binningerstrasse",
+  "hn": "110d",
+  "lat": 47.5456,
+  "lng": 7.5494867,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|110b": {
+  "street": "Binningerstrasse",
+  "hn": "110b",
+  "lat": 47.5458732,
+  "lng": 7.5504858,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|114g": {
+  "street": "Binningerstrasse",
+  "hn": "114g",
+  "lat": 47.5456512,
+  "lng": 7.5502185,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|106c": {
+  "street": "Binningerstrasse",
+  "hn": "106c",
+  "lat": 47.5452474,
+  "lng": 7.548596,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|166": {
+  "street": "Baslerstrasse",
+  "hn": "166",
+  "lat": 47.5513426,
+  "lng": 7.5483043,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|164": {
+  "street": "Baslerstrasse",
+  "hn": "164",
+  "lat": 47.551422,
+  "lng": 7.548128,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|162": {
+  "street": "Baslerstrasse",
+  "hn": "162",
+  "lat": 47.5514942,
+  "lng": 7.5477993,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|160": {
+  "street": "Baslerstrasse",
+  "hn": "160",
+  "lat": 47.551583,
+  "lng": 7.5474787,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|156": {
+  "street": "Baslerstrasse",
+  "hn": "156",
+  "lat": 47.551702,
+  "lng": 7.5471677,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|158": {
+  "street": "Baslerstrasse",
+  "hn": "158",
+  "lat": 47.5515673,
+  "lng": 7.5469986,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|152": {
+  "street": "Baslerstrasse",
+  "hn": "152",
+  "lat": 47.5518151,
+  "lng": 7.5468347,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|150": {
+  "street": "Baslerstrasse",
+  "hn": "150",
+  "lat": 47.5518406,
+  "lng": 7.5467446,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|148": {
+  "street": "Baslerstrasse",
+  "hn": "148",
+  "lat": 47.5518624,
+  "lng": 7.5466016,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|144": {
+  "street": "Baslerstrasse",
+  "hn": "144",
+  "lat": 47.5517421,
+  "lng": 7.5463167,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|142a": {
+  "street": "Baslerstrasse",
+  "hn": "142a",
+  "lat": 47.5516123,
+  "lng": 7.5460382,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|142": {
+  "street": "Baslerstrasse",
+  "hn": "142",
+  "lat": 47.5519725,
+  "lng": 7.5462519,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|142b": {
+  "street": "Baslerstrasse",
+  "hn": "142b",
+  "lat": 47.5519163,
+  "lng": 7.5461039,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|140": {
+  "street": "Baslerstrasse",
+  "hn": "140",
+  "lat": 47.5520167,
+  "lng": 7.5460265,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|134": {
+  "street": "Baslerstrasse",
+  "hn": "134",
+  "lat": 47.5520706,
+  "lng": 7.5457931,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|130": {
+  "street": "Baslerstrasse",
+  "hn": "130",
+  "lat": 47.5522208,
+  "lng": 7.5454013,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|132": {
+  "street": "Baslerstrasse",
+  "hn": "132",
+  "lat": 47.5521948,
+  "lng": 7.5455066,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|130a": {
+  "street": "Baslerstrasse",
+  "hn": "130a",
+  "lat": 47.5520534,
+  "lng": 7.5453062,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|132a": {
+  "street": "Baslerstrasse",
+  "hn": "132a",
+  "lat": 47.5520324,
+  "lng": 7.5453827,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|120a": {
+  "street": "Baslerstrasse",
+  "hn": "120a",
+  "lat": 47.5519992,
+  "lng": 7.5445455,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|122a": {
+  "street": "Baslerstrasse",
+  "hn": "122a",
+  "lat": 47.551983,
+  "lng": 7.5446585,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|114": {
+  "street": "Baslerstrasse",
+  "hn": "114",
+  "lat": 47.5523139,
+  "lng": 7.5443848,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|116": {
+  "street": "Baslerstrasse",
+  "hn": "116",
+  "lat": 47.5521695,
+  "lng": 7.5443181,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|110": {
+  "street": "Baslerstrasse",
+  "hn": "110",
+  "lat": 47.5524546,
+  "lng": 7.5438672,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|112": {
+  "street": "Baslerstrasse",
+  "hn": "112",
+  "lat": 47.552404,
+  "lng": 7.5440512,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|61": {
+  "street": "Binningerstrasse",
+  "hn": "61",
+  "lat": 47.549472,
+  "lng": 7.5430194,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|59a": {
+  "street": "Binningerstrasse",
+  "hn": "59a",
+  "lat": 47.5496145,
+  "lng": 7.5430044,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|36": {
+  "street": "Binningerstrasse",
+  "hn": "36",
+  "lat": 47.5501951,
+  "lng": 7.5411244,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|38": {
+  "street": "Binningerstrasse",
+  "hn": "38",
+  "lat": 47.5501038,
+  "lng": 7.541293,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|40": {
+  "street": "Binningerstrasse",
+  "hn": "40",
+  "lat": 47.5499993,
+  "lng": 7.5414272,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|64": {
+  "street": "Binningerstrasse",
+  "hn": "64",
+  "lat": 47.5488394,
+  "lng": 7.543343,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|11": {
+  "street": "Binningerstrasse",
+  "hn": "11",
+  "lat": 47.5512708,
+  "lng": 7.540758,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|25": {
+  "street": "Binningerstrasse",
+  "hn": "25",
+  "lat": 47.5513374,
+  "lng": 7.541066,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|27": {
+  "street": "Binningerstrasse",
+  "hn": "27",
+  "lat": 47.5514248,
+  "lng": 7.5412373,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|27a": {
+  "street": "Binningerstrasse",
+  "hn": "27a",
+  "lat": 47.5513495,
+  "lng": 7.5413526,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|62": {
+  "street": "Baslerstrasse",
+  "hn": "62",
+  "lat": 47.5521546,
+  "lng": 7.5401819,
+  "mieter": [
+   "Dinvest Immobilien"
+  ]
+ },
+ "allschwil|binningerstrasse|3": {
+  "street": "Binningerstrasse",
+  "hn": "3",
+  "lat": 47.5521426,
+  "lng": 7.5403471,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|94": {
+  "street": "Baslerstrasse",
+  "hn": "94",
+  "lat": 47.5527457,
+  "lng": 7.54258,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|92": {
+  "street": "Baslerstrasse",
+  "hn": "92",
+  "lat": 47.5528125,
+  "lng": 7.5424151,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|90": {
+  "street": "Baslerstrasse",
+  "hn": "90",
+  "lat": 47.5528208,
+  "lng": 7.5421667,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|90a": {
+  "street": "Baslerstrasse",
+  "hn": "90a",
+  "lat": 47.5527668,
+  "lng": 7.5422743,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|88": {
+  "street": "Baslerstrasse",
+  "hn": "88",
+  "lat": 47.5527421,
+  "lng": 7.5419779,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|94a": {
+  "street": "Baslerstrasse",
+  "hn": "94a",
+  "lat": 47.5525409,
+  "lng": 7.5420656,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|88a": {
+  "street": "Baslerstrasse",
+  "hn": "88a",
+  "lat": 47.5526229,
+  "lng": 7.5420225,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|86a": {
+  "street": "Baslerstrasse",
+  "hn": "86a",
+  "lat": 47.5525588,
+  "lng": 7.5419034,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|86": {
+  "street": "Baslerstrasse",
+  "hn": "86",
+  "lat": 47.5526649,
+  "lng": 7.5418031,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|84": {
+  "street": "Baslerstrasse",
+  "hn": "84",
+  "lat": 47.5526272,
+  "lng": 7.5417242,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|80": {
+  "street": "Baslerstrasse",
+  "hn": "80",
+  "lat": 47.552598,
+  "lng": 7.541462,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|82": {
+  "street": "Baslerstrasse",
+  "hn": "82",
+  "lat": 47.5526228,
+  "lng": 7.5415503,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|82a": {
+  "street": "Baslerstrasse",
+  "hn": "82a",
+  "lat": 47.5525316,
+  "lng": 7.54158,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|80a": {
+  "street": "Baslerstrasse",
+  "hn": "80a",
+  "lat": 47.5524784,
+  "lng": 7.5415658,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|80b": {
+  "street": "Baslerstrasse",
+  "hn": "80b",
+  "lat": 47.55249,
+  "lng": 7.5414351,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|78a": {
+  "street": "Baslerstrasse",
+  "hn": "78a",
+  "lat": 47.5524738,
+  "lng": 7.5413994,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|78": {
+  "street": "Baslerstrasse",
+  "hn": "78",
+  "lat": 47.5525667,
+  "lng": 7.5412826,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|76": {
+  "street": "Baslerstrasse",
+  "hn": "76",
+  "lat": 47.5525433,
+  "lng": 7.541176,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|76a": {
+  "street": "Baslerstrasse",
+  "hn": "76a",
+  "lat": 47.5524279,
+  "lng": 7.5412181,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|129a": {
+  "street": "Binningerstrasse",
+  "hn": "129a",
+  "lat": 47.5475587,
+  "lng": 7.5506795,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|141a": {
+  "street": "Binningerstrasse",
+  "hn": "141a",
+  "lat": 47.5474518,
+  "lng": 7.552143,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|143": {
+  "street": "Binningerstrasse",
+  "hn": "143",
+  "lat": 47.5471558,
+  "lng": 7.5522466,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|143a": {
+  "street": "Binningerstrasse",
+  "hn": "143a",
+  "lat": 47.5473105,
+  "lng": 7.5523113,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|27": {
+  "street": "Oberwilerstrasse",
+  "hn": "27",
+  "lat": 47.5500648,
+  "lng": 7.5386299,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|25": {
+  "street": "Oberwilerstrasse",
+  "hn": "25",
+  "lat": 47.5501512,
+  "lng": 7.5384237,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|25a": {
+  "street": "Oberwilerstrasse",
+  "hn": "25a",
+  "lat": 47.5501513,
+  "lng": 7.5385026,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|25b": {
+  "street": "Oberwilerstrasse",
+  "hn": "25b",
+  "lat": 47.5501512,
+  "lng": 7.5385821,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|29": {
+  "street": "Oberwilerstrasse",
+  "hn": "29",
+  "lat": 47.5500918,
+  "lng": 7.5382758,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|23": {
+  "street": "Oberwilerstrasse",
+  "hn": "23",
+  "lat": 47.5501812,
+  "lng": 7.5382672,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|23a": {
+  "street": "Oberwilerstrasse",
+  "hn": "23a",
+  "lat": 47.5503161,
+  "lng": 7.538172,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|17": {
+  "street": "Oberwilerstrasse",
+  "hn": "17",
+  "lat": 47.5503114,
+  "lng": 7.5377974,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|19": {
+  "street": "Oberwilerstrasse",
+  "hn": "19",
+  "lat": 47.5502274,
+  "lng": 7.5379917,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|21": {
+  "street": "Oberwilerstrasse",
+  "hn": "21",
+  "lat": 47.5501251,
+  "lng": 7.5379644,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|15": {
+  "street": "Oberwilerstrasse",
+  "hn": "15",
+  "lat": 47.550203,
+  "lng": 7.5376757,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|13": {
+  "street": "Oberwilerstrasse",
+  "hn": "13",
+  "lat": 47.5502864,
+  "lng": 7.5375949,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|12": {
+  "street": "Binningerstrasse",
+  "hn": "12",
+  "lat": 47.5512971,
+  "lng": 7.5398934,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|4": {
+  "street": "Binningerstrasse",
+  "hn": "4",
+  "lat": 47.5518125,
+  "lng": 7.539745,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|2": {
+  "street": "Binningerstrasse",
+  "hn": "2",
+  "lat": 47.5519204,
+  "lng": 7.5395986,
+  "mieter": []
+ },
+ "allschwil|binningerstrasse|6": {
+  "street": "Binningerstrasse",
+  "hn": "6",
+  "lat": 47.5517103,
+  "lng": 7.5398413,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|52": {
+  "street": "Baslerstrasse",
+  "hn": "52",
+  "lat": 47.5515696,
+  "lng": 7.5395465,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|54": {
+  "street": "Baslerstrasse",
+  "hn": "54",
+  "lat": 47.5517939,
+  "lng": 7.5393807,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|50": {
+  "street": "Baslerstrasse",
+  "hn": "50",
+  "lat": 47.551608,
+  "lng": 7.5391934,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|48": {
+  "street": "Baslerstrasse",
+  "hn": "48",
+  "lat": 47.5515977,
+  "lng": 7.5390162,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|42": {
+  "street": "Baslerstrasse",
+  "hn": "42",
+  "lat": 47.5515022,
+  "lng": 7.538625,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|32": {
+  "street": "Baslerstrasse",
+  "hn": "32",
+  "lat": 47.5515397,
+  "lng": 7.5383991,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|34": {
+  "street": "Baslerstrasse",
+  "hn": "34",
+  "lat": 47.5514677,
+  "lng": 7.5384326,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|32a": {
+  "street": "Baslerstrasse",
+  "hn": "32a",
+  "lat": 47.5513705,
+  "lng": 7.5384509,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|36b": {
+  "street": "Baslerstrasse",
+  "hn": "36b",
+  "lat": 47.5513433,
+  "lng": 7.5384641,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|36": {
+  "street": "Baslerstrasse",
+  "hn": "36",
+  "lat": 47.5512285,
+  "lng": 7.5385591,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|38": {
+  "street": "Baslerstrasse",
+  "hn": "38",
+  "lat": 47.5512504,
+  "lng": 7.5386487,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|40": {
+  "street": "Baslerstrasse",
+  "hn": "40",
+  "lat": 47.5512719,
+  "lng": 7.538737,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|36a": {
+  "street": "Baslerstrasse",
+  "hn": "36a",
+  "lat": 47.5509538,
+  "lng": 7.5386621,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|28a": {
+  "street": "Baslerstrasse",
+  "hn": "28a",
+  "lat": 47.551121,
+  "lng": 7.5383949,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|24": {
+  "street": "Baslerstrasse",
+  "hn": "24",
+  "lat": 47.551273,
+  "lng": 7.5379684,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|22": {
+  "street": "Baslerstrasse",
+  "hn": "22",
+  "lat": 47.5511343,
+  "lng": 7.5380768,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|18": {
+  "street": "Baslerstrasse",
+  "hn": "18",
+  "lat": 47.5511029,
+  "lng": 7.5379373,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|16": {
+  "street": "Baslerstrasse",
+  "hn": "16",
+  "lat": 47.5512105,
+  "lng": 7.5378504,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|14": {
+  "street": "Baslerstrasse",
+  "hn": "14",
+  "lat": 47.5513063,
+  "lng": 7.5377759,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|20": {
+  "street": "Baslerstrasse",
+  "hn": "20",
+  "lat": 47.551113,
+  "lng": 7.5380204,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|12": {
+  "street": "Baslerstrasse",
+  "hn": "12",
+  "lat": 47.5512466,
+  "lng": 7.5376069,
+  "mieter": [
+   "Dorfkäsi"
+  ]
+ },
+ "allschwil|baslerstrasse|12a": {
+  "street": "Baslerstrasse",
+  "hn": "12a",
+  "lat": 47.5509974,
+  "lng": 7.5378226,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|10": {
+  "street": "Baslerstrasse",
+  "hn": "10",
+  "lat": 47.5512473,
+  "lng": 7.5374259,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|10b": {
+  "street": "Baslerstrasse",
+  "hn": "10b",
+  "lat": 47.5511794,
+  "lng": 7.5375454,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|8": {
+  "street": "Baslerstrasse",
+  "hn": "8",
+  "lat": 47.5511503,
+  "lng": 7.5371917,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|6": {
+  "street": "Baslerstrasse",
+  "hn": "6",
+  "lat": 47.5509945,
+  "lng": 7.5373746,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|4": {
+  "street": "Baslerstrasse",
+  "hn": "4",
+  "lat": 47.5510197,
+  "lng": 7.5370041,
+  "mieter": [
+   "Restaurant Landhus"
+  ]
+ },
+ "allschwil|baslerstrasse|4a": {
+  "street": "Baslerstrasse",
+  "hn": "4a",
+  "lat": 47.5508431,
+  "lng": 7.5372225,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|2a": {
+  "street": "Baslerstrasse",
+  "hn": "2a",
+  "lat": 47.5509751,
+  "lng": 7.5368918,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|2": {
+  "street": "Baslerstrasse",
+  "hn": "2",
+  "lat": 47.5509996,
+  "lng": 7.5367722,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|1": {
+  "street": "Oberwilerstrasse",
+  "hn": "1",
+  "lat": 47.5508452,
+  "lng": 7.5367297,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|3": {
+  "street": "Oberwilerstrasse",
+  "hn": "3",
+  "lat": 47.5507705,
+  "lng": 7.5369592,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|5": {
+  "street": "Oberwilerstrasse",
+  "hn": "5",
+  "lat": 47.5506135,
+  "lng": 7.5370545,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|7": {
+  "street": "Oberwilerstrasse",
+  "hn": "7",
+  "lat": 47.550629,
+  "lng": 7.5372294,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|9": {
+  "street": "Oberwilerstrasse",
+  "hn": "9",
+  "lat": 47.5504351,
+  "lng": 7.5372692,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|9a": {
+  "street": "Oberwilerstrasse",
+  "hn": "9a",
+  "lat": 47.5505513,
+  "lng": 7.5374959,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|178": {
+  "street": "Baslerstrasse",
+  "hn": "178",
+  "lat": 47.5515852,
+  "lng": 7.5493672,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|192": {
+  "street": "Baslerstrasse",
+  "hn": "192",
+  "lat": 47.5520996,
+  "lng": 7.5495363,
+  "mieter": [
+   "Jäger und Sammler GmbH"
+  ]
+ },
+ "allschwil|baslerstrasse|194": {
+  "street": "Baslerstrasse",
+  "hn": "194",
+  "lat": 47.5520417,
+  "lng": 7.5497859,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|196": {
+  "street": "Baslerstrasse",
+  "hn": "196",
+  "lat": 47.552314,
+  "lng": 7.5497024,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|198": {
+  "street": "Baslerstrasse",
+  "hn": "198",
+  "lat": 47.5524264,
+  "lng": 7.5498538,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|14": {
+  "street": "Oberwilerstrasse",
+  "hn": "14",
+  "lat": 47.5502278,
+  "lng": 7.5371327,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|31": {
+  "street": "Baslerstrasse",
+  "hn": "31",
+  "lat": 47.5517791,
+  "lng": 7.5380338,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|6": {
+  "street": "Oberwilerstrasse",
+  "hn": "6",
+  "lat": 47.550527,
+  "lng": 7.5367061,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|47": {
+  "street": "Baslerstrasse",
+  "hn": "47",
+  "lat": 47.5523637,
+  "lng": 7.5395314,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|45": {
+  "street": "Baslerstrasse",
+  "hn": "45",
+  "lat": 47.5522564,
+  "lng": 7.5393071,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|39": {
+  "street": "Baslerstrasse",
+  "hn": "39",
+  "lat": 47.5520148,
+  "lng": 7.5389716,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|27": {
+  "street": "Baslerstrasse",
+  "hn": "27",
+  "lat": 47.5515946,
+  "lng": 7.5375217,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|33": {
+  "street": "Oberwilerstrasse",
+  "hn": "33",
+  "lat": 47.5497372,
+  "lng": 7.5382547,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|31": {
+  "street": "Oberwilerstrasse",
+  "hn": "31",
+  "lat": 47.5497108,
+  "lng": 7.5384997,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|31a": {
+  "street": "Oberwilerstrasse",
+  "hn": "31a",
+  "lat": 47.5496547,
+  "lng": 7.5386233,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|35": {
+  "street": "Oberwilerstrasse",
+  "hn": "35",
+  "lat": 47.5496198,
+  "lng": 7.5383866,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|37": {
+  "street": "Oberwilerstrasse",
+  "hn": "37",
+  "lat": 47.5495771,
+  "lng": 7.538372,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|41": {
+  "street": "Oberwilerstrasse",
+  "hn": "41",
+  "lat": 47.5494535,
+  "lng": 7.5384456,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|39": {
+  "street": "Oberwilerstrasse",
+  "hn": "39",
+  "lat": 47.5494963,
+  "lng": 7.5384602,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|43": {
+  "street": "Oberwilerstrasse",
+  "hn": "43",
+  "lat": 47.5493463,
+  "lng": 7.5383409,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|45": {
+  "street": "Oberwilerstrasse",
+  "hn": "45",
+  "lat": 47.5491684,
+  "lng": 7.538308,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|47": {
+  "street": "Oberwilerstrasse",
+  "hn": "47",
+  "lat": 47.549057,
+  "lng": 7.5383842,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|45a": {
+  "street": "Oberwilerstrasse",
+  "hn": "45a",
+  "lat": 47.5491697,
+  "lng": 7.5384627,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|47a": {
+  "street": "Oberwilerstrasse",
+  "hn": "47a",
+  "lat": 47.5489552,
+  "lng": 7.5390547,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|51": {
+  "street": "Oberwilerstrasse",
+  "hn": "51",
+  "lat": 47.5488248,
+  "lng": 7.5393415,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|51a": {
+  "street": "Oberwilerstrasse",
+  "hn": "51a",
+  "lat": 47.5486554,
+  "lng": 7.5393745,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|51b": {
+  "street": "Oberwilerstrasse",
+  "hn": "51b",
+  "lat": 47.5486064,
+  "lng": 7.5393298,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|51c": {
+  "street": "Oberwilerstrasse",
+  "hn": "51c",
+  "lat": 47.5485458,
+  "lng": 7.5391013,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|49c": {
+  "street": "Oberwilerstrasse",
+  "hn": "49c",
+  "lat": 47.5486135,
+  "lng": 7.5388561,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|49": {
+  "street": "Oberwilerstrasse",
+  "hn": "49",
+  "lat": 47.548856,
+  "lng": 7.5386818,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|49b": {
+  "street": "Oberwilerstrasse",
+  "hn": "49b",
+  "lat": 47.5487402,
+  "lng": 7.5387628,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|55": {
+  "street": "Oberwilerstrasse",
+  "hn": "55",
+  "lat": 47.5488213,
+  "lng": 7.5383603,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|59": {
+  "street": "Oberwilerstrasse",
+  "hn": "59",
+  "lat": 47.5483967,
+  "lng": 7.5387412,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|163": {
+  "street": "Baslerstrasse",
+  "hn": "163",
+  "lat": 47.551874,
+  "lng": 7.548362,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|163b": {
+  "street": "Baslerstrasse",
+  "hn": "163b",
+  "lat": 47.5520312,
+  "lng": 7.5483247,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|157": {
+  "street": "Baslerstrasse",
+  "hn": "157",
+  "lat": 47.5519509,
+  "lng": 7.5475326,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|157a": {
+  "street": "Baslerstrasse",
+  "hn": "157a",
+  "lat": 47.5520423,
+  "lng": 7.5476065,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|173": {
+  "street": "Baslerstrasse",
+  "hn": "173",
+  "lat": 47.5523665,
+  "lng": 7.5491462,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|171": {
+  "street": "Baslerstrasse",
+  "hn": "171",
+  "lat": 47.5522656,
+  "lng": 7.549044,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|153": {
+  "street": "Baslerstrasse",
+  "hn": "153",
+  "lat": 47.5521519,
+  "lng": 7.5468021,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|155": {
+  "street": "Baslerstrasse",
+  "hn": "155",
+  "lat": 47.552093,
+  "lng": 7.5470155,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|16": {
+  "street": "Oberwilerstrasse",
+  "hn": "16",
+  "lat": 47.5501582,
+  "lng": 7.5372083,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|12": {
+  "street": "Oberwilerstrasse",
+  "hn": "12",
+  "lat": 47.5501402,
+  "lng": 7.5370182,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|8a": {
+  "street": "Oberwilerstrasse",
+  "hn": "8a",
+  "lat": 47.5502329,
+  "lng": 7.536782,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|10": {
+  "street": "Oberwilerstrasse",
+  "hn": "10",
+  "lat": 47.550104,
+  "lng": 7.536861,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|24": {
+  "street": "Oberwilerstrasse",
+  "hn": "24",
+  "lat": 47.5498908,
+  "lng": 7.5374665,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|28a": {
+  "street": "Oberwilerstrasse",
+  "hn": "28a",
+  "lat": 47.549781,
+  "lng": 7.5376548,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|28b": {
+  "street": "Oberwilerstrasse",
+  "hn": "28b",
+  "lat": 47.5498747,
+  "lng": 7.53768,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|28": {
+  "street": "Oberwilerstrasse",
+  "hn": "28",
+  "lat": 47.5497614,
+  "lng": 7.5378801,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|30": {
+  "street": "Oberwilerstrasse",
+  "hn": "30",
+  "lat": 47.5496104,
+  "lng": 7.5378963,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|38": {
+  "street": "Oberwilerstrasse",
+  "hn": "38",
+  "lat": 47.5491302,
+  "lng": 7.5380198,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|40": {
+  "street": "Oberwilerstrasse",
+  "hn": "40",
+  "lat": 47.549128,
+  "lng": 7.5379363,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|42": {
+  "street": "Oberwilerstrasse",
+  "hn": "42",
+  "lat": 47.5490019,
+  "lng": 7.5378308,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|44": {
+  "street": "Oberwilerstrasse",
+  "hn": "44",
+  "lat": 47.5489508,
+  "lng": 7.5378586,
+  "mieter": []
+ },
+ "allschwil|oberwilerstrasse|46": {
+  "street": "Oberwilerstrasse",
+  "hn": "46",
+  "lat": 47.548855,
+  "lng": 7.537994,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|31a": {
+  "street": "Baslerstrasse",
+  "hn": "31a",
+  "lat": 47.551884,
+  "lng": 7.5378348,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|33": {
+  "street": "Baslerstrasse",
+  "hn": "33",
+  "lat": 47.5518939,
+  "lng": 7.5382061,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|35": {
+  "street": "Baslerstrasse",
+  "hn": "35",
+  "lat": 47.5519936,
+  "lng": 7.5384901,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|2": {
+  "street": "Hegenheimermattweg",
+  "hn": "2",
+  "lat": 47.5525589,
+  "lng": 7.5386082,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|39b": {
+  "street": "Baslerstrasse",
+  "hn": "39b",
+  "lat": 47.5521408,
+  "lng": 7.5387011,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|39a": {
+  "street": "Baslerstrasse",
+  "hn": "39a",
+  "lat": 47.5521095,
+  "lng": 7.5389557,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|47a": {
+  "street": "Baslerstrasse",
+  "hn": "47a",
+  "lat": 47.5524826,
+  "lng": 7.5394805,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|10": {
+  "street": "Hegenheimermattweg",
+  "hn": "10",
+  "lat": 47.5525696,
+  "lng": 7.5392826,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|4a": {
+  "street": "Hegenheimermattweg",
+  "hn": "4a",
+  "lat": 47.5525902,
+  "lng": 7.5389721,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|6a": {
+  "street": "Hegenheimermattweg",
+  "hn": "6a",
+  "lat": 47.5526106,
+  "lng": 7.5390118,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|4": {
+  "street": "Hegenheimermattweg",
+  "hn": "4",
+  "lat": 47.5527188,
+  "lng": 7.5387976,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|6": {
+  "street": "Hegenheimermattweg",
+  "hn": "6",
+  "lat": 47.5527618,
+  "lng": 7.538891,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|12": {
+  "street": "Hegenheimermattweg",
+  "hn": "12",
+  "lat": 47.5528248,
+  "lng": 7.5390709,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|12a": {
+  "street": "Hegenheimermattweg",
+  "hn": "12a",
+  "lat": 47.5527442,
+  "lng": 7.5392302,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|49": {
+  "street": "Baslerstrasse",
+  "hn": "49",
+  "lat": 47.5524847,
+  "lng": 7.539727,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|49a": {
+  "street": "Baslerstrasse",
+  "hn": "49a",
+  "lat": 47.5525816,
+  "lng": 7.5394691,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|51": {
+  "street": "Baslerstrasse",
+  "hn": "51",
+  "lat": 47.5528439,
+  "lng": 7.5399617,
+  "mieter": [
+   "St. Peter & Paul"
+  ]
+ },
+ "allschwil|baslerstrasse|59": {
+  "street": "Baslerstrasse",
+  "hn": "59",
+  "lat": 47.5527996,
+  "lng": 7.5405756,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|63": {
+  "street": "Baslerstrasse",
+  "hn": "63",
+  "lat": 47.5529277,
+  "lng": 7.5409821,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|16": {
+  "street": "Hegenheimermattweg",
+  "hn": "16",
+  "lat": 47.5531595,
+  "lng": 7.54075,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|65": {
+  "street": "Baslerstrasse",
+  "hn": "65",
+  "lat": 47.5530607,
+  "lng": 7.5413906,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|18": {
+  "street": "Hegenheimermattweg",
+  "hn": "18",
+  "lat": 47.5534015,
+  "lng": 7.5409097,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|20": {
+  "street": "Hegenheimermattweg",
+  "hn": "20",
+  "lat": 47.5533479,
+  "lng": 7.5409783,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|24": {
+  "street": "Hegenheimermattweg",
+  "hn": "24",
+  "lat": 47.5532417,
+  "lng": 7.5411162,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|22": {
+  "street": "Hegenheimermattweg",
+  "hn": "22",
+  "lat": 47.5532953,
+  "lng": 7.5410476,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|28": {
+  "street": "Hegenheimermattweg",
+  "hn": "28",
+  "lat": 47.5531589,
+  "lng": 7.5416749,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|26": {
+  "street": "Hegenheimermattweg",
+  "hn": "26",
+  "lat": 47.5533578,
+  "lng": 7.541438,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|34": {
+  "street": "Hegenheimermattweg",
+  "hn": "34",
+  "lat": 47.5536073,
+  "lng": 7.5412108,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|38": {
+  "street": "Hegenheimermattweg",
+  "hn": "38",
+  "lat": 47.55369,
+  "lng": 7.5413852,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|40": {
+  "street": "Hegenheimermattweg",
+  "hn": "40",
+  "lat": 47.5536382,
+  "lng": 7.5414551,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|40a": {
+  "street": "Hegenheimermattweg",
+  "hn": "40a",
+  "lat": 47.5534654,
+  "lng": 7.5416926,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|40b": {
+  "street": "Hegenheimermattweg",
+  "hn": "40b",
+  "lat": 47.5532987,
+  "lng": 7.5419075,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|71": {
+  "street": "Baslerstrasse",
+  "hn": "71",
+  "lat": 47.553173,
+  "lng": 7.5420617,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|31a": {
+  "street": "Hegenheimermattweg",
+  "hn": "31a",
+  "lat": 47.5537816,
+  "lng": 7.5404823,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|31": {
+  "street": "Hegenheimermattweg",
+  "hn": "31",
+  "lat": 47.5536358,
+  "lng": 7.5405298,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|29": {
+  "street": "Hegenheimermattweg",
+  "hn": "29",
+  "lat": 47.5535486,
+  "lng": 7.5402245,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|29b": {
+  "street": "Hegenheimermattweg",
+  "hn": "29b",
+  "lat": 47.5534172,
+  "lng": 7.5403607,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|27": {
+  "street": "Hegenheimermattweg",
+  "hn": "27",
+  "lat": 47.5533837,
+  "lng": 7.5402051,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|29a": {
+  "street": "Hegenheimermattweg",
+  "hn": "29a",
+  "lat": 47.5535806,
+  "lng": 7.540086,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|27a": {
+  "street": "Hegenheimermattweg",
+  "hn": "27a",
+  "lat": 47.5535634,
+  "lng": 7.5400597,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|23": {
+  "street": "Hegenheimermattweg",
+  "hn": "23",
+  "lat": 47.55334,
+  "lng": 7.5398777,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|21": {
+  "street": "Hegenheimermattweg",
+  "hn": "21",
+  "lat": 47.5533136,
+  "lng": 7.5396168,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|100": {
+  "street": "Hegenheimermattweg",
+  "hn": "100",
+  "lat": 47.5564218,
+  "lng": 7.5460544,
+  "mieter": [
+   "Rendez-Vous 100"
+  ]
+ },
+ "allschwil|hegenheimermattweg|104": {
+  "street": "Hegenheimermattweg",
+  "hn": "104",
+  "lat": 47.5564063,
+  "lng": 7.5472409,
+  "mieter": [
+   "Restaurant Da Luciana"
+  ]
+ },
+ "allschwil|baslerstrasse|200": {
+  "street": "Baslerstrasse",
+  "hn": "200",
+  "lat": 47.5526208,
+  "lng": 7.5502139,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|202": {
+  "street": "Baslerstrasse",
+  "hn": "202",
+  "lat": 47.5527302,
+  "lng": 7.5507642,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|202a": {
+  "street": "Baslerstrasse",
+  "hn": "202a",
+  "lat": 47.5525555,
+  "lng": 7.5510344,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|202b": {
+  "street": "Baslerstrasse",
+  "hn": "202b",
+  "lat": 47.5525361,
+  "lng": 7.5511675,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|204": {
+  "street": "Baslerstrasse",
+  "hn": "204",
+  "lat": 47.5528823,
+  "lng": 7.5511311,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|206": {
+  "street": "Baslerstrasse",
+  "hn": "206",
+  "lat": 47.552691,
+  "lng": 7.5515194,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|210": {
+  "street": "Baslerstrasse",
+  "hn": "210",
+  "lat": 47.5529769,
+  "lng": 7.5516023,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|212": {
+  "street": "Baslerstrasse",
+  "hn": "212",
+  "lat": 47.5531326,
+  "lng": 7.5519555,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|208": {
+  "street": "Baslerstrasse",
+  "hn": "208",
+  "lat": 47.5524454,
+  "lng": 7.5518066,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|349a": {
+  "street": "Baslerstrasse",
+  "hn": "349a",
+  "lat": 47.5578043,
+  "lng": 7.5634624,
+  "mieter": []
+ },
+ "allschwil|lindenplatz|2": {
+  "street": "Lindenplatz",
+  "hn": "2",
+  "lat": 47.5580987,
+  "lng": 7.5607544,
+  "mieter": []
+ },
+ "allschwil|lindenplatz|4": {
+  "street": "Lindenplatz",
+  "hn": "4",
+  "lat": 47.5582034,
+  "lng": 7.5605876,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|66": {
+  "street": "Hegenheimermattweg",
+  "hn": "66",
+  "lat": 47.5550037,
+  "lng": 7.5436284,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|183": {
+  "street": "Baslerstrasse",
+  "hn": "183",
+  "lat": 47.5531044,
+  "lng": 7.5497969,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|315": {
+  "street": "Baslerstrasse",
+  "hn": "315",
+  "lat": 47.5573007,
+  "lng": 7.5588294,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|263": {
+  "street": "Baslerstrasse",
+  "hn": "263",
+  "lat": 47.555315,
+  "lng": 7.5563704,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|259": {
+  "street": "Baslerstrasse",
+  "hn": "259",
+  "lat": 47.5552,
+  "lng": 7.556117,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|324": {
+  "street": "Baslerstrasse",
+  "hn": "324",
+  "lat": 47.5576775,
+  "lng": 7.5608204,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|322": {
+  "street": "Baslerstrasse",
+  "hn": "322",
+  "lat": 47.5576595,
+  "lng": 7.5607458,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|320": {
+  "street": "Baslerstrasse",
+  "hn": "320",
+  "lat": 47.557641,
+  "lng": 7.5606729,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|316": {
+  "street": "Baslerstrasse",
+  "hn": "316",
+  "lat": 47.5575907,
+  "lng": 7.5605437,
+  "mieter": []
+ },
+ "allschwil|baslerstrasse|314": {
+  "street": "Baslerstrasse",
+  "hn": "314",
+  "lat": 47.5575894,
+  "lng": 7.5604575,
+  "mieter": []
+ },
+ "allschwil|hegenheimermattweg|163 c": {
+  "street": "Hegenheimermattweg",
+  "hn": "163 C",
+  "lat": 47.5613929,
+  "lng": 7.5511785,
+  "mieter": []
+ }
+}

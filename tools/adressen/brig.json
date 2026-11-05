@@ -1,0 +1,1281 @@
+{
+ "brig|sebastiansplatz|2": {
+  "street": "Sebastiansplatz",
+  "hn": "2",
+  "lat": 46.3163997,
+  "lng": 7.9879182,
+  "mieter": [
+   "Commerce"
+  ]
+ },
+ "brig|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 46.3215599,
+  "lng": 7.9864061,
+  "mieter": [
+   "Zuber"
+  ]
+ },
+ "brig|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 46.3235736,
+  "lng": 7.9855541,
+  "mieter": [
+   "Restaurant Simplon"
+  ]
+ },
+ "brig|alte simplonstrasse|19": {
+  "street": "Alte Simplonstrasse",
+  "hn": "19",
+  "lat": 46.3161876,
+  "lng": 7.9894559,
+  "mieter": [
+   "Angleterre"
+  ]
+ },
+ "brig|alte simplonstrasse|22": {
+  "street": "Alte Simplonstrasse",
+  "hn": "22",
+  "lat": 46.3157609,
+  "lng": 7.9900675,
+  "mieter": [
+   "Royal Kebap"
+  ]
+ },
+ "brig|alte simplonstrasse|9": {
+  "street": "Alte Simplonstrasse",
+  "hn": "9",
+  "lat": 46.3164027,
+  "lng": 7.9890514,
+  "mieter": [
+   "Salzturm"
+  ]
+ },
+ "brig|alte simplonstrasse|26": {
+  "street": "Alte Simplonstrasse",
+  "hn": "26",
+  "lat": 46.3154184,
+  "lng": 7.9905858,
+  "mieter": [
+   "Schlosskeller"
+  ]
+ },
+ "brig|alte simplonstrasse|10": {
+  "street": "Alte Simplonstrasse",
+  "hn": "10",
+  "lat": 46.3161876,
+  "lng": 7.989034,
+  "mieter": [
+   "Kaffee Klatsch"
+  ]
+ },
+ "brig|sebastiansplatz|1": {
+  "street": "Sebastiansplatz",
+  "hn": "1",
+  "lat": 46.3164583,
+  "lng": 7.9882119,
+  "mieter": [
+   "Bayard"
+  ]
+ },
+ "brig|furkastrasse|5": {
+  "street": "Furkastrasse",
+  "hn": "5",
+  "lat": 46.3169361,
+  "lng": 7.9873963,
+  "mieter": [
+   "Channa Pizzeria"
+  ]
+ },
+ "brig|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 46.3172169,
+  "lng": 7.9882957,
+  "mieter": [
+   "Pfammatter Apotheke",
+   "Generali",
+   "Hotelplan",
+   "Rhomberg"
+  ]
+ },
+ "brig|furkastrasse|3": {
+  "street": "Furkastrasse",
+  "hn": "3",
+  "lat": 46.3167397,
+  "lng": 7.9876839,
+  "mieter": [
+   "ZAP* Brig"
+  ]
+ },
+ "brig|bahnhofplatz|1": {
+  "street": "Bahnhofplatz",
+  "hn": "1",
+  "lat": 46.3192759,
+  "lng": 7.9886672,
+  "mieter": [
+   "Zenhäusern",
+   "Bahnhofapotheke Brig"
+  ]
+ },
+ "brig|bahnhofstrasse|9a": {
+  "street": "Bahnhofstrasse",
+  "hn": "9a",
+  "lat": 46.3223228,
+  "lng": 7.9854755,
+  "mieter": [
+   "Jungfrau-Aletsch"
+  ]
+ },
+ "brig|furkastrasse|23": {
+  "street": "Furkastrasse",
+  "hn": "23",
+  "lat": 46.3181196,
+  "lng": 7.9857375,
+  "mieter": [
+   "Rip Zone"
+  ]
+ },
+ "brig|alte simplonstrasse|7": {
+  "street": "Alte Simplonstrasse",
+  "hn": "7",
+  "lat": 46.3164677,
+  "lng": 7.9887189,
+  "mieter": [
+   "z'Bioradiesli"
+  ]
+ },
+ "brig|alte simplonstrasse|8": {
+  "street": "Alte Simplonstrasse",
+  "hn": "8",
+  "lat": 46.3162238,
+  "lng": 7.988788,
+  "mieter": [
+   "Runder Store Brig"
+  ]
+ },
+ "brig|alte simplonstrasse|39": {
+  "street": "Alte Simplonstrasse",
+  "hn": "39",
+  "lat": 46.3153501,
+  "lng": 7.991097,
+  "mieter": [
+   "Ludothek Brig-Glis"
+  ]
+ },
+ "brig|bahnhofstrasse|4a": {
+  "street": "Bahnhofstrasse",
+  "hn": "4a",
+  "lat": 46.3183863,
+  "lng": 7.9877795,
+  "mieter": [
+   "Emch+Berger AG Bern"
+  ]
+ },
+ "brig|bahnhofstrasse|1a": {
+  "street": "Bahnhofstrasse",
+  "hn": "1a",
+  "lat": 46.3184955,
+  "lng": 7.9885185,
+  "mieter": [
+   "Filiale Brig"
+  ]
+ },
+ "brig|furkastrasse|18": {
+  "street": "Furkastrasse",
+  "hn": "18",
+  "lat": 46.3230227,
+  "lng": 7.9890283,
+  "mieter": [
+   "sodalis gesundheitsgruppe"
+  ]
+ },
+ "brig|alte simplonstrasse|59": {
+  "street": "Alte Simplonstrasse",
+  "hn": "59",
+  "lat": 46.3135473,
+  "lng": 7.9937622,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|61": {
+  "street": "Alte Simplonstrasse",
+  "hn": "61",
+  "lat": 46.3134524,
+  "lng": 7.9938587,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|61c": {
+  "street": "Alte Simplonstrasse",
+  "hn": "61c",
+  "lat": 46.313583,
+  "lng": 7.9938661,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 46.3175124,
+  "lng": 7.9880508,
+  "mieter": [
+   "Henzen"
+  ]
+ },
+ "brig|alte simplonstrasse|25": {
+  "street": "Alte Simplonstrasse",
+  "hn": "25",
+  "lat": 46.31614,
+  "lng": 7.9898926,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|23": {
+  "street": "Alte Simplonstrasse",
+  "hn": "23",
+  "lat": 46.3162475,
+  "lng": 7.9899102,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|13": {
+  "street": "Alte Simplonstrasse",
+  "hn": "13",
+  "lat": 46.3164505,
+  "lng": 7.9893968,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|35": {
+  "street": "Alte Simplonstrasse",
+  "hn": "35",
+  "lat": 46.3155585,
+  "lng": 7.9906677,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|37": {
+  "street": "Alte Simplonstrasse",
+  "hn": "37",
+  "lat": 46.315476,
+  "lng": 7.9908059,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|24": {
+  "street": "Alte Simplonstrasse",
+  "hn": "24",
+  "lat": 46.3157335,
+  "lng": 7.9901219,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|9f": {
+  "street": "Bahnhofstrasse",
+  "hn": "9f",
+  "lat": 46.3219777,
+  "lng": 7.9854307,
+  "mieter": [
+   "Café Zuckerpuppa"
+  ]
+ },
+ "brig|bahnhofstrasse|22": {
+  "street": "Bahnhofstrasse",
+  "hn": "22",
+  "lat": 46.3239922,
+  "lng": 7.9857359,
+  "mieter": [
+   "Medizinisches Zentrum St. Raphael"
+  ]
+ },
+ "brig|furkastrasse|154": {
+  "street": "Furkastrasse",
+  "hn": "154",
+  "lat": 46.3299652,
+  "lng": 8.0124983,
+  "mieter": []
+ },
+ "brig|furkastrasse|29": {
+  "street": "Furkastrasse",
+  "hn": "29",
+  "lat": 46.3186738,
+  "lng": 7.984979,
+  "mieter": [
+   "Unia"
+  ]
+ },
+ "brig|alte simplonstrasse|71": {
+  "street": "Alte Simplonstrasse",
+  "hn": "71",
+  "lat": 46.3116067,
+  "lng": 7.9960986,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|2a": {
+  "street": "Bahnhofstrasse",
+  "hn": "2a",
+  "lat": 46.3185363,
+  "lng": 7.9878374,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 46.3182122,
+  "lng": 7.9880122,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 46.3186831,
+  "lng": 7.988485,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 46.3183454,
+  "lng": 7.9886071,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 46.3181109,
+  "lng": 7.9886585,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 46.3175818,
+  "lng": 7.9883543,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 46.3178967,
+  "lng": 7.9879858,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 46.3174968,
+  "lng": 7.9879808,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 46.317214,
+  "lng": 7.9878816,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 46.3171923,
+  "lng": 7.9883589,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 46.3170533,
+  "lng": 7.9883853,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 46.3168726,
+  "lng": 7.9883745,
+  "mieter": []
+ },
+ "brig|furkastrasse|1": {
+  "street": "Furkastrasse",
+  "hn": "1",
+  "lat": 46.31654,
+  "lng": 7.9878586,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 46.3166074,
+  "lng": 7.9884771,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|3": {
+  "street": "Alte Simplonstrasse",
+  "hn": "3",
+  "lat": 46.3162959,
+  "lng": 7.9886329,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|27": {
+  "street": "Alte Simplonstrasse",
+  "hn": "27",
+  "lat": 46.316068,
+  "lng": 7.9899923,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|29": {
+  "street": "Alte Simplonstrasse",
+  "hn": "29",
+  "lat": 46.3159852,
+  "lng": 7.9903593,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|41": {
+  "street": "Alte Simplonstrasse",
+  "hn": "41",
+  "lat": 46.3151676,
+  "lng": 7.991651,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|57": {
+  "street": "Alte Simplonstrasse",
+  "hn": "57",
+  "lat": 46.3136766,
+  "lng": 7.993673,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|63": {
+  "street": "Alte Simplonstrasse",
+  "hn": "63",
+  "lat": 46.313517,
+  "lng": 7.994146,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|42": {
+  "street": "Alte Simplonstrasse",
+  "hn": "42",
+  "lat": 46.3132297,
+  "lng": 7.9929668,
+  "mieter": []
+ },
+ "brig|furkastrasse|7,9": {
+  "street": "Furkastrasse",
+  "hn": "7,9",
+  "lat": 46.3228819,
+  "lng": 7.9874669,
+  "mieter": []
+ },
+ "brig|furkastrasse|22,24": {
+  "street": "Furkastrasse",
+  "hn": "22,24",
+  "lat": 46.3231588,
+  "lng": 7.9896701,
+  "mieter": []
+ },
+ "brig|furkastrasse|8": {
+  "street": "Furkastrasse",
+  "hn": "8",
+  "lat": 46.3224472,
+  "lng": 7.9871979,
+  "mieter": []
+ },
+ "brig|furkastrasse|14": {
+  "street": "Furkastrasse",
+  "hn": "14",
+  "lat": 46.3226846,
+  "lng": 7.9879616,
+  "mieter": []
+ },
+ "brig|furkastrasse|4": {
+  "street": "Furkastrasse",
+  "hn": "4",
+  "lat": 46.3220936,
+  "lng": 7.9866756,
+  "mieter": []
+ },
+ "brig|furkastrasse|10": {
+  "street": "Furkastrasse",
+  "hn": "10",
+  "lat": 46.3222672,
+  "lng": 7.9874775,
+  "mieter": []
+ },
+ "brig|furkastrasse|13": {
+  "street": "Furkastrasse",
+  "hn": "13",
+  "lat": 46.3231224,
+  "lng": 7.9881433,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 46.3237558,
+  "lng": 7.9856496,
+  "mieter": []
+ },
+ "brig|furkastrasse|15": {
+  "street": "Furkastrasse",
+  "hn": "15",
+  "lat": 46.3232134,
+  "lng": 7.9886504,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|24": {
+  "street": "Bahnhofstrasse",
+  "hn": "24",
+  "lat": 46.3241815,
+  "lng": 7.9859466,
+  "mieter": []
+ },
+ "brig|furkastrasse|11": {
+  "street": "Furkastrasse",
+  "hn": "11",
+  "lat": 46.3231203,
+  "lng": 7.9877563,
+  "mieter": []
+ },
+ "brig|furkastrasse|15b": {
+  "street": "Furkastrasse",
+  "hn": "15b",
+  "lat": 46.3236495,
+  "lng": 7.9878124,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|25": {
+  "street": "Bahnhofstrasse",
+  "hn": "25",
+  "lat": 46.324074,
+  "lng": 7.9854407,
+  "mieter": []
+ },
+ "brig|furkastrasse|15c": {
+  "street": "Furkastrasse",
+  "hn": "15c",
+  "lat": 46.3235241,
+  "lng": 7.9874994,
+  "mieter": []
+ },
+ "brig|furkastrasse|27": {
+  "street": "Furkastrasse",
+  "hn": "27",
+  "lat": 46.323728,
+  "lng": 7.9903964,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|26": {
+  "street": "Bahnhofstrasse",
+  "hn": "26",
+  "lat": 46.324072,
+  "lng": 7.9862212,
+  "mieter": []
+ },
+ "brig|furkastrasse|17,19,21": {
+  "street": "Furkastrasse",
+  "hn": "17,19,21",
+  "lat": 46.3234104,
+  "lng": 7.9893332,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|20": {
+  "street": "Bahnhofstrasse",
+  "hn": "20",
+  "lat": 46.3237882,
+  "lng": 7.9860019,
+  "mieter": []
+ },
+ "brig|furkastrasse|25": {
+  "street": "Furkastrasse",
+  "hn": "25",
+  "lat": 46.3236215,
+  "lng": 7.9900274,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|2,4,4a": {
+  "street": "Bahnhofstrasse",
+  "hn": "2,4,4a",
+  "lat": 46.3215412,
+  "lng": 7.9865991,
+  "mieter": []
+ },
+ "brig|furkastrasse|43": {
+  "street": "Furkastrasse",
+  "hn": "43",
+  "lat": 46.3251362,
+  "lng": 7.9928795,
+  "mieter": []
+ },
+ "brig|furkastrasse|63;63a;65;67;69": {
+  "street": "Furkastrasse",
+  "hn": "63;63a;65;67;69",
+  "lat": 46.3257874,
+  "lng": 7.9955746,
+  "mieter": []
+ },
+ "brig|furkastrasse|101": {
+  "street": "Furkastrasse",
+  "hn": "101",
+  "lat": 46.327901,
+  "lng": 8.0090422,
+  "mieter": []
+ },
+ "brig|furkastrasse|105": {
+  "street": "Furkastrasse",
+  "hn": "105",
+  "lat": 46.3281492,
+  "lng": 8.0097423,
+  "mieter": []
+ },
+ "brig|furkastrasse|140": {
+  "street": "Furkastrasse",
+  "hn": "140",
+  "lat": 46.327124,
+  "lng": 8.0104152,
+  "mieter": []
+ },
+ "brig|furkastrasse|95": {
+  "street": "Furkastrasse",
+  "hn": "95",
+  "lat": 46.3271387,
+  "lng": 8.0074618,
+  "mieter": []
+ },
+ "brig|furkastrasse|148": {
+  "street": "Furkastrasse",
+  "hn": "148",
+  "lat": 46.3286491,
+  "lng": 8.0115002,
+  "mieter": []
+ },
+ "brig|furkastrasse|138": {
+  "street": "Furkastrasse",
+  "hn": "138",
+  "lat": 46.3277482,
+  "lng": 8.0102491,
+  "mieter": []
+ },
+ "brig|furkastrasse|114": {
+  "street": "Furkastrasse",
+  "hn": "114",
+  "lat": 46.3267549,
+  "lng": 8.0079182,
+  "mieter": []
+ },
+ "brig|furkastrasse|93": {
+  "street": "Furkastrasse",
+  "hn": "93",
+  "lat": 46.3271454,
+  "lng": 8.0077837,
+  "mieter": []
+ },
+ "brig|furkastrasse|118": {
+  "street": "Furkastrasse",
+  "hn": "118",
+  "lat": 46.326922,
+  "lng": 8.0083141,
+  "mieter": []
+ },
+ "brig|furkastrasse|116": {
+  "street": "Furkastrasse",
+  "hn": "116",
+  "lat": 46.3266183,
+  "lng": 8.008046,
+  "mieter": []
+ },
+ "brig|furkastrasse|110": {
+  "street": "Furkastrasse",
+  "hn": "110",
+  "lat": 46.3265813,
+  "lng": 8.007478,
+  "mieter": []
+ },
+ "brig|furkastrasse|109": {
+  "street": "Furkastrasse",
+  "hn": "109",
+  "lat": 46.3289049,
+  "lng": 8.0111224,
+  "mieter": []
+ },
+ "brig|furkastrasse|111": {
+  "street": "Furkastrasse",
+  "hn": "111",
+  "lat": 46.3286657,
+  "lng": 8.0108587,
+  "mieter": []
+ },
+ "brig|furkastrasse|107": {
+  "street": "Furkastrasse",
+  "hn": "107",
+  "lat": 46.3283316,
+  "lng": 8.0101153,
+  "mieter": []
+ },
+ "brig|furkastrasse|99": {
+  "street": "Furkastrasse",
+  "hn": "99",
+  "lat": 46.3277207,
+  "lng": 8.0085022,
+  "mieter": []
+ },
+ "brig|furkastrasse|103": {
+  "street": "Furkastrasse",
+  "hn": "103",
+  "lat": 46.3280171,
+  "lng": 8.0093914,
+  "mieter": []
+ },
+ "brig|furkastrasse|136": {
+  "street": "Furkastrasse",
+  "hn": "136",
+  "lat": 46.3274938,
+  "lng": 8.0099079,
+  "mieter": []
+ },
+ "brig|furkastrasse|106": {
+  "street": "Furkastrasse",
+  "hn": "106",
+  "lat": 46.3254577,
+  "lng": 8.0040509,
+  "mieter": []
+ },
+ "brig|furkastrasse|78": {
+  "street": "Furkastrasse",
+  "hn": "78",
+  "lat": 46.325638,
+  "lng": 7.9988416,
+  "mieter": []
+ },
+ "brig|furkastrasse|61": {
+  "street": "Furkastrasse",
+  "hn": "61",
+  "lat": 46.3253955,
+  "lng": 7.996296,
+  "mieter": []
+ },
+ "brig|furkastrasse|73b;73c": {
+  "street": "Furkastrasse",
+  "hn": "73b;73c",
+  "lat": 46.3256064,
+  "lng": 7.9968647,
+  "mieter": []
+ },
+ "brig|furkastrasse|96": {
+  "street": "Furkastrasse",
+  "hn": "96",
+  "lat": 46.3257749,
+  "lng": 8.0009451,
+  "mieter": []
+ },
+ "brig|furkastrasse|58": {
+  "street": "Furkastrasse",
+  "hn": "58",
+  "lat": 46.3247015,
+  "lng": 7.9951301,
+  "mieter": []
+ },
+ "brig|furkastrasse|70": {
+  "street": "Furkastrasse",
+  "hn": "70",
+  "lat": 46.325332,
+  "lng": 7.9973308,
+  "mieter": []
+ },
+ "brig|furkastrasse|75": {
+  "street": "Furkastrasse",
+  "hn": "75",
+  "lat": 46.3259022,
+  "lng": 7.9968538,
+  "mieter": []
+ },
+ "brig|furkastrasse|59": {
+  "street": "Furkastrasse",
+  "hn": "59",
+  "lat": 46.3253694,
+  "lng": 7.9960645,
+  "mieter": []
+ },
+ "brig|furkastrasse|72": {
+  "street": "Furkastrasse",
+  "hn": "72",
+  "lat": 46.3254301,
+  "lng": 7.9977598,
+  "mieter": []
+ },
+ "brig|furkastrasse|68": {
+  "street": "Furkastrasse",
+  "hn": "68",
+  "lat": 46.3251352,
+  "lng": 7.9969655,
+  "mieter": []
+ },
+ "brig|furkastrasse|80": {
+  "street": "Furkastrasse",
+  "hn": "80",
+  "lat": 46.325458,
+  "lng": 7.9989355,
+  "mieter": []
+ },
+ "brig|furkastrasse|71": {
+  "street": "Furkastrasse",
+  "hn": "71",
+  "lat": 46.3259196,
+  "lng": 7.9963591,
+  "mieter": []
+ },
+ "brig|furkastrasse|82": {
+  "street": "Furkastrasse",
+  "hn": "82",
+  "lat": 46.3257059,
+  "lng": 7.9990707,
+  "mieter": []
+ },
+ "brig|furkastrasse|57": {
+  "street": "Furkastrasse",
+  "hn": "57",
+  "lat": 46.3255045,
+  "lng": 7.9956154,
+  "mieter": []
+ },
+ "brig|furkastrasse|94": {
+  "street": "Furkastrasse",
+  "hn": "94",
+  "lat": 46.3257465,
+  "lng": 8.0006128,
+  "mieter": []
+ },
+ "brig|furkastrasse|53": {
+  "street": "Furkastrasse",
+  "hn": "53",
+  "lat": 46.3252613,
+  "lng": 7.99515,
+  "mieter": []
+ },
+ "brig|furkastrasse|88,86": {
+  "street": "Furkastrasse",
+  "hn": "88,86",
+  "lat": 46.3254709,
+  "lng": 7.9994913,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|9b": {
+  "street": "Bahnhofstrasse",
+  "hn": "9b",
+  "lat": 46.3220717,
+  "lng": 7.9850297,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|9e": {
+  "street": "Bahnhofstrasse",
+  "hn": "9e",
+  "lat": 46.3217079,
+  "lng": 7.9852871,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|9d": {
+  "street": "Bahnhofstrasse",
+  "hn": "9d",
+  "lat": 46.3216139,
+  "lng": 7.9850179,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|9c": {
+  "street": "Bahnhofstrasse",
+  "hn": "9c",
+  "lat": 46.321846,
+  "lng": 7.9847403,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|17;19;21;23": {
+  "street": "Bahnhofstrasse",
+  "hn": "17;19;21;23",
+  "lat": 46.323593,
+  "lng": 7.9851605,
+  "mieter": []
+ },
+ "brig|furkastrasse|40": {
+  "street": "Furkastrasse",
+  "hn": "40",
+  "lat": 46.3233589,
+  "lng": 7.9922998,
+  "mieter": []
+ },
+ "brig|furkastrasse|38": {
+  "street": "Furkastrasse",
+  "hn": "38",
+  "lat": 46.3236298,
+  "lng": 7.9923966,
+  "mieter": []
+ },
+ "brig|furkastrasse|44": {
+  "street": "Furkastrasse",
+  "hn": "44",
+  "lat": 46.3241384,
+  "lng": 7.9932302,
+  "mieter": []
+ },
+ "brig|furkastrasse|46": {
+  "street": "Furkastrasse",
+  "hn": "46",
+  "lat": 46.324219,
+  "lng": 7.9934332,
+  "mieter": []
+ },
+ "brig|furkastrasse|48": {
+  "street": "Furkastrasse",
+  "hn": "48",
+  "lat": 46.3243059,
+  "lng": 7.9936635,
+  "mieter": []
+ },
+ "brig|furkastrasse|50": {
+  "street": "Furkastrasse",
+  "hn": "50",
+  "lat": 46.3243861,
+  "lng": 7.9939093,
+  "mieter": []
+ },
+ "brig|furkastrasse|54": {
+  "street": "Furkastrasse",
+  "hn": "54",
+  "lat": 46.3244562,
+  "lng": 7.9943678,
+  "mieter": []
+ },
+ "brig|furkastrasse|52": {
+  "street": "Furkastrasse",
+  "hn": "52",
+  "lat": 46.3241838,
+  "lng": 7.9942281,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|12;14": {
+  "street": "Bahnhofstrasse",
+  "hn": "12;14",
+  "lat": 46.3231265,
+  "lng": 7.9856699,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|14a": {
+  "street": "Bahnhofstrasse",
+  "hn": "14a",
+  "lat": 46.3233255,
+  "lng": 7.9857382,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 46.3235489,
+  "lng": 7.9856322,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|27": {
+  "street": "Bahnhofstrasse",
+  "hn": "27",
+  "lat": 46.3244689,
+  "lng": 7.9857186,
+  "mieter": []
+ },
+ "brig|furkastrasse|79": {
+  "street": "Furkastrasse",
+  "hn": "79",
+  "lat": 46.325874,
+  "lng": 7.9979729,
+  "mieter": []
+ },
+ "brig|furkastrasse|81": {
+  "street": "Furkastrasse",
+  "hn": "81",
+  "lat": 46.3259576,
+  "lng": 7.9983493,
+  "mieter": []
+ },
+ "brig|furkastrasse|85;83": {
+  "street": "Furkastrasse",
+  "hn": "85;83",
+  "lat": 46.3259907,
+  "lng": 7.9989232,
+  "mieter": []
+ },
+ "brig|furkastrasse|76": {
+  "street": "Furkastrasse",
+  "hn": "76",
+  "lat": 46.3255912,
+  "lng": 7.9986556,
+  "mieter": []
+ },
+ "brig|furkastrasse|64": {
+  "street": "Furkastrasse",
+  "hn": "64",
+  "lat": 46.3249227,
+  "lng": 7.9962449,
+  "mieter": []
+ },
+ "brig|furkastrasse|66": {
+  "street": "Furkastrasse",
+  "hn": "66",
+  "lat": 46.3250523,
+  "lng": 7.9965828,
+  "mieter": []
+ },
+ "brig|furkastrasse|89": {
+  "street": "Furkastrasse",
+  "hn": "89",
+  "lat": 46.3268602,
+  "lng": 8.0068337,
+  "mieter": []
+ },
+ "brig|furkastrasse|91": {
+  "street": "Furkastrasse",
+  "hn": "91",
+  "lat": 46.3270705,
+  "lng": 8.0071368,
+  "mieter": []
+ },
+ "brig|furkastrasse|140b": {
+  "street": "Furkastrasse",
+  "hn": "140b",
+  "lat": 46.3277518,
+  "lng": 8.0106613,
+  "mieter": []
+ },
+ "brig|furkastrasse|102": {
+  "street": "Furkastrasse",
+  "hn": "102",
+  "lat": 46.3259521,
+  "lng": 8.002575,
+  "mieter": []
+ },
+ "brig|furkastrasse|104": {
+  "street": "Furkastrasse",
+  "hn": "104",
+  "lat": 46.3260754,
+  "lng": 8.0032098,
+  "mieter": []
+ },
+ "brig|furkastrasse|15a": {
+  "street": "Furkastrasse",
+  "hn": "15a",
+  "lat": 46.3235254,
+  "lng": 7.9881665,
+  "mieter": []
+ },
+ "brig|furkastrasse|142": {
+  "street": "Furkastrasse",
+  "hn": "142",
+  "lat": 46.328387,
+  "lng": 8.0114676,
+  "mieter": []
+ },
+ "brig|furkastrasse|146": {
+  "street": "Furkastrasse",
+  "hn": "146",
+  "lat": 46.3284085,
+  "lng": 8.011182,
+  "mieter": []
+ },
+ "brig|furkastrasse|111a": {
+  "street": "Furkastrasse",
+  "hn": "111a",
+  "lat": 46.3285323,
+  "lng": 8.0107026,
+  "mieter": []
+ },
+ "brig|furkastrasse|111b": {
+  "street": "Furkastrasse",
+  "hn": "111b",
+  "lat": 46.3284484,
+  "lng": 8.0105283,
+  "mieter": []
+ },
+ "brig|furkastrasse|107a": {
+  "street": "Furkastrasse",
+  "hn": "107a",
+  "lat": 46.3285928,
+  "lng": 8.0104029,
+  "mieter": []
+ },
+ "brig|furkastrasse|99a": {
+  "street": "Furkastrasse",
+  "hn": "99a",
+  "lat": 46.3276845,
+  "lng": 8.0089014,
+  "mieter": []
+ },
+ "brig|furkastrasse|99b": {
+  "street": "Furkastrasse",
+  "hn": "99b",
+  "lat": 46.3277657,
+  "lng": 8.0089315,
+  "mieter": []
+ },
+ "brig|furkastrasse|97": {
+  "street": "Furkastrasse",
+  "hn": "97",
+  "lat": 46.3275404,
+  "lng": 8.0081926,
+  "mieter": []
+ },
+ "brig|furkastrasse|87": {
+  "street": "Furkastrasse",
+  "hn": "87",
+  "lat": 46.3267587,
+  "lng": 8.0064693,
+  "mieter": []
+ },
+ "brig|furkastrasse|106b": {
+  "street": "Furkastrasse",
+  "hn": "106b",
+  "lat": 46.3257462,
+  "lng": 8.0041156,
+  "mieter": []
+ },
+ "brig|furkastrasse|90": {
+  "street": "Furkastrasse",
+  "hn": "90",
+  "lat": 46.3251768,
+  "lng": 7.999714,
+  "mieter": []
+ },
+ "brig|furkastrasse|84": {
+  "street": "Furkastrasse",
+  "hn": "84",
+  "lat": 46.3257418,
+  "lng": 7.9992563,
+  "mieter": []
+ },
+ "brig|furkastrasse|78a": {
+  "street": "Furkastrasse",
+  "hn": "78a",
+  "lat": 46.3252656,
+  "lng": 7.9988353,
+  "mieter": []
+ },
+ "brig|furkastrasse|66a": {
+  "street": "Furkastrasse",
+  "hn": "66a",
+  "lat": 46.3251609,
+  "lng": 7.9967806,
+  "mieter": []
+ },
+ "brig|furkastrasse|58a": {
+  "street": "Furkastrasse",
+  "hn": "58a",
+  "lat": 46.3247861,
+  "lng": 7.9952674,
+  "mieter": []
+ },
+ "brig|furkastrasse|42": {
+  "street": "Furkastrasse",
+  "hn": "42",
+  "lat": 46.3240826,
+  "lng": 7.9930267,
+  "mieter": []
+ },
+ "brig|furkastrasse|54a": {
+  "street": "Furkastrasse",
+  "hn": "54a",
+  "lat": 46.3242582,
+  "lng": 7.9944397,
+  "mieter": []
+ },
+ "brig|furkastrasse|52a": {
+  "street": "Furkastrasse",
+  "hn": "52a",
+  "lat": 46.3243308,
+  "lng": 7.9941192,
+  "mieter": []
+ },
+ "brig|furkastrasse|36c": {
+  "street": "Furkastrasse",
+  "hn": "36c",
+  "lat": 46.3239362,
+  "lng": 7.9925035,
+  "mieter": []
+ },
+ "brig|furkastrasse|36b": {
+  "street": "Furkastrasse",
+  "hn": "36b",
+  "lat": 46.3238858,
+  "lng": 7.9923218,
+  "mieter": []
+ },
+ "brig|furkastrasse|36a": {
+  "street": "Furkastrasse",
+  "hn": "36a",
+  "lat": 46.3238114,
+  "lng": 7.9920392,
+  "mieter": []
+ },
+ "brig|bahnhofstrasse|23": {
+  "street": "Bahnhofstrasse",
+  "hn": "23",
+  "lat": 46.3239079,
+  "lng": 7.9853534,
+  "mieter": []
+ },
+ "brig|furkastrasse|26": {
+  "street": "Furkastrasse",
+  "hn": "26",
+  "lat": 46.3232526,
+  "lng": 7.9900546,
+  "mieter": []
+ },
+ "brig|furkastrasse|28": {
+  "street": "Furkastrasse",
+  "hn": "28",
+  "lat": 46.3233182,
+  "lng": 7.9902735,
+  "mieter": []
+ },
+ "brig|furkastrasse|30": {
+  "street": "Furkastrasse",
+  "hn": "30",
+  "lat": 46.3233867,
+  "lng": 7.9905406,
+  "mieter": []
+ },
+ "brig|furkastrasse|32": {
+  "street": "Furkastrasse",
+  "hn": "32",
+  "lat": 46.3234512,
+  "lng": 7.9907552,
+  "mieter": []
+ },
+ "brig|furkastrasse|34": {
+  "street": "Furkastrasse",
+  "hn": "34",
+  "lat": 46.3234794,
+  "lng": 7.991012,
+  "mieter": []
+ },
+ "brig|furkastrasse|16": {
+  "street": "Furkastrasse",
+  "hn": "16",
+  "lat": 46.3228979,
+  "lng": 7.9887309,
+  "mieter": []
+ },
+ "brig|furkastrasse|20": {
+  "street": "Furkastrasse",
+  "hn": "20",
+  "lat": 46.3228878,
+  "lng": 7.9893946,
+  "mieter": []
+ },
+ "brig|furkastrasse|92": {
+  "street": "Furkastrasse",
+  "hn": "92",
+  "lat": 46.3255625,
+  "lng": 8.0002489,
+  "mieter": []
+ },
+ "brig|furkastrasse|72a": {
+  "street": "Furkastrasse",
+  "hn": "72a",
+  "lat": 46.3252752,
+  "lng": 7.9974935,
+  "mieter": []
+ },
+ "brig|alte simplonstrasse|28": {
+  "street": "Alte Simplonstrasse",
+  "hn": "28",
+  "lat": 46.3151674,
+  "lng": 7.9908375,
+  "mieter": []
+ }
+}

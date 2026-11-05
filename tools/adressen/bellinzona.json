@@ -1,0 +1,667 @@
+{
+ "bellinzona|viale stazione|36": {
+  "street": "Viale Stazione",
+  "hn": "36",
+  "lat": 46.1963447,
+  "lng": 9.0301309,
+  "mieter": [
+   "Mobility Bellinzona Stazione",
+   "Centro viaggiatori FFS",
+   "Coop",
+   "Dr. Crivelli team dentistico",
+   "Fondazione istituto collettore LPP",
+   "sanovista – Studio Oftalmologico",
+   "log-in Centro di formazione"
+  ]
+ },
+ "bellinzona|viale stazione|33": {
+  "street": "Viale Stazione",
+  "hn": "33",
+  "lat": 46.1950434,
+  "lng": 9.0279397,
+  "mieter": [
+   "Cinema Forum",
+   "Unia"
+  ]
+ },
+ "bellinzona|via camminata|8": {
+  "street": "Via Camminata",
+  "hn": "8",
+  "lat": 46.1902286,
+  "lng": 9.022361,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|4": {
+  "street": "Viale Stazione",
+  "hn": "4",
+  "lat": 46.1922046,
+  "lng": 9.0242084,
+  "mieter": [
+   "Swisscom"
+  ]
+ },
+ "bellinzona|viale stazione|34": {
+  "street": "Viale Stazione",
+  "hn": "34",
+  "lat": 46.1947078,
+  "lng": 9.0280034,
+  "mieter": [
+   "Birreria Bavarese"
+  ]
+ },
+ "bellinzona|viale stazione|30": {
+  "street": "Viale Stazione",
+  "hn": "30",
+  "lat": 46.1941739,
+  "lng": 9.0273293,
+  "mieter": [
+   "Ristorante Pub 30"
+  ]
+ },
+ "bellinzona|viale stazione|18": {
+  "street": "Viale Stazione",
+  "hn": "18",
+  "lat": 46.1936166,
+  "lng": 9.0264882,
+  "mieter": [
+   "Snack bar Viale"
+  ]
+ },
+ "bellinzona|via camminata|5": {
+  "street": "Via Camminata",
+  "hn": "5",
+  "lat": 46.190699,
+  "lng": 9.0227038,
+  "mieter": [
+   "L'Antica Pizzeria da Michele",
+   "Libreria Bellinzonese"
+  ]
+ },
+ "bellinzona|viale stazione|19": {
+  "street": "Viale Stazione",
+  "hn": "19",
+  "lat": 46.1938898,
+  "lng": 9.026369,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|29b": {
+  "street": "Viale Stazione",
+  "hn": "29b",
+  "lat": 46.1947483,
+  "lng": 9.0276416,
+  "mieter": [
+   "Alja merceria"
+  ]
+ },
+ "bellinzona|via teatro|5": {
+  "street": "Via Teatro",
+  "hn": "5",
+  "lat": 46.1911004,
+  "lng": 9.0219736,
+  "mieter": [
+   "Bar Commercianti"
+  ]
+ },
+ "bellinzona|viale stazione|36b": {
+  "street": "Viale Stazione",
+  "hn": "36b",
+  "lat": 46.1958405,
+  "lng": 9.0298633,
+  "mieter": [
+   "BikePort"
+  ]
+ },
+ "bellinzona|viale stazione|6": {
+  "street": "Viale Stazione",
+  "hn": "6",
+  "lat": 46.1922262,
+  "lng": 9.0242514,
+  "mieter": [
+   "Linea Sana"
+  ]
+ },
+ "bellinzona|viale stazione|11": {
+  "street": "Viale Stazione",
+  "hn": "11",
+  "lat": 46.1737636,
+  "lng": 9.0040439,
+  "mieter": [
+   "Mr. Joe City"
+  ]
+ },
+ "bellinzona|viale stazione|1": {
+  "street": "Viale Stazione",
+  "hn": "1",
+  "lat": 46.1727155,
+  "lng": 9.0091305,
+  "mieter": [
+   "La Fonte"
+  ]
+ },
+ "bellinzona|via camminata|4": {
+  "street": "Via Camminata",
+  "hn": "4",
+  "lat": 46.1905388,
+  "lng": 9.0225314,
+  "mieter": []
+ },
+ "bellinzona|via camminata|3f": {
+  "street": "Via Camminata",
+  "hn": "3f",
+  "lat": 46.1907059,
+  "lng": 9.0229212,
+  "mieter": []
+ },
+ "bellinzona|via camminata|11": {
+  "street": "Via Camminata",
+  "hn": "11",
+  "lat": 46.1902314,
+  "lng": 9.0227679,
+  "mieter": []
+ },
+ "bellinzona|via camminata|3g": {
+  "street": "Via Camminata",
+  "hn": "3g",
+  "lat": 46.1906752,
+  "lng": 9.0230939,
+  "mieter": []
+ },
+ "bellinzona|via camminata|2": {
+  "street": "Via Camminata",
+  "hn": "2",
+  "lat": 46.1906003,
+  "lng": 9.0225613,
+  "mieter": []
+ },
+ "bellinzona|via camminata|3a": {
+  "street": "Via Camminata",
+  "hn": "3a",
+  "lat": 46.1907563,
+  "lng": 9.0227954,
+  "mieter": []
+ },
+ "bellinzona|via camminata|3c": {
+  "street": "Via Camminata",
+  "hn": "3c",
+  "lat": 46.1907414,
+  "lng": 9.0229277,
+  "mieter": []
+ },
+ "bellinzona|via camminata|3d": {
+  "street": "Via Camminata",
+  "hn": "3d",
+  "lat": 46.1907218,
+  "lng": 9.0230538,
+  "mieter": []
+ },
+ "bellinzona|via camminata|3": {
+  "street": "Via Camminata",
+  "hn": "3",
+  "lat": 46.1907846,
+  "lng": 9.0226506,
+  "mieter": []
+ },
+ "bellinzona|via camminata|7": {
+  "street": "Via Camminata",
+  "hn": "7",
+  "lat": 46.1905649,
+  "lng": 9.0228741,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|15": {
+  "street": "Viale Stazione",
+  "hn": "15",
+  "lat": 46.1935826,
+  "lng": 9.0258325,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|18a": {
+  "street": "Viale Stazione",
+  "hn": "18a",
+  "lat": 46.1932479,
+  "lng": 9.0257681,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|26": {
+  "street": "Viale Stazione",
+  "hn": "26",
+  "lat": 46.1939598,
+  "lng": 9.0268524,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|28": {
+  "street": "Viale Stazione",
+  "hn": "28",
+  "lat": 46.1940816,
+  "lng": 9.0270285,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|17b": {
+  "street": "Viale Stazione",
+  "hn": "17b",
+  "lat": 46.194008,
+  "lng": 9.0259009,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|17": {
+  "street": "Viale Stazione",
+  "hn": "17",
+  "lat": 46.193956,
+  "lng": 9.0259968,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|29a": {
+  "street": "Viale Stazione",
+  "hn": "29a",
+  "lat": 46.1946312,
+  "lng": 9.0274049,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|31a": {
+  "street": "Viale Stazione",
+  "hn": "31a",
+  "lat": 46.1949306,
+  "lng": 9.0275981,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|31": {
+  "street": "Viale Stazione",
+  "hn": "31",
+  "lat": 46.1948722,
+  "lng": 9.0278399,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|36d": {
+  "street": "Viale Stazione",
+  "hn": "36d",
+  "lat": 46.196363,
+  "lng": 9.0299478,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|36e": {
+  "street": "Viale Stazione",
+  "hn": "36e",
+  "lat": 46.1961681,
+  "lng": 9.0296841,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|3c": {
+  "street": "Viale Stazione",
+  "hn": "3c",
+  "lat": 46.1731458,
+  "lng": 9.0084697,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|11b": {
+  "street": "Viale Stazione",
+  "hn": "11b",
+  "lat": 46.1737067,
+  "lng": 9.0039427,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|11c": {
+  "street": "Viale Stazione",
+  "hn": "11c",
+  "lat": 46.173727,
+  "lng": 9.0038992,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|11d": {
+  "street": "Viale Stazione",
+  "hn": "11d",
+  "lat": 46.1736967,
+  "lng": 9.00386,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|9": {
+  "street": "Viale Stazione",
+  "hn": "9",
+  "lat": 46.1926493,
+  "lng": 9.0244969,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|21": {
+  "street": "Viale Stazione",
+  "hn": "21",
+  "lat": 46.1941421,
+  "lng": 9.0266657,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|18c": {
+  "street": "Viale Stazione",
+  "hn": "18c",
+  "lat": 46.193226,
+  "lng": 9.026348,
+  "mieter": []
+ },
+ "bellinzona|via camminata|3e": {
+  "street": "Via Camminata",
+  "hn": "3e",
+  "lat": 46.190727,
+  "lng": 9.022925,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|23": {
+  "street": "Viale Stazione",
+  "hn": "23",
+  "lat": 46.19419,
+  "lng": 9.0267315,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|1a": {
+  "street": "Viale Stazione",
+  "hn": "1a",
+  "lat": 46.17273,
+  "lng": 9.00901,
+  "mieter": []
+ },
+ "bellinzona|via teatro|7": {
+  "street": "Via Teatro",
+  "hn": "7",
+  "lat": 46.1912443,
+  "lng": 9.0219699,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|14a": {
+  "street": "Viale Stazione",
+  "hn": "14a",
+  "lat": 46.192888,
+  "lng": 9.0256222,
+  "mieter": [
+   "Salumée"
+  ]
+ },
+ "bellinzona|viale stazione|18b": {
+  "street": "Viale Stazione",
+  "hn": "18b",
+  "lat": 46.193226,
+  "lng": 9.026348,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|10": {
+  "street": "Viale Stazione",
+  "hn": "10",
+  "lat": 46.1925601,
+  "lng": 9.024675,
+  "mieter": []
+ },
+ "bellinzona|piazza rinaldo simen|6": {
+  "street": "Piazza Rinaldo Simen",
+  "hn": "6",
+  "lat": 46.1943614,
+  "lng": 9.0243611,
+  "mieter": [
+   "Buletti"
+  ]
+ },
+ "bellinzona|viale stazione|30a": {
+  "street": "Viale Stazione",
+  "hn": "30a",
+  "lat": 46.1735652,
+  "lng": 9.0033316,
+  "mieter": []
+ },
+ "bellinzona|piazza rinaldo simen|8": {
+  "street": "Piazza Rinaldo Simen",
+  "hn": "8",
+  "lat": 46.1937181,
+  "lng": 9.0242607,
+  "mieter": [
+   "Migros"
+  ]
+ },
+ "bellinzona|viale stazione|17a": {
+  "street": "Viale Stazione",
+  "hn": "17a",
+  "lat": 46.1938195,
+  "lng": 9.0261439,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|28a": {
+  "street": "Viale Stazione",
+  "hn": "28a",
+  "lat": 46.1938336,
+  "lng": 9.0272388,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|32": {
+  "street": "Viale Stazione",
+  "hn": "32",
+  "lat": 46.1943186,
+  "lng": 9.027582,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|27": {
+  "street": "Viale Stazione",
+  "hn": "27",
+  "lat": 46.1944675,
+  "lng": 9.0271608,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|25": {
+  "street": "Viale Stazione",
+  "hn": "25",
+  "lat": 46.1943746,
+  "lng": 9.0270223,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|13": {
+  "street": "Viale Stazione",
+  "hn": "13",
+  "lat": 46.1930714,
+  "lng": 9.0250432,
+  "mieter": []
+ },
+ "bellinzona|via camminata|9": {
+  "street": "Via Camminata",
+  "hn": "9",
+  "lat": 46.1904357,
+  "lng": 9.0226841,
+  "mieter": []
+ },
+ "bellinzona|via camminata|7a": {
+  "street": "Via Camminata",
+  "hn": "7a",
+  "lat": 46.1904077,
+  "lng": 9.0228776,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|35": {
+  "street": "Viale Stazione",
+  "hn": "35",
+  "lat": 46.1952249,
+  "lng": 9.0282547,
+  "mieter": []
+ },
+ "bellinzona|via camminata|6": {
+  "street": "Via Camminata",
+  "hn": "6",
+  "lat": 46.1904737,
+  "lng": 9.0223611,
+  "mieter": []
+ },
+ "bellinzona|piazza collegiata|1": {
+  "street": "Piazza Collegiata",
+  "hn": "1",
+  "lat": 46.1914758,
+  "lng": 9.0236916,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|2": {
+  "street": "Viale Stazione",
+  "hn": "2",
+  "lat": 46.192007,
+  "lng": 9.0239832,
+  "mieter": []
+ },
+ "bellinzona|via teatro|1": {
+  "street": "Via Teatro",
+  "hn": "1",
+  "lat": 46.1911266,
+  "lng": 9.02228,
+  "mieter": []
+ },
+ "bellinzona|via teatro|3": {
+  "street": "Via Teatro",
+  "hn": "3",
+  "lat": 46.1911563,
+  "lng": 9.0221529,
+  "mieter": []
+ },
+ "bellinzona|via teatro|11": {
+  "street": "Via Teatro",
+  "hn": "11",
+  "lat": 46.1912159,
+  "lng": 9.021734,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|5": {
+  "street": "Viale Stazione",
+  "hn": "5",
+  "lat": 46.192534,
+  "lng": 9.0242254,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|3": {
+  "street": "Viale Stazione",
+  "hn": "3",
+  "lat": 46.1923806,
+  "lng": 9.0239406,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|8": {
+  "street": "Viale Stazione",
+  "hn": "8",
+  "lat": 46.1923068,
+  "lng": 9.0244161,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|8a": {
+  "street": "Viale Stazione",
+  "hn": "8a",
+  "lat": 46.1923722,
+  "lng": 9.0246728,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|12": {
+  "street": "Viale Stazione",
+  "hn": "12",
+  "lat": 46.1927705,
+  "lng": 9.0250976,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|14": {
+  "street": "Viale Stazione",
+  "hn": "14",
+  "lat": 46.1928836,
+  "lng": 9.0252913,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|16": {
+  "street": "Viale Stazione",
+  "hn": "16",
+  "lat": 46.1737972,
+  "lng": 9.0077872,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|5a": {
+  "street": "Viale Stazione",
+  "hn": "5a",
+  "lat": 46.1733727,
+  "lng": 9.0075746,
+  "mieter": [
+   "Elementaschule"
+  ]
+ },
+ "bellinzona|viale stazione|7": {
+  "street": "Viale Stazione",
+  "hn": "7",
+  "lat": 46.1735369,
+  "lng": 9.005967,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|36a": {
+  "street": "Viale Stazione",
+  "hn": "36a",
+  "lat": 46.1955295,
+  "lng": 9.0295033,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|36c": {
+  "street": "Viale Stazione",
+  "hn": "36c",
+  "lat": 46.1968257,
+  "lng": 9.0311051,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|20": {
+  "street": "Viale Stazione",
+  "hn": "20",
+  "lat": 46.1739276,
+  "lng": 9.0066251,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|22": {
+  "street": "Viale Stazione",
+  "hn": "22",
+  "lat": 46.1739621,
+  "lng": 9.0063649,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|24": {
+  "street": "Viale Stazione",
+  "hn": "24",
+  "lat": 46.1739979,
+  "lng": 9.0061117,
+  "mieter": []
+ },
+ "bellinzona|via camminata|4a": {
+  "street": "Via Camminata",
+  "hn": "4a",
+  "lat": 46.1905867,
+  "lng": 9.0222188,
+  "mieter": []
+ },
+ "bellinzona|via camminata|3b": {
+  "street": "Via Camminata",
+  "hn": "3b",
+  "lat": 46.1907715,
+  "lng": 9.0228608,
+  "mieter": []
+ },
+ "bellinzona|via camminata|1": {
+  "street": "Via Camminata",
+  "hn": "1",
+  "lat": 46.190836,
+  "lng": 9.0227536,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|12a": {
+  "street": "Viale Stazione",
+  "hn": "12a",
+  "lat": 46.1925772,
+  "lng": 9.0251347,
+  "mieter": []
+ },
+ "bellinzona|via teatro|9": {
+  "street": "Via Teatro",
+  "hn": "9",
+  "lat": 46.1911785,
+  "lng": 9.0218339,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|16a": {
+  "street": "Viale Stazione",
+  "hn": "16a",
+  "lat": 46.1930737,
+  "lng": 9.0256138,
+  "mieter": []
+ },
+ "bellinzona|viale stazione|11a": {
+  "street": "Viale Stazione",
+  "hn": "11a",
+  "lat": 46.1738465,
+  "lng": 9.004208,
+  "mieter": []
+ }
+}

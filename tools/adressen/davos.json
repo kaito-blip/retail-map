@@ -1,0 +1,3293 @@
+{
+ "davos|mattastrasse|58": {
+  "street": "Mattastrasse",
+  "hn": "58",
+  "lat": 46.7973344,
+  "lng": 9.8353605,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 46.792585,
+  "lng": 9.8208079,
+  "mieter": [
+   "Coop",
+   "Amavita",
+   "Spar"
+  ]
+ },
+ "davos|talstrasse|8": {
+  "street": "Talstrasse",
+  "hn": "8",
+  "lat": 46.7935324,
+  "lng": 9.8234111,
+  "mieter": [
+   "Spar"
+  ]
+ },
+ "davos|promenade|128": {
+  "street": "Promenade",
+  "hn": "128",
+  "lat": 46.8045838,
+  "lng": 9.8370063,
+  "mieter": [
+   "Dorfkeller"
+  ]
+ },
+ "davos|talstrasse|28e": {
+  "street": "Talstrasse",
+  "hn": "28e",
+  "lat": 46.7976365,
+  "lng": 9.8279292,
+  "mieter": [
+   "Coop Pronto"
+  ]
+ },
+ "davos|talstrasse|57": {
+  "street": "Talstrasse",
+  "hn": "57",
+  "lat": 46.8021515,
+  "lng": 9.836959,
+  "mieter": []
+ },
+ "davos|promenade|38": {
+  "street": "Promenade",
+  "hn": "38",
+  "lat": 46.7929095,
+  "lng": 9.8202771,
+  "mieter": [
+   "Kaffeeklatsch"
+  ]
+ },
+ "davos|obere strasse|20": {
+  "street": "Obere Strasse",
+  "hn": "20",
+  "lat": 46.7948573,
+  "lng": 9.819648,
+  "mieter": [
+   "Bistro Guggerzyt"
+  ]
+ },
+ "davos|talstrasse|5": {
+  "street": "Talstrasse",
+  "hn": "5",
+  "lat": 46.7921195,
+  "lng": 9.8205885,
+  "mieter": [
+   "D'Julia",
+   "JYSK"
+  ]
+ },
+ "davos|promenade|63": {
+  "street": "Promenade",
+  "hn": "63",
+  "lat": 46.797011,
+  "lng": 9.8218365,
+  "mieter": [
+   "Ex Bar",
+   "Second Life",
+   "Flio"
+  ]
+ },
+ "davos|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 46.8090095,
+  "lng": 9.841047,
+  "mieter": [
+   "Montana Stube",
+   "Montana Bar"
+  ]
+ },
+ "davos|promenade|95": {
+  "street": "Promenade",
+  "hn": "95",
+  "lat": 46.8014803,
+  "lng": 9.8299249,
+  "mieter": [
+   "Ristorante da Elio"
+  ]
+ },
+ "davos|promenade|67": {
+  "street": "Promenade",
+  "hn": "67",
+  "lat": 46.7975088,
+  "lng": 9.8220498,
+  "mieter": []
+ },
+ "davos|promenade|50": {
+  "street": "Promenade",
+  "hn": "50",
+  "lat": 46.7947387,
+  "lng": 9.8212643,
+  "mieter": [
+   "Amavita",
+   "Angerer Sport",
+   "Pizzeria Damia",
+   "Just One"
+  ]
+ },
+ "davos|promenade|123": {
+  "street": "Promenade",
+  "hn": "123",
+  "lat": 46.8039642,
+  "lng": 9.8364455,
+  "mieter": [
+   "EP:Bernhard"
+  ]
+ },
+ "davos|promenade|45": {
+  "street": "Promenade",
+  "hn": "45",
+  "lat": 46.793723,
+  "lng": 9.8207491,
+  "mieter": [
+   "Stau"
+  ]
+ },
+ "davos|promenade|101": {
+  "street": "Promenade",
+  "hn": "101",
+  "lat": 46.8014345,
+  "lng": 9.8310726,
+  "mieter": [
+   "Metzg Davos"
+  ]
+ },
+ "davos|promenade|116": {
+  "street": "Promenade",
+  "hn": "116",
+  "lat": 46.8030706,
+  "lng": 9.8364758,
+  "mieter": []
+ },
+ "davos|promenade|43": {
+  "street": "Promenade",
+  "hn": "43",
+  "lat": 46.7936966,
+  "lng": 9.8204391,
+  "mieter": [
+   "Dokumentationsbibliothek Davos",
+   "Bibliothek Davos",
+   "Landratssaal"
+  ]
+ },
+ "davos|obere strasse|39": {
+  "street": "Obere Strasse",
+  "hn": "39",
+  "lat": 46.7959031,
+  "lng": 9.8193003,
+  "mieter": [
+   "Giodavin"
+  ]
+ },
+ "davos|mattastrasse|11": {
+  "street": "Mattastrasse",
+  "hn": "11",
+  "lat": 46.7939181,
+  "lng": 9.8265891,
+  "mieter": [
+   "Bräma"
+  ]
+ },
+ "davos|talstrasse|3": {
+  "street": "Talstrasse",
+  "hn": "3",
+  "lat": 46.7912975,
+  "lng": 9.8198377,
+  "mieter": [
+   "Golden Dragon",
+   "Pulsa Bar & Lounge",
+   "Monta Grillrestaurant",
+   "Leonto",
+   "Pulsa Fonduestube",
+   "Apollo"
+  ]
+ },
+ "davos|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 46.8092487,
+  "lng": 9.8414967,
+  "mieter": [
+   "DacCapo",
+   "Loja do Manel - Sabores de Portugal",
+   "Migrolino"
+  ]
+ },
+ "davos|promenade|118": {
+  "street": "Promenade",
+  "hn": "118",
+  "lat": 46.8034449,
+  "lng": 9.8365997,
+  "mieter": [
+   "Excellent"
+  ]
+ },
+ "davos|promenade|127": {
+  "street": "Promenade",
+  "hn": "127",
+  "lat": 46.8045557,
+  "lng": 9.8367687,
+  "mieter": [
+   "Go Vertical Davos"
+  ]
+ },
+ "davos|promenade|125": {
+  "street": "Promenade",
+  "hn": "125",
+  "lat": 46.8043353,
+  "lng": 9.8366802,
+  "mieter": [
+   "Pflanzenbrocki"
+  ]
+ },
+ "davos|promenade|106": {
+  "street": "Promenade",
+  "hn": "106",
+  "lat": 46.8020487,
+  "lng": 9.8350491,
+  "mieter": [
+   "Orange Davos",
+   "Dr. med. vet. Geret Catrina"
+  ]
+ },
+ "davos|promenade|105": {
+  "street": "Promenade",
+  "hn": "105",
+  "lat": 46.8016213,
+  "lng": 9.8326111,
+  "mieter": [
+   "Migros",
+   "Migros Restaurant"
+  ]
+ },
+ "davos|mattastrasse|7": {
+  "street": "Mattastrasse",
+  "hn": "7",
+  "lat": 46.7940286,
+  "lng": 9.8261894,
+  "mieter": [
+   "Hofmänner"
+  ]
+ },
+ "davos|mattastrasse|9": {
+  "street": "Mattastrasse",
+  "hn": "9",
+  "lat": 46.794703,
+  "lng": 9.8264116,
+  "mieter": [
+   "Controll Garage"
+  ]
+ },
+ "davos|promenade|90": {
+  "street": "Promenade",
+  "hn": "90",
+  "lat": 46.800651,
+  "lng": 9.8307003,
+  "mieter": []
+ },
+ "davos|talstrasse|22": {
+  "street": "Talstrasse",
+  "hn": "22",
+  "lat": 46.7954966,
+  "lng": 9.8248384,
+  "mieter": [
+   "Specialized;Woom;Assos;Sweet Protection;Evoc;Advenate"
+  ]
+ },
+ "davos|promenade|40": {
+  "street": "Promenade",
+  "hn": "40",
+  "lat": 46.7934267,
+  "lng": 9.8213266,
+  "mieter": [
+   "Migros",
+   "Mc PaperLand",
+   "Decathlon",
+   "Rätia Center"
+  ]
+ },
+ "davos|talstrasse|2": {
+  "street": "Talstrasse",
+  "hn": "2",
+  "lat": 46.7904818,
+  "lng": 9.8193902,
+  "mieter": [
+   "La Carretta"
+  ]
+ },
+ "davos|talstrasse|2b": {
+  "street": "Talstrasse",
+  "hn": "2b",
+  "lat": 46.7908673,
+  "lng": 9.8200704,
+  "mieter": [
+   "Polizeiposten und Kripostützpunkt Davos"
+  ]
+ },
+ "davos|talstrasse|2c": {
+  "street": "Talstrasse",
+  "hn": "2c",
+  "lat": 46.7911345,
+  "lng": 9.8203569,
+  "mieter": [
+   "H&M"
+  ]
+ },
+ "davos|talstrasse|2a": {
+  "street": "Talstrasse",
+  "hn": "2a",
+  "lat": 46.7907002,
+  "lng": 9.8198934,
+  "mieter": [
+   "RAV"
+  ]
+ },
+ "davos|talstrasse|33": {
+  "street": "Talstrasse",
+  "hn": "33",
+  "lat": 46.7955758,
+  "lng": 9.8245864,
+  "mieter": [
+   "milk & more GmbH",
+   "Davos Kebab"
+  ]
+ },
+ "davos|mattastrasse|50a": {
+  "street": "Mattastrasse",
+  "hn": "50a",
+  "lat": 46.7963249,
+  "lng": 9.8326293,
+  "mieter": []
+ },
+ "davos|promenade|42": {
+  "street": "Promenade",
+  "hn": "42",
+  "lat": 46.7941305,
+  "lng": 9.8213446,
+  "mieter": [
+   "Pöstli Club"
+  ]
+ },
+ "davos|promenade|49": {
+  "street": "Promenade",
+  "hn": "49",
+  "lat": 46.7948579,
+  "lng": 9.8210206,
+  "mieter": [
+   "LIEBLINGSSTÜCK Store Davos",
+   "Vittorio della Pasta",
+   "Musik Kollegger"
+  ]
+ },
+ "davos|promenade|98": {
+  "street": "Promenade",
+  "hn": "98",
+  "lat": 46.8014281,
+  "lng": 9.8340183,
+  "mieter": [
+   "Gourmet Käch GmbH"
+  ]
+ },
+ "davos|talstrasse|17": {
+  "street": "Talstrasse",
+  "hn": "17",
+  "lat": 46.7934285,
+  "lng": 9.8230065,
+  "mieter": [
+   "Pizzeria Padrino"
+  ]
+ },
+ "davos|promenade|100": {
+  "street": "Promenade",
+  "hn": "100",
+  "lat": 46.8014345,
+  "lng": 9.8342857,
+  "mieter": [
+   "La Piazza"
+  ]
+ },
+ "davos|promenade|144": {
+  "street": "Promenade",
+  "hn": "144",
+  "lat": 46.8070845,
+  "lng": 9.8378532,
+  "mieter": [
+   "AlpäTraum",
+   "Dorf-Drogerie Davos"
+  ]
+ },
+ "davos|promenade|73": {
+  "street": "Promenade",
+  "hn": "73",
+  "lat": 46.7981788,
+  "lng": 9.8228749,
+  "mieter": [
+   "CACAO",
+   "Odlo Store Davos",
+   "Wollino"
+  ]
+ },
+ "davos|promenade|81": {
+  "street": "Promenade",
+  "hn": "81",
+  "lat": 46.7989928,
+  "lng": 9.8241847,
+  "mieter": [
+   "Bioladen Davos"
+  ]
+ },
+ "davos|promenade|152": {
+  "street": "Promenade",
+  "hn": "152",
+  "lat": 46.8080627,
+  "lng": 9.8386945,
+  "mieter": [
+   "Parsenn Gada"
+  ]
+ },
+ "davos|promenade|87": {
+  "street": "Promenade",
+  "hn": "87",
+  "lat": 46.7994963,
+  "lng": 9.8249453,
+  "mieter": [
+   "Green Hub"
+  ]
+ },
+ "davos|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 46.791759,
+  "lng": 9.8198198,
+  "mieter": [
+   "migros klubschule",
+   "Berufsfachschule Davos"
+  ]
+ },
+ "davos|talstrasse|54b": {
+  "street": "Talstrasse",
+  "hn": "54b",
+  "lat": 46.8010834,
+  "lng": 9.8365419,
+  "mieter": [
+   "Volvo Suzuki"
+  ]
+ },
+ "davos|bahnhofstrasse|8a": {
+  "street": "Bahnhofstrasse",
+  "hn": "8a",
+  "lat": 46.8101868,
+  "lng": 9.842325,
+  "mieter": [
+   "Geotest AG"
+  ]
+ },
+ "davos|talstrasse|30": {
+  "street": "Talstrasse",
+  "hn": "30",
+  "lat": 46.798114,
+  "lng": 9.8285456,
+  "mieter": [
+   "Sportplatzgarage Gutknecht GmbH"
+  ]
+ },
+ "davos|bahnhofstrasse|19": {
+  "street": "Bahnhofstrasse",
+  "hn": "19",
+  "lat": 46.8118139,
+  "lng": 9.8432084,
+  "mieter": [
+   "BOX Davos"
+  ]
+ },
+ "davos|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 46.809374,
+  "lng": 9.840197,
+  "mieter": [
+   "Dörfji"
+  ]
+ },
+ "davos|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 46.8093654,
+  "lng": 9.8412837,
+  "mieter": [
+   "BrockiGrischun"
+  ]
+ },
+ "davos|promenade|64": {
+  "street": "Promenade",
+  "hn": "64",
+  "lat": 46.7978172,
+  "lng": 9.822465,
+  "mieter": [
+   "Mountain`s Akt Diner & Bar & Biergarten",
+   "47 Grad"
+  ]
+ },
+ "davos|promenade|66": {
+  "street": "Promenade",
+  "hn": "66",
+  "lat": 46.7979233,
+  "lng": 9.8225881,
+  "mieter": [
+   "Augenoptik Schneider"
+  ]
+ },
+ "davos|promenade|68": {
+  "street": "Promenade",
+  "hn": "68",
+  "lat": 46.7981224,
+  "lng": 9.8231904,
+  "mieter": [
+   "Hugo's"
+  ]
+ },
+ "davos|promenade|79": {
+  "street": "Promenade",
+  "hn": "79",
+  "lat": 46.7988533,
+  "lng": 9.8240109,
+  "mieter": [
+   "Degiacomi Schuhmode"
+  ]
+ },
+ "davos|promenade|78": {
+  "street": "Promenade",
+  "hn": "78",
+  "lat": 46.7989313,
+  "lng": 9.8245117,
+  "mieter": [
+   "Schuler Bücher"
+  ]
+ },
+ "davos|promenade|59": {
+  "street": "Promenade",
+  "hn": "59",
+  "lat": 46.7956897,
+  "lng": 9.821175,
+  "mieter": [
+   "Casty Wohnen AG"
+  ]
+ },
+ "davos|promenade|52": {
+  "street": "Promenade",
+  "hn": "52",
+  "lat": 46.79565,
+  "lng": 9.8214866,
+  "mieter": [
+   "Barbaros Barbers"
+  ]
+ },
+ "davos|promenade|55": {
+  "street": "Promenade",
+  "hn": "55",
+  "lat": 46.7953065,
+  "lng": 9.8210895,
+  "mieter": [
+   "Peak Performance"
+  ]
+ },
+ "davos|promenade|83": {
+  "street": "Promenade",
+  "hn": "83",
+  "lat": 46.7992405,
+  "lng": 9.8244244,
+  "mieter": [
+   "Sven Schulz"
+  ]
+ },
+ "davos|mattastrasse|50.1": {
+  "street": "Mattastrasse",
+  "hn": "50.1",
+  "lat": 46.7965365,
+  "lng": 9.8330384,
+  "mieter": []
+ },
+ "davos|mattastrasse|58.1": {
+  "street": "Mattastrasse",
+  "hn": "58.1",
+  "lat": 46.7972283,
+  "lng": 9.834425,
+  "mieter": []
+ },
+ "davos|mattastrasse|46a": {
+  "street": "Mattastrasse",
+  "hn": "46a",
+  "lat": 46.7960629,
+  "lng": 9.8318467,
+  "mieter": [
+   "Sportplatzgarage Gutknecht GMBH",
+   "Matta-Carrosserie AG"
+  ]
+ },
+ "davos|mattastrasse|48": {
+  "street": "Mattastrasse",
+  "hn": "48",
+  "lat": 46.7963919,
+  "lng": 9.833079,
+  "mieter": [
+   "Autovermietung Stiffler GmbH"
+  ]
+ },
+ "davos|talstrasse|49a": {
+  "street": "Talstrasse",
+  "hn": "49a",
+  "lat": 46.8004851,
+  "lng": 9.8316512,
+  "mieter": []
+ },
+ "davos|promenade|131": {
+  "street": "Promenade",
+  "hn": "131",
+  "lat": 46.8050941,
+  "lng": 9.8369715,
+  "mieter": [
+   "Freitag"
+  ]
+ },
+ "davos|promenade|120": {
+  "street": "Promenade",
+  "hn": "120",
+  "lat": 46.803874,
+  "lng": 9.8367642,
+  "mieter": [
+   "BeeYou cosmetics"
+  ]
+ },
+ "davos|promenade|71": {
+  "street": "Promenade",
+  "hn": "71",
+  "lat": 46.797947,
+  "lng": 9.8223308,
+  "mieter": [
+   "MOB Sportinetta"
+  ]
+ },
+ "davos|promenade|72": {
+  "street": "Promenade",
+  "hn": "72",
+  "lat": 46.7982634,
+  "lng": 9.8234696,
+  "mieter": [
+   "Herz Fashion Davos"
+  ]
+ },
+ "davos|promenade|77": {
+  "street": "Promenade",
+  "hn": "77",
+  "lat": 46.7984918,
+  "lng": 9.8235358,
+  "mieter": [
+   "Allenbach Boutique"
+  ]
+ },
+ "davos|promenade|56b": {
+  "street": "Promenade",
+  "hn": "56b",
+  "lat": 46.7962448,
+  "lng": 9.8222982,
+  "mieter": []
+ },
+ "davos|mattastrasse|6": {
+  "street": "Mattastrasse",
+  "hn": "6",
+  "lat": 46.7944916,
+  "lng": 9.8245987,
+  "mieter": []
+ },
+ "davos|mattastrasse|10": {
+  "street": "Mattastrasse",
+  "hn": "10",
+  "lat": 46.7941189,
+  "lng": 9.824824,
+  "mieter": [
+   "Ursolø‘s Cave"
+  ]
+ },
+ "davos|mattastrasse|21": {
+  "street": "Mattastrasse",
+  "hn": "21",
+  "lat": 46.7941813,
+  "lng": 9.8281285,
+  "mieter": [
+   "Nailpoint Morandi Claudia"
+  ]
+ },
+ "davos|promenade|88": {
+  "street": "Promenade",
+  "hn": "88",
+  "lat": 46.8012437,
+  "lng": 9.8292405,
+  "mieter": [
+   "Ludothek Davos",
+   "Kindervilla Schweizerhaus"
+  ]
+ },
+ "davos|promenade|142": {
+  "street": "Promenade",
+  "hn": "142",
+  "lat": 46.8069184,
+  "lng": 9.8377459,
+  "mieter": [
+   "Kindercafé Falclas"
+  ]
+ },
+ "davos|promenade|119": {
+  "street": "Promenade",
+  "hn": "119",
+  "lat": 46.802879,
+  "lng": 9.8359012,
+  "mieter": [
+   "Green Wildman"
+  ]
+ },
+ "davos|talstrasse|54a": {
+  "street": "Talstrasse",
+  "hn": "54a",
+  "lat": 46.8013056,
+  "lng": 9.8368035,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|4b": {
+  "street": "Bahnhofstrasse",
+  "hn": "4b",
+  "lat": 46.7921774,
+  "lng": 9.8195669,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|4c": {
+  "street": "Bahnhofstrasse",
+  "hn": "4c",
+  "lat": 46.7922524,
+  "lng": 9.8193845,
+  "mieter": []
+ },
+ "davos|promenade|4": {
+  "street": "Promenade",
+  "hn": "4",
+  "lat": 46.7877385,
+  "lng": 9.8142594,
+  "mieter": [
+   "Praxiszentrum Davos"
+  ]
+ },
+ "davos|promenade|28": {
+  "street": "Promenade",
+  "hn": "28",
+  "lat": 46.7917232,
+  "lng": 9.8187425,
+  "mieter": [
+   "Claro midenand Lade"
+  ]
+ },
+ "davos|mattastrasse|17": {
+  "street": "Mattastrasse",
+  "hn": "17",
+  "lat": 46.793918,
+  "lng": 9.8273508,
+  "mieter": [
+   "Eisenwaren Kaufmann"
+  ]
+ },
+ "davos|talstrasse|4": {
+  "street": "Talstrasse",
+  "hn": "4",
+  "lat": 46.7921098,
+  "lng": 9.8212962,
+  "mieter": [
+   "Arc8;Transition;Flyer"
+  ]
+ },
+ "davos|promenade|148": {
+  "street": "Promenade",
+  "hn": "148",
+  "lat": 46.8077643,
+  "lng": 9.8383461,
+  "mieter": [
+   "Café Restaurant Weber",
+   "Bäckerei Weber"
+  ]
+ },
+ "davos|promenade|74": {
+  "street": "Promenade",
+  "hn": "74",
+  "lat": 46.798604,
+  "lng": 9.8239561,
+  "mieter": [
+   "ARGO Laden"
+  ]
+ },
+ "davos|talstrasse|29": {
+  "street": "Talstrasse",
+  "hn": "29",
+  "lat": 46.794992,
+  "lng": 9.8239865,
+  "mieter": [
+   "Hübsch"
+  ]
+ },
+ "davos|promenade|69": {
+  "street": "Promenade",
+  "hn": "69",
+  "lat": 46.7976797,
+  "lng": 9.8221135,
+  "mieter": [
+   "Bike Academy Davos"
+  ]
+ },
+ "davos|promenade|147": {
+  "street": "Promenade",
+  "hn": "147",
+  "lat": 46.8078225,
+  "lng": 9.8378862,
+  "mieter": []
+ },
+ "davos|promenade|147a": {
+  "street": "Promenade",
+  "hn": "147a",
+  "lat": 46.8077738,
+  "lng": 9.8380871,
+  "mieter": []
+ },
+ "davos|promenade|115": {
+  "street": "Promenade",
+  "hn": "115",
+  "lat": 46.8026369,
+  "lng": 9.8356972,
+  "mieter": []
+ },
+ "davos|promenade|92b": {
+  "street": "Promenade",
+  "hn": "92b",
+  "lat": 46.8011634,
+  "lng": 9.8313132,
+  "mieter": []
+ },
+ "davos|promenade|92": {
+  "street": "Promenade",
+  "hn": "92",
+  "lat": 46.8009592,
+  "lng": 9.8308944,
+  "mieter": []
+ },
+ "davos|promenade|89": {
+  "street": "Promenade",
+  "hn": "89",
+  "lat": 46.8006939,
+  "lng": 9.8265259,
+  "mieter": []
+ },
+ "davos|promenade|89a": {
+  "street": "Promenade",
+  "hn": "89a",
+  "lat": 46.800257,
+  "lng": 9.8254891,
+  "mieter": []
+ },
+ "davos|talstrasse|39a": {
+  "street": "Talstrasse",
+  "hn": "39a",
+  "lat": 46.7962456,
+  "lng": 9.8254422,
+  "mieter": []
+ },
+ "davos|talstrasse|39": {
+  "street": "Talstrasse",
+  "hn": "39",
+  "lat": 46.7962012,
+  "lng": 9.8253862,
+  "mieter": []
+ },
+ "davos|promenade|55a": {
+  "street": "Promenade",
+  "hn": "55a",
+  "lat": 46.7952273,
+  "lng": 9.8210814,
+  "mieter": []
+ },
+ "davos|promenade|41a": {
+  "street": "Promenade",
+  "hn": "41a",
+  "lat": 46.7931594,
+  "lng": 9.8204897,
+  "mieter": []
+ },
+ "davos|promenade|41b": {
+  "street": "Promenade",
+  "hn": "41b",
+  "lat": 46.7933154,
+  "lng": 9.8202828,
+  "mieter": []
+ },
+ "davos|promenade|41": {
+  "street": "Promenade",
+  "hn": "41",
+  "lat": 46.7933017,
+  "lng": 9.8204112,
+  "mieter": []
+ },
+ "davos|promenade|41c": {
+  "street": "Promenade",
+  "hn": "41c",
+  "lat": 46.7932583,
+  "lng": 9.8200828,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|4a": {
+  "street": "Bahnhofstrasse",
+  "hn": "4A",
+  "lat": 46.7921177,
+  "lng": 9.8191368,
+  "mieter": [
+   "Aldi"
+  ]
+ },
+ "davos|talstrasse|18": {
+  "street": "Talstrasse",
+  "hn": "18",
+  "lat": 46.7945829,
+  "lng": 9.8239237,
+  "mieter": [
+   "Caprizzi Sportsbar"
+  ]
+ },
+ "davos|promenade|47": {
+  "street": "Promenade",
+  "hn": "47",
+  "lat": 46.7944066,
+  "lng": 9.8208261,
+  "mieter": []
+ },
+ "davos|talstrasse|41": {
+  "street": "Talstrasse",
+  "hn": "41",
+  "lat": 46.7978555,
+  "lng": 9.8269651,
+  "mieter": []
+ },
+ "davos|mattastrasse|25": {
+  "street": "Mattastrasse",
+  "hn": "25",
+  "lat": 46.7988488,
+  "lng": 9.8402099,
+  "mieter": []
+ },
+ "davos|promenade|24a": {
+  "street": "Promenade",
+  "hn": "24a",
+  "lat": 46.7911612,
+  "lng": 9.8186823,
+  "mieter": []
+ },
+ "davos|promenade|25": {
+  "street": "Promenade",
+  "hn": "25",
+  "lat": 46.7913526,
+  "lng": 9.8177846,
+  "mieter": []
+ },
+ "davos|promenade|31": {
+  "street": "Promenade",
+  "hn": "31",
+  "lat": 46.7919816,
+  "lng": 9.8185695,
+  "mieter": []
+ },
+ "davos|obere strasse|2": {
+  "street": "Obere Strasse",
+  "hn": "2",
+  "lat": 46.7915175,
+  "lng": 9.8178712,
+  "mieter": []
+ },
+ "davos|promenade|22": {
+  "street": "Promenade",
+  "hn": "22",
+  "lat": 46.7911009,
+  "lng": 9.8182208,
+  "mieter": []
+ },
+ "davos|promenade|33b": {
+  "street": "Promenade",
+  "hn": "33b",
+  "lat": 46.7923397,
+  "lng": 9.8185011,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 46.790875,
+  "lng": 9.8189497,
+  "mieter": [
+   "Pauluskirche"
+  ]
+ },
+ "davos|obere strasse|8": {
+  "street": "Obere Strasse",
+  "hn": "8",
+  "lat": 46.7920723,
+  "lng": 9.8181631,
+  "mieter": []
+ },
+ "davos|promenade|27": {
+  "street": "Promenade",
+  "hn": "27",
+  "lat": 46.7914646,
+  "lng": 9.8181351,
+  "mieter": []
+ },
+ "davos|promenade|36": {
+  "street": "Promenade",
+  "hn": "36",
+  "lat": 46.7925784,
+  "lng": 9.819649,
+  "mieter": []
+ },
+ "davos|obere strasse|19": {
+  "street": "Obere Strasse",
+  "hn": "19",
+  "lat": 46.7920785,
+  "lng": 9.8177648,
+  "mieter": []
+ },
+ "davos|promenade|37": {
+  "street": "Promenade",
+  "hn": "37",
+  "lat": 46.7929137,
+  "lng": 9.8198166,
+  "mieter": []
+ },
+ "davos|promenade|24": {
+  "street": "Promenade",
+  "hn": "24",
+  "lat": 46.7910155,
+  "lng": 9.8185314,
+  "mieter": []
+ },
+ "davos|obere strasse|17": {
+  "street": "Obere Strasse",
+  "hn": "17",
+  "lat": 46.7918095,
+  "lng": 9.8175216,
+  "mieter": []
+ },
+ "davos|promenade|20": {
+  "street": "Promenade",
+  "hn": "20",
+  "lat": 46.7908345,
+  "lng": 9.8182536,
+  "mieter": []
+ },
+ "davos|obere strasse|9": {
+  "street": "Obere Strasse",
+  "hn": "9",
+  "lat": 46.7912051,
+  "lng": 9.817151,
+  "mieter": []
+ },
+ "davos|obere strasse|13": {
+  "street": "Obere Strasse",
+  "hn": "13",
+  "lat": 46.7914713,
+  "lng": 9.8173726,
+  "mieter": []
+ },
+ "davos|talstrasse|1": {
+  "street": "Talstrasse",
+  "hn": "1",
+  "lat": 46.7910571,
+  "lng": 9.8195353,
+  "mieter": []
+ },
+ "davos|promenade|18a": {
+  "street": "Promenade",
+  "hn": "18a",
+  "lat": 46.7906967,
+  "lng": 9.8179951,
+  "mieter": [
+   "Stützpunkt Feuerwehr Davos"
+  ]
+ },
+ "davos|obere strasse|6b": {
+  "street": "Obere Strasse",
+  "hn": "6b",
+  "lat": 46.7918868,
+  "lng": 9.8181383,
+  "mieter": []
+ },
+ "davos|promenade|18": {
+  "street": "Promenade",
+  "hn": "18",
+  "lat": 46.7904204,
+  "lng": 9.8176431,
+  "mieter": []
+ },
+ "davos|obere strasse|1a": {
+  "street": "Obere Strasse",
+  "hn": "1a",
+  "lat": 46.7907189,
+  "lng": 9.8168346,
+  "mieter": []
+ },
+ "davos|promenade|29": {
+  "street": "Promenade",
+  "hn": "29",
+  "lat": 46.7917149,
+  "lng": 9.8183397,
+  "mieter": []
+ },
+ "davos|promenade|26": {
+  "street": "Promenade",
+  "hn": "26",
+  "lat": 46.79136,
+  "lng": 9.8185021,
+  "mieter": []
+ },
+ "davos|obere strasse|4": {
+  "street": "Obere Strasse",
+  "hn": "4",
+  "lat": 46.7917233,
+  "lng": 9.8179292,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|2a": {
+  "street": "Bahnhofstrasse",
+  "hn": "2a",
+  "lat": 46.79251,
+  "lng": 9.8200369,
+  "mieter": []
+ },
+ "davos|talstrasse|43": {
+  "street": "Talstrasse",
+  "hn": "43",
+  "lat": 46.7979883,
+  "lng": 9.8276944,
+  "mieter": []
+ },
+ "davos|promenade|82": {
+  "street": "Promenade",
+  "hn": "82",
+  "lat": 46.800135,
+  "lng": 9.8267487,
+  "mieter": []
+ },
+ "davos|mattastrasse|27": {
+  "street": "Mattastrasse",
+  "hn": "27",
+  "lat": 46.7987575,
+  "lng": 9.8405737,
+  "mieter": []
+ },
+ "davos|talstrasse|34": {
+  "street": "Talstrasse",
+  "hn": "34",
+  "lat": 46.7983139,
+  "lng": 9.8289618,
+  "mieter": []
+ },
+ "davos|promenade|61": {
+  "street": "Promenade",
+  "hn": "61",
+  "lat": 46.7958493,
+  "lng": 9.8212289,
+  "mieter": []
+ },
+ "davos|mattastrasse|8": {
+  "street": "Mattastrasse",
+  "hn": "8",
+  "lat": 46.7943196,
+  "lng": 9.8249324,
+  "mieter": []
+ },
+ "davos|talstrasse|47": {
+  "street": "Talstrasse",
+  "hn": "47",
+  "lat": 46.798896,
+  "lng": 9.8290839,
+  "mieter": []
+ },
+ "davos|talstrasse|44": {
+  "street": "Talstrasse",
+  "hn": "44",
+  "lat": 46.7991559,
+  "lng": 9.8317198,
+  "mieter": []
+ },
+ "davos|talstrasse|49": {
+  "street": "Talstrasse",
+  "hn": "49",
+  "lat": 46.798723,
+  "lng": 9.829429,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 46.8105404,
+  "lng": 9.8423924,
+  "mieter": []
+ },
+ "davos|talstrasse|36": {
+  "street": "Talstrasse",
+  "hn": "36",
+  "lat": 46.7985429,
+  "lng": 9.829517,
+  "mieter": []
+ },
+ "davos|promenade|84a": {
+  "street": "Promenade",
+  "hn": "84a",
+  "lat": 46.800984,
+  "lng": 9.827916,
+  "mieter": []
+ },
+ "davos|promenade|84": {
+  "street": "Promenade",
+  "hn": "84",
+  "lat": 46.8010423,
+  "lng": 9.8280606,
+  "mieter": []
+ },
+ "davos|talstrasse|45": {
+  "street": "Talstrasse",
+  "hn": "45",
+  "lat": 46.7985813,
+  "lng": 9.8287994,
+  "mieter": []
+ },
+ "davos|talstrasse|6": {
+  "street": "Talstrasse",
+  "hn": "6",
+  "lat": 46.7932277,
+  "lng": 9.8232367,
+  "mieter": []
+ },
+ "davos|talstrasse|10": {
+  "street": "Talstrasse",
+  "hn": "10",
+  "lat": 46.7939497,
+  "lng": 9.823664,
+  "mieter": []
+ },
+ "davos|promenade|93": {
+  "street": "Promenade",
+  "hn": "93",
+  "lat": 46.8014125,
+  "lng": 9.8282735,
+  "mieter": []
+ },
+ "davos|talstrasse|52a": {
+  "street": "Talstrasse",
+  "hn": "52a",
+  "lat": 46.8004375,
+  "lng": 9.835211,
+  "mieter": []
+ },
+ "davos|obere strasse|25": {
+  "street": "Obere Strasse",
+  "hn": "25",
+  "lat": 46.7931481,
+  "lng": 9.8187154,
+  "mieter": []
+ },
+ "davos|promenade|153": {
+  "street": "Promenade",
+  "hn": "153",
+  "lat": 46.8080908,
+  "lng": 9.8382933,
+  "mieter": []
+ },
+ "davos|promenade|134": {
+  "street": "Promenade",
+  "hn": "134",
+  "lat": 46.8057211,
+  "lng": 9.8375182,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 46.8111887,
+  "lng": 9.8427657,
+  "mieter": []
+ },
+ "davos|promenade|94": {
+  "street": "Promenade",
+  "hn": "94",
+  "lat": 46.8011196,
+  "lng": 9.832035,
+  "mieter": []
+ },
+ "davos|mattastrasse|3b": {
+  "street": "Mattastrasse",
+  "hn": "3b",
+  "lat": 46.794726,
+  "lng": 9.8249783,
+  "mieter": []
+ },
+ "davos|promenade|149b": {
+  "street": "Promenade",
+  "hn": "149b",
+  "lat": 46.807945,
+  "lng": 9.8374526,
+  "mieter": []
+ },
+ "davos|talstrasse|57b": {
+  "street": "Talstrasse",
+  "hn": "57b",
+  "lat": 46.8033563,
+  "lng": 9.8374959,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|1b": {
+  "street": "Bahnhofstrasse",
+  "hn": "1b",
+  "lat": 46.809207,
+  "lng": 9.8406017,
+  "mieter": []
+ },
+ "davos|promenade|159": {
+  "street": "Promenade",
+  "hn": "159",
+  "lat": 46.8090367,
+  "lng": 9.8391492,
+  "mieter": []
+ },
+ "davos|talstrasse|42g": {
+  "street": "Talstrasse",
+  "hn": "42g",
+  "lat": 46.7984961,
+  "lng": 9.8317372,
+  "mieter": []
+ },
+ "davos|obere strasse|65": {
+  "street": "Obere Strasse",
+  "hn": "65",
+  "lat": 46.7990343,
+  "lng": 9.8236339,
+  "mieter": []
+ },
+ "davos|promenade|150": {
+  "street": "Promenade",
+  "hn": "150",
+  "lat": 46.8075586,
+  "lng": 9.8386108,
+  "mieter": []
+ },
+ "davos|talstrasse|57e": {
+  "street": "Talstrasse",
+  "hn": "57e",
+  "lat": 46.802741,
+  "lng": 9.8373134,
+  "mieter": []
+ },
+ "davos|talstrasse|67": {
+  "street": "Talstrasse",
+  "hn": "67",
+  "lat": 46.8063042,
+  "lng": 9.8382402,
+  "mieter": []
+ },
+ "davos|talstrasse|42f": {
+  "street": "Talstrasse",
+  "hn": "42f",
+  "lat": 46.7987132,
+  "lng": 9.8315178,
+  "mieter": []
+ },
+ "davos|talstrasse|65": {
+  "street": "Talstrasse",
+  "hn": "65",
+  "lat": 46.805915,
+  "lng": 9.8381463,
+  "mieter": []
+ },
+ "davos|promenade|140": {
+  "street": "Promenade",
+  "hn": "140",
+  "lat": 46.8067335,
+  "lng": 9.8378249,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 46.8115768,
+  "lng": 9.8426317,
+  "mieter": []
+ },
+ "davos|talstrasse|71": {
+  "street": "Talstrasse",
+  "hn": "71",
+  "lat": 46.8074045,
+  "lng": 9.8388236,
+  "mieter": []
+ },
+ "davos|talstrasse|69": {
+  "street": "Talstrasse",
+  "hn": "69",
+  "lat": 46.8067858,
+  "lng": 9.838284,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 46.8113805,
+  "lng": 9.8430013,
+  "mieter": []
+ },
+ "davos|promenade|132a": {
+  "street": "Promenade",
+  "hn": "132a",
+  "lat": 46.8053719,
+  "lng": 9.8374401,
+  "mieter": []
+ },
+ "davos|promenade|96a": {
+  "street": "Promenade",
+  "hn": "96a",
+  "lat": 46.8009032,
+  "lng": 9.8330978,
+  "mieter": []
+ },
+ "davos|talstrasse|25": {
+  "street": "Talstrasse",
+  "hn": "25",
+  "lat": 46.7944551,
+  "lng": 9.823482,
+  "mieter": []
+ },
+ "davos|promenade|146": {
+  "street": "Promenade",
+  "hn": "146",
+  "lat": 46.8073714,
+  "lng": 9.8381788,
+  "mieter": []
+ },
+ "davos|talstrasse|57d": {
+  "street": "Talstrasse",
+  "hn": "57d",
+  "lat": 46.8025993,
+  "lng": 9.8368373,
+  "mieter": []
+ },
+ "davos|promenade|91": {
+  "street": "Promenade",
+  "hn": "91",
+  "lat": 46.8012778,
+  "lng": 9.8277154,
+  "mieter": []
+ },
+ "davos|promenade|96": {
+  "street": "Promenade",
+  "hn": "96",
+  "lat": 46.8011522,
+  "lng": 9.833177,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 46.8100189,
+  "lng": 9.841628,
+  "mieter": []
+ },
+ "davos|talstrasse|57c": {
+  "street": "Talstrasse",
+  "hn": "57c",
+  "lat": 46.802416,
+  "lng": 9.8371987,
+  "mieter": []
+ },
+ "davos|promenade|136": {
+  "street": "Promenade",
+  "hn": "136",
+  "lat": 46.8060377,
+  "lng": 9.8376061,
+  "mieter": []
+ },
+ "davos|mattastrasse|3a": {
+  "street": "Mattastrasse",
+  "hn": "3a",
+  "lat": 46.7949125,
+  "lng": 9.8246105,
+  "mieter": []
+ },
+ "davos|talstrasse|55": {
+  "street": "Talstrasse",
+  "hn": "55",
+  "lat": 46.801834,
+  "lng": 9.8368575,
+  "mieter": []
+ },
+ "davos|promenade|114": {
+  "street": "Promenade",
+  "hn": "114",
+  "lat": 46.8024393,
+  "lng": 9.8359071,
+  "mieter": []
+ },
+ "davos|promenade|141": {
+  "street": "Promenade",
+  "hn": "141",
+  "lat": 46.8072777,
+  "lng": 9.837624,
+  "mieter": []
+ },
+ "davos|promenade|155": {
+  "street": "Promenade",
+  "hn": "155",
+  "lat": 46.8083086,
+  "lng": 9.8381521,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 46.8124869,
+  "lng": 9.8456329,
+  "mieter": []
+ },
+ "davos|promenade|121d": {
+  "street": "Promenade",
+  "hn": "121d",
+  "lat": 46.8037549,
+  "lng": 9.8359211,
+  "mieter": []
+ },
+ "davos|promenade|121b": {
+  "street": "Promenade",
+  "hn": "121b",
+  "lat": 46.8036575,
+  "lng": 9.836297,
+  "mieter": []
+ },
+ "davos|promenade|145": {
+  "street": "Promenade",
+  "hn": "145",
+  "lat": 46.8076354,
+  "lng": 9.8371518,
+  "mieter": []
+ },
+ "davos|promenade|121a": {
+  "street": "Promenade",
+  "hn": "121a",
+  "lat": 46.8033835,
+  "lng": 9.8359457,
+  "mieter": []
+ },
+ "davos|promenade|121c": {
+  "street": "Promenade",
+  "hn": "121c",
+  "lat": 46.8038957,
+  "lng": 9.8355195,
+  "mieter": []
+ },
+ "davos|promenade|135": {
+  "street": "Promenade",
+  "hn": "135",
+  "lat": 46.8059346,
+  "lng": 9.8370532,
+  "mieter": []
+ },
+ "davos|promenade|119c": {
+  "street": "Promenade",
+  "hn": "119c",
+  "lat": 46.8032529,
+  "lng": 9.8353351,
+  "mieter": []
+ },
+ "davos|promenade|119b": {
+  "street": "Promenade",
+  "hn": "119b",
+  "lat": 46.8033819,
+  "lng": 9.8351427,
+  "mieter": []
+ },
+ "davos|promenade|119a": {
+  "street": "Promenade",
+  "hn": "119a",
+  "lat": 46.8031012,
+  "lng": 9.8355618,
+  "mieter": []
+ },
+ "davos|promenade|129": {
+  "street": "Promenade",
+  "hn": "129",
+  "lat": 46.8049234,
+  "lng": 9.8368457,
+  "mieter": []
+ },
+ "davos|promenade|127a": {
+  "street": "Promenade",
+  "hn": "127a",
+  "lat": 46.8045977,
+  "lng": 9.836748,
+  "mieter": []
+ },
+ "davos|promenade|143": {
+  "street": "Promenade",
+  "hn": "143",
+  "lat": 46.8074697,
+  "lng": 9.8376848,
+  "mieter": []
+ },
+ "davos|talstrasse|48a": {
+  "street": "Talstrasse",
+  "hn": "48a",
+  "lat": 46.7995292,
+  "lng": 9.8334944,
+  "mieter": []
+ },
+ "davos|talstrasse|40": {
+  "street": "Talstrasse",
+  "hn": "40",
+  "lat": 46.7987911,
+  "lng": 9.8303628,
+  "mieter": []
+ },
+ "davos|obere strasse|63b": {
+  "street": "Obere Strasse",
+  "hn": "63b",
+  "lat": 46.7988623,
+  "lng": 9.8233734,
+  "mieter": []
+ },
+ "davos|talstrasse|48": {
+  "street": "Talstrasse",
+  "hn": "48",
+  "lat": 46.7996956,
+  "lng": 9.8328822,
+  "mieter": []
+ },
+ "davos|talstrasse|46a": {
+  "street": "Talstrasse",
+  "hn": "46a",
+  "lat": 46.7992131,
+  "lng": 9.8329275,
+  "mieter": []
+ },
+ "davos|talstrasse|46": {
+  "street": "Talstrasse",
+  "hn": "46",
+  "lat": 46.7994696,
+  "lng": 9.8323082,
+  "mieter": []
+ },
+ "davos|promenade|8": {
+  "street": "Promenade",
+  "hn": "8",
+  "lat": 46.7883228,
+  "lng": 9.8147198,
+  "mieter": []
+ },
+ "davos|promenade|17": {
+  "street": "Promenade",
+  "hn": "17",
+  "lat": 46.7893983,
+  "lng": 9.8151504,
+  "mieter": []
+ },
+ "davos|promenade|6": {
+  "street": "Promenade",
+  "hn": "6",
+  "lat": 46.788111,
+  "lng": 9.8147224,
+  "mieter": []
+ },
+ "davos|promenade|16": {
+  "street": "Promenade",
+  "hn": "16",
+  "lat": 46.7899356,
+  "lng": 9.8168493,
+  "mieter": []
+ },
+ "davos|promenade|12a": {
+  "street": "Promenade",
+  "hn": "12a",
+  "lat": 46.7892641,
+  "lng": 9.8160613,
+  "mieter": []
+ },
+ "davos|promenade|10": {
+  "street": "Promenade",
+  "hn": "10",
+  "lat": 46.788657,
+  "lng": 9.8148429,
+  "mieter": []
+ },
+ "davos|promenade|11": {
+  "street": "Promenade",
+  "hn": "11",
+  "lat": 46.7885988,
+  "lng": 9.8143033,
+  "mieter": []
+ },
+ "davos|promenade|14a": {
+  "street": "Promenade",
+  "hn": "14a",
+  "lat": 46.7889667,
+  "lng": 9.8161977,
+  "mieter": []
+ },
+ "davos|promenade|65": {
+  "street": "Promenade",
+  "hn": "65",
+  "lat": 46.7972644,
+  "lng": 9.8218799,
+  "mieter": []
+ },
+ "davos|promenade|48": {
+  "street": "Promenade",
+  "hn": "48",
+  "lat": 46.7945431,
+  "lng": 9.8213387,
+  "mieter": []
+ },
+ "davos|promenade|58": {
+  "street": "Promenade",
+  "hn": "58",
+  "lat": 46.7967903,
+  "lng": 9.8223199,
+  "mieter": []
+ },
+ "davos|promenade|56": {
+  "street": "Promenade",
+  "hn": "56",
+  "lat": 46.7961971,
+  "lng": 9.821794,
+  "mieter": []
+ },
+ "davos|promenade|44": {
+  "street": "Promenade",
+  "hn": "44",
+  "lat": 46.7940066,
+  "lng": 9.821734,
+  "mieter": []
+ },
+ "davos|promenade|48a": {
+  "street": "Promenade",
+  "hn": "48a",
+  "lat": 46.794247,
+  "lng": 9.8218892,
+  "mieter": []
+ },
+ "davos|promenade|60": {
+  "street": "Promenade",
+  "hn": "60",
+  "lat": 46.7971626,
+  "lng": 9.8222661,
+  "mieter": []
+ },
+ "davos|promenade|46": {
+  "street": "Promenade",
+  "hn": "46",
+  "lat": 46.7943146,
+  "lng": 9.8215573,
+  "mieter": []
+ },
+ "davos|promenade|54": {
+  "street": "Promenade",
+  "hn": "54",
+  "lat": 46.7958832,
+  "lng": 9.8220257,
+  "mieter": []
+ },
+ "davos|promenade|70": {
+  "street": "Promenade",
+  "hn": "70",
+  "lat": 46.797986,
+  "lng": 9.8237258,
+  "mieter": []
+ },
+ "davos|promenade|80": {
+  "street": "Promenade",
+  "hn": "80",
+  "lat": 46.799245,
+  "lng": 9.8252604,
+  "mieter": []
+ },
+ "davos|promenade|62": {
+  "street": "Promenade",
+  "hn": "62",
+  "lat": 46.7974648,
+  "lng": 9.8223701,
+  "mieter": []
+ },
+ "davos|promenade|76": {
+  "street": "Promenade",
+  "hn": "76",
+  "lat": 46.7988376,
+  "lng": 9.8243515,
+  "mieter": []
+ },
+ "davos|promenade|51": {
+  "street": "Promenade",
+  "hn": "51",
+  "lat": 46.7947015,
+  "lng": 9.8205334,
+  "mieter": []
+ },
+ "davos|obere strasse|20b": {
+  "street": "Obere Strasse",
+  "hn": "20b",
+  "lat": 46.7954262,
+  "lng": 9.820417,
+  "mieter": []
+ },
+ "davos|obere strasse|22b": {
+  "street": "Obere Strasse",
+  "hn": "22b",
+  "lat": 46.7955486,
+  "lng": 9.8197455,
+  "mieter": []
+ },
+ "davos|promenade|57": {
+  "street": "Promenade",
+  "hn": "57",
+  "lat": 46.7954958,
+  "lng": 9.8210705,
+  "mieter": []
+ },
+ "davos|obere strasse|20a": {
+  "street": "Obere Strasse",
+  "hn": "20a",
+  "lat": 46.7950009,
+  "lng": 9.8200242,
+  "mieter": []
+ },
+ "davos|promenade|53": {
+  "street": "Promenade",
+  "hn": "53",
+  "lat": 46.7950118,
+  "lng": 9.8209805,
+  "mieter": []
+ },
+ "davos|promenade|53a": {
+  "street": "Promenade",
+  "hn": "53a",
+  "lat": 46.795027,
+  "lng": 9.8207101,
+  "mieter": []
+ },
+ "davos|obere strasse|67": {
+  "street": "Obere Strasse",
+  "hn": "67",
+  "lat": 46.7995762,
+  "lng": 9.8243192,
+  "mieter": []
+ },
+ "davos|obere strasse|59": {
+  "street": "Obere Strasse",
+  "hn": "59",
+  "lat": 46.7982671,
+  "lng": 9.822325,
+  "mieter": []
+ },
+ "davos|obere strasse|61": {
+  "street": "Obere Strasse",
+  "hn": "61",
+  "lat": 46.7984117,
+  "lng": 9.8228019,
+  "mieter": []
+ },
+ "davos|obere strasse|63": {
+  "street": "Obere Strasse",
+  "hn": "63",
+  "lat": 46.7986212,
+  "lng": 9.8231546,
+  "mieter": []
+ },
+ "davos|obere strasse|71": {
+  "street": "Obere Strasse",
+  "hn": "71",
+  "lat": 46.7998899,
+  "lng": 9.824763,
+  "mieter": []
+ },
+ "davos|obere strasse|24": {
+  "street": "Obere Strasse",
+  "hn": "24",
+  "lat": 46.7958762,
+  "lng": 9.8199791,
+  "mieter": []
+ },
+ "davos|obere strasse|26": {
+  "street": "Obere Strasse",
+  "hn": "26",
+  "lat": 46.7960554,
+  "lng": 9.8202723,
+  "mieter": []
+ },
+ "davos|promenade|85": {
+  "street": "Promenade",
+  "hn": "85",
+  "lat": 46.7993419,
+  "lng": 9.8245707,
+  "mieter": []
+ },
+ "davos|obere strasse|57": {
+  "street": "Obere Strasse",
+  "hn": "57",
+  "lat": 46.7981468,
+  "lng": 9.8220548,
+  "mieter": []
+ },
+ "davos|promenade|75": {
+  "street": "Promenade",
+  "hn": "75",
+  "lat": 46.7983947,
+  "lng": 9.8232785,
+  "mieter": []
+ },
+ "davos|promenade|79a": {
+  "street": "Promenade",
+  "hn": "79a",
+  "lat": 46.7986848,
+  "lng": 9.8237069,
+  "mieter": []
+ },
+ "davos|promenade|63b": {
+  "street": "Promenade",
+  "hn": "63b",
+  "lat": 46.7968518,
+  "lng": 9.8216224,
+  "mieter": []
+ },
+ "davos|obere strasse|59a": {
+  "street": "Obere Strasse",
+  "hn": "59a",
+  "lat": 46.7983917,
+  "lng": 9.82257,
+  "mieter": []
+ },
+ "davos|obere strasse|28": {
+  "street": "Obere Strasse",
+  "hn": "28",
+  "lat": 46.7971412,
+  "lng": 9.8214999,
+  "mieter": []
+ },
+ "davos|obere strasse|1": {
+  "street": "Obere Strasse",
+  "hn": "1",
+  "lat": 46.7903733,
+  "lng": 9.8165071,
+  "mieter": []
+ },
+ "davos|obere strasse|5": {
+  "street": "Obere Strasse",
+  "hn": "5",
+  "lat": 46.7911316,
+  "lng": 9.8166452,
+  "mieter": []
+ },
+ "davos|obere strasse|15": {
+  "street": "Obere Strasse",
+  "hn": "15",
+  "lat": 46.7914671,
+  "lng": 9.8172039,
+  "mieter": []
+ },
+ "davos|obere strasse|3": {
+  "street": "Obere Strasse",
+  "hn": "3",
+  "lat": 46.7909796,
+  "lng": 9.8169643,
+  "mieter": []
+ },
+ "davos|obere strasse|11": {
+  "street": "Obere Strasse",
+  "hn": "11",
+  "lat": 46.7913852,
+  "lng": 9.8169176,
+  "mieter": []
+ },
+ "davos|obere strasse|7": {
+  "street": "Obere Strasse",
+  "hn": "7",
+  "lat": 46.7912511,
+  "lng": 9.8167162,
+  "mieter": []
+ },
+ "davos|obere strasse|12": {
+  "street": "Obere Strasse",
+  "hn": "12",
+  "lat": 46.7926948,
+  "lng": 9.8187456,
+  "mieter": [
+   "Evangelische Kirchgemeinde Davos Platz"
+  ]
+ },
+ "davos|promenade|35": {
+  "street": "Promenade",
+  "hn": "35",
+  "lat": 46.7926238,
+  "lng": 9.8191266,
+  "mieter": []
+ },
+ "davos|obere strasse|14": {
+  "street": "Obere Strasse",
+  "hn": "14",
+  "lat": 46.7930519,
+  "lng": 9.8190879,
+  "mieter": []
+ },
+ "davos|obere strasse|29": {
+  "street": "Obere Strasse",
+  "hn": "29",
+  "lat": 46.7941723,
+  "lng": 9.8190005,
+  "mieter": []
+ },
+ "davos|obere strasse|18": {
+  "street": "Obere Strasse",
+  "hn": "18",
+  "lat": 46.7940323,
+  "lng": 9.8194133,
+  "mieter": []
+ },
+ "davos|obere strasse|16": {
+  "street": "Obere Strasse",
+  "hn": "16",
+  "lat": 46.7938146,
+  "lng": 9.8194581,
+  "mieter": []
+ },
+ "davos|talstrasse|19": {
+  "street": "Talstrasse",
+  "hn": "19",
+  "lat": 46.7937478,
+  "lng": 9.8231254,
+  "mieter": []
+ },
+ "davos|mattastrasse|3": {
+  "street": "Mattastrasse",
+  "hn": "3",
+  "lat": 46.7946988,
+  "lng": 9.8243884,
+  "mieter": []
+ },
+ "davos|mattastrasse|46": {
+  "street": "Mattastrasse",
+  "hn": "46",
+  "lat": 46.7959114,
+  "lng": 9.8316581,
+  "mieter": []
+ },
+ "davos|mattastrasse|14": {
+  "street": "Mattastrasse",
+  "hn": "14",
+  "lat": 46.7937229,
+  "lng": 9.8263049,
+  "mieter": []
+ },
+ "davos|mattastrasse|4": {
+  "street": "Mattastrasse",
+  "hn": "4",
+  "lat": 46.7944622,
+  "lng": 9.8242699,
+  "mieter": []
+ },
+ "davos|mattastrasse|38": {
+  "street": "Mattastrasse",
+  "hn": "38",
+  "lat": 46.7952348,
+  "lng": 9.8305085,
+  "mieter": []
+ },
+ "davos|mattastrasse|40": {
+  "street": "Mattastrasse",
+  "hn": "40",
+  "lat": 46.7954117,
+  "lng": 9.8308613,
+  "mieter": []
+ },
+ "davos|mattastrasse|18": {
+  "street": "Mattastrasse",
+  "hn": "18",
+  "lat": 46.7935236,
+  "lng": 9.8273032,
+  "mieter": []
+ },
+ "davos|mattastrasse|20": {
+  "street": "Mattastrasse",
+  "hn": "20",
+  "lat": 46.793832,
+  "lng": 9.8278788,
+  "mieter": []
+ },
+ "davos|talstrasse|12": {
+  "street": "Talstrasse",
+  "hn": "12",
+  "lat": 46.7942218,
+  "lng": 9.823757,
+  "mieter": []
+ },
+ "davos|mattastrasse|30": {
+  "street": "Mattastrasse",
+  "hn": "30",
+  "lat": 46.7945448,
+  "lng": 9.8293253,
+  "mieter": []
+ },
+ "davos|mattastrasse|42": {
+  "street": "Mattastrasse",
+  "hn": "42",
+  "lat": 46.795639,
+  "lng": 9.8312696,
+  "mieter": []
+ },
+ "davos|mattastrasse|18a": {
+  "street": "Mattastrasse",
+  "hn": "18a",
+  "lat": 46.793574,
+  "lng": 9.8275423,
+  "mieter": []
+ },
+ "davos|mattastrasse|14.1": {
+  "street": "Mattastrasse",
+  "hn": "14.1",
+  "lat": 46.7938003,
+  "lng": 9.8260955,
+  "mieter": []
+ },
+ "davos|talstrasse|24": {
+  "street": "Talstrasse",
+  "hn": "24",
+  "lat": 46.795931,
+  "lng": 9.8254028,
+  "mieter": []
+ },
+ "davos|mattastrasse|32": {
+  "street": "Mattastrasse",
+  "hn": "32",
+  "lat": 46.7947332,
+  "lng": 9.829612,
+  "mieter": []
+ },
+ "davos|talstrasse|23": {
+  "street": "Talstrasse",
+  "hn": "23",
+  "lat": 46.7943025,
+  "lng": 9.8234117,
+  "mieter": []
+ },
+ "davos|talstrasse|14": {
+  "street": "Talstrasse",
+  "hn": "14",
+  "lat": 46.794095,
+  "lng": 9.8241572,
+  "mieter": []
+ },
+ "davos|mattastrasse|16": {
+  "street": "Mattastrasse",
+  "hn": "16",
+  "lat": 46.7932551,
+  "lng": 9.8269848,
+  "mieter": []
+ },
+ "davos|mattastrasse|34": {
+  "street": "Mattastrasse",
+  "hn": "34",
+  "lat": 46.7949866,
+  "lng": 9.8299395,
+  "mieter": []
+ },
+ "davos|talstrasse|24a": {
+  "street": "Talstrasse",
+  "hn": "24a",
+  "lat": 46.7957884,
+  "lng": 9.8251853,
+  "mieter": []
+ },
+ "davos|mattastrasse|36": {
+  "street": "Mattastrasse",
+  "hn": "36",
+  "lat": 46.795107,
+  "lng": 9.8301717,
+  "mieter": []
+ },
+ "davos|talstrasse|31": {
+  "street": "Talstrasse",
+  "hn": "31",
+  "lat": 46.7952944,
+  "lng": 9.8241626,
+  "mieter": []
+ },
+ "davos|talstrasse|21": {
+  "street": "Talstrasse",
+  "hn": "21",
+  "lat": 46.7940407,
+  "lng": 9.8232428,
+  "mieter": []
+ },
+ "davos|mattastrasse|6b": {
+  "street": "Mattastrasse",
+  "hn": "6b",
+  "lat": 46.7942137,
+  "lng": 9.8244025,
+  "mieter": []
+ },
+ "davos|mattastrasse|23": {
+  "street": "Mattastrasse",
+  "hn": "23",
+  "lat": 46.7962079,
+  "lng": 9.8309379,
+  "mieter": []
+ },
+ "davos|mattastrasse|60": {
+  "street": "Mattastrasse",
+  "hn": "60",
+  "lat": 46.7976516,
+  "lng": 9.835791,
+  "mieter": []
+ },
+ "davos|talstrasse|44c": {
+  "street": "Talstrasse",
+  "hn": "44c",
+  "lat": 46.7989489,
+  "lng": 9.8325035,
+  "mieter": []
+ },
+ "davos|mattastrasse|26a": {
+  "street": "Mattastrasse",
+  "hn": "26a",
+  "lat": 46.7941958,
+  "lng": 9.8287352,
+  "mieter": []
+ },
+ "davos|mattastrasse|50": {
+  "street": "Mattastrasse",
+  "hn": "50",
+  "lat": 46.7963587,
+  "lng": 9.8331691,
+  "mieter": []
+ },
+ "davos|talstrasse|44a": {
+  "street": "Talstrasse",
+  "hn": "44a",
+  "lat": 46.7988394,
+  "lng": 9.8319571,
+  "mieter": []
+ },
+ "davos|talstrasse|52": {
+  "street": "Talstrasse",
+  "hn": "52",
+  "lat": 46.8001295,
+  "lng": 9.8345112,
+  "mieter": []
+ },
+ "davos|mattastrasse|58b": {
+  "street": "Mattastrasse",
+  "hn": "58b",
+  "lat": 46.7972951,
+  "lng": 9.834712,
+  "mieter": []
+ },
+ "davos|mattastrasse|52": {
+  "street": "Mattastrasse",
+  "hn": "52",
+  "lat": 46.7966732,
+  "lng": 9.8332551,
+  "mieter": []
+ },
+ "davos|mattastrasse|25.2": {
+  "street": "Mattastrasse",
+  "hn": "25.2",
+  "lat": 46.7991869,
+  "lng": 9.8383433,
+  "mieter": []
+ },
+ "davos|talstrasse|50": {
+  "street": "Talstrasse",
+  "hn": "50",
+  "lat": 46.8000062,
+  "lng": 9.8341614,
+  "mieter": []
+ },
+ "davos|mattastrasse|54": {
+  "street": "Mattastrasse",
+  "hn": "54",
+  "lat": 46.7968601,
+  "lng": 9.833566,
+  "mieter": []
+ },
+ "davos|mattastrasse|26": {
+  "street": "Mattastrasse",
+  "hn": "26",
+  "lat": 46.7940718,
+  "lng": 9.8285488,
+  "mieter": []
+ },
+ "davos|mattastrasse|64": {
+  "street": "Mattastrasse",
+  "hn": "64",
+  "lat": 46.7985408,
+  "lng": 9.8412715,
+  "mieter": []
+ },
+ "davos|mattastrasse|56": {
+  "street": "Mattastrasse",
+  "hn": "56",
+  "lat": 46.7969013,
+  "lng": 9.8339171,
+  "mieter": []
+ },
+ "davos|mattastrasse|24": {
+  "street": "Mattastrasse",
+  "hn": "24",
+  "lat": 46.7938827,
+  "lng": 9.8282821,
+  "mieter": []
+ },
+ "davos|mattastrasse|28": {
+  "street": "Mattastrasse",
+  "hn": "28",
+  "lat": 46.7943055,
+  "lng": 9.8290732,
+  "mieter": []
+ },
+ "davos|mattastrasse|58c": {
+  "street": "Mattastrasse",
+  "hn": "58c",
+  "lat": 46.7973226,
+  "lng": 9.8357788,
+  "mieter": []
+ },
+ "davos|talstrasse|32": {
+  "street": "Talstrasse",
+  "hn": "32",
+  "lat": 46.7980543,
+  "lng": 9.8289948,
+  "mieter": []
+ },
+ "davos|talstrasse|28": {
+  "street": "Talstrasse",
+  "hn": "28",
+  "lat": 46.796694,
+  "lng": 9.8264032,
+  "mieter": []
+ },
+ "davos|talstrasse|30a": {
+  "street": "Talstrasse",
+  "hn": "30a",
+  "lat": 46.7980144,
+  "lng": 9.8285412,
+  "mieter": []
+ },
+ "davos|talstrasse|42d": {
+  "street": "Talstrasse",
+  "hn": "42d",
+  "lat": 46.7990398,
+  "lng": 9.8311526,
+  "mieter": []
+ },
+ "davos|talstrasse|42e": {
+  "street": "Talstrasse",
+  "hn": "42e",
+  "lat": 46.7989295,
+  "lng": 9.8312983,
+  "mieter": []
+ },
+ "davos|talstrasse|42c": {
+  "street": "Talstrasse",
+  "hn": "42c",
+  "lat": 46.7989746,
+  "lng": 9.8309688,
+  "mieter": []
+ },
+ "davos|talstrasse|34a": {
+  "street": "Talstrasse",
+  "hn": "34a",
+  "lat": 46.7983868,
+  "lng": 9.8292183,
+  "mieter": []
+ },
+ "davos|talstrasse|26": {
+  "street": "Talstrasse",
+  "hn": "26",
+  "lat": 46.7961739,
+  "lng": 9.8257745,
+  "mieter": []
+ },
+ "davos|talstrasse|35": {
+  "street": "Talstrasse",
+  "hn": "35",
+  "lat": 46.7958892,
+  "lng": 9.824763,
+  "mieter": []
+ },
+ "davos|mattastrasse|5": {
+  "street": "Mattastrasse",
+  "hn": "5",
+  "lat": 46.7944609,
+  "lng": 9.8252401,
+  "mieter": []
+ },
+ "davos|talstrasse|37": {
+  "street": "Talstrasse",
+  "hn": "37",
+  "lat": 46.7961533,
+  "lng": 9.8250961,
+  "mieter": []
+ },
+ "davos|talstrasse|66": {
+  "street": "Talstrasse",
+  "hn": "66",
+  "lat": 46.8024459,
+  "lng": 9.8380227,
+  "mieter": []
+ },
+ "davos|talstrasse|60": {
+  "street": "Talstrasse",
+  "hn": "60",
+  "lat": 46.8018951,
+  "lng": 9.8378723,
+  "mieter": []
+ },
+ "davos|talstrasse|52b": {
+  "street": "Talstrasse",
+  "hn": "52b",
+  "lat": 46.8009214,
+  "lng": 9.836234,
+  "mieter": []
+ },
+ "davos|talstrasse|59": {
+  "street": "Talstrasse",
+  "hn": "59",
+  "lat": 46.8036898,
+  "lng": 9.8375973,
+  "mieter": []
+ },
+ "davos|promenade|130": {
+  "street": "Promenade",
+  "hn": "130",
+  "lat": 46.8047908,
+  "lng": 9.8372863,
+  "mieter": []
+ },
+ "davos|promenade|126": {
+  "street": "Promenade",
+  "hn": "126",
+  "lat": 46.8042465,
+  "lng": 9.8374628,
+  "mieter": []
+ },
+ "davos|talstrasse|58": {
+  "street": "Talstrasse",
+  "hn": "58",
+  "lat": 46.8019561,
+  "lng": 9.837368,
+  "mieter": []
+ },
+ "davos|promenade|122": {
+  "street": "Promenade",
+  "hn": "122",
+  "lat": 46.8036581,
+  "lng": 9.8372199,
+  "mieter": []
+ },
+ "davos|talstrasse|53": {
+  "street": "Talstrasse",
+  "hn": "53",
+  "lat": 46.8013768,
+  "lng": 9.8363033,
+  "mieter": []
+ },
+ "davos|talstrasse|63": {
+  "street": "Talstrasse",
+  "hn": "63",
+  "lat": 46.8050286,
+  "lng": 9.837766,
+  "mieter": []
+ },
+ "davos|promenade|126a": {
+  "street": "Promenade",
+  "hn": "126a",
+  "lat": 46.8043944,
+  "lng": 9.8374352,
+  "mieter": []
+ },
+ "davos|promenade|124": {
+  "street": "Promenade",
+  "hn": "124",
+  "lat": 46.8041529,
+  "lng": 9.8370481,
+  "mieter": []
+ },
+ "davos|talstrasse|62": {
+  "street": "Talstrasse",
+  "hn": "62",
+  "lat": 46.801617,
+  "lng": 9.8376663,
+  "mieter": []
+ },
+ "davos|talstrasse|51": {
+  "street": "Talstrasse",
+  "hn": "51",
+  "lat": 46.8011513,
+  "lng": 9.836038,
+  "mieter": []
+ },
+ "davos|promenade|130a": {
+  "street": "Promenade",
+  "hn": "130a",
+  "lat": 46.8047309,
+  "lng": 9.8374845,
+  "mieter": []
+ },
+ "davos|talstrasse|63a": {
+  "street": "Talstrasse",
+  "hn": "63a",
+  "lat": 46.8053366,
+  "lng": 9.8380042,
+  "mieter": []
+ },
+ "davos|promenade|132": {
+  "street": "Promenade",
+  "hn": "132",
+  "lat": 46.8050951,
+  "lng": 9.8373235,
+  "mieter": []
+ },
+ "davos|talstrasse|64": {
+  "street": "Talstrasse",
+  "hn": "64",
+  "lat": 46.8021431,
+  "lng": 9.8379475,
+  "mieter": []
+ },
+ "davos|promenade|109": {
+  "street": "Promenade",
+  "hn": "109",
+  "lat": 46.8016406,
+  "lng": 9.8336643,
+  "mieter": []
+ },
+ "davos|promenade|112": {
+  "street": "Promenade",
+  "hn": "112",
+  "lat": 46.8022702,
+  "lng": 9.8356313,
+  "mieter": []
+ },
+ "davos|promenade|107": {
+  "street": "Promenade",
+  "hn": "107",
+  "lat": 46.8015458,
+  "lng": 9.8332553,
+  "mieter": []
+ },
+ "davos|promenade|111": {
+  "street": "Promenade",
+  "hn": "111",
+  "lat": 46.8018956,
+  "lng": 9.8343029,
+  "mieter": []
+ },
+ "davos|obere strasse|45": {
+  "street": "Obere Strasse",
+  "hn": "45",
+  "lat": 46.7970287,
+  "lng": 9.8209324,
+  "mieter": []
+ },
+ "davos|obere strasse|43a": {
+  "street": "Obere Strasse",
+  "hn": "43a",
+  "lat": 46.7967514,
+  "lng": 9.8205415,
+  "mieter": []
+ },
+ "davos|obere strasse|53": {
+  "street": "Obere Strasse",
+  "hn": "53",
+  "lat": 46.7978735,
+  "lng": 9.8207268,
+  "mieter": []
+ },
+ "davos|promenade|108": {
+  "street": "Promenade",
+  "hn": "108",
+  "lat": 46.8020411,
+  "lng": 9.8351205,
+  "mieter": []
+ },
+ "davos|obere strasse|55": {
+  "street": "Obere Strasse",
+  "hn": "55",
+  "lat": 46.7976598,
+  "lng": 9.8215523,
+  "mieter": []
+ },
+ "davos|obere strasse|43": {
+  "street": "Obere Strasse",
+  "hn": "43",
+  "lat": 46.7964229,
+  "lng": 9.8203014,
+  "mieter": []
+ },
+ "davos|obere strasse|51": {
+  "street": "Obere Strasse",
+  "hn": "51",
+  "lat": 46.7977741,
+  "lng": 9.8210824,
+  "mieter": []
+ },
+ "davos|promenade|110": {
+  "street": "Promenade",
+  "hn": "110",
+  "lat": 46.8021684,
+  "lng": 9.8354412,
+  "mieter": []
+ },
+ "davos|obere strasse|47": {
+  "street": "Obere Strasse",
+  "hn": "47",
+  "lat": 46.7971572,
+  "lng": 9.8211669,
+  "mieter": []
+ },
+ "davos|obere strasse|49": {
+  "street": "Obere Strasse",
+  "hn": "49",
+  "lat": 46.7976,
+  "lng": 9.821328,
+  "mieter": []
+ },
+ "davos|obere strasse|31": {
+  "street": "Obere Strasse",
+  "hn": "31",
+  "lat": 46.7945199,
+  "lng": 9.8189146,
+  "mieter": []
+ },
+ "davos|obere strasse|27": {
+  "street": "Obere Strasse",
+  "hn": "27",
+  "lat": 46.7935721,
+  "lng": 9.8190151,
+  "mieter": []
+ },
+ "davos|obere strasse|37": {
+  "street": "Obere Strasse",
+  "hn": "37",
+  "lat": 46.7955363,
+  "lng": 9.819331,
+  "mieter": []
+ },
+ "davos|obere strasse|35": {
+  "street": "Obere Strasse",
+  "hn": "35",
+  "lat": 46.7951968,
+  "lng": 9.8193015,
+  "mieter": []
+ },
+ "davos|obere strasse|41": {
+  "street": "Obere Strasse",
+  "hn": "41",
+  "lat": 46.7964777,
+  "lng": 9.8199304,
+  "mieter": []
+ },
+ "davos|obere strasse|41a": {
+  "street": "Obere Strasse",
+  "hn": "41a",
+  "lat": 46.7964357,
+  "lng": 9.8196574,
+  "mieter": []
+ },
+ "davos|promenade|3": {
+  "street": "Promenade",
+  "hn": "3",
+  "lat": 46.7868957,
+  "lng": 9.8125658,
+  "mieter": []
+ },
+ "davos|promenade|1": {
+  "street": "Promenade",
+  "hn": "1",
+  "lat": 46.7863782,
+  "lng": 9.8124236,
+  "mieter": []
+ },
+ "davos|promenade|9": {
+  "street": "Promenade",
+  "hn": "9",
+  "lat": 46.7877808,
+  "lng": 9.8130045,
+  "mieter": []
+ },
+ "davos|promenade|7": {
+  "street": "Promenade",
+  "hn": "7",
+  "lat": 46.7877056,
+  "lng": 9.813241,
+  "mieter": []
+ },
+ "davos|promenade|3a": {
+  "street": "Promenade",
+  "hn": "3a",
+  "lat": 46.7870367,
+  "lng": 9.8126647,
+  "mieter": []
+ },
+ "davos|promenade|5": {
+  "street": "Promenade",
+  "hn": "5",
+  "lat": 46.7876203,
+  "lng": 9.8134552,
+  "mieter": []
+ },
+ "davos|promenade|1a": {
+  "street": "Promenade",
+  "hn": "1a",
+  "lat": 46.7867873,
+  "lng": 9.812094,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 46.8116498,
+  "lng": 9.8437334,
+  "mieter": []
+ },
+ "davos|promenade|103": {
+  "street": "Promenade",
+  "hn": "103",
+  "lat": 46.8015611,
+  "lng": 9.8319388,
+  "mieter": []
+ },
+ "davos|promenade|157": {
+  "street": "Promenade",
+  "hn": "157",
+  "lat": 46.8084494,
+  "lng": 9.8385135,
+  "mieter": []
+ },
+ "davos|promenade|139": {
+  "street": "Promenade",
+  "hn": "139",
+  "lat": 46.8070698,
+  "lng": 9.8367875,
+  "mieter": []
+ },
+ "davos|promenade|138": {
+  "street": "Promenade",
+  "hn": "138",
+  "lat": 46.8064955,
+  "lng": 9.8377408,
+  "mieter": []
+ },
+ "davos|promenade|115a": {
+  "street": "Promenade",
+  "hn": "115a",
+  "lat": 46.8026397,
+  "lng": 9.8356387,
+  "mieter": []
+ },
+ "davos|promenade|115c": {
+  "street": "Promenade",
+  "hn": "115c",
+  "lat": 46.8028255,
+  "lng": 9.8353974,
+  "mieter": []
+ },
+ "davos|promenade|115b": {
+  "street": "Promenade",
+  "hn": "115b",
+  "lat": 46.8027343,
+  "lng": 9.8355157,
+  "mieter": []
+ },
+ "davos|promenade|102": {
+  "street": "Promenade",
+  "hn": "102",
+  "lat": 46.8016712,
+  "lng": 9.8344181,
+  "mieter": []
+ },
+ "davos|promenade|92a": {
+  "street": "Promenade",
+  "hn": "92a",
+  "lat": 46.8010963,
+  "lng": 9.8308558,
+  "mieter": [
+   "Kongresszentrum"
+  ]
+ },
+ "davos|promenade|64b": {
+  "street": "Promenade",
+  "hn": "64b",
+  "lat": 46.7978191,
+  "lng": 9.8225377,
+  "mieter": []
+ },
+ "davos|promenade|39": {
+  "street": "Promenade",
+  "hn": "39",
+  "lat": 46.7931281,
+  "lng": 9.819801,
+  "mieter": []
+ },
+ "davos|promenade|33a": {
+  "street": "Promenade",
+  "hn": "33a",
+  "lat": 46.7923098,
+  "lng": 9.8187346,
+  "mieter": []
+ },
+ "davos|promenade|23": {
+  "street": "Promenade",
+  "hn": "23",
+  "lat": 46.7910103,
+  "lng": 9.8175673,
+  "mieter": []
+ },
+ "davos|promenade|10a": {
+  "street": "Promenade",
+  "hn": "10a",
+  "lat": 46.7884029,
+  "lng": 9.815112,
+  "mieter": []
+ },
+ "davos|promenade|13": {
+  "street": "Promenade",
+  "hn": "13",
+  "lat": 46.7887257,
+  "lng": 9.8145985,
+  "mieter": []
+ },
+ "davos|promenade|14": {
+  "street": "Promenade",
+  "hn": "14",
+  "lat": 46.7895625,
+  "lng": 9.8162509,
+  "mieter": []
+ },
+ "davos|promenade|15": {
+  "street": "Promenade",
+  "hn": "15",
+  "lat": 46.7888712,
+  "lng": 9.8145061,
+  "mieter": []
+ },
+ "davos|talstrasse|15": {
+  "street": "Talstrasse",
+  "hn": "15",
+  "lat": 46.7928903,
+  "lng": 9.8222997,
+  "mieter": []
+ },
+ "davos|talstrasse|13": {
+  "street": "Talstrasse",
+  "hn": "13",
+  "lat": 46.7928515,
+  "lng": 9.8219606,
+  "mieter": []
+ },
+ "davos|talstrasse|11": {
+  "street": "Talstrasse",
+  "hn": "11",
+  "lat": 46.792713,
+  "lng": 9.8218194,
+  "mieter": []
+ },
+ "davos|talstrasse|9": {
+  "street": "Talstrasse",
+  "hn": "9",
+  "lat": 46.7925498,
+  "lng": 9.821445,
+  "mieter": []
+ },
+ "davos|mattastrasse|1": {
+  "street": "Mattastrasse",
+  "hn": "1",
+  "lat": 46.7947381,
+  "lng": 9.8242618,
+  "mieter": []
+ },
+ "davos|talstrasse|42b": {
+  "street": "Talstrasse",
+  "hn": "42b",
+  "lat": 46.7986679,
+  "lng": 9.8307867,
+  "mieter": []
+ },
+ "davos|talstrasse|20": {
+  "street": "Talstrasse",
+  "hn": "20",
+  "lat": 46.79479,
+  "lng": 9.824114,
+  "mieter": []
+ },
+ "davos|talstrasse|42a": {
+  "street": "Talstrasse",
+  "hn": "42a",
+  "lat": 46.7986425,
+  "lng": 9.8310172,
+  "mieter": []
+ },
+ "davos|talstrasse|27": {
+  "street": "Talstrasse",
+  "hn": "27",
+  "lat": 46.7947839,
+  "lng": 9.8237599,
+  "mieter": []
+ },
+ "davos|talstrasse|28b": {
+  "street": "Talstrasse",
+  "hn": "28b",
+  "lat": 46.7971407,
+  "lng": 9.8280546,
+  "mieter": []
+ },
+ "davos|talstrasse|28a": {
+  "street": "Talstrasse",
+  "hn": "28a",
+  "lat": 46.7970956,
+  "lng": 9.8278103,
+  "mieter": []
+ },
+ "davos|talstrasse|44b": {
+  "street": "Talstrasse",
+  "hn": "44b",
+  "lat": 46.7987506,
+  "lng": 9.8321941,
+  "mieter": []
+ },
+ "davos|talstrasse|56": {
+  "street": "Talstrasse",
+  "hn": "56",
+  "lat": 46.8016454,
+  "lng": 9.8371454,
+  "mieter": []
+ },
+ "davos|talstrasse|57a": {
+  "street": "Talstrasse",
+  "hn": "57a",
+  "lat": 46.8022387,
+  "lng": 9.8367463,
+  "mieter": []
+ },
+ "davos|promenade|74a": {
+  "street": "Promenade",
+  "hn": "74a",
+  "lat": 46.7986815,
+  "lng": 9.8241717,
+  "mieter": []
+ },
+ "davos|promenade|74b": {
+  "street": "Promenade",
+  "hn": "74b",
+  "lat": 46.7985537,
+  "lng": 9.8243623,
+  "mieter": []
+ },
+ "davos|promenade|58 c": {
+  "street": "Promenade",
+  "hn": "58 C",
+  "lat": 46.7965636,
+  "lng": 9.8224903,
+  "mieter": []
+ },
+ "davos|talstrasse|4a": {
+  "street": "Talstrasse",
+  "hn": "4a",
+  "lat": 46.7921123,
+  "lng": 9.8213055,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|8b": {
+  "street": "Bahnhofstrasse",
+  "hn": "8b",
+  "lat": 46.8095549,
+  "lng": 9.841798,
+  "mieter": []
+ },
+ "davos|mattastrasse|25.3": {
+  "street": "Mattastrasse",
+  "hn": "25.3",
+  "lat": 46.7989509,
+  "lng": 9.8386841,
+  "mieter": []
+ },
+ "davos|mattastrasse|25.1": {
+  "street": "Mattastrasse",
+  "hn": "25.1",
+  "lat": 46.7991586,
+  "lng": 9.8385332,
+  "mieter": []
+ },
+ "davos|mattastrasse|16b": {
+  "street": "Mattastrasse",
+  "hn": "16b",
+  "lat": 46.7935708,
+  "lng": 9.8267318,
+  "mieter": []
+ },
+ "davos|promenade|3b": {
+  "street": "Promenade",
+  "hn": "3b",
+  "lat": 46.7870401,
+  "lng": 9.8122457,
+  "mieter": []
+ },
+ "davos|obere strasse|33": {
+  "street": "Obere Strasse",
+  "hn": "33",
+  "lat": 46.7949137,
+  "lng": 9.8191067,
+  "mieter": []
+ },
+ "davos|mattastrasse|52a": {
+  "street": "Mattastrasse",
+  "hn": "52a",
+  "lat": 46.7965827,
+  "lng": 9.8332552,
+  "mieter": []
+ },
+ "davos|mattastrasse|54b": {
+  "street": "Mattastrasse",
+  "hn": "54b",
+  "lat": 46.7966508,
+  "lng": 9.8336989,
+  "mieter": []
+ },
+ "davos|mattastrasse|60.1": {
+  "street": "Mattastrasse",
+  "hn": "60.1",
+  "lat": 46.7976431,
+  "lng": 9.8353809,
+  "mieter": []
+ },
+ "davos|mattastrasse|58d": {
+  "street": "Mattastrasse",
+  "hn": "58d",
+  "lat": 46.7971835,
+  "lng": 9.8351472,
+  "mieter": []
+ },
+ "davos|mattastrasse|58a": {
+  "street": "Mattastrasse",
+  "hn": "58a",
+  "lat": 46.797112,
+  "lng": 9.8342242,
+  "mieter": []
+ },
+ "davos|mattastrasse|25a": {
+  "street": "Mattastrasse",
+  "hn": "25a",
+  "lat": 46.7988129,
+  "lng": 9.8403361,
+  "mieter": []
+ },
+ "davos|promenade|119f": {
+  "street": "Promenade",
+  "hn": "119f",
+  "lat": 46.8038708,
+  "lng": 9.834388,
+  "mieter": []
+ },
+ "davos|promenade|119e": {
+  "street": "Promenade",
+  "hn": "119e",
+  "lat": 46.803759,
+  "lng": 9.8345863,
+  "mieter": []
+ },
+ "davos|talstrasse|38": {
+  "street": "Talstrasse",
+  "hn": "38",
+  "lat": 46.7986287,
+  "lng": 9.8299687,
+  "mieter": []
+ },
+ "davos|promenade|152a": {
+  "street": "Promenade",
+  "hn": "152a",
+  "lat": 46.8080963,
+  "lng": 9.8388842,
+  "mieter": []
+ },
+ "davos|promenade|149a": {
+  "street": "Promenade",
+  "hn": "149a",
+  "lat": 46.8078838,
+  "lng": 9.8376855,
+  "mieter": []
+ },
+ "davos|bahnhofstrasse|1a": {
+  "street": "Bahnhofstrasse",
+  "hn": "1a",
+  "lat": 46.8090581,
+  "lng": 9.8403975,
+  "mieter": []
+ },
+ "davos|promenade|138a": {
+  "street": "Promenade",
+  "hn": "138a",
+  "lat": 46.8064279,
+  "lng": 9.8376231,
+  "mieter": []
+ },
+ "davos|talstrasse|54": {
+  "street": "Talstrasse",
+  "hn": "54",
+  "lat": 46.8012199,
+  "lng": 9.836684,
+  "mieter": []
+ },
+ "davos|mattastrasse|50d": {
+  "street": "Mattastrasse",
+  "hn": "50d",
+  "lat": 46.7965044,
+  "lng": 9.8330727,
+  "mieter": []
+ },
+ "davos|mattastrasse|16a": {
+  "street": "Mattastrasse",
+  "hn": "16a",
+  "lat": 46.7934628,
+  "lng": 9.8271561,
+  "mieter": []
+ },
+ "davos|obere strasse|63a": {
+  "street": "Obere Strasse",
+  "hn": "63a",
+  "lat": 46.7987213,
+  "lng": 9.8230905,
+  "mieter": []
+ },
+ "davos|promenade|56a": {
+  "street": "Promenade",
+  "hn": "56a",
+  "lat": 46.7961805,
+  "lng": 9.8220398,
+  "mieter": []
+ },
+ "davos|promenade|64a": {
+  "street": "Promenade",
+  "hn": "64a",
+  "lat": 46.7976816,
+  "lng": 9.8224312,
+  "mieter": []
+ },
+ "davos|obere strasse|61b": {
+  "street": "Obere Strasse",
+  "hn": "61b",
+  "lat": 46.7984792,
+  "lng": 9.8229697,
+  "mieter": []
+ },
+ "davos|obere strasse|61a": {
+  "street": "Obere Strasse",
+  "hn": "61a",
+  "lat": 46.7985339,
+  "lng": 9.8228219,
+  "mieter": []
+ },
+ "davos|obere strasse|20c": {
+  "street": "Obere Strasse",
+  "hn": "20c",
+  "lat": 46.7947288,
+  "lng": 9.8196161,
+  "mieter": []
+ },
+ "davos|obere strasse|22a": {
+  "street": "Obere Strasse",
+  "hn": "22a",
+  "lat": 46.7952571,
+  "lng": 9.8197895,
+  "mieter": []
+ },
+ "davos|obere strasse|22": {
+  "street": "Obere Strasse",
+  "hn": "22",
+  "lat": 46.7955039,
+  "lng": 9.820056,
+  "mieter": []
+ },
+ "davos|obere strasse|26a": {
+  "street": "Obere Strasse",
+  "hn": "26a",
+  "lat": 46.7961555,
+  "lng": 9.82052,
+  "mieter": []
+ },
+ "davos|obere strasse|26b": {
+  "street": "Obere Strasse",
+  "hn": "26b",
+  "lat": 46.796605,
+  "lng": 9.8211973,
+  "mieter": []
+ },
+ "davos|obere strasse|49a": {
+  "street": "Obere Strasse",
+  "hn": "49a",
+  "lat": 46.7972677,
+  "lng": 9.8213242,
+  "mieter": []
+ },
+ "davos|obere strasse|23": {
+  "street": "Obere Strasse",
+  "hn": "23",
+  "lat": 46.7928623,
+  "lng": 9.8182076,
+  "mieter": []
+ },
+ "davos|promenade|21": {
+  "street": "Promenade",
+  "hn": "21",
+  "lat": 46.7907958,
+  "lng": 9.8174685,
+  "mieter": []
+ },
+ "davos|obere strasse|6": {
+  "street": "Obere Strasse",
+  "hn": "6",
+  "lat": 46.7919491,
+  "lng": 9.8180251,
+  "mieter": []
+ },
+ "davos|promenade|109a": {
+  "street": "Promenade",
+  "hn": "109a",
+  "lat": 46.8017164,
+  "lng": 9.8338654,
+  "mieter": []
+ },
+ "davos|mattastrasse|2": {
+  "street": "Mattastrasse",
+  "hn": "2",
+  "lat": 46.7944127,
+  "lng": 9.8240641,
+  "mieter": []
+ },
+ "davos|mattastrasse|4a": {
+  "street": "Mattastrasse",
+  "hn": "4a",
+  "lat": 46.7943094,
+  "lng": 9.824225,
+  "mieter": []
+ },
+ "davos|talstrasse|8a": {
+  "street": "Talstrasse",
+  "hn": "8a",
+  "lat": 46.793509,
+  "lng": 9.8234162,
+  "mieter": []
+ }
+}

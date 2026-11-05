@@ -1,0 +1,796 @@
+{
+ "monthey|avenue de la gare|1": {
+  "street": "Avenue de la Gare",
+  "hn": "1",
+  "lat": 46.2525416,
+  "lng": 6.9477353,
+  "mieter": [
+   "Hong Kong Express"
+  ]
+ },
+ "monthey|avenue de la gare|6": {
+  "street": "Avenue de la Gare",
+  "hn": "6",
+  "lat": 46.2525757,
+  "lng": 6.9481126,
+  "mieter": [
+   "Plic"
+  ]
+ },
+ "monthey|rue du commerce|3": {
+  "street": "Rue du Commerce",
+  "hn": "3",
+  "lat": 46.2521434,
+  "lng": 6.9478583,
+  "mieter": [
+   "Netplus - SEIC-Télédis"
+  ]
+ },
+ "monthey|avenue de la gare|11": {
+  "street": "Avenue de la Gare",
+  "hn": "11",
+  "lat": 46.2530134,
+  "lng": 6.9487581,
+  "mieter": []
+ },
+ "monthey|place centrale|10": {
+  "street": "Place Centrale",
+  "hn": "10",
+  "lat": 46.2518713,
+  "lng": 6.9465476,
+  "mieter": []
+ },
+ "monthey|place centrale|12": {
+  "street": "Place Centrale",
+  "hn": "12",
+  "lat": 46.2518585,
+  "lng": 6.9464722,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|2": {
+  "street": "Avenue de la Gare",
+  "hn": "2",
+  "lat": 46.252486,
+  "lng": 6.9478671,
+  "mieter": [
+   "Chabbey - Architectes SA"
+  ]
+ },
+ "monthey|avenue de la gare|54": {
+  "street": "Avenue de la Gare",
+  "hn": "54",
+  "lat": 46.2550984,
+  "lng": 6.9541984,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|56": {
+  "street": "Avenue de la Gare",
+  "hn": "56",
+  "lat": 46.2551322,
+  "lng": 6.9542795,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|63": {
+  "street": "Avenue de la Gare",
+  "hn": "63",
+  "lat": 46.2552728,
+  "lng": 6.9540397,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|67": {
+  "street": "Avenue de la Gare",
+  "hn": "67",
+  "lat": 46.2557121,
+  "lng": 6.9539883,
+  "mieter": []
+ },
+ "monthey|rue du château|1": {
+  "street": "Rue du Château",
+  "hn": "1",
+  "lat": 46.2522519,
+  "lng": 6.9466458,
+  "mieter": []
+ },
+ "monthey|place centrale|14": {
+  "street": "Place Centrale",
+  "hn": "14",
+  "lat": 46.2517684,
+  "lng": 6.9466357,
+  "mieter": []
+ },
+ "monthey|rue du château|14": {
+  "street": "Rue du Château",
+  "hn": "14",
+  "lat": 46.252674,
+  "lng": 6.9465064,
+  "mieter": []
+ },
+ "monthey|place centrale|16": {
+  "street": "Place Centrale",
+  "hn": "16",
+  "lat": 46.2517548,
+  "lng": 6.9469135,
+  "mieter": []
+ },
+ "monthey|rue des bourguignons|2": {
+  "street": "Rue des Bourguignons",
+  "hn": "2",
+  "lat": 46.2519718,
+  "lng": 6.9474144,
+  "mieter": []
+ },
+ "monthey|rue du château|2": {
+  "street": "Rue du Château",
+  "hn": "2",
+  "lat": 46.2523039,
+  "lng": 6.9466313,
+  "mieter": []
+ },
+ "monthey|place centrale|4": {
+  "street": "Place Centrale",
+  "hn": "4",
+  "lat": 46.2520565,
+  "lng": 6.9467888,
+  "mieter": []
+ },
+ "monthey|rue des bourguignons|5": {
+  "street": "Rue des Bourguignons",
+  "hn": "5",
+  "lat": 46.2521448,
+  "lng": 6.9482224,
+  "mieter": []
+ },
+ "monthey|place centrale|6": {
+  "street": "Place Centrale",
+  "hn": "6",
+  "lat": 46.2519649,
+  "lng": 6.9468213,
+  "mieter": []
+ },
+ "monthey|rue du château|6": {
+  "street": "Rue du Château",
+  "hn": "6",
+  "lat": 46.2524732,
+  "lng": 6.9464191,
+  "mieter": []
+ },
+ "monthey|place centrale|7": {
+  "street": "Place Centrale",
+  "hn": "7",
+  "lat": 46.2515272,
+  "lng": 6.9474652,
+  "mieter": [
+   "La Nonna",
+   "Le Mix Kebab Tacos pizza"
+  ]
+ },
+ "monthey|avenue de la gare|32": {
+  "street": "Avenue de la Gare",
+  "hn": "32",
+  "lat": 46.2537723,
+  "lng": 6.9510871,
+  "mieter": [
+   "pompes Funèbres Michel Luy"
+  ]
+ },
+ "monthey|avenue de la gare|37a": {
+  "street": "Avenue de la Gare",
+  "hn": "37a",
+  "lat": 46.2549891,
+  "lng": 6.9517836,
+  "mieter": [
+   "Cabinet d'orthodontie du Dr Marc Rigaldies"
+  ]
+ },
+ "monthey|avenue de la gare|26": {
+  "street": "Avenue de la Gare",
+  "hn": "26",
+  "lat": 46.2534222,
+  "lng": 6.9504816,
+  "mieter": [
+   "ALDI"
+  ]
+ },
+ "monthey|avenue de la gare|24": {
+  "street": "Avenue de la Gare",
+  "hn": "24",
+  "lat": 46.2533125,
+  "lng": 6.9500178,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|34": {
+  "street": "Avenue de la Gare",
+  "hn": "34",
+  "lat": 46.2538518,
+  "lng": 6.9512272,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|30": {
+  "street": "Avenue de la Gare",
+  "hn": "30",
+  "lat": 46.2536943,
+  "lng": 6.9508537,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|28": {
+  "street": "Avenue de la Gare",
+  "hn": "28",
+  "lat": 46.2536201,
+  "lng": 6.9506737,
+  "mieter": [
+   "Unia"
+  ]
+ },
+ "monthey|avenue de la gare|36": {
+  "street": "Avenue de la Gare",
+  "hn": "36",
+  "lat": 46.2541339,
+  "lng": 6.9518982,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|8a": {
+  "street": "Avenue de la Gare",
+  "hn": "8A",
+  "lat": 46.2526136,
+  "lng": 6.9481654,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|4": {
+  "street": "Avenue de la Gare",
+  "hn": "4",
+  "lat": 46.2525136,
+  "lng": 6.9479267,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|10": {
+  "street": "Avenue de la Gare",
+  "hn": "10",
+  "lat": 46.2528041,
+  "lng": 6.9486936,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|18": {
+  "street": "Avenue de la Gare",
+  "hn": "18",
+  "lat": 46.2531959,
+  "lng": 6.9496353,
+  "mieter": []
+ },
+ "monthey|rue du château|38": {
+  "street": "Rue du Château",
+  "hn": "38",
+  "lat": 46.2524992,
+  "lng": 6.945406,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|3": {
+  "street": "Avenue de la Gare",
+  "hn": "3",
+  "lat": 46.2525652,
+  "lng": 6.9478177,
+  "mieter": []
+ },
+ "monthey|rue des bourguignons|6": {
+  "street": "Rue des Bourguignons",
+  "hn": "6",
+  "lat": 46.252035,
+  "lng": 6.9481517,
+  "mieter": []
+ },
+ "monthey|rue des bourguignons|8": {
+  "street": "Rue des Bourguignons",
+  "hn": "8",
+  "lat": 46.2520422,
+  "lng": 6.9483386,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|42": {
+  "street": "Avenue de la Gare",
+  "hn": "42",
+  "lat": 46.2542202,
+  "lng": 6.9527211,
+  "mieter": [
+   "Chez Carolina"
+  ]
+ },
+ "monthey|avenue de la gare|15": {
+  "street": "Avenue de la Gare",
+  "hn": "15",
+  "lat": 46.2536967,
+  "lng": 6.9497977,
+  "mieter": [
+   "The Art of Gueguel"
+  ]
+ },
+ "monthey|place centrale|5": {
+  "street": "Place Centrale",
+  "hn": "5",
+  "lat": 46.251721,
+  "lng": 6.9473873,
+  "mieter": []
+ },
+ "monthey|place centrale|8": {
+  "street": "Place Centrale",
+  "hn": "8",
+  "lat": 46.2518894,
+  "lng": 6.9465821,
+  "mieter": []
+ },
+ "monthey|rue des bourguignons|4": {
+  "street": "Rue des Bourguignons",
+  "hn": "4",
+  "lat": 46.2520072,
+  "lng": 6.9479135,
+  "mieter": [
+   "SOS Laverie"
+  ]
+ },
+ "monthey|rue du château|2a": {
+  "street": "Rue du Château",
+  "hn": "2A",
+  "lat": 46.2522544,
+  "lng": 6.9467341,
+  "mieter": []
+ },
+ "monthey|rue des bourguignons|7": {
+  "street": "Rue des Bourguignons",
+  "hn": "7",
+  "lat": 46.2521552,
+  "lng": 6.9483222,
+  "mieter": []
+ },
+ "monthey|rue du commerce|2": {
+  "street": "Rue du Commerce",
+  "hn": "2",
+  "lat": 46.2521829,
+  "lng": 6.9475929,
+  "mieter": []
+ },
+ "monthey|rue des bourguignons|1": {
+  "street": "Rue des Bourguignons",
+  "hn": "1",
+  "lat": 46.2520406,
+  "lng": 6.9474121,
+  "mieter": []
+ },
+ "monthey|rue du commerce|4": {
+  "street": "Rue du Commerce",
+  "hn": "4",
+  "lat": 46.2521264,
+  "lng": 6.9476992,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|61a": {
+  "street": "Avenue de la Gare",
+  "hn": "61A",
+  "lat": 46.2550787,
+  "lng": 6.9535219,
+  "mieter": []
+ },
+ "monthey|rue des bourguignons|3": {
+  "street": "Rue des Bourguignons",
+  "hn": "3",
+  "lat": 46.2521311,
+  "lng": 6.9480985,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|61b": {
+  "street": "Avenue de la Gare",
+  "hn": "61b",
+  "lat": 46.2551736,
+  "lng": 6.9538037,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|58a": {
+  "street": "Avenue de la Gare",
+  "hn": "58a",
+  "lat": 46.2552985,
+  "lng": 6.9546294,
+  "mieter": []
+ },
+ "monthey|rue du château|16": {
+  "street": "Rue du Château",
+  "hn": "16",
+  "lat": 46.252823,
+  "lng": 6.9462236,
+  "mieter": []
+ },
+ "monthey|rue du château|18": {
+  "street": "Rue du Château",
+  "hn": "18",
+  "lat": 46.2526967,
+  "lng": 6.9463085,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|31": {
+  "street": "Avenue de la Gare",
+  "hn": "31",
+  "lat": 46.2548414,
+  "lng": 6.9513518,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|46": {
+  "street": "Avenue de la Gare",
+  "hn": "46",
+  "lat": 46.2548293,
+  "lng": 6.9538831,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|33": {
+  "street": "Avenue de la Gare",
+  "hn": "33",
+  "lat": 46.2544359,
+  "lng": 6.9519101,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|35": {
+  "street": "Avenue de la Gare",
+  "hn": "35",
+  "lat": 46.2547156,
+  "lng": 6.9518117,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|44": {
+  "street": "Avenue de la Gare",
+  "hn": "44",
+  "lat": 46.2544271,
+  "lng": 6.9534446,
+  "mieter": []
+ },
+ "monthey|place centrale|18": {
+  "street": "Place Centrale",
+  "hn": "18",
+  "lat": 46.2515245,
+  "lng": 6.947105,
+  "mieter": [
+   "Kiosque de la Place"
+  ]
+ },
+ "monthey|rue du château|7": {
+  "street": "Rue du Château",
+  "hn": "7",
+  "lat": 46.2524328,
+  "lng": 6.9460432,
+  "mieter": []
+ },
+ "monthey|rue du château|28": {
+  "street": "Rue du Château",
+  "hn": "28",
+  "lat": 46.2526136,
+  "lng": 6.9458419,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|17": {
+  "street": "Avenue de la Gare",
+  "hn": "17",
+  "lat": 46.2541083,
+  "lng": 6.9501305,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|48": {
+  "street": "Avenue de la Gare",
+  "hn": "48",
+  "lat": 46.2544166,
+  "lng": 6.954982,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|52": {
+  "street": "Avenue de la Gare",
+  "hn": "52",
+  "lat": 46.2548372,
+  "lng": 6.9545595,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|50": {
+  "street": "Avenue de la Gare",
+  "hn": "50",
+  "lat": 46.2546111,
+  "lng": 6.9547039,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|61": {
+  "street": "Avenue de la Gare",
+  "hn": "61",
+  "lat": 46.2547488,
+  "lng": 6.9525669,
+  "mieter": [
+   "Eglise Evangelique"
+  ]
+ },
+ "monthey|avenue de la gare|37c": {
+  "street": "Avenue de la Gare",
+  "hn": "37C",
+  "lat": 46.2550591,
+  "lng": 6.9512258,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|68": {
+  "street": "Avenue de la Gare",
+  "hn": "68",
+  "lat": 46.2556326,
+  "lng": 6.9551615,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|60": {
+  "street": "Avenue de la Gare",
+  "hn": "60",
+  "lat": 46.2552755,
+  "lng": 6.9548836,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|58": {
+  "street": "Avenue de la Gare",
+  "hn": "58",
+  "lat": 46.2547275,
+  "lng": 6.9552021,
+  "mieter": [
+   "Crêche la Tonkinelle"
+  ]
+ },
+ "monthey|avenue de la gare|57": {
+  "street": "Avenue de la Gare",
+  "hn": "57",
+  "lat": 46.2555752,
+  "lng": 6.9519783,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|57a": {
+  "street": "Avenue de la Gare",
+  "hn": "57A",
+  "lat": 46.2555824,
+  "lng": 6.9521831,
+  "mieter": []
+ },
+ "monthey|place centrale|1": {
+  "street": "Place Centrale",
+  "hn": "1",
+  "lat": 46.2521051,
+  "lng": 6.9472392,
+  "mieter": []
+ },
+ "monthey|place centrale|3": {
+  "street": "Place Centrale",
+  "hn": "3",
+  "lat": 46.2518685,
+  "lng": 6.9473931,
+  "mieter": []
+ },
+ "monthey|rue du château|20": {
+  "street": "Rue du Château",
+  "hn": "20",
+  "lat": 46.2527112,
+  "lng": 6.9459191,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|7": {
+  "street": "Avenue de la Gare",
+  "hn": "7",
+  "lat": 46.252727,
+  "lng": 6.9480268,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|5": {
+  "street": "Avenue de la Gare",
+  "hn": "5",
+  "lat": 46.2526587,
+  "lng": 6.9478431,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|13a": {
+  "street": "Avenue de la Gare",
+  "hn": "13a",
+  "lat": 46.2533873,
+  "lng": 6.9492667,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|27": {
+  "street": "Avenue de la Gare",
+  "hn": "27",
+  "lat": 46.2543278,
+  "lng": 6.9515764,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|13c": {
+  "street": "Avenue de la Gare",
+  "hn": "13c",
+  "lat": 46.2533795,
+  "lng": 6.9490291,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|29": {
+  "street": "Avenue de la Gare",
+  "hn": "29",
+  "lat": 46.254472,
+  "lng": 6.9514504,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|13b": {
+  "street": "Avenue de la Gare",
+  "hn": "13b",
+  "lat": 46.2533822,
+  "lng": 6.9491635,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|59a": {
+  "street": "Avenue de la Gare",
+  "hn": "59A",
+  "lat": 46.2546423,
+  "lng": 6.9523241,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|9": {
+  "street": "Avenue de la Gare",
+  "hn": "9",
+  "lat": 46.2528515,
+  "lng": 6.9482666,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|12": {
+  "street": "Avenue de la Gare",
+  "hn": "12",
+  "lat": 46.2528414,
+  "lng": 6.9489959,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|16": {
+  "street": "Avenue de la Gare",
+  "hn": "16",
+  "lat": 46.2529525,
+  "lng": 6.9492276,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|65": {
+  "street": "Avenue de la Gare",
+  "hn": "65",
+  "lat": 46.2555185,
+  "lng": 6.9539199,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|41": {
+  "street": "Avenue de la Gare",
+  "hn": "41",
+  "lat": 46.255128,
+  "lng": 6.9521708,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|37b": {
+  "street": "Avenue de la Gare",
+  "hn": "37B",
+  "lat": 46.2550396,
+  "lng": 6.9517222,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|39": {
+  "street": "Avenue de la Gare",
+  "hn": "39",
+  "lat": 46.2552639,
+  "lng": 6.9520487,
+  "mieter": []
+ },
+ "monthey|rue du château|3": {
+  "street": "Rue du Château",
+  "hn": "3",
+  "lat": 46.2523161,
+  "lng": 6.9463919,
+  "mieter": []
+ },
+ "monthey|rue du château|36": {
+  "street": "Rue du Château",
+  "hn": "36",
+  "lat": 46.2524602,
+  "lng": 6.94534,
+  "mieter": []
+ },
+ "monthey|rue du château|10": {
+  "street": "Rue du Château",
+  "hn": "10",
+  "lat": 46.2525981,
+  "lng": 6.9463631,
+  "mieter": []
+ },
+ "monthey|rue du château|32": {
+  "street": "Rue du Château",
+  "hn": "32",
+  "lat": 46.252506,
+  "lng": 6.9457147,
+  "mieter": []
+ },
+ "monthey|rue du château|34": {
+  "street": "Rue du Château",
+  "hn": "34",
+  "lat": 46.2524842,
+  "lng": 6.9456207,
+  "mieter": []
+ },
+ "monthey|rue du château|8": {
+  "street": "Rue du Château",
+  "hn": "8",
+  "lat": 46.2525408,
+  "lng": 6.9464121,
+  "mieter": []
+ },
+ "monthey|rue du château|4": {
+  "street": "Rue du Château",
+  "hn": "4",
+  "lat": 46.2524319,
+  "lng": 6.9465905,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|8": {
+  "street": "Avenue de la Gare",
+  "hn": "8",
+  "lat": 46.2526154,
+  "lng": 6.9483333,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|13": {
+  "street": "Avenue de la Gare",
+  "hn": "13",
+  "lat": 46.253161,
+  "lng": 6.9490547,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|28a": {
+  "street": "Avenue de la Gare",
+  "hn": "28A",
+  "lat": 46.2533354,
+  "lng": 6.9507881,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|59b": {
+  "street": "Avenue de la Gare",
+  "hn": "59B",
+  "lat": 46.2547812,
+  "lng": 6.9521895,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|45": {
+  "street": "Avenue de la Gare",
+  "hn": "45",
+  "lat": 46.2554009,
+  "lng": 6.9509989,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|43": {
+  "street": "Avenue de la Gare",
+  "hn": "43",
+  "lat": 46.2552591,
+  "lng": 6.9510269,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|47": {
+  "street": "Avenue de la Gare",
+  "hn": "47",
+  "lat": 46.255494,
+  "lng": 6.9511341,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|49": {
+  "street": "Avenue de la Gare",
+  "hn": "49",
+  "lat": 46.2555102,
+  "lng": 6.9512963,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|51": {
+  "street": "Avenue de la Gare",
+  "hn": "51",
+  "lat": 46.255528,
+  "lng": 6.9514742,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|53": {
+  "street": "Avenue de la Gare",
+  "hn": "53",
+  "lat": 46.2555469,
+  "lng": 6.9516646,
+  "mieter": []
+ },
+ "monthey|avenue de la gare|55": {
+  "street": "Avenue de la Gare",
+  "hn": "55",
+  "lat": 46.2555637,
+  "lng": 6.9518322,
+  "mieter": []
+ }
+}

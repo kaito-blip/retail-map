@@ -1,0 +1,795 @@
+{
+ "altdorf|tellsgasse|27": {
+  "street": "Tellsgasse",
+  "hn": "27",
+  "lat": 46.8826227,
+  "lng": 8.6411012,
+  "mieter": [
+   "Wilhelm Tell",
+   "Thall",
+   "Tellenbar"
+  ]
+ },
+ "altdorf|tellsgasse|5": {
+  "street": "Tellsgasse",
+  "hn": "5",
+  "lat": 46.8819767,
+  "lng": 8.64294,
+  "mieter": [
+   "Polizeiposten Altdorf"
+  ]
+ },
+ "altdorf|hellgasse|3": {
+  "street": "Hellgasse",
+  "hn": "3",
+  "lat": 46.8809204,
+  "lng": 8.6454171,
+  "mieter": [
+   "Coop",
+   "Praxis Dr. Lechmann-Stricker",
+   "Coop Restaurant"
+  ]
+ },
+ "altdorf|hellgasse|4": {
+  "street": "Hellgasse",
+  "hn": "4",
+  "lat": 46.8806702,
+  "lng": 8.6455721,
+  "mieter": [
+   "OneWay Brockenhaus",
+   "r4ts GmbH"
+  ]
+ },
+ "altdorf|rathausplatz|7": {
+  "street": "Rathausplatz",
+  "hn": "7",
+  "lat": 46.8820315,
+  "lng": 8.6445422,
+  "mieter": [
+   "Aama"
+  ]
+ },
+ "altdorf|schmiedgasse|3": {
+  "street": "Schmiedgasse",
+  "hn": "3",
+  "lat": 46.8813742,
+  "lng": 8.6439279,
+  "mieter": [
+   "Cafe Danioth",
+   "Confiserie Danioth"
+  ]
+ },
+ "altdorf|tellsgasse|2": {
+  "street": "Tellsgasse",
+  "hn": "2",
+  "lat": 46.881915,
+  "lng": 8.6436938,
+  "mieter": [
+   "k kiosk"
+  ]
+ },
+ "altdorf|schmiedgasse|10": {
+  "street": "Schmiedgasse",
+  "hn": "10",
+  "lat": 46.8811116,
+  "lng": 8.6436489,
+  "mieter": [
+   "Spar"
+  ]
+ },
+ "altdorf|schmiedgasse|5": {
+  "street": "Schmiedgasse",
+  "hn": "5",
+  "lat": 46.8811603,
+  "lng": 8.6438899,
+  "mieter": [
+   "Beldona"
+  ]
+ },
+ "altdorf|tellsgasse|6": {
+  "street": "Tellsgasse",
+  "hn": "6",
+  "lat": 46.8819877,
+  "lng": 8.6433823,
+  "mieter": [
+   "Tellenbräu"
+  ]
+ },
+ "altdorf|schmiedgasse|12": {
+  "street": "Schmiedgasse",
+  "hn": "12",
+  "lat": 46.8810021,
+  "lng": 8.6436076,
+  "mieter": [
+   "Tschümperlin",
+   "Zaid"
+  ]
+ },
+ "altdorf|schmiedgasse|16": {
+  "street": "Schmiedgasse",
+  "hn": "16",
+  "lat": 46.8808658,
+  "lng": 8.6435062,
+  "mieter": [
+   "Romantico",
+   "Hauger Schmiedgasse",
+   "Cash Sport & Fashion"
+  ]
+ },
+ "altdorf|lehnplatz|13": {
+  "street": "Lehnplatz",
+  "hn": "13",
+  "lat": 46.8803238,
+  "lng": 8.6449779,
+  "mieter": [
+   "Second Love"
+  ]
+ },
+ "altdorf|schmiedgasse|11": {
+  "street": "Schmiedgasse",
+  "hn": "11",
+  "lat": 46.8806434,
+  "lng": 8.6437873,
+  "mieter": [
+   "Amavita"
+  ]
+ },
+ "altdorf|lehnplatz|16": {
+  "street": "Lehnplatz",
+  "hn": "16",
+  "lat": 46.8805927,
+  "lng": 8.6452565,
+  "mieter": [
+   "Die Mobiliar"
+  ]
+ },
+ "altdorf|hellgasse|6": {
+  "street": "Hellgasse",
+  "hn": "6",
+  "lat": 46.8805882,
+  "lng": 8.6456072,
+  "mieter": [
+   "Aschwanden Bequemschuhe",
+   "am Dorfbach",
+   "E's Thai Away"
+  ]
+ },
+ "altdorf|hellgasse|25": {
+  "street": "Hellgasse",
+  "hn": "25",
+  "lat": 46.8790582,
+  "lng": 8.6503059,
+  "mieter": [
+   "Agrifuturo"
+  ]
+ },
+ "altdorf|tellsgasse|7": {
+  "street": "Tellsgasse",
+  "hn": "7",
+  "lat": 46.8820493,
+  "lng": 8.6426125,
+  "mieter": [
+   "herzog mode",
+   "Pomodoro"
+  ]
+ },
+ "altdorf|tellsgasse|17": {
+  "street": "Tellsgasse",
+  "hn": "17",
+  "lat": 46.8822916,
+  "lng": 8.642151,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|15": {
+  "street": "Tellsgasse",
+  "hn": "15",
+  "lat": 46.8824182,
+  "lng": 8.6423082,
+  "mieter": []
+ },
+ "altdorf|schmiedgasse|8": {
+  "street": "Schmiedgasse",
+  "hn": "8",
+  "lat": 46.8811948,
+  "lng": 8.643713,
+  "mieter": []
+ },
+ "altdorf|schmiedgasse|6": {
+  "street": "Schmiedgasse",
+  "hn": "6",
+  "lat": 46.8812998,
+  "lng": 8.6437496,
+  "mieter": []
+ },
+ "altdorf|schmiedgasse|20": {
+  "street": "Schmiedgasse",
+  "hn": "20",
+  "lat": 46.8805784,
+  "lng": 8.6435134,
+  "mieter": []
+ },
+ "altdorf|hellgasse|46a": {
+  "street": "Hellgasse",
+  "hn": "46a",
+  "lat": 46.8762333,
+  "lng": 8.6521726,
+  "mieter": []
+ },
+ "altdorf|hellgasse|46": {
+  "street": "Hellgasse",
+  "hn": "46",
+  "lat": 46.8762733,
+  "lng": 8.6520376,
+  "mieter": []
+ },
+ "altdorf|hellgasse|37b": {
+  "street": "Hellgasse",
+  "hn": "37b",
+  "lat": 46.8772132,
+  "lng": 8.6513019,
+  "mieter": []
+ },
+ "altdorf|hellgasse|37a": {
+  "street": "Hellgasse",
+  "hn": "37a",
+  "lat": 46.8772307,
+  "lng": 8.6511662,
+  "mieter": []
+ },
+ "altdorf|hellgasse|24": {
+  "street": "Hellgasse",
+  "hn": "24",
+  "lat": 46.8797271,
+  "lng": 8.6476717,
+  "mieter": []
+ },
+ "altdorf|hellgasse|26": {
+  "street": "Hellgasse",
+  "hn": "26",
+  "lat": 46.8793829,
+  "lng": 8.6487771,
+  "mieter": []
+ },
+ "altdorf|hellgasse|30": {
+  "street": "Hellgasse",
+  "hn": "30",
+  "lat": 46.8784563,
+  "lng": 8.6497281,
+  "mieter": []
+ },
+ "altdorf|hellgasse|64": {
+  "street": "Hellgasse",
+  "hn": "64",
+  "lat": 46.8750186,
+  "lng": 8.6540865,
+  "mieter": []
+ },
+ "altdorf|hellgasse|62": {
+  "street": "Hellgasse",
+  "hn": "62",
+  "lat": 46.8750706,
+  "lng": 8.6539154,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|11": {
+  "street": "Tellsgasse",
+  "hn": "11",
+  "lat": 46.8822613,
+  "lng": 8.6424357,
+  "mieter": [
+   "Tamil Unavakam"
+  ]
+ },
+ "altdorf|schmiedgasse|4": {
+  "street": "Schmiedgasse",
+  "hn": "4",
+  "lat": 46.8814137,
+  "lng": 8.6437641,
+  "mieter": [
+   "Bären",
+   "Pandaki"
+  ]
+ },
+ "altdorf|tellsgasse|1": {
+  "street": "Tellsgasse",
+  "hn": "1",
+  "lat": 46.8817928,
+  "lng": 8.6433277,
+  "mieter": [
+   "Finanzdirektion Amt für Steuern"
+  ]
+ },
+ "altdorf|schmiedgasse|2": {
+  "street": "Schmiedgasse",
+  "hn": "2",
+  "lat": 46.8814895,
+  "lng": 8.6437374,
+  "mieter": [
+   "Rilex"
+  ]
+ },
+ "altdorf|schmiedgasse|9": {
+  "street": "Schmiedgasse",
+  "hn": "9",
+  "lat": 46.8809063,
+  "lng": 8.6437937,
+  "mieter": [
+   "Cash Sport & Fashion"
+  ]
+ },
+ "altdorf|rathausplatz|3": {
+  "street": "Rathausplatz",
+  "hn": "3",
+  "lat": 46.8817195,
+  "lng": 8.6435381,
+  "mieter": [
+   "FUMO Tabaccheria Mazzucchelli"
+  ]
+ },
+ "altdorf|lehnplatz|22": {
+  "street": "Lehnplatz",
+  "hn": "22",
+  "lat": 46.8805763,
+  "lng": 8.6445714,
+  "mieter": [
+   "Amt für Bevölkerungsschutz und Militär Kanton Uri"
+  ]
+ },
+ "altdorf|tellsgasse|9": {
+  "street": "Tellsgasse",
+  "hn": "9",
+  "lat": 46.8822216,
+  "lng": 8.6425318,
+  "mieter": [
+   "Doski"
+  ]
+ },
+ "altdorf|tellsgasse|16": {
+  "street": "Tellsgasse",
+  "hn": "16",
+  "lat": 46.8827441,
+  "lng": 8.641622,
+  "mieter": [
+   "Musikhaus Gisler"
+  ]
+ },
+ "altdorf|tellsgasse|13": {
+  "street": "Tellsgasse",
+  "hn": "13",
+  "lat": 46.8823548,
+  "lng": 8.6423562,
+  "mieter": [
+   "noemimehani's concept store & atelier"
+  ]
+ },
+ "altdorf|tellsgasse|8": {
+  "street": "Tellsgasse",
+  "hn": "8",
+  "lat": 46.882042,
+  "lng": 8.6431782,
+  "mieter": [
+   "Schwarzer Löwen"
+  ]
+ },
+ "altdorf|schmiedgasse|18": {
+  "street": "Schmiedgasse",
+  "hn": "18",
+  "lat": 46.8807091,
+  "lng": 8.6435436,
+  "mieter": [
+   "coiffeur widmet"
+  ]
+ },
+ "altdorf|hellgasse|28": {
+  "street": "Hellgasse",
+  "hn": "28",
+  "lat": 46.8786862,
+  "lng": 8.6495627,
+  "mieter": []
+ },
+ "altdorf|hellgasse|23": {
+  "street": "Hellgasse",
+  "hn": "23",
+  "lat": 46.8792953,
+  "lng": 8.649512,
+  "mieter": []
+ },
+ "altdorf|hellgasse|35": {
+  "street": "Hellgasse",
+  "hn": "35",
+  "lat": 46.8781087,
+  "lng": 8.6519828,
+  "mieter": [
+   "Bistro & Lounge Baggenstoss"
+  ]
+ },
+ "altdorf|hellgasse|48": {
+  "street": "Hellgasse",
+  "hn": "48",
+  "lat": 46.8760827,
+  "lng": 8.6523048,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|14": {
+  "street": "Tellsgasse",
+  "hn": "14",
+  "lat": 46.8826922,
+  "lng": 8.6421642,
+  "mieter": []
+ },
+ "altdorf|hellgasse|31": {
+  "street": "Hellgasse",
+  "hn": "31",
+  "lat": 46.878594,
+  "lng": 8.6507958,
+  "mieter": []
+ },
+ "altdorf|hellgasse|40": {
+  "street": "Hellgasse",
+  "hn": "40",
+  "lat": 46.8769228,
+  "lng": 8.650982,
+  "mieter": []
+ },
+ "altdorf|hellgasse|33": {
+  "street": "Hellgasse",
+  "hn": "33",
+  "lat": 46.8783304,
+  "lng": 8.650895,
+  "mieter": []
+ },
+ "altdorf|hellgasse|27": {
+  "street": "Hellgasse",
+  "hn": "27",
+  "lat": 46.8788974,
+  "lng": 8.6506779,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|2a": {
+  "street": "Tellsgasse",
+  "hn": "2a",
+  "lat": 46.8819517,
+  "lng": 8.6436553,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|10": {
+  "street": "Tellsgasse",
+  "hn": "10",
+  "lat": 46.8821747,
+  "lng": 8.6430213,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|12": {
+  "street": "Tellsgasse",
+  "hn": "12",
+  "lat": 46.8822246,
+  "lng": 8.6428795,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|3": {
+  "street": "Tellsgasse",
+  "hn": "3",
+  "lat": 46.8818466,
+  "lng": 8.6431312,
+  "mieter": []
+ },
+ "altdorf|schmiedgasse|14": {
+  "street": "Schmiedgasse",
+  "hn": "14",
+  "lat": 46.8809782,
+  "lng": 8.6434391,
+  "mieter": []
+ },
+ "altdorf|hellgasse|16": {
+  "street": "Hellgasse",
+  "hn": "16",
+  "lat": 46.8798349,
+  "lng": 8.6468291,
+  "mieter": []
+ },
+ "altdorf|hellgasse|7": {
+  "street": "Hellgasse",
+  "hn": "7",
+  "lat": 46.8811702,
+  "lng": 8.6468857,
+  "mieter": []
+ },
+ "altdorf|hellgasse|9": {
+  "street": "Hellgasse",
+  "hn": "9",
+  "lat": 46.880636,
+  "lng": 8.6464387,
+  "mieter": []
+ },
+ "altdorf|hellgasse|5": {
+  "street": "Hellgasse",
+  "hn": "5",
+  "lat": 46.8809667,
+  "lng": 8.6465284,
+  "mieter": []
+ },
+ "altdorf|hellgasse|12": {
+  "street": "Hellgasse",
+  "hn": "12",
+  "lat": 46.8802926,
+  "lng": 8.6465485,
+  "mieter": []
+ },
+ "altdorf|hellgasse|8": {
+  "street": "Hellgasse",
+  "hn": "8",
+  "lat": 46.8804599,
+  "lng": 8.6460704,
+  "mieter": []
+ },
+ "altdorf|hellgasse|20": {
+  "street": "Hellgasse",
+  "hn": "20",
+  "lat": 46.8797616,
+  "lng": 8.6472064,
+  "mieter": [
+   "Höfli"
+  ]
+ },
+ "altdorf|tellsgasse|19": {
+  "street": "Tellsgasse",
+  "hn": "19",
+  "lat": 46.882463,
+  "lng": 8.6420884,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|18": {
+  "street": "Tellsgasse",
+  "hn": "18",
+  "lat": 46.8828446,
+  "lng": 8.6415095,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|21": {
+  "street": "Tellsgasse",
+  "hn": "21",
+  "lat": 46.8825066,
+  "lng": 8.6419722,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|23": {
+  "street": "Tellsgasse",
+  "hn": "23",
+  "lat": 46.8825339,
+  "lng": 8.641829,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|20": {
+  "street": "Tellsgasse",
+  "hn": "20",
+  "lat": 46.8829041,
+  "lng": 8.6416672,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|25": {
+  "street": "Tellsgasse",
+  "hn": "25",
+  "lat": 46.8825678,
+  "lng": 8.641512,
+  "mieter": [
+   "Gemeindehaus Altdorf"
+  ]
+ },
+ "altdorf|hellgasse|51": {
+  "street": "Hellgasse",
+  "hn": "51",
+  "lat": 46.8763273,
+  "lng": 8.6526774,
+  "mieter": []
+ },
+ "altdorf|hellgasse|34": {
+  "street": "Hellgasse",
+  "hn": "34",
+  "lat": 46.8777318,
+  "lng": 8.6505019,
+  "mieter": []
+ },
+ "altdorf|hellgasse|36": {
+  "street": "Hellgasse",
+  "hn": "36",
+  "lat": 46.8774412,
+  "lng": 8.6506867,
+  "mieter": []
+ },
+ "altdorf|hellgasse|49": {
+  "street": "Hellgasse",
+  "hn": "49",
+  "lat": 46.8765058,
+  "lng": 8.652444,
+  "mieter": []
+ },
+ "altdorf|hellgasse|45": {
+  "street": "Hellgasse",
+  "hn": "45",
+  "lat": 46.8764804,
+  "lng": 8.6521363,
+  "mieter": []
+ },
+ "altdorf|hellgasse|53": {
+  "street": "Hellgasse",
+  "hn": "53",
+  "lat": 46.8760445,
+  "lng": 8.6528944,
+  "mieter": []
+ },
+ "altdorf|hellgasse|58": {
+  "street": "Hellgasse",
+  "hn": "58",
+  "lat": 46.875203,
+  "lng": 8.6533365,
+  "mieter": []
+ },
+ "altdorf|hellgasse|59": {
+  "street": "Hellgasse",
+  "hn": "59",
+  "lat": 46.8754905,
+  "lng": 8.6536193,
+  "mieter": []
+ },
+ "altdorf|hellgasse|32": {
+  "street": "Hellgasse",
+  "hn": "32",
+  "lat": 46.8778955,
+  "lng": 8.6503487,
+  "mieter": []
+ },
+ "altdorf|hellgasse|67": {
+  "street": "Hellgasse",
+  "hn": "67",
+  "lat": 46.8749693,
+  "lng": 8.6546821,
+  "mieter": []
+ },
+ "altdorf|hellgasse|69": {
+  "street": "Hellgasse",
+  "hn": "69",
+  "lat": 46.8747046,
+  "lng": 8.6548556,
+  "mieter": []
+ },
+ "altdorf|hellgasse|43": {
+  "street": "Hellgasse",
+  "hn": "43",
+  "lat": 46.876621,
+  "lng": 8.6518742,
+  "mieter": []
+ },
+ "altdorf|hellgasse|61": {
+  "street": "Hellgasse",
+  "hn": "61",
+  "lat": 46.875352,
+  "lng": 8.6539888,
+  "mieter": []
+ },
+ "altdorf|hellgasse|38": {
+  "street": "Hellgasse",
+  "hn": "38",
+  "lat": 46.8771586,
+  "lng": 8.6506536,
+  "mieter": []
+ },
+ "altdorf|hellgasse|60": {
+  "street": "Hellgasse",
+  "hn": "60",
+  "lat": 46.8751189,
+  "lng": 8.6536119,
+  "mieter": []
+ },
+ "altdorf|hellgasse|63": {
+  "street": "Hellgasse",
+  "hn": "63",
+  "lat": 46.8752458,
+  "lng": 8.6543151,
+  "mieter": []
+ },
+ "altdorf|hellgasse|55": {
+  "street": "Hellgasse",
+  "hn": "55",
+  "lat": 46.8758133,
+  "lng": 8.6533556,
+  "mieter": []
+ },
+ "altdorf|hellgasse|29": {
+  "street": "Hellgasse",
+  "hn": "29",
+  "lat": 46.8787148,
+  "lng": 8.6501021,
+  "mieter": []
+ },
+ "altdorf|hellgasse|1": {
+  "street": "Hellgasse",
+  "hn": "1",
+  "lat": 46.881162,
+  "lng": 8.645437,
+  "mieter": []
+ },
+ "altdorf|hellgasse|11": {
+  "street": "Hellgasse",
+  "hn": "11",
+  "lat": 46.8801579,
+  "lng": 8.6477081,
+  "mieter": []
+ },
+ "altdorf|hellgasse|10a": {
+  "street": "Hellgasse",
+  "hn": "10a",
+  "lat": 46.8801853,
+  "lng": 8.6463263,
+  "mieter": []
+ },
+ "altdorf|hellgasse|14": {
+  "street": "Hellgasse",
+  "hn": "14",
+  "lat": 46.8801387,
+  "lng": 8.6467218,
+  "mieter": []
+ },
+ "altdorf|hellgasse|18": {
+  "street": "Hellgasse",
+  "hn": "18",
+  "lat": 46.8796375,
+  "lng": 8.6469274,
+  "mieter": []
+ },
+ "altdorf|schmiedgasse|7": {
+  "street": "Schmiedgasse",
+  "hn": "7",
+  "lat": 46.8810116,
+  "lng": 8.6438735,
+  "mieter": []
+ },
+ "altdorf|schmiedgasse|1": {
+  "street": "Schmiedgasse",
+  "hn": "1",
+  "lat": 46.8814724,
+  "lng": 8.6440647,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|4a": {
+  "street": "Tellsgasse",
+  "hn": "4a",
+  "lat": 46.8820772,
+  "lng": 8.6436322,
+  "mieter": []
+ },
+ "altdorf|tellsgasse|4": {
+  "street": "Tellsgasse",
+  "hn": "4",
+  "lat": 46.8819924,
+  "lng": 8.6435221,
+  "mieter": []
+ },
+ "altdorf|lehnplatz|18": {
+  "street": "Lehnplatz",
+  "hn": "18",
+  "lat": 46.8809015,
+  "lng": 8.645117,
+  "mieter": []
+ },
+ "altdorf|hellgasse|42": {
+  "street": "Hellgasse",
+  "hn": "42",
+  "lat": 46.8768233,
+  "lng": 8.6511194,
+  "mieter": []
+ },
+ "altdorf|hellgasse|9.3": {
+  "street": "Hellgasse",
+  "hn": "9.3",
+  "lat": 46.8804686,
+  "lng": 8.6466756,
+  "mieter": []
+ },
+ "altdorf|hellgasse|10b": {
+  "street": "Hellgasse",
+  "hn": "10b",
+  "lat": 46.880021,
+  "lng": 8.646515,
+  "mieter": []
+ }
+}

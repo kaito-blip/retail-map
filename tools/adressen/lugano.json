@@ -1,0 +1,750 @@
+{
+ "lugano|via nassa|68": {
+  "street": "Via Nassa",
+  "hn": "68",
+  "lat": 46.0002609,
+  "lng": 8.9491437,
+  "mieter": [
+   "Donde Art Gallery"
+  ]
+ },
+ "lugano|via nassa|66": {
+  "street": "Via Nassa",
+  "hn": "66",
+  "lat": 46.0005999,
+  "lng": 8.9491731,
+  "mieter": [
+   "Antonioli"
+  ]
+ },
+ "lugano|via nassa|29": {
+  "street": "Via Nassa",
+  "hn": "29",
+  "lat": 46.0006368,
+  "lng": 8.9494202,
+  "mieter": [
+   "Antonioli Boutique Donna"
+  ]
+ },
+ "lugano|via nassa|60": {
+  "street": "Via Nassa",
+  "hn": "60",
+  "lat": 46.0009853,
+  "lng": 8.9492437,
+  "mieter": []
+ },
+ "lugano|via nassa|46": {
+  "street": "Via Nassa",
+  "hn": "46",
+  "lat": 46.00165,
+  "lng": 8.9494947,
+  "mieter": []
+ },
+ "lugano|via nassa|28": {
+  "street": "Via Nassa",
+  "hn": "28",
+  "lat": 46.002564,
+  "lng": 8.9496458,
+  "mieter": []
+ },
+ "lugano|piazza della riforma|10": {
+  "street": "Piazza della Riforma",
+  "hn": "10",
+  "lat": 46.0040121,
+  "lng": 8.9515108,
+  "mieter": [
+   "Tango"
+  ]
+ },
+ "lugano|via pessina|20": {
+  "street": "Via Pessina",
+  "hn": "20",
+  "lat": 46.0047176,
+  "lng": 8.9507101,
+  "mieter": [
+   "Taleda"
+  ]
+ },
+ "lugano|via pretorio|2": {
+  "street": "Via Pretorio",
+  "hn": "2",
+  "lat": 46.0052839,
+  "lng": 8.9517002,
+  "mieter": [
+   "Vitti"
+  ]
+ },
+ "lugano|via pretorio|20": {
+  "street": "Via Pretorio",
+  "hn": "20",
+  "lat": 46.0072857,
+  "lng": 8.9524759,
+  "mieter": [
+   "Jóia - Sapore & Sapori"
+  ]
+ },
+ "lugano|piazza della riforma|1": {
+  "street": "Piazza della Riforma",
+  "hn": "1",
+  "lat": 46.0040397,
+  "lng": 8.9512925,
+  "mieter": [
+   "Vanini",
+   "Ristorante Olimpia",
+   "Agua"
+  ]
+ },
+ "lugano|via pessina|17": {
+  "street": "Via Pessina",
+  "hn": "17",
+  "lat": 46.0047072,
+  "lng": 8.9505338,
+  "mieter": [
+   "Läderach"
+  ]
+ },
+ "lugano|via pessina|12": {
+  "street": "Via Pessina",
+  "hn": "12",
+  "lat": 46.0042002,
+  "lng": 8.9503996,
+  "mieter": [
+   "Gabbani"
+  ]
+ },
+ "lugano|via nassa|44": {
+  "street": "Via Nassa",
+  "hn": "44",
+  "lat": 46.0018367,
+  "lng": 8.9494578,
+  "mieter": [
+   "Prada"
+  ]
+ },
+ "lugano|via nassa|21": {
+  "street": "Via Nassa",
+  "hn": "21",
+  "lat": 46.0015081,
+  "lng": 8.9496704,
+  "mieter": [
+   "Farmacia Nassa"
+  ]
+ },
+ "lugano|via nassa|4": {
+  "street": "Via Nassa",
+  "hn": "4",
+  "lat": 46.003115,
+  "lng": 8.9500001,
+  "mieter": [
+   "Rocca"
+  ]
+ },
+ "lugano|via nassa|1": {
+  "street": "Via Nassa",
+  "hn": "1",
+  "lat": 46.0033419,
+  "lng": 8.9501459,
+  "mieter": [
+   "Gucci"
+  ]
+ },
+ "lugano|piazza della riforma|9": {
+  "street": "Piazza della Riforma",
+  "hn": "9",
+  "lat": 46.0040115,
+  "lng": 8.9511446,
+  "mieter": [
+   "Sass Café Vineria"
+  ]
+ },
+ "lugano|via nassa|31": {
+  "street": "Via Nassa",
+  "hn": "31",
+  "lat": 46.0003226,
+  "lng": 8.9494976,
+  "mieter": [
+   "Louis Vuitton"
+  ]
+ },
+ "lugano|via pessina|10": {
+  "street": "Via Pessina",
+  "hn": "10",
+  "lat": 46.0041041,
+  "lng": 8.9504308,
+  "mieter": [
+   "Intimissimi"
+  ]
+ },
+ "lugano|salita mario e antonio chiattone|10": {
+  "street": "Salita Mario e Antonio Chiattone",
+  "hn": "10",
+  "lat": 46.0050694,
+  "lng": 8.950472,
+  "mieter": [
+   "Parfum Christian Dior"
+  ]
+ },
+ "lugano|via pretorio|7": {
+  "street": "Via Pretorio",
+  "hn": "7",
+  "lat": 46.0057384,
+  "lng": 8.9515661,
+  "mieter": [
+   "Storica",
+   "Bijoux Io"
+  ]
+ },
+ "lugano|via pessina|3": {
+  "street": "Via Pessina",
+  "hn": "3",
+  "lat": 46.0038772,
+  "lng": 8.9502865,
+  "mieter": [
+   "Ristorante Grand Café Al Porto"
+  ]
+ },
+ "lugano|via nassa|36/38": {
+  "street": "Via Nassa",
+  "hn": "36/38",
+  "lat": 46.0021278,
+  "lng": 8.9495971,
+  "mieter": [
+   "SH21"
+  ]
+ },
+ "lugano|via pessina|1": {
+  "street": "Via Pessina",
+  "hn": "1",
+  "lat": 46.0042025,
+  "lng": 8.9503242,
+  "mieter": [
+   "Swarovski",
+   "Mion"
+  ]
+ },
+ "lugano|via pessina|8": {
+  "street": "Via Pessina",
+  "hn": "8",
+  "lat": 46.0040471,
+  "lng": 8.9503985,
+  "mieter": []
+ },
+ "lugano|via pretorio|14": {
+  "street": "Via Pretorio",
+  "hn": "14",
+  "lat": 46.0061489,
+  "lng": 8.9520553,
+  "mieter": [
+   "Ottico Michel di Claudia"
+  ]
+ },
+ "lugano|via nassa|62": {
+  "street": "Via Nassa",
+  "hn": "62",
+  "lat": 46.0009508,
+  "lng": 8.9492713,
+  "mieter": [
+   "Imago Art Cafè"
+  ]
+ },
+ "lugano|via pessina|13": {
+  "street": "Via Pessina",
+  "hn": "13",
+  "lat": 46.0041004,
+  "lng": 8.9502892,
+  "mieter": [
+   "Guess"
+  ]
+ },
+ "lugano|via pessina|14a": {
+  "street": "Via Pessina",
+  "hn": "14A",
+  "lat": 46.004338,
+  "lng": 8.9505045,
+  "mieter": [
+   "Frenky&Emy Royal Couture",
+   "Yamamai"
+  ]
+ },
+ "lugano|via nassa|64": {
+  "street": "Via Nassa",
+  "hn": "64",
+  "lat": 46.0007923,
+  "lng": 8.9492727,
+  "mieter": [
+   "Juliana Jewelry"
+  ]
+ },
+ "lugano|via pessina|6": {
+  "street": "Via Pessina",
+  "hn": "6",
+  "lat": 46.0039293,
+  "lng": 8.9504269,
+  "mieter": [
+   "Guess"
+  ]
+ },
+ "lugano|via pretorio|9": {
+  "street": "Via Pretorio",
+  "hn": "9",
+  "lat": 46.0062507,
+  "lng": 8.9517193,
+  "mieter": [
+   "Fully Burgers and Fries"
+  ]
+ },
+ "lugano|via pretorio|11": {
+  "street": "Via Pretorio",
+  "hn": "11",
+  "lat": 46.0065044,
+  "lng": 8.9518392,
+  "mieter": [
+   "Linea Sana"
+  ]
+ },
+ "lugano|piazza della riforma|12": {
+  "street": "Piazza della Riforma",
+  "hn": "12",
+  "lat": 46.0038047,
+  "lng": 8.9517442,
+  "mieter": []
+ },
+ "lugano|via pessina|9": {
+  "street": "Via Pessina",
+  "hn": "9",
+  "lat": 46.0040624,
+  "lng": 8.9502141,
+  "mieter": [
+   "Pessina - Poke Sushi Bar"
+  ]
+ },
+ "lugano|via pessina|15": {
+  "street": "Via Pessina",
+  "hn": "15",
+  "lat": 46.0042919,
+  "lng": 8.950143,
+  "mieter": []
+ },
+ "lugano|via nassa|25": {
+  "street": "Via Nassa",
+  "hn": "25",
+  "lat": 46.0014071,
+  "lng": 8.9495915,
+  "mieter": []
+ },
+ "lugano|via nassa|2": {
+  "street": "Via Nassa",
+  "hn": "2",
+  "lat": 46.0035577,
+  "lng": 8.950289,
+  "mieter": []
+ },
+ "lugano|via nassa|7a": {
+  "street": "Via Nassa",
+  "hn": "7a",
+  "lat": 46.0026602,
+  "lng": 8.9499013,
+  "mieter": []
+ },
+ "lugano|via pessina|5": {
+  "street": "Via Pessina",
+  "hn": "5",
+  "lat": 46.0039644,
+  "lng": 8.9502466,
+  "mieter": []
+ },
+ "lugano|via nassa|19": {
+  "street": "Via Nassa",
+  "hn": "19",
+  "lat": 46.0017915,
+  "lng": 8.9496431,
+  "mieter": []
+ },
+ "lugano|via nassa|17": {
+  "street": "Via Nassa",
+  "hn": "17",
+  "lat": 46.0019229,
+  "lng": 8.9496952,
+  "mieter": [
+   "Fiduciaria Mega"
+  ]
+ },
+ "lugano|via nassa|15": {
+  "street": "Via Nassa",
+  "hn": "15",
+  "lat": 46.0021405,
+  "lng": 8.9497693,
+  "mieter": []
+ },
+ "lugano|via pessina|7": {
+  "street": "Via Pessina",
+  "hn": "7",
+  "lat": 46.00402,
+  "lng": 8.9502153,
+  "mieter": []
+ },
+ "lugano|via pretorio|7a": {
+  "street": "Via Pretorio",
+  "hn": "7a",
+  "lat": 46.0058816,
+  "lng": 8.9515945,
+  "mieter": []
+ },
+ "lugano|salita mario e antonio chiattone|3": {
+  "street": "Salita Mario e Antonio Chiattone",
+  "hn": "3",
+  "lat": 46.0051379,
+  "lng": 8.9500768,
+  "mieter": []
+ },
+ "lugano|via pessina|16": {
+  "street": "Via Pessina",
+  "hn": "16",
+  "lat": 46.0045699,
+  "lng": 8.950676,
+  "mieter": []
+ },
+ "lugano|via nassa|11": {
+  "street": "Via Nassa",
+  "hn": "11",
+  "lat": 46.0023981,
+  "lng": 8.9501584,
+  "mieter": []
+ },
+ "lugano|via nassa|11a": {
+  "street": "Via Nassa",
+  "hn": "11a",
+  "lat": 46.00241,
+  "lng": 8.949985,
+  "mieter": []
+ },
+ "lugano|via nassa|9": {
+  "street": "Via Nassa",
+  "hn": "9",
+  "lat": 46.0026179,
+  "lng": 8.9499195,
+  "mieter": []
+ },
+ "lugano|salita mario e antonio chiattone|12": {
+  "street": "Salita Mario e Antonio Chiattone",
+  "hn": "12",
+  "lat": 46.0051463,
+  "lng": 8.9490602,
+  "mieter": [
+   "Carta e Penna"
+  ]
+ },
+ "lugano|salita mario e antonio chiattone|8": {
+  "street": "Salita Mario e Antonio Chiattone",
+  "hn": "8",
+  "lat": 46.0050749,
+  "lng": 8.9493597,
+  "mieter": [
+   "Orafo",
+   "Wizz"
+  ]
+ },
+ "lugano|salita mario e antonio chiattone|7": {
+  "street": "Salita Mario e Antonio Chiattone",
+  "hn": "7",
+  "lat": 46.0050904,
+  "lng": 8.9495117,
+  "mieter": [
+   "Jair Top"
+  ]
+ },
+ "lugano|salita mario e antonio chiattone|18": {
+  "street": "Salita Mario e Antonio Chiattone",
+  "hn": "18",
+  "lat": 46.0051767,
+  "lng": 8.9494401,
+  "mieter": [
+   "Tropicana",
+   "Dadix Vynil",
+   "Raku Kimono"
+  ]
+ },
+ "lugano|via pretorio|13a": {
+  "street": "Via Pretorio",
+  "hn": "13a",
+  "lat": 46.0067429,
+  "lng": 8.9519612,
+  "mieter": [
+   "Scheker"
+  ]
+ },
+ "lugano|via pretorio|15": {
+  "street": "Via Pretorio",
+  "hn": "15",
+  "lat": 46.0069035,
+  "lng": 8.9524146,
+  "mieter": [
+   "Amavita"
+  ]
+ },
+ "lugano|via nassa|32": {
+  "street": "Via Nassa",
+  "hn": "32",
+  "lat": 46.0023449,
+  "lng": 8.9496528,
+  "mieter": [
+   "Godot & Fils"
+  ]
+ },
+ "lugano|via pretorio|16": {
+  "street": "Via Pretorio",
+  "hn": "16",
+  "lat": 46.0067961,
+  "lng": 8.9525181,
+  "mieter": []
+ },
+ "lugano|via pretorio|19": {
+  "street": "Via Pretorio",
+  "hn": "19",
+  "lat": 46.007581,
+  "lng": 8.9522232,
+  "mieter": []
+ },
+ "lugano|via pretorio|22": {
+  "street": "Via Pretorio",
+  "hn": "22",
+  "lat": 46.0075992,
+  "lng": 8.9526907,
+  "mieter": []
+ },
+ "lugano|via pessina|19": {
+  "street": "Via Pessina",
+  "hn": "19",
+  "lat": 46.0047223,
+  "lng": 8.9505,
+  "mieter": []
+ },
+ "lugano|via pessina|21": {
+  "street": "Via Pessina",
+  "hn": "21",
+  "lat": 46.0048151,
+  "lng": 8.9504563,
+  "mieter": []
+ },
+ "lugano|piazza della riforma|5": {
+  "street": "Piazza della Riforma",
+  "hn": "5",
+  "lat": 46.0037032,
+  "lng": 8.950684,
+  "mieter": []
+ },
+ "lugano|piazza della riforma|6": {
+  "street": "Piazza della Riforma",
+  "hn": "6",
+  "lat": 46.0039186,
+  "lng": 8.9507747,
+  "mieter": []
+ },
+ "lugano|via pretorio|5": {
+  "street": "Via Pretorio",
+  "hn": "5",
+  "lat": 46.0054777,
+  "lng": 8.9514032,
+  "mieter": []
+ },
+ "lugano|salita mario e antonio chiattone|20": {
+  "street": "Salita Mario e Antonio Chiattone",
+  "hn": "20",
+  "lat": 46.005198,
+  "lng": 8.9491962,
+  "mieter": []
+ },
+ "lugano|via nassa|22": {
+  "street": "Via Nassa",
+  "hn": "22",
+  "lat": 46.0028504,
+  "lng": 8.9497263,
+  "mieter": [
+   "Coop City"
+  ]
+ },
+ "lugano|via nassa|3": {
+  "street": "Via Nassa",
+  "hn": "3",
+  "lat": 46.0034416,
+  "lng": 8.9506477,
+  "mieter": []
+ },
+ "lugano|via nassa|3a": {
+  "street": "Via Nassa",
+  "hn": "3a",
+  "lat": 46.003416,
+  "lng": 8.9505528,
+  "mieter": []
+ },
+ "lugano|via nassa|5": {
+  "street": "Via Nassa",
+  "hn": "5",
+  "lat": 46.003185,
+  "lng": 8.95033,
+  "mieter": []
+ },
+ "lugano|via nassa|7": {
+  "street": "Via Nassa",
+  "hn": "7",
+  "lat": 46.0027386,
+  "lng": 8.9500585,
+  "mieter": []
+ },
+ "lugano|via nassa|30": {
+  "street": "Via Nassa",
+  "hn": "30",
+  "lat": 46.0025107,
+  "lng": 8.9496101,
+  "mieter": []
+ },
+ "lugano|via nassa|26": {
+  "street": "Via Nassa",
+  "hn": "26",
+  "lat": 46.002707,
+  "lng": 8.9496589,
+  "mieter": [
+   "Chiesa di San Carlo Borromeo"
+  ]
+ },
+ "lugano|via nassa|42": {
+  "street": "Via Nassa",
+  "hn": "42",
+  "lat": 46.0019865,
+  "lng": 8.9494796,
+  "mieter": []
+ },
+ "lugano|via nassa|36": {
+  "street": "Via Nassa",
+  "hn": "36",
+  "lat": 46.0022705,
+  "lng": 8.9495803,
+  "mieter": []
+ },
+ "lugano|via nassa|40": {
+  "street": "Via Nassa",
+  "hn": "40",
+  "lat": 46.0020968,
+  "lng": 8.9494941,
+  "mieter": []
+ },
+ "lugano|via nassa|38": {
+  "street": "Via Nassa",
+  "hn": "38",
+  "lat": 46.0021944,
+  "lng": 8.9495396,
+  "mieter": []
+ },
+ "lugano|via nassa|56": {
+  "street": "Via Nassa",
+  "hn": "56",
+  "lat": 46.0013134,
+  "lng": 8.9492898,
+  "mieter": []
+ },
+ "lugano|via nassa|54": {
+  "street": "Via Nassa",
+  "hn": "54",
+  "lat": 46.0014566,
+  "lng": 8.9493661,
+  "mieter": []
+ },
+ "lugano|via nassa|58": {
+  "street": "Via Nassa",
+  "hn": "58",
+  "lat": 46.0011564,
+  "lng": 8.9492029,
+  "mieter": []
+ },
+ "lugano|via nassa|27": {
+  "street": "Via Nassa",
+  "hn": "27",
+  "lat": 46.0008563,
+  "lng": 8.9495245,
+  "mieter": []
+ },
+ "lugano|via nassa|3b": {
+  "street": "Via Nassa",
+  "hn": "3b",
+  "lat": 46.0033905,
+  "lng": 8.9504957,
+  "mieter": []
+ },
+ "lugano|via pessina|14": {
+  "street": "Via Pessina",
+  "hn": "14",
+  "lat": 46.0043117,
+  "lng": 8.9505025,
+  "mieter": []
+ },
+ "lugano|via nassa|26a": {
+  "street": "Via Nassa",
+  "hn": "26a",
+  "lat": 46.0027423,
+  "lng": 8.9494494,
+  "mieter": []
+ },
+ "lugano|via pretorio|1": {
+  "street": "Via Pretorio",
+  "hn": "1",
+  "lat": 46.0052472,
+  "lng": 8.951393,
+  "mieter": []
+ },
+ "lugano|via pretorio|3": {
+  "street": "Via Pretorio",
+  "hn": "3",
+  "lat": 46.0053822,
+  "lng": 8.9514112,
+  "mieter": []
+ },
+ "lugano|via nassa|52": {
+  "street": "Via Nassa",
+  "hn": "52",
+  "lat": 46.0015596,
+  "lng": 8.9494408,
+  "mieter": []
+ },
+ "lugano|salita mario e antonio chiattone|14": {
+  "street": "Salita Mario e Antonio Chiattone",
+  "hn": "14",
+  "lat": 46.0055124,
+  "lng": 8.9496423,
+  "mieter": []
+ },
+ "lugano|via pessina|22": {
+  "street": "Via Pessina",
+  "hn": "22",
+  "lat": 46.0047151,
+  "lng": 8.9507036,
+  "mieter": []
+ },
+ "lugano|via pessina|18": {
+  "street": "Via Pessina",
+  "hn": "18",
+  "lat": 46.0046021,
+  "lng": 8.9506937,
+  "mieter": []
+ },
+ "lugano|via pretorio|21": {
+  "street": "Via Pretorio",
+  "hn": "21",
+  "lat": 46.0077544,
+  "lng": 8.9523432,
+  "mieter": []
+ },
+ "lugano|via pessina|2": {
+  "street": "Via Pessina",
+  "hn": "2",
+  "lat": 46.0037944,
+  "lng": 8.9504471,
+  "mieter": []
+ },
+ "lugano|via pretorio|13": {
+  "street": "Via Pretorio",
+  "hn": "13",
+  "lat": 46.0067605,
+  "lng": 8.9515945,
+  "mieter": []
+ }
+}

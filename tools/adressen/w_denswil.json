@@ -1,0 +1,2152 @@
+{
+ "wädenswil|zugerstrasse|41": {
+  "street": "Zugerstrasse",
+  "hn": "41",
+  "lat": 47.2299301,
+  "lng": 8.6671966,
+  "mieter": [
+   "Avia"
+  ]
+ },
+ "wädenswil|zugerstrasse|27": {
+  "street": "Zugerstrasse",
+  "hn": "27",
+  "lat": 47.2296373,
+  "lng": 8.669267,
+  "mieter": [
+   "Weinbar Rössli",
+   "H. J. Langendorf AG"
+  ]
+ },
+ "wädenswil|zugerstrasse|23": {
+  "street": "Zugerstrasse",
+  "hn": "23",
+  "lat": 47.2295579,
+  "lng": 8.6702562,
+  "mieter": [
+   "Cafe City",
+   "Buch Paradies"
+  ]
+ },
+ "wädenswil|türgass|16": {
+  "street": "Türgass",
+  "hn": "16",
+  "lat": 47.2288259,
+  "lng": 8.6701255,
+  "mieter": [
+   "Ristorante La Leonessa"
+  ]
+ },
+ "wädenswil|zugerstrasse|2": {
+  "street": "Zugerstrasse",
+  "hn": "2",
+  "lat": 47.2299189,
+  "lng": 8.6734768,
+  "mieter": [
+   "Sun Store SA",
+   "Valiant Bank AG",
+   "TAKE Express Shop 3 GmbH"
+  ]
+ },
+ "wädenswil|zugerstrasse|22": {
+  "street": "Zugerstrasse",
+  "hn": "22",
+  "lat": 47.2297658,
+  "lng": 8.6705911,
+  "mieter": [
+   "Infini"
+  ]
+ },
+ "wädenswil|florhofstrasse|13": {
+  "street": "Florhofstrasse",
+  "hn": "13",
+  "lat": 47.2306513,
+  "lng": 8.6700119,
+  "mieter": [
+   "Interdiscount",
+   "Fressnapf"
+  ]
+ },
+ "wädenswil|zugerstrasse|25": {
+  "street": "Zugerstrasse",
+  "hn": "25",
+  "lat": 47.2295445,
+  "lng": 8.6701256,
+  "mieter": [
+   "Metzgerei Betschart",
+   "Neuroth",
+   "kleidsam",
+   "Concordia"
+  ]
+ },
+ "wädenswil|zugerstrasse|6": {
+  "street": "Zugerstrasse",
+  "hn": "6",
+  "lat": 47.2300812,
+  "lng": 8.6725008,
+  "mieter": [
+   "Coop",
+   "Dosenbach"
+  ]
+ },
+ "wädenswil|oberdorfstrasse|27": {
+  "street": "Oberdorfstrasse",
+  "hn": "27",
+  "lat": 47.2290212,
+  "lng": 8.6678724,
+  "mieter": [
+   "Migros",
+   "Migros Restaurant",
+   "Migros Take-Away",
+   "Pill Apotheke"
+  ]
+ },
+ "wädenswil|oberdorfstrasse|21": {
+  "street": "Oberdorfstrasse",
+  "hn": "21",
+  "lat": 47.2282697,
+  "lng": 8.668826,
+  "mieter": [
+   "Denner"
+  ]
+ },
+ "wädenswil|seestrasse|112": {
+  "street": "Seestrasse",
+  "hn": "112",
+  "lat": 47.2294853,
+  "lng": 8.6743778,
+  "mieter": [
+   "Suan Long"
+  ]
+ },
+ "wädenswil|zugerstrasse|20": {
+  "street": "Zugerstrasse",
+  "hn": "20",
+  "lat": 47.2299155,
+  "lng": 8.6708888,
+  "mieter": [
+   "C&A",
+   "Marionnaud"
+  ]
+ },
+ "wädenswil|zugerstrasse|18": {
+  "street": "Zugerstrasse",
+  "hn": "18",
+  "lat": 47.2297911,
+  "lng": 8.6711891,
+  "mieter": [
+   "Clientis"
+  ]
+ },
+ "wädenswil|zugerstrasse|16": {
+  "street": "Zugerstrasse",
+  "hn": "16",
+  "lat": 47.2297955,
+  "lng": 8.6715458,
+  "mieter": [
+   "Müller"
+  ]
+ },
+ "wädenswil|zugerstrasse|12": {
+  "street": "Zugerstrasse",
+  "hn": "12",
+  "lat": 47.2298593,
+  "lng": 8.6722416,
+  "mieter": [
+   "ZKB"
+  ]
+ },
+ "wädenswil|zugerstrasse|5": {
+  "street": "Zugerstrasse",
+  "hn": "5",
+  "lat": 47.2296144,
+  "lng": 8.6734616,
+  "mieter": [
+   "Boutique Bonato",
+   "Sunrise",
+   "magisches haar"
+  ]
+ },
+ "wädenswil|zugerstrasse|1": {
+  "street": "Zugerstrasse",
+  "hn": "1",
+  "lat": 47.2296772,
+  "lng": 8.6736058,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|3": {
+  "street": "Zugerstrasse",
+  "hn": "3",
+  "lat": 47.2296187,
+  "lng": 8.6737077,
+  "mieter": [
+   "Pizza Aneeq"
+  ]
+ },
+ "wädenswil|türgass|3": {
+  "street": "Türgass",
+  "hn": "3",
+  "lat": 47.2292068,
+  "lng": 8.6701514,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|131": {
+  "street": "Seestrasse",
+  "hn": "131",
+  "lat": 47.2310418,
+  "lng": 8.6726408,
+  "mieter": [
+   "Momo House",
+   "Velomech Sezer"
+  ]
+ },
+ "wädenswil|oberdorfstrasse|22": {
+  "street": "Oberdorfstrasse",
+  "hn": "22",
+  "lat": 47.2288775,
+  "lng": 8.668608,
+  "mieter": [
+   "Migros Bank"
+  ]
+ },
+ "wädenswil|zugerstrasse|26": {
+  "street": "Zugerstrasse",
+  "hn": "26",
+  "lat": 47.2298501,
+  "lng": 8.6694497,
+  "mieter": [
+   "Köhler Papeterie"
+  ]
+ },
+ "wädenswil|seestrasse|104": {
+  "street": "Seestrasse",
+  "hn": "104",
+  "lat": 47.2288699,
+  "lng": 8.6748052,
+  "mieter": [
+   "Capelli"
+  ]
+ },
+ "wädenswil|florhofstrasse|7": {
+  "street": "Florhofstrasse",
+  "hn": "7",
+  "lat": 47.2309491,
+  "lng": 8.6706822,
+  "mieter": [
+   "Kelen's Hair Room",
+   "engel & bengel",
+   "Moschee Wädenswil"
+  ]
+ },
+ "wädenswil|seestrasse|87": {
+  "street": "Seestrasse",
+  "hn": "87",
+  "lat": 47.2274918,
+  "lng": 8.6756562,
+  "mieter": [
+   "Sea Thai Take Away"
+  ]
+ },
+ "wädenswil|seestrasse|35b": {
+  "street": "Seestrasse",
+  "hn": "35b",
+  "lat": 47.2237268,
+  "lng": 8.6821501,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|35a": {
+  "street": "Seestrasse",
+  "hn": "35a",
+  "lat": 47.2235854,
+  "lng": 8.6824333,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|33b": {
+  "street": "Seestrasse",
+  "hn": "33b",
+  "lat": 47.2233798,
+  "lng": 8.6827848,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|33a": {
+  "street": "Seestrasse",
+  "hn": "33a",
+  "lat": 47.2231775,
+  "lng": 8.6831685,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|55": {
+  "street": "Seestrasse",
+  "hn": "55",
+  "lat": 47.2252956,
+  "lng": 8.679058,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|194": {
+  "street": "Seestrasse",
+  "hn": "194",
+  "lat": 47.237462,
+  "lng": 8.660866,
+  "mieter": [
+   "Stöckli Concept Store"
+  ]
+ },
+ "wädenswil|florhofstrasse|23": {
+  "street": "Florhofstrasse",
+  "hn": "23",
+  "lat": 47.2314547,
+  "lng": 8.6686505,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|21": {
+  "street": "Florhofstrasse",
+  "hn": "21",
+  "lat": 47.2315914,
+  "lng": 8.6688485,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|19": {
+  "street": "Florhofstrasse",
+  "hn": "19",
+  "lat": 47.231596,
+  "lng": 8.6691495,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|17": {
+  "street": "Florhofstrasse",
+  "hn": "17",
+  "lat": 47.2317274,
+  "lng": 8.669345,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|10": {
+  "street": "Florhofstrasse",
+  "hn": "10",
+  "lat": 47.2312465,
+  "lng": 8.6704962,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|2": {
+  "street": "Florhofstrasse",
+  "hn": "2",
+  "lat": 47.2300432,
+  "lng": 8.6717535,
+  "mieter": [
+   "Citavi"
+  ]
+ },
+ "wädenswil|zugerstrasse|56": {
+  "street": "Zugerstrasse",
+  "hn": "56",
+  "lat": 47.2309964,
+  "lng": 8.6644661,
+  "mieter": [
+   "Vogue Coiffure"
+  ]
+ },
+ "wädenswil|seestrasse|77": {
+  "street": "Seestrasse",
+  "hn": "77",
+  "lat": 47.2270605,
+  "lng": 8.6765817,
+  "mieter": [
+   "Lokma"
+  ]
+ },
+ "wädenswil|zugerstrasse|15": {
+  "street": "Zugerstrasse",
+  "hn": "15",
+  "lat": 47.229592,
+  "lng": 8.67079,
+  "mieter": [
+   "Beldona",
+   "Kuoni",
+   "Hotelplan"
+  ]
+ },
+ "wädenswil|zugerstrasse|11": {
+  "street": "Zugerstrasse",
+  "hn": "11",
+  "lat": 47.2295735,
+  "lng": 8.671358,
+  "mieter": [
+   "Tiefenbacher",
+   "UBS"
+  ]
+ },
+ "wädenswil|oberdorfstrasse|25": {
+  "street": "Oberdorfstrasse",
+  "hn": "25",
+  "lat": 47.2287299,
+  "lng": 8.6682896,
+  "mieter": [
+   "Walder"
+  ]
+ },
+ "wädenswil|oberdorfstrasse|20": {
+  "street": "Oberdorfstrasse",
+  "hn": "20",
+  "lat": 47.2286427,
+  "lng": 8.668847,
+  "mieter": [
+   "ORL HNO Seepraxen"
+  ]
+ },
+ "wädenswil|seestrasse|105": {
+  "street": "Seestrasse",
+  "hn": "105",
+  "lat": 47.2287916,
+  "lng": 8.6745201,
+  "mieter": [
+   "Swisscom",
+   "Salt",
+   "ZWIBOL"
+  ]
+ },
+ "wädenswil|seestrasse|128": {
+  "street": "Seestrasse",
+  "hn": "128",
+  "lat": 47.2307879,
+  "lng": 8.6734338,
+  "mieter": [
+   "2nd Skin",
+   "Marco Steffen"
+  ]
+ },
+ "wädenswil|zugerstrasse|24": {
+  "street": "Zugerstrasse",
+  "hn": "24",
+  "lat": 47.2297735,
+  "lng": 8.6698163,
+  "mieter": [
+   "Flamboyant"
+  ]
+ },
+ "wädenswil|seestrasse|198": {
+  "street": "Seestrasse",
+  "hn": "198",
+  "lat": 47.2379216,
+  "lng": 8.6603867,
+  "mieter": [
+   "Migrolino",
+   "SOCAR"
+  ]
+ },
+ "wädenswil|türgass|9": {
+  "street": "Türgass",
+  "hn": "9",
+  "lat": 47.2288671,
+  "lng": 8.6701772,
+  "mieter": []
+ },
+ "wädenswil|türgass|11": {
+  "street": "Türgass",
+  "hn": "11",
+  "lat": 47.2288046,
+  "lng": 8.6702162,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|1": {
+  "street": "Oberdorfstrasse",
+  "hn": "1",
+  "lat": 47.2265231,
+  "lng": 8.6714444,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|3": {
+  "street": "Oberdorfstrasse",
+  "hn": "3",
+  "lat": 47.2263742,
+  "lng": 8.671099,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|156": {
+  "street": "Seestrasse",
+  "hn": "156",
+  "lat": 47.2323582,
+  "lng": 8.6704099,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|158": {
+  "street": "Seestrasse",
+  "hn": "158",
+  "lat": 47.2324327,
+  "lng": 8.6701177,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|160": {
+  "street": "Seestrasse",
+  "hn": "160",
+  "lat": 47.2325503,
+  "lng": 8.6696007,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|162": {
+  "street": "Seestrasse",
+  "hn": "162",
+  "lat": 47.2327164,
+  "lng": 8.6694513,
+  "mieter": []
+ },
+ "wädenswil|türgass|22": {
+  "street": "Türgass",
+  "hn": "22",
+  "lat": 47.2285493,
+  "lng": 8.6701974,
+  "mieter": []
+ },
+ "wädenswil|türgass|26": {
+  "street": "Türgass",
+  "hn": "26",
+  "lat": 47.2284598,
+  "lng": 8.670178,
+  "mieter": []
+ },
+ "wädenswil|türgass|24": {
+  "street": "Türgass",
+  "hn": "24",
+  "lat": 47.2285858,
+  "lng": 8.6701443,
+  "mieter": []
+ },
+ "wädenswil|türgass|20": {
+  "street": "Türgass",
+  "hn": "20",
+  "lat": 47.2285599,
+  "lng": 8.6703223,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|15": {
+  "street": "Seestrasse",
+  "hn": "15",
+  "lat": 47.2221519,
+  "lng": 8.6854575,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|9": {
+  "street": "Florhofstrasse",
+  "hn": "9",
+  "lat": 47.2305709,
+  "lng": 8.6699146,
+  "mieter": [
+   "di alt Fabrik"
+  ]
+ },
+ "wädenswil|seestrasse|251": {
+  "street": "Seestrasse",
+  "hn": "251",
+  "lat": 47.2412522,
+  "lng": 8.6585227,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|249": {
+  "street": "Seestrasse",
+  "hn": "249",
+  "lat": 47.2409374,
+  "lng": 8.6585999,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|241": {
+  "street": "Seestrasse",
+  "hn": "241",
+  "lat": 47.2396364,
+  "lng": 8.6588972,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|181": {
+  "street": "Seestrasse",
+  "hn": "181",
+  "lat": 47.2337679,
+  "lng": 8.6673498,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|181b": {
+  "street": "Seestrasse",
+  "hn": "181b",
+  "lat": 47.2337236,
+  "lng": 8.6671397,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|179": {
+  "street": "Seestrasse",
+  "hn": "179",
+  "lat": 47.2336694,
+  "lng": 8.6675152,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|177": {
+  "street": "Seestrasse",
+  "hn": "177",
+  "lat": 47.2335291,
+  "lng": 8.6677053,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|175": {
+  "street": "Seestrasse",
+  "hn": "175",
+  "lat": 47.2334459,
+  "lng": 8.6678671,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|173": {
+  "street": "Seestrasse",
+  "hn": "173",
+  "lat": 47.2333911,
+  "lng": 8.6679512,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|171": {
+  "street": "Seestrasse",
+  "hn": "171",
+  "lat": 47.2333009,
+  "lng": 8.6680794,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|169": {
+  "street": "Seestrasse",
+  "hn": "169",
+  "lat": 47.2332507,
+  "lng": 8.6681757,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|167": {
+  "street": "Seestrasse",
+  "hn": "167",
+  "lat": 47.2331871,
+  "lng": 8.6682815,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|134": {
+  "street": "Seestrasse",
+  "hn": "134",
+  "lat": 47.2310959,
+  "lng": 8.6731739,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|132": {
+  "street": "Seestrasse",
+  "hn": "132",
+  "lat": 47.231042,
+  "lng": 8.6730823,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|130": {
+  "street": "Seestrasse",
+  "hn": "130",
+  "lat": 47.2309353,
+  "lng": 8.6732236,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|64": {
+  "street": "Zugerstrasse",
+  "hn": "64",
+  "lat": 47.2315111,
+  "lng": 8.6623727,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|62": {
+  "street": "Zugerstrasse",
+  "hn": "62",
+  "lat": 47.2312898,
+  "lng": 8.6634779,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|157": {
+  "street": "Seestrasse",
+  "hn": "157",
+  "lat": 47.2323178,
+  "lng": 8.6695117,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|157a": {
+  "street": "Seestrasse",
+  "hn": "157a",
+  "lat": 47.2324665,
+  "lng": 8.6693088,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|98": {
+  "street": "Zugerstrasse",
+  "hn": "98",
+  "lat": 47.2316476,
+  "lng": 8.6591149,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|100": {
+  "street": "Zugerstrasse",
+  "hn": "100",
+  "lat": 47.23167,
+  "lng": 8.6586732,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|76": {
+  "street": "Zugerstrasse",
+  "hn": "76",
+  "lat": 47.2315585,
+  "lng": 8.6609378,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|80": {
+  "street": "Zugerstrasse",
+  "hn": "80",
+  "lat": 47.2315903,
+  "lng": 8.6603696,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|82": {
+  "street": "Zugerstrasse",
+  "hn": "82",
+  "lat": 47.2318347,
+  "lng": 8.6603135,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|86": {
+  "street": "Zugerstrasse",
+  "hn": "86",
+  "lat": 47.231597,
+  "lng": 8.6599276,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|88": {
+  "street": "Zugerstrasse",
+  "hn": "88",
+  "lat": 47.2316683,
+  "lng": 8.6599569,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|90": {
+  "street": "Zugerstrasse",
+  "hn": "90",
+  "lat": 47.2317368,
+  "lng": 8.6599406,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|92": {
+  "street": "Zugerstrasse",
+  "hn": "92",
+  "lat": 47.2316119,
+  "lng": 8.6595767,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|94": {
+  "street": "Zugerstrasse",
+  "hn": "94",
+  "lat": 47.2316788,
+  "lng": 8.6596101,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|96": {
+  "street": "Zugerstrasse",
+  "hn": "96",
+  "lat": 47.2317518,
+  "lng": 8.6595905,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|91": {
+  "street": "Zugerstrasse",
+  "hn": "91",
+  "lat": 47.2313356,
+  "lng": 8.6604215,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|89": {
+  "street": "Zugerstrasse",
+  "hn": "89",
+  "lat": 47.2313289,
+  "lng": 8.6606704,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|87": {
+  "street": "Zugerstrasse",
+  "hn": "87",
+  "lat": 47.2313256,
+  "lng": 8.66075,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|85": {
+  "street": "Zugerstrasse",
+  "hn": "85",
+  "lat": 47.2312524,
+  "lng": 8.6609914,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|81": {
+  "street": "Zugerstrasse",
+  "hn": "81",
+  "lat": 47.2312496,
+  "lng": 8.661729,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|79": {
+  "street": "Zugerstrasse",
+  "hn": "79",
+  "lat": 47.2312767,
+  "lng": 8.6620854,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|77": {
+  "street": "Zugerstrasse",
+  "hn": "77",
+  "lat": 47.2310698,
+  "lng": 8.6621623,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|75": {
+  "street": "Zugerstrasse",
+  "hn": "75",
+  "lat": 47.231057,
+  "lng": 8.6622686,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|73": {
+  "street": "Zugerstrasse",
+  "hn": "73",
+  "lat": 47.2310412,
+  "lng": 8.6623893,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|71": {
+  "street": "Zugerstrasse",
+  "hn": "71",
+  "lat": 47.2310258,
+  "lng": 8.6624983,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|69": {
+  "street": "Zugerstrasse",
+  "hn": "69",
+  "lat": 47.2310108,
+  "lng": 8.6626162,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|67": {
+  "street": "Zugerstrasse",
+  "hn": "67",
+  "lat": 47.230995,
+  "lng": 8.6627242,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|65": {
+  "street": "Zugerstrasse",
+  "hn": "65",
+  "lat": 47.2311703,
+  "lng": 8.662919,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|63a": {
+  "street": "Zugerstrasse",
+  "hn": "63a",
+  "lat": 47.2310686,
+  "lng": 8.6631264,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|61": {
+  "street": "Zugerstrasse",
+  "hn": "61",
+  "lat": 47.2310616,
+  "lng": 8.6634732,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|63": {
+  "street": "Zugerstrasse",
+  "hn": "63",
+  "lat": 47.2308422,
+  "lng": 8.6633943,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|59": {
+  "street": "Zugerstrasse",
+  "hn": "59",
+  "lat": 47.2308758,
+  "lng": 8.6637837,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|57": {
+  "street": "Zugerstrasse",
+  "hn": "57",
+  "lat": 47.230783,
+  "lng": 8.6642578,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|50e": {
+  "street": "Zugerstrasse",
+  "hn": "50e",
+  "lat": 47.2307627,
+  "lng": 8.6651295,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|50d": {
+  "street": "Zugerstrasse",
+  "hn": "50d",
+  "lat": 47.230714,
+  "lng": 8.6652522,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|50c": {
+  "street": "Zugerstrasse",
+  "hn": "50c",
+  "lat": 47.2306653,
+  "lng": 8.6653777,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|50b": {
+  "street": "Zugerstrasse",
+  "hn": "50b",
+  "lat": 47.2306148,
+  "lng": 8.66551,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|50a": {
+  "street": "Zugerstrasse",
+  "hn": "50a",
+  "lat": 47.2305755,
+  "lng": 8.6656355,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|50f": {
+  "street": "Zugerstrasse",
+  "hn": "50f",
+  "lat": 47.2306176,
+  "lng": 8.6656576,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|50g": {
+  "street": "Zugerstrasse",
+  "hn": "50g",
+  "lat": 47.2306513,
+  "lng": 8.6655348,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|50h": {
+  "street": "Zugerstrasse",
+  "hn": "50h",
+  "lat": 47.2307,
+  "lng": 8.6654039,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|50i": {
+  "street": "Zugerstrasse",
+  "hn": "50i",
+  "lat": 47.2307608,
+  "lng": 8.6652825,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|50k": {
+  "street": "Zugerstrasse",
+  "hn": "50k",
+  "lat": 47.2308142,
+  "lng": 8.6651832,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|46": {
+  "street": "Zugerstrasse",
+  "hn": "46",
+  "lat": 47.2303903,
+  "lng": 8.666145,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|11": {
+  "street": "Florhofstrasse",
+  "hn": "11",
+  "lat": 47.2307557,
+  "lng": 8.6690658,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|118": {
+  "street": "Seestrasse",
+  "hn": "118",
+  "lat": 47.2301506,
+  "lng": 8.6739953,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|120": {
+  "street": "Seestrasse",
+  "hn": "120",
+  "lat": 47.2303383,
+  "lng": 8.6738564,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|139": {
+  "street": "Seestrasse",
+  "hn": "139",
+  "lat": 47.2314904,
+  "lng": 8.6715324,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|135": {
+  "street": "Seestrasse",
+  "hn": "135",
+  "lat": 47.2315149,
+  "lng": 8.6719172,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|137": {
+  "street": "Seestrasse",
+  "hn": "137",
+  "lat": 47.2316013,
+  "lng": 8.6717271,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|95": {
+  "street": "Seestrasse",
+  "hn": "95",
+  "lat": 47.227995,
+  "lng": 8.675118,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|93": {
+  "street": "Seestrasse",
+  "hn": "93",
+  "lat": 47.2278133,
+  "lng": 8.6753366,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|91": {
+  "street": "Seestrasse",
+  "hn": "91",
+  "lat": 47.2276766,
+  "lng": 8.6754415,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|89": {
+  "street": "Seestrasse",
+  "hn": "89",
+  "lat": 47.2275695,
+  "lng": 8.675539,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|85": {
+  "street": "Seestrasse",
+  "hn": "85",
+  "lat": 47.2273866,
+  "lng": 8.6757747,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|81": {
+  "street": "Seestrasse",
+  "hn": "81",
+  "lat": 47.2273094,
+  "lng": 8.6760951,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|79": {
+  "street": "Seestrasse",
+  "hn": "79",
+  "lat": 47.2271503,
+  "lng": 8.6763293,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|75": {
+  "street": "Seestrasse",
+  "hn": "75",
+  "lat": 47.2269409,
+  "lng": 8.6767359,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|73b": {
+  "street": "Seestrasse",
+  "hn": "73b",
+  "lat": 47.2267873,
+  "lng": 8.6768801,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|73a": {
+  "street": "Seestrasse",
+  "hn": "73a",
+  "lat": 47.2265837,
+  "lng": 8.6771605,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|71": {
+  "street": "Seestrasse",
+  "hn": "71",
+  "lat": 47.2264524,
+  "lng": 8.6772873,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|69": {
+  "street": "Seestrasse",
+  "hn": "69",
+  "lat": 47.2263006,
+  "lng": 8.6775696,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|7": {
+  "street": "Oberdorfstrasse",
+  "hn": "7",
+  "lat": 47.2271775,
+  "lng": 8.6706783,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|49": {
+  "street": "Seestrasse",
+  "hn": "49",
+  "lat": 47.2247306,
+  "lng": 8.6803347,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|45": {
+  "street": "Seestrasse",
+  "hn": "45",
+  "lat": 47.2245767,
+  "lng": 8.6807559,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|13": {
+  "street": "Seestrasse",
+  "hn": "13",
+  "lat": 47.2219341,
+  "lng": 8.6861524,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|39": {
+  "street": "Oberdorfstrasse",
+  "hn": "39",
+  "lat": 47.229777,
+  "lng": 8.6670294,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|39a": {
+  "street": "Zugerstrasse",
+  "hn": "39a",
+  "lat": 47.2298937,
+  "lng": 8.667621,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|39b": {
+  "street": "Zugerstrasse",
+  "hn": "39b",
+  "lat": 47.2297527,
+  "lng": 8.6675033,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|37": {
+  "street": "Zugerstrasse",
+  "hn": "37",
+  "lat": 47.2298829,
+  "lng": 8.6680484,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|33": {
+  "street": "Zugerstrasse",
+  "hn": "33",
+  "lat": 47.2298163,
+  "lng": 8.668429,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|29": {
+  "street": "Zugerstrasse",
+  "hn": "29",
+  "lat": 47.2297322,
+  "lng": 8.6687932,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|35": {
+  "street": "Zugerstrasse",
+  "hn": "35",
+  "lat": 47.2296163,
+  "lng": 8.6681536,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|31": {
+  "street": "Zugerstrasse",
+  "hn": "31",
+  "lat": 47.2295526,
+  "lng": 8.6685002,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|32": {
+  "street": "Oberdorfstrasse",
+  "hn": "32",
+  "lat": 47.2294938,
+  "lng": 8.6677185,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|61": {
+  "street": "Seestrasse",
+  "hn": "61",
+  "lat": 47.2257414,
+  "lng": 8.6784723,
+  "mieter": [
+   "sushi lovers"
+  ]
+ },
+ "wädenswil|seestrasse|205": {
+  "street": "Seestrasse",
+  "hn": "205",
+  "lat": 47.2359202,
+  "lng": 8.6636007,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|12": {
+  "street": "Oberdorfstrasse",
+  "hn": "12",
+  "lat": 47.2277425,
+  "lng": 8.6699726,
+  "mieter": [
+   "Coiff&Co"
+  ]
+ },
+ "wädenswil|oberdorfstrasse|29": {
+  "street": "Oberdorfstrasse",
+  "hn": "29",
+  "lat": 47.2292163,
+  "lng": 8.6675356,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|31": {
+  "street": "Oberdorfstrasse",
+  "hn": "31",
+  "lat": 47.2293177,
+  "lng": 8.6674069,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|21": {
+  "street": "Seestrasse",
+  "hn": "21",
+  "lat": 47.222494,
+  "lng": 8.6853478,
+  "mieter": [
+   "Giessen"
+  ]
+ },
+ "wädenswil|seestrasse|100": {
+  "street": "Seestrasse",
+  "hn": "100",
+  "lat": 47.2284732,
+  "lng": 8.6752193,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|295b": {
+  "street": "Seestrasse",
+  "hn": "295b",
+  "lat": 47.2448249,
+  "lng": 8.648702,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|295a": {
+  "street": "Seestrasse",
+  "hn": "295a",
+  "lat": 47.2447313,
+  "lng": 8.6489339,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|293a": {
+  "street": "Seestrasse",
+  "hn": "293a",
+  "lat": 47.244565,
+  "lng": 8.6493544,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|293d": {
+  "street": "Seestrasse",
+  "hn": "293d",
+  "lat": 47.2444921,
+  "lng": 8.6495341,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|293b": {
+  "street": "Seestrasse",
+  "hn": "293b",
+  "lat": 47.2444597,
+  "lng": 8.6497443,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|293c": {
+  "street": "Seestrasse",
+  "hn": "293c",
+  "lat": 47.2443544,
+  "lng": 8.6500066,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|291d": {
+  "street": "Seestrasse",
+  "hn": "291d",
+  "lat": 47.2441714,
+  "lng": 8.6504588,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|291c": {
+  "street": "Seestrasse",
+  "hn": "291c",
+  "lat": 47.2440887,
+  "lng": 8.6506719,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|291b": {
+  "street": "Seestrasse",
+  "hn": "291b",
+  "lat": 47.2440061,
+  "lng": 8.6508675,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|291a": {
+  "street": "Seestrasse",
+  "hn": "291a",
+  "lat": 47.2439215,
+  "lng": 8.6510864,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|289a": {
+  "street": "Seestrasse",
+  "hn": "289a",
+  "lat": 47.2445167,
+  "lng": 8.6509009,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|289b": {
+  "street": "Seestrasse",
+  "hn": "289b",
+  "lat": 47.2443701,
+  "lng": 8.6507791,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|287a": {
+  "street": "Seestrasse",
+  "hn": "287a",
+  "lat": 47.2447413,
+  "lng": 8.6515707,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|278b": {
+  "street": "Seestrasse",
+  "hn": "278b",
+  "lat": 47.2449333,
+  "lng": 8.6510951,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|115": {
+  "street": "Seestrasse",
+  "hn": "115",
+  "lat": 47.2300273,
+  "lng": 8.6737002,
+  "mieter": []
+ },
+ "wädenswil|türgass|13": {
+  "street": "Türgass",
+  "hn": "13",
+  "lat": 47.2288504,
+  "lng": 8.6703811,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|45": {
+  "street": "Zugerstrasse",
+  "hn": "45",
+  "lat": 47.2301343,
+  "lng": 8.6662026,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|94": {
+  "street": "Seestrasse",
+  "hn": "94",
+  "lat": 47.2281569,
+  "lng": 8.6754029,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|90": {
+  "street": "Seestrasse",
+  "hn": "90",
+  "lat": 47.2278359,
+  "lng": 8.6756824,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|93,95": {
+  "street": "Seestrasse",
+  "hn": "93,95",
+  "lat": 47.2167057,
+  "lng": 8.6965092,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|200": {
+  "street": "Seestrasse",
+  "hn": "200",
+  "lat": 47.2382207,
+  "lng": 8.660083,
+  "mieter": [
+   "McDonald's"
+  ]
+ },
+ "wädenswil|seestrasse|163": {
+  "street": "Seestrasse",
+  "hn": "163",
+  "lat": 47.2328881,
+  "lng": 8.6687052,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|96": {
+  "street": "Seestrasse",
+  "hn": "96",
+  "lat": 47.2173659,
+  "lng": 8.698003,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|97": {
+  "street": "Seestrasse",
+  "hn": "97",
+  "lat": 47.2167962,
+  "lng": 8.6963127,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|6": {
+  "street": "Florhofstrasse",
+  "hn": "6",
+  "lat": 47.2307143,
+  "lng": 8.6713991,
+  "mieter": [
+   "Stadtverwaltung"
+  ]
+ },
+ "wädenswil|oberdorfstrasse|16": {
+  "street": "Oberdorfstrasse",
+  "hn": "16",
+  "lat": 47.2282937,
+  "lng": 8.6695646,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|103": {
+  "street": "Seestrasse",
+  "hn": "103",
+  "lat": 47.2284273,
+  "lng": 8.6745703,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|107": {
+  "street": "Seestrasse",
+  "hn": "107",
+  "lat": 47.2290998,
+  "lng": 8.6743275,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|233": {
+  "street": "Seestrasse",
+  "hn": "233",
+  "lat": 47.2378498,
+  "lng": 8.6595523,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|231": {
+  "street": "Seestrasse",
+  "hn": "231",
+  "lat": 47.2375002,
+  "lng": 8.659962,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|219": {
+  "street": "Seestrasse",
+  "hn": "219",
+  "lat": 47.2362817,
+  "lng": 8.6626101,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|126": {
+  "street": "Zugerstrasse",
+  "hn": "126",
+  "lat": 47.23494,
+  "lng": 8.6532156,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|26": {
+  "street": "Oberdorfstrasse",
+  "hn": "26",
+  "lat": 47.2290441,
+  "lng": 8.6683028,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|28": {
+  "street": "Zugerstrasse",
+  "hn": "28",
+  "lat": 47.2299716,
+  "lng": 8.6691516,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|12": {
+  "street": "Florhofstrasse",
+  "hn": "12",
+  "lat": 47.2313022,
+  "lng": 8.6703901,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|30": {
+  "street": "Oberdorfstrasse",
+  "hn": "30",
+  "lat": 47.2292742,
+  "lng": 8.66801,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|15": {
+  "street": "Oberdorfstrasse",
+  "hn": "15",
+  "lat": 47.2279383,
+  "lng": 8.6692738,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|14": {
+  "street": "Zugerstrasse",
+  "hn": "14",
+  "lat": 47.2298481,
+  "lng": 8.6718849,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|23": {
+  "street": "Oberdorfstrasse",
+  "hn": "23",
+  "lat": 47.2284973,
+  "lng": 8.6684706,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|17": {
+  "street": "Oberdorfstrasse",
+  "hn": "17",
+  "lat": 47.2280585,
+  "lng": 8.6690216,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|28": {
+  "street": "Oberdorfstrasse",
+  "hn": "28",
+  "lat": 47.2291555,
+  "lng": 8.6681595,
+  "mieter": []
+ },
+ "wädenswil|türgass|4": {
+  "street": "Türgass",
+  "hn": "4",
+  "lat": 47.2294028,
+  "lng": 8.6697054,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|14": {
+  "street": "Florhofstrasse",
+  "hn": "14",
+  "lat": 47.2313988,
+  "lng": 8.6702036,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|3": {
+  "street": "Florhofstrasse",
+  "hn": "3",
+  "lat": 47.2302882,
+  "lng": 8.671128,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|10": {
+  "street": "Zugerstrasse",
+  "hn": "10",
+  "lat": 47.2298654,
+  "lng": 8.6725365,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|121": {
+  "street": "Seestrasse",
+  "hn": "121",
+  "lat": 47.230345,
+  "lng": 8.6734513,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|129": {
+  "street": "Seestrasse",
+  "hn": "129",
+  "lat": 47.2308545,
+  "lng": 8.6726498,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|133": {
+  "street": "Seestrasse",
+  "hn": "133",
+  "lat": 47.2313702,
+  "lng": 8.6720593,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|6a": {
+  "street": "Florhofstrasse",
+  "hn": "6a",
+  "lat": 47.2311551,
+  "lng": 8.671629,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|59": {
+  "street": "Seestrasse",
+  "hn": "59",
+  "lat": 47.2255128,
+  "lng": 8.6785706,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|57": {
+  "street": "Seestrasse",
+  "hn": "57",
+  "lat": 47.225442,
+  "lng": 8.6787926,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|23": {
+  "street": "Seestrasse",
+  "hn": "23",
+  "lat": 47.2226619,
+  "lng": 8.6850499,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|17": {
+  "street": "Seestrasse",
+  "hn": "17",
+  "lat": 47.2222137,
+  "lng": 8.6857713,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|19": {
+  "street": "Seestrasse",
+  "hn": "19",
+  "lat": 47.2223217,
+  "lng": 8.6856054,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|29": {
+  "street": "Seestrasse",
+  "hn": "29",
+  "lat": 47.2230466,
+  "lng": 8.6836781,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|27": {
+  "street": "Seestrasse",
+  "hn": "27",
+  "lat": 47.2229144,
+  "lng": 8.6842852,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|29b": {
+  "street": "Seestrasse",
+  "hn": "29b",
+  "lat": 47.2228578,
+  "lng": 8.6836699,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|13": {
+  "street": "Oberdorfstrasse",
+  "hn": "13",
+  "lat": 47.2277183,
+  "lng": 8.6694905,
+  "mieter": []
+ },
+ "wädenswil|türgass|32": {
+  "street": "Türgass",
+  "hn": "32",
+  "lat": 47.2282338,
+  "lng": 8.6704035,
+  "mieter": []
+ },
+ "wädenswil|türgass|23": {
+  "street": "Türgass",
+  "hn": "23",
+  "lat": 47.2282539,
+  "lng": 8.670688,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|45b": {
+  "street": "Zugerstrasse",
+  "hn": "45b",
+  "lat": 47.2299195,
+  "lng": 8.6659448,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|47": {
+  "street": "Zugerstrasse",
+  "hn": "47",
+  "lat": 47.2302546,
+  "lng": 8.6657966,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|47b": {
+  "street": "Zugerstrasse",
+  "hn": "47b",
+  "lat": 47.2300741,
+  "lng": 8.6656765,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|49": {
+  "street": "Zugerstrasse",
+  "hn": "49",
+  "lat": 47.2303453,
+  "lng": 8.6653905,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|51": {
+  "street": "Zugerstrasse",
+  "hn": "51",
+  "lat": 47.2304814,
+  "lng": 8.6651162,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|53": {
+  "street": "Zugerstrasse",
+  "hn": "53",
+  "lat": 47.2303341,
+  "lng": 8.6650135,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|54": {
+  "street": "Zugerstrasse",
+  "hn": "54",
+  "lat": 47.2309204,
+  "lng": 8.6648057,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|58": {
+  "street": "Zugerstrasse",
+  "hn": "58",
+  "lat": 47.2312059,
+  "lng": 8.6639382,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|15": {
+  "street": "Florhofstrasse",
+  "hn": "15",
+  "lat": 47.2315265,
+  "lng": 8.6695723,
+  "mieter": [
+   "Kulturgarage"
+  ]
+ },
+ "wädenswil|seestrasse|145": {
+  "street": "Seestrasse",
+  "hn": "145",
+  "lat": 47.2318492,
+  "lng": 8.6712736,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|142,144": {
+  "street": "Seestrasse",
+  "hn": "142,144",
+  "lat": 47.2320543,
+  "lng": 8.671515,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|150": {
+  "street": "Seestrasse",
+  "hn": "150",
+  "lat": 47.2321978,
+  "lng": 8.6708,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|152": {
+  "street": "Seestrasse",
+  "hn": "152",
+  "lat": 47.2323053,
+  "lng": 8.6706859,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|25": {
+  "street": "Florhofstrasse",
+  "hn": "25",
+  "lat": 47.232072,
+  "lng": 8.6696769,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|72": {
+  "street": "Zugerstrasse",
+  "hn": "72",
+  "lat": 47.2315047,
+  "lng": 8.6617635,
+  "mieter": []
+ },
+ "wädenswil|türgass|10": {
+  "street": "Türgass",
+  "hn": "10",
+  "lat": 47.2291542,
+  "lng": 8.6698416,
+  "mieter": []
+ },
+ "wädenswil|türgass|14": {
+  "street": "Türgass",
+  "hn": "14",
+  "lat": 47.2290051,
+  "lng": 8.6699088,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|151": {
+  "street": "Seestrasse",
+  "hn": "151",
+  "lat": 47.2319577,
+  "lng": 8.6703464,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|159": {
+  "street": "Seestrasse",
+  "hn": "159",
+  "lat": 47.2326013,
+  "lng": 8.6691304,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|125": {
+  "street": "Seestrasse",
+  "hn": "125",
+  "lat": 47.2307111,
+  "lng": 8.6731084,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|127": {
+  "street": "Seestrasse",
+  "hn": "127",
+  "lat": 47.2308154,
+  "lng": 8.6730397,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|147": {
+  "street": "Seestrasse",
+  "hn": "147",
+  "lat": 47.2318547,
+  "lng": 8.670899,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|148": {
+  "street": "Seestrasse",
+  "hn": "148",
+  "lat": 47.2322432,
+  "lng": 8.671086,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|183": {
+  "street": "Seestrasse",
+  "hn": "183",
+  "lat": 47.2338275,
+  "lng": 8.6671647,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|185": {
+  "street": "Seestrasse",
+  "hn": "185",
+  "lat": 47.2339007,
+  "lng": 8.6670091,
+  "mieter": [
+   "Kontaktbar"
+  ]
+ },
+ "wädenswil|seestrasse|187": {
+  "street": "Seestrasse",
+  "hn": "187",
+  "lat": 47.2339767,
+  "lng": 8.6668426,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|189": {
+  "street": "Seestrasse",
+  "hn": "189",
+  "lat": 47.2340623,
+  "lng": 8.6665629,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|191": {
+  "street": "Seestrasse",
+  "hn": "191",
+  "lat": 47.2342602,
+  "lng": 8.6664188,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|195": {
+  "street": "Seestrasse",
+  "hn": "195",
+  "lat": 47.2345094,
+  "lng": 8.6659424,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|193": {
+  "street": "Seestrasse",
+  "hn": "193",
+  "lat": 47.2343163,
+  "lng": 8.6662145,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|199": {
+  "street": "Seestrasse",
+  "hn": "199",
+  "lat": 47.2347318,
+  "lng": 8.6655843,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|201": {
+  "street": "Seestrasse",
+  "hn": "201",
+  "lat": 47.2349062,
+  "lng": 8.6652841,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|203": {
+  "street": "Seestrasse",
+  "hn": "203",
+  "lat": 47.2352118,
+  "lng": 8.6647686,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|101": {
+  "street": "Zugerstrasse",
+  "hn": "101",
+  "lat": 47.2313794,
+  "lng": 8.6586463,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|102": {
+  "street": "Zugerstrasse",
+  "hn": "102",
+  "lat": 47.2317752,
+  "lng": 8.6581567,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|104": {
+  "street": "Zugerstrasse",
+  "hn": "104",
+  "lat": 47.2318845,
+  "lng": 8.6576899,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|93": {
+  "street": "Zugerstrasse",
+  "hn": "93",
+  "lat": 47.2313152,
+  "lng": 8.6599637,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|95": {
+  "street": "Zugerstrasse",
+  "hn": "95",
+  "lat": 47.2313396,
+  "lng": 8.6596258,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|97": {
+  "street": "Zugerstrasse",
+  "hn": "97",
+  "lat": 47.231359,
+  "lng": 8.6593741,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|99": {
+  "street": "Zugerstrasse",
+  "hn": "99",
+  "lat": 47.2313545,
+  "lng": 8.6590406,
+  "mieter": []
+ },
+ "wädenswil|türgass|30": {
+  "street": "Türgass",
+  "hn": "30",
+  "lat": 47.2282876,
+  "lng": 8.6701571,
+  "mieter": []
+ },
+ "wädenswil|türgass|28": {
+  "street": "Türgass",
+  "hn": "28",
+  "lat": 47.2283752,
+  "lng": 8.6700279,
+  "mieter": []
+ },
+ "wädenswil|türgass|18": {
+  "street": "Türgass",
+  "hn": "18",
+  "lat": 47.2287185,
+  "lng": 8.6698043,
+  "mieter": []
+ },
+ "wädenswil|oberdorfstrasse|18": {
+  "street": "Oberdorfstrasse",
+  "hn": "18",
+  "lat": 47.2283975,
+  "lng": 8.6693397,
+  "mieter": []
+ },
+ "wädenswil|türgass|12a": {
+  "street": "Türgass",
+  "hn": "12a",
+  "lat": 47.2290282,
+  "lng": 8.6694225,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|26,28": {
+  "street": "Seestrasse",
+  "hn": "26,28",
+  "lat": 47.2233703,
+  "lng": 8.6839447,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|212": {
+  "street": "Seestrasse",
+  "hn": "212",
+  "lat": 47.240623,
+  "lng": 8.6589532,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|214": {
+  "street": "Seestrasse",
+  "hn": "214",
+  "lat": 47.2407089,
+  "lng": 8.6589455,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|146": {
+  "street": "Seestrasse",
+  "hn": "146",
+  "lat": 47.2321471,
+  "lng": 8.6712835,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|41": {
+  "street": "Seestrasse",
+  "hn": "41",
+  "lat": 47.2242189,
+  "lng": 8.6811722,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|39": {
+  "street": "Seestrasse",
+  "hn": "39",
+  "lat": 47.2241049,
+  "lng": 8.6815133,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|65": {
+  "street": "Seestrasse",
+  "hn": "65",
+  "lat": 47.2258223,
+  "lng": 8.6782837,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|28": {
+  "street": "Florhofstrasse",
+  "hn": "28",
+  "lat": 47.2318072,
+  "lng": 8.6700103,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|22": {
+  "street": "Florhofstrasse",
+  "hn": "22",
+  "lat": 47.2316733,
+  "lng": 8.6699206,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|20": {
+  "street": "Florhofstrasse",
+  "hn": "20",
+  "lat": 47.2316352,
+  "lng": 8.66986,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|18": {
+  "street": "Florhofstrasse",
+  "hn": "18",
+  "lat": 47.231568,
+  "lng": 8.6698651,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|16": {
+  "street": "Florhofstrasse",
+  "hn": "16",
+  "lat": 47.2315279,
+  "lng": 8.6700146,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|114": {
+  "street": "Seestrasse",
+  "hn": "114",
+  "lat": 47.2180132,
+  "lng": 8.6962168,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|116": {
+  "street": "Seestrasse",
+  "hn": "116",
+  "lat": 47.2180962,
+  "lng": 8.6958984,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|108": {
+  "street": "Seestrasse",
+  "hn": "108",
+  "lat": 47.2177327,
+  "lng": 8.6959507,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|110": {
+  "street": "Seestrasse",
+  "hn": "110",
+  "lat": 47.2177877,
+  "lng": 8.6956358,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|106": {
+  "street": "Seestrasse",
+  "hn": "106",
+  "lat": 47.2176351,
+  "lng": 8.6962361,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|25": {
+  "street": "Seestrasse",
+  "hn": "25",
+  "lat": 47.2217647,
+  "lng": 8.6843959,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|31": {
+  "street": "Seestrasse",
+  "hn": "31",
+  "lat": 47.2225834,
+  "lng": 8.6840977,
+  "mieter": []
+ },
+ "wädenswil|seestrasse|63": {
+  "street": "Seestrasse",
+  "hn": "63",
+  "lat": 47.225617,
+  "lng": 8.6784229,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|24": {
+  "street": "Florhofstrasse",
+  "hn": "24",
+  "lat": 47.2317344,
+  "lng": 8.6699267,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|26": {
+  "street": "Florhofstrasse",
+  "hn": "26",
+  "lat": 47.2317666,
+  "lng": 8.669962,
+  "mieter": []
+ },
+ "wädenswil|florhofstrasse|28.1": {
+  "street": "Florhofstrasse",
+  "hn": "28.1",
+  "lat": 47.2317983,
+  "lng": 8.6701048,
+  "mieter": []
+ },
+ "wädenswil|türgass|21": {
+  "street": "Türgass",
+  "hn": "21",
+  "lat": 47.2284499,
+  "lng": 8.6705236,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|43": {
+  "street": "Zugerstrasse",
+  "hn": "43",
+  "lat": 47.2299489,
+  "lng": 8.6666,
+  "mieter": []
+ },
+ "wädenswil|zugerstrasse|60": {
+  "street": "Zugerstrasse",
+  "hn": "60",
+  "lat": 47.2313722,
+  "lng": 8.6639298,
+  "mieter": []
+ },
+ "wädenswil|türgass|8": {
+  "street": "Türgass",
+  "hn": "8",
+  "lat": 47.2292542,
+  "lng": 8.6696909,
+  "mieter": []
+ }
+}

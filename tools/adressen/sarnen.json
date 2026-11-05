@@ -1,0 +1,1136 @@
+{
+ "sarnen|marktstrasse|32": {
+  "street": "Marktstrasse",
+  "hn": "32",
+  "lat": 46.8974507,
+  "lng": 8.2511311,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "sarnen|brünigstrasse|130": {
+  "street": "Brünigstrasse",
+  "hn": "130",
+  "lat": 46.8974003,
+  "lng": 8.2461856,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|6": {
+  "street": "Lindenstrasse",
+  "hn": "6",
+  "lat": 46.8966807,
+  "lng": 8.2469904,
+  "mieter": [
+   "UBS"
+  ]
+ },
+ "sarnen|brünigstrasse|158": {
+  "street": "Brünigstrasse",
+  "hn": "158",
+  "lat": 46.8945843,
+  "lng": 8.2451046,
+  "mieter": [
+   "Aiola"
+  ]
+ },
+ "sarnen|dorfplatz|9": {
+  "street": "Dorfplatz",
+  "hn": "9",
+  "lat": 46.896202,
+  "lng": 8.2453558,
+  "mieter": [
+   "Amrhein Optik"
+  ]
+ },
+ "sarnen|dorfplatz|10": {
+  "street": "Dorfplatz",
+  "hn": "10",
+  "lat": 46.8962518,
+  "lng": 8.2456825,
+  "mieter": [
+   "Papeterie Spichtig"
+  ]
+ },
+ "sarnen|poststrasse|7": {
+  "street": "Poststrasse",
+  "hn": "7",
+  "lat": 46.895796,
+  "lng": 8.2473791,
+  "mieter": [
+   "Edel-Line"
+  ]
+ },
+ "sarnen|lindenstrasse|17": {
+  "street": "Lindenstrasse",
+  "hn": "17",
+  "lat": 46.8957931,
+  "lng": 8.2475915,
+  "mieter": [
+   "Amplifon"
+  ]
+ },
+ "sarnen|lindenstrasse|2": {
+  "street": "Lindenstrasse",
+  "hn": "2",
+  "lat": 46.8969322,
+  "lng": 8.2467389,
+  "mieter": [
+   "Dolomiten Sport"
+  ]
+ },
+ "sarnen|lindenstrasse|14": {
+  "street": "Lindenstrasse",
+  "hn": "14",
+  "lat": 46.8961071,
+  "lng": 8.2472935,
+  "mieter": [
+   "McOptic"
+  ]
+ },
+ "sarnen|poststrasse|4": {
+  "street": "Poststrasse",
+  "hn": "4",
+  "lat": 46.8958767,
+  "lng": 8.2462614,
+  "mieter": [
+   "Café 13/15"
+  ]
+ },
+ "sarnen|marktstrasse|7a": {
+  "street": "Marktstrasse",
+  "hn": "7a",
+  "lat": 46.8974874,
+  "lng": 8.2483424,
+  "mieter": [
+   "Audika"
+  ]
+ },
+ "sarnen|marktstrasse|7": {
+  "street": "Marktstrasse",
+  "hn": "7",
+  "lat": 46.8975051,
+  "lng": 8.2487308,
+  "mieter": [
+   "Praxis Dr. Gehrig Annette",
+   "Hausarztpraxis Sarnen",
+   "Zahnarztpraxis Dr. Koch",
+   "Praxis HNO Dr. Pfister",
+   "Praxis Rheumatologie"
+  ]
+ },
+ "sarnen|marktstrasse|8": {
+  "street": "Marktstrasse",
+  "hn": "8",
+  "lat": 46.8976035,
+  "lng": 8.2494846,
+  "mieter": [
+   "Burch und Felder",
+   "Waldis",
+   "Kinderärzte Obwalden"
+  ]
+ },
+ "sarnen|brünigstrasse|181": {
+  "street": "Brünigstrasse",
+  "hn": "181",
+  "lat": 46.8902217,
+  "lng": 8.2459824,
+  "mieter": [
+   "Notfallpraxis Sarnen"
+  ]
+ },
+ "sarnen|dorfplatz|3": {
+  "street": "Dorfplatz",
+  "hn": "3",
+  "lat": 46.8955917,
+  "lng": 8.2459326,
+  "mieter": [
+   "Somapraxis"
+  ]
+ },
+ "sarnen|brünigstrasse|184": {
+  "street": "Brünigstrasse",
+  "hn": "184",
+  "lat": 46.8901391,
+  "lng": 8.2445821,
+  "mieter": [
+   "Kollegie-Gärtnerei"
+  ]
+ },
+ "sarnen|marktstrasse|5": {
+  "street": "Marktstrasse",
+  "hn": "5",
+  "lat": 46.8970716,
+  "lng": 8.2487419,
+  "mieter": [
+   "Werkstatt Hüetli",
+   "La Mesa"
+  ]
+ },
+ "sarnen|lindenstrasse|16a": {
+  "street": "Lindenstrasse",
+  "hn": "16a",
+  "lat": 46.8958402,
+  "lng": 8.2473798,
+  "mieter": [
+   "Gelato naturale"
+  ]
+ },
+ "sarnen|brünigstrasse|114": {
+  "street": "Brünigstrasse",
+  "hn": "114",
+  "lat": 46.8991733,
+  "lng": 8.2462198,
+  "mieter": []
+ },
+ "sarnen|poststrasse|10": {
+  "street": "Poststrasse",
+  "hn": "10",
+  "lat": 46.895519,
+  "lng": 8.2470099,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|24": {
+  "street": "Marktstrasse",
+  "hn": "24",
+  "lat": 46.8979279,
+  "lng": 8.2503629,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|22": {
+  "street": "Marktstrasse",
+  "hn": "22",
+  "lat": 46.8979911,
+  "lng": 8.2500809,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|20": {
+  "street": "Marktstrasse",
+  "hn": "20",
+  "lat": 46.8980259,
+  "lng": 8.2499231,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|18": {
+  "street": "Marktstrasse",
+  "hn": "18",
+  "lat": 46.8980464,
+  "lng": 8.249702,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|16": {
+  "street": "Marktstrasse",
+  "hn": "16",
+  "lat": 46.8980591,
+  "lng": 8.2495515,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|12": {
+  "street": "Marktstrasse",
+  "hn": "12",
+  "lat": 46.8980544,
+  "lng": 8.2491717,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|14": {
+  "street": "Marktstrasse",
+  "hn": "14",
+  "lat": 46.8980552,
+  "lng": 8.2493608,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|10": {
+  "street": "Marktstrasse",
+  "hn": "10",
+  "lat": 46.8975023,
+  "lng": 8.2499075,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|17a": {
+  "street": "Lindenstrasse",
+  "hn": "17a",
+  "lat": 46.8958482,
+  "lng": 8.2476673,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|157": {
+  "street": "Brünigstrasse",
+  "hn": "157",
+  "lat": 46.8939869,
+  "lng": 8.2453329,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|159": {
+  "street": "Brünigstrasse",
+  "hn": "159",
+  "lat": 46.8936743,
+  "lng": 8.245192,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|124": {
+  "street": "Brünigstrasse",
+  "hn": "124",
+  "lat": 46.8981739,
+  "lng": 8.2462578,
+  "mieter": [
+   "Punjabi Palace"
+  ]
+ },
+ "sarnen|brünigstrasse|182a": {
+  "street": "Brünigstrasse",
+  "hn": "182a",
+  "lat": 46.890886,
+  "lng": 8.2432738,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|183": {
+  "street": "Brünigstrasse",
+  "hn": "183",
+  "lat": 46.8897259,
+  "lng": 8.2452822,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|177": {
+  "street": "Brünigstrasse",
+  "hn": "177",
+  "lat": 46.8913858,
+  "lng": 8.2459596,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|179": {
+  "street": "Brünigstrasse",
+  "hn": "179",
+  "lat": 46.8907981,
+  "lng": 8.2456257,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|44": {
+  "street": "Brünigstrasse",
+  "hn": "44",
+  "lat": 46.8736644,
+  "lng": 8.2417294,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|27": {
+  "street": "Brünigstrasse",
+  "hn": "27",
+  "lat": 46.8773444,
+  "lng": 8.2431635,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|46": {
+  "street": "Brünigstrasse",
+  "hn": "46",
+  "lat": 46.8734707,
+  "lng": 8.2417819,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|45": {
+  "street": "Brünigstrasse",
+  "hn": "45",
+  "lat": 46.8735547,
+  "lng": 8.2422315,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|1": {
+  "street": "Brünigstrasse",
+  "hn": "1",
+  "lat": 46.8811166,
+  "lng": 8.2445175,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|25": {
+  "street": "Brünigstrasse",
+  "hn": "25",
+  "lat": 46.8776693,
+  "lng": 8.2432561,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|8": {
+  "street": "Brünigstrasse",
+  "hn": "8",
+  "lat": 46.8797601,
+  "lng": 8.2435778,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|30": {
+  "street": "Brünigstrasse",
+  "hn": "30",
+  "lat": 46.877256,
+  "lng": 8.2424081,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|10": {
+  "street": "Brünigstrasse",
+  "hn": "10",
+  "lat": 46.8795551,
+  "lng": 8.2434132,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|29": {
+  "street": "Brünigstrasse",
+  "hn": "29",
+  "lat": 46.8770355,
+  "lng": 8.2430432,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|3": {
+  "street": "Brünigstrasse",
+  "hn": "3",
+  "lat": 46.8807436,
+  "lng": 8.2443849,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|34": {
+  "street": "Brünigstrasse",
+  "hn": "34",
+  "lat": 46.8766566,
+  "lng": 8.2422709,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|32": {
+  "street": "Brünigstrasse",
+  "hn": "32",
+  "lat": 46.8770081,
+  "lng": 8.2423405,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|43": {
+  "street": "Brünigstrasse",
+  "hn": "43",
+  "lat": 46.8737673,
+  "lng": 8.2420579,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|18a": {
+  "street": "Brünigstrasse",
+  "hn": "18a",
+  "lat": 46.8784715,
+  "lng": 8.242375,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|12": {
+  "street": "Brünigstrasse",
+  "hn": "12",
+  "lat": 46.8793805,
+  "lng": 8.2432309,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|160": {
+  "street": "Brünigstrasse",
+  "hn": "160",
+  "lat": 46.8942763,
+  "lng": 8.2447593,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|178": {
+  "street": "Brünigstrasse",
+  "hn": "178",
+  "lat": 46.8913335,
+  "lng": 8.2446538,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|162": {
+  "street": "Brünigstrasse",
+  "hn": "162",
+  "lat": 46.8938592,
+  "lng": 8.2445635,
+  "mieter": []
+ },
+ "sarnen|poststrasse|5": {
+  "street": "Poststrasse",
+  "hn": "5",
+  "lat": 46.8958279,
+  "lng": 8.2468425,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|177.1": {
+  "street": "Brünigstrasse",
+  "hn": "177.1",
+  "lat": 46.8918664,
+  "lng": 8.2456112,
+  "mieter": [
+   "Kollegiumskirche St. Martin"
+  ]
+ },
+ "sarnen|brünigstrasse|97": {
+  "street": "Brünigstrasse",
+  "hn": "97",
+  "lat": 46.9008283,
+  "lng": 8.2472354,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|170": {
+  "street": "Brünigstrasse",
+  "hn": "170",
+  "lat": 46.8927681,
+  "lng": 8.2444174,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|151": {
+  "street": "Brünigstrasse",
+  "hn": "151",
+  "lat": 46.8950098,
+  "lng": 8.2455624,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|182": {
+  "street": "Brünigstrasse",
+  "hn": "182",
+  "lat": 46.8908132,
+  "lng": 8.2444578,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|4": {
+  "street": "Marktstrasse",
+  "hn": "4",
+  "lat": 46.8963794,
+  "lng": 8.2487371,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|117": {
+  "street": "Brünigstrasse",
+  "hn": "117",
+  "lat": 46.8989708,
+  "lng": 8.2466234,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|5a": {
+  "street": "Marktstrasse",
+  "hn": "5a",
+  "lat": 46.8971563,
+  "lng": 8.2482992,
+  "mieter": []
+ },
+ "sarnen|dorfplatz|6a": {
+  "street": "Dorfplatz",
+  "hn": "6a",
+  "lat": 46.8958591,
+  "lng": 8.2454828,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|87": {
+  "street": "Brünigstrasse",
+  "hn": "87",
+  "lat": 46.9026579,
+  "lng": 8.2481089,
+  "mieter": []
+ },
+ "sarnen|poststrasse|8": {
+  "street": "Poststrasse",
+  "hn": "8",
+  "lat": 46.8955374,
+  "lng": 8.2468176,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|156": {
+  "street": "Brünigstrasse",
+  "hn": "156",
+  "lat": 46.8948461,
+  "lng": 8.2451272,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|166": {
+  "street": "Brünigstrasse",
+  "hn": "166",
+  "lat": 46.8932961,
+  "lng": 8.2446032,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|79": {
+  "street": "Brünigstrasse",
+  "hn": "79",
+  "lat": 46.9035059,
+  "lng": 8.2485959,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|13": {
+  "street": "Marktstrasse",
+  "hn": "13",
+  "lat": 46.8983044,
+  "lng": 8.2485966,
+  "mieter": []
+ },
+ "sarnen|dorfplatz|4": {
+  "street": "Dorfplatz",
+  "hn": "4",
+  "lat": 46.895552,
+  "lng": 8.2455027,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|103": {
+  "street": "Brünigstrasse",
+  "hn": "103",
+  "lat": 46.8999045,
+  "lng": 8.2468086,
+  "mieter": []
+ },
+ "sarnen|poststrasse|1": {
+  "street": "Poststrasse",
+  "hn": "1",
+  "lat": 46.8960723,
+  "lng": 8.2461805,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|169a": {
+  "street": "Brünigstrasse",
+  "hn": "169a",
+  "lat": 46.8923579,
+  "lng": 8.2449901,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|3": {
+  "street": "Marktstrasse",
+  "hn": "3",
+  "lat": 46.8968624,
+  "lng": 8.2484658,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|85": {
+  "street": "Brünigstrasse",
+  "hn": "85",
+  "lat": 46.9029238,
+  "lng": 8.2482441,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|99": {
+  "street": "Brünigstrasse",
+  "hn": "99",
+  "lat": 46.9004196,
+  "lng": 8.2469972,
+  "mieter": []
+ },
+ "sarnen|dorfplatz|8": {
+  "street": "Dorfplatz",
+  "hn": "8",
+  "lat": 46.8960755,
+  "lng": 8.2450883,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|133": {
+  "street": "Brünigstrasse",
+  "hn": "133",
+  "lat": 46.8971174,
+  "lng": 8.2465673,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|155": {
+  "street": "Brünigstrasse",
+  "hn": "155",
+  "lat": 46.8943084,
+  "lng": 8.2454488,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|88": {
+  "street": "Brünigstrasse",
+  "hn": "88",
+  "lat": 46.9034073,
+  "lng": 8.2479864,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|15": {
+  "street": "Lindenstrasse",
+  "hn": "15",
+  "lat": 46.8960393,
+  "lng": 8.2475376,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|164": {
+  "street": "Brünigstrasse",
+  "hn": "164",
+  "lat": 46.8935029,
+  "lng": 8.2446531,
+  "mieter": []
+ },
+ "sarnen|dorfplatz|7": {
+  "street": "Dorfplatz",
+  "hn": "7",
+  "lat": 46.8959636,
+  "lng": 8.245397,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|11": {
+  "street": "Lindenstrasse",
+  "hn": "11",
+  "lat": 46.8963342,
+  "lng": 8.2473786,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|4": {
+  "street": "Lindenstrasse",
+  "hn": "4",
+  "lat": 46.8967584,
+  "lng": 8.2468206,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|101": {
+  "street": "Brünigstrasse",
+  "hn": "101",
+  "lat": 46.9001695,
+  "lng": 8.2469054,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|11": {
+  "street": "Marktstrasse",
+  "hn": "11",
+  "lat": 46.8981182,
+  "lng": 8.2484566,
+  "mieter": []
+ },
+ "sarnen|dorfplatz|5": {
+  "street": "Dorfplatz",
+  "hn": "5",
+  "lat": 46.89569,
+  "lng": 8.2454145,
+  "mieter": []
+ },
+ "sarnen|poststrasse|3": {
+  "street": "Poststrasse",
+  "hn": "3",
+  "lat": 46.8959979,
+  "lng": 8.2464814,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|83": {
+  "street": "Brünigstrasse",
+  "hn": "83",
+  "lat": 46.9031496,
+  "lng": 8.2483946,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|127": {
+  "street": "Brünigstrasse",
+  "hn": "127",
+  "lat": 46.8979899,
+  "lng": 8.246567,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|92": {
+  "street": "Brünigstrasse",
+  "hn": "92",
+  "lat": 46.902677,
+  "lng": 8.2474032,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|81": {
+  "street": "Brünigstrasse",
+  "hn": "81",
+  "lat": 46.9033348,
+  "lng": 8.2484522,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|174": {
+  "street": "Brünigstrasse",
+  "hn": "174",
+  "lat": 46.8919838,
+  "lng": 8.2445903,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|9a": {
+  "street": "Marktstrasse",
+  "hn": "9a",
+  "lat": 46.8977991,
+  "lng": 8.2486597,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|118": {
+  "street": "Brünigstrasse",
+  "hn": "118",
+  "lat": 46.898501,
+  "lng": 8.2459187,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|180": {
+  "street": "Brünigstrasse",
+  "hn": "180",
+  "lat": 46.8910785,
+  "lng": 8.2442491,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|79a": {
+  "street": "Brünigstrasse",
+  "hn": "79a",
+  "lat": 46.9034726,
+  "lng": 8.2488537,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|2": {
+  "street": "Marktstrasse",
+  "hn": "2",
+  "lat": 46.896169,
+  "lng": 8.2486643,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|119": {
+  "street": "Brünigstrasse",
+  "hn": "119",
+  "lat": 46.898536,
+  "lng": 8.2466243,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|121": {
+  "street": "Brünigstrasse",
+  "hn": "121",
+  "lat": 46.8983419,
+  "lng": 8.2466452,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|125": {
+  "street": "Brünigstrasse",
+  "hn": "125",
+  "lat": 46.8981527,
+  "lng": 8.2466254,
+  "mieter": []
+ },
+ "sarnen|poststrasse|6": {
+  "street": "Poststrasse",
+  "hn": "6",
+  "lat": 46.8956462,
+  "lng": 8.2464769,
+  "mieter": [
+   "kantonale Gerichte"
+  ]
+ },
+ "sarnen|brünigstrasse|154": {
+  "street": "Brünigstrasse",
+  "hn": "154",
+  "lat": 46.8950776,
+  "lng": 8.2452393,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|152": {
+  "street": "Brünigstrasse",
+  "hn": "152",
+  "lat": 46.8952194,
+  "lng": 8.2453873,
+  "mieter": []
+ },
+ "sarnen|dorfplatz|4a": {
+  "street": "Dorfplatz",
+  "hn": "4a",
+  "lat": 46.8954431,
+  "lng": 8.2451211,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|3": {
+  "street": "Lindenstrasse",
+  "hn": "3",
+  "lat": 46.8969338,
+  "lng": 8.2473915,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|5": {
+  "street": "Lindenstrasse",
+  "hn": "5",
+  "lat": 46.8967633,
+  "lng": 8.2472912,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|5a": {
+  "street": "Lindenstrasse",
+  "hn": "5a",
+  "lat": 46.8967834,
+  "lng": 8.2475532,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|9": {
+  "street": "Lindenstrasse",
+  "hn": "9",
+  "lat": 46.8964979,
+  "lng": 8.2473473,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|7": {
+  "street": "Lindenstrasse",
+  "hn": "7",
+  "lat": 46.8966145,
+  "lng": 8.247334,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|133b": {
+  "street": "Brünigstrasse",
+  "hn": "133b",
+  "lat": 46.8970562,
+  "lng": 8.246695,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|135": {
+  "street": "Brünigstrasse",
+  "hn": "135",
+  "lat": 46.8969613,
+  "lng": 8.2464588,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|139a": {
+  "street": "Brünigstrasse",
+  "hn": "139a",
+  "lat": 46.8967579,
+  "lng": 8.2464927,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|142a": {
+  "street": "Brünigstrasse",
+  "hn": "142a",
+  "lat": 46.8968488,
+  "lng": 8.245821,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|142": {
+  "street": "Brünigstrasse",
+  "hn": "142",
+  "lat": 46.8967629,
+  "lng": 8.2460228,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|140": {
+  "street": "Brünigstrasse",
+  "hn": "140",
+  "lat": 46.8968798,
+  "lng": 8.2460923,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|10": {
+  "street": "Lindenstrasse",
+  "hn": "10",
+  "lat": 46.8961592,
+  "lng": 8.2470576,
+  "mieter": []
+ },
+ "sarnen|poststrasse|2": {
+  "street": "Poststrasse",
+  "hn": "2",
+  "lat": 46.8958607,
+  "lng": 8.2460156,
+  "mieter": []
+ },
+ "sarnen|dorfplatz|1": {
+  "street": "Dorfplatz",
+  "hn": "1",
+  "lat": 46.8958217,
+  "lng": 8.2458602,
+  "mieter": []
+ },
+ "sarnen|dorfplatz|2": {
+  "street": "Dorfplatz",
+  "hn": "2",
+  "lat": 46.8957348,
+  "lng": 8.2459319,
+  "mieter": []
+ },
+ "sarnen|dorfplatz|11": {
+  "street": "Dorfplatz",
+  "hn": "11",
+  "lat": 46.8960934,
+  "lng": 8.245927,
+  "mieter": []
+ },
+ "sarnen|dorfplatz|10a": {
+  "street": "Dorfplatz",
+  "hn": "10a",
+  "lat": 46.8963591,
+  "lng": 8.2454661,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|148": {
+  "street": "Brünigstrasse",
+  "hn": "148",
+  "lat": 46.8963782,
+  "lng": 8.2456676,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|143": {
+  "street": "Brünigstrasse",
+  "hn": "143",
+  "lat": 46.8965436,
+  "lng": 8.2462093,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|141": {
+  "street": "Brünigstrasse",
+  "hn": "141",
+  "lat": 46.8966328,
+  "lng": 8.246255,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|139": {
+  "street": "Brünigstrasse",
+  "hn": "139",
+  "lat": 46.8967717,
+  "lng": 8.2463067,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|8": {
+  "street": "Lindenstrasse",
+  "hn": "8",
+  "lat": 46.896443,
+  "lng": 8.2468904,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|109": {
+  "street": "Brünigstrasse",
+  "hn": "109",
+  "lat": 46.8993138,
+  "lng": 8.2466872,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|112": {
+  "street": "Brünigstrasse",
+  "hn": "112",
+  "lat": 46.899397,
+  "lng": 8.2458739,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|110": {
+  "street": "Brünigstrasse",
+  "hn": "110",
+  "lat": 46.8994844,
+  "lng": 8.2459581,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|116a": {
+  "street": "Brünigstrasse",
+  "hn": "116a",
+  "lat": 46.8990581,
+  "lng": 8.2456717,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|106": {
+  "street": "Brünigstrasse",
+  "hn": "106",
+  "lat": 46.8998369,
+  "lng": 8.2461008,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|108": {
+  "street": "Brünigstrasse",
+  "hn": "108",
+  "lat": 46.8996671,
+  "lng": 8.2462704,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|104a": {
+  "street": "Brünigstrasse",
+  "hn": "104a",
+  "lat": 46.8999912,
+  "lng": 8.2462322,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|104": {
+  "street": "Brünigstrasse",
+  "hn": "104",
+  "lat": 46.9002533,
+  "lng": 8.2464478,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|102": {
+  "street": "Brünigstrasse",
+  "hn": "102",
+  "lat": 46.9006076,
+  "lng": 8.2465812,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|100": {
+  "street": "Brünigstrasse",
+  "hn": "100",
+  "lat": 46.9009549,
+  "lng": 8.2466801,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|98": {
+  "street": "Brünigstrasse",
+  "hn": "98",
+  "lat": 46.9012621,
+  "lng": 8.2469483,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|168": {
+  "street": "Brünigstrasse",
+  "hn": "168",
+  "lat": 46.8930567,
+  "lng": 8.2442056,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|20": {
+  "street": "Brünigstrasse",
+  "hn": "20",
+  "lat": 46.8782906,
+  "lng": 8.2426835,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|16": {
+  "street": "Lindenstrasse",
+  "hn": "16",
+  "lat": 46.8958,
+  "lng": 8.2472978,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|129": {
+  "street": "Brünigstrasse",
+  "hn": "129",
+  "lat": 46.8975239,
+  "lng": 8.246611,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|131": {
+  "street": "Brünigstrasse",
+  "hn": "131",
+  "lat": 46.8974002,
+  "lng": 8.246605,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|131a": {
+  "street": "Brünigstrasse",
+  "hn": "131a",
+  "lat": 46.8973664,
+  "lng": 8.2467303,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|13a": {
+  "street": "Lindenstrasse",
+  "hn": "13a",
+  "lat": 46.8961433,
+  "lng": 8.2475062,
+  "mieter": []
+ },
+ "sarnen|lindenstrasse|13": {
+  "street": "Lindenstrasse",
+  "hn": "13",
+  "lat": 46.8962112,
+  "lng": 8.247476,
+  "mieter": []
+ },
+ "sarnen|marktstrasse|3a": {
+  "street": "Marktstrasse",
+  "hn": "3a",
+  "lat": 46.8968388,
+  "lng": 8.248116,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|144": {
+  "street": "Brünigstrasse",
+  "hn": "144",
+  "lat": 46.8965566,
+  "lng": 8.2457674,
+  "mieter": []
+ },
+ "sarnen|dorfplatz|12": {
+  "street": "Dorfplatz",
+  "hn": "12",
+  "lat": 46.8960196,
+  "lng": 8.2459441,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|150": {
+  "street": "Brünigstrasse",
+  "hn": "150",
+  "lat": 46.8952398,
+  "lng": 8.2453028,
+  "mieter": []
+ },
+ "sarnen|brünigstrasse|153": {
+  "street": "Brünigstrasse",
+  "hn": "153",
+  "lat": 46.8945108,
+  "lng": 8.2455333,
+  "mieter": []
+ }
+}

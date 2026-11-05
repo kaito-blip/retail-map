@@ -1,0 +1,953 @@
+{
+ "engelberg|dorfstrasse|30": {
+  "street": "Dorfstrasse",
+  "hn": "30",
+  "lat": 46.8211936,
+  "lng": 8.4041886,
+  "mieter": [
+   "Apotheke Engelberg AG"
+  ]
+ },
+ "engelberg|dorfstrasse|21": {
+  "street": "Dorfstrasse",
+  "hn": "21",
+  "lat": 46.8212386,
+  "lng": 8.4051635,
+  "mieter": [
+   "Pizzeria Bierlialp",
+   "Gletscherspalte"
+  ]
+ },
+ "engelberg|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 46.8196916,
+  "lng": 8.403214,
+  "mieter": [
+   "Yucatan"
+  ]
+ },
+ "engelberg|dorfstrasse|29": {
+  "street": "Dorfstrasse",
+  "hn": "29",
+  "lat": 46.8211301,
+  "lng": 8.4044158,
+  "mieter": [
+   "Bäckerei Christen",
+   "Engelberg Tea Room"
+  ]
+ },
+ "engelberg|dorfstrasse|1": {
+  "street": "Dorfstrasse",
+  "hn": "1",
+  "lat": 46.820934,
+  "lng": 8.4078547,
+  "mieter": [
+   "Polizeiposten Engelberg",
+   "Rathaus Engelberg"
+  ]
+ },
+ "engelberg|klosterstrasse|5": {
+  "street": "Klosterstrasse",
+  "hn": "5",
+  "lat": 46.8207411,
+  "lng": 8.4056705,
+  "mieter": [
+   "Migros"
+  ]
+ },
+ "engelberg|dorfstrasse|5": {
+  "street": "Dorfstrasse",
+  "hn": "5",
+  "lat": 46.8211666,
+  "lng": 8.4072118,
+  "mieter": [
+   "Alpenclub"
+  ]
+ },
+ "engelberg|dorfstrasse|31": {
+  "street": "Dorfstrasse",
+  "hn": "31",
+  "lat": 46.8209046,
+  "lng": 8.4041718,
+  "mieter": [
+   "EP:von Holzen"
+  ]
+ },
+ "engelberg|dorfstrasse|39": {
+  "street": "Dorfstrasse",
+  "hn": "39",
+  "lat": 46.8201283,
+  "lng": 8.4026425,
+  "mieter": [
+   "Stani's Corner"
+  ]
+ },
+ "engelberg|engelbergerstrasse|11": {
+  "street": "Engelbergerstrasse",
+  "hn": "11",
+  "lat": 46.8178472,
+  "lng": 8.4047537,
+  "mieter": [
+   "Sporting-Park"
+  ]
+ },
+ "engelberg|klosterstrasse|8": {
+  "street": "Klosterstrasse",
+  "hn": "8",
+  "lat": 46.8203871,
+  "lng": 8.4057017,
+  "mieter": [
+   "Gisin Sport",
+   "Luter Schöni Sache",
+   "Hair Stübli"
+  ]
+ },
+ "engelberg|klosterstrasse|6": {
+  "street": "Klosterstrasse",
+  "hn": "6",
+  "lat": 46.8205218,
+  "lng": 8.405371,
+  "mieter": [
+   "à la Maison"
+  ]
+ },
+ "engelberg|dorfstrasse|25": {
+  "street": "Dorfstrasse",
+  "hn": "25",
+  "lat": 46.8211844,
+  "lng": 8.4049447,
+  "mieter": [
+   "Obwaldner Kantonalbank"
+  ]
+ },
+ "engelberg|dorfstrasse|14": {
+  "street": "Dorfstrasse",
+  "hn": "14",
+  "lat": 46.8214113,
+  "lng": 8.4059133,
+  "mieter": [
+   "Engelberg"
+  ]
+ },
+ "engelberg|hinterdorfstrasse|1": {
+  "street": "Hinterdorfstrasse",
+  "hn": "1",
+  "lat": 46.8214049,
+  "lng": 8.4068431,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|27": {
+  "street": "Dorfstrasse",
+  "hn": "27",
+  "lat": 46.8212255,
+  "lng": 8.4046666,
+  "mieter": [
+   "Quattro Sport AG"
+  ]
+ },
+ "engelberg|dorfstrasse|35": {
+  "street": "Dorfstrasse",
+  "hn": "35",
+  "lat": 46.8205616,
+  "lng": 8.4034336,
+  "mieter": [
+   "4 Seasons Sport Shop"
+  ]
+ },
+ "engelberg|bahnhofstrasse|39": {
+  "street": "Bahnhofstrasse",
+  "hn": "39",
+  "lat": 46.8201039,
+  "lng": 8.4024643,
+  "mieter": [
+   "Arena Station"
+  ]
+ },
+ "engelberg|dorfstrasse|40": {
+  "street": "Dorfstrasse",
+  "hn": "40",
+  "lat": 46.8205403,
+  "lng": 8.4023062,
+  "mieter": []
+ },
+ "engelberg|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 46.8208608,
+  "lng": 8.4021233,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|9": {
+  "street": "Dorfstrasse",
+  "hn": "9",
+  "lat": 46.821275,
+  "lng": 8.406584,
+  "mieter": [
+   "Papeterie Engelberg"
+  ]
+ },
+ "engelberg|klosterstrasse|3": {
+  "street": "Klosterstrasse",
+  "hn": "3",
+  "lat": 46.8207777,
+  "lng": 8.4055381,
+  "mieter": []
+ },
+ "engelberg|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 46.8195124,
+  "lng": 8.4026481,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|33": {
+  "street": "Dorfstrasse",
+  "hn": "33",
+  "lat": 46.820622,
+  "lng": 8.4039227,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|34": {
+  "street": "Dorfstrasse",
+  "hn": "34",
+  "lat": 46.8210685,
+  "lng": 8.4038281,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|38": {
+  "street": "Engelbergerstrasse",
+  "hn": "38",
+  "lat": 46.8185196,
+  "lng": 8.3982798,
+  "mieter": [
+   "Quattro Sport"
+  ]
+ },
+ "engelberg|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 46.8190012,
+  "lng": 8.4028277,
+  "mieter": []
+ },
+ "engelberg|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 46.8199156,
+  "lng": 8.4023515,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|43": {
+  "street": "Dorfstrasse",
+  "hn": "43",
+  "lat": 46.8199813,
+  "lng": 8.4019048,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|45": {
+  "street": "Dorfstrasse",
+  "hn": "45",
+  "lat": 46.8199329,
+  "lng": 8.4015288,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|41": {
+  "street": "Dorfstrasse",
+  "hn": "41",
+  "lat": 46.8200106,
+  "lng": 8.4021822,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|45a": {
+  "street": "Dorfstrasse",
+  "hn": "45a",
+  "lat": 46.8198828,
+  "lng": 8.40123,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|47": {
+  "street": "Dorfstrasse",
+  "hn": "47",
+  "lat": 46.8198685,
+  "lng": 8.4011091,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|50": {
+  "street": "Dorfstrasse",
+  "hn": "50",
+  "lat": 46.8201075,
+  "lng": 8.400647,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|50c": {
+  "street": "Dorfstrasse",
+  "hn": "50c",
+  "lat": 46.8202191,
+  "lng": 8.400189,
+  "mieter": [
+   "Evang.-ref. Kirche Engelberg"
+  ]
+ },
+ "engelberg|dorfstrasse|80": {
+  "street": "Dorfstrasse",
+  "hn": "80",
+  "lat": 46.820346,
+  "lng": 8.3938137,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|48": {
+  "street": "Dorfstrasse",
+  "hn": "48",
+  "lat": 46.8201653,
+  "lng": 8.4013894,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|15": {
+  "street": "Dorfstrasse",
+  "hn": "15",
+  "lat": 46.8211589,
+  "lng": 8.4059838,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|11": {
+  "street": "Dorfstrasse",
+  "hn": "11",
+  "lat": 46.8212494,
+  "lng": 8.4063527,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|55": {
+  "street": "Engelbergerstrasse",
+  "hn": "55",
+  "lat": 46.8186233,
+  "lng": 8.3951339,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|57": {
+  "street": "Engelbergerstrasse",
+  "hn": "57",
+  "lat": 46.8188593,
+  "lng": 8.3940769,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|51": {
+  "street": "Engelbergerstrasse",
+  "hn": "51",
+  "lat": 46.8184043,
+  "lng": 8.3961658,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|53": {
+  "street": "Engelbergerstrasse",
+  "hn": "53",
+  "lat": 46.8183985,
+  "lng": 8.3956142,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|59": {
+  "street": "Engelbergerstrasse",
+  "hn": "59",
+  "lat": 46.8189011,
+  "lng": 8.3935893,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|6": {
+  "street": "Engelbergerstrasse",
+  "hn": "6",
+  "lat": 46.8191671,
+  "lng": 8.4049876,
+  "mieter": [
+   "Alters- und Pflegeheim Erlenhaus"
+  ]
+ },
+ "engelberg|dorfstrasse|82a": {
+  "street": "Dorfstrasse",
+  "hn": "82a",
+  "lat": 46.8205079,
+  "lng": 8.3926154,
+  "mieter": []
+ },
+ "engelberg|klosterstrasse|8a": {
+  "street": "Klosterstrasse",
+  "hn": "8a",
+  "lat": 46.8203303,
+  "lng": 8.405664,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|82f": {
+  "street": "Dorfstrasse",
+  "hn": "82f",
+  "lat": 46.8208361,
+  "lng": 8.3918954,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|42": {
+  "street": "Engelbergerstrasse",
+  "hn": "42",
+  "lat": 46.8188271,
+  "lng": 8.3980257,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|82b": {
+  "street": "Dorfstrasse",
+  "hn": "82b",
+  "lat": 46.8205815,
+  "lng": 8.3929601,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|57": {
+  "street": "Dorfstrasse",
+  "hn": "57",
+  "lat": 46.819424,
+  "lng": 8.3968337,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|54": {
+  "street": "Dorfstrasse",
+  "hn": "54",
+  "lat": 46.8201131,
+  "lng": 8.3984284,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|84a": {
+  "street": "Dorfstrasse",
+  "hn": "84a",
+  "lat": 46.8209441,
+  "lng": 8.392942,
+  "mieter": []
+ },
+ "engelberg|hinterdorfstrasse|10": {
+  "street": "Hinterdorfstrasse",
+  "hn": "10",
+  "lat": 46.8224078,
+  "lng": 8.4067856,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|28": {
+  "street": "Dorfstrasse",
+  "hn": "28",
+  "lat": 46.8213131,
+  "lng": 8.4043875,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|6": {
+  "street": "Dorfstrasse",
+  "hn": "6",
+  "lat": 46.8214384,
+  "lng": 8.4075432,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|16": {
+  "street": "Dorfstrasse",
+  "hn": "16",
+  "lat": 46.8214121,
+  "lng": 8.4057312,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|52c": {
+  "street": "Dorfstrasse",
+  "hn": "52c",
+  "lat": 46.8203097,
+  "lng": 8.3989263,
+  "mieter": []
+ },
+ "engelberg|hinterdorfstrasse|5": {
+  "street": "Hinterdorfstrasse",
+  "hn": "5",
+  "lat": 46.8217078,
+  "lng": 8.4065803,
+  "mieter": []
+ },
+ "engelberg|bahnhofstrasse|19": {
+  "street": "Bahnhofstrasse",
+  "hn": "19",
+  "lat": 46.8215412,
+  "lng": 8.4012787,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|52": {
+  "street": "Dorfstrasse",
+  "hn": "52",
+  "lat": 46.8200675,
+  "lng": 8.3993627,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|17": {
+  "street": "Dorfstrasse",
+  "hn": "17",
+  "lat": 46.8212276,
+  "lng": 8.405722,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|86": {
+  "street": "Dorfstrasse",
+  "hn": "86",
+  "lat": 46.8203042,
+  "lng": 8.392299,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|52a": {
+  "street": "Dorfstrasse",
+  "hn": "52a",
+  "lat": 46.8200463,
+  "lng": 8.3989326,
+  "mieter": []
+ },
+ "engelberg|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 46.8187578,
+  "lng": 8.4031294,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|88": {
+  "street": "Dorfstrasse",
+  "hn": "88",
+  "lat": 46.8203288,
+  "lng": 8.3920088,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|53c": {
+  "street": "Dorfstrasse",
+  "hn": "53c",
+  "lat": 46.8194323,
+  "lng": 8.3974152,
+  "mieter": []
+ },
+ "engelberg|klosterstrasse|10": {
+  "street": "Klosterstrasse",
+  "hn": "10",
+  "lat": 46.8201263,
+  "lng": 8.4062696,
+  "mieter": [
+   "Stohr"
+  ]
+ },
+ "engelberg|dorfstrasse|51": {
+  "street": "Dorfstrasse",
+  "hn": "51",
+  "lat": 46.8197109,
+  "lng": 8.3985146,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|50a": {
+  "street": "Dorfstrasse",
+  "hn": "50a",
+  "lat": 46.820375,
+  "lng": 8.4006064,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|84": {
+  "street": "Dorfstrasse",
+  "hn": "84",
+  "lat": 46.8207452,
+  "lng": 8.3928225,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|26": {
+  "street": "Dorfstrasse",
+  "hn": "26",
+  "lat": 46.8213686,
+  "lng": 8.4048572,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|53a": {
+  "street": "Dorfstrasse",
+  "hn": "53a",
+  "lat": 46.8196822,
+  "lng": 8.3980977,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|80": {
+  "street": "Engelbergerstrasse",
+  "hn": "80",
+  "lat": 46.8198047,
+  "lng": 8.3900105,
+  "mieter": []
+ },
+ "engelberg|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 46.8208675,
+  "lng": 8.4016173,
+  "mieter": [
+   "Kino Engelberg"
+  ]
+ },
+ "engelberg|dorfstrasse|50b": {
+  "street": "Dorfstrasse",
+  "hn": "50b",
+  "lat": 46.8204553,
+  "lng": 8.401063,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|24": {
+  "street": "Dorfstrasse",
+  "hn": "24",
+  "lat": 46.8213587,
+  "lng": 8.4050305,
+  "mieter": []
+ },
+ "engelberg|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 46.8186133,
+  "lng": 8.4030262,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|82d": {
+  "street": "Dorfstrasse",
+  "hn": "82d",
+  "lat": 46.8207844,
+  "lng": 8.3922079,
+  "mieter": []
+ },
+ "engelberg|bahnhofstrasse|17a": {
+  "street": "Bahnhofstrasse",
+  "hn": "17a",
+  "lat": 46.8207888,
+  "lng": 8.4013823,
+  "mieter": []
+ },
+ "engelberg|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 46.8184458,
+  "lng": 8.4029076,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|82c": {
+  "street": "Dorfstrasse",
+  "hn": "82c",
+  "lat": 46.8207704,
+  "lng": 8.39251,
+  "mieter": []
+ },
+ "engelberg|hinterdorfstrasse|11": {
+  "street": "Hinterdorfstrasse",
+  "hn": "11",
+  "lat": 46.8223557,
+  "lng": 8.4065508,
+  "mieter": []
+ },
+ "engelberg|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 46.8187685,
+  "lng": 8.4027845,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|82e": {
+  "street": "Dorfstrasse",
+  "hn": "82e",
+  "lat": 46.820662,
+  "lng": 8.3917756,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|3": {
+  "street": "Dorfstrasse",
+  "hn": "3",
+  "lat": 46.8209901,
+  "lng": 8.4075808,
+  "mieter": []
+ },
+ "engelberg|hinterdorfstrasse|7": {
+  "street": "Hinterdorfstrasse",
+  "hn": "7",
+  "lat": 46.8218895,
+  "lng": 8.4065532,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|62": {
+  "street": "Dorfstrasse",
+  "hn": "62",
+  "lat": 46.8200401,
+  "lng": 8.3969205,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|53b": {
+  "street": "Dorfstrasse",
+  "hn": "53b",
+  "lat": 46.8196718,
+  "lng": 8.397678,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|52b": {
+  "street": "Dorfstrasse",
+  "hn": "52b",
+  "lat": 46.8203194,
+  "lng": 8.3993522,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|19": {
+  "street": "Dorfstrasse",
+  "hn": "19",
+  "lat": 46.8212026,
+  "lng": 8.4055211,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|7": {
+  "street": "Dorfstrasse",
+  "hn": "7",
+  "lat": 46.8212041,
+  "lng": 8.4067853,
+  "mieter": []
+ },
+ "engelberg|klosterstrasse|9": {
+  "street": "Klosterstrasse",
+  "hn": "9",
+  "lat": 46.8206833,
+  "lng": 8.4060108,
+  "mieter": [
+   "Titlis-Sport"
+  ]
+ },
+ "engelberg|hinterdorfstrasse|9": {
+  "street": "Hinterdorfstrasse",
+  "hn": "9",
+  "lat": 46.8221155,
+  "lng": 8.4065664,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|42": {
+  "street": "Dorfstrasse",
+  "hn": "42",
+  "lat": 46.8203415,
+  "lng": 8.4018843,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|23": {
+  "street": "Dorfstrasse",
+  "hn": "23",
+  "lat": 46.8211781,
+  "lng": 8.4051256,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|45": {
+  "street": "Engelbergerstrasse",
+  "hn": "45",
+  "lat": 46.8182547,
+  "lng": 8.396966,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|78": {
+  "street": "Engelbergerstrasse",
+  "hn": "78",
+  "lat": 46.8198418,
+  "lng": 8.3903619,
+  "mieter": []
+ },
+ "engelberg|hinterdorfstrasse|6": {
+  "street": "Hinterdorfstrasse",
+  "hn": "6",
+  "lat": 46.8219955,
+  "lng": 8.4069295,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|4": {
+  "street": "Dorfstrasse",
+  "hn": "4",
+  "lat": 46.8212965,
+  "lng": 8.4077014,
+  "mieter": []
+ },
+ "engelberg|hinterdorfstrasse|4": {
+  "street": "Hinterdorfstrasse",
+  "hn": "4",
+  "lat": 46.8217978,
+  "lng": 8.4069844,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|44": {
+  "street": "Engelbergerstrasse",
+  "hn": "44",
+  "lat": 46.8188268,
+  "lng": 8.3983246,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|43": {
+  "street": "Engelbergerstrasse",
+  "hn": "43",
+  "lat": 46.8182344,
+  "lng": 8.3973691,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|2": {
+  "street": "Dorfstrasse",
+  "hn": "2",
+  "lat": 46.821444,
+  "lng": 8.4081308,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|18": {
+  "street": "Dorfstrasse",
+  "hn": "18",
+  "lat": 46.8213777,
+  "lng": 8.4055153,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|68": {
+  "street": "Engelbergerstrasse",
+  "hn": "68",
+  "lat": 46.8197683,
+  "lng": 8.3923087,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|10": {
+  "street": "Dorfstrasse",
+  "hn": "10",
+  "lat": 46.8214789,
+  "lng": 8.4064614,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|70": {
+  "street": "Engelbergerstrasse",
+  "hn": "70",
+  "lat": 46.8199897,
+  "lng": 8.3915876,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|12": {
+  "street": "Dorfstrasse",
+  "hn": "12",
+  "lat": 46.8215309,
+  "lng": 8.4062538,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|55": {
+  "street": "Dorfstrasse",
+  "hn": "55",
+  "lat": 46.8196761,
+  "lng": 8.3969961,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|49": {
+  "street": "Dorfstrasse",
+  "hn": "49",
+  "lat": 46.819722,
+  "lng": 8.3987757,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|41": {
+  "street": "Engelbergerstrasse",
+  "hn": "41",
+  "lat": 46.8180627,
+  "lng": 8.3977773,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|66": {
+  "street": "Engelbergerstrasse",
+  "hn": "66",
+  "lat": 46.8194807,
+  "lng": 8.3929648,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|117": {
+  "street": "Engelbergerstrasse",
+  "hn": "117",
+  "lat": 46.8233728,
+  "lng": 8.3859033,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|107": {
+  "street": "Engelbergerstrasse",
+  "hn": "107",
+  "lat": 46.8225895,
+  "lng": 8.3844005,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|109": {
+  "street": "Engelbergerstrasse",
+  "hn": "109",
+  "lat": 46.8227707,
+  "lng": 8.3847948,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|101": {
+  "street": "Engelbergerstrasse",
+  "hn": "101",
+  "lat": 46.8220711,
+  "lng": 8.3843842,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|121": {
+  "street": "Engelbergerstrasse",
+  "hn": "121",
+  "lat": 46.8241473,
+  "lng": 8.3851062,
+  "mieter": [
+   "Auto Portmann"
+  ]
+ },
+ "engelberg|dorfstrasse|90": {
+  "street": "Dorfstrasse",
+  "hn": "90",
+  "lat": 46.8203991,
+  "lng": 8.39183,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|105": {
+  "street": "Engelbergerstrasse",
+  "hn": "105",
+  "lat": 46.8223555,
+  "lng": 8.3840823,
+  "mieter": []
+ },
+ "engelberg|hinterdorfstrasse|2": {
+  "street": "Hinterdorfstrasse",
+  "hn": "2",
+  "lat": 46.8217964,
+  "lng": 8.4071178,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|8": {
+  "street": "Dorfstrasse",
+  "hn": "8",
+  "lat": 46.8214715,
+  "lng": 8.40656,
+  "mieter": []
+ },
+ "engelberg|hinterdorfstrasse|3": {
+  "street": "Hinterdorfstrasse",
+  "hn": "3",
+  "lat": 46.8215855,
+  "lng": 8.4065596,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|22": {
+  "street": "Dorfstrasse",
+  "hn": "22",
+  "lat": 46.8213637,
+  "lng": 8.4051976,
+  "mieter": []
+ },
+ "engelberg|dorfstrasse|20": {
+  "street": "Dorfstrasse",
+  "hn": "20",
+  "lat": 46.8213702,
+  "lng": 8.4053524,
+  "mieter": []
+ },
+ "engelberg|klosterstrasse|1": {
+  "street": "Klosterstrasse",
+  "hn": "1",
+  "lat": 46.8208225,
+  "lng": 8.4053542,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|125": {
+  "street": "Engelbergerstrasse",
+  "hn": "125",
+  "lat": 46.8240836,
+  "lng": 8.3837199,
+  "mieter": []
+ },
+ "engelberg|engelbergerstrasse|40": {
+  "street": "Engelbergerstrasse",
+  "hn": "40",
+  "lat": 46.8186029,
+  "lng": 8.3979628,
+  "mieter": []
+ }
+}

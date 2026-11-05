@@ -1,0 +1,1284 @@
+{
+ "martigny|rue d'octodure|25": {
+  "street": "Rue d'Octodure",
+  "hn": "25",
+  "lat": 46.0988103,
+  "lng": 7.0752084,
+  "mieter": [
+   "Pizzeria d'Octodure"
+  ]
+ },
+ "martigny|rue du léman|35": {
+  "street": "Rue du Léman",
+  "hn": "35",
+  "lat": 46.1063322,
+  "lng": 7.0716455,
+  "mieter": [
+   "HIOB Brocante"
+  ]
+ },
+ "martigny|place centrale|4": {
+  "street": "Place Centrale",
+  "hn": "4",
+  "lat": 46.1016873,
+  "lng": 7.0729818,
+  "mieter": [
+   "Pharmacie Centrale"
+  ]
+ },
+ "martigny|avenue de la gare|22": {
+  "street": "Avenue de la Gare",
+  "hn": "22",
+  "lat": 46.102908,
+  "lng": 7.075313,
+  "mieter": [
+   "Pharmacie werlen"
+  ]
+ },
+ "martigny|place centrale|12": {
+  "street": "Place Centrale",
+  "hn": "12",
+  "lat": 46.1012594,
+  "lng": 7.0723972,
+  "mieter": [
+   "Le Loup Blanc"
+  ]
+ },
+ "martigny|place centrale|10": {
+  "street": "Place Centrale",
+  "hn": "10",
+  "lat": 46.101342,
+  "lng": 7.0725165,
+  "mieter": [
+   "Steak House Martigny chez Steve et Arnaud"
+  ]
+ },
+ "martigny|place centrale|14": {
+  "street": "Place Centrale",
+  "hn": "14",
+  "lat": 46.1011942,
+  "lng": 7.0723134,
+  "mieter": [
+   "Chick'N'More"
+  ]
+ },
+ "martigny|place centrale|6": {
+  "street": "Place Centrale",
+  "hn": "6",
+  "lat": 46.1015885,
+  "lng": 7.0728666,
+  "mieter": [
+   "Barock Café"
+  ]
+ },
+ "martigny|place centrale|2": {
+  "street": "Place Centrale",
+  "hn": "2",
+  "lat": 46.1020307,
+  "lng": 7.0730731,
+  "mieter": [
+   "L'Altro Mondo"
+  ]
+ },
+ "martigny|avenue de la gare|47": {
+  "street": "Avenue de la Gare",
+  "hn": "47",
+  "lat": 46.1056889,
+  "lng": 7.0779209,
+  "mieter": [
+   "Ski Service Outlet"
+  ]
+ },
+ "martigny|place centrale|1": {
+  "street": "Place Centrale",
+  "hn": "1",
+  "lat": 46.1013634,
+  "lng": 7.0734697,
+  "mieter": [
+   "Beefore - Burgers'n More"
+  ]
+ },
+ "martigny|place centrale|2b": {
+  "street": "Place Centrale",
+  "hn": "2b",
+  "lat": 46.1017633,
+  "lng": 7.0730854,
+  "mieter": [
+   "La Vache qui Vole"
+  ]
+ },
+ "martigny|rue du léman|15": {
+  "street": "Rue du Léman",
+  "hn": "15",
+  "lat": 46.1046015,
+  "lng": 7.0758288,
+  "mieter": [
+   "Sunset Bar",
+   "Fratelli - Cantina Italia"
+  ]
+ },
+ "martigny|avenue de la gare|54": {
+  "street": "Avenue de la Gare",
+  "hn": "54",
+  "lat": 46.105383,
+  "lng": 7.0787364,
+  "mieter": [
+   "Pharmacie de la Gare"
+  ]
+ },
+ "martigny|avenue de la gare|45": {
+  "street": "Avenue de la Gare",
+  "hn": "45",
+  "lat": 46.1055906,
+  "lng": 7.0783602,
+  "mieter": [
+   "Le Terminus"
+  ]
+ },
+ "martigny|rue d'octodure|7": {
+  "street": "Rue d'Octodure",
+  "hn": "7",
+  "lat": 46.0998391,
+  "lng": 7.0744497,
+  "mieter": [
+   "Aménagement intérieur CD Delavy et fils"
+  ]
+ },
+ "martigny|rue d'octodure|5": {
+  "street": "Rue d'Octodure",
+  "hn": "5",
+  "lat": 46.0998999,
+  "lng": 7.0743987,
+  "mieter": [
+   "Seven Beards - Barber shop"
+  ]
+ },
+ "martigny|rue d'octodure|9": {
+  "street": "Rue d'Octodure",
+  "hn": "9",
+  "lat": 46.0996711,
+  "lng": 7.0745207,
+  "mieter": [
+   "Les Coloristes"
+  ]
+ },
+ "martigny|place centrale|8": {
+  "street": "Place Centrale",
+  "hn": "8",
+  "lat": 46.1014522,
+  "lng": 7.0726625,
+  "mieter": [
+   "Moloko"
+  ]
+ },
+ "martigny|rue du léman|19": {
+  "street": "Rue du Léman",
+  "hn": "19",
+  "lat": 46.1051562,
+  "lng": 7.0747873,
+  "mieter": [
+   "Look Montagne Sàrl",
+   "Centre d'imagerie de Martigny",
+   "Caisse de chômage Unia Martigny",
+   "Unia"
+  ]
+ },
+ "martigny|place centrale|16": {
+  "street": "Place Centrale",
+  "hn": "16",
+  "lat": 46.1011374,
+  "lng": 7.0722366,
+  "mieter": [
+   "Mila Sushi"
+  ]
+ },
+ "martigny|rue de la poste|3": {
+  "street": "Rue de la Poste",
+  "hn": "3",
+  "lat": 46.1034037,
+  "lng": 7.0768473,
+  "mieter": []
+ },
+ "martigny|rue du léman|23": {
+  "street": "Rue du Léman",
+  "hn": "23",
+  "lat": 46.1054323,
+  "lng": 7.0740491,
+  "mieter": []
+ },
+ "martigny|rue du léman|43": {
+  "street": "Rue du Léman",
+  "hn": "43",
+  "lat": 46.1086018,
+  "lng": 7.0663992,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|21": {
+  "street": "Avenue de la Gare",
+  "hn": "21",
+  "lat": 46.1037511,
+  "lng": 7.0758393,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|10": {
+  "street": "Avenue de la Gare",
+  "hn": "10",
+  "lat": 46.1021247,
+  "lng": 7.0744993,
+  "mieter": []
+ },
+ "martigny|rue du léman|18b": {
+  "street": "Rue du Léman",
+  "hn": "18b",
+  "lat": 46.1056106,
+  "lng": 7.0747685,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|53": {
+  "street": "Avenue de la Gare",
+  "hn": "53",
+  "lat": 46.10581,
+  "lng": 7.0790972,
+  "mieter": []
+ },
+ "martigny|rue du léman|31b": {
+  "street": "Rue du Léman",
+  "hn": "31b",
+  "lat": 46.1055899,
+  "lng": 7.0727664,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|30": {
+  "street": "Avenue de la Gare",
+  "hn": "30",
+  "lat": 46.1030907,
+  "lng": 7.0758921,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|33": {
+  "street": "Avenue de la Gare",
+  "hn": "33",
+  "lat": 46.1051849,
+  "lng": 7.0774855,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|13": {
+  "street": "Rue d'Octodure",
+  "hn": "13",
+  "lat": 46.099638,
+  "lng": 7.0747103,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|10b": {
+  "street": "Rue d'Octodure",
+  "hn": "10b",
+  "lat": 46.0996954,
+  "lng": 7.0729996,
+  "mieter": []
+ },
+ "martigny|rue de la poste|5": {
+  "street": "Rue de la Poste",
+  "hn": "5",
+  "lat": 46.1032605,
+  "lng": 7.0770538,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|46": {
+  "street": "Rue d'Octodure",
+  "hn": "46",
+  "lat": 46.0978039,
+  "lng": 7.0751605,
+  "mieter": []
+ },
+ "martigny|rue du léman|12": {
+  "street": "Rue du Léman",
+  "hn": "12",
+  "lat": 46.104552,
+  "lng": 7.076818,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|7": {
+  "street": "Avenue de la Gare",
+  "hn": "7",
+  "lat": 46.1023852,
+  "lng": 7.0739937,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|9": {
+  "street": "Avenue de la Gare",
+  "hn": "9",
+  "lat": 46.1028071,
+  "lng": 7.0744959,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|42a": {
+  "street": "Rue d'Octodure",
+  "hn": "42a",
+  "lat": 46.097896,
+  "lng": 7.075733,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|46": {
+  "street": "Avenue de la Gare",
+  "hn": "46",
+  "lat": 46.1043525,
+  "lng": 7.0776101,
+  "mieter": []
+ },
+ "martigny|rue du léman|41": {
+  "street": "Rue du Léman",
+  "hn": "41",
+  "lat": 46.1083308,
+  "lng": 7.0666974,
+  "mieter": []
+ },
+ "martigny|rue du léman|63": {
+  "street": "Rue du Léman",
+  "hn": "63",
+  "lat": 46.1103793,
+  "lng": 7.0636647,
+  "mieter": []
+ },
+ "martigny|rue du léman|3b": {
+  "street": "Rue du Léman",
+  "hn": "3b",
+  "lat": 46.1035649,
+  "lng": 7.0776666,
+  "mieter": []
+ },
+ "martigny|rue du léman|33": {
+  "street": "Rue du Léman",
+  "hn": "33",
+  "lat": 46.1057816,
+  "lng": 7.0730779,
+  "mieter": []
+ },
+ "martigny|place centrale|1a": {
+  "street": "Place Centrale",
+  "hn": "1a",
+  "lat": 46.1013893,
+  "lng": 7.0731889,
+  "mieter": []
+ },
+ "martigny|rue du léman|39": {
+  "street": "Rue du Léman",
+  "hn": "39",
+  "lat": 46.1069539,
+  "lng": 7.0704398,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|38": {
+  "street": "Avenue de la Gare",
+  "hn": "38",
+  "lat": 46.1038854,
+  "lng": 7.0765997,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|1": {
+  "street": "Avenue de la Gare",
+  "hn": "1",
+  "lat": 46.1020124,
+  "lng": 7.0735096,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|48": {
+  "street": "Rue d'Octodure",
+  "hn": "48",
+  "lat": 46.0975117,
+  "lng": 7.0749563,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|11": {
+  "street": "Rue d'Octodure",
+  "hn": "11",
+  "lat": 46.0995925,
+  "lng": 7.0745476,
+  "mieter": []
+ },
+ "martigny|rue du léman|36": {
+  "street": "Rue du Léman",
+  "hn": "36",
+  "lat": 46.1067127,
+  "lng": 7.0720303,
+  "mieter": []
+ },
+ "martigny|rue du léman|2": {
+  "street": "Rue du Léman",
+  "hn": "2",
+  "lat": 46.1036057,
+  "lng": 7.0782698,
+  "mieter": []
+ },
+ "martigny|rue du léman|2a": {
+  "street": "Rue du Léman",
+  "hn": "2a",
+  "lat": 46.1035425,
+  "lng": 7.078489,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|29": {
+  "street": "Avenue de la Gare",
+  "hn": "29",
+  "lat": 46.1047171,
+  "lng": 7.0772169,
+  "mieter": [
+   "Baba Ghanouge"
+  ]
+ },
+ "martigny|rue du léman|3": {
+  "street": "Rue du Léman",
+  "hn": "3",
+  "lat": 46.1033877,
+  "lng": 7.0778481,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|36": {
+  "street": "Rue d'Octodure",
+  "hn": "36",
+  "lat": 46.0986805,
+  "lng": 7.0748089,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|16": {
+  "street": "Avenue de la Gare",
+  "hn": "16",
+  "lat": 46.1023555,
+  "lng": 7.0747926,
+  "mieter": []
+ },
+ "martigny|rue de la poste|1": {
+  "street": "Rue de la Poste",
+  "hn": "1",
+  "lat": 46.1033978,
+  "lng": 7.0761478,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|66": {
+  "street": "Avenue de la Gare",
+  "hn": "66",
+  "lat": 46.1055406,
+  "lng": 7.0790662,
+  "mieter": [
+   "TMR Voyages"
+  ]
+ },
+ "martigny|place centrale|5a": {
+  "street": "Place Centrale",
+  "hn": "5a",
+  "lat": 46.1008873,
+  "lng": 7.0734535,
+  "mieter": []
+ },
+ "martigny|rue de la poste|12": {
+  "street": "Rue de la Poste",
+  "hn": "12",
+  "lat": 46.1029382,
+  "lng": 7.0763534,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|18b": {
+  "street": "Rue d'Octodure",
+  "hn": "18b",
+  "lat": 46.0994605,
+  "lng": 7.0738471,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|37": {
+  "street": "Avenue de la Gare",
+  "hn": "37",
+  "lat": 46.1053081,
+  "lng": 7.0777936,
+  "mieter": [
+   "Chez Tao"
+  ]
+ },
+ "martigny|avenue de la gare|40": {
+  "street": "Avenue de la Gare",
+  "hn": "40",
+  "lat": 46.1039357,
+  "lng": 7.0767884,
+  "mieter": []
+ },
+ "martigny|rue du léman|25": {
+  "street": "Rue du Léman",
+  "hn": "25",
+  "lat": 46.1054929,
+  "lng": 7.0738871,
+  "mieter": []
+ },
+ "martigny|rue du léman|45": {
+  "street": "Rue du Léman",
+  "hn": "45",
+  "lat": 46.1087993,
+  "lng": 7.065898,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|32": {
+  "street": "Avenue de la Gare",
+  "hn": "32",
+  "lat": 46.1033273,
+  "lng": 7.0758137,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|18": {
+  "street": "Rue d'Octodure",
+  "hn": "18",
+  "lat": 46.0995049,
+  "lng": 7.0739227,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|13b": {
+  "street": "Avenue de la Gare",
+  "hn": "13b",
+  "lat": 46.1029189,
+  "lng": 7.0747557,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|7b": {
+  "street": "Rue d'Octodure",
+  "hn": "7b",
+  "lat": 46.0997662,
+  "lng": 7.0744782,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|35": {
+  "street": "Avenue de la Gare",
+  "hn": "35",
+  "lat": 46.1052974,
+  "lng": 7.0773313,
+  "mieter": []
+ },
+ "martigny|rue de la poste|16": {
+  "street": "Rue de la Poste",
+  "hn": "16",
+  "lat": 46.1025402,
+  "lng": 7.076874,
+  "mieter": []
+ },
+ "martigny|rue de la poste|6": {
+  "street": "Rue de la Poste",
+  "hn": "6",
+  "lat": 46.1033282,
+  "lng": 7.0758955,
+  "mieter": []
+ },
+ "martigny|rue du léman|34": {
+  "street": "Rue du Léman",
+  "hn": "34",
+  "lat": 46.1064324,
+  "lng": 7.0727976,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|44": {
+  "street": "Rue d'Octodure",
+  "hn": "44",
+  "lat": 46.0975765,
+  "lng": 7.075416,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|64": {
+  "street": "Avenue de la Gare",
+  "hn": "64",
+  "lat": 46.1054219,
+  "lng": 7.0789646,
+  "mieter": []
+ },
+ "martigny|rue du léman|14": {
+  "street": "Rue du Léman",
+  "hn": "14",
+  "lat": 46.1048049,
+  "lng": 7.0764962,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|17": {
+  "street": "Avenue de la Gare",
+  "hn": "17",
+  "lat": 46.1033174,
+  "lng": 7.075101,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|31a": {
+  "street": "Rue d'Octodure",
+  "hn": "31a",
+  "lat": 46.0984066,
+  "lng": 7.0758137,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|42b": {
+  "street": "Rue d'Octodure",
+  "hn": "42b",
+  "lat": 46.0977752,
+  "lng": 7.0758734,
+  "mieter": []
+ },
+ "martigny|rue du léman|9": {
+  "street": "Rue du Léman",
+  "hn": "9",
+  "lat": 46.1040417,
+  "lng": 7.0770631,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|48": {
+  "street": "Avenue de la Gare",
+  "hn": "48",
+  "lat": 46.1042387,
+  "lng": 7.0781015,
+  "mieter": []
+ },
+ "martigny|rue du léman|51": {
+  "street": "Rue du Léman",
+  "hn": "51",
+  "lat": 46.109258,
+  "lng": 7.0653678,
+  "mieter": []
+ },
+ "martigny|rue du léman|11": {
+  "street": "Rue du Léman",
+  "hn": "11",
+  "lat": 46.1041083,
+  "lng": 7.0769724,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|2": {
+  "street": "Avenue de la Gare",
+  "hn": "2",
+  "lat": 46.1017604,
+  "lng": 7.0736475,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|28": {
+  "street": "Avenue de la Gare",
+  "hn": "28",
+  "lat": 46.1032306,
+  "lng": 7.0756789,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|22": {
+  "street": "Rue d'Octodure",
+  "hn": "22",
+  "lat": 46.0995424,
+  "lng": 7.0743306,
+  "mieter": []
+ },
+ "martigny|rue du léman|24": {
+  "street": "Rue du Léman",
+  "hn": "24",
+  "lat": 46.1057837,
+  "lng": 7.0741933,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|41": {
+  "street": "Rue d'Octodure",
+  "hn": "41",
+  "lat": 46.0972979,
+  "lng": 7.0768136,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|19": {
+  "street": "Avenue de la Gare",
+  "hn": "19",
+  "lat": 46.1034794,
+  "lng": 7.0754706,
+  "mieter": [
+   "Gruner AG"
+  ]
+ },
+ "martigny|place centrale|2a": {
+  "street": "Place Centrale",
+  "hn": "2a",
+  "lat": 46.1019084,
+  "lng": 7.0731377,
+  "mieter": []
+ },
+ "martigny|rue du léman|61": {
+  "street": "Rue du Léman",
+  "hn": "61",
+  "lat": 46.1102087,
+  "lng": 7.0639642,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|17": {
+  "street": "Rue d'Octodure",
+  "hn": "17",
+  "lat": 46.0994489,
+  "lng": 7.0746533,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|33": {
+  "street": "Rue d'Octodure",
+  "hn": "33",
+  "lat": 46.0982244,
+  "lng": 7.0765851,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|8": {
+  "street": "Avenue de la Gare",
+  "hn": "8",
+  "lat": 46.102064,
+  "lng": 7.0742357,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|46b": {
+  "street": "Avenue de la Gare",
+  "hn": "46b",
+  "lat": 46.1044139,
+  "lng": 7.0778936,
+  "mieter": []
+ },
+ "martigny|rue du léman|5": {
+  "street": "Rue du Léman",
+  "hn": "5",
+  "lat": 46.1037599,
+  "lng": 7.0772488,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|19": {
+  "street": "Rue d'Octodure",
+  "hn": "19",
+  "lat": 46.0993745,
+  "lng": 7.0746888,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|31": {
+  "street": "Avenue de la Gare",
+  "hn": "31",
+  "lat": 46.1050726,
+  "lng": 7.0776533,
+  "mieter": [
+   "Librairie Des Livres et Moi"
+  ]
+ },
+ "martigny|avenue de la gare|20": {
+  "street": "Avenue de la Gare",
+  "hn": "20",
+  "lat": 46.1026949,
+  "lng": 7.0751039,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|58": {
+  "street": "Avenue de la Gare",
+  "hn": "58",
+  "lat": 46.1052924,
+  "lng": 7.0788613,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|36": {
+  "street": "Avenue de la Gare",
+  "hn": "36",
+  "lat": 46.10362,
+  "lng": 7.0763074,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|40b": {
+  "street": "Rue d'Octodure",
+  "hn": "40b",
+  "lat": 46.0980077,
+  "lng": 7.0756034,
+  "mieter": []
+ },
+ "martigny|rue de la poste|7": {
+  "street": "Rue de la Poste",
+  "hn": "7",
+  "lat": 46.1028889,
+  "lng": 7.0771812,
+  "mieter": []
+ },
+ "martigny|rue du léman|37": {
+  "street": "Rue du Léman",
+  "hn": "37",
+  "lat": 46.1065637,
+  "lng": 7.0712962,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|42": {
+  "street": "Avenue de la Gare",
+  "hn": "42",
+  "lat": 46.1040246,
+  "lng": 7.0768169,
+  "mieter": []
+ },
+ "martigny|rue du léman|6": {
+  "street": "Rue du Léman",
+  "hn": "6",
+  "lat": 46.1039525,
+  "lng": 7.0776701,
+  "mieter": []
+ },
+ "martigny|rue du léman|31": {
+  "street": "Rue du Léman",
+  "hn": "31",
+  "lat": 46.1055313,
+  "lng": 7.0729179,
+  "mieter": []
+ },
+ "martigny|rue du léman|4": {
+  "street": "Rue du Léman",
+  "hn": "4",
+  "lat": 46.1038264,
+  "lng": 7.0779416,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|6": {
+  "street": "Avenue de la Gare",
+  "hn": "6",
+  "lat": 46.1019848,
+  "lng": 7.0740117,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|11": {
+  "street": "Avenue de la Gare",
+  "hn": "11",
+  "lat": 46.102666,
+  "lng": 7.0744599,
+  "mieter": []
+ },
+ "martigny|rue du léman|61b": {
+  "street": "Rue du Léman",
+  "hn": "61b",
+  "lat": 46.110284,
+  "lng": 7.0638985,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|34": {
+  "street": "Avenue de la Gare",
+  "hn": "34",
+  "lat": 46.1034535,
+  "lng": 7.076026,
+  "mieter": []
+ },
+ "martigny|rue du léman|18a": {
+  "street": "Rue du Léman",
+  "hn": "18a",
+  "lat": 46.1055238,
+  "lng": 7.0751061,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|50": {
+  "street": "Rue d'Octodure",
+  "hn": "50",
+  "lat": 46.0972714,
+  "lng": 7.0751757,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|44": {
+  "street": "Avenue de la Gare",
+  "hn": "44",
+  "lat": 46.1042838,
+  "lng": 7.0771934,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|15": {
+  "street": "Avenue de la Gare",
+  "hn": "15",
+  "lat": 46.1033508,
+  "lng": 7.0747773,
+  "mieter": []
+ },
+ "martigny|rue du léman|13": {
+  "street": "Rue du Léman",
+  "hn": "13",
+  "lat": 46.1043572,
+  "lng": 7.0764931,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|1": {
+  "street": "Rue d'Octodure",
+  "hn": "1",
+  "lat": 46.1000989,
+  "lng": 7.0743299,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|31b": {
+  "street": "Rue d'Octodure",
+  "hn": "31b",
+  "lat": 46.0982024,
+  "lng": 7.076055,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|40a": {
+  "street": "Rue d'Octodure",
+  "hn": "40a",
+  "lat": 46.0981562,
+  "lng": 7.0754247,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|24": {
+  "street": "Avenue de la Gare",
+  "hn": "24",
+  "lat": 46.1029998,
+  "lng": 7.0754344,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|50": {
+  "street": "Avenue de la Gare",
+  "hn": "50",
+  "lat": 46.1047601,
+  "lng": 7.0778116,
+  "mieter": [
+   "Cabinet Dentaire d'Octodure"
+  ]
+ },
+ "martigny|avenue de la gare|3": {
+  "street": "Avenue de la Gare",
+  "hn": "3",
+  "lat": 46.1021321,
+  "lng": 7.0736133,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|15": {
+  "street": "Rue d'Octodure",
+  "hn": "15",
+  "lat": 46.0994977,
+  "lng": 7.0747662,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|26": {
+  "street": "Avenue de la Gare",
+  "hn": "26",
+  "lat": 46.1031183,
+  "lng": 7.0755515,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|5": {
+  "street": "Avenue de la Gare",
+  "hn": "5",
+  "lat": 46.1022636,
+  "lng": 7.0737742,
+  "mieter": []
+ },
+ "martigny|rue du léman|8": {
+  "street": "Rue du Léman",
+  "hn": "8",
+  "lat": 46.1041245,
+  "lng": 7.0774287,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|52": {
+  "street": "Avenue de la Gare",
+  "hn": "52",
+  "lat": 46.1050351,
+  "lng": 7.0782722,
+  "mieter": []
+ },
+ "martigny|rue du léman|29": {
+  "street": "Rue du Léman",
+  "hn": "29",
+  "lat": 46.1054905,
+  "lng": 7.0733775,
+  "mieter": [
+   "Office des poursuites de Martigny Entremont"
+  ]
+ },
+ "martigny|rue de la poste|14": {
+  "street": "Rue de la Poste",
+  "hn": "14",
+  "lat": 46.102757,
+  "lng": 7.0766421,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|20": {
+  "street": "Rue d'Octodure",
+  "hn": "20",
+  "lat": 46.0994041,
+  "lng": 7.074095,
+  "mieter": []
+ },
+ "martigny|rue de la poste|8": {
+  "street": "Rue de la Poste",
+  "hn": "8",
+  "lat": 46.10324,
+  "lng": 7.0760247,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|10": {
+  "street": "Rue d'Octodure",
+  "hn": "10",
+  "lat": 46.0999146,
+  "lng": 7.0738858,
+  "mieter": []
+ },
+ "martigny|rue du léman|22": {
+  "street": "Rue du Léman",
+  "hn": "22",
+  "lat": 46.1062002,
+  "lng": 7.0744946,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|25": {
+  "street": "Avenue de la Gare",
+  "hn": "25",
+  "lat": 46.1041768,
+  "lng": 7.0764877,
+  "mieter": []
+ },
+ "martigny|rue du léman|28": {
+  "street": "Rue du Léman",
+  "hn": "28",
+  "lat": 46.1060045,
+  "lng": 7.0738515,
+  "mieter": [
+   "Les Marronniers"
+  ]
+ },
+ "martigny|rue du léman|26": {
+  "street": "Rue du Léman",
+  "hn": "26",
+  "lat": 46.1058741,
+  "lng": 7.0739373,
+  "mieter": []
+ },
+ "martigny|rue du léman|30": {
+  "street": "Rue du Léman",
+  "hn": "30",
+  "lat": 46.1060595,
+  "lng": 7.0734796,
+  "mieter": []
+ },
+ "martigny|rue du léman|32": {
+  "street": "Rue du Léman",
+  "hn": "32",
+  "lat": 46.1061874,
+  "lng": 7.0731912,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|41": {
+  "street": "Avenue de la Gare",
+  "hn": "41",
+  "lat": 46.1053595,
+  "lng": 7.0781755,
+  "mieter": [
+   "Pizza Kebab Royal"
+  ]
+ },
+ "martigny|rue d'octodure|31c": {
+  "street": "Rue d'Octodure",
+  "hn": "31c",
+  "lat": 46.0981018,
+  "lng": 7.075963,
+  "mieter": []
+ },
+ "martigny|rue du léman|45a": {
+  "street": "Rue du Léman",
+  "hn": "45A",
+  "lat": 46.1090222,
+  "lng": 7.0657217,
+  "mieter": []
+ },
+ "martigny|rue du léman|7": {
+  "street": "Rue du Léman",
+  "hn": "7",
+  "lat": 46.103873,
+  "lng": 7.0771136,
+  "mieter": []
+ },
+ "martigny|rue de la poste|10": {
+  "street": "Rue de la Poste",
+  "hn": "10",
+  "lat": 46.1031062,
+  "lng": 7.0762346,
+  "mieter": []
+ },
+ "martigny|place centrale|5": {
+  "street": "Place Centrale",
+  "hn": "5",
+  "lat": 46.1009727,
+  "lng": 7.0732764,
+  "mieter": []
+ },
+ "martigny|place centrale|7b": {
+  "street": "Place Centrale",
+  "hn": "7b",
+  "lat": 46.1010419,
+  "lng": 7.0729541,
+  "mieter": []
+ },
+ "martigny|place centrale|7": {
+  "street": "Place Centrale",
+  "hn": "7",
+  "lat": 46.1011233,
+  "lng": 7.0730693,
+  "mieter": []
+ },
+ "martigny|place centrale|3": {
+  "street": "Place Centrale",
+  "hn": "3",
+  "lat": 46.1012714,
+  "lng": 7.0732643,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|2": {
+  "street": "Rue d'Octodure",
+  "hn": "2",
+  "lat": 46.1001599,
+  "lng": 7.0740574,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|4": {
+  "street": "Rue d'Octodure",
+  "hn": "4",
+  "lat": 46.1001115,
+  "lng": 7.0741025,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|4b": {
+  "street": "Rue d'Octodure",
+  "hn": "4b",
+  "lat": 46.100035,
+  "lng": 7.07414,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|6": {
+  "street": "Rue d'Octodure",
+  "hn": "6",
+  "lat": 46.0999233,
+  "lng": 7.0742141,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|12b": {
+  "street": "Rue d'Octodure",
+  "hn": "12b",
+  "lat": 46.0998092,
+  "lng": 7.0740629,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|12a": {
+  "street": "Rue d'Octodure",
+  "hn": "12a",
+  "lat": 46.0997505,
+  "lng": 7.0742144,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|16": {
+  "street": "Rue d'Octodure",
+  "hn": "16",
+  "lat": 46.0996269,
+  "lng": 7.0741394,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|14": {
+  "street": "Rue d'Octodure",
+  "hn": "14",
+  "lat": 46.0997057,
+  "lng": 7.0739126,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|3": {
+  "street": "Rue d'Octodure",
+  "hn": "3",
+  "lat": 46.0999786,
+  "lng": 7.0743387,
+  "mieter": []
+ },
+ "martigny|place centrale|9b": {
+  "street": "Place Centrale",
+  "hn": "9b",
+  "lat": 46.100766,
+  "lng": 7.0726334,
+  "mieter": []
+ },
+ "martigny|place centrale|11": {
+  "street": "Place Centrale",
+  "hn": "11",
+  "lat": 46.1008564,
+  "lng": 7.0723859,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|29a": {
+  "street": "Rue d'Octodure",
+  "hn": "29a",
+  "lat": 46.0988362,
+  "lng": 7.0763311,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|29b": {
+  "street": "Rue d'Octodure",
+  "hn": "29b",
+  "lat": 46.0987197,
+  "lng": 7.0764686,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|29c": {
+  "street": "Rue d'Octodure",
+  "hn": "29c",
+  "lat": 46.0986083,
+  "lng": 7.0766,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|27": {
+  "street": "Rue d'Octodure",
+  "hn": "27",
+  "lat": 46.0988111,
+  "lng": 7.0754672,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|25a": {
+  "street": "Rue d'Octodure",
+  "hn": "25a",
+  "lat": 46.0990457,
+  "lng": 7.0753914,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|26": {
+  "street": "Rue d'Octodure",
+  "hn": "26",
+  "lat": 46.0993131,
+  "lng": 7.0745216,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|28": {
+  "street": "Rue d'Octodure",
+  "hn": "28",
+  "lat": 46.0992301,
+  "lng": 7.0745854,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|25b": {
+  "street": "Rue d'Octodure",
+  "hn": "25b",
+  "lat": 46.0992111,
+  "lng": 7.0757975,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|49": {
+  "street": "Avenue de la Gare",
+  "hn": "49",
+  "lat": 46.1057493,
+  "lng": 7.0776975,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|43": {
+  "street": "Avenue de la Gare",
+  "hn": "43",
+  "lat": 46.1054635,
+  "lng": 7.0779816,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|56": {
+  "street": "Avenue de la Gare",
+  "hn": "56",
+  "lat": 46.1050345,
+  "lng": 7.0787997,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|27b": {
+  "street": "Rue d'Octodure",
+  "hn": "27b",
+  "lat": 46.0989715,
+  "lng": 7.075924,
+  "mieter": []
+ },
+ "martigny|rue d'octodure|10a": {
+  "street": "Rue d'Octodure",
+  "hn": "10a",
+  "lat": 46.0998397,
+  "lng": 7.0739674,
+  "mieter": []
+ },
+ "martigny|avenue de la gare|2-6": {
+  "street": "Avenue de la Gare",
+  "hn": "2-6",
+  "lat": 46.1020609,
+  "lng": 7.0744609,
+  "mieter": []
+ }
+}

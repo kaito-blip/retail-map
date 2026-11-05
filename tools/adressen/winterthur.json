@@ -1,0 +1,2175 @@
+{
+ "winterthur|untertor|39": {
+  "street": "Untertor",
+  "hn": "39",
+  "lat": 47.4990282,
+  "lng": 8.7242591,
+  "mieter": [
+   "Adler-Apotheke",
+   "Neuroth",
+   "Plenamed am Bahnhof"
+  ]
+ },
+ "winterthur|marktgasse|3": {
+  "street": "Marktgasse",
+  "hn": "3",
+  "lat": 47.4997847,
+  "lng": 8.7306341,
+  "mieter": [
+   "H&M"
+  ]
+ },
+ "winterthur|marktgasse|49": {
+  "street": "Marktgasse",
+  "hn": "49",
+  "lat": 47.4993787,
+  "lng": 8.7274052,
+  "mieter": [
+   "Bistro La Couronne"
+  ]
+ },
+ "winterthur|stadthausstrasse|20": {
+  "street": "Stadthausstrasse",
+  "hn": "20",
+  "lat": 47.4998045,
+  "lng": 8.7250404,
+  "mieter": [
+   "Vollenweider"
+  ]
+ },
+ "winterthur|steinberggasse|16": {
+  "street": "Steinberggasse",
+  "hn": "16",
+  "lat": 47.4984256,
+  "lng": 8.7292032,
+  "mieter": [
+   "Albani"
+  ]
+ },
+ "winterthur|steinberggasse|59": {
+  "street": "Steinberggasse",
+  "hn": "59",
+  "lat": 47.4979565,
+  "lng": 8.727372,
+  "mieter": [
+   "grepery"
+  ]
+ },
+ "winterthur|stadthausstrasse|24": {
+  "street": "Stadthausstrasse",
+  "hn": "24",
+  "lat": 47.4996979,
+  "lng": 8.7241129,
+  "mieter": [
+   "National"
+  ]
+ },
+ "winterthur|obertor|21": {
+  "street": "Obertor",
+  "hn": "21",
+  "lat": 47.4999063,
+  "lng": 8.7320208,
+  "mieter": [
+   "Istanbul"
+  ]
+ },
+ "winterthur|steinberggasse|65": {
+  "street": "Steinberggasse",
+  "hn": "65",
+  "lat": 47.4982284,
+  "lng": 8.7270102,
+  "mieter": [
+   "Fahrenheit"
+  ]
+ },
+ "winterthur|untertor|24": {
+  "street": "Untertor",
+  "hn": "24",
+  "lat": 47.4993116,
+  "lng": 8.7251937,
+  "mieter": [
+   "Migros Bank"
+  ]
+ },
+ "winterthur|stadthausstrasse|131": {
+  "street": "Stadthausstrasse",
+  "hn": "131",
+  "lat": 47.4996552,
+  "lng": 8.7256243,
+  "mieter": [
+   "Medbase"
+  ]
+ },
+ "winterthur|stadthausstrasse|8": {
+  "street": "Stadthausstrasse",
+  "hn": "8",
+  "lat": 47.5003358,
+  "lng": 8.727246,
+  "mieter": [
+   "Strauss"
+  ]
+ },
+ "winterthur|stadthausstrasse|10": {
+  "street": "Stadthausstrasse",
+  "hn": "10",
+  "lat": 47.5004628,
+  "lng": 8.7268709,
+  "mieter": [
+   "Rosa Pulver"
+  ]
+ },
+ "winterthur|steinberggasse|29": {
+  "street": "Steinberggasse",
+  "hn": "29",
+  "lat": 47.4980808,
+  "lng": 8.7289351,
+  "mieter": [
+   "Gwölb"
+  ]
+ },
+ "winterthur|steinberggasse|2": {
+  "street": "Steinberggasse",
+  "hn": "2",
+  "lat": 47.4983902,
+  "lng": 8.7301298,
+  "mieter": [
+   "Riva"
+  ]
+ },
+ "winterthur|marktgasse|15": {
+  "street": "Marktgasse",
+  "hn": "15",
+  "lat": 47.4996801,
+  "lng": 8.7298391,
+  "mieter": [
+   "Sonne"
+  ]
+ },
+ "winterthur|stadthausstrasse|71": {
+  "street": "Stadthausstrasse",
+  "hn": "71",
+  "lat": 47.500123,
+  "lng": 8.7291699,
+  "mieter": [
+   "La Pergola",
+   "winti vision Medical Center AG"
+  ]
+ },
+ "winterthur|marktgasse|44": {
+  "street": "Marktgasse",
+  "hn": "44",
+  "lat": 47.4997238,
+  "lng": 8.7287787,
+  "mieter": [
+   "Cantinetta Bindella",
+   "Neuropraxis im Haus zum Walfisch"
+  ]
+ },
+ "winterthur|marktgasse|45": {
+  "street": "Marktgasse",
+  "hn": "45",
+  "lat": 47.4994389,
+  "lng": 8.7277569,
+  "mieter": [
+   "Molino"
+  ]
+ },
+ "winterthur|marktgasse|25": {
+  "street": "Marktgasse",
+  "hn": "25",
+  "lat": 47.4995507,
+  "lng": 8.7290261,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|25": {
+  "street": "Steinberggasse",
+  "hn": "25",
+  "lat": 47.4981673,
+  "lng": 8.7291301,
+  "mieter": [
+   "Winti-Kanne"
+  ]
+ },
+ "winterthur|stadthausstrasse|143": {
+  "street": "Stadthausstrasse",
+  "hn": "143",
+  "lat": 47.4995183,
+  "lng": 8.7243814,
+  "mieter": [
+   "Boulevard"
+  ]
+ },
+ "winterthur|stadthausstrasse|135": {
+  "street": "Stadthausstrasse",
+  "hn": "135",
+  "lat": 47.499624,
+  "lng": 8.725323,
+  "mieter": [
+   "Gilgamesh Bar und Lounge"
+  ]
+ },
+ "winterthur|marktgasse|14": {
+  "street": "Marktgasse",
+  "hn": "14",
+  "lat": 47.4998918,
+  "lng": 8.7302101,
+  "mieter": [
+   "Oakberry Açaí bowls"
+  ]
+ },
+ "winterthur|marktgasse|10": {
+  "street": "Marktgasse",
+  "hn": "10",
+  "lat": 47.4999057,
+  "lng": 8.7303382,
+  "mieter": [
+   "Anouk"
+  ]
+ },
+ "winterthur|marktgasse|8": {
+  "street": "Marktgasse",
+  "hn": "8",
+  "lat": 47.4999243,
+  "lng": 8.7304192,
+  "mieter": [
+   "Messer Cozzio"
+  ]
+ },
+ "winterthur|marktgasse|4": {
+  "street": "Marktgasse",
+  "hn": "4",
+  "lat": 47.4999371,
+  "lng": 8.7305896,
+  "mieter": [
+   "Metro Boutique"
+  ]
+ },
+ "winterthur|marktgasse|30": {
+  "street": "Marktgasse",
+  "hn": "30",
+  "lat": 47.4997884,
+  "lng": 8.729399,
+  "mieter": []
+ },
+ "winterthur|marktgasse|18": {
+  "street": "Marktgasse",
+  "hn": "18",
+  "lat": 47.4998743,
+  "lng": 8.7300688,
+  "mieter": [
+   "Mastroiani"
+  ]
+ },
+ "winterthur|marktgasse|16": {
+  "street": "Marktgasse",
+  "hn": "16",
+  "lat": 47.4998883,
+  "lng": 8.7301425,
+  "mieter": [
+   "KochOptik"
+  ]
+ },
+ "winterthur|marktgasse|21": {
+  "street": "Marktgasse",
+  "hn": "21",
+  "lat": 47.4996506,
+  "lng": 8.729528,
+  "mieter": [
+   "Triumph"
+  ]
+ },
+ "winterthur|marktgasse|11": {
+  "street": "Marktgasse",
+  "hn": "11",
+  "lat": 47.4996917,
+  "lng": 8.7300038,
+  "mieter": [
+   "Visilab"
+  ]
+ },
+ "winterthur|marktgasse|9": {
+  "street": "Marktgasse",
+  "hn": "9",
+  "lat": 47.4996976,
+  "lng": 8.7300996,
+  "mieter": [
+   "Sayas"
+  ]
+ },
+ "winterthur|marktgasse|17": {
+  "street": "Marktgasse",
+  "hn": "17",
+  "lat": 47.4996688,
+  "lng": 8.7297334,
+  "mieter": [
+   "Vollenweider"
+  ]
+ },
+ "winterthur|marktgasse|13": {
+  "street": "Marktgasse",
+  "hn": "13",
+  "lat": 47.4996861,
+  "lng": 8.7299153,
+  "mieter": [
+   "Müller"
+  ]
+ },
+ "winterthur|marktgasse|19": {
+  "street": "Marktgasse",
+  "hn": "19",
+  "lat": 47.4996622,
+  "lng": 8.7296567,
+  "mieter": [
+   "Nature First"
+  ]
+ },
+ "winterthur|marktgasse|42": {
+  "street": "Marktgasse",
+  "hn": "42",
+  "lat": 47.4997314,
+  "lng": 8.7288905,
+  "mieter": [
+   "Romer"
+  ]
+ },
+ "winterthur|marktgasse|36": {
+  "street": "Marktgasse",
+  "hn": "36",
+  "lat": 47.4997674,
+  "lng": 8.7291258,
+  "mieter": [
+   "Lush"
+  ]
+ },
+ "winterthur|marktgasse|56": {
+  "street": "Marktgasse",
+  "hn": "56",
+  "lat": 47.4996648,
+  "lng": 8.7282749,
+  "mieter": [
+   "Tchibo",
+   "Child Care Corner"
+  ]
+ },
+ "winterthur|marktgasse|50": {
+  "street": "Marktgasse",
+  "hn": "50",
+  "lat": 47.4996961,
+  "lng": 8.7285055,
+  "mieter": [
+   "Perosa"
+  ]
+ },
+ "winterthur|marktgasse|48": {
+  "street": "Marktgasse",
+  "hn": "48",
+  "lat": 47.499705,
+  "lng": 8.7285898,
+  "mieter": [
+   "Nile"
+  ]
+ },
+ "winterthur|marktgasse|46": {
+  "street": "Marktgasse",
+  "hn": "46",
+  "lat": 47.4997116,
+  "lng": 8.7286733,
+  "mieter": [
+   "Sternen Apotheke",
+   "Praxis Dr. med. Meister Roland"
+  ]
+ },
+ "winterthur|marktgasse|23": {
+  "street": "Marktgasse",
+  "hn": "23",
+  "lat": 47.4996198,
+  "lng": 8.7291983,
+  "mieter": [
+   "magicX"
+  ]
+ },
+ "winterthur|marktgasse|27": {
+  "street": "Marktgasse",
+  "hn": "27",
+  "lat": 47.4995694,
+  "lng": 8.7288584,
+  "mieter": [
+   "Müller"
+  ]
+ },
+ "winterthur|marktgasse|33": {
+  "street": "Marktgasse",
+  "hn": "33",
+  "lat": 47.4995289,
+  "lng": 8.7285751,
+  "mieter": []
+ },
+ "winterthur|marktgasse|31": {
+  "street": "Marktgasse",
+  "hn": "31",
+  "lat": 47.4995463,
+  "lng": 8.7287039,
+  "mieter": [
+   "Flying Tiger Copenhagen"
+  ]
+ },
+ "winterthur|marktgasse|20": {
+  "street": "Marktgasse",
+  "hn": "20",
+  "lat": 47.499999,
+  "lng": 8.7299427,
+  "mieter": [
+   "Rathaus"
+  ]
+ },
+ "winterthur|marktgasse|41": {
+  "street": "Marktgasse",
+  "hn": "41",
+  "lat": 47.4994516,
+  "lng": 8.7279484,
+  "mieter": [
+   "Orell Füssli",
+   "Praxis Dr. Bonabi"
+  ]
+ },
+ "winterthur|marktgasse|62": {
+  "street": "Marktgasse",
+  "hn": "62",
+  "lat": 47.4996314,
+  "lng": 8.7280116,
+  "mieter": [
+   "Calida"
+  ]
+ },
+ "winterthur|marktgasse|70": {
+  "street": "Marktgasse",
+  "hn": "70",
+  "lat": 47.4996109,
+  "lng": 8.7276396,
+  "mieter": [
+   "C&A"
+  ]
+ },
+ "winterthur|marktgasse|66": {
+  "street": "Marktgasse",
+  "hn": "66",
+  "lat": 47.499612,
+  "lng": 8.7278865,
+  "mieter": [
+   "We"
+  ]
+ },
+ "winterthur|marktgasse|51": {
+  "street": "Marktgasse",
+  "hn": "51",
+  "lat": 47.4993971,
+  "lng": 8.7272271,
+  "mieter": [
+   "de HolzofeBeck"
+  ]
+ },
+ "winterthur|marktgasse|57": {
+  "street": "Marktgasse",
+  "hn": "57",
+  "lat": 47.4993465,
+  "lng": 8.7268733,
+  "mieter": [
+   "revendo"
+  ]
+ },
+ "winterthur|marktgasse|59": {
+  "street": "Marktgasse",
+  "hn": "59",
+  "lat": 47.4993312,
+  "lng": 8.7267759,
+  "mieter": [
+   "Zebra"
+  ]
+ },
+ "winterthur|marktgasse|53": {
+  "street": "Marktgasse",
+  "hn": "53",
+  "lat": 47.4993723,
+  "lng": 8.727099,
+  "mieter": [
+   "Keller-Theater",
+   "Ombudsstelle Stadt Winterthur"
+  ]
+ },
+ "winterthur|marktgasse|76": {
+  "street": "Marktgasse",
+  "hn": "76",
+  "lat": 47.4994986,
+  "lng": 8.7269655,
+  "mieter": [
+   "Vero Moda"
+  ]
+ },
+ "winterthur|marktgasse|78": {
+  "street": "Marktgasse",
+  "hn": "78",
+  "lat": 47.4994782,
+  "lng": 8.7268272,
+  "mieter": [
+   "City Style Coiffeur"
+  ]
+ },
+ "winterthur|marktgasse|80": {
+  "street": "Marktgasse",
+  "hn": "80",
+  "lat": 47.4994517,
+  "lng": 8.7266559,
+  "mieter": [
+   "PKZ"
+  ]
+ },
+ "winterthur|untertor|4": {
+  "street": "Untertor",
+  "hn": "4",
+  "lat": 47.4993898,
+  "lng": 8.7261096,
+  "mieter": [
+   "Bonita"
+  ]
+ },
+ "winterthur|untertor|1": {
+  "street": "Untertor",
+  "hn": "1",
+  "lat": 47.4992743,
+  "lng": 8.726177,
+  "mieter": [
+   "Ärztepraxis zum Citronenbaum"
+  ]
+ },
+ "winterthur|untertor|8": {
+  "street": "Untertor",
+  "hn": "8",
+  "lat": 47.4993781,
+  "lng": 8.72591,
+  "mieter": [
+   "budgetcredit.ch"
+  ]
+ },
+ "winterthur|untertor|6": {
+  "street": "Untertor",
+  "hn": "6",
+  "lat": 47.4993871,
+  "lng": 8.7260242,
+  "mieter": []
+ },
+ "winterthur|untertor|18": {
+  "street": "Untertor",
+  "hn": "18",
+  "lat": 47.499338,
+  "lng": 8.7254731,
+  "mieter": []
+ },
+ "winterthur|untertor|16": {
+  "street": "Untertor",
+  "hn": "16",
+  "lat": 47.4993407,
+  "lng": 8.7255592,
+  "mieter": [
+   "Swarovski"
+  ]
+ },
+ "winterthur|untertor|14": {
+  "street": "Untertor",
+  "hn": "14",
+  "lat": 47.4993456,
+  "lng": 8.7256366,
+  "mieter": [
+   "Zino Cigares"
+  ]
+ },
+ "winterthur|untertor|12": {
+  "street": "Untertor",
+  "hn": "12",
+  "lat": 47.4993508,
+  "lng": 8.7257146,
+  "mieter": [
+   "Salt"
+  ]
+ },
+ "winterthur|untertor|10": {
+  "street": "Untertor",
+  "hn": "10",
+  "lat": 47.4993608,
+  "lng": 8.7258136,
+  "mieter": [
+   "Botty"
+  ]
+ },
+ "winterthur|untertor|28": {
+  "street": "Untertor",
+  "hn": "28",
+  "lat": 47.4993251,
+  "lng": 8.7250442,
+  "mieter": [
+   "Marc O'Polo"
+  ]
+ },
+ "winterthur|untertor|22": {
+  "street": "Untertor",
+  "hn": "22",
+  "lat": 47.4993214,
+  "lng": 8.7253224,
+  "mieter": [
+   "Snipes"
+  ]
+ },
+ "winterthur|untertor|20": {
+  "street": "Untertor",
+  "hn": "20",
+  "lat": 47.4993313,
+  "lng": 8.7254033,
+  "mieter": [
+   "Import Parfumerie"
+  ]
+ },
+ "winterthur|untertor|19": {
+  "street": "Untertor",
+  "hn": "19",
+  "lat": 47.4991558,
+  "lng": 8.7253547,
+  "mieter": [
+   "Walder"
+  ]
+ },
+ "winterthur|untertor|21": {
+  "street": "Untertor",
+  "hn": "21",
+  "lat": 47.4991396,
+  "lng": 8.7252546,
+  "mieter": [
+   "Orinad",
+   "Globetrotter"
+  ]
+ },
+ "winterthur|untertor|13": {
+  "street": "Untertor",
+  "hn": "13",
+  "lat": 47.4991666,
+  "lng": 8.7255667,
+  "mieter": [
+   "Mobilezone"
+  ]
+ },
+ "winterthur|untertor|11": {
+  "street": "Untertor",
+  "hn": "11",
+  "lat": 47.4991743,
+  "lng": 8.7256352,
+  "mieter": [
+   "WE"
+  ]
+ },
+ "winterthur|untertor|23": {
+  "street": "Untertor",
+  "hn": "23",
+  "lat": 47.4991383,
+  "lng": 8.7251561,
+  "mieter": [
+   "Dosenbach"
+  ]
+ },
+ "winterthur|untertor|7": {
+  "street": "Untertor",
+  "hn": "7",
+  "lat": 47.4991858,
+  "lng": 8.7258374,
+  "mieter": [
+   "Papeterie Schoch"
+  ]
+ },
+ "winterthur|untertor|37": {
+  "street": "Untertor",
+  "hn": "37",
+  "lat": 47.4990978,
+  "lng": 8.7245983,
+  "mieter": [
+   "Marionnaud"
+  ]
+ },
+ "winterthur|stadthausstrasse|95": {
+  "street": "Stadthausstrasse",
+  "hn": "95",
+  "lat": 47.5000174,
+  "lng": 8.7280869,
+  "mieter": [
+   "Happy Fruit"
+  ]
+ },
+ "winterthur|stadthausstrasse|101": {
+  "street": "Stadthausstrasse",
+  "hn": "101",
+  "lat": 47.499971,
+  "lng": 8.7278316,
+  "mieter": [
+   "Laurus Damenmode"
+  ]
+ },
+ "winterthur|stadthausstrasse|121": {
+  "street": "Stadthausstrasse",
+  "hn": "121",
+  "lat": 47.4997184,
+  "lng": 8.7261232,
+  "mieter": [
+   "Locanda Trivisiano"
+  ]
+ },
+ "winterthur|stadthausstrasse|117": {
+  "street": "Stadthausstrasse",
+  "hn": "117",
+  "lat": 47.4998257,
+  "lng": 8.7268627,
+  "mieter": [
+   "Vero Moda"
+  ]
+ },
+ "winterthur|stadthausstrasse|115": {
+  "street": "Stadthausstrasse",
+  "hn": "115",
+  "lat": 47.4998419,
+  "lng": 8.7269601,
+  "mieter": [
+   "Murad Coiffeur"
+  ]
+ },
+ "winterthur|stadthausstrasse|113": {
+  "street": "Stadthausstrasse",
+  "hn": "113",
+  "lat": 47.4998857,
+  "lng": 8.727144,
+  "mieter": [
+   "Muffhaushalt"
+  ]
+ },
+ "winterthur|stadthausstrasse|111": {
+  "street": "Stadthausstrasse",
+  "hn": "111",
+  "lat": 47.4999327,
+  "lng": 8.7273842,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|137": {
+  "street": "Stadthausstrasse",
+  "hn": "137",
+  "lat": 47.499606,
+  "lng": 8.7251847,
+  "mieter": [
+   "Royal Döner"
+  ]
+ },
+ "winterthur|stadthausstrasse|133": {
+  "street": "Stadthausstrasse",
+  "hn": "133",
+  "lat": 47.4996435,
+  "lng": 8.725487,
+  "mieter": [
+   "Swizz Green"
+  ]
+ },
+ "winterthur|stadthausstrasse|145": {
+  "street": "Stadthausstrasse",
+  "hn": "145",
+  "lat": 47.4994989,
+  "lng": 8.7242346,
+  "mieter": [
+   "Cachet"
+  ]
+ },
+ "winterthur|stadthausstrasse|12a": {
+  "street": "Stadthausstrasse",
+  "hn": "12a",
+  "lat": 47.5002109,
+  "lng": 8.7270314,
+  "mieter": [
+   "Gerry Weber"
+  ]
+ },
+ "winterthur|stadthausstrasse|12b": {
+  "street": "Stadthausstrasse",
+  "hn": "12b",
+  "lat": 47.5003113,
+  "lng": 8.7269486,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|14": {
+  "street": "Stadthausstrasse",
+  "hn": "14",
+  "lat": 47.500005,
+  "lng": 8.7263829,
+  "mieter": [
+   "Swisscom",
+   "Bank-now",
+   "AFRY Schweiz AG"
+  ]
+ },
+ "winterthur|stadthausstrasse|83": {
+  "street": "Stadthausstrasse",
+  "hn": "83",
+  "lat": 47.5000603,
+  "lng": 8.7285738,
+  "mieter": [
+   "LoiMy"
+  ]
+ },
+ "winterthur|stadthausstrasse|81": {
+  "street": "Stadthausstrasse",
+  "hn": "81",
+  "lat": 47.5000686,
+  "lng": 8.728679,
+  "mieter": [
+   "LoiMy Bubble Tea"
+  ]
+ },
+ "winterthur|stadthausstrasse|79": {
+  "street": "Stadthausstrasse",
+  "hn": "79",
+  "lat": 47.500081,
+  "lng": 8.7287769,
+  "mieter": [
+   "vom Fass"
+  ]
+ },
+ "winterthur|stadthausstrasse|77": {
+  "street": "Stadthausstrasse",
+  "hn": "77",
+  "lat": 47.5000901,
+  "lng": 8.7288563,
+  "mieter": [
+   "Beyond Beauty"
+  ]
+ },
+ "winterthur|stadthausstrasse|93": {
+  "street": "Stadthausstrasse",
+  "hn": "93",
+  "lat": 47.5000078,
+  "lng": 8.7281692,
+  "mieter": [
+   "Ullrich Passion for Liquids"
+  ]
+ },
+ "winterthur|stadthausstrasse|89": {
+  "street": "Stadthausstrasse",
+  "hn": "89",
+  "lat": 47.5000221,
+  "lng": 8.7283206,
+  "mieter": [
+   "Rhomberg"
+  ]
+ },
+ "winterthur|stadthausstrasse|87": {
+  "street": "Stadthausstrasse",
+  "hn": "87",
+  "lat": 47.5000381,
+  "lng": 8.7284083,
+  "mieter": [
+   "Mode Boutique"
+  ]
+ },
+ "winterthur|stadthausstrasse|59": {
+  "street": "Stadthausstrasse",
+  "hn": "59",
+  "lat": 47.5001844,
+  "lng": 8.7296922,
+  "mieter": [
+   "Oliver Pasetto Goldschmiede"
+  ]
+ },
+ "winterthur|stadthausstrasse|65": {
+  "street": "Stadthausstrasse",
+  "hn": "65",
+  "lat": 47.5001529,
+  "lng": 8.7294091,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|51": {
+  "street": "Stadthausstrasse",
+  "hn": "51",
+  "lat": 47.5002278,
+  "lng": 8.7301742,
+  "mieter": [
+   "Amsel Werk"
+  ]
+ },
+ "winterthur|stadthausstrasse|41": {
+  "street": "Stadthausstrasse",
+  "hn": "41",
+  "lat": 47.5002708,
+  "lng": 8.7306158,
+  "mieter": [
+   "Audika"
+  ]
+ },
+ "winterthur|stadthausstrasse|12": {
+  "street": "Stadthausstrasse",
+  "hn": "12",
+  "lat": 47.5001026,
+  "lng": 8.7270526,
+  "mieter": [
+   "Kuoni",
+   "Notariate, Grundbuchämter",
+   "Villa Duchessa",
+   "Praxis Delfin"
+  ]
+ },
+ "winterthur|steinberggasse|19": {
+  "street": "Steinberggasse",
+  "hn": "19",
+  "lat": 47.4981775,
+  "lng": 8.7293739,
+  "mieter": [
+   "Haarscharf"
+  ]
+ },
+ "winterthur|steinberggasse|17": {
+  "street": "Steinberggasse",
+  "hn": "17",
+  "lat": 47.4981795,
+  "lng": 8.72946,
+  "mieter": [
+   "Snips"
+  ]
+ },
+ "winterthur|steinberggasse|15": {
+  "street": "Steinberggasse",
+  "hn": "15",
+  "lat": 47.4981877,
+  "lng": 8.7295517,
+  "mieter": [
+   "Idylle"
+  ]
+ },
+ "winterthur|steinberggasse|21": {
+  "street": "Steinberggasse",
+  "hn": "21",
+  "lat": 47.4981741,
+  "lng": 8.7292903,
+  "mieter": [
+   "Tearoom Teekult"
+  ]
+ },
+ "winterthur|steinberggasse|23": {
+  "street": "Steinberggasse",
+  "hn": "23",
+  "lat": 47.4981698,
+  "lng": 8.7292096,
+  "mieter": [
+   "MSM",
+   "Löffelhase"
+  ]
+ },
+ "winterthur|steinberggasse|7": {
+  "street": "Steinberggasse",
+  "hn": "7",
+  "lat": 47.4982317,
+  "lng": 8.730038,
+  "mieter": [
+   "CinCin"
+  ]
+ },
+ "winterthur|steinberggasse|20": {
+  "street": "Steinberggasse",
+  "hn": "20",
+  "lat": 47.4984133,
+  "lng": 8.7290243,
+  "mieter": [
+   "glanz secondhand"
+  ]
+ },
+ "winterthur|steinberggasse|24": {
+  "street": "Steinberggasse",
+  "hn": "24",
+  "lat": 47.4984079,
+  "lng": 8.7288259,
+  "mieter": [
+   "Insieme"
+  ]
+ },
+ "winterthur|steinberggasse|27": {
+  "street": "Steinberggasse",
+  "hn": "27",
+  "lat": 47.4981652,
+  "lng": 8.7290406,
+  "mieter": [
+   "Blond"
+  ]
+ },
+ "winterthur|steinberggasse|8": {
+  "street": "Steinberggasse",
+  "hn": "8",
+  "lat": 47.4984065,
+  "lng": 8.72978,
+  "mieter": [
+   "Hej Lani"
+  ]
+ },
+ "winterthur|steinberggasse|6": {
+  "street": "Steinberggasse",
+  "hn": "6",
+  "lat": 47.4984053,
+  "lng": 8.7298385,
+  "mieter": [
+   "Mink Polsterwerkstatt"
+  ]
+ },
+ "winterthur|steinberggasse|4": {
+  "street": "Steinberggasse",
+  "hn": "4",
+  "lat": 47.4984058,
+  "lng": 8.7299338,
+  "mieter": [
+   "Hut Art"
+  ]
+ },
+ "winterthur|steinberggasse|12": {
+  "street": "Steinberggasse",
+  "hn": "12",
+  "lat": 47.4984302,
+  "lng": 8.7294116,
+  "mieter": [
+   "Bolli Textilwaren AG"
+  ]
+ },
+ "winterthur|steinberggasse|18": {
+  "street": "Steinberggasse",
+  "hn": "18",
+  "lat": 47.4984205,
+  "lng": 8.7291183,
+  "mieter": [
+   "Claro Weltladen"
+  ]
+ },
+ "winterthur|steinberggasse|10": {
+  "street": "Steinberggasse",
+  "hn": "10",
+  "lat": 47.4984133,
+  "lng": 8.7297147,
+  "mieter": [
+   "City Nr. 1"
+  ]
+ },
+ "winterthur|steinberggasse|33": {
+  "street": "Steinberggasse",
+  "hn": "33",
+  "lat": 47.4981568,
+  "lng": 8.7287304,
+  "mieter": [
+   "Nünlist"
+  ]
+ },
+ "winterthur|steinberggasse|26": {
+  "street": "Steinberggasse",
+  "hn": "26",
+  "lat": 47.4983744,
+  "lng": 8.7282627,
+  "mieter": [
+   "Silberkeller"
+  ]
+ },
+ "winterthur|steinberggasse|35": {
+  "street": "Steinberggasse",
+  "hn": "35",
+  "lat": 47.4981543,
+  "lng": 8.7286554,
+  "mieter": [
+   "Pain et Fromage"
+  ]
+ },
+ "winterthur|steinberggasse|37": {
+  "street": "Steinberggasse",
+  "hn": "37",
+  "lat": 47.4981539,
+  "lng": 8.7285654,
+  "mieter": [
+   "Design-Decor"
+  ]
+ },
+ "winterthur|steinberggasse|41": {
+  "street": "Steinberggasse",
+  "hn": "41",
+  "lat": 47.4981525,
+  "lng": 8.7283708,
+  "mieter": [
+   "Ladenglück"
+  ]
+ },
+ "winterthur|steinberggasse|49": {
+  "street": "Steinberggasse",
+  "hn": "49",
+  "lat": 47.4980646,
+  "lng": 8.727876,
+  "mieter": [
+   "Sissi"
+  ]
+ },
+ "winterthur|steinberggasse|53": {
+  "street": "Steinberggasse",
+  "hn": "53",
+  "lat": 47.4980784,
+  "lng": 8.727695,
+  "mieter": [
+   "Hako"
+  ]
+ },
+ "winterthur|steinberggasse|52": {
+  "street": "Steinberggasse",
+  "hn": "52",
+  "lat": 47.4983001,
+  "lng": 8.7275071,
+  "mieter": [
+   "Jugglux"
+  ]
+ },
+ "winterthur|steinberggasse|61": {
+  "street": "Steinberggasse",
+  "hn": "61",
+  "lat": 47.4981572,
+  "lng": 8.7272919,
+  "mieter": [
+   "Teehaus Winterthur"
+  ]
+ },
+ "winterthur|steinberggasse|54": {
+  "street": "Steinberggasse",
+  "hn": "54",
+  "lat": 47.4983539,
+  "lng": 8.7272327,
+  "mieter": [
+   "Caritas"
+  ]
+ },
+ "winterthur|steinberggasse|67": {
+  "street": "Steinberggasse",
+  "hn": "67",
+  "lat": 47.498256,
+  "lng": 8.7269413,
+  "mieter": [
+   "Lockefeller"
+  ]
+ },
+ "winterthur|steinberggasse|63b": {
+  "street": "Steinberggasse",
+  "hn": "63b",
+  "lat": 47.4980847,
+  "lng": 8.7269199,
+  "mieter": []
+ },
+ "winterthur|obertor|2": {
+  "street": "Obertor",
+  "hn": "2",
+  "lat": 47.5002109,
+  "lng": 8.7331979,
+  "mieter": [
+   "Engel & Völkers"
+  ]
+ },
+ "winterthur|untertor|2": {
+  "street": "Untertor",
+  "hn": "2",
+  "lat": 47.4994601,
+  "lng": 8.7262608,
+  "mieter": [
+   "DQ Solutions"
+  ]
+ },
+ "winterthur|stadthausstrasse|105": {
+  "street": "Stadthausstrasse",
+  "hn": "105",
+  "lat": 47.4999477,
+  "lng": 8.7275781,
+  "mieter": [
+   "C&A"
+  ]
+ },
+ "winterthur|obertor|14": {
+  "street": "Obertor",
+  "hn": "14",
+  "lat": 47.5001631,
+  "lng": 8.7326816,
+  "mieter": [
+   "Scorpio",
+   "Akompa"
+  ]
+ },
+ "winterthur|untertor|3": {
+  "street": "Untertor",
+  "hn": "3",
+  "lat": 47.4992625,
+  "lng": 8.7260741,
+  "mieter": [
+   "Sunrise",
+   "Cinnamood"
+  ]
+ },
+ "winterthur|obertor|16": {
+  "street": "Obertor",
+  "hn": "16",
+  "lat": 47.5001532,
+  "lng": 8.7325761,
+  "mieter": [
+   "Schmuck Oase"
+  ]
+ },
+ "winterthur|obertor|44": {
+  "street": "Obertor",
+  "hn": "44",
+  "lat": 47.5000576,
+  "lng": 8.7314601,
+  "mieter": [
+   "Baumann"
+  ]
+ },
+ "winterthur|untertor|17": {
+  "street": "Untertor",
+  "hn": "17",
+  "lat": 47.4991621,
+  "lng": 8.7254891,
+  "mieter": [
+   "Chîcorée"
+  ]
+ },
+ "winterthur|obertor|37": {
+  "street": "Obertor",
+  "hn": "37",
+  "lat": 47.4999012,
+  "lng": 8.7314037,
+  "mieter": [
+   "Inspire Nails & Beauty"
+  ]
+ },
+ "winterthur|marktgasse|61": {
+  "street": "Marktgasse",
+  "hn": "61",
+  "lat": 47.49933,
+  "lng": 8.7266872,
+  "mieter": [
+   "Brasserie Reh"
+  ]
+ },
+ "winterthur|stadthausstrasse|57": {
+  "street": "Stadthausstrasse",
+  "hn": "57",
+  "lat": 47.5001972,
+  "lng": 8.7298987,
+  "mieter": [
+   "Antiquariat und Galerie im Rathausdurchgang",
+   "knecht reisen"
+  ]
+ },
+ "winterthur|stadthausstrasse|97": {
+  "street": "Stadthausstrasse",
+  "hn": "97",
+  "lat": 47.5000011,
+  "lng": 8.7280063,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|31": {
+  "street": "Stadthausstrasse",
+  "hn": "31",
+  "lat": 47.5001167,
+  "lng": 8.73193,
+  "mieter": [
+   "Migros"
+  ]
+ },
+ "winterthur|obertor|26": {
+  "street": "Obertor",
+  "hn": "26",
+  "lat": 47.500098,
+  "lng": 8.7320684,
+  "mieter": [
+   "Samina Schlafsysteme",
+   "Fontis"
+  ]
+ },
+ "winterthur|obertor|6": {
+  "street": "Obertor",
+  "hn": "6",
+  "lat": 47.5001837,
+  "lng": 8.7330418,
+  "mieter": [
+   "Nähatelier Müller",
+   "doode Coffee World"
+  ]
+ },
+ "winterthur|obertor|31": {
+  "street": "Obertor",
+  "hn": "31",
+  "lat": 47.4999048,
+  "lng": 8.731655,
+  "mieter": [
+   "Coiffeur Newroz"
+  ]
+ },
+ "winterthur|obertor|33": {
+  "street": "Obertor",
+  "hn": "33",
+  "lat": 47.4999084,
+  "lng": 8.7315701,
+  "mieter": [
+   "Winti Handy Laden"
+  ]
+ },
+ "winterthur|steinberggasse|1": {
+  "street": "Steinberggasse",
+  "hn": "1",
+  "lat": 47.4982552,
+  "lng": 8.7301929,
+  "mieter": [
+   "Galati & The Gang"
+  ]
+ },
+ "winterthur|marktgasse|22": {
+  "street": "Marktgasse",
+  "hn": "22",
+  "lat": 47.4998421,
+  "lng": 8.7297787,
+  "mieter": [
+   "Peterhans"
+  ]
+ },
+ "winterthur|marktgasse|24": {
+  "street": "Marktgasse",
+  "hn": "24",
+  "lat": 47.4998279,
+  "lng": 8.7296619,
+  "mieter": [
+   "Peterhans"
+  ]
+ },
+ "winterthur|marktgasse|1": {
+  "street": "Marktgasse",
+  "hn": "1",
+  "lat": 47.4998234,
+  "lng": 8.7308762,
+  "mieter": [
+   "mit&ohne"
+  ]
+ },
+ "winterthur|untertor|34": {
+  "street": "Untertor",
+  "hn": "34",
+  "lat": 47.499265,
+  "lng": 8.7241683,
+  "mieter": [
+   "Kuhn"
+  ]
+ },
+ "winterthur|obertor|19": {
+  "street": "Obertor",
+  "hn": "19",
+  "lat": 47.4999175,
+  "lng": 8.7320625,
+  "mieter": [
+   "ModeTor"
+  ]
+ },
+ "winterthur|obertor|3": {
+  "street": "Obertor",
+  "hn": "3",
+  "lat": 47.4999913,
+  "lng": 8.7331177,
+  "mieter": [
+   "Glückstheorie"
+  ]
+ },
+ "winterthur|untertor|33": {
+  "street": "Untertor",
+  "hn": "33",
+  "lat": 47.4991094,
+  "lng": 8.724715,
+  "mieter": [
+   "Burger King"
+  ]
+ },
+ "winterthur|steinberggasse|22": {
+  "street": "Steinberggasse",
+  "hn": "22",
+  "lat": 47.4984107,
+  "lng": 8.7289311,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|45": {
+  "street": "Steinberggasse",
+  "hn": "45",
+  "lat": 47.4981505,
+  "lng": 8.728211,
+  "mieter": [
+   "Mixtu"
+  ]
+ },
+ "winterthur|stadthausstrasse|21": {
+  "street": "Stadthausstrasse",
+  "hn": "21",
+  "lat": 47.5004312,
+  "lng": 8.7322394,
+  "mieter": [
+   "BFS Schulhaus Obertor"
+  ]
+ },
+ "winterthur|obertor|22": {
+  "street": "Obertor",
+  "hn": "22",
+  "lat": 47.5001072,
+  "lng": 8.7323085,
+  "mieter": [
+   "Schuh Wehrli"
+  ]
+ },
+ "winterthur|obertor|8": {
+  "street": "Obertor",
+  "hn": "8",
+  "lat": 47.5001534,
+  "lng": 8.7328891,
+  "mieter": [
+   "Kinderpraxis Obertor"
+  ]
+ },
+ "winterthur|stadthausstrasse|127": {
+  "street": "Stadthausstrasse",
+  "hn": "127",
+  "lat": 47.499669,
+  "lng": 8.7257483,
+  "mieter": [
+   "freie Maturitätsschule Winterthur"
+  ]
+ },
+ "winterthur|stadthausstrasse|103": {
+  "street": "Stadthausstrasse",
+  "hn": "103",
+  "lat": 47.499968,
+  "lng": 8.7277626,
+  "mieter": [
+   "Hörhaus Anderson",
+   "Cevi Region Winterthur-Schaffhausen"
+  ]
+ },
+ "winterthur|marktgasse|38": {
+  "street": "Marktgasse",
+  "hn": "38",
+  "lat": 47.4997553,
+  "lng": 8.7290416,
+  "mieter": [
+   "Blue Tomato"
+  ]
+ },
+ "winterthur|marktgasse|32": {
+  "street": "Marktgasse",
+  "hn": "32",
+  "lat": 47.4997623,
+  "lng": 8.7292235,
+  "mieter": [
+   "Fashion Stylers"
+  ]
+ },
+ "winterthur|marktgasse|5": {
+  "street": "Marktgasse",
+  "hn": "5",
+  "lat": 47.4997859,
+  "lng": 8.7304641,
+  "mieter": []
+ },
+ "winterthur|marktgasse|7": {
+  "street": "Marktgasse",
+  "hn": "7",
+  "lat": 47.4996988,
+  "lng": 8.730184,
+  "mieter": [
+   "Migrolino"
+  ]
+ },
+ "winterthur|marktgasse|34": {
+  "street": "Marktgasse",
+  "hn": "34",
+  "lat": 47.4998991,
+  "lng": 8.7292345,
+  "mieter": [
+   "2nd Skin"
+  ]
+ },
+ "winterthur|stadthausstrasse|10b": {
+  "street": "Stadthausstrasse",
+  "hn": "10b",
+  "lat": 47.5007543,
+  "lng": 8.726594,
+  "mieter": [
+   "Nuu's Thai Restaurant"
+  ]
+ },
+ "winterthur|obertor|1": {
+  "street": "Obertor",
+  "hn": "1",
+  "lat": 47.4999974,
+  "lng": 8.7332935,
+  "mieter": [
+   "Praxis Römerhof"
+  ]
+ },
+ "winterthur|marktgasse|52": {
+  "street": "Marktgasse",
+  "hn": "52",
+  "lat": 47.4996861,
+  "lng": 8.7284221,
+  "mieter": [
+   "Street One"
+  ]
+ },
+ "winterthur|marktgasse|12": {
+  "street": "Marktgasse",
+  "hn": "12",
+  "lat": 47.4998973,
+  "lng": 8.7302785,
+  "mieter": [
+   "Läckerli Huus"
+  ]
+ },
+ "winterthur|untertor|32": {
+  "street": "Untertor",
+  "hn": "32",
+  "lat": 47.4992527,
+  "lng": 8.724359,
+  "mieter": [
+   "Bayard Co Ltd"
+  ]
+ },
+ "winterthur|untertor|9": {
+  "street": "Untertor",
+  "hn": "9",
+  "lat": 47.4991843,
+  "lng": 8.7257461,
+  "mieter": []
+ },
+ "winterthur|untertor|27": {
+  "street": "Untertor",
+  "hn": "27",
+  "lat": 47.4991348,
+  "lng": 8.7250277,
+  "mieter": [
+   "Valiant"
+  ]
+ },
+ "winterthur|marktgasse|55": {
+  "street": "Marktgasse",
+  "hn": "55",
+  "lat": 47.4993594,
+  "lng": 8.7269693,
+  "mieter": [
+   "Jumi"
+  ]
+ },
+ "winterthur|marktgasse|37a": {
+  "street": "Marktgasse",
+  "hn": "37a",
+  "lat": 47.4995056,
+  "lng": 8.7283165,
+  "mieter": [
+   "Starbucks"
+  ]
+ },
+ "winterthur|obertor|27": {
+  "street": "Obertor",
+  "hn": "27",
+  "lat": 47.4999092,
+  "lng": 8.7317937,
+  "mieter": [
+   "Sumak Sumak"
+  ]
+ },
+ "winterthur|obertor|17": {
+  "street": "Obertor",
+  "hn": "17",
+  "lat": 47.4999153,
+  "lng": 8.7322481,
+  "mieter": [
+   "Staatsanwaltschaft Winterthur/Unterland"
+  ]
+ },
+ "winterthur|stadthausstrasse|19": {
+  "street": "Stadthausstrasse",
+  "hn": "19",
+  "lat": 47.5004377,
+  "lng": 8.7324123,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|43": {
+  "street": "Stadthausstrasse",
+  "hn": "43",
+  "lat": 47.500258,
+  "lng": 8.7304976,
+  "mieter": [
+   "IKEA"
+  ]
+ },
+ "winterthur|untertor|25": {
+  "street": "Untertor",
+  "hn": "25",
+  "lat": 47.4991638,
+  "lng": 8.7251052,
+  "mieter": []
+ },
+ "winterthur|marktgasse|39a": {
+  "street": "Marktgasse",
+  "hn": "39a",
+  "lat": 47.4995074,
+  "lng": 8.7281475,
+  "mieter": []
+ },
+ "winterthur|marktgasse|37": {
+  "street": "Marktgasse",
+  "hn": "37",
+  "lat": 47.4993663,
+  "lng": 8.7283182,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|139": {
+  "street": "Stadthausstrasse",
+  "hn": "139",
+  "lat": 47.4996189,
+  "lng": 8.7250604,
+  "mieter": []
+ },
+ "winterthur|marktgasse|47a": {
+  "street": "Marktgasse",
+  "hn": "47a",
+  "lat": 47.4994576,
+  "lng": 8.7276107,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|11": {
+  "street": "Stadthausstrasse",
+  "hn": "11",
+  "lat": 47.5003993,
+  "lng": 8.7329859,
+  "mieter": [
+   "Beauty Reflection by Jaaciel"
+  ]
+ },
+ "winterthur|obertor|9": {
+  "street": "Obertor",
+  "hn": "9",
+  "lat": 47.4999716,
+  "lng": 8.7326142,
+  "mieter": [
+   "Herz an Herz"
+  ]
+ },
+ "winterthur|stadthausstrasse|75": {
+  "street": "Stadthausstrasse",
+  "hn": "75",
+  "lat": 47.500045,
+  "lng": 8.7290125,
+  "mieter": [
+   "Gynomed"
+  ]
+ },
+ "winterthur|stadthausstrasse|39": {
+  "street": "Stadthausstrasse",
+  "hn": "39",
+  "lat": 47.5003583,
+  "lng": 8.7313099,
+  "mieter": [
+   "Institut Kinderseele Schweiz"
+  ]
+ },
+ "winterthur|obertor|4": {
+  "street": "Obertor",
+  "hn": "4",
+  "lat": 47.5001804,
+  "lng": 8.7331151,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|4a": {
+  "street": "Stadthausstrasse",
+  "hn": "4a",
+  "lat": 47.5009945,
+  "lng": 8.7313983,
+  "mieter": [
+   "Stadthaus"
+  ]
+ },
+ "winterthur|stadthausstrasse|6": {
+  "street": "Stadthausstrasse",
+  "hn": "6",
+  "lat": 47.5004872,
+  "lng": 8.7290044,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|4": {
+  "street": "Stadthausstrasse",
+  "hn": "4",
+  "lat": 47.5009976,
+  "lng": 8.7326694,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|22": {
+  "street": "Stadthausstrasse",
+  "hn": "22",
+  "lat": 47.4997813,
+  "lng": 8.7246426,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|47": {
+  "street": "Steinberggasse",
+  "hn": "47",
+  "lat": 47.4980873,
+  "lng": 8.7281355,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|43": {
+  "street": "Steinberggasse",
+  "hn": "43",
+  "lat": 47.4980898,
+  "lng": 8.7282878,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|8b": {
+  "street": "Stadthausstrasse",
+  "hn": "8b",
+  "lat": 47.5006359,
+  "lng": 8.7271493,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|8a": {
+  "street": "Stadthausstrasse",
+  "hn": "8a",
+  "lat": 47.5005947,
+  "lng": 8.7273048,
+  "mieter": []
+ },
+ "winterthur|obertor|35": {
+  "street": "Obertor",
+  "hn": "35",
+  "lat": 47.4997678,
+  "lng": 8.7315174,
+  "mieter": []
+ },
+ "winterthur|obertor|25": {
+  "street": "Obertor",
+  "hn": "25",
+  "lat": 47.4998338,
+  "lng": 8.7318626,
+  "mieter": []
+ },
+ "winterthur|obertor|29": {
+  "street": "Obertor",
+  "hn": "29",
+  "lat": 47.4998284,
+  "lng": 8.73174,
+  "mieter": []
+ },
+ "winterthur|obertor|42": {
+  "street": "Obertor",
+  "hn": "42",
+  "lat": 47.5001116,
+  "lng": 8.7315041,
+  "mieter": []
+ },
+ "winterthur|obertor|23a": {
+  "street": "Obertor",
+  "hn": "23a",
+  "lat": 47.4996939,
+  "lng": 8.7319443,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|35": {
+  "street": "Stadthausstrasse",
+  "hn": "35",
+  "lat": 47.5003323,
+  "lng": 8.731594,
+  "mieter": []
+ },
+ "winterthur|obertor|17a": {
+  "street": "Obertor",
+  "hn": "17a",
+  "lat": 47.4995849,
+  "lng": 8.7322389,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|37": {
+  "street": "Stadthausstrasse",
+  "hn": "37",
+  "lat": 47.5003162,
+  "lng": 8.7315177,
+  "mieter": []
+ },
+ "winterthur|obertor|40": {
+  "street": "Obertor",
+  "hn": "40",
+  "lat": 47.5001393,
+  "lng": 8.7315661,
+  "mieter": []
+ },
+ "winterthur|obertor|9a": {
+  "street": "Obertor",
+  "hn": "9a",
+  "lat": 47.4999228,
+  "lng": 8.7327117,
+  "mieter": []
+ },
+ "winterthur|obertor|38": {
+  "street": "Obertor",
+  "hn": "38",
+  "lat": 47.5001284,
+  "lng": 8.7316555,
+  "mieter": []
+ },
+ "winterthur|obertor|13": {
+  "street": "Obertor",
+  "hn": "13",
+  "lat": 47.4999071,
+  "lng": 8.7324298,
+  "mieter": []
+ },
+ "winterthur|obertor|11": {
+  "street": "Obertor",
+  "hn": "11",
+  "lat": 47.4999131,
+  "lng": 8.7325166,
+  "mieter": []
+ },
+ "winterthur|obertor|15": {
+  "street": "Obertor",
+  "hn": "15",
+  "lat": 47.4995666,
+  "lng": 8.7323978,
+  "mieter": []
+ },
+ "winterthur|obertor|23": {
+  "street": "Obertor",
+  "hn": "23",
+  "lat": 47.4998695,
+  "lng": 8.7319307,
+  "mieter": []
+ },
+ "winterthur|obertor|46": {
+  "street": "Obertor",
+  "hn": "46",
+  "lat": 47.5001048,
+  "lng": 8.7313719,
+  "mieter": []
+ },
+ "winterthur|obertor|32": {
+  "street": "Obertor",
+  "hn": "32",
+  "lat": 47.5001351,
+  "lng": 8.73186,
+  "mieter": []
+ },
+ "winterthur|untertor|30": {
+  "street": "Untertor",
+  "hn": "30",
+  "lat": 47.4994131,
+  "lng": 8.7246727,
+  "mieter": [
+   "Zürcher Kantonalbank"
+  ]
+ },
+ "winterthur|obertor|7": {
+  "street": "Obertor",
+  "hn": "7",
+  "lat": 47.4999142,
+  "lng": 8.7329017,
+  "mieter": []
+ },
+ "winterthur|obertor|5": {
+  "street": "Obertor",
+  "hn": "5",
+  "lat": 47.499913,
+  "lng": 8.733012,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|10a": {
+  "street": "Stadthausstrasse",
+  "hn": "10a",
+  "lat": 47.5004535,
+  "lng": 8.7266269,
+  "mieter": [
+   "Denner Express"
+  ]
+ },
+ "winterthur|stadthausstrasse|16": {
+  "street": "Stadthausstrasse",
+  "hn": "16",
+  "lat": 47.5000211,
+  "lng": 8.725995,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|51": {
+  "street": "Steinberggasse",
+  "hn": "51",
+  "lat": 47.4980241,
+  "lng": 8.7277786,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|55": {
+  "street": "Steinberggasse",
+  "hn": "55",
+  "lat": 47.4980294,
+  "lng": 8.7275836,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|57": {
+  "street": "Steinberggasse",
+  "hn": "57",
+  "lat": 47.4980465,
+  "lng": 8.7274962,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|18": {
+  "street": "Stadthausstrasse",
+  "hn": "18",
+  "lat": 47.4999796,
+  "lng": 8.7253974,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|119": {
+  "street": "Stadthausstrasse",
+  "hn": "119",
+  "lat": 47.499716,
+  "lng": 8.7266201,
+  "mieter": [
+   "Casinotheater"
+  ]
+ },
+ "winterthur|marktgasse|72": {
+  "street": "Marktgasse",
+  "hn": "72",
+  "lat": 47.4996144,
+  "lng": 8.7271515,
+  "mieter": []
+ },
+ "winterthur|marktgasse|74": {
+  "street": "Marktgasse",
+  "hn": "74",
+  "lat": 47.4995684,
+  "lng": 8.7270437,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|11": {
+  "street": "Steinberggasse",
+  "hn": "11",
+  "lat": 47.498199,
+  "lng": 8.7298903,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|13": {
+  "street": "Steinberggasse",
+  "hn": "13",
+  "lat": 47.4981973,
+  "lng": 8.7297173,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|3": {
+  "street": "Steinberggasse",
+  "hn": "3",
+  "lat": 47.4982183,
+  "lng": 8.730171,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|31": {
+  "street": "Steinberggasse",
+  "hn": "31",
+  "lat": 47.4981068,
+  "lng": 8.728831,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|39": {
+  "street": "Steinberggasse",
+  "hn": "39",
+  "lat": 47.4981022,
+  "lng": 8.7284616,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|5": {
+  "street": "Steinberggasse",
+  "hn": "5",
+  "lat": 47.4982166,
+  "lng": 8.7300903,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|63": {
+  "street": "Steinberggasse",
+  "hn": "63",
+  "lat": 47.498145,
+  "lng": 8.7272001,
+  "mieter": []
+ },
+ "winterthur|steinberggasse|9": {
+  "street": "Steinberggasse",
+  "hn": "9",
+  "lat": 47.4981888,
+  "lng": 8.7299745,
+  "mieter": []
+ },
+ "winterthur|marktgasse|39": {
+  "street": "Marktgasse",
+  "hn": "39",
+  "lat": 47.4993777,
+  "lng": 8.7280821,
+  "mieter": []
+ },
+ "winterthur|marktgasse|2": {
+  "street": "Marktgasse",
+  "hn": "2",
+  "lat": 47.5000108,
+  "lng": 8.7306741,
+  "mieter": []
+ },
+ "winterthur|marktgasse|26": {
+  "street": "Marktgasse",
+  "hn": "26",
+  "lat": 47.4998819,
+  "lng": 8.7295582,
+  "mieter": []
+ },
+ "winterthur|marktgasse|28": {
+  "street": "Marktgasse",
+  "hn": "28",
+  "lat": 47.4998733,
+  "lng": 8.7294729,
+  "mieter": []
+ },
+ "winterthur|marktgasse|40": {
+  "street": "Marktgasse",
+  "hn": "40",
+  "lat": 47.4998287,
+  "lng": 8.7289453,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|45": {
+  "street": "Stadthausstrasse",
+  "hn": "45",
+  "lat": 47.5002215,
+  "lng": 8.730333,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|53": {
+  "street": "Stadthausstrasse",
+  "hn": "53",
+  "lat": 47.5001638,
+  "lng": 8.7300797,
+  "mieter": []
+ },
+ "winterthur|marktgasse|54": {
+  "street": "Marktgasse",
+  "hn": "54",
+  "lat": 47.4997609,
+  "lng": 8.7283362,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|55": {
+  "street": "Stadthausstrasse",
+  "hn": "55",
+  "lat": 47.5001903,
+  "lng": 8.7299937,
+  "mieter": []
+ },
+ "winterthur|marktgasse|58": {
+  "street": "Marktgasse",
+  "hn": "58",
+  "lat": 47.4997366,
+  "lng": 8.7281454,
+  "mieter": []
+ },
+ "winterthur|marktgasse|60": {
+  "street": "Marktgasse",
+  "hn": "60",
+  "lat": 47.4997103,
+  "lng": 8.7280741,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|61": {
+  "street": "Stadthausstrasse",
+  "hn": "61",
+  "lat": 47.5001349,
+  "lng": 8.7295958,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|63": {
+  "street": "Stadthausstrasse",
+  "hn": "63",
+  "lat": 47.500129,
+  "lng": 8.7295082,
+  "mieter": []
+ },
+ "winterthur|marktgasse|64": {
+  "street": "Marktgasse",
+  "hn": "64",
+  "lat": 47.4996982,
+  "lng": 8.7279203,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|67": {
+  "street": "Stadthausstrasse",
+  "hn": "67",
+  "lat": 47.5001123,
+  "lng": 8.7293226,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|85": {
+  "street": "Stadthausstrasse",
+  "hn": "85",
+  "lat": 47.499994,
+  "lng": 8.7285216,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|91": {
+  "street": "Stadthausstrasse",
+  "hn": "91",
+  "lat": 47.4999687,
+  "lng": 8.728286,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|99": {
+  "street": "Stadthausstrasse",
+  "hn": "99",
+  "lat": 47.4999401,
+  "lng": 8.7279405,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|123": {
+  "street": "Stadthausstrasse",
+  "hn": "123",
+  "lat": 47.4996474,
+  "lng": 8.7259823,
+  "mieter": []
+ },
+ "winterthur|stadthausstrasse|125": {
+  "street": "Stadthausstrasse",
+  "hn": "125",
+  "lat": 47.4996351,
+  "lng": 8.7258622,
+  "mieter": []
+ },
+ "winterthur|untertor|15": {
+  "street": "Untertor",
+  "hn": "15",
+  "lat": 47.4990948,
+  "lng": 8.725508,
+  "mieter": []
+ },
+ "winterthur|untertor|29": {
+  "street": "Untertor",
+  "hn": "29",
+  "lat": 47.4990383,
+  "lng": 8.7249592,
+  "mieter": []
+ },
+ "winterthur|untertor|31": {
+  "street": "Untertor",
+  "hn": "31",
+  "lat": 47.4989865,
+  "lng": 8.7248773,
+  "mieter": []
+ },
+ "winterthur|untertor|5": {
+  "street": "Untertor",
+  "hn": "5",
+  "lat": 47.499194,
+  "lng": 8.7259977,
+  "mieter": []
+ }
+}

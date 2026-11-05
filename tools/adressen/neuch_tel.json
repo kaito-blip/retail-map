@@ -1,0 +1,507 @@
+{
+ "neuchâtel|rue du seyon|38": {
+  "street": "Rue du Seyon",
+  "hn": "38",
+  "lat": 46.9935192,
+  "lng": 6.9280896,
+  "mieter": [
+   "Bar King"
+  ]
+ },
+ "neuchâtel|rue du seyon|32": {
+  "street": "Rue du Seyon",
+  "hn": "32",
+  "lat": 46.9932027,
+  "lng": 6.9280423,
+  "mieter": [
+   "Espace O32"
+  ]
+ },
+ "neuchâtel|rue du seyon|30": {
+  "street": "Rue du Seyon",
+  "hn": "30",
+  "lat": 46.9930496,
+  "lng": 6.9281675,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|28": {
+  "street": "Rue du Seyon",
+  "hn": "28",
+  "lat": 46.9929897,
+  "lng": 6.9282164,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|26": {
+  "street": "Rue du Seyon",
+  "hn": "26",
+  "lat": 46.9928274,
+  "lng": 6.9283335,
+  "mieter": [
+   "Prospero Audiovisuel"
+  ]
+ },
+ "neuchâtel|rue du seyon|24c": {
+  "street": "Rue du Seyon",
+  "hn": "24C",
+  "lat": 46.9927865,
+  "lng": 6.9283583,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|24a": {
+  "street": "Rue du Seyon",
+  "hn": "24A",
+  "lat": 46.9926899,
+  "lng": 6.9284163,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|24b": {
+  "street": "Rue du Seyon",
+  "hn": "24B",
+  "lat": 46.9927387,
+  "lng": 6.928387,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|22": {
+  "street": "Rue du Seyon",
+  "hn": "22",
+  "lat": 46.992418,
+  "lng": 6.9285756,
+  "mieter": [
+   "Mäder"
+  ]
+ },
+ "neuchâtel|rue du seyon|24": {
+  "street": "Rue du Seyon",
+  "hn": "24",
+  "lat": 46.9925514,
+  "lng": 6.9284982,
+  "mieter": []
+ },
+ "neuchâtel|rue du bassin|10": {
+  "street": "Rue du Bassin",
+  "hn": "10",
+  "lat": 46.9901163,
+  "lng": 6.9304122,
+  "mieter": [
+   "Fleur-de-Lys"
+  ]
+ },
+ "neuchâtel|rue du seyon|2": {
+  "street": "Rue du Seyon",
+  "hn": "2",
+  "lat": 46.9904804,
+  "lng": 6.9293775,
+  "mieter": [
+   "Payot"
+  ]
+ },
+ "neuchâtel|rue du seyon|23": {
+  "street": "Rue du Seyon",
+  "hn": "23",
+  "lat": 46.9931091,
+  "lng": 6.9278497,
+  "mieter": [
+   "La maison du dormir"
+  ]
+ },
+ "neuchâtel|rue du seyon|25": {
+  "street": "Rue du Seyon",
+  "hn": "25",
+  "lat": 46.9932456,
+  "lng": 6.927806,
+  "mieter": [
+   "atelier-boutique au c cédille"
+  ]
+ },
+ "neuchâtel|rue de l'hôpital|20": {
+  "street": "Rue de l'Hôpital",
+  "hn": "20",
+  "lat": 46.9919267,
+  "lng": 6.9293482,
+  "mieter": [
+   "Salt",
+   "McDonald's",
+   "Nature & Découvertes"
+  ]
+ },
+ "neuchâtel|rue de l'hôpital|7": {
+  "street": "Rue de l'Hôpital",
+  "hn": "7",
+  "lat": 46.9917422,
+  "lng": 6.9299725,
+  "mieter": [
+   "La Crêperie"
+  ]
+ },
+ "neuchâtel|rue du temple-neuf|4": {
+  "street": "Rue du Temple-Neuf",
+  "hn": "4",
+  "lat": 46.9914539,
+  "lng": 6.9302724,
+  "mieter": [
+   "Buromandie"
+  ]
+ },
+ "neuchâtel|rue du seyon|5": {
+  "street": "Rue du Seyon",
+  "hn": "5",
+  "lat": 46.9920848,
+  "lng": 6.9285306,
+  "mieter": [
+   "Saimas",
+   "Woddey - Suchard"
+  ]
+ },
+ "neuchâtel|rue du seyon|6": {
+  "street": "Rue du Seyon",
+  "hn": "6",
+  "lat": 46.9907163,
+  "lng": 6.9292892,
+  "mieter": [
+   "Acuitis"
+  ]
+ },
+ "neuchâtel|rue saint-maurice|7": {
+  "street": "Rue Saint-Maurice",
+  "hn": "7",
+  "lat": 46.9909254,
+  "lng": 6.9308114,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|1": {
+  "street": "Rue du Seyon",
+  "hn": "1",
+  "lat": 46.9905895,
+  "lng": 6.9290525,
+  "mieter": [
+   "Dessange Paris Coiffure"
+  ]
+ },
+ "neuchâtel|rue du seyon|4": {
+  "street": "Rue du Seyon",
+  "hn": "4",
+  "lat": 46.9906203,
+  "lng": 6.929327,
+  "mieter": [
+   "Laederach"
+  ]
+ },
+ "neuchâtel|rue du seyon|10": {
+  "street": "Rue du Seyon",
+  "hn": "10",
+  "lat": 46.9913712,
+  "lng": 6.9291064,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|8": {
+  "street": "Rue du Seyon",
+  "hn": "8",
+  "lat": 46.9911132,
+  "lng": 6.9291694,
+  "mieter": []
+ },
+ "neuchâtel|rue de l'hôpital|9": {
+  "street": "Rue de l'Hôpital",
+  "hn": "9",
+  "lat": 46.9917588,
+  "lng": 6.929873,
+  "mieter": [
+   "Marionnaud"
+  ]
+ },
+ "neuchâtel|rue du seyon|7": {
+  "street": "Rue du Seyon",
+  "hn": "7",
+  "lat": 46.9921668,
+  "lng": 6.9285063,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|5b": {
+  "street": "Rue du Seyon",
+  "hn": "5b",
+  "lat": 46.9917981,
+  "lng": 6.9287455,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|5f": {
+  "street": "Rue du Seyon",
+  "hn": "5f",
+  "lat": 46.9918814,
+  "lng": 6.928693,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|20": {
+  "street": "Rue du Seyon",
+  "hn": "20",
+  "lat": 46.9923125,
+  "lng": 6.9285982,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|18": {
+  "street": "Rue du Seyon",
+  "hn": "18",
+  "lat": 46.9922404,
+  "lng": 6.9286338,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|16": {
+  "street": "Rue du Seyon",
+  "hn": "16",
+  "lat": 46.9920822,
+  "lng": 6.9287457,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|14a": {
+  "street": "Rue du Seyon",
+  "hn": "14a",
+  "lat": 46.992054,
+  "lng": 6.9287712,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|14": {
+  "street": "Rue du Seyon",
+  "hn": "14",
+  "lat": 46.9919299,
+  "lng": 6.928849,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|11": {
+  "street": "Rue du Seyon",
+  "hn": "11",
+  "lat": 46.9925711,
+  "lng": 6.9282717,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|13": {
+  "street": "Rue du Seyon",
+  "hn": "13",
+  "lat": 46.9926095,
+  "lng": 6.9282133,
+  "mieter": [
+   "Goldies"
+  ]
+ },
+ "neuchâtel|rue du seyon|15": {
+  "street": "Rue du Seyon",
+  "hn": "15",
+  "lat": 46.9926676,
+  "lng": 6.9281892,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|17": {
+  "street": "Rue du Seyon",
+  "hn": "17",
+  "lat": 46.9927486,
+  "lng": 6.9281811,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|19": {
+  "street": "Rue du Seyon",
+  "hn": "19",
+  "lat": 46.992825,
+  "lng": 6.9281298,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|21": {
+  "street": "Rue du Seyon",
+  "hn": "21",
+  "lat": 46.9929704,
+  "lng": 6.9280182,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|21a": {
+  "street": "Rue du Seyon",
+  "hn": "21a",
+  "lat": 46.993036,
+  "lng": 6.9279662,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|5a": {
+  "street": "Rue du Seyon",
+  "hn": "5a",
+  "lat": 46.9916346,
+  "lng": 6.9287957,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|1a": {
+  "street": "Rue du Seyon",
+  "hn": "1a",
+  "lat": 46.9908017,
+  "lng": 6.9290134,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|3": {
+  "street": "Rue du Seyon",
+  "hn": "3",
+  "lat": 46.9909366,
+  "lng": 6.9289437,
+  "mieter": []
+ },
+ "neuchâtel|rue du bassin|14": {
+  "street": "Rue du Bassin",
+  "hn": "14",
+  "lat": 46.9898148,
+  "lng": 6.9306804,
+  "mieter": []
+ },
+ "neuchâtel|rue du bassin|16": {
+  "street": "Rue du Bassin",
+  "hn": "16",
+  "lat": 46.9895367,
+  "lng": 6.9309607,
+  "mieter": []
+ },
+ "neuchâtel|rue du temple-neuf|11": {
+  "street": "Rue du Temple-Neuf",
+  "hn": "11",
+  "lat": 46.9911315,
+  "lng": 6.9295924,
+  "mieter": [
+   "Art'traction"
+  ]
+ },
+ "neuchâtel|rue saint-maurice|9": {
+  "street": "Rue Saint-Maurice",
+  "hn": "9",
+  "lat": 46.9908184,
+  "lng": 6.9305893,
+  "mieter": [
+   "Coworking Neuchâtel"
+  ]
+ },
+ "neuchâtel|rue du seyon|7a": {
+  "street": "Rue du Seyon",
+  "hn": "7a",
+  "lat": 46.9922514,
+  "lng": 6.9284592,
+  "mieter": [
+   "Comme une fleur",
+   "LE MUR"
+  ]
+ },
+ "neuchâtel|rue de l'hôpital|2": {
+  "street": "Rue de l'Hôpital",
+  "hn": "2",
+  "lat": 46.9920008,
+  "lng": 6.9305012,
+  "mieter": [
+   "Dr Pelissier ORL"
+  ]
+ },
+ "neuchâtel|rue saint-maurice|0": {
+  "street": "Rue Saint-Maurice",
+  "hn": "0",
+  "lat": 46.9908079,
+  "lng": 6.9306191,
+  "mieter": [
+   "be-BOP"
+  ]
+ },
+ "neuchâtel|rue saint-maurice|4": {
+  "street": "Rue Saint-Maurice",
+  "hn": "4",
+  "lat": 46.9910941,
+  "lng": 6.9306469,
+  "mieter": [
+   "Bibliothèque publique et universitaire de Neuchâtel"
+  ]
+ },
+ "neuchâtel|rue de l'hôpital|17": {
+  "street": "Rue de l'Hôpital",
+  "hn": "17",
+  "lat": 46.9916804,
+  "lng": 6.9292329,
+  "mieter": []
+ },
+ "neuchâtel|rue de l'hôpital|15": {
+  "street": "Rue de l'Hôpital",
+  "hn": "15",
+  "lat": 46.9916895,
+  "lng": 6.9293816,
+  "mieter": []
+ },
+ "neuchâtel|rue du seyon|9": {
+  "street": "Rue du Seyon",
+  "hn": "9",
+  "lat": 46.9924181,
+  "lng": 6.9282894,
+  "mieter": []
+ },
+ "neuchâtel|rue du bassin|8": {
+  "street": "Rue du Bassin",
+  "hn": "8",
+  "lat": 46.9907679,
+  "lng": 6.929891,
+  "mieter": []
+ },
+ "neuchâtel|rue du bassin|4": {
+  "street": "Rue du Bassin",
+  "hn": "4",
+  "lat": 46.990859,
+  "lng": 6.9297891,
+  "mieter": []
+ },
+ "neuchâtel|rue du bassin|2": {
+  "street": "Rue du Bassin",
+  "hn": "2",
+  "lat": 46.9909864,
+  "lng": 6.9297787,
+  "mieter": []
+ },
+ "neuchâtel|rue saint-maurice|10": {
+  "street": "Rue Saint-Maurice",
+  "hn": "10",
+  "lat": 46.9910146,
+  "lng": 6.9304887,
+  "mieter": []
+ },
+ "neuchâtel|rue saint-maurice|12": {
+  "street": "Rue Saint-Maurice",
+  "hn": "12",
+  "lat": 46.9908185,
+  "lng": 6.9302035,
+  "mieter": []
+ },
+ "neuchâtel|rue saint-maurice|2": {
+  "street": "Rue Saint-Maurice",
+  "hn": "2",
+  "lat": 46.9911876,
+  "lng": 6.9307523,
+  "mieter": []
+ },
+ "neuchâtel|rue de l'hôpital|11": {
+  "street": "Rue de l'Hôpital",
+  "hn": "11",
+  "lat": 46.9917027,
+  "lng": 6.9297537,
+  "mieter": []
+ },
+ "neuchâtel|rue de l'hôpital|4": {
+  "street": "Rue de l'Hôpital",
+  "hn": "4",
+  "lat": 46.9920235,
+  "lng": 6.9303243,
+  "mieter": []
+ },
+ "neuchâtel|rue de l'hôpital|6": {
+  "street": "Rue de l'Hôpital",
+  "hn": "6",
+  "lat": 46.9919505,
+  "lng": 6.9301634,
+  "mieter": []
+ },
+ "neuchâtel|rue de l'hôpital|18": {
+  "street": "Rue de l'Hôpital",
+  "hn": "18",
+  "lat": 46.991968,
+  "lng": 6.9297935,
+  "mieter": []
+ },
+ "neuchâtel|rue de l'hôpital|16": {
+  "street": "Rue de l'Hôpital",
+  "hn": "16",
+  "lat": 46.9919728,
+  "lng": 6.929619,
+  "mieter": []
+ }
+}

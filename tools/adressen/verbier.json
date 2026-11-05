@@ -1,0 +1,1736 @@
+{
+ "verbier|rue de la poste|2a": {
+  "street": "Rue de la Poste",
+  "hn": "2a",
+  "lat": 46.0964749,
+  "lng": 7.2281023,
+  "mieter": [
+   "Poste 1936 Verbier"
+  ]
+ },
+ "verbier|route des creux|91": {
+  "street": "Route des Creux",
+  "hn": "91",
+  "lat": 46.1036123,
+  "lng": 7.224199,
+  "mieter": [
+   "Le Grenier"
+  ]
+ },
+ "verbier|place centrale|18": {
+  "street": "Place Centrale",
+  "hn": "18",
+  "lat": 46.0959839,
+  "lng": 7.2282944,
+  "mieter": []
+ },
+ "verbier|route des creux|3": {
+  "street": "Route des Creux",
+  "hn": "3",
+  "lat": 46.0967506,
+  "lng": 7.2290997,
+  "mieter": [
+   "Borsalino",
+   "Policlinique de Verbier"
+  ]
+ },
+ "verbier|rue de médran|27": {
+  "street": "Rue de Médran",
+  "hn": "27",
+  "lat": 46.0941453,
+  "lng": 7.2326706,
+  "mieter": [
+   "No 1 Ski Rental Astoria SA"
+  ]
+ },
+ "verbier|route de verbier station|59": {
+  "street": "Route de Verbier Station",
+  "hn": "59",
+  "lat": 46.0961431,
+  "lng": 7.2268419,
+  "mieter": [
+   "Specialized"
+  ]
+ },
+ "verbier|rue de médran|64": {
+  "street": "Rue de Médran",
+  "hn": "64",
+  "lat": 46.0915571,
+  "lng": 7.2322517,
+  "mieter": []
+ },
+ "verbier|rue de médran|16": {
+  "street": "Rue de Médran",
+  "hn": "16",
+  "lat": 46.094963,
+  "lng": 7.2307526,
+  "mieter": [
+   "Ski Service - Verbier Ski Hire | Location de Ski"
+  ]
+ },
+ "verbier|place centrale|1": {
+  "street": "Place Centrale",
+  "hn": "1",
+  "lat": 46.0962853,
+  "lng": 7.2285865,
+  "mieter": [
+   "Philippe Roux sports"
+  ]
+ },
+ "verbier|rue de médran|23": {
+  "street": "Rue de Médran",
+  "hn": "23",
+  "lat": 46.0943452,
+  "lng": 7.2320245,
+  "mieter": [
+   "L'igloo"
+  ]
+ },
+ "verbier|rue de la poste|22a": {
+  "street": "Rue de la Poste",
+  "hn": "22a",
+  "lat": 46.0969783,
+  "lng": 7.2259141,
+  "mieter": [
+   "Bureau Verbier"
+  ]
+ },
+ "verbier|route de verbier station|90": {
+  "street": "Route de Verbier Station",
+  "hn": "90",
+  "lat": 46.0956814,
+  "lng": 7.2256691,
+  "mieter": [
+   "Bibliothèque de Verbier"
+  ]
+ },
+ "verbier|rue de médran|12": {
+  "street": "Rue de Médran",
+  "hn": "12",
+  "lat": 46.0953867,
+  "lng": 7.2302105,
+  "mieter": []
+ },
+ "verbier|route de verbier station|108": {
+  "street": "Route de Verbier Station",
+  "hn": "108",
+  "lat": 46.0954318,
+  "lng": 7.2276617,
+  "mieter": []
+ },
+ "verbier|route de verbier station|88": {
+  "street": "Route de Verbier Station",
+  "hn": "88",
+  "lat": 46.0961097,
+  "lng": 7.2256971,
+  "mieter": []
+ },
+ "verbier|route de verbier station|74": {
+  "street": "Route de Verbier Station",
+  "hn": "74",
+  "lat": 46.0961997,
+  "lng": 7.2254973,
+  "mieter": []
+ },
+ "verbier|rue de médran|2": {
+  "street": "Rue de Médran",
+  "hn": "2",
+  "lat": 46.0955845,
+  "lng": 7.2297745,
+  "mieter": []
+ },
+ "verbier|rue de la poste|8": {
+  "street": "Rue de la Poste",
+  "hn": "8",
+  "lat": 46.0967567,
+  "lng": 7.2273745,
+  "mieter": []
+ },
+ "verbier|rue de la poste|20": {
+  "street": "Rue de la Poste",
+  "hn": "20",
+  "lat": 46.0969495,
+  "lng": 7.2264712,
+  "mieter": []
+ },
+ "verbier|rue de médran|25": {
+  "street": "Rue de Médran",
+  "hn": "25",
+  "lat": 46.0941351,
+  "lng": 7.2323446,
+  "mieter": []
+ },
+ "verbier|rue de la poste|6": {
+  "street": "Rue de la Poste",
+  "hn": "6",
+  "lat": 46.0967106,
+  "lng": 7.22762,
+  "mieter": []
+ },
+ "verbier|rue de médran|22": {
+  "street": "Rue de Médran",
+  "hn": "22",
+  "lat": 46.0940831,
+  "lng": 7.2319364,
+  "mieter": []
+ },
+ "verbier|route de verbier station|55": {
+  "street": "Route de Verbier Station",
+  "hn": "55",
+  "lat": 46.0961489,
+  "lng": 7.2260836,
+  "mieter": []
+ },
+ "verbier|rue de médran|5": {
+  "street": "Rue de Médran",
+  "hn": "5",
+  "lat": 46.0952641,
+  "lng": 7.2307624,
+  "mieter": []
+ },
+ "verbier|route de verbier station|70": {
+  "street": "Route de Verbier Station",
+  "hn": "70",
+  "lat": 46.096377,
+  "lng": 7.2248267,
+  "mieter": []
+ },
+ "verbier|route de verbier station|26": {
+  "street": "Route de Verbier Station",
+  "hn": "26",
+  "lat": 46.0967828,
+  "lng": 7.2233823,
+  "mieter": []
+ },
+ "verbier|route de verbier station|28": {
+  "street": "Route de Verbier Station",
+  "hn": "28",
+  "lat": 46.0965137,
+  "lng": 7.2229587,
+  "mieter": []
+ },
+ "verbier|rue de médran|3": {
+  "street": "Rue de Médran",
+  "hn": "3",
+  "lat": 46.0953937,
+  "lng": 7.230501,
+  "mieter": []
+ },
+ "verbier|route de verbier station|72": {
+  "street": "Route de Verbier Station",
+  "hn": "72",
+  "lat": 46.0962634,
+  "lng": 7.2250808,
+  "mieter": []
+ },
+ "verbier|route des creux|74": {
+  "street": "Route des Creux",
+  "hn": "74",
+  "lat": 46.0997709,
+  "lng": 7.2302141,
+  "mieter": []
+ },
+ "verbier|route des creux|70": {
+  "street": "Route des Creux",
+  "hn": "70",
+  "lat": 46.0995359,
+  "lng": 7.2302365,
+  "mieter": []
+ },
+ "verbier|route des creux|14": {
+  "street": "Route des Creux",
+  "hn": "14",
+  "lat": 46.0970336,
+  "lng": 7.2295337,
+  "mieter": []
+ },
+ "verbier|route des creux|24": {
+  "street": "Route des Creux",
+  "hn": "24",
+  "lat": 46.0976117,
+  "lng": 7.2300124,
+  "mieter": []
+ },
+ "verbier|route des creux|76": {
+  "street": "Route des Creux",
+  "hn": "76",
+  "lat": 46.1000378,
+  "lng": 7.2300318,
+  "mieter": []
+ },
+ "verbier|place centrale|8a": {
+  "street": "Place Centrale",
+  "hn": "8a",
+  "lat": 46.0962789,
+  "lng": 7.2296352,
+  "mieter": []
+ },
+ "verbier|route de verbier station|100": {
+  "street": "Route de Verbier Station",
+  "hn": "100",
+  "lat": 46.0959569,
+  "lng": 7.2265018,
+  "mieter": []
+ },
+ "verbier|rue de médran|4": {
+  "street": "Rue de Médran",
+  "hn": "4",
+  "lat": 46.0954864,
+  "lng": 7.2299433,
+  "mieter": [
+   "Peak Performance"
+  ]
+ },
+ "verbier|rue de médran|15": {
+  "street": "Rue de Médran",
+  "hn": "15",
+  "lat": 46.0948283,
+  "lng": 7.231551,
+  "mieter": []
+ },
+ "verbier|route des creux|124": {
+  "street": "Route des Creux",
+  "hn": "124",
+  "lat": 46.1027541,
+  "lng": 7.2275305,
+  "mieter": []
+ },
+ "verbier|route des creux|72": {
+  "street": "Route des Creux",
+  "hn": "72",
+  "lat": 46.0996137,
+  "lng": 7.2303642,
+  "mieter": []
+ },
+ "verbier|route des creux|36": {
+  "street": "Route des Creux",
+  "hn": "36",
+  "lat": 46.0980617,
+  "lng": 7.2302365,
+  "mieter": []
+ },
+ "verbier|route des creux|58": {
+  "street": "Route des Creux",
+  "hn": "58",
+  "lat": 46.0984885,
+  "lng": 7.2301572,
+  "mieter": []
+ },
+ "verbier|route des creux|68": {
+  "street": "Route des Creux",
+  "hn": "68",
+  "lat": 46.0992721,
+  "lng": 7.2300615,
+  "mieter": []
+ },
+ "verbier|route des creux|51": {
+  "street": "Route des Creux",
+  "hn": "51",
+  "lat": 46.1018853,
+  "lng": 7.2283193,
+  "mieter": []
+ },
+ "verbier|route des creux|53": {
+  "street": "Route des Creux",
+  "hn": "53",
+  "lat": 46.1021464,
+  "lng": 7.2279561,
+  "mieter": []
+ },
+ "verbier|route des creux|55": {
+  "street": "Route des Creux",
+  "hn": "55",
+  "lat": 46.1022222,
+  "lng": 7.2276329,
+  "mieter": []
+ },
+ "verbier|route des creux|61": {
+  "street": "Route des Creux",
+  "hn": "61",
+  "lat": 46.1024635,
+  "lng": 7.2273616,
+  "mieter": []
+ },
+ "verbier|route des creux|63": {
+  "street": "Route des Creux",
+  "hn": "63",
+  "lat": 46.1026383,
+  "lng": 7.2267946,
+  "mieter": []
+ },
+ "verbier|route des creux|65": {
+  "street": "Route des Creux",
+  "hn": "65",
+  "lat": 46.1027091,
+  "lng": 7.2264763,
+  "mieter": []
+ },
+ "verbier|route des creux|67": {
+  "street": "Route des Creux",
+  "hn": "67",
+  "lat": 46.1028525,
+  "lng": 7.2260323,
+  "mieter": []
+ },
+ "verbier|route des creux|69": {
+  "street": "Route des Creux",
+  "hn": "69",
+  "lat": 46.1029643,
+  "lng": 7.2257383,
+  "mieter": []
+ },
+ "verbier|route des creux|71": {
+  "street": "Route des Creux",
+  "hn": "71",
+  "lat": 46.1031303,
+  "lng": 7.225467,
+  "mieter": []
+ },
+ "verbier|route des creux|82": {
+  "street": "Route des Creux",
+  "hn": "82",
+  "lat": 46.1014589,
+  "lng": 7.2291732,
+  "mieter": []
+ },
+ "verbier|rue de médran|9a": {
+  "street": "Rue de Médran",
+  "hn": "9a",
+  "lat": 46.0952867,
+  "lng": 7.2314248,
+  "mieter": []
+ },
+ "verbier|rue de médran|52": {
+  "street": "Rue de Médran",
+  "hn": "52",
+  "lat": 46.0932311,
+  "lng": 7.2327076,
+  "mieter": []
+ },
+ "verbier|route des creux|16": {
+  "street": "Route des Creux",
+  "hn": "16",
+  "lat": 46.0970991,
+  "lng": 7.2298762,
+  "mieter": []
+ },
+ "verbier|route des creux|12": {
+  "street": "Route des Creux",
+  "hn": "12",
+  "lat": 46.0969117,
+  "lng": 7.2304796,
+  "mieter": []
+ },
+ "verbier|route des creux|2a": {
+  "street": "Route des Creux",
+  "hn": "2a",
+  "lat": 46.0964667,
+  "lng": 7.2294931,
+  "mieter": []
+ },
+ "verbier|route des creux|10": {
+  "street": "Route des Creux",
+  "hn": "10",
+  "lat": 46.0968052,
+  "lng": 7.2299307,
+  "mieter": []
+ },
+ "verbier|rue de médran|20": {
+  "street": "Rue de Médran",
+  "hn": "20",
+  "lat": 46.0944502,
+  "lng": 7.2314427,
+  "mieter": []
+ },
+ "verbier|rue de médran|21": {
+  "street": "Rue de Médran",
+  "hn": "21",
+  "lat": 46.0945959,
+  "lng": 7.2318369,
+  "mieter": [
+   "The North Face"
+  ]
+ },
+ "verbier|rue de médran|7": {
+  "street": "Rue de Médran",
+  "hn": "7",
+  "lat": 46.0950025,
+  "lng": 7.2311568,
+  "mieter": []
+ },
+ "verbier|rue de médran|26": {
+  "street": "Rue de Médran",
+  "hn": "26",
+  "lat": 46.093759,
+  "lng": 7.2316168,
+  "mieter": []
+ },
+ "verbier|rue de médran|24": {
+  "street": "Rue de Médran",
+  "hn": "24",
+  "lat": 46.0940433,
+  "lng": 7.2314417,
+  "mieter": []
+ },
+ "verbier|rue de la poste|4": {
+  "street": "Rue de la Poste",
+  "hn": "4",
+  "lat": 46.0967191,
+  "lng": 7.2279762,
+  "mieter": []
+ },
+ "verbier|route des creux|75": {
+  "street": "Route des Creux",
+  "hn": "75",
+  "lat": 46.103235,
+  "lng": 7.2251628,
+  "mieter": []
+ },
+ "verbier|route des creux|77": {
+  "street": "Route des Creux",
+  "hn": "77",
+  "lat": 46.1033448,
+  "lng": 7.2248767,
+  "mieter": []
+ },
+ "verbier|route des creux|100": {
+  "street": "Route des Creux",
+  "hn": "100",
+  "lat": 46.1024758,
+  "lng": 7.2285328,
+  "mieter": []
+ },
+ "verbier|route des creux|116a": {
+  "street": "Route des Creux",
+  "hn": "116a",
+  "lat": 46.1029691,
+  "lng": 7.2291715,
+  "mieter": []
+ },
+ "verbier|route des creux|1": {
+  "street": "Route des Creux",
+  "hn": "1",
+  "lat": 46.0963568,
+  "lng": 7.2291068,
+  "mieter": []
+ },
+ "verbier|rue de médran|70": {
+  "street": "Rue de Médran",
+  "hn": "70",
+  "lat": 46.0923491,
+  "lng": 7.2332172,
+  "mieter": []
+ },
+ "verbier|rue de la poste|16": {
+  "street": "Rue de la Poste",
+  "hn": "16",
+  "lat": 46.0967401,
+  "lng": 7.2270035,
+  "mieter": []
+ },
+ "verbier|rue de la poste|22b": {
+  "street": "Rue de la Poste",
+  "hn": "22b",
+  "lat": 46.0970479,
+  "lng": 7.2257013,
+  "mieter": []
+ },
+ "verbier|rue de médran|73": {
+  "street": "Rue de Médran",
+  "hn": "73",
+  "lat": 46.0927696,
+  "lng": 7.2338373,
+  "mieter": []
+ },
+ "verbier|rue de médran|9b": {
+  "street": "Rue de Médran",
+  "hn": "9b",
+  "lat": 46.0954767,
+  "lng": 7.2313926,
+  "mieter": []
+ },
+ "verbier|route de verbier station|63": {
+  "street": "Route de Verbier Station",
+  "hn": "63",
+  "lat": 46.096166,
+  "lng": 7.2276323,
+  "mieter": [
+   "Bureau du Verbier Festival"
+  ]
+ },
+ "verbier|route de verbier station|33": {
+  "street": "Route de Verbier Station",
+  "hn": "33",
+  "lat": 46.0968797,
+  "lng": 7.2229508,
+  "mieter": [
+   "Toyota"
+  ]
+ },
+ "verbier|rue de médran|60": {
+  "street": "Rue de Médran",
+  "hn": "60",
+  "lat": 46.0920843,
+  "lng": 7.2327118,
+  "mieter": []
+ },
+ "verbier|rue de médran|56b": {
+  "street": "Rue de Médran",
+  "hn": "56b",
+  "lat": 46.0926436,
+  "lng": 7.2327264,
+  "mieter": []
+ },
+ "verbier|place centrale|2": {
+  "street": "Place Centrale",
+  "hn": "2",
+  "lat": 46.0958487,
+  "lng": 7.2288799,
+  "mieter": []
+ },
+ "verbier|rue de la poste|23": {
+  "street": "Rue de la Poste",
+  "hn": "23",
+  "lat": 46.0969254,
+  "lng": 7.2254217,
+  "mieter": [
+   "Veya Immobilier SA"
+  ]
+ },
+ "verbier|route des creux|31": {
+  "street": "Route des Creux",
+  "hn": "31",
+  "lat": 46.0999707,
+  "lng": 7.2295344,
+  "mieter": []
+ },
+ "verbier|route de verbier station|15": {
+  "street": "Route de Verbier Station",
+  "hn": "15",
+  "lat": 46.096939,
+  "lng": 7.2198832,
+  "mieter": []
+ },
+ "verbier|route de verbier station|3": {
+  "street": "Route de Verbier Station",
+  "hn": "3",
+  "lat": 46.0963453,
+  "lng": 7.2197897,
+  "mieter": []
+ },
+ "verbier|rue de médran|62b": {
+  "street": "Rue de Médran",
+  "hn": "62b",
+  "lat": 46.0919878,
+  "lng": 7.2318741,
+  "mieter": []
+ },
+ "verbier|place centrale|8b": {
+  "street": "Place Centrale",
+  "hn": "8b",
+  "lat": 46.0963438,
+  "lng": 7.2295893,
+  "mieter": []
+ },
+ "verbier|rue de médran|31": {
+  "street": "Rue de Médran",
+  "hn": "31",
+  "lat": 46.0942968,
+  "lng": 7.2332196,
+  "mieter": []
+ },
+ "verbier|rue de médran|46": {
+  "street": "Rue de Médran",
+  "hn": "46",
+  "lat": 46.0935877,
+  "lng": 7.2318761,
+  "mieter": []
+ },
+ "verbier|rue de médran|44": {
+  "street": "Rue de Médran",
+  "hn": "44",
+  "lat": 46.0932964,
+  "lng": 7.2319087,
+  "mieter": []
+ },
+ "verbier|rue de médran|38": {
+  "street": "Rue de Médran",
+  "hn": "38",
+  "lat": 46.0936124,
+  "lng": 7.2328645,
+  "mieter": []
+ },
+ "verbier|rue de médran|41": {
+  "street": "Rue de Médran",
+  "hn": "41",
+  "lat": 46.0937295,
+  "lng": 7.2334586,
+  "mieter": []
+ },
+ "verbier|rue de médran|58": {
+  "street": "Rue de Médran",
+  "hn": "58",
+  "lat": 46.0923659,
+  "lng": 7.2325153,
+  "mieter": []
+ },
+ "verbier|rue de médran|75": {
+  "street": "Rue de Médran",
+  "hn": "75",
+  "lat": 46.0924657,
+  "lng": 7.2338267,
+  "mieter": []
+ },
+ "verbier|rue de médran|56a": {
+  "street": "Rue de Médran",
+  "hn": "56a",
+  "lat": 46.0927308,
+  "lng": 7.2326887,
+  "mieter": []
+ },
+ "verbier|rue de médran|14": {
+  "street": "Rue de Médran",
+  "hn": "14",
+  "lat": 46.0948984,
+  "lng": 7.2302851,
+  "mieter": []
+ },
+ "verbier|rue de médran|33": {
+  "street": "Rue de Médran",
+  "hn": "33",
+  "lat": 46.0940397,
+  "lng": 7.2337267,
+  "mieter": []
+ },
+ "verbier|rue de médran|43": {
+  "street": "Rue de Médran",
+  "hn": "43",
+  "lat": 46.0933481,
+  "lng": 7.2334625,
+  "mieter": []
+ },
+ "verbier|rue de médran|10": {
+  "street": "Rue de Médran",
+  "hn": "10",
+  "lat": 46.094961,
+  "lng": 7.2297125,
+  "mieter": []
+ },
+ "verbier|rue de médran|35": {
+  "street": "Rue de Médran",
+  "hn": "35",
+  "lat": 46.0943329,
+  "lng": 7.2336965,
+  "mieter": []
+ },
+ "verbier|rue de médran|29": {
+  "street": "Rue de Médran",
+  "hn": "29",
+  "lat": 46.0941728,
+  "lng": 7.2331868,
+  "mieter": []
+ },
+ "verbier|rue de médran|45": {
+  "street": "Rue de Médran",
+  "hn": "45",
+  "lat": 46.0930189,
+  "lng": 7.2337183,
+  "mieter": []
+ },
+ "verbier|rue de médran|65": {
+  "street": "Rue de Médran",
+  "hn": "65",
+  "lat": 46.0921653,
+  "lng": 7.2344862,
+  "mieter": []
+ },
+ "verbier|rue de médran|6": {
+  "street": "Rue de Médran",
+  "hn": "6",
+  "lat": 46.0953951,
+  "lng": 7.2296314,
+  "mieter": []
+ },
+ "verbier|rue de médran|36": {
+  "street": "Rue de Médran",
+  "hn": "36",
+  "lat": 46.0938375,
+  "lng": 7.232458,
+  "mieter": []
+ },
+ "verbier|rue de médran|32": {
+  "street": "Rue de Médran",
+  "hn": "32",
+  "lat": 46.0937869,
+  "lng": 7.2320587,
+  "mieter": []
+ },
+ "verbier|rue de médran|77": {
+  "street": "Rue de Médran",
+  "hn": "77",
+  "lat": 46.092153,
+  "lng": 7.2334073,
+  "mieter": []
+ },
+ "verbier|route des creux|2b": {
+  "street": "Route des Creux",
+  "hn": "2b",
+  "lat": 46.0964278,
+  "lng": 7.2296642,
+  "mieter": []
+ },
+ "verbier|rue de médran|34": {
+  "street": "Rue de Médran",
+  "hn": "34",
+  "lat": 46.0936614,
+  "lng": 7.2321708,
+  "mieter": []
+ },
+ "verbier|rue de médran|48": {
+  "street": "Rue de Médran",
+  "hn": "48",
+  "lat": 46.092826,
+  "lng": 7.2318747,
+  "mieter": []
+ },
+ "verbier|rue de médran|42": {
+  "street": "Rue de Médran",
+  "hn": "42",
+  "lat": 46.0931251,
+  "lng": 7.2322704,
+  "mieter": []
+ },
+ "verbier|rue de médran|57": {
+  "street": "Rue de Médran",
+  "hn": "57",
+  "lat": 46.093771,
+  "lng": 7.2349397,
+  "mieter": []
+ },
+ "verbier|rue de médran|53": {
+  "street": "Rue de Médran",
+  "hn": "53",
+  "lat": 46.0938906,
+  "lng": 7.2346047,
+  "mieter": []
+ },
+ "verbier|rue de médran|59": {
+  "street": "Rue de Médran",
+  "hn": "59",
+  "lat": 46.0940521,
+  "lng": 7.2339736,
+  "mieter": []
+ },
+ "verbier|rue de médran|54": {
+  "street": "Rue de Médran",
+  "hn": "54",
+  "lat": 46.0926046,
+  "lng": 7.2319411,
+  "mieter": []
+ },
+ "verbier|rue de médran|51": {
+  "street": "Rue de Médran",
+  "hn": "51",
+  "lat": 46.0936628,
+  "lng": 7.2347316,
+  "mieter": []
+ },
+ "verbier|rue de médran|13": {
+  "street": "Rue de Médran",
+  "hn": "13",
+  "lat": 46.0952416,
+  "lng": 7.231718,
+  "mieter": []
+ },
+ "verbier|rue de médran|40": {
+  "street": "Rue de Médran",
+  "hn": "40",
+  "lat": 46.0934682,
+  "lng": 7.2325377,
+  "mieter": []
+ },
+ "verbier|route des creux|8": {
+  "street": "Route des Creux",
+  "hn": "8",
+  "lat": 46.0966731,
+  "lng": 7.2298379,
+  "mieter": []
+ },
+ "verbier|route des creux|34": {
+  "street": "Route des Creux",
+  "hn": "34",
+  "lat": 46.0978663,
+  "lng": 7.2303476,
+  "mieter": []
+ },
+ "verbier|route des creux|56": {
+  "street": "Route des Creux",
+  "hn": "56",
+  "lat": 46.0983652,
+  "lng": 7.2310611,
+  "mieter": []
+ },
+ "verbier|route des creux|42": {
+  "street": "Route des Creux",
+  "hn": "42",
+  "lat": 46.0981875,
+  "lng": 7.2305606,
+  "mieter": []
+ },
+ "verbier|route des creux|60a": {
+  "street": "Route des Creux",
+  "hn": "60a",
+  "lat": 46.0986281,
+  "lng": 7.2303097,
+  "mieter": []
+ },
+ "verbier|route des creux|6": {
+  "street": "Route des Creux",
+  "hn": "6",
+  "lat": 46.0969204,
+  "lng": 7.2295509,
+  "mieter": []
+ },
+ "verbier|route des creux|50": {
+  "street": "Route des Creux",
+  "hn": "50",
+  "lat": 46.0984767,
+  "lng": 7.2304735,
+  "mieter": []
+ },
+ "verbier|route des creux|64": {
+  "street": "Route des Creux",
+  "hn": "64",
+  "lat": 46.0988363,
+  "lng": 7.2303836,
+  "mieter": []
+ },
+ "verbier|route des creux|21": {
+  "street": "Route des Creux",
+  "hn": "21",
+  "lat": 46.0984612,
+  "lng": 7.2296971,
+  "mieter": []
+ },
+ "verbier|route des creux|13": {
+  "street": "Route des Creux",
+  "hn": "13",
+  "lat": 46.0978655,
+  "lng": 7.2295284,
+  "mieter": []
+ },
+ "verbier|route des creux|17a": {
+  "street": "Route des Creux",
+  "hn": "17a",
+  "lat": 46.0982006,
+  "lng": 7.2294978,
+  "mieter": []
+ },
+ "verbier|route des creux|15": {
+  "street": "Route des Creux",
+  "hn": "15",
+  "lat": 46.0980094,
+  "lng": 7.2297239,
+  "mieter": []
+ },
+ "verbier|route des creux|25": {
+  "street": "Route des Creux",
+  "hn": "25",
+  "lat": 46.0986965,
+  "lng": 7.2296119,
+  "mieter": []
+ },
+ "verbier|route des creux|44": {
+  "street": "Route des Creux",
+  "hn": "44",
+  "lat": 46.098055,
+  "lng": 7.2311037,
+  "mieter": []
+ },
+ "verbier|route des creux|40": {
+  "street": "Route des Creux",
+  "hn": "40",
+  "lat": 46.0982748,
+  "lng": 7.2303033,
+  "mieter": []
+ },
+ "verbier|route des creux|52": {
+  "street": "Route des Creux",
+  "hn": "52",
+  "lat": 46.0986141,
+  "lng": 7.2306611,
+  "mieter": []
+ },
+ "verbier|route des creux|66": {
+  "street": "Route des Creux",
+  "hn": "66",
+  "lat": 46.0990659,
+  "lng": 7.2304891,
+  "mieter": []
+ },
+ "verbier|route des creux|28": {
+  "street": "Route des Creux",
+  "hn": "28",
+  "lat": 46.0976349,
+  "lng": 7.2302506,
+  "mieter": []
+ },
+ "verbier|route des creux|20": {
+  "street": "Route des Creux",
+  "hn": "20",
+  "lat": 46.0972218,
+  "lng": 7.2304179,
+  "mieter": []
+ },
+ "verbier|route des creux|18": {
+  "street": "Route des Creux",
+  "hn": "18",
+  "lat": 46.0972654,
+  "lng": 7.2302625,
+  "mieter": []
+ },
+ "verbier|route des creux|22": {
+  "street": "Route des Creux",
+  "hn": "22",
+  "lat": 46.0973176,
+  "lng": 7.2298087,
+  "mieter": [
+   "Le Vingt Deux - Table d'hôtes"
+  ]
+ },
+ "verbier|route des creux|46": {
+  "street": "Route des Creux",
+  "hn": "46",
+  "lat": 46.0981687,
+  "lng": 7.2308173,
+  "mieter": []
+ },
+ "verbier|route des creux|62": {
+  "street": "Route des Creux",
+  "hn": "62",
+  "lat": 46.0989703,
+  "lng": 7.230053,
+  "mieter": []
+ },
+ "verbier|rue de la poste|32": {
+  "street": "Rue de la Poste",
+  "hn": "32",
+  "lat": 46.0972874,
+  "lng": 7.2240017,
+  "mieter": []
+ },
+ "verbier|route de verbier station|34b": {
+  "street": "Route de Verbier Station",
+  "hn": "34b",
+  "lat": 46.0958443,
+  "lng": 7.2236107,
+  "mieter": []
+ },
+ "verbier|route de verbier station|20": {
+  "street": "Route de Verbier Station",
+  "hn": "20",
+  "lat": 46.0965003,
+  "lng": 7.2225708,
+  "mieter": []
+ },
+ "verbier|route de verbier station|43": {
+  "street": "Route de Verbier Station",
+  "hn": "43",
+  "lat": 46.097128,
+  "lng": 7.2238478,
+  "mieter": []
+ },
+ "verbier|route de verbier station|37": {
+  "street": "Route de Verbier Station",
+  "hn": "37",
+  "lat": 46.0973027,
+  "lng": 7.2231159,
+  "mieter": []
+ },
+ "verbier|route de verbier station|39": {
+  "street": "Route de Verbier Station",
+  "hn": "39",
+  "lat": 46.0971498,
+  "lng": 7.2233584,
+  "mieter": []
+ },
+ "verbier|route de verbier station|35": {
+  "street": "Route de Verbier Station",
+  "hn": "35",
+  "lat": 46.0971159,
+  "lng": 7.2230742,
+  "mieter": []
+ },
+ "verbier|route de verbier station|21": {
+  "street": "Route de Verbier Station",
+  "hn": "21",
+  "lat": 46.0969461,
+  "lng": 7.2208193,
+  "mieter": []
+ },
+ "verbier|route de verbier station|32": {
+  "street": "Route de Verbier Station",
+  "hn": "32",
+  "lat": 46.0962194,
+  "lng": 7.2236693,
+  "mieter": []
+ },
+ "verbier|route de verbier station|50": {
+  "street": "Route de Verbier Station",
+  "hn": "50",
+  "lat": 46.0954378,
+  "lng": 7.223124,
+  "mieter": []
+ },
+ "verbier|route de verbier station|68": {
+  "street": "Route de Verbier Station",
+  "hn": "68",
+  "lat": 46.0960439,
+  "lng": 7.2241318,
+  "mieter": []
+ },
+ "verbier|route de verbier station|36": {
+  "street": "Route de Verbier Station",
+  "hn": "36",
+  "lat": 46.0957734,
+  "lng": 7.2233568,
+  "mieter": []
+ },
+ "verbier|route de verbier station|12": {
+  "street": "Route de Verbier Station",
+  "hn": "12",
+  "lat": 46.0964736,
+  "lng": 7.2208669,
+  "mieter": []
+ },
+ "verbier|route de verbier station|41": {
+  "street": "Route de Verbier Station",
+  "hn": "41",
+  "lat": 46.0973721,
+  "lng": 7.2236345,
+  "mieter": []
+ },
+ "verbier|route de verbier station|1": {
+  "street": "Route de Verbier Station",
+  "hn": "1",
+  "lat": 46.0963586,
+  "lng": 7.2194211,
+  "mieter": []
+ },
+ "verbier|route de verbier station|10": {
+  "street": "Route de Verbier Station",
+  "hn": "10",
+  "lat": 46.0963037,
+  "lng": 7.2205369,
+  "mieter": []
+ },
+ "verbier|route de verbier station|14": {
+  "street": "Route de Verbier Station",
+  "hn": "14",
+  "lat": 46.0964255,
+  "lng": 7.2214082,
+  "mieter": []
+ },
+ "verbier|route de verbier station|23": {
+  "street": "Route de Verbier Station",
+  "hn": "23",
+  "lat": 46.0966534,
+  "lng": 7.2210679,
+  "mieter": []
+ },
+ "verbier|route de verbier station|7": {
+  "street": "Route de Verbier Station",
+  "hn": "7",
+  "lat": 46.096668,
+  "lng": 7.2203477,
+  "mieter": []
+ },
+ "verbier|route de verbier station|2": {
+  "street": "Route de Verbier Station",
+  "hn": "2",
+  "lat": 46.0959052,
+  "lng": 7.2200281,
+  "mieter": []
+ },
+ "verbier|route de verbier station|38": {
+  "street": "Route de Verbier Station",
+  "hn": "38",
+  "lat": 46.0955982,
+  "lng": 7.2235433,
+  "mieter": []
+ },
+ "verbier|route de verbier station|40": {
+  "street": "Route de Verbier Station",
+  "hn": "40",
+  "lat": 46.0957302,
+  "lng": 7.2240918,
+  "mieter": []
+ },
+ "verbier|route de verbier station|6": {
+  "street": "Route de Verbier Station",
+  "hn": "6",
+  "lat": 46.0958933,
+  "lng": 7.2203672,
+  "mieter": []
+ },
+ "verbier|route de verbier station|16": {
+  "street": "Route de Verbier Station",
+  "hn": "16",
+  "lat": 46.0964131,
+  "lng": 7.2217237,
+  "mieter": []
+ },
+ "verbier|route de verbier station|4": {
+  "street": "Route de Verbier Station",
+  "hn": "4",
+  "lat": 46.0957824,
+  "lng": 7.2201848,
+  "mieter": []
+ },
+ "verbier|route de verbier station|52": {
+  "street": "Route de Verbier Station",
+  "hn": "52",
+  "lat": 46.0952664,
+  "lng": 7.2230194,
+  "mieter": []
+ },
+ "verbier|route de verbier station|34a": {
+  "street": "Route de Verbier Station",
+  "hn": "34a",
+  "lat": 46.095915,
+  "lng": 7.2235573,
+  "mieter": []
+ },
+ "verbier|route de verbier station|24": {
+  "street": "Route de Verbier Station",
+  "hn": "24",
+  "lat": 46.0962485,
+  "lng": 7.222934,
+  "mieter": []
+ },
+ "verbier|route de verbier station|31": {
+  "street": "Route de Verbier Station",
+  "hn": "31",
+  "lat": 46.0967589,
+  "lng": 7.2228175,
+  "mieter": []
+ },
+ "verbier|route de verbier station|19": {
+  "street": "Route de Verbier Station",
+  "hn": "19",
+  "lat": 46.096911,
+  "lng": 7.2203567,
+  "mieter": []
+ },
+ "verbier|route de verbier station|9": {
+  "street": "Route de Verbier Station",
+  "hn": "9",
+  "lat": 46.0966583,
+  "lng": 7.2206411,
+  "mieter": []
+ },
+ "verbier|route de verbier station|11": {
+  "street": "Route de Verbier Station",
+  "hn": "11",
+  "lat": 46.0967564,
+  "lng": 7.2200692,
+  "mieter": []
+ },
+ "verbier|rue de médran|63": {
+  "street": "Rue de Médran",
+  "hn": "63",
+  "lat": 46.0924338,
+  "lng": 7.2346352,
+  "mieter": []
+ },
+ "verbier|rue de médran|55": {
+  "street": "Rue de Médran",
+  "hn": "55",
+  "lat": 46.0940347,
+  "lng": 7.2344954,
+  "mieter": []
+ },
+ "verbier|rue de médran|67": {
+  "street": "Rue de Médran",
+  "hn": "67",
+  "lat": 46.0925519,
+  "lng": 7.234784,
+  "mieter": []
+ },
+ "verbier|rue de médran|69": {
+  "street": "Rue de Médran",
+  "hn": "69",
+  "lat": 46.0923712,
+  "lng": 7.2348897,
+  "mieter": []
+ },
+ "verbier|rue de médran|61": {
+  "street": "Rue de Médran",
+  "hn": "61",
+  "lat": 46.0923399,
+  "lng": 7.2342637,
+  "mieter": []
+ },
+ "verbier|rue de médran|71": {
+  "street": "Rue de Médran",
+  "hn": "71",
+  "lat": 46.0921576,
+  "lng": 7.2347764,
+  "mieter": []
+ },
+ "verbier|route des creux|37": {
+  "street": "Route des Creux",
+  "hn": "37",
+  "lat": 46.1005302,
+  "lng": 7.2291962,
+  "mieter": []
+ },
+ "verbier|route des creux|35": {
+  "street": "Route des Creux",
+  "hn": "35",
+  "lat": 46.1002348,
+  "lng": 7.2293682,
+  "mieter": []
+ },
+ "verbier|place centrale|4": {
+  "street": "Place Centrale",
+  "hn": "4",
+  "lat": 46.0958218,
+  "lng": 7.2291715,
+  "mieter": []
+ },
+ "verbier|route des creux|17b": {
+  "street": "Route des Creux",
+  "hn": "17b",
+  "lat": 46.0980009,
+  "lng": 7.229121,
+  "mieter": []
+ },
+ "verbier|rue de la poste|10": {
+  "street": "Rue de la Poste",
+  "hn": "10",
+  "lat": 46.0969906,
+  "lng": 7.227737,
+  "mieter": []
+ },
+ "verbier|place centrale|10": {
+  "street": "Place Centrale",
+  "hn": "10",
+  "lat": 46.096283,
+  "lng": 7.2288996,
+  "mieter": []
+ },
+ "verbier|route des creux|4": {
+  "street": "Route des Creux",
+  "hn": "4",
+  "lat": 46.0966151,
+  "lng": 7.2293696,
+  "mieter": []
+ },
+ "verbier|rue de la poste|11": {
+  "street": "Rue de la Poste",
+  "hn": "11",
+  "lat": 46.0966233,
+  "lng": 7.2267207,
+  "mieter": []
+ },
+ "verbier|route de verbier station|44": {
+  "street": "Route de Verbier Station",
+  "hn": "44",
+  "lat": 46.0953839,
+  "lng": 7.2247875,
+  "mieter": []
+ },
+ "verbier|place centrale|14": {
+  "street": "Place Centrale",
+  "hn": "14",
+  "lat": 46.0964254,
+  "lng": 7.2287613,
+  "mieter": []
+ },
+ "verbier|place centrale|6": {
+  "street": "Place Centrale",
+  "hn": "6",
+  "lat": 46.0960047,
+  "lng": 7.2293696,
+  "mieter": []
+ },
+ "verbier|rue de la poste|21": {
+  "street": "Rue de la Poste",
+  "hn": "21",
+  "lat": 46.0967436,
+  "lng": 7.2260293,
+  "mieter": []
+ },
+ "verbier|route de verbier station|82": {
+  "street": "Route de Verbier Station",
+  "hn": "82",
+  "lat": 46.0956511,
+  "lng": 7.2251314,
+  "mieter": []
+ },
+ "verbier|route de verbier station|66": {
+  "street": "Route de Verbier Station",
+  "hn": "66",
+  "lat": 46.0960039,
+  "lng": 7.2242431,
+  "mieter": []
+ },
+ "verbier|route de verbier station|86": {
+  "street": "Route de Verbier Station",
+  "hn": "86",
+  "lat": 46.0959379,
+  "lng": 7.2253805,
+  "mieter": []
+ },
+ "verbier|route de verbier station|92": {
+  "street": "Route de Verbier Station",
+  "hn": "92",
+  "lat": 46.0953448,
+  "lng": 7.2260185,
+  "mieter": []
+ },
+ "verbier|rue de la poste|15": {
+  "street": "Rue de la Poste",
+  "hn": "15",
+  "lat": 46.0966498,
+  "lng": 7.2264978,
+  "mieter": []
+ },
+ "verbier|route de verbier station|57": {
+  "street": "Route de Verbier Station",
+  "hn": "57",
+  "lat": 46.096526,
+  "lng": 7.2263076,
+  "mieter": []
+ },
+ "verbier|rue de la poste|22c": {
+  "street": "Rue de la Poste",
+  "hn": "22c",
+  "lat": 46.0971495,
+  "lng": 7.225946,
+  "mieter": []
+ },
+ "verbier|rue de médran|8": {
+  "street": "Rue de Médran",
+  "hn": "8",
+  "lat": 46.0951454,
+  "lng": 7.2293772,
+  "mieter": []
+ },
+ "verbier|rue de la poste|18": {
+  "street": "Rue de la Poste",
+  "hn": "18",
+  "lat": 46.0971016,
+  "lng": 7.2271854,
+  "mieter": []
+ },
+ "verbier|route des creux|7": {
+  "street": "Route des Creux",
+  "hn": "7",
+  "lat": 46.0971606,
+  "lng": 7.2293151,
+  "mieter": []
+ },
+ "verbier|route de verbier station|51": {
+  "street": "Route de Verbier Station",
+  "hn": "51",
+  "lat": 46.0965099,
+  "lng": 7.2253069,
+  "mieter": []
+ },
+ "verbier|route des creux|80": {
+  "street": "Route des Creux",
+  "hn": "80",
+  "lat": 46.101146,
+  "lng": 7.2292884,
+  "mieter": []
+ },
+ "verbier|route des creux|11b": {
+  "street": "Route des Creux",
+  "hn": "11b",
+  "lat": 46.0979816,
+  "lng": 7.2289394,
+  "mieter": []
+ },
+ "verbier|route des creux|5": {
+  "street": "Route des Creux",
+  "hn": "5",
+  "lat": 46.0968184,
+  "lng": 7.2285683,
+  "mieter": []
+ },
+ "verbier|route de verbier station|47": {
+  "street": "Route de Verbier Station",
+  "hn": "47",
+  "lat": 46.0968515,
+  "lng": 7.2247331,
+  "mieter": []
+ },
+ "verbier|place centrale|12": {
+  "street": "Place Centrale",
+  "hn": "12",
+  "lat": 46.0962476,
+  "lng": 7.2286476,
+  "mieter": []
+ },
+ "verbier|route de verbier station|76": {
+  "street": "Route de Verbier Station",
+  "hn": "76",
+  "lat": 46.0959706,
+  "lng": 7.2246513,
+  "mieter": []
+ },
+ "verbier|route des creux|9": {
+  "street": "Route des Creux",
+  "hn": "9",
+  "lat": 46.0976375,
+  "lng": 7.2292576,
+  "mieter": []
+ },
+ "verbier|route de verbier station|42": {
+  "street": "Route de Verbier Station",
+  "hn": "42",
+  "lat": 46.095645,
+  "lng": 7.2244476,
+  "mieter": []
+ },
+ "verbier|route des creux|11a": {
+  "street": "Route des Creux",
+  "hn": "11a",
+  "lat": 46.0978872,
+  "lng": 7.2287573,
+  "mieter": []
+ },
+ "verbier|route de verbier station|45": {
+  "street": "Route de Verbier Station",
+  "hn": "45",
+  "lat": 46.096889,
+  "lng": 7.2242913,
+  "mieter": []
+ },
+ "verbier|route de verbier station|49": {
+  "street": "Route de Verbier Station",
+  "hn": "49",
+  "lat": 46.0966285,
+  "lng": 7.2249058,
+  "mieter": []
+ },
+ "verbier|rue de la poste|25": {
+  "street": "Rue de la Poste",
+  "hn": "25",
+  "lat": 46.0968239,
+  "lng": 7.2256669,
+  "mieter": []
+ },
+ "verbier|route de verbier station|78": {
+  "street": "Route de Verbier Station",
+  "hn": "78",
+  "lat": 46.0958366,
+  "lng": 7.2249304,
+  "mieter": []
+ },
+ "verbier|route de verbier station|104": {
+  "street": "Route de Verbier Station",
+  "hn": "104",
+  "lat": 46.0956019,
+  "lng": 7.2268075,
+  "mieter": []
+ },
+ "verbier|route de verbier station|61": {
+  "street": "Route de Verbier Station",
+  "hn": "61",
+  "lat": 46.0961747,
+  "lng": 7.2272602,
+  "mieter": []
+ },
+ "verbier|route de verbier station|65": {
+  "street": "Route de Verbier Station",
+  "hn": "65",
+  "lat": 46.096183,
+  "lng": 7.2282087,
+  "mieter": []
+ },
+ "verbier|place centrale|16": {
+  "street": "Place Centrale",
+  "hn": "16",
+  "lat": 46.0961247,
+  "lng": 7.228199,
+  "mieter": []
+ },
+ "verbier|route des creux|33": {
+  "street": "Route des Creux",
+  "hn": "33",
+  "lat": 46.0999807,
+  "lng": 7.2293017,
+  "mieter": []
+ },
+ "verbier|rue de la poste|30": {
+  "street": "Rue de la Poste",
+  "hn": "30",
+  "lat": 46.0971619,
+  "lng": 7.2243514,
+  "mieter": []
+ },
+ "verbier|rue de médran|62a": {
+  "street": "Rue de Médran",
+  "hn": "62a",
+  "lat": 46.0917849,
+  "lng": 7.2320101,
+  "mieter": []
+ },
+ "verbier|rue de médran|68a": {
+  "street": "Rue de Médran",
+  "hn": "68a",
+  "lat": 46.0910999,
+  "lng": 7.2316922,
+  "mieter": []
+ },
+ "verbier|rue de médran|68": {
+  "street": "Rue de Médran",
+  "hn": "68",
+  "lat": 46.0914421,
+  "lng": 7.2321106,
+  "mieter": []
+ },
+ "verbier|route des creux|114": {
+  "street": "Route des Creux",
+  "hn": "114",
+  "lat": 46.1028138,
+  "lng": 7.2295391,
+  "mieter": []
+ },
+ "verbier|route des creux|126": {
+  "street": "Route des Creux",
+  "hn": "126",
+  "lat": 46.102874,
+  "lng": 7.2269258,
+  "mieter": []
+ },
+ "verbier|route des creux|110": {
+  "street": "Route des Creux",
+  "hn": "110",
+  "lat": 46.1023837,
+  "lng": 7.2301772,
+  "mieter": []
+ },
+ "verbier|route des creux|81": {
+  "street": "Route des Creux",
+  "hn": "81",
+  "lat": 46.102981,
+  "lng": 7.2250967,
+  "mieter": []
+ },
+ "verbier|route des creux|108": {
+  "street": "Route des Creux",
+  "hn": "108",
+  "lat": 46.1022902,
+  "lng": 7.2296683,
+  "mieter": []
+ },
+ "verbier|route des creux|57": {
+  "street": "Route des Creux",
+  "hn": "57",
+  "lat": 46.101998,
+  "lng": 7.2271307,
+  "mieter": []
+ },
+ "verbier|route des creux|116b": {
+  "street": "Route des Creux",
+  "hn": "116b",
+  "lat": 46.1024125,
+  "lng": 7.2287502,
+  "mieter": []
+ },
+ "verbier|route des creux|120": {
+  "street": "Route des Creux",
+  "hn": "120",
+  "lat": 46.1026247,
+  "lng": 7.2279237,
+  "mieter": []
+ },
+ "verbier|route des creux|122": {
+  "street": "Route des Creux",
+  "hn": "122",
+  "lat": 46.1026969,
+  "lng": 7.227725,
+  "mieter": []
+ },
+ "verbier|route des creux|73": {
+  "street": "Route des Creux",
+  "hn": "73",
+  "lat": 46.1028637,
+  "lng": 7.2253438,
+  "mieter": []
+ },
+ "verbier|route des creux|79": {
+  "street": "Route des Creux",
+  "hn": "79",
+  "lat": 46.103205,
+  "lng": 7.2244999,
+  "mieter": []
+ },
+ "verbier|route des creux|59": {
+  "street": "Route des Creux",
+  "hn": "59",
+  "lat": 46.1022198,
+  "lng": 7.2272926,
+  "mieter": []
+ },
+ "verbier|route des creux|49": {
+  "street": "Route des Creux",
+  "hn": "49",
+  "lat": 46.1015596,
+  "lng": 7.2282661,
+  "mieter": []
+ },
+ "verbier|route des creux|112": {
+  "street": "Route des Creux",
+  "hn": "112",
+  "lat": 46.1026668,
+  "lng": 7.2299543,
+  "mieter": []
+ },
+ "verbier|route des creux|118": {
+  "street": "Route des Creux",
+  "hn": "118",
+  "lat": 46.102708,
+  "lng": 7.2284842,
+  "mieter": []
+ },
+ "verbier|route des creux|83": {
+  "street": "Route des Creux",
+  "hn": "83",
+  "lat": 46.102975,
+  "lng": 7.2246086,
+  "mieter": []
+ },
+ "verbier|route des creux|85": {
+  "street": "Route des Creux",
+  "hn": "85",
+  "lat": 46.1029928,
+  "lng": 7.2243446,
+  "mieter": []
+ },
+ "verbier|rue de la poste|1": {
+  "street": "Rue de la Poste",
+  "hn": "1",
+  "lat": 46.0972051,
+  "lng": 7.2247542,
+  "mieter": []
+ },
+ "verbier|route de verbier station|bouton d'or": {
+  "street": "Route de Verbier Station",
+  "hn": "Bouton d'Or",
+  "lat": 46.0970435,
+  "lng": 7.2230714,
+  "mieter": []
+ },
+ "verbier|route de verbier station|29": {
+  "street": "Route de Verbier Station",
+  "hn": "29",
+  "lat": 46.0968259,
+  "lng": 7.222439,
+  "mieter": []
+ }
+}

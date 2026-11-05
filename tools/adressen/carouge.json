@@ -1,0 +1,1722 @@
+{
+ "carouge|rue saint-joseph|47": {
+  "street": "Rue Saint-Joseph",
+  "hn": "47",
+  "lat": 46.1844753,
+  "lng": 6.1414465,
+  "mieter": [
+   "Cinéma Bio",
+   "Café du Cinéma Bio"
+  ]
+ },
+ "carouge|rue ancienne|86": {
+  "street": "Rue Ancienne",
+  "hn": "86",
+  "lat": 46.180453,
+  "lng": 6.1396979,
+  "mieter": [
+   "PharmaciePlus du Rondeau"
+  ]
+ },
+ "carouge|rue jacques-dalphin|28": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "28",
+  "lat": 46.1838475,
+  "lng": 6.1387551,
+  "mieter": [
+   "Parking Sardaigne"
+  ]
+ },
+ "carouge|rue ancienne|42": {
+  "street": "Rue Ancienne",
+  "hn": "42",
+  "lat": 46.1818419,
+  "lng": 6.1408732,
+  "mieter": [
+   "Café de l'Aigle"
+  ]
+ },
+ "carouge|rue jacques-dalphin|31": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "31",
+  "lat": 46.1832762,
+  "lng": 6.1397106,
+  "mieter": [
+   "Sabi"
+  ]
+ },
+ "carouge|place du marché|4": {
+  "street": "Place du Marché",
+  "hn": "4",
+  "lat": 46.1843822,
+  "lng": 6.141112,
+  "mieter": [
+   "Café du Marché"
+  ]
+ },
+ "carouge|rue ancienne|60": {
+  "street": "Rue Ancienne",
+  "hn": "60",
+  "lat": 46.1811894,
+  "lng": 6.1406892,
+  "mieter": [
+   "Choco Shop"
+  ]
+ },
+ "carouge|rue ancienne|36": {
+  "street": "Rue Ancienne",
+  "hn": "36",
+  "lat": 46.1820097,
+  "lng": 6.1408991,
+  "mieter": [
+   "Arômes et saveurs"
+  ]
+ },
+ "carouge|rue jacques-dalphin|27": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "27",
+  "lat": 46.1836022,
+  "lng": 6.139643,
+  "mieter": [
+   "au Vieux Carouge"
+  ]
+ },
+ "carouge|place du marché|7": {
+  "street": "Place du Marché",
+  "hn": "7",
+  "lat": 46.1839273,
+  "lng": 6.1408865,
+  "mieter": [
+   "Brasserie La Bourse"
+  ]
+ },
+ "carouge|rue jacques-dalphin|11": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "11",
+  "lat": 46.1854504,
+  "lng": 6.1393423,
+  "mieter": [
+   "Le Canard Intelligent"
+  ]
+ },
+ "carouge|rue saint-victor|18": {
+  "street": "Rue Saint-Victor",
+  "hn": "18",
+  "lat": 46.1854722,
+  "lng": 6.140049,
+  "mieter": [
+   "Tabac P. Gonthier"
+  ]
+ },
+ "carouge|rue saint-joseph|36": {
+  "street": "Rue Saint-Joseph",
+  "hn": "36",
+  "lat": 46.184616,
+  "lng": 6.1411152,
+  "mieter": [
+   "Café du Cinéma"
+  ]
+ },
+ "carouge|rue saint-joseph|37": {
+  "street": "Rue Saint-Joseph",
+  "hn": "37",
+  "lat": 46.1850022,
+  "lng": 6.1412654,
+  "mieter": [
+   "Fleuve d'Or"
+  ]
+ },
+ "carouge|rue ancienne|1": {
+  "street": "Rue Ancienne",
+  "hn": "1",
+  "lat": 46.183187,
+  "lng": 6.1415639,
+  "mieter": [
+   "Qu'Importe"
+  ]
+ },
+ "carouge|rue ancienne|51": {
+  "street": "Rue Ancienne",
+  "hn": "51",
+  "lat": 46.1805844,
+  "lng": 6.1403757,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|15": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "15",
+  "lat": 46.184759,
+  "lng": 6.1393755,
+  "mieter": [
+   "Institut d'imagerie de Carouge centre"
+  ]
+ },
+ "carouge|rue jacques-dalphin|17": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "17",
+  "lat": 46.1846346,
+  "lng": 6.139404,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|19": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "19",
+  "lat": 46.1845507,
+  "lng": 6.1394232,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|20": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "20",
+  "lat": 46.1848344,
+  "lng": 6.1390988,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|21": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "21",
+  "lat": 46.1844449,
+  "lng": 6.1394475,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|22": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "22",
+  "lat": 46.1847069,
+  "lng": 6.1391353,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|23bis": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "23bis",
+  "lat": 46.1839909,
+  "lng": 6.1396281,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|24": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "24",
+  "lat": 46.1845758,
+  "lng": 6.1391641,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|25": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "25",
+  "lat": 46.1837285,
+  "lng": 6.1396119,
+  "mieter": []
+ },
+ "carouge|rue ancienne|26": {
+  "street": "Rue Ancienne",
+  "hn": "26",
+  "lat": 46.1823703,
+  "lng": 6.1409903,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|29": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "29",
+  "lat": 46.1835226,
+  "lng": 6.1396647,
+  "mieter": [
+   "Dix Vins"
+  ]
+ },
+ "carouge|rue ancienne|28": {
+  "street": "Rue Ancienne",
+  "hn": "28",
+  "lat": 46.1823277,
+  "lng": 6.1409792,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|29bis": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "29bis",
+  "lat": 46.1833856,
+  "lng": 6.1396998,
+  "mieter": []
+ },
+ "carouge|rue ancienne|30": {
+  "street": "Rue Ancienne",
+  "hn": "30",
+  "lat": 46.1822861,
+  "lng": 6.1409684,
+  "mieter": [
+   "Edamame"
+  ]
+ },
+ "carouge|rue jacques-dalphin|30": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "30",
+  "lat": 46.1835535,
+  "lng": 6.1393984,
+  "mieter": []
+ },
+ "carouge|rue ancienne|32": {
+  "street": "Rue Ancienne",
+  "hn": "32",
+  "lat": 46.1821357,
+  "lng": 6.1409376,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|32a": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "32a",
+  "lat": 46.1833543,
+  "lng": 6.1394627,
+  "mieter": []
+ },
+ "carouge|rue ancienne|33": {
+  "street": "Rue Ancienne",
+  "hn": "33",
+  "lat": 46.1816955,
+  "lng": 6.1410826,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|33": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "33",
+  "lat": 46.1824488,
+  "lng": 6.140102,
+  "mieter": []
+ },
+ "carouge|rue ancienne|34": {
+  "street": "Rue Ancienne",
+  "hn": "34",
+  "lat": 46.1820736,
+  "lng": 6.140919,
+  "mieter": []
+ },
+ "carouge|rue ancienne|35": {
+  "street": "Rue Ancienne",
+  "hn": "35",
+  "lat": 46.1815781,
+  "lng": 6.1412273,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|36": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "36",
+  "lat": 46.1827966,
+  "lng": 6.139588,
+  "mieter": []
+ },
+ "carouge|rue ancienne|37": {
+  "street": "Rue Ancienne",
+  "hn": "37",
+  "lat": 46.1815992,
+  "lng": 6.1418353,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|38": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "38",
+  "lat": 46.1826677,
+  "lng": 6.1396165,
+  "mieter": []
+ },
+ "carouge|rue ancienne|38": {
+  "street": "Rue Ancienne",
+  "hn": "38",
+  "lat": 46.1819796,
+  "lng": 6.1408908,
+  "mieter": []
+ },
+ "carouge|rue ancienne|40": {
+  "street": "Rue Ancienne",
+  "hn": "40",
+  "lat": 46.1819073,
+  "lng": 6.1408691,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|40": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "40",
+  "lat": 46.1825389,
+  "lng": 6.1396449,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|42": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "42",
+  "lat": 46.18241,
+  "lng": 6.1396734,
+  "mieter": []
+ },
+ "carouge|rue ancienne|44": {
+  "street": "Rue Ancienne",
+  "hn": "44",
+  "lat": 46.1817873,
+  "lng": 6.140833,
+  "mieter": []
+ },
+ "carouge|place du marché|12": {
+  "street": "Place du Marché",
+  "hn": "12",
+  "lat": 46.1842656,
+  "lng": 6.1401964,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|12": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "12",
+  "lat": 46.1865194,
+  "lng": 6.1386163,
+  "mieter": []
+ },
+ "carouge|place du marché|14": {
+  "street": "Place du Marché",
+  "hn": "14",
+  "lat": 46.1842425,
+  "lng": 6.1399904,
+  "mieter": [
+   "Mairie de Carouge"
+  ]
+ },
+ "carouge|place du marché|18": {
+  "street": "Place du Marché",
+  "hn": "18",
+  "lat": 46.1842199,
+  "lng": 6.1397942,
+  "mieter": []
+ },
+ "carouge|place du marché|20": {
+  "street": "Place du Marché",
+  "hn": "20",
+  "lat": 46.1841914,
+  "lng": 6.1395932,
+  "mieter": [
+   "Crêperie du Vieux-Carouge"
+  ]
+ },
+ "carouge|rue ancienne|31": {
+  "street": "Rue Ancienne",
+  "hn": "31",
+  "lat": 46.1818458,
+  "lng": 6.1411181,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|7": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "7",
+  "lat": 46.1860484,
+  "lng": 6.1391019,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|13": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "13",
+  "lat": 46.1852123,
+  "lng": 6.1393023,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|23": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "23",
+  "lat": 46.184295,
+  "lng": 6.1394819,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|34": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "34",
+  "lat": 46.1830006,
+  "lng": 6.1395429,
+  "mieter": [
+   "EMS La Provvidenza"
+  ]
+ },
+ "carouge|rue jacques-dalphin|37": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "37",
+  "lat": 46.181903,
+  "lng": 6.1400485,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|37a": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "37a",
+  "lat": 46.1817971,
+  "lng": 6.140077,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|39": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "39",
+  "lat": 46.1816724,
+  "lng": 6.1401105,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|41": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "41",
+  "lat": 46.1815929,
+  "lng": 6.1401289,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|43": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "43",
+  "lat": 46.1815321,
+  "lng": 6.1401458,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|46": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "46",
+  "lat": 46.1816987,
+  "lng": 6.1398332,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|48": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "48",
+  "lat": 46.1814424,
+  "lng": 6.1398943,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|9": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "9",
+  "lat": 46.1858855,
+  "lng": 6.139141,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|9bis": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "9bis",
+  "lat": 46.185749,
+  "lng": 6.1391737,
+  "mieter": []
+ },
+ "carouge|rue ancienne|39": {
+  "street": "Rue Ancienne",
+  "hn": "39",
+  "lat": 46.1813867,
+  "lng": 6.1410677,
+  "mieter": []
+ },
+ "carouge|rue ancienne|41": {
+  "street": "Rue Ancienne",
+  "hn": "41",
+  "lat": 46.181264,
+  "lng": 6.1409709,
+  "mieter": [
+   "Blue Balloon Café"
+  ]
+ },
+ "carouge|rue ancienne|43": {
+  "street": "Rue Ancienne",
+  "hn": "43",
+  "lat": 46.1811788,
+  "lng": 6.1409356,
+  "mieter": []
+ },
+ "carouge|rue ancienne|43a": {
+  "street": "Rue Ancienne",
+  "hn": "43a",
+  "lat": 46.1811256,
+  "lng": 6.1409661,
+  "mieter": []
+ },
+ "carouge|rue ancienne|43b": {
+  "street": "Rue Ancienne",
+  "hn": "43b",
+  "lat": 46.1810891,
+  "lng": 6.1410537,
+  "mieter": []
+ },
+ "carouge|rue ancienne|45": {
+  "street": "Rue Ancienne",
+  "hn": "45",
+  "lat": 46.1810996,
+  "lng": 6.1408689,
+  "mieter": []
+ },
+ "carouge|rue ancienne|47": {
+  "street": "Rue Ancienne",
+  "hn": "47",
+  "lat": 46.1810229,
+  "lng": 6.1408063,
+  "mieter": []
+ },
+ "carouge|rue ancienne|49": {
+  "street": "Rue Ancienne",
+  "hn": "49",
+  "lat": 46.1809048,
+  "lng": 6.1406862,
+  "mieter": []
+ },
+ "carouge|rue ancienne|62": {
+  "street": "Rue Ancienne",
+  "hn": "62",
+  "lat": 46.1811167,
+  "lng": 6.1406416,
+  "mieter": []
+ },
+ "carouge|rue ancienne|64": {
+  "street": "Rue Ancienne",
+  "hn": "64",
+  "lat": 46.1810483,
+  "lng": 6.1405806,
+  "mieter": []
+ },
+ "carouge|rue ancienne|7": {
+  "street": "Rue Ancienne",
+  "hn": "7",
+  "lat": 46.182852,
+  "lng": 6.1414238,
+  "mieter": []
+ },
+ "carouge|rue ancienne|9": {
+  "street": "Rue Ancienne",
+  "hn": "9",
+  "lat": 46.1827926,
+  "lng": 6.1413971,
+  "mieter": []
+ },
+ "carouge|rue ancienne|46": {
+  "street": "Rue Ancienne",
+  "hn": "46",
+  "lat": 46.1816938,
+  "lng": 6.140813,
+  "mieter": []
+ },
+ "carouge|rue ancienne|48": {
+  "street": "Rue Ancienne",
+  "hn": "48",
+  "lat": 46.1816233,
+  "lng": 6.1407992,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|1": {
+  "street": "Rue Saint-Victor",
+  "hn": "1",
+  "lat": 46.186467,
+  "lng": 6.14006,
+  "mieter": []
+ },
+ "carouge|place du marché|10": {
+  "street": "Place du Marché",
+  "hn": "10",
+  "lat": 46.1843104,
+  "lng": 6.1405908,
+  "mieter": [
+   "Specialized;Santa Cruz;Flyer;BMC;Ghost;Cannondale;Haibike"
+  ]
+ },
+ "carouge|rue saint-victor|10": {
+  "street": "Rue Saint-Victor",
+  "hn": "10",
+  "lat": 46.1858668,
+  "lng": 6.1399474,
+  "mieter": [
+   "Pizza Vino"
+  ]
+ },
+ "carouge|place du marché|10a": {
+  "street": "Place du Marché",
+  "hn": "10a",
+  "lat": 46.1843192,
+  "lng": 6.1406798,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|11": {
+  "street": "Rue Saint-Victor",
+  "hn": "11",
+  "lat": 46.1859929,
+  "lng": 6.1401588,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|12": {
+  "street": "Rue Saint-Victor",
+  "hn": "12",
+  "lat": 46.1856351,
+  "lng": 6.1400065,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|13": {
+  "street": "Rue Saint-Victor",
+  "hn": "13",
+  "lat": 46.185919,
+  "lng": 6.1401742,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|14": {
+  "street": "Rue Saint-Victor",
+  "hn": "14",
+  "lat": 46.1855991,
+  "lng": 6.1400149,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|15": {
+  "street": "Rue Saint-Victor",
+  "hn": "15",
+  "lat": 46.1858588,
+  "lng": 6.1401867,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|16": {
+  "street": "Rue Saint-Victor",
+  "hn": "16",
+  "lat": 46.1855477,
+  "lng": 6.1400268,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|19": {
+  "street": "Rue Saint-Victor",
+  "hn": "19",
+  "lat": 46.1855743,
+  "lng": 6.1402518,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|2": {
+  "street": "Rue Saint-Victor",
+  "hn": "2",
+  "lat": 46.1863017,
+  "lng": 6.139843,
+  "mieter": [
+   "Watchaser"
+  ]
+ },
+ "carouge|rue saint-victor|20": {
+  "street": "Rue Saint-Victor",
+  "hn": "20",
+  "lat": 46.1853582,
+  "lng": 6.1400707,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|21": {
+  "street": "Rue Saint-Victor",
+  "hn": "21",
+  "lat": 46.1854684,
+  "lng": 6.1402845,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|22": {
+  "street": "Rue Saint-Victor",
+  "hn": "22",
+  "lat": 46.1852466,
+  "lng": 6.1400965,
+  "mieter": []
+ },
+ "carouge|rue ancienne|24": {
+  "street": "Rue Ancienne",
+  "hn": "24",
+  "lat": 46.1824304,
+  "lng": 6.1410034,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|24": {
+  "street": "Rue Saint-Victor",
+  "hn": "24",
+  "lat": 46.1848898,
+  "lng": 6.1401698,
+  "mieter": [
+   "Pharmacie St-Victor"
+  ]
+ },
+ "carouge|rue saint-victor|26": {
+  "street": "Rue Saint-Victor",
+  "hn": "26",
+  "lat": 46.184787,
+  "lng": 6.1401926,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|28": {
+  "street": "Rue Saint-Victor",
+  "hn": "28",
+  "lat": 46.1847305,
+  "lng": 6.1402051,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|29": {
+  "street": "Rue Saint-Victor",
+  "hn": "29",
+  "lat": 46.1848138,
+  "lng": 6.1404288,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|3": {
+  "street": "Rue Saint-Joseph",
+  "hn": "3",
+  "lat": 46.1867543,
+  "lng": 6.1408409,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|3": {
+  "street": "Rue Saint-Victor",
+  "hn": "3",
+  "lat": 46.1863854,
+  "lng": 6.140077,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|30": {
+  "street": "Rue Saint-Victor",
+  "hn": "30",
+  "lat": 46.1846547,
+  "lng": 6.1402219,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|31": {
+  "street": "Rue Saint-Victor",
+  "hn": "31",
+  "lat": 46.1847311,
+  "lng": 6.1404556,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|33": {
+  "street": "Rue Saint-Victor",
+  "hn": "33",
+  "lat": 46.1846559,
+  "lng": 6.140473,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|35": {
+  "street": "Rue Saint-Victor",
+  "hn": "35",
+  "lat": 46.1845714,
+  "lng": 6.1404931,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|36": {
+  "street": "Rue Saint-Victor",
+  "hn": "36",
+  "lat": 46.1844075,
+  "lng": 6.1402767,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|4": {
+  "street": "Rue Saint-Victor",
+  "hn": "4",
+  "lat": 46.186181,
+  "lng": 6.139872,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|5": {
+  "street": "Rue Saint-Joseph",
+  "hn": "5",
+  "lat": 46.186695,
+  "lng": 6.1408543,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|5": {
+  "street": "Rue Saint-Victor",
+  "hn": "5",
+  "lat": 46.186287,
+  "lng": 6.1400975,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|6": {
+  "street": "Rue Saint-Victor",
+  "hn": "6",
+  "lat": 46.1861039,
+  "lng": 6.1398905,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|7": {
+  "street": "Rue Saint-Victor",
+  "hn": "7",
+  "lat": 46.1861886,
+  "lng": 6.140118,
+  "mieter": [
+   "Koros épicerie fine"
+  ]
+ },
+ "carouge|place du marché|8": {
+  "street": "Place du Marché",
+  "hn": "8",
+  "lat": 46.1843347,
+  "lng": 6.140837,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|8": {
+  "street": "Rue Saint-Victor",
+  "hn": "8",
+  "lat": 46.1860147,
+  "lng": 6.1399119,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|9": {
+  "street": "Rue Saint-Victor",
+  "hn": "9",
+  "lat": 46.1860704,
+  "lng": 6.1401427,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|1": {
+  "street": "Rue Saint-Joseph",
+  "hn": "1",
+  "lat": 46.1868282,
+  "lng": 6.1408243,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|10": {
+  "street": "Rue Saint-Joseph",
+  "hn": "10",
+  "lat": 46.1862172,
+  "lng": 6.1407202,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|11": {
+  "street": "Rue Saint-Joseph",
+  "hn": "11",
+  "lat": 46.186399,
+  "lng": 6.1409211,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|13": {
+  "street": "Rue Saint-Joseph",
+  "hn": "13",
+  "lat": 46.1863031,
+  "lng": 6.1409428,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|14": {
+  "street": "Rue Saint-Joseph",
+  "hn": "14",
+  "lat": 46.1859842,
+  "lng": 6.140776,
+  "mieter": []
+ },
+ "carouge|place du marché|15": {
+  "street": "Place du Marché",
+  "hn": "15",
+  "lat": 46.1838529,
+  "lng": 6.1402121,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|15": {
+  "street": "Rue Saint-Joseph",
+  "hn": "15",
+  "lat": 46.1862408,
+  "lng": 6.1409568,
+  "mieter": [
+   "Nouvelles Pages"
+  ]
+ },
+ "carouge|place du marché|17": {
+  "street": "Place du Marché",
+  "hn": "17",
+  "lat": 46.1838297,
+  "lng": 6.139997,
+  "mieter": []
+ },
+ "carouge|place du marché|19": {
+  "street": "Place du Marché",
+  "hn": "19",
+  "lat": 46.1838163,
+  "lng": 6.1398716,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|19": {
+  "street": "Rue Saint-Joseph",
+  "hn": "19",
+  "lat": 46.1860909,
+  "lng": 6.140989,
+  "mieter": []
+ },
+ "carouge|place du marché|1bis": {
+  "street": "Place du Marché",
+  "hn": "1bis",
+  "lat": 46.1840098,
+  "lng": 6.1417098,
+  "mieter": [
+   "La Librerit"
+  ]
+ },
+ "carouge|rue saint-joseph|2": {
+  "street": "Rue Saint-Joseph",
+  "hn": "2",
+  "lat": 46.186683,
+  "lng": 6.1406085,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|20": {
+  "street": "Rue Saint-Joseph",
+  "hn": "20",
+  "lat": 46.1855156,
+  "lng": 6.1408861,
+  "mieter": []
+ },
+ "carouge|place du marché|21": {
+  "street": "Place du Marché",
+  "hn": "21",
+  "lat": 46.1838048,
+  "lng": 6.1397651,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|21": {
+  "street": "Rue Saint-Joseph",
+  "hn": "21",
+  "lat": 46.1860459,
+  "lng": 6.1410033,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|22": {
+  "street": "Rue Saint-Joseph",
+  "hn": "22",
+  "lat": 46.1854476,
+  "lng": 6.1409052,
+  "mieter": []
+ },
+ "carouge|place du marché|23": {
+  "street": "Place du Marché",
+  "hn": "23",
+  "lat": 46.1837908,
+  "lng": 6.1396353,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|26": {
+  "street": "Rue Saint-Joseph",
+  "hn": "26",
+  "lat": 46.1849821,
+  "lng": 6.1410151,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|29": {
+  "street": "Rue Saint-Joseph",
+  "hn": "29",
+  "lat": 46.1856442,
+  "lng": 6.141089,
+  "mieter": [
+   "epsetera"
+  ]
+ },
+ "carouge|place du marché|3": {
+  "street": "Place du Marché",
+  "hn": "3",
+  "lat": 46.183992,
+  "lng": 6.141537,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|30": {
+  "street": "Rue Saint-Joseph",
+  "hn": "30",
+  "lat": 46.1848376,
+  "lng": 6.1410454,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|31": {
+  "street": "Rue Saint-Joseph",
+  "hn": "31",
+  "lat": 46.1855375,
+  "lng": 6.14111,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|32": {
+  "street": "Rue Saint-Victor",
+  "hn": "32",
+  "lat": 46.184565,
+  "lng": 6.1402418,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|34": {
+  "street": "Rue Saint-Joseph",
+  "hn": "34",
+  "lat": 46.1847337,
+  "lng": 6.1410673,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|34": {
+  "street": "Rue Saint-Victor",
+  "hn": "34",
+  "lat": 46.1844833,
+  "lng": 6.1402599,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|35": {
+  "street": "Rue Saint-Joseph",
+  "hn": "35",
+  "lat": 46.1851231,
+  "lng": 6.1412102,
+  "mieter": [
+   "De bleu ! De bleu !"
+  ]
+ },
+ "carouge|rue saint-joseph|38": {
+  "street": "Rue Saint-Joseph",
+  "hn": "38",
+  "lat": 46.1846397,
+  "lng": 6.1410871,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|39": {
+  "street": "Rue Saint-Joseph",
+  "hn": "39",
+  "lat": 46.1849116,
+  "lng": 6.1412564,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|4": {
+  "street": "Rue Saint-Joseph",
+  "hn": "4",
+  "lat": 46.1865756,
+  "lng": 6.1406343,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|40": {
+  "street": "Rue Saint-Joseph",
+  "hn": "40",
+  "lat": 46.1845937,
+  "lng": 6.1410967,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|41": {
+  "street": "Rue Saint-Joseph",
+  "hn": "41",
+  "lat": 46.1847631,
+  "lng": 6.1412889,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|42": {
+  "street": "Rue Saint-Joseph",
+  "hn": "42",
+  "lat": 46.1845006,
+  "lng": 6.1411163,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|43": {
+  "street": "Rue Saint-Joseph",
+  "hn": "43",
+  "lat": 46.1846409,
+  "lng": 6.1413192,
+  "mieter": [
+   "Gelatomania"
+  ]
+ },
+ "carouge|rue saint-joseph|45": {
+  "street": "Rue Saint-Joseph",
+  "hn": "45",
+  "lat": 46.1845601,
+  "lng": 6.1413333,
+  "mieter": []
+ },
+ "carouge|place du marché|5": {
+  "street": "Place du Marché",
+  "hn": "5",
+  "lat": 46.1839812,
+  "lng": 6.1413465,
+  "mieter": []
+ },
+ "carouge|place du marché|6": {
+  "street": "Place du Marché",
+  "hn": "6",
+  "lat": 46.1843491,
+  "lng": 6.1409834,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|6": {
+  "street": "Rue Saint-Joseph",
+  "hn": "6",
+  "lat": 46.1864183,
+  "lng": 6.140672,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|8": {
+  "street": "Rue Saint-Joseph",
+  "hn": "8",
+  "lat": 46.1863027,
+  "lng": 6.1406997,
+  "mieter": []
+ },
+ "carouge|place du marché|9": {
+  "street": "Place du Marché",
+  "hn": "9",
+  "lat": 46.1837431,
+  "lng": 6.1410723,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|9": {
+  "street": "Rue Saint-Joseph",
+  "hn": "9",
+  "lat": 46.1865456,
+  "lng": 6.140888,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|14": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "14",
+  "lat": 46.186286,
+  "lng": 6.1386637,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|16": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "16",
+  "lat": 46.1856359,
+  "lng": 6.1387825,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|18": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "18",
+  "lat": 46.1853463,
+  "lng": 6.1387766,
+  "mieter": []
+ },
+ "carouge|place du marché|2": {
+  "street": "Place du Marché",
+  "hn": "2",
+  "lat": 46.1844538,
+  "lng": 6.1419483,
+  "mieter": [
+   "Manu gelato"
+  ]
+ },
+ "carouge|rue jacques-dalphin|10": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "10",
+  "lat": 46.1866341,
+  "lng": 6.1385838,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|35": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "35",
+  "lat": 46.1820508,
+  "lng": 6.1400219,
+  "mieter": [
+   "La Huchette"
+  ]
+ },
+ "carouge|rue jacques-dalphin|18b": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "18b",
+  "lat": 46.1851998,
+  "lng": 6.1388979,
+  "mieter": []
+ },
+ "carouge|rue ancienne|78a": {
+  "street": "Rue Ancienne",
+  "hn": "78a",
+  "lat": 46.1807432,
+  "lng": 6.1397737,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|51ter": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "51ter",
+  "lat": 46.1809593,
+  "lng": 6.1403846,
+  "mieter": []
+ },
+ "carouge|rue ancienne|71": {
+  "street": "Rue Ancienne",
+  "hn": "71",
+  "lat": 46.1801523,
+  "lng": 6.1395272,
+  "mieter": []
+ },
+ "carouge|place du marché|1": {
+  "street": "Place du Marché",
+  "hn": "1",
+  "lat": 46.1840408,
+  "lng": 6.1418772,
+  "mieter": [
+   "Amavita"
+  ]
+ },
+ "carouge|rue jacques-dalphin|54": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "54",
+  "lat": 46.1809085,
+  "lng": 6.1400653,
+  "mieter": [
+   "l'Agora d'Hydraménys",
+   "Indian Rasoi"
+  ]
+ },
+ "carouge|rue ancienne|57": {
+  "street": "Rue Ancienne",
+  "hn": "57",
+  "lat": 46.1803925,
+  "lng": 6.1401681,
+  "mieter": [
+   "Théâtre de Carouge, salle Gérard-Carrat"
+  ]
+ },
+ "carouge|rue saint-joseph|7": {
+  "street": "Rue Saint-Joseph",
+  "hn": "7",
+  "lat": 46.186634,
+  "lng": 6.1408312,
+  "mieter": [
+   "Laiterie de Carouge"
+  ]
+ },
+ "carouge|rue ancienne|5": {
+  "street": "Rue Ancienne",
+  "hn": "5",
+  "lat": 46.1829788,
+  "lng": 6.1415139,
+  "mieter": [
+   "VALMANDIN"
+  ]
+ },
+ "carouge|rue jacques-dalphin|21/23": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "21/23",
+  "lat": 46.1843298,
+  "lng": 6.1394479,
+  "mieter": [
+   "Pause glace"
+  ]
+ },
+ "carouge|rue ancienne|37a": {
+  "street": "Rue Ancienne",
+  "hn": "37a",
+  "lat": 46.1813259,
+  "lng": 6.1418824,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|40a": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "40a",
+  "lat": 46.1823959,
+  "lng": 6.139192,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|12": {
+  "street": "Rue Saint-Joseph",
+  "hn": "12",
+  "lat": 46.1860853,
+  "lng": 6.140674,
+  "mieter": []
+ },
+ "carouge|rue ancienne|16a": {
+  "street": "Rue Ancienne",
+  "hn": "16a",
+  "lat": 46.1827761,
+  "lng": 6.1406181,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|52": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "52",
+  "lat": 46.1810305,
+  "lng": 6.1399494,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|56": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "56",
+  "lat": 46.1807939,
+  "lng": 6.1399877,
+  "mieter": []
+ },
+ "carouge|rue ancienne|84": {
+  "street": "Rue Ancienne",
+  "hn": "84",
+  "lat": 46.180521,
+  "lng": 6.1396606,
+  "mieter": []
+ },
+ "carouge|rue ancienne|55": {
+  "street": "Rue Ancienne",
+  "hn": "55",
+  "lat": 46.1803668,
+  "lng": 6.1405699,
+  "mieter": []
+ },
+ "carouge|rue ancienne|67": {
+  "street": "Rue Ancienne",
+  "hn": "67",
+  "lat": 46.1799972,
+  "lng": 6.1398459,
+  "mieter": []
+ },
+ "carouge|rue ancienne|76": {
+  "street": "Rue Ancienne",
+  "hn": "76",
+  "lat": 46.1806557,
+  "lng": 6.1400149,
+  "mieter": []
+ },
+ "carouge|rue ancienne|53": {
+  "street": "Rue Ancienne",
+  "hn": "53",
+  "lat": 46.1804655,
+  "lng": 6.1403281,
+  "mieter": []
+ },
+ "carouge|rue ancienne|78": {
+  "street": "Rue Ancienne",
+  "hn": "78",
+  "lat": 46.1806226,
+  "lng": 6.1399385,
+  "mieter": []
+ },
+ "carouge|rue ancienne|67a": {
+  "street": "Rue Ancienne",
+  "hn": "67a",
+  "lat": 46.1799393,
+  "lng": 6.139721,
+  "mieter": []
+ },
+ "carouge|rue ancienne|82": {
+  "street": "Rue Ancienne",
+  "hn": "82",
+  "lat": 46.180548,
+  "lng": 6.1397874,
+  "mieter": []
+ },
+ "carouge|rue ancienne|65": {
+  "street": "Rue Ancienne",
+  "hn": "65",
+  "lat": 46.1800448,
+  "lng": 6.1398939,
+  "mieter": []
+ },
+ "carouge|rue ancienne|84a": {
+  "street": "Rue Ancienne",
+  "hn": "84a",
+  "lat": 46.1806137,
+  "lng": 6.1393867,
+  "mieter": []
+ },
+ "carouge|rue ancienne|63": {
+  "street": "Rue Ancienne",
+  "hn": "63",
+  "lat": 46.1801136,
+  "lng": 6.1399635,
+  "mieter": []
+ },
+ "carouge|rue ancienne|80": {
+  "street": "Rue Ancienne",
+  "hn": "80",
+  "lat": 46.1805922,
+  "lng": 6.1398705,
+  "mieter": []
+ },
+ "carouge|rue ancienne|88": {
+  "street": "Rue Ancienne",
+  "hn": "88",
+  "lat": 46.1803233,
+  "lng": 6.1393533,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|58": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "58",
+  "lat": 46.1806949,
+  "lng": 6.1400362,
+  "mieter": []
+ },
+ "carouge|rue ancienne|69": {
+  "street": "Rue Ancienne",
+  "hn": "69",
+  "lat": 46.1801572,
+  "lng": 6.1396751,
+  "mieter": []
+ },
+ "carouge|rue ancienne|84b": {
+  "street": "Rue Ancienne",
+  "hn": "84b",
+  "lat": 46.1807473,
+  "lng": 6.1395908,
+  "mieter": []
+ },
+ "carouge|rue ancienne|59": {
+  "street": "Rue Ancienne",
+  "hn": "59",
+  "lat": 46.1803002,
+  "lng": 6.1401477,
+  "mieter": []
+ },
+ "carouge|rue ancienne|61": {
+  "street": "Rue Ancienne",
+  "hn": "61",
+  "lat": 46.1801857,
+  "lng": 6.1400314,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|53": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "53",
+  "lat": 46.1809019,
+  "lng": 6.1403325,
+  "mieter": []
+ },
+ "carouge|rue ancienne|56": {
+  "street": "Rue Ancienne",
+  "hn": "56",
+  "lat": 46.1813633,
+  "lng": 6.1407194,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|47": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "47",
+  "lat": 46.1813581,
+  "lng": 6.1402071,
+  "mieter": []
+ },
+ "carouge|rue ancienne|50": {
+  "street": "Rue Ancienne",
+  "hn": "50",
+  "lat": 46.181545,
+  "lng": 6.1407394,
+  "mieter": []
+ },
+ "carouge|rue ancienne|52": {
+  "street": "Rue Ancienne",
+  "hn": "52",
+  "lat": 46.1814929,
+  "lng": 6.14073,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|51": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "51",
+  "lat": 46.1811894,
+  "lng": 6.1402661,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|49": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "49",
+  "lat": 46.181275,
+  "lng": 6.140235,
+  "mieter": []
+ },
+ "carouge|rue ancienne|54": {
+  "street": "Rue Ancienne",
+  "hn": "54",
+  "lat": 46.1814368,
+  "lng": 6.140719,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|41a": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "41a",
+  "lat": 46.1816893,
+  "lng": 6.1404069,
+  "mieter": []
+ },
+ "carouge|rue ancienne|66": {
+  "street": "Rue Ancienne",
+  "hn": "66",
+  "lat": 46.1809749,
+  "lng": 6.1404594,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|45": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "45",
+  "lat": 46.1814514,
+  "lng": 6.1401841,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|51bis": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "51bis",
+  "lat": 46.181094,
+  "lng": 6.1402969,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|41b": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "41b",
+  "lat": 46.181521,
+  "lng": 6.1404371,
+  "mieter": []
+ },
+ "carouge|rue ancienne|44bis": {
+  "street": "Rue Ancienne",
+  "hn": "44bis",
+  "lat": 46.1818409,
+  "lng": 6.1405757,
+  "mieter": []
+ },
+ "carouge|rue ancienne|58": {
+  "street": "Rue Ancienne",
+  "hn": "58",
+  "lat": 46.1812875,
+  "lng": 6.1407013,
+  "mieter": []
+ },
+ "carouge|rue ancienne|17": {
+  "street": "Rue Ancienne",
+  "hn": "17",
+  "lat": 46.1824596,
+  "lng": 6.1413483,
+  "mieter": []
+ },
+ "carouge|rue ancienne|27": {
+  "street": "Rue Ancienne",
+  "hn": "27",
+  "lat": 46.1820065,
+  "lng": 6.1411897,
+  "mieter": []
+ },
+ "carouge|rue ancienne|3": {
+  "street": "Rue Ancienne",
+  "hn": "3",
+  "lat": 46.1830637,
+  "lng": 6.1415514,
+  "mieter": []
+ },
+ "carouge|rue ancienne|19": {
+  "street": "Rue Ancienne",
+  "hn": "19",
+  "lat": 46.1823749,
+  "lng": 6.141314,
+  "mieter": []
+ },
+ "carouge|rue ancienne|23": {
+  "street": "Rue Ancienne",
+  "hn": "23",
+  "lat": 46.1821483,
+  "lng": 6.1412379,
+  "mieter": []
+ },
+ "carouge|rue ancienne|13": {
+  "street": "Rue Ancienne",
+  "hn": "13",
+  "lat": 46.1825721,
+  "lng": 6.1413596,
+  "mieter": []
+ },
+ "carouge|rue ancienne|11": {
+  "street": "Rue Ancienne",
+  "hn": "11",
+  "lat": 46.1826649,
+  "lng": 6.1414049,
+  "mieter": []
+ },
+ "carouge|rue ancienne|15": {
+  "street": "Rue Ancienne",
+  "hn": "15",
+  "lat": 46.1825043,
+  "lng": 6.1413778,
+  "mieter": []
+ },
+ "carouge|rue ancienne|29": {
+  "street": "Rue Ancienne",
+  "hn": "29",
+  "lat": 46.1819347,
+  "lng": 6.1411887,
+  "mieter": []
+ },
+ "carouge|rue ancienne|25": {
+  "street": "Rue Ancienne",
+  "hn": "25",
+  "lat": 46.1820728,
+  "lng": 6.1412816,
+  "mieter": []
+ },
+ "carouge|rue ancienne|21": {
+  "street": "Rue Ancienne",
+  "hn": "21",
+  "lat": 46.1822418,
+  "lng": 6.1413442,
+  "mieter": []
+ },
+ "carouge|rue ancienne|16": {
+  "street": "Rue Ancienne",
+  "hn": "16",
+  "lat": 46.1827356,
+  "lng": 6.1410216,
+  "mieter": []
+ },
+ "carouge|rue ancienne|6": {
+  "street": "Rue Ancienne",
+  "hn": "6",
+  "lat": 46.1830748,
+  "lng": 6.1412057,
+  "mieter": []
+ },
+ "carouge|rue ancienne|4": {
+  "street": "Rue Ancienne",
+  "hn": "4",
+  "lat": 46.1831664,
+  "lng": 6.1412422,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|44": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "44",
+  "lat": 46.1822467,
+  "lng": 6.1396856,
+  "mieter": []
+ },
+ "carouge|rue ancienne|8": {
+  "street": "Rue Ancienne",
+  "hn": "8",
+  "lat": 46.1829984,
+  "lng": 6.1411761,
+  "mieter": []
+ },
+ "carouge|rue ancienne|18": {
+  "street": "Rue Ancienne",
+  "hn": "18",
+  "lat": 46.1826543,
+  "lng": 6.1410309,
+  "mieter": []
+ },
+ "carouge|rue ancienne|14": {
+  "street": "Rue Ancienne",
+  "hn": "14",
+  "lat": 46.1828298,
+  "lng": 6.1411024,
+  "mieter": []
+ },
+ "carouge|rue ancienne|20": {
+  "street": "Rue Ancienne",
+  "hn": "20",
+  "lat": 46.1825496,
+  "lng": 6.1410024,
+  "mieter": []
+ },
+ "carouge|rue ancienne|12": {
+  "street": "Rue Ancienne",
+  "hn": "12",
+  "lat": 46.1828958,
+  "lng": 6.1411269,
+  "mieter": []
+ },
+ "carouge|rue ancienne|10": {
+  "street": "Rue Ancienne",
+  "hn": "10",
+  "lat": 46.182945,
+  "lng": 6.1411463,
+  "mieter": []
+ },
+ "carouge|rue ancienne|16b": {
+  "street": "Rue Ancienne",
+  "hn": "16b",
+  "lat": 46.1826937,
+  "lng": 6.1408371,
+  "mieter": []
+ },
+ "carouge|rue ancienne|22": {
+  "street": "Rue Ancienne",
+  "hn": "22",
+  "lat": 46.1824975,
+  "lng": 6.1409864,
+  "mieter": []
+ },
+ "carouge|rue jacques-dalphin|50": {
+  "street": "Rue Jacques-Dalphin",
+  "hn": "50",
+  "lat": 46.1812729,
+  "lng": 6.1398924,
+  "mieter": []
+ },
+ "carouge|rue saint-victor|23": {
+  "street": "Rue Saint-Victor",
+  "hn": "23",
+  "lat": 46.185387,
+  "lng": 6.1403326,
+  "mieter": []
+ },
+ "carouge|rue saint-joseph|15a": {
+  "street": "Rue Saint-Joseph",
+  "hn": "15A",
+  "lat": 46.1861691,
+  "lng": 6.141017,
+  "mieter": []
+ }
+}

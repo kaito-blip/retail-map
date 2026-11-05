@@ -1,0 +1,1582 @@
+{
+ "sion|avenue de la gare|28": {
+  "street": "Avenue de la Gare",
+  "hn": "28",
+  "lat": 46.2306984,
+  "lng": 7.3582104,
+  "mieter": [
+   "Nouvelle époque"
+  ]
+ },
+ "sion|rue de lausanne|148": {
+  "street": "Rue de Lausanne",
+  "hn": "148",
+  "lat": 46.2269845,
+  "lng": 7.3376598,
+  "mieter": [
+   "Tamoil",
+   "Ssangyong",
+   "Hertz"
+  ]
+ },
+ "sion|rue du grand-pont|29": {
+  "street": "Rue du Grand-Pont",
+  "hn": "29",
+  "lat": 46.235103,
+  "lng": 7.3603668,
+  "mieter": [
+   "Verre à Pied"
+  ]
+ },
+ "sion|rue du grand-pont|33": {
+  "street": "Rue du Grand-Pont",
+  "hn": "33",
+  "lat": 46.2352723,
+  "lng": 7.3604196,
+  "mieter": [
+   "Café du Nord"
+  ]
+ },
+ "sion|rue du grand-pont|6": {
+  "street": "Rue du Grand-Pont",
+  "hn": "6",
+  "lat": 46.2335961,
+  "lng": 7.3606775,
+  "mieter": [
+   "Brasserie du Grand-Pont"
+  ]
+ },
+ "sion|place du midi|33": {
+  "street": "Place du Midi",
+  "hn": "33",
+  "lat": 46.2318854,
+  "lng": 7.3617784,
+  "mieter": [
+   "Zenhäusern"
+  ]
+ },
+ "sion|place du midi|37": {
+  "street": "Place du Midi",
+  "hn": "37",
+  "lat": 46.2321262,
+  "lng": 7.3620193,
+  "mieter": [
+   "Coucou Sushi",
+   "Des Lys & Delices SàrL"
+  ]
+ },
+ "sion|place du midi|46": {
+  "street": "Place du Midi",
+  "hn": "46",
+  "lat": 46.2317769,
+  "lng": 7.362292,
+  "mieter": [
+   "Banque Cler",
+   "Calida"
+  ]
+ },
+ "sion|place du midi|48": {
+  "street": "Place du Midi",
+  "hn": "48",
+  "lat": 46.2319818,
+  "lng": 7.3622282,
+  "mieter": [
+   "Hobby-Centre",
+   "Body Shop"
+  ]
+ },
+ "sion|avenue de la gare|3": {
+  "street": "Avenue de la Gare",
+  "hn": "3",
+  "lat": 46.2282591,
+  "lng": 7.3588626,
+  "mieter": [
+   "McDonald's"
+  ]
+ },
+ "sion|rue de lausanne|23": {
+  "street": "Rue de Lausanne",
+  "hn": "23",
+  "lat": 46.2324494,
+  "lng": 7.3589164,
+  "mieter": [
+   "Guichet d'information de la commune de Sion"
+  ]
+ },
+ "sion|avenue de la gare|19": {
+  "street": "Avenue de la Gare",
+  "hn": "19",
+  "lat": 46.2297989,
+  "lng": 7.3581337,
+  "mieter": [
+   "Interdiscount",
+   "Privera SA",
+   "Betica",
+   "Sigma Ingénierie & Maintenance SA"
+  ]
+ },
+ "sion|avenue de la gare|33": {
+  "street": "Avenue de la Gare",
+  "hn": "33",
+  "lat": 46.2317601,
+  "lng": 7.3571429,
+  "mieter": [
+   "Sawasdee Thai"
+  ]
+ },
+ "sion|place du midi|29": {
+  "street": "Place du Midi",
+  "hn": "29",
+  "lat": 46.2317385,
+  "lng": 7.3615171,
+  "mieter": [
+   "La Tonnella",
+   "Bayard Homme"
+  ]
+ },
+ "sion|place du midi|25": {
+  "street": "Place du Midi",
+  "hn": "25",
+  "lat": 46.2315552,
+  "lng": 7.3610683,
+  "mieter": [
+   "Le Brésilien"
+  ]
+ },
+ "sion|place du midi|30": {
+  "street": "Place du Midi",
+  "hn": "30",
+  "lat": 46.2312437,
+  "lng": 7.3612271,
+  "mieter": [
+   "Le Midi"
+  ]
+ },
+ "sion|rue de lausanne|21": {
+  "street": "Rue de Lausanne",
+  "hn": "21",
+  "lat": 46.2325286,
+  "lng": 7.3590736,
+  "mieter": [
+   "Le Comptoir"
+  ]
+ },
+ "sion|avenue de la gare|15": {
+  "street": "Avenue de la Gare",
+  "hn": "15",
+  "lat": 46.2294386,
+  "lng": 7.3582587,
+  "mieter": [
+   "Visilab",
+   "Couleur Café",
+   "David, L'Instant Chocolat",
+   "Maui & Me",
+   "Clinik",
+   "Gerry Weber"
+  ]
+ },
+ "sion|place du midi|40": {
+  "street": "Place du Midi",
+  "hn": "40",
+  "lat": 46.2314245,
+  "lng": 7.3617801,
+  "mieter": [
+   "Sun Store"
+  ]
+ },
+ "sion|place du midi|31": {
+  "street": "Place du Midi",
+  "hn": "31",
+  "lat": 46.231777,
+  "lng": 7.3616329,
+  "mieter": [
+   "Café de la Place"
+  ]
+ },
+ "sion|place du midi|27": {
+  "street": "Place du Midi",
+  "hn": "27",
+  "lat": 46.2316202,
+  "lng": 7.3612109,
+  "mieter": [
+   "Okaïdi"
+  ]
+ },
+ "sion|place du midi|21": {
+  "street": "Place du Midi",
+  "hn": "21",
+  "lat": 46.2313506,
+  "lng": 7.3603734,
+  "mieter": [
+   "Bayard Co Ltd Women",
+   "Unia"
+  ]
+ },
+ "sion|avenue de la gare|17a": {
+  "street": "Avenue de la Gare",
+  "hn": "17a",
+  "lat": 46.2293218,
+  "lng": 7.3576979,
+  "mieter": [
+   "Ô Palais Kinh Do",
+   "Bar à clopes",
+   "AVVA",
+   "Boutique du Phuoc"
+  ]
+ },
+ "sion|avenue de la gare|32": {
+  "street": "Avenue de la Gare",
+  "hn": "32",
+  "lat": 46.231185,
+  "lng": 7.3579598,
+  "mieter": [
+   "La Bodega"
+  ]
+ },
+ "sion|place du midi|35": {
+  "street": "Place du Midi",
+  "hn": "35",
+  "lat": 46.2319812,
+  "lng": 7.3619149,
+  "mieter": [
+   "Burgerlution"
+  ]
+ },
+ "sion|rue du grand-pont|21": {
+  "street": "Rue du Grand-Pont",
+  "hn": "21",
+  "lat": 46.2345964,
+  "lng": 7.3603195,
+  "mieter": [
+   "Le Grotto de la Fontaine"
+  ]
+ },
+ "sion|rue du grand-pont|23": {
+  "street": "Rue du Grand-Pont",
+  "hn": "23",
+  "lat": 46.2347221,
+  "lng": 7.3603244,
+  "mieter": [
+   "Au Cheval Blanc"
+  ]
+ },
+ "sion|avenue de la gare|5": {
+  "street": "Avenue de la Gare",
+  "hn": "5",
+  "lat": 46.2284175,
+  "lng": 7.3588385,
+  "mieter": [
+   "Antalya Express Kebap"
+  ]
+ },
+ "sion|avenue de la gare|42": {
+  "street": "Avenue de la Gare",
+  "hn": "42",
+  "lat": 46.2343223,
+  "lng": 7.3565797,
+  "mieter": [
+   "Bibliothèque du Tribunal cantonal"
+  ]
+ },
+ "sion|rue de lausanne|45": {
+  "street": "Rue de Lausanne",
+  "hn": "45",
+  "lat": 46.2311385,
+  "lng": 7.3555334,
+  "mieter": [
+   "Le Trait d'union",
+   "Archives de l'Etat du Valais",
+   "Médiathèque Valais - Sion"
+  ]
+ },
+ "sion|place du midi|50": {
+  "street": "Place du Midi",
+  "hn": "50",
+  "lat": 46.2320505,
+  "lng": 7.3622617,
+  "mieter": [
+   "Heer Architektur GmbH"
+  ]
+ },
+ "sion|rue du grand-pont|46": {
+  "street": "Rue du Grand-Pont",
+  "hn": "46",
+  "lat": 46.2354149,
+  "lng": 7.3606692,
+  "mieter": [
+   "Intchié No"
+  ]
+ },
+ "sion|rue de lausanne|27": {
+  "street": "Rue de Lausanne",
+  "hn": "27",
+  "lat": 46.2321729,
+  "lng": 7.3582459,
+  "mieter": [
+   "Les Brasseurs Sion"
+  ]
+ },
+ "sion|rue du grand-pont|2": {
+  "street": "Rue du Grand-Pont",
+  "hn": "2",
+  "lat": 46.2331928,
+  "lng": 7.3607354,
+  "mieter": [
+   "Pharmacie de Quay"
+  ]
+ },
+ "sion|rue de lausanne|2": {
+  "street": "Rue de Lausanne",
+  "hn": "2",
+  "lat": 46.2331646,
+  "lng": 7.3604765,
+  "mieter": [
+   "Amavita",
+   "Ophtalvision",
+   "Trésor d'Himalaya"
+  ]
+ },
+ "sion|rue du grand-pont|35": {
+  "street": "Rue du Grand-Pont",
+  "hn": "35",
+  "lat": 46.2355389,
+  "lng": 7.3604494,
+  "mieter": [
+   "Le Chat d'Or",
+   "Mor& - Atelier Moret Architectes",
+   "Les Voisins & Co"
+  ]
+ },
+ "sion|rue de lausanne|9": {
+  "street": "Rue de Lausanne",
+  "hn": "9",
+  "lat": 46.2327211,
+  "lng": 7.359726,
+  "mieter": [
+   "Tichelli SA"
+  ]
+ },
+ "sion|rue de lausanne|3": {
+  "street": "Rue de Lausanne",
+  "hn": "3",
+  "lat": 46.2328844,
+  "lng": 7.3603137,
+  "mieter": [
+   "Le Rive Gauche"
+  ]
+ },
+ "sion|rue de lausanne|69": {
+  "street": "Rue de Lausanne",
+  "hn": "69",
+  "lat": 46.2303458,
+  "lng": 7.3507659,
+  "mieter": [
+   "Verso l'Alto",
+   "Mobility - Sion Rue de Lausanne"
+  ]
+ },
+ "sion|rue de lausanne|25": {
+  "street": "Rue de Lausanne",
+  "hn": "25",
+  "lat": 46.2321946,
+  "lng": 7.3586263,
+  "mieter": [
+   "McOptic",
+   "Zanotta"
+  ]
+ },
+ "sion|rue de lausanne|140": {
+  "street": "Rue de Lausanne",
+  "hn": "140",
+  "lat": 46.2274801,
+  "lng": 7.339439,
+  "mieter": [
+   "Ferrari;Maserati",
+   "Carrosserie Zénith"
+  ]
+ },
+ "sion|rue de lausanne|138": {
+  "street": "Rue de Lausanne",
+  "hn": "138",
+  "lat": 46.227654,
+  "lng": 7.3404549,
+  "mieter": [
+   "Allo Tacos"
+  ]
+ },
+ "sion|rue de lausanne|100": {
+  "street": "Rue de Lausanne",
+  "hn": "100",
+  "lat": 46.2289593,
+  "lng": 7.3450671,
+  "mieter": [
+   "Shell",
+   "Migrolino",
+   "Migrol"
+  ]
+ },
+ "sion|rue de lausanne|81": {
+  "street": "Rue de Lausanne",
+  "hn": "81",
+  "lat": 46.2298474,
+  "lng": 7.348248,
+  "mieter": [
+   "Jo Pizza"
+  ]
+ },
+ "sion|rue de lausanne|14": {
+  "street": "Rue de Lausanne",
+  "hn": "14",
+  "lat": 46.2325814,
+  "lng": 7.3587074,
+  "mieter": [
+   "La Tannerie de la Cour"
+  ]
+ },
+ "sion|rue de lausanne|10": {
+  "street": "Rue de Lausanne",
+  "hn": "10",
+  "lat": 46.2327786,
+  "lng": 7.3593621,
+  "mieter": [
+   "La Bouffarde",
+   "Crêperie Sédunoise",
+   "Gravit Boutique"
+  ]
+ },
+ "sion|rue de lausanne|116": {
+  "street": "Rue de Lausanne",
+  "hn": "116",
+  "lat": 46.2283711,
+  "lng": 7.3436793,
+  "mieter": [
+   "Allo PC"
+  ]
+ },
+ "sion|rue de lausanne|49": {
+  "street": "Rue de Lausanne",
+  "hn": "49",
+  "lat": 46.230593,
+  "lng": 7.3535012,
+  "mieter": [
+   "TraqBar - Le bar du Traquenard"
+  ]
+ },
+ "sion|rue de lausanne|49a": {
+  "street": "Rue de Lausanne",
+  "hn": "49a",
+  "lat": 46.2308508,
+  "lng": 7.3540017,
+  "mieter": [
+   "Pharmacie Gindre",
+   "Happy Bowl Sion"
+  ]
+ },
+ "sion|avenue de la gare|29": {
+  "street": "Avenue de la Gare",
+  "hn": "29",
+  "lat": 46.2313612,
+  "lng": 7.3573561,
+  "mieter": [
+   "RTS Radio Télévision Suisse",
+   "BEE SA",
+   "Pentamedia Studio"
+  ]
+ },
+ "sion|rue de lausanne|8": {
+  "street": "Rue de Lausanne",
+  "hn": "8",
+  "lat": 46.232797,
+  "lng": 7.3594231,
+  "mieter": [
+   "Tuttocapsule",
+   "Actuel Coiffure"
+  ]
+ },
+ "sion|avenue de la gare|7": {
+  "street": "Avenue de la Gare",
+  "hn": "7",
+  "lat": 46.2284776,
+  "lng": 7.3587981,
+  "mieter": [
+   "OliMy Bubble Tea"
+  ]
+ },
+ "sion|rue de lausanne|6": {
+  "street": "Rue de Lausanne",
+  "hn": "6",
+  "lat": 46.2329421,
+  "lng": 7.3596746,
+  "mieter": [
+   "DP Architectes",
+   "Café Bar Cherika",
+   "Remicom Valais",
+   "Ethic Heart"
+  ]
+ },
+ "sion|avenue de la gare|6": {
+  "street": "Avenue de la Gare",
+  "hn": "6",
+  "lat": 46.2285133,
+  "lng": 7.3592599,
+  "mieter": [
+   "Raiffeisen",
+   "Moving Hair"
+  ]
+ },
+ "sion|rue du grand-pont|3": {
+  "street": "Rue du Grand-Pont",
+  "hn": "3",
+  "lat": 46.2333154,
+  "lng": 7.3603842,
+  "mieter": []
+ },
+ "sion|avenue de la gare|40": {
+  "street": "Avenue de la Gare",
+  "hn": "40",
+  "lat": 46.2341756,
+  "lng": 7.3571206,
+  "mieter": []
+ },
+ "sion|rue de lausanne|12": {
+  "street": "Rue de Lausanne",
+  "hn": "12",
+  "lat": 46.2327253,
+  "lng": 7.3589575,
+  "mieter": [
+   "Acuitis"
+  ]
+ },
+ "sion|rue de lausanne|4": {
+  "street": "Rue de Lausanne",
+  "hn": "4",
+  "lat": 46.2330162,
+  "lng": 7.3600147,
+  "mieter": [
+   "Teinture d'Iode",
+   "L'Aventuri'hair"
+  ]
+ },
+ "sion|rue du grand-pont|11": {
+  "street": "Rue du Grand-Pont",
+  "hn": "11",
+  "lat": 46.2339322,
+  "lng": 7.3603057,
+  "mieter": [
+   "Point 11"
+  ]
+ },
+ "sion|rue du grand-pont|9": {
+  "street": "Rue du Grand-Pont",
+  "hn": "9",
+  "lat": 46.2337372,
+  "lng": 7.3603635,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|27": {
+  "street": "Rue du Grand-Pont",
+  "hn": "27",
+  "lat": 46.2348345,
+  "lng": 7.3603065,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|17": {
+  "street": "Rue du Grand-Pont",
+  "hn": "17",
+  "lat": 46.2342383,
+  "lng": 7.3602364,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|48": {
+  "street": "Rue du Grand-Pont",
+  "hn": "48",
+  "lat": 46.2355475,
+  "lng": 7.3607793,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|44": {
+  "street": "Rue du Grand-Pont",
+  "hn": "44",
+  "lat": 46.23519,
+  "lng": 7.3607275,
+  "mieter": [
+   "Cropslowmode"
+  ]
+ },
+ "sion|rue du grand-pont|42": {
+  "street": "Rue du Grand-Pont",
+  "hn": "42",
+  "lat": 46.2350302,
+  "lng": 7.3606594,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|40": {
+  "street": "Rue du Grand-Pont",
+  "hn": "40",
+  "lat": 46.2349074,
+  "lng": 7.3606725,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|34": {
+  "street": "Rue du Grand-Pont",
+  "hn": "34",
+  "lat": 46.2347779,
+  "lng": 7.3606828,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|22": {
+  "street": "Rue du Grand-Pont",
+  "hn": "22",
+  "lat": 46.2343328,
+  "lng": 7.3606276,
+  "mieter": [
+   "Pentamedia"
+  ]
+ },
+ "sion|rue du grand-pont|16": {
+  "street": "Rue du Grand-Pont",
+  "hn": "16",
+  "lat": 46.2341299,
+  "lng": 7.3607028,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|14": {
+  "street": "Rue du Grand-Pont",
+  "hn": "14",
+  "lat": 46.2339859,
+  "lng": 7.3606123,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|10": {
+  "street": "Rue du Grand-Pont",
+  "hn": "10",
+  "lat": 46.233718,
+  "lng": 7.360912,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|8": {
+  "street": "Rue du Grand-Pont",
+  "hn": "8",
+  "lat": 46.2336486,
+  "lng": 7.3609381,
+  "mieter": []
+ },
+ "sion|place du midi|39": {
+  "street": "Place du Midi",
+  "hn": "39",
+  "lat": 46.2322238,
+  "lng": 7.3620407,
+  "mieter": []
+ },
+ "sion|rue de lausanne|15": {
+  "street": "Rue de Lausanne",
+  "hn": "15",
+  "lat": 46.2325578,
+  "lng": 7.3594271,
+  "mieter": []
+ },
+ "sion|rue de lausanne|11": {
+  "street": "Rue de Lausanne",
+  "hn": "11",
+  "lat": 46.2327032,
+  "lng": 7.3597549,
+  "mieter": []
+ },
+ "sion|rue de lausanne|13": {
+  "street": "Rue de Lausanne",
+  "hn": "13",
+  "lat": 46.2326629,
+  "lng": 7.3596328,
+  "mieter": []
+ },
+ "sion|rue de lausanne|7": {
+  "street": "Rue de Lausanne",
+  "hn": "7",
+  "lat": 46.2325121,
+  "lng": 7.3601947,
+  "mieter": []
+ },
+ "sion|avenue de la gare|30": {
+  "street": "Avenue de la Gare",
+  "hn": "30",
+  "lat": 46.2310246,
+  "lng": 7.3580875,
+  "mieter": []
+ },
+ "sion|place du midi|52": {
+  "street": "Place du Midi",
+  "hn": "52",
+  "lat": 46.2320713,
+  "lng": 7.362702,
+  "mieter": []
+ },
+ "sion|avenue de la gare|9": {
+  "street": "Avenue de la Gare",
+  "hn": "9",
+  "lat": 46.2289291,
+  "lng": 7.3587141,
+  "mieter": [
+   "Cheeky Boys"
+  ]
+ },
+ "sion|avenue de la gare|23": {
+  "street": "Avenue de la Gare",
+  "hn": "23",
+  "lat": 46.2304696,
+  "lng": 7.3576187,
+  "mieter": []
+ },
+ "sion|avenue de la gare|25": {
+  "street": "Avenue de la Gare",
+  "hn": "25",
+  "lat": 46.2307647,
+  "lng": 7.3575764,
+  "mieter": []
+ },
+ "sion|avenue de la gare|27": {
+  "street": "Avenue de la Gare",
+  "hn": "27",
+  "lat": 46.2310307,
+  "lng": 7.3572942,
+  "mieter": [
+   "Centre Medical Synlab"
+  ]
+ },
+ "sion|rue de lausanne|67": {
+  "street": "Rue de Lausanne",
+  "hn": "67",
+  "lat": 46.2303107,
+  "lng": 7.3511624,
+  "mieter": []
+ },
+ "sion|rue de lausanne|65": {
+  "street": "Rue de Lausanne",
+  "hn": "65",
+  "lat": 46.230344,
+  "lng": 7.3515473,
+  "mieter": [
+   "K Energy"
+  ]
+ },
+ "sion|rue de lausanne|63": {
+  "street": "Rue de Lausanne",
+  "hn": "63",
+  "lat": 46.2301332,
+  "lng": 7.3519747,
+  "mieter": []
+ },
+ "sion|rue de lausanne|61": {
+  "street": "Rue de Lausanne",
+  "hn": "61",
+  "lat": 46.2303739,
+  "lng": 7.3519665,
+  "mieter": []
+ },
+ "sion|rue de lausanne|59": {
+  "street": "Rue de Lausanne",
+  "hn": "59",
+  "lat": 46.2303749,
+  "lng": 7.3523656,
+  "mieter": []
+ },
+ "sion|rue de lausanne|53": {
+  "street": "Rue de Lausanne",
+  "hn": "53",
+  "lat": 46.2302589,
+  "lng": 7.3531076,
+  "mieter": []
+ },
+ "sion|rue de lausanne|73": {
+  "street": "Rue de Lausanne",
+  "hn": "73",
+  "lat": 46.230263,
+  "lng": 7.3498522,
+  "mieter": [
+   "Simba Toilettage"
+  ]
+ },
+ "sion|rue de lausanne|75": {
+  "street": "Rue de Lausanne",
+  "hn": "75",
+  "lat": 46.2302552,
+  "lng": 7.3495675,
+  "mieter": []
+ },
+ "sion|rue de lausanne|77": {
+  "street": "Rue de Lausanne",
+  "hn": "77",
+  "lat": 46.2301711,
+  "lng": 7.3492509,
+  "mieter": []
+ },
+ "sion|rue de lausanne|83": {
+  "street": "Rue de Lausanne",
+  "hn": "83",
+  "lat": 46.2297486,
+  "lng": 7.3480451,
+  "mieter": []
+ },
+ "sion|rue de lausanne|85": {
+  "street": "Rue de Lausanne",
+  "hn": "85",
+  "lat": 46.2296585,
+  "lng": 7.3478508,
+  "mieter": []
+ },
+ "sion|rue de lausanne|87": {
+  "street": "Rue de Lausanne",
+  "hn": "87",
+  "lat": 46.2293972,
+  "lng": 7.3473069,
+  "mieter": []
+ },
+ "sion|rue de lausanne|54": {
+  "street": "Rue de Lausanne",
+  "hn": "54",
+  "lat": 46.2307042,
+  "lng": 7.3518335,
+  "mieter": []
+ },
+ "sion|rue de lausanne|52": {
+  "street": "Rue de Lausanne",
+  "hn": "52",
+  "lat": 46.2307234,
+  "lng": 7.3522433,
+  "mieter": []
+ },
+ "sion|rue de lausanne|50": {
+  "street": "Rue de Lausanne",
+  "hn": "50",
+  "lat": 46.2307416,
+  "lng": 7.3524766,
+  "mieter": []
+ },
+ "sion|rue de lausanne|60": {
+  "street": "Rue de Lausanne",
+  "hn": "60",
+  "lat": 46.2307137,
+  "lng": 7.3512711,
+  "mieter": []
+ },
+ "sion|rue de lausanne|58": {
+  "street": "Rue de Lausanne",
+  "hn": "58",
+  "lat": 46.2307228,
+  "lng": 7.3514137,
+  "mieter": []
+ },
+ "sion|rue de lausanne|64": {
+  "street": "Rue de Lausanne",
+  "hn": "64",
+  "lat": 46.2306076,
+  "lng": 7.3503498,
+  "mieter": []
+ },
+ "sion|rue de lausanne|79": {
+  "street": "Rue de Lausanne",
+  "hn": "79",
+  "lat": 46.2299469,
+  "lng": 7.3485374,
+  "mieter": []
+ },
+ "sion|rue de lausanne|78": {
+  "street": "Rue de Lausanne",
+  "hn": "78",
+  "lat": 46.2301714,
+  "lng": 7.3473387,
+  "mieter": []
+ },
+ "sion|rue de lausanne|76": {
+  "street": "Rue de Lausanne",
+  "hn": "76",
+  "lat": 46.2302424,
+  "lng": 7.3475116,
+  "mieter": []
+ },
+ "sion|rue de lausanne|80": {
+  "street": "Rue de Lausanne",
+  "hn": "80",
+  "lat": 46.2299912,
+  "lng": 7.3477336,
+  "mieter": []
+ },
+ "sion|rue de lausanne|82": {
+  "street": "Rue de Lausanne",
+  "hn": "82",
+  "lat": 46.2299281,
+  "lng": 7.3475652,
+  "mieter": []
+ },
+ "sion|rue de lausanne|106": {
+  "street": "Rue de Lausanne",
+  "hn": "106",
+  "lat": 46.2289182,
+  "lng": 7.3446375,
+  "mieter": []
+ },
+ "sion|rue de lausanne|146": {
+  "street": "Rue de Lausanne",
+  "hn": "146",
+  "lat": 46.2271404,
+  "lng": 7.3380302,
+  "mieter": []
+ },
+ "sion|rue de lausanne|130": {
+  "street": "Rue de Lausanne",
+  "hn": "130",
+  "lat": 46.2277274,
+  "lng": 7.3406344,
+  "mieter": []
+ },
+ "sion|rue de lausanne|122": {
+  "street": "Rue de Lausanne",
+  "hn": "122",
+  "lat": 46.2281054,
+  "lng": 7.3423829,
+  "mieter": []
+ },
+ "sion|rue de lausanne|120": {
+  "street": "Rue de Lausanne",
+  "hn": "120",
+  "lat": 46.22817,
+  "lng": 7.3426816,
+  "mieter": []
+ },
+ "sion|rue de lausanne|118": {
+  "street": "Rue de Lausanne",
+  "hn": "118",
+  "lat": 46.2282963,
+  "lng": 7.3431869,
+  "mieter": []
+ },
+ "sion|rue de lausanne|114": {
+  "street": "Rue de Lausanne",
+  "hn": "114",
+  "lat": 46.2286208,
+  "lng": 7.343977,
+  "mieter": []
+ },
+ "sion|rue de lausanne|110": {
+  "street": "Rue de Lausanne",
+  "hn": "110",
+  "lat": 46.22881,
+  "lng": 7.3442877,
+  "mieter": []
+ },
+ "sion|rue de lausanne|108": {
+  "street": "Rue de Lausanne",
+  "hn": "108",
+  "lat": 46.2289629,
+  "lng": 7.3442486,
+  "mieter": []
+ },
+ "sion|avenue de la gare|35": {
+  "street": "Avenue de la Gare",
+  "hn": "35",
+  "lat": 46.2322324,
+  "lng": 7.3568624,
+  "mieter": []
+ },
+ "sion|rue de lausanne|43": {
+  "street": "Rue de Lausanne",
+  "hn": "43",
+  "lat": 46.2313984,
+  "lng": 7.3559049,
+  "mieter": []
+ },
+ "sion|rue de lausanne|39": {
+  "street": "Rue de Lausanne",
+  "hn": "39",
+  "lat": 46.2315224,
+  "lng": 7.3562887,
+  "mieter": []
+ },
+ "sion|rue de lausanne|35": {
+  "street": "Rue de Lausanne",
+  "hn": "35",
+  "lat": 46.2317614,
+  "lng": 7.3569341,
+  "mieter": [
+   "Ludovic Schober Architectes"
+  ]
+ },
+ "sion|rue de lausanne|22": {
+  "street": "Rue de Lausanne",
+  "hn": "22",
+  "lat": 46.2321932,
+  "lng": 7.3559233,
+  "mieter": []
+ },
+ "sion|rue de lausanne|20": {
+  "street": "Rue de Lausanne",
+  "hn": "20",
+  "lat": 46.2319992,
+  "lng": 7.3564524,
+  "mieter": []
+ },
+ "sion|rue de lausanne|36": {
+  "street": "Rue de Lausanne",
+  "hn": "36",
+  "lat": 46.2318092,
+  "lng": 7.3542848,
+  "mieter": []
+ },
+ "sion|rue de lausanne|42": {
+  "street": "Rue de Lausanne",
+  "hn": "42",
+  "lat": 46.2311786,
+  "lng": 7.3540326,
+  "mieter": []
+ },
+ "sion|rue de lausanne|38": {
+  "street": "Rue de Lausanne",
+  "hn": "38",
+  "lat": 46.231342,
+  "lng": 7.3543118,
+  "mieter": []
+ },
+ "sion|avenue de la gare|49": {
+  "street": "Avenue de la Gare",
+  "hn": "49",
+  "lat": 46.2342885,
+  "lng": 7.3560359,
+  "mieter": []
+ },
+ "sion|avenue de la gare|45": {
+  "street": "Avenue de la Gare",
+  "hn": "45",
+  "lat": 46.2337114,
+  "lng": 7.3559894,
+  "mieter": []
+ },
+ "sion|avenue de la gare|43": {
+  "street": "Avenue de la Gare",
+  "hn": "43",
+  "lat": 46.2331893,
+  "lng": 7.3563028,
+  "mieter": []
+ },
+ "sion|avenue de la gare|39": {
+  "street": "Avenue de la Gare",
+  "hn": "39",
+  "lat": 46.2326491,
+  "lng": 7.3567228,
+  "mieter": []
+ },
+ "sion|avenue de la gare|26": {
+  "street": "Avenue de la Gare",
+  "hn": "26",
+  "lat": 46.2304954,
+  "lng": 7.3582964,
+  "mieter": []
+ },
+ "sion|avenue de la gare|24": {
+  "street": "Avenue de la Gare",
+  "hn": "24",
+  "lat": 46.2303528,
+  "lng": 7.3583647,
+  "mieter": [
+   "Le temps d'un barbier"
+  ]
+ },
+ "sion|avenue de la gare|20": {
+  "street": "Avenue de la Gare",
+  "hn": "20",
+  "lat": 46.2300702,
+  "lng": 7.3586003,
+  "mieter": []
+ },
+ "sion|avenue de la gare|18": {
+  "street": "Avenue de la Gare",
+  "hn": "18",
+  "lat": 46.2297365,
+  "lng": 7.35872,
+  "mieter": [
+   "Nobilis"
+  ]
+ },
+ "sion|avenue de la gare|16": {
+  "street": "Avenue de la Gare",
+  "hn": "16",
+  "lat": 46.2295646,
+  "lng": 7.3588039,
+  "mieter": []
+ },
+ "sion|avenue de la gare|14": {
+  "street": "Avenue de la Gare",
+  "hn": "14",
+  "lat": 46.2293964,
+  "lng": 7.3588822,
+  "mieter": []
+ },
+ "sion|avenue de la gare|12": {
+  "street": "Avenue de la Gare",
+  "hn": "12",
+  "lat": 46.2290546,
+  "lng": 7.3590306,
+  "mieter": []
+ },
+ "sion|avenue de la gare|8": {
+  "street": "Avenue de la Gare",
+  "hn": "8",
+  "lat": 46.2286439,
+  "lng": 7.3592432,
+  "mieter": []
+ },
+ "sion|avenue de la gare|4": {
+  "street": "Avenue de la Gare",
+  "hn": "4",
+  "lat": 46.2283531,
+  "lng": 7.3594129,
+  "mieter": [
+   "Runder"
+  ]
+ },
+ "sion|avenue de la gare|44": {
+  "street": "Avenue de la Gare",
+  "hn": "44",
+  "lat": 46.2346534,
+  "lng": 7.3569534,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|18": {
+  "street": "Rue du Grand-Pont",
+  "hn": "18",
+  "lat": 46.2341118,
+  "lng": 7.3605603,
+  "mieter": []
+ },
+ "sion|rue de lausanne|128": {
+  "street": "Rue de Lausanne",
+  "hn": "128",
+  "lat": 46.2278719,
+  "lng": 7.3412823,
+  "mieter": []
+ },
+ "sion|rue de lausanne|29": {
+  "street": "Rue de Lausanne",
+  "hn": "29",
+  "lat": 46.2320229,
+  "lng": 7.3577633,
+  "mieter": []
+ },
+ "sion|rue de lausanne|22a": {
+  "street": "Rue de Lausanne",
+  "hn": "22a",
+  "lat": 46.2322814,
+  "lng": 7.3563867,
+  "mieter": []
+ },
+ "sion|rue de lausanne|1": {
+  "street": "Rue de Lausanne",
+  "hn": "1",
+  "lat": 46.2329874,
+  "lng": 7.3606137,
+  "mieter": []
+ },
+ "sion|place du midi|44": {
+  "street": "Place du Midi",
+  "hn": "44",
+  "lat": 46.231502,
+  "lng": 7.3624917,
+  "mieter": []
+ },
+ "sion|rue de lausanne|16": {
+  "street": "Rue de Lausanne",
+  "hn": "16",
+  "lat": 46.2324721,
+  "lng": 7.3582444,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|20": {
+  "street": "Rue du Grand-Pont",
+  "hn": "20",
+  "lat": 46.2342198,
+  "lng": 7.360599,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|12": {
+  "street": "Rue du Grand-Pont",
+  "hn": "12",
+  "lat": 46.2338235,
+  "lng": 7.3607037,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|4": {
+  "street": "Rue du Grand-Pont",
+  "hn": "4",
+  "lat": 46.2333619,
+  "lng": 7.3610875,
+  "mieter": []
+ },
+ "sion|place du midi|23": {
+  "street": "Place du Midi",
+  "hn": "23",
+  "lat": 46.231508,
+  "lng": 7.3609115,
+  "mieter": []
+ },
+ "sion|place du midi|24": {
+  "street": "Place du Midi",
+  "hn": "24",
+  "lat": 46.2311681,
+  "lng": 7.3610577,
+  "mieter": []
+ },
+ "sion|avenue de la gare|41": {
+  "street": "Avenue de la Gare",
+  "hn": "41",
+  "lat": 46.2329594,
+  "lng": 7.3564892,
+  "mieter": []
+ },
+ "sion|avenue de la gare|36": {
+  "street": "Avenue de la Gare",
+  "hn": "36",
+  "lat": 46.2318429,
+  "lng": 7.3576469,
+  "mieter": []
+ },
+ "sion|avenue de la gare|34": {
+  "street": "Avenue de la Gare",
+  "hn": "34",
+  "lat": 46.2316632,
+  "lng": 7.3577955,
+  "mieter": [
+   "Formation Professionnelle Valais",
+   "Sprint Copy",
+   "Maxi Bazar"
+  ]
+ },
+ "sion|avenue de la gare|31": {
+  "street": "Avenue de la Gare",
+  "hn": "31",
+  "lat": 46.2316087,
+  "lng": 7.3572195,
+  "mieter": [
+   "Mise en Scène",
+   "LA Boutique"
+  ]
+ },
+ "sion|avenue de la gare|22": {
+  "street": "Avenue de la Gare",
+  "hn": "22",
+  "lat": 46.2302224,
+  "lng": 7.3585906,
+  "mieter": []
+ },
+ "sion|avenue de la gare|21": {
+  "street": "Avenue de la Gare",
+  "hn": "21",
+  "lat": 46.230203,
+  "lng": 7.3577544,
+  "mieter": []
+ },
+ "sion|avenue de la gare|17b": {
+  "street": "Avenue de la Gare",
+  "hn": "17b",
+  "lat": 46.229432,
+  "lng": 7.357495,
+  "mieter": []
+ },
+ "sion|avenue de la gare|11": {
+  "street": "Avenue de la Gare",
+  "hn": "11",
+  "lat": 46.229059,
+  "lng": 7.3584271,
+  "mieter": [
+   "Zurich"
+  ]
+ },
+ "sion|avenue de la gare|10": {
+  "street": "Avenue de la Gare",
+  "hn": "10",
+  "lat": 46.2288664,
+  "lng": 7.3591031,
+  "mieter": [
+   "123immo.ch",
+   "Cabinet Imsand"
+  ]
+ },
+ "sion|rue du grand-pont|19": {
+  "street": "Rue du Grand-Pont",
+  "hn": "19",
+  "lat": 46.2345119,
+  "lng": 7.3602566,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|13": {
+  "street": "Rue du Grand-Pont",
+  "hn": "13",
+  "lat": 46.234023,
+  "lng": 7.3603134,
+  "mieter": [
+   "La Croix Fédérale"
+  ]
+ },
+ "sion|rue du grand-pont|5": {
+  "street": "Rue du Grand-Pont",
+  "hn": "5",
+  "lat": 46.233473,
+  "lng": 7.3604186,
+  "mieter": []
+ },
+ "sion|rue de lausanne|56b": {
+  "street": "Rue de Lausanne",
+  "hn": "56b",
+  "lat": 46.2309751,
+  "lng": 7.3519448,
+  "mieter": []
+ },
+ "sion|rue de lausanne|56a": {
+  "street": "Rue de Lausanne",
+  "hn": "56a",
+  "lat": 46.2309569,
+  "lng": 7.3517115,
+  "mieter": []
+ },
+ "sion|rue de lausanne|55": {
+  "street": "Rue de Lausanne",
+  "hn": "55",
+  "lat": 46.2303067,
+  "lng": 7.3527704,
+  "mieter": []
+ },
+ "sion|rue de lausanne|72": {
+  "street": "Rue de Lausanne",
+  "hn": "72",
+  "lat": 46.2303024,
+  "lng": 7.347939,
+  "mieter": []
+ },
+ "sion|rue de lausanne|47": {
+  "street": "Rue de Lausanne",
+  "hn": "47",
+  "lat": 46.2312747,
+  "lng": 7.3552947,
+  "mieter": []
+ },
+ "sion|avenue de la gare|13": {
+  "street": "Avenue de la Gare",
+  "hn": "13",
+  "lat": 46.2292618,
+  "lng": 7.358305,
+  "mieter": [
+   "Imvista",
+   "Cordonier et Rey SA"
+  ]
+ },
+ "sion|rue de lausanne|88": {
+  "street": "Rue de Lausanne",
+  "hn": "88",
+  "lat": 46.2296215,
+  "lng": 7.3466195,
+  "mieter": []
+ },
+ "sion|rue de lausanne|86": {
+  "street": "Rue de Lausanne",
+  "hn": "86",
+  "lat": 46.2296581,
+  "lng": 7.3468975,
+  "mieter": []
+ },
+ "sion|rue de lausanne|49d": {
+  "street": "Rue de Lausanne",
+  "hn": "49d",
+  "lat": 46.2306796,
+  "lng": 7.3534808,
+  "mieter": [
+   "ZoneVital"
+  ]
+ },
+ "sion|rue de lausanne|49c": {
+  "street": "Rue de Lausanne",
+  "hn": "49c",
+  "lat": 46.2307247,
+  "lng": 7.3536363,
+  "mieter": []
+ },
+ "sion|rue de lausanne|49b": {
+  "street": "Rue de Lausanne",
+  "hn": "49b",
+  "lat": 46.2308058,
+  "lng": 7.3538825,
+  "mieter": []
+ },
+ "sion|avenue de la gare|45a": {
+  "street": "Avenue de la Gare",
+  "hn": "45a",
+  "lat": 46.2333538,
+  "lng": 7.355339,
+  "mieter": []
+ },
+ "sion|avenue de la gare|6a": {
+  "street": "Avenue de la Gare",
+  "hn": "6a",
+  "lat": 46.2285517,
+  "lng": 7.3593109,
+  "mieter": []
+ },
+ "sion|rue de lausanne|13c": {
+  "street": "Rue de Lausanne",
+  "hn": "13c",
+  "lat": 46.2324735,
+  "lng": 7.3595503,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|16b": {
+  "street": "Rue du Grand-Pont",
+  "hn": "16b",
+  "lat": 46.2341008,
+  "lng": 7.3607542,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|16a": {
+  "street": "Rue du Grand-Pont",
+  "hn": "16a",
+  "lat": 46.2340905,
+  "lng": 7.3607076,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|42a": {
+  "street": "Rue du Grand-Pont",
+  "hn": "42a",
+  "lat": 46.2350027,
+  "lng": 7.3607856,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|6a": {
+  "street": "Rue du Grand-Pont",
+  "hn": "6a",
+  "lat": 46.2335365,
+  "lng": 7.3608914,
+  "mieter": []
+ },
+ "sion|rue de lausanne|18": {
+  "street": "Rue de Lausanne",
+  "hn": "18",
+  "lat": 46.2324073,
+  "lng": 7.3578523,
+  "mieter": []
+ },
+ "sion|rue de lausanne|5": {
+  "street": "Rue de Lausanne",
+  "hn": "5",
+  "lat": 46.2327353,
+  "lng": 7.3600629,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|36": {
+  "street": "Rue du Grand-Pont",
+  "hn": "36",
+  "lat": 46.2349015,
+  "lng": 7.3609044,
+  "mieter": []
+ },
+ "sion|rue de lausanne|17": {
+  "street": "Rue de Lausanne",
+  "hn": "17",
+  "lat": 46.2324058,
+  "lng": 7.3595895,
+  "mieter": []
+ },
+ "sion|rue de lausanne|68": {
+  "street": "Rue de Lausanne",
+  "hn": "68",
+  "lat": 46.2307933,
+  "lng": 7.349612,
+  "mieter": []
+ },
+ "sion|place du midi|36": {
+  "street": "Place du Midi",
+  "hn": "36",
+  "lat": 46.2313779,
+  "lng": 7.3616919,
+  "mieter": [
+   "Manpower"
+  ]
+ },
+ "sion|rue du grand-pont|32": {
+  "street": "Rue du Grand-Pont",
+  "hn": "32",
+  "lat": 46.2346696,
+  "lng": 7.3606113,
+  "mieter": []
+ },
+ "sion|place du midi|20": {
+  "street": "Place du Midi",
+  "hn": "20",
+  "lat": 46.2310555,
+  "lng": 7.3605349,
+  "mieter": []
+ },
+ "sion|rue du grand-pont|24": {
+  "street": "Rue du Grand-Pont",
+  "hn": "24",
+  "lat": 46.2344395,
+  "lng": 7.3605664,
+  "mieter": []
+ },
+ "sion|rue de lausanne|37": {
+  "street": "Rue de Lausanne",
+  "hn": "37",
+  "lat": 46.2316389,
+  "lng": 7.3567406,
+  "mieter": [
+   "Optic 2000"
+  ]
+ },
+ "sion|rue des remparts|14": {
+  "street": "Rue des Remparts",
+  "hn": "14",
+  "lat": 46.2312172,
+  "lng": 7.3600106,
+  "mieter": [
+   "Bang & Olufsen"
+  ]
+ },
+ "sion|rue des remparts|19": {
+  "street": "Rue des Remparts",
+  "hn": "19",
+  "lat": 46.2319555,
+  "lng": 7.3596968,
+  "mieter": [
+   "Chris Tattoo"
+  ]
+ },
+ "sion|rue de lausanne|32": {
+  "street": "Rue de Lausanne",
+  "hn": "32",
+  "lat": 46.2314236,
+  "lng": 7.3547938,
+  "mieter": []
+ },
+ "sion|rue de lausanne|24": {
+  "street": "Rue de Lausanne",
+  "hn": "24",
+  "lat": 46.2317158,
+  "lng": 7.3556329,
+  "mieter": []
+ },
+ "sion|rue de lausanne|26": {
+  "street": "Rue de Lausanne",
+  "hn": "26",
+  "lat": 46.2320498,
+  "lng": 7.3555986,
+  "mieter": []
+ },
+ "sion|rue de lausanne|28": {
+  "street": "Rue de Lausanne",
+  "hn": "28",
+  "lat": 46.2320081,
+  "lng": 7.3550579,
+  "mieter": []
+ },
+ "sion|rue de lausanne|30": {
+  "street": "Rue de Lausanne",
+  "hn": "30",
+  "lat": 46.2315962,
+  "lng": 7.3551724,
+  "mieter": []
+ }
+}

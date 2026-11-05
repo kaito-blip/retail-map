@@ -1,0 +1,905 @@
+{
+ "chur|quaderstrasse|36": {
+  "street": "Quaderstrasse",
+  "hn": "36",
+  "lat": 46.8522999,
+  "lng": 9.5346368,
+  "mieter": [
+   "Coop",
+   "Coop Restaurant"
+  ]
+ },
+ "chur|obere gasse|48": {
+  "street": "Obere Gasse",
+  "hn": "48",
+  "lat": 46.8481217,
+  "lng": 9.5300651,
+  "mieter": [
+   "Go Vertical"
+  ]
+ },
+ "chur|untere gasse|1": {
+  "street": "Untere Gasse",
+  "hn": "1",
+  "lat": 46.8488765,
+  "lng": 9.5307648,
+  "mieter": [
+   "Wok & Momo"
+  ]
+ },
+ "chur|untere gasse|26": {
+  "street": "Untere Gasse",
+  "hn": "26",
+  "lat": 46.8484585,
+  "lng": 9.5297151,
+  "mieter": [
+   "Frauenkulturarchiv"
+  ]
+ },
+ "chur|untere gasse|20": {
+  "street": "Untere Gasse",
+  "hn": "20",
+  "lat": 46.8487212,
+  "lng": 9.5299821,
+  "mieter": [
+   "Restaurant Helvetia"
+  ]
+ },
+ "chur|obere gasse|47": {
+  "street": "Obere Gasse",
+  "hn": "47",
+  "lat": 46.848023,
+  "lng": 9.5300831,
+  "mieter": [
+   "Sporthütte Obertor"
+  ]
+ },
+ "chur|obere gasse|14": {
+  "street": "Obere Gasse",
+  "hn": "14",
+  "lat": 46.8482436,
+  "lng": 9.5313702,
+  "mieter": [
+   "Öppis Anders"
+  ]
+ },
+ "chur|obere gasse|24": {
+  "street": "Obere Gasse",
+  "hn": "24",
+  "lat": 46.848107,
+  "lng": 9.5309984,
+  "mieter": [
+   "Optik Rüfenacht"
+  ]
+ },
+ "chur|untere gasse|11": {
+  "street": "Untere Gasse",
+  "hn": "11",
+  "lat": 46.8486342,
+  "lng": 9.5304452,
+  "mieter": []
+ },
+ "chur|obere gasse|41": {
+  "street": "Obere Gasse",
+  "hn": "41",
+  "lat": 46.8479703,
+  "lng": 9.530295,
+  "mieter": [
+   "Botanika"
+  ]
+ },
+ "chur|obere gasse|35": {
+  "street": "Obere Gasse",
+  "hn": "35",
+  "lat": 46.8479257,
+  "lng": 9.5305358,
+  "mieter": [
+   "Da Mamma"
+  ]
+ },
+ "chur|obere gasse|19": {
+  "street": "Obere Gasse",
+  "hn": "19",
+  "lat": 46.8481036,
+  "lng": 9.5312696,
+  "mieter": [
+   "Altstadt Bluama"
+  ]
+ },
+ "chur|obere gasse|27": {
+  "street": "Obere Gasse",
+  "hn": "27",
+  "lat": 46.8479768,
+  "lng": 9.5309062,
+  "mieter": [
+   "Tschent Moda"
+  ]
+ },
+ "chur|poststrasse|19": {
+  "street": "Poststrasse",
+  "hn": "19",
+  "lat": 46.849654,
+  "lng": 9.532326,
+  "mieter": []
+ },
+ "chur|quaderstrasse|28": {
+  "street": "Quaderstrasse",
+  "hn": "28",
+  "lat": 46.8523541,
+  "lng": 9.5348673,
+  "mieter": [
+   "Dr. med. Marco Bürge-Fuchs"
+  ]
+ },
+ "chur|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 46.8528048,
+  "lng": 9.5307536,
+  "mieter": [
+   "New Yorker",
+   "Kuoni",
+   "McOptic"
+  ]
+ },
+ "chur|obere gasse|23": {
+  "street": "Obere Gasse",
+  "hn": "23",
+  "lat": 46.8480436,
+  "lng": 9.5310767,
+  "mieter": [
+   "kuchilada"
+  ]
+ },
+ "chur|untere gasse|14": {
+  "street": "Untere Gasse",
+  "hn": "14",
+  "lat": 46.8487993,
+  "lng": 9.5302303,
+  "mieter": []
+ },
+ "chur|poststrasse|23": {
+  "street": "Poststrasse",
+  "hn": "23",
+  "lat": 46.8492802,
+  "lng": 9.5324552,
+  "mieter": [
+   "membrini"
+  ]
+ },
+ "chur|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 46.8525192,
+  "lng": 9.5306197,
+  "mieter": [
+   "Lüthi"
+  ]
+ },
+ "chur|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 46.8528032,
+  "lng": 9.5302327,
+  "mieter": [
+   "Lush"
+  ]
+ },
+ "chur|quaderstrasse|32": {
+  "street": "Quaderstrasse",
+  "hn": "32",
+  "lat": 46.8525135,
+  "lng": 9.5349686,
+  "mieter": []
+ },
+ "chur|quaderstrasse|34": {
+  "street": "Quaderstrasse",
+  "hn": "34",
+  "lat": 46.8525493,
+  "lng": 9.5352861,
+  "mieter": []
+ },
+ "chur|quaderstrasse|40": {
+  "street": "Quaderstrasse",
+  "hn": "40",
+  "lat": 46.8525976,
+  "lng": 9.5357144,
+  "mieter": []
+ },
+ "chur|obere gasse|6": {
+  "street": "Obere Gasse",
+  "hn": "6",
+  "lat": 46.8483095,
+  "lng": 9.5318359,
+  "mieter": []
+ },
+ "chur|obere gasse|33": {
+  "street": "Obere Gasse",
+  "hn": "33",
+  "lat": 46.8479121,
+  "lng": 9.530622,
+  "mieter": [
+   "my phone"
+  ]
+ },
+ "chur|poststrasse|2": {
+  "street": "Poststrasse",
+  "hn": "2",
+  "lat": 46.8503879,
+  "lng": 9.531922,
+  "mieter": [
+   "Café Aurora"
+  ]
+ },
+ "chur|obere gasse|54": {
+  "street": "Obere Gasse",
+  "hn": "54",
+  "lat": 46.84814,
+  "lng": 9.529626,
+  "mieter": []
+ },
+ "chur|poststrasse|33": {
+  "street": "Poststrasse",
+  "hn": "33",
+  "lat": 46.8489279,
+  "lng": 9.5324557,
+  "mieter": []
+ },
+ "chur|poststrasse|43": {
+  "street": "Poststrasse",
+  "hn": "43",
+  "lat": 46.8484399,
+  "lng": 9.532322,
+  "mieter": [
+   "Cudos AG"
+  ]
+ },
+ "chur|poststrasse|39": {
+  "street": "Poststrasse",
+  "hn": "39",
+  "lat": 46.8486122,
+  "lng": 9.5323503,
+  "mieter": []
+ },
+ "chur|poststrasse|14": {
+  "street": "Poststrasse",
+  "hn": "14",
+  "lat": 46.8498335,
+  "lng": 9.5320013,
+  "mieter": [
+   "Regionalgericht Plessur"
+  ]
+ },
+ "chur|bahnhofstrasse|25": {
+  "street": "Bahnhofstrasse",
+  "hn": "25",
+  "lat": 46.8517763,
+  "lng": 9.5325765,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 46.8522544,
+  "lng": 9.5308032,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 46.8519076,
+  "lng": 9.5318195,
+  "mieter": []
+ },
+ "chur|quaderstrasse|8": {
+  "street": "Quaderstrasse",
+  "hn": "8",
+  "lat": 46.8521099,
+  "lng": 9.5322941,
+  "mieter": []
+ },
+ "chur|quaderstrasse|22": {
+  "street": "Quaderstrasse",
+  "hn": "22",
+  "lat": 46.8522897,
+  "lng": 9.5337212,
+  "mieter": []
+ },
+ "chur|quaderstrasse|19": {
+  "street": "Quaderstrasse",
+  "hn": "19",
+  "lat": 46.8525609,
+  "lng": 9.5332545,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|22": {
+  "street": "Bahnhofstrasse",
+  "hn": "22",
+  "lat": 46.8515378,
+  "lng": 9.5311712,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|32": {
+  "street": "Bahnhofstrasse",
+  "hn": "32",
+  "lat": 46.8514348,
+  "lng": 9.5315213,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|20": {
+  "street": "Bahnhofstrasse",
+  "hn": "20",
+  "lat": 46.8517505,
+  "lng": 9.5311381,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 46.8526867,
+  "lng": 9.5309321,
+  "mieter": []
+ },
+ "chur|quaderstrasse|17": {
+  "street": "Quaderstrasse",
+  "hn": "17",
+  "lat": 46.8525329,
+  "lng": 9.5329972,
+  "mieter": []
+ },
+ "chur|quaderstrasse|15": {
+  "street": "Quaderstrasse",
+  "hn": "15",
+  "lat": 46.8524977,
+  "lng": 9.5327602,
+  "mieter": []
+ },
+ "chur|poststrasse|1": {
+  "street": "Poststrasse",
+  "hn": "1",
+  "lat": 46.8505678,
+  "lng": 9.5322919,
+  "mieter": [
+   "UBS"
+  ]
+ },
+ "chur|poststrasse|11": {
+  "street": "Poststrasse",
+  "hn": "11",
+  "lat": 46.8499176,
+  "lng": 9.5323886,
+  "mieter": []
+ },
+ "chur|poststrasse|22": {
+  "street": "Poststrasse",
+  "hn": "22",
+  "lat": 46.8494838,
+  "lng": 9.532108,
+  "mieter": []
+ },
+ "chur|obere gasse|31": {
+  "street": "Obere Gasse",
+  "hn": "31",
+  "lat": 46.847847,
+  "lng": 9.5306434,
+  "mieter": []
+ },
+ "chur|obere gasse|39": {
+  "street": "Obere Gasse",
+  "hn": "39",
+  "lat": 46.8478985,
+  "lng": 9.5303694,
+  "mieter": []
+ },
+ "chur|obere gasse|43": {
+  "street": "Obere Gasse",
+  "hn": "43",
+  "lat": 46.8479346,
+  "lng": 9.5301816,
+  "mieter": []
+ },
+ "chur|obere gasse|45": {
+  "street": "Obere Gasse",
+  "hn": "45",
+  "lat": 46.8479722,
+  "lng": 9.5301037,
+  "mieter": []
+ },
+ "chur|obere gasse|49": {
+  "street": "Obere Gasse",
+  "hn": "49",
+  "lat": 46.8479774,
+  "lng": 9.5299512,
+  "mieter": []
+ },
+ "chur|obere gasse|51": {
+  "street": "Obere Gasse",
+  "hn": "51",
+  "lat": 46.8480069,
+  "lng": 9.5298433,
+  "mieter": []
+ },
+ "chur|obere gasse|53": {
+  "street": "Obere Gasse",
+  "hn": "53",
+  "lat": 46.8480409,
+  "lng": 9.5297198,
+  "mieter": []
+ },
+ "chur|obere gasse|55": {
+  "street": "Obere Gasse",
+  "hn": "55",
+  "lat": 46.8480727,
+  "lng": 9.5296191,
+  "mieter": []
+ },
+ "chur|untere gasse|5": {
+  "street": "Untere Gasse",
+  "hn": "5",
+  "lat": 46.8487614,
+  "lng": 9.5306342,
+  "mieter": []
+ },
+ "chur|untere gasse|9": {
+  "street": "Untere Gasse",
+  "hn": "9",
+  "lat": 46.848617,
+  "lng": 9.5306723,
+  "mieter": []
+ },
+ "chur|obere gasse|44": {
+  "street": "Obere Gasse",
+  "hn": "44",
+  "lat": 46.8481392,
+  "lng": 9.5301497,
+  "mieter": []
+ },
+ "chur|obere gasse|38": {
+  "street": "Obere Gasse",
+  "hn": "38",
+  "lat": 46.8480798,
+  "lng": 9.5304044,
+  "mieter": []
+ },
+ "chur|obere gasse|40": {
+  "street": "Obere Gasse",
+  "hn": "40",
+  "lat": 46.8481167,
+  "lng": 9.5302916,
+  "mieter": []
+ },
+ "chur|obere gasse|42": {
+  "street": "Obere Gasse",
+  "hn": "42",
+  "lat": 46.8481168,
+  "lng": 9.5302151,
+  "mieter": []
+ },
+ "chur|obere gasse|50": {
+  "street": "Obere Gasse",
+  "hn": "50",
+  "lat": 46.8482114,
+  "lng": 9.5299255,
+  "mieter": []
+ },
+ "chur|untere gasse|17": {
+  "street": "Untere Gasse",
+  "hn": "17",
+  "lat": 46.8485852,
+  "lng": 9.5301003,
+  "mieter": []
+ },
+ "chur|untere gasse|23": {
+  "street": "Untere Gasse",
+  "hn": "23",
+  "lat": 46.8485534,
+  "lng": 9.5299071,
+  "mieter": []
+ },
+ "chur|untere gasse|25": {
+  "street": "Untere Gasse",
+  "hn": "25",
+  "lat": 46.8484521,
+  "lng": 9.5298794,
+  "mieter": []
+ },
+ "chur|untere gasse|27": {
+  "street": "Untere Gasse",
+  "hn": "27",
+  "lat": 46.8484093,
+  "lng": 9.5298935,
+  "mieter": []
+ },
+ "chur|untere gasse|28": {
+  "street": "Untere Gasse",
+  "hn": "28",
+  "lat": 46.8483627,
+  "lng": 9.529689,
+  "mieter": []
+ },
+ "chur|untere gasse|30": {
+  "street": "Untere Gasse",
+  "hn": "30",
+  "lat": 46.8482858,
+  "lng": 9.5296312,
+  "mieter": []
+ },
+ "chur|untere gasse|32": {
+  "street": "Untere Gasse",
+  "hn": "32",
+  "lat": 46.8482342,
+  "lng": 9.5295593,
+  "mieter": []
+ },
+ "chur|untere gasse|16": {
+  "street": "Untere Gasse",
+  "hn": "16",
+  "lat": 46.8488068,
+  "lng": 9.5301058,
+  "mieter": []
+ },
+ "chur|untere gasse|18": {
+  "street": "Untere Gasse",
+  "hn": "18",
+  "lat": 46.8488434,
+  "lng": 9.5299858,
+  "mieter": []
+ },
+ "chur|untere gasse|22": {
+  "street": "Untere Gasse",
+  "hn": "22",
+  "lat": 46.8487166,
+  "lng": 9.5298177,
+  "mieter": []
+ },
+ "chur|obere gasse|20": {
+  "street": "Obere Gasse",
+  "hn": "20",
+  "lat": 46.8482247,
+  "lng": 9.5311221,
+  "mieter": []
+ },
+ "chur|obere gasse|22": {
+  "street": "Obere Gasse",
+  "hn": "22",
+  "lat": 46.8482106,
+  "lng": 9.5310598,
+  "mieter": []
+ },
+ "chur|obere gasse|28": {
+  "street": "Obere Gasse",
+  "hn": "28",
+  "lat": 46.8481242,
+  "lng": 9.5307626,
+  "mieter": []
+ },
+ "chur|poststrasse|40": {
+  "street": "Poststrasse",
+  "hn": "40",
+  "lat": 46.8485482,
+  "lng": 9.5321858,
+  "mieter": []
+ },
+ "chur|poststrasse|36": {
+  "street": "Poststrasse",
+  "hn": "36",
+  "lat": 46.8487824,
+  "lng": 9.532191,
+  "mieter": []
+ },
+ "chur|untere gasse|4": {
+  "street": "Untere Gasse",
+  "hn": "4",
+  "lat": 46.8490116,
+  "lng": 9.5305687,
+  "mieter": []
+ },
+ "chur|poststrasse|24": {
+  "street": "Poststrasse",
+  "hn": "24",
+  "lat": 46.8492893,
+  "lng": 9.5321171,
+  "mieter": []
+ },
+ "chur|poststrasse|30": {
+  "street": "Poststrasse",
+  "hn": "30",
+  "lat": 46.8491002,
+  "lng": 9.5321834,
+  "mieter": []
+ },
+ "chur|poststrasse|32": {
+  "street": "Poststrasse",
+  "hn": "32",
+  "lat": 46.8489846,
+  "lng": 9.5322308,
+  "mieter": []
+ },
+ "chur|obere gasse|29": {
+  "street": "Obere Gasse",
+  "hn": "29",
+  "lat": 46.8478957,
+  "lng": 9.5307267,
+  "mieter": []
+ },
+ "chur|obere gasse|17": {
+  "street": "Obere Gasse",
+  "hn": "17",
+  "lat": 46.8480531,
+  "lng": 9.5313676,
+  "mieter": []
+ },
+ "chur|obere gasse|3": {
+  "street": "Obere Gasse",
+  "hn": "3",
+  "lat": 46.8481416,
+  "lng": 9.5319868,
+  "mieter": []
+ },
+ "chur|obere gasse|5": {
+  "street": "Obere Gasse",
+  "hn": "5",
+  "lat": 46.8481312,
+  "lng": 9.5318506,
+  "mieter": []
+ },
+ "chur|poststrasse|35": {
+  "street": "Poststrasse",
+  "hn": "35",
+  "lat": 46.8487112,
+  "lng": 9.5324862,
+  "mieter": []
+ },
+ "chur|poststrasse|41": {
+  "street": "Poststrasse",
+  "hn": "41",
+  "lat": 46.8484991,
+  "lng": 9.5324379,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|1.1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1.1",
+  "lat": 46.8766666,
+  "lng": 9.5306016,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 46.8767121,
+  "lng": 9.5304369,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 46.8766241,
+  "lng": 9.5307376,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|3.1": {
+  "street": "Bahnhofstrasse",
+  "hn": "3.1",
+  "lat": 46.8765211,
+  "lng": 9.5303715,
+  "mieter": []
+ },
+ "chur|poststrasse|3": {
+  "street": "Poststrasse",
+  "hn": "3",
+  "lat": 46.8503317,
+  "lng": 9.5322252,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|35": {
+  "street": "Bahnhofstrasse",
+  "hn": "35",
+  "lat": 46.8513205,
+  "lng": 9.5322971,
+  "mieter": []
+ },
+ "chur|quaderstrasse|7": {
+  "street": "Quaderstrasse",
+  "hn": "7",
+  "lat": 46.8525623,
+  "lng": 9.5322126,
+  "mieter": []
+ },
+ "chur|quaderstrasse|5": {
+  "street": "Quaderstrasse",
+  "hn": "5",
+  "lat": 46.8523854,
+  "lng": 9.5318676,
+  "mieter": []
+ },
+ "chur|quaderstrasse|19.1": {
+  "street": "Quaderstrasse",
+  "hn": "19.1",
+  "lat": 46.852669,
+  "lng": 9.5332758,
+  "mieter": []
+ },
+ "chur|quaderstrasse|23": {
+  "street": "Quaderstrasse",
+  "hn": "23",
+  "lat": 46.8525988,
+  "lng": 9.5335889,
+  "mieter": []
+ },
+ "chur|quaderstrasse|23.1": {
+  "street": "Quaderstrasse",
+  "hn": "23.1",
+  "lat": 46.8527007,
+  "lng": 9.5335644,
+  "mieter": []
+ },
+ "chur|quaderstrasse|19.2": {
+  "street": "Quaderstrasse",
+  "hn": "19.2",
+  "lat": 46.8527046,
+  "lng": 9.5331634,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|9.1": {
+  "street": "Bahnhofstrasse",
+  "hn": "9.1",
+  "lat": 46.8528397,
+  "lng": 9.5311278,
+  "mieter": []
+ },
+ "chur|quaderstrasse|2": {
+  "street": "Quaderstrasse",
+  "hn": "2",
+  "lat": 46.8520768,
+  "lng": 9.531759,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|25.1": {
+  "street": "Bahnhofstrasse",
+  "hn": "25.1",
+  "lat": 46.8514509,
+  "lng": 9.5319763,
+  "mieter": []
+ },
+ "chur|quaderstrasse|16": {
+  "street": "Quaderstrasse",
+  "hn": "16",
+  "lat": 46.8522253,
+  "lng": 9.5329593,
+  "mieter": []
+ },
+ "chur|quaderstrasse|18": {
+  "street": "Quaderstrasse",
+  "hn": "18",
+  "lat": 46.8522583,
+  "lng": 9.5332569,
+  "mieter": []
+ },
+ "chur|poststrasse|9": {
+  "street": "Poststrasse",
+  "hn": "9",
+  "lat": 46.850088,
+  "lng": 9.5322996,
+  "mieter": []
+ },
+ "chur|poststrasse|7": {
+  "street": "Poststrasse",
+  "hn": "7",
+  "lat": 46.8501938,
+  "lng": 9.5322731,
+  "mieter": []
+ },
+ "chur|poststrasse|5": {
+  "street": "Poststrasse",
+  "hn": "5",
+  "lat": 46.8502115,
+  "lng": 9.5324521,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|44": {
+  "street": "Bahnhofstrasse",
+  "hn": "44",
+  "lat": 46.8509396,
+  "lng": 9.5315924,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|44.1": {
+  "street": "Bahnhofstrasse",
+  "hn": "44.1",
+  "lat": 46.8510179,
+  "lng": 9.5314788,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|42": {
+  "street": "Bahnhofstrasse",
+  "hn": "42",
+  "lat": 46.8510182,
+  "lng": 9.5316326,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|40": {
+  "street": "Bahnhofstrasse",
+  "hn": "40",
+  "lat": 46.8511792,
+  "lng": 9.53159,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|32.1": {
+  "street": "Bahnhofstrasse",
+  "hn": "32.1",
+  "lat": 46.8512597,
+  "lng": 9.5311332,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 46.8519017,
+  "lng": 9.5307486,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 46.8520686,
+  "lng": 9.5310072,
+  "mieter": []
+ },
+ "chur|untere gasse|25.1": {
+  "street": "Untere Gasse",
+  "hn": "25.1",
+  "lat": 46.8484375,
+  "lng": 9.5300223,
+  "mieter": []
+ },
+ "chur|obere gasse|24.2": {
+  "street": "Obere Gasse",
+  "hn": "24.2",
+  "lat": 46.8483095,
+  "lng": 9.5309515,
+  "mieter": []
+ },
+ "chur|poststrasse|10": {
+  "street": "Poststrasse",
+  "hn": "10",
+  "lat": 46.8499701,
+  "lng": 9.5318037,
+  "mieter": []
+ },
+ "chur|poststrasse|6": {
+  "street": "Poststrasse",
+  "hn": "6",
+  "lat": 46.8501806,
+  "lng": 9.5319169,
+  "mieter": []
+ },
+ "chur|poststrasse|6.1": {
+  "street": "Poststrasse",
+  "hn": "6.1",
+  "lat": 46.8501684,
+  "lng": 9.5316074,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|7.1": {
+  "street": "Bahnhofstrasse",
+  "hn": "7.1",
+  "lat": 46.876954,
+  "lng": 9.5299109,
+  "mieter": []
+ },
+ "chur|bahnhofstrasse|9b": {
+  "street": "Bahnhofstrasse",
+  "hn": "9b",
+  "lat": 46.8771692,
+  "lng": 9.5294012,
+  "mieter": []
+ },
+ "chur|poststrasse|37": {
+  "street": "Poststrasse",
+  "hn": "37",
+  "lat": 46.8486618,
+  "lng": 9.5324719,
+  "mieter": []
+ }
+}

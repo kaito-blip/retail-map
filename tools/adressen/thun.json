@@ -1,0 +1,2111 @@
+{
+ "thun|obere hauptgasse|2": {
+  "street": "Obere Hauptgasse",
+  "hn": "2",
+  "lat": 46.7593914,
+  "lng": 7.6287843,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 46.7559692,
+  "lng": 7.6296707,
+  "mieter": [
+   "Bahnhof Apotheke"
+  ]
+ },
+ "thun|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 46.7559024,
+  "lng": 7.6296593,
+  "mieter": [
+   "Thoma"
+  ]
+ },
+ "thun|bälliz|50": {
+  "street": "Bälliz",
+  "hn": "50",
+  "lat": 46.7579047,
+  "lng": 7.6278731,
+  "mieter": [
+   "Avventura"
+  ]
+ },
+ "thun|obere hauptgasse|21": {
+  "street": "Obere Hauptgasse",
+  "hn": "21",
+  "lat": 46.7590668,
+  "lng": 7.6295426,
+  "mieter": [
+   "Ringbreite"
+  ]
+ },
+ "thun|obere hauptgasse|20": {
+  "street": "Obere Hauptgasse",
+  "hn": "20",
+  "lat": 46.7588977,
+  "lng": 7.6293785,
+  "mieter": [
+   "Oekoladen"
+  ]
+ },
+ "thun|bälliz|37": {
+  "street": "Bälliz",
+  "hn": "37",
+  "lat": 46.7584752,
+  "lng": 7.6276164,
+  "mieter": [
+   "Steinmann"
+  ]
+ },
+ "thun|untere hauptgasse|26": {
+  "street": "Untere Hauptgasse",
+  "hn": "26",
+  "lat": 46.7607851,
+  "lng": 7.6287416,
+  "mieter": [
+   "Trattoria Rimini"
+  ]
+ },
+ "thun|bälliz|60": {
+  "street": "Bälliz",
+  "hn": "60",
+  "lat": 46.7574176,
+  "lng": 7.628882,
+  "mieter": [
+   "Orell Füssli",
+   "Swisscom"
+  ]
+ },
+ "thun|bälliz|10": {
+  "street": "Bälliz",
+  "hn": "10",
+  "lat": 46.7598135,
+  "lng": 7.6263541,
+  "mieter": [
+   "HAN Mongolian Barbecue"
+  ]
+ },
+ "thun|marktgasse|12": {
+  "street": "Marktgasse",
+  "hn": "12",
+  "lat": 46.7605645,
+  "lng": 7.627705,
+  "mieter": [
+   "McArthurs Pub",
+   "Lergier Design"
+  ]
+ },
+ "thun|bälliz|4": {
+  "street": "Bälliz",
+  "hn": "4",
+  "lat": 46.7599646,
+  "lng": 7.6266042,
+  "mieter": [
+   "Bäckerei Amstutz"
+  ]
+ },
+ "thun|marktgasse|7": {
+  "street": "Marktgasse",
+  "hn": "7",
+  "lat": 46.760357,
+  "lng": 7.6278672,
+  "mieter": [
+   "Bayard"
+  ]
+ },
+ "thun|bälliz|64": {
+  "street": "Bälliz",
+  "hn": "64",
+  "lat": 46.7571457,
+  "lng": 7.6297021,
+  "mieter": [
+   "DQ Solutions Filiale Thun",
+   "Blue Tomato",
+   "Intronet GmbH c/o Trendhosting"
+  ]
+ },
+ "thun|bälliz|56": {
+  "street": "Bälliz",
+  "hn": "56",
+  "lat": 46.7576156,
+  "lng": 7.6283919,
+  "mieter": [
+   "ONLY"
+  ]
+ },
+ "thun|untere hauptgasse|6": {
+  "street": "Untere Hauptgasse",
+  "hn": "6",
+  "lat": 46.7600078,
+  "lng": 7.6287218,
+  "mieter": [
+   "Schlossbergbar"
+  ]
+ },
+ "thun|untere hauptgasse|2": {
+  "street": "Untere Hauptgasse",
+  "hn": "2",
+  "lat": 46.7598675,
+  "lng": 7.6287234,
+  "mieter": [
+   "Zunfthaus Zu Metzgern"
+  ]
+ },
+ "thun|untere hauptgasse|9;11": {
+  "street": "Untere Hauptgasse",
+  "hn": "9;11",
+  "lat": 46.7602186,
+  "lng": 7.6285156,
+  "mieter": [
+   "Cretan Garden"
+  ]
+ },
+ "thun|untere hauptgasse|14": {
+  "street": "Untere Hauptgasse",
+  "hn": "14",
+  "lat": 46.7603369,
+  "lng": 7.6287248,
+  "mieter": [
+   "Mamo Thai"
+  ]
+ },
+ "thun|marktgasse|2": {
+  "street": "Marktgasse",
+  "hn": "2",
+  "lat": 46.7606896,
+  "lng": 7.6285063,
+  "mieter": [
+   "Tran"
+  ]
+ },
+ "thun|marktgasse|17": {
+  "street": "Marktgasse",
+  "hn": "17",
+  "lat": 46.7599794,
+  "lng": 7.6274584,
+  "mieter": [
+   "Waaghaus",
+   "Probst Optik",
+   "Elektro Grossmann"
+  ]
+ },
+ "thun|obere hauptgasse|30": {
+  "street": "Obere Hauptgasse",
+  "hn": "30",
+  "lat": 46.7587039,
+  "lng": 7.6295418,
+  "mieter": [
+   "Parada 30"
+  ]
+ },
+ "thun|obere hauptgasse|87": {
+  "street": "Obere Hauptgasse",
+  "hn": "87",
+  "lat": 46.7583123,
+  "lng": 7.6321021,
+  "mieter": [
+   "Radieratelier"
+  ]
+ },
+ "thun|obere hauptgasse|43": {
+  "street": "Obere Hauptgasse",
+  "hn": "43",
+  "lat": 46.7586741,
+  "lng": 7.6301522,
+  "mieter": [
+   "claro fair trade"
+  ]
+ },
+ "thun|untere hauptgasse|7": {
+  "street": "Untere Hauptgasse",
+  "hn": "7",
+  "lat": 46.7600976,
+  "lng": 7.6285397,
+  "mieter": [
+   "Red Ox"
+  ]
+ },
+ "thun|bälliz|43": {
+  "street": "Bälliz",
+  "hn": "43",
+  "lat": 46.7581579,
+  "lng": 7.6279655,
+  "mieter": [
+   "Zigarren Moser",
+   "Volz"
+  ]
+ },
+ "thun|obere hauptgasse|18": {
+  "street": "Obere Hauptgasse",
+  "hn": "18",
+  "lat": 46.7589764,
+  "lng": 7.6293825,
+  "mieter": [
+   "Amigo"
+  ]
+ },
+ "thun|bälliz|22": {
+  "street": "Bälliz",
+  "hn": "22",
+  "lat": 46.7593933,
+  "lng": 7.62666,
+  "mieter": [
+   "McDonald's"
+  ]
+ },
+ "thun|marktgasse|6": {
+  "street": "Marktgasse",
+  "hn": "6",
+  "lat": 46.7606279,
+  "lng": 7.6280634,
+  "mieter": [
+   "Geotorurs",
+   "Bamboo Nails"
+  ]
+ },
+ "thun|bälliz|33": {
+  "street": "Bälliz",
+  "hn": "33",
+  "lat": 46.7587192,
+  "lng": 7.6273732,
+  "mieter": [
+   "Blancanieves"
+  ]
+ },
+ "thun|bälliz|31": {
+  "street": "Bälliz",
+  "hn": "31",
+  "lat": 46.758788,
+  "lng": 7.6273139,
+  "mieter": [
+   "Hotelplan"
+  ]
+ },
+ "thun|bälliz|36": {
+  "street": "Bälliz",
+  "hn": "36",
+  "lat": 46.7587405,
+  "lng": 7.6270609,
+  "mieter": [
+   "Migros Bank"
+  ]
+ },
+ "thun|bälliz|27": {
+  "street": "Bälliz",
+  "hn": "27",
+  "lat": 46.7590045,
+  "lng": 7.6271669,
+  "mieter": [
+   "Calida",
+   "Zorro"
+  ]
+ },
+ "thun|marktgasse|18": {
+  "street": "Marktgasse",
+  "hn": "18",
+  "lat": 46.7603984,
+  "lng": 7.6273225,
+  "mieter": [
+   "Provita Versicherungsexperten"
+  ]
+ },
+ "thun|untere hauptgasse|5": {
+  "street": "Untere Hauptgasse",
+  "hn": "5",
+  "lat": 46.7600016,
+  "lng": 7.6285309,
+  "mieter": [
+   "Simplyfine"
+  ]
+ },
+ "thun|untere hauptgasse|12": {
+  "street": "Untere Hauptgasse",
+  "hn": "12",
+  "lat": 46.7602052,
+  "lng": 7.6287254,
+  "mieter": [
+   "Hypnose-Zentrum Thun"
+  ]
+ },
+ "thun|bälliz|48": {
+  "street": "Bälliz",
+  "hn": "48",
+  "lat": 46.7579908,
+  "lng": 7.6277783,
+  "mieter": [
+   "WE"
+  ]
+ },
+ "thun|bahnhofstrasse|87": {
+  "street": "Bahnhofstrasse",
+  "hn": "87",
+  "lat": 46.7736603,
+  "lng": 7.6161478,
+  "mieter": [
+   "VOI"
+  ]
+ },
+ "thun|obere hauptgasse|78": {
+  "street": "Obere Hauptgasse",
+  "hn": "78",
+  "lat": 46.758,
+  "lng": 7.632068,
+  "mieter": [
+   "Teppichhaus Schläppi"
+  ]
+ },
+ "thun|untere hauptgasse|22": {
+  "street": "Untere Hauptgasse",
+  "hn": "22",
+  "lat": 46.7606703,
+  "lng": 7.6287423,
+  "mieter": [
+   "ZIG ZAG records"
+  ]
+ },
+ "thun|marktgasse|10": {
+  "street": "Marktgasse",
+  "hn": "10",
+  "lat": 46.7605936,
+  "lng": 7.6279016,
+  "mieter": [
+   "Proandject"
+  ]
+ },
+ "thun|bälliz|46": {
+  "street": "Bälliz",
+  "hn": "46",
+  "lat": 46.758112,
+  "lng": 7.6276054,
+  "mieter": [
+   "AEK"
+  ]
+ },
+ "thun|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 46.7557385,
+  "lng": 7.6296432,
+  "mieter": [
+   "Praxis für Allgemeinmedizin Thun"
+  ]
+ },
+ "thun|untere hauptgasse|15": {
+  "street": "Untere Hauptgasse",
+  "hn": "15",
+  "lat": 46.7603889,
+  "lng": 7.6285808,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|23": {
+  "street": "Obere Hauptgasse",
+  "hn": "23",
+  "lat": 46.7590461,
+  "lng": 7.6295799,
+  "mieter": [
+   "Izakaya Kinomi"
+  ]
+ },
+ "thun|obere hauptgasse|12": {
+  "street": "Obere Hauptgasse",
+  "hn": "12",
+  "lat": 46.7590596,
+  "lng": 7.629142,
+  "mieter": [
+   "Speedy Shop No.1"
+  ]
+ },
+ "thun|bahnhofstrasse|3a": {
+  "street": "Bahnhofstrasse",
+  "hn": "3a",
+  "lat": 46.7744087,
+  "lng": 7.6282327,
+  "mieter": [
+   "Naturgnuss"
+  ]
+ },
+ "thun|bälliz|11": {
+  "street": "Bälliz",
+  "hn": "11",
+  "lat": 46.759574,
+  "lng": 7.6268443,
+  "mieter": [
+   "Dropin shop"
+  ]
+ },
+ "thun|marktgasse|1": {
+  "street": "Marktgasse",
+  "hn": "1",
+  "lat": 46.7605312,
+  "lng": 7.628449,
+  "mieter": [
+   "Avventura Fashion"
+  ]
+ },
+ "thun|bälliz|61": {
+  "street": "Bälliz",
+  "hn": "61",
+  "lat": 46.7576502,
+  "lng": 7.6294222,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|76": {
+  "street": "Obere Hauptgasse",
+  "hn": "76",
+  "lat": 46.7579628,
+  "lng": 7.6318446,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|80": {
+  "street": "Obere Hauptgasse",
+  "hn": "80",
+  "lat": 46.7577776,
+  "lng": 7.6320092,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|31": {
+  "street": "Untere Hauptgasse",
+  "hn": "31",
+  "lat": 46.7611934,
+  "lng": 7.6285405,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 46.7562711,
+  "lng": 7.6302459,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|89": {
+  "street": "Obere Hauptgasse",
+  "hn": "89",
+  "lat": 46.7583819,
+  "lng": 7.6322438,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|89b": {
+  "street": "Obere Hauptgasse",
+  "hn": "89b",
+  "lat": 46.7582948,
+  "lng": 7.6324053,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|89a": {
+  "street": "Obere Hauptgasse",
+  "hn": "89a",
+  "lat": 46.7582268,
+  "lng": 7.6322831,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|1": {
+  "street": "Obere Hauptgasse",
+  "hn": "1",
+  "lat": 46.759394,
+  "lng": 7.6290912,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|87a": {
+  "street": "Obere Hauptgasse",
+  "hn": "87a",
+  "lat": 46.7584851,
+  "lng": 7.6320278,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|81": {
+  "street": "Obere Hauptgasse",
+  "hn": "81",
+  "lat": 46.7582337,
+  "lng": 7.631664,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|57c": {
+  "street": "Obere Hauptgasse",
+  "hn": "57c",
+  "lat": 46.7586042,
+  "lng": 7.6307647,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|85": {
+  "street": "Obere Hauptgasse",
+  "hn": "85",
+  "lat": 46.7582037,
+  "lng": 7.6319265,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|83": {
+  "street": "Obere Hauptgasse",
+  "hn": "83",
+  "lat": 46.7582094,
+  "lng": 7.6317853,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|79": {
+  "street": "Obere Hauptgasse",
+  "hn": "79",
+  "lat": 46.758234,
+  "lng": 7.6314836,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|73": {
+  "street": "Obere Hauptgasse",
+  "hn": "73",
+  "lat": 46.7582569,
+  "lng": 7.6311973,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|57a": {
+  "street": "Obere Hauptgasse",
+  "hn": "57a",
+  "lat": 46.7584577,
+  "lng": 7.6307376,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|69": {
+  "street": "Obere Hauptgasse",
+  "hn": "69",
+  "lat": 46.7582762,
+  "lng": 7.6310779,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|77": {
+  "street": "Obere Hauptgasse",
+  "hn": "77",
+  "lat": 46.7582526,
+  "lng": 7.6313349,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|45": {
+  "street": "Obere Hauptgasse",
+  "hn": "45",
+  "lat": 46.7586916,
+  "lng": 7.6302722,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|37": {
+  "street": "Obere Hauptgasse",
+  "hn": "37",
+  "lat": 46.7588378,
+  "lng": 7.6300869,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|27": {
+  "street": "Obere Hauptgasse",
+  "hn": "27",
+  "lat": 46.7590223,
+  "lng": 7.6297505,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|35": {
+  "street": "Obere Hauptgasse",
+  "hn": "35",
+  "lat": 46.7589066,
+  "lng": 7.6300337,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|63a": {
+  "street": "Obere Hauptgasse",
+  "hn": "63a",
+  "lat": 46.7584478,
+  "lng": 7.630961,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|25": {
+  "street": "Obere Hauptgasse",
+  "hn": "25",
+  "lat": 46.7590777,
+  "lng": 7.6296953,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|49": {
+  "street": "Obere Hauptgasse",
+  "hn": "49",
+  "lat": 46.7585969,
+  "lng": 7.6304098,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|33": {
+  "street": "Obere Hauptgasse",
+  "hn": "33",
+  "lat": 46.7589158,
+  "lng": 7.6299331,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|41": {
+  "street": "Obere Hauptgasse",
+  "hn": "41",
+  "lat": 46.7587604,
+  "lng": 7.6301589,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|29": {
+  "street": "Obere Hauptgasse",
+  "hn": "29",
+  "lat": 46.7589853,
+  "lng": 7.6298087,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|19": {
+  "street": "Obere Hauptgasse",
+  "hn": "19",
+  "lat": 46.7591517,
+  "lng": 7.629563,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|17": {
+  "street": "Obere Hauptgasse",
+  "hn": "17",
+  "lat": 46.7591614,
+  "lng": 7.6295016,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|31": {
+  "street": "Obere Hauptgasse",
+  "hn": "31",
+  "lat": 46.7589565,
+  "lng": 7.6298713,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|47": {
+  "street": "Obere Hauptgasse",
+  "hn": "47",
+  "lat": 46.7586393,
+  "lng": 7.6303244,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|10": {
+  "street": "Obere Hauptgasse",
+  "hn": "10",
+  "lat": 46.7590596,
+  "lng": 7.6289644,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|47": {
+  "street": "Bahnhofstrasse",
+  "hn": "47",
+  "lat": 46.7731022,
+  "lng": 7.6226037,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|45": {
+  "street": "Bahnhofstrasse",
+  "hn": "45",
+  "lat": 46.7734069,
+  "lng": 7.6225348,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|37": {
+  "street": "Bahnhofstrasse",
+  "hn": "37",
+  "lat": 46.773555,
+  "lng": 7.6229312,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|51": {
+  "street": "Bahnhofstrasse",
+  "hn": "51",
+  "lat": 46.7735618,
+  "lng": 7.6221751,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|41": {
+  "street": "Bahnhofstrasse",
+  "hn": "41",
+  "lat": 46.7729128,
+  "lng": 7.6232134,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|43": {
+  "street": "Bahnhofstrasse",
+  "hn": "43",
+  "lat": 46.7736242,
+  "lng": 7.6224947,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|3b": {
+  "street": "Bahnhofstrasse",
+  "hn": "3b",
+  "lat": 46.7743181,
+  "lng": 7.6281447,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|2b": {
+  "street": "Bahnhofstrasse",
+  "hn": "2b",
+  "lat": 46.7745755,
+  "lng": 7.6290586,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 46.7743236,
+  "lng": 7.6268705,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 46.7745315,
+  "lng": 7.6287835,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 46.7742242,
+  "lng": 7.6265694,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 46.7744459,
+  "lng": 7.6277172,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|19": {
+  "street": "Bahnhofstrasse",
+  "hn": "19",
+  "lat": 46.7741658,
+  "lng": 7.6263204,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|93": {
+  "street": "Bahnhofstrasse",
+  "hn": "93",
+  "lat": 46.7722777,
+  "lng": 7.6161002,
+  "mieter": []
+ },
+ "thun|bälliz|54": {
+  "street": "Bälliz",
+  "hn": "54",
+  "lat": 46.7576235,
+  "lng": 7.6281019,
+  "mieter": []
+ },
+ "thun|bälliz|60a": {
+  "street": "Bälliz",
+  "hn": "60a",
+  "lat": 46.757328,
+  "lng": 7.6288189,
+  "mieter": []
+ },
+ "thun|bälliz|62": {
+  "street": "Bälliz",
+  "hn": "62",
+  "lat": 46.7572296,
+  "lng": 7.6291576,
+  "mieter": []
+ },
+ "thun|bälliz|52": {
+  "street": "Bälliz",
+  "hn": "52",
+  "lat": 46.7577091,
+  "lng": 7.6279294,
+  "mieter": []
+ },
+ "thun|bälliz|42": {
+  "street": "Bälliz",
+  "hn": "42",
+  "lat": 46.7583291,
+  "lng": 7.6272345,
+  "mieter": []
+ },
+ "thun|bälliz|16": {
+  "street": "Bälliz",
+  "hn": "16",
+  "lat": 46.7595756,
+  "lng": 7.6263838,
+  "mieter": []
+ },
+ "thun|bälliz|14": {
+  "street": "Bälliz",
+  "hn": "14",
+  "lat": 46.7596428,
+  "lng": 7.626346,
+  "mieter": []
+ },
+ "thun|bälliz|18": {
+  "street": "Bälliz",
+  "hn": "18",
+  "lat": 46.7595181,
+  "lng": 7.626421,
+  "mieter": []
+ },
+ "thun|bälliz|20": {
+  "street": "Bälliz",
+  "hn": "20",
+  "lat": 46.7594388,
+  "lng": 7.6264723,
+  "mieter": []
+ },
+ "thun|bälliz|24": {
+  "street": "Bälliz",
+  "hn": "24",
+  "lat": 46.7592486,
+  "lng": 7.6265764,
+  "mieter": []
+ },
+ "thun|bälliz|26": {
+  "street": "Bälliz",
+  "hn": "26",
+  "lat": 46.7590706,
+  "lng": 7.6266819,
+  "mieter": [
+   "Schaufelberger"
+  ]
+ },
+ "thun|bälliz|30": {
+  "street": "Bälliz",
+  "hn": "30",
+  "lat": 46.7589036,
+  "lng": 7.626774,
+  "mieter": []
+ },
+ "thun|bälliz|32": {
+  "street": "Bälliz",
+  "hn": "32",
+  "lat": 46.7588279,
+  "lng": 7.6268283,
+  "mieter": []
+ },
+ "thun|bälliz|34": {
+  "street": "Bälliz",
+  "hn": "34",
+  "lat": 46.7587554,
+  "lng": 7.6268746,
+  "mieter": []
+ },
+ "thun|bälliz|40": {
+  "street": "Bälliz",
+  "hn": "40",
+  "lat": 46.758511,
+  "lng": 7.6270766,
+  "mieter": []
+ },
+ "thun|bälliz|44": {
+  "street": "Bälliz",
+  "hn": "44",
+  "lat": 46.7582246,
+  "lng": 7.6273283,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|55a": {
+  "street": "Obere Hauptgasse",
+  "hn": "55a",
+  "lat": 46.7587697,
+  "lng": 7.6307356,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|33": {
+  "street": "Bahnhofstrasse",
+  "hn": "33",
+  "lat": 46.7736872,
+  "lng": 7.6237456,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|35": {
+  "street": "Bahnhofstrasse",
+  "hn": "35",
+  "lat": 46.773641,
+  "lng": 7.6233533,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|29": {
+  "street": "Bahnhofstrasse",
+  "hn": "29",
+  "lat": 46.7737262,
+  "lng": 7.6241376,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|27": {
+  "street": "Bahnhofstrasse",
+  "hn": "27",
+  "lat": 46.7737649,
+  "lng": 7.6245258,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|55": {
+  "street": "Bahnhofstrasse",
+  "hn": "55",
+  "lat": 46.7736466,
+  "lng": 7.6215742,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|57": {
+  "street": "Bahnhofstrasse",
+  "hn": "57",
+  "lat": 46.773631,
+  "lng": 7.6212713,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|71": {
+  "street": "Bahnhofstrasse",
+  "hn": "71",
+  "lat": 46.7737288,
+  "lng": 7.6189033,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|52": {
+  "street": "Bahnhofstrasse",
+  "hn": "52",
+  "lat": 46.7738897,
+  "lng": 7.6211878,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|81": {
+  "street": "Bahnhofstrasse",
+  "hn": "81",
+  "lat": 46.7737719,
+  "lng": 7.6176974,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|83": {
+  "street": "Bahnhofstrasse",
+  "hn": "83",
+  "lat": 46.7737891,
+  "lng": 7.6174168,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|73": {
+  "street": "Bahnhofstrasse",
+  "hn": "73",
+  "lat": 46.7737362,
+  "lng": 7.618665,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|50": {
+  "street": "Bahnhofstrasse",
+  "hn": "50",
+  "lat": 46.7738813,
+  "lng": 7.6216164,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|62": {
+  "street": "Bahnhofstrasse",
+  "hn": "62",
+  "lat": 46.7739282,
+  "lng": 7.6193585,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|48": {
+  "street": "Bahnhofstrasse",
+  "hn": "48",
+  "lat": 46.773854,
+  "lng": 7.6218694,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|75": {
+  "street": "Bahnhofstrasse",
+  "hn": "75",
+  "lat": 46.7737422,
+  "lng": 7.6184331,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|56": {
+  "street": "Bahnhofstrasse",
+  "hn": "56",
+  "lat": 46.7739039,
+  "lng": 7.6205607,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|63": {
+  "street": "Bahnhofstrasse",
+  "hn": "63",
+  "lat": 46.7736658,
+  "lng": 7.620213,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|42": {
+  "street": "Bahnhofstrasse",
+  "hn": "42",
+  "lat": 46.7738937,
+  "lng": 7.6229229,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|79": {
+  "street": "Bahnhofstrasse",
+  "hn": "79",
+  "lat": 46.7737656,
+  "lng": 7.6179343,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|58": {
+  "street": "Bahnhofstrasse",
+  "hn": "58",
+  "lat": 46.7739101,
+  "lng": 7.6200668,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|46": {
+  "street": "Bahnhofstrasse",
+  "hn": "46",
+  "lat": 46.7738763,
+  "lng": 7.6221764,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|60": {
+  "street": "Bahnhofstrasse",
+  "hn": "60",
+  "lat": 46.7739202,
+  "lng": 7.619736,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|69": {
+  "street": "Bahnhofstrasse",
+  "hn": "69",
+  "lat": 46.7737159,
+  "lng": 7.6191776,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|44": {
+  "street": "Bahnhofstrasse",
+  "hn": "44",
+  "lat": 46.7738802,
+  "lng": 7.6226633,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|65": {
+  "street": "Bahnhofstrasse",
+  "hn": "65",
+  "lat": 46.7736913,
+  "lng": 7.6198913,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|54": {
+  "street": "Bahnhofstrasse",
+  "hn": "54",
+  "lat": 46.7738923,
+  "lng": 7.620926,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|85": {
+  "street": "Bahnhofstrasse",
+  "hn": "85",
+  "lat": 46.7737693,
+  "lng": 7.6171996,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|77": {
+  "street": "Bahnhofstrasse",
+  "hn": "77",
+  "lat": 46.7737578,
+  "lng": 7.6181755,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|61": {
+  "street": "Bahnhofstrasse",
+  "hn": "61",
+  "lat": 46.7736245,
+  "lng": 7.6205362,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|23": {
+  "street": "Bahnhofstrasse",
+  "hn": "23",
+  "lat": 46.7740181,
+  "lng": 7.625813,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|25": {
+  "street": "Bahnhofstrasse",
+  "hn": "25",
+  "lat": 46.7738716,
+  "lng": 7.6253655,
+  "mieter": []
+ },
+ "thun|bälliz|59": {
+  "street": "Bälliz",
+  "hn": "59",
+  "lat": 46.7578175,
+  "lng": 7.6289513,
+  "mieter": []
+ },
+ "thun|bälliz|41": {
+  "street": "Bälliz",
+  "hn": "41",
+  "lat": 46.7583716,
+  "lng": 7.6280335,
+  "mieter": []
+ },
+ "thun|bälliz|39": {
+  "street": "Bälliz",
+  "hn": "39",
+  "lat": 46.7584642,
+  "lng": 7.6279145,
+  "mieter": []
+ },
+ "thun|bälliz|25": {
+  "street": "Bälliz",
+  "hn": "25",
+  "lat": 46.7592032,
+  "lng": 7.62728,
+  "mieter": []
+ },
+ "thun|bälliz|23": {
+  "street": "Bälliz",
+  "hn": "23",
+  "lat": 46.7592892,
+  "lng": 7.6272202,
+  "mieter": []
+ },
+ "thun|bälliz|21": {
+  "street": "Bälliz",
+  "hn": "21",
+  "lat": 46.759341,
+  "lng": 7.6272024,
+  "mieter": []
+ },
+ "thun|bälliz|17": {
+  "street": "Bälliz",
+  "hn": "17",
+  "lat": 46.7594566,
+  "lng": 7.6271255,
+  "mieter": []
+ },
+ "thun|bälliz|9": {
+  "street": "Bälliz",
+  "hn": "9",
+  "lat": 46.7596592,
+  "lng": 7.6269548,
+  "mieter": []
+ },
+ "thun|bälliz|7": {
+  "street": "Bälliz",
+  "hn": "7",
+  "lat": 46.7597333,
+  "lng": 7.6269215,
+  "mieter": []
+ },
+ "thun|bälliz|1": {
+  "street": "Bälliz",
+  "hn": "1",
+  "lat": 46.7598361,
+  "lng": 7.6268341,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|15a": {
+  "street": "Bahnhofstrasse",
+  "hn": "15a",
+  "lat": 46.7742478,
+  "lng": 7.6267372,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|17a": {
+  "street": "Bahnhofstrasse",
+  "hn": "17a",
+  "lat": 46.7742368,
+  "lng": 7.6266868,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|13a": {
+  "street": "Bahnhofstrasse",
+  "hn": "13a",
+  "lat": 46.774347,
+  "lng": 7.6270266,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 46.7743358,
+  "lng": 7.6271822,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|9a": {
+  "street": "Bahnhofstrasse",
+  "hn": "9a",
+  "lat": 46.7744321,
+  "lng": 7.6275227,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|7a": {
+  "street": "Bahnhofstrasse",
+  "hn": "7a",
+  "lat": 46.7744523,
+  "lng": 7.6275735,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 46.7742901,
+  "lng": 7.6274648,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 46.7743163,
+  "lng": 7.6275486,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 46.7746198,
+  "lng": 7.6285608,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|2a": {
+  "street": "Bahnhofstrasse",
+  "hn": "2a",
+  "lat": 46.7746482,
+  "lng": 7.6288486,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|4b": {
+  "street": "Bahnhofstrasse",
+  "hn": "4b",
+  "lat": 46.7747109,
+  "lng": 7.6288037,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|4a": {
+  "street": "Bahnhofstrasse",
+  "hn": "4a",
+  "lat": 46.7746507,
+  "lng": 7.6287344,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 46.7743337,
+  "lng": 7.6284632,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|19a": {
+  "street": "Bahnhofstrasse",
+  "hn": "19a",
+  "lat": 46.7740066,
+  "lng": 7.6264652,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|21b": {
+  "street": "Bahnhofstrasse",
+  "hn": "21b",
+  "lat": 46.7741833,
+  "lng": 7.6260903,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 46.7740914,
+  "lng": 7.626022,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|23b": {
+  "street": "Bahnhofstrasse",
+  "hn": "23b",
+  "lat": 46.7739598,
+  "lng": 7.6256927,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|59": {
+  "street": "Bahnhofstrasse",
+  "hn": "59",
+  "lat": 46.7736235,
+  "lng": 7.6208987,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|59a": {
+  "street": "Bahnhofstrasse",
+  "hn": "59a",
+  "lat": 46.7736221,
+  "lng": 7.6209891,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|53b": {
+  "street": "Bahnhofstrasse",
+  "hn": "53b",
+  "lat": 46.773508,
+  "lng": 7.6219621,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|55a": {
+  "street": "Bahnhofstrasse",
+  "hn": "55a",
+  "lat": 46.7735223,
+  "lng": 7.621711,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|53": {
+  "street": "Bahnhofstrasse",
+  "hn": "53",
+  "lat": 46.7736346,
+  "lng": 7.6218397,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|53a": {
+  "street": "Bahnhofstrasse",
+  "hn": "53a",
+  "lat": 46.7736012,
+  "lng": 7.6219485,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|39a": {
+  "street": "Bahnhofstrasse",
+  "hn": "39a",
+  "lat": 46.7731553,
+  "lng": 7.6231061,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|39": {
+  "street": "Bahnhofstrasse",
+  "hn": "39",
+  "lat": 46.77332,
+  "lng": 7.6230315,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|70a": {
+  "street": "Bahnhofstrasse",
+  "hn": "70a",
+  "lat": 46.7740033,
+  "lng": 7.6178216,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|70": {
+  "street": "Bahnhofstrasse",
+  "hn": "70",
+  "lat": 46.7739711,
+  "lng": 7.6179683,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|67a": {
+  "street": "Bahnhofstrasse",
+  "hn": "67a",
+  "lat": 46.7736938,
+  "lng": 7.6194417,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|67": {
+  "street": "Bahnhofstrasse",
+  "hn": "67",
+  "lat": 46.7737086,
+  "lng": 7.6195552,
+  "mieter": []
+ },
+ "thun|bälliz|2": {
+  "street": "Bälliz",
+  "hn": "2",
+  "lat": 46.760232,
+  "lng": 7.6264663,
+  "mieter": [
+   "Migros"
+  ]
+ },
+ "thun|bälliz|6": {
+  "street": "Bälliz",
+  "hn": "6",
+  "lat": 46.7599986,
+  "lng": 7.6263866,
+  "mieter": []
+ },
+ "thun|bälliz|8": {
+  "street": "Bälliz",
+  "hn": "8",
+  "lat": 46.7599657,
+  "lng": 7.6263102,
+  "mieter": []
+ },
+ "thun|bälliz|12": {
+  "street": "Bälliz",
+  "hn": "12",
+  "lat": 46.759912,
+  "lng": 7.626158,
+  "mieter": []
+ },
+ "thun|bälliz|33a": {
+  "street": "Bälliz",
+  "hn": "33a",
+  "lat": 46.7587514,
+  "lng": 7.6276404,
+  "mieter": []
+ },
+ "thun|bälliz|29": {
+  "street": "Bälliz",
+  "hn": "29",
+  "lat": 46.7589885,
+  "lng": 7.6274171,
+  "mieter": []
+ },
+ "thun|bälliz|19": {
+  "street": "Bälliz",
+  "hn": "19",
+  "lat": 46.7593772,
+  "lng": 7.6270704,
+  "mieter": []
+ },
+ "thun|bälliz|19a": {
+  "street": "Bälliz",
+  "hn": "19a",
+  "lat": 46.759451,
+  "lng": 7.6272737,
+  "mieter": []
+ },
+ "thun|bälliz|15": {
+  "street": "Bälliz",
+  "hn": "15",
+  "lat": 46.7594762,
+  "lng": 7.6269944,
+  "mieter": []
+ },
+ "thun|bälliz|13": {
+  "street": "Bälliz",
+  "hn": "13",
+  "lat": 46.7595459,
+  "lng": 7.6270566,
+  "mieter": []
+ },
+ "thun|bälliz|57": {
+  "street": "Bälliz",
+  "hn": "57",
+  "lat": 46.7578586,
+  "lng": 7.6287136,
+  "mieter": []
+ },
+ "thun|bälliz|55": {
+  "street": "Bälliz",
+  "hn": "55",
+  "lat": 46.7579206,
+  "lng": 7.6286798,
+  "mieter": []
+ },
+ "thun|bälliz|53": {
+  "street": "Bälliz",
+  "hn": "53",
+  "lat": 46.7578546,
+  "lng": 7.6285174,
+  "mieter": []
+ },
+ "thun|bälliz|51": {
+  "street": "Bälliz",
+  "hn": "51",
+  "lat": 46.7578926,
+  "lng": 7.6284113,
+  "mieter": []
+ },
+ "thun|bälliz|49": {
+  "street": "Bälliz",
+  "hn": "49",
+  "lat": 46.7580571,
+  "lng": 7.6284497,
+  "mieter": []
+ },
+ "thun|bälliz|47": {
+  "street": "Bälliz",
+  "hn": "47",
+  "lat": 46.7581197,
+  "lng": 7.628343,
+  "mieter": []
+ },
+ "thun|bälliz|45a": {
+  "street": "Bälliz",
+  "hn": "45a",
+  "lat": 46.7582141,
+  "lng": 7.6282173,
+  "mieter": []
+ },
+ "thun|bälliz|45": {
+  "street": "Bälliz",
+  "hn": "45",
+  "lat": 46.7581348,
+  "lng": 7.6280881,
+  "mieter": []
+ },
+ "thun|bälliz|35": {
+  "street": "Bälliz",
+  "hn": "35",
+  "lat": 46.7586442,
+  "lng": 7.6277184,
+  "mieter": []
+ },
+ "thun|bälliz|51a": {
+  "street": "Bälliz",
+  "hn": "51a",
+  "lat": 46.757983,
+  "lng": 7.6285762,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 46.7555584,
+  "lng": 7.629541,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|53": {
+  "street": "Obere Hauptgasse",
+  "hn": "53",
+  "lat": 46.7585244,
+  "lng": 7.6304972,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|51": {
+  "street": "Obere Hauptgasse",
+  "hn": "51",
+  "lat": 46.7585652,
+  "lng": 7.6304489,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|39": {
+  "street": "Obere Hauptgasse",
+  "hn": "39",
+  "lat": 46.7587977,
+  "lng": 7.6301018,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|20": {
+  "street": "Untere Hauptgasse",
+  "hn": "20",
+  "lat": 46.7605987,
+  "lng": 7.6288137,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|18": {
+  "street": "Untere Hauptgasse",
+  "hn": "18",
+  "lat": 46.7605165,
+  "lng": 7.6288252,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|16": {
+  "street": "Untere Hauptgasse",
+  "hn": "16",
+  "lat": 46.7604511,
+  "lng": 7.6288441,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|9": {
+  "street": "Untere Hauptgasse",
+  "hn": "9",
+  "lat": 46.7601928,
+  "lng": 7.6284189,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|11": {
+  "street": "Untere Hauptgasse",
+  "hn": "11",
+  "lat": 46.7602366,
+  "lng": 7.6284044,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|13": {
+  "street": "Untere Hauptgasse",
+  "hn": "13",
+  "lat": 46.7602915,
+  "lng": 7.628423,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|17": {
+  "street": "Untere Hauptgasse",
+  "hn": "17",
+  "lat": 46.7604574,
+  "lng": 7.6284536,
+  "mieter": []
+ },
+ "thun|marktgasse|4": {
+  "street": "Marktgasse",
+  "hn": "4",
+  "lat": 46.7607564,
+  "lng": 7.6283245,
+  "mieter": []
+ },
+ "thun|marktgasse|6a": {
+  "street": "Marktgasse",
+  "hn": "6a",
+  "lat": 46.7607311,
+  "lng": 7.6282202,
+  "mieter": []
+ },
+ "thun|marktgasse|8": {
+  "street": "Marktgasse",
+  "hn": "8",
+  "lat": 46.7606652,
+  "lng": 7.6279321,
+  "mieter": []
+ },
+ "thun|marktgasse|3": {
+  "street": "Marktgasse",
+  "hn": "3",
+  "lat": 46.760412,
+  "lng": 7.6282682,
+  "mieter": []
+ },
+ "thun|marktgasse|5": {
+  "street": "Marktgasse",
+  "hn": "5",
+  "lat": 46.7603709,
+  "lng": 7.6281197,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|32a": {
+  "street": "Untere Hauptgasse",
+  "hn": "32a",
+  "lat": 46.761166,
+  "lng": 7.6289972,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|28a": {
+  "street": "Untere Hauptgasse",
+  "hn": "28a",
+  "lat": 46.7609526,
+  "lng": 7.6289317,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|29": {
+  "street": "Untere Hauptgasse",
+  "hn": "29",
+  "lat": 46.7610205,
+  "lng": 7.6284755,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|27": {
+  "street": "Untere Hauptgasse",
+  "hn": "27",
+  "lat": 46.7609631,
+  "lng": 7.6284804,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|25": {
+  "street": "Untere Hauptgasse",
+  "hn": "25",
+  "lat": 46.7608967,
+  "lng": 7.6284788,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|23": {
+  "street": "Untere Hauptgasse",
+  "hn": "23",
+  "lat": 46.7608355,
+  "lng": 7.6284804,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|21": {
+  "street": "Untere Hauptgasse",
+  "hn": "21",
+  "lat": 46.7607979,
+  "lng": 7.6284892,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|32": {
+  "street": "Untere Hauptgasse",
+  "hn": "32",
+  "lat": 46.7610967,
+  "lng": 7.6288639,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|30": {
+  "street": "Untere Hauptgasse",
+  "hn": "30",
+  "lat": 46.7609197,
+  "lng": 7.6288031,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|28": {
+  "street": "Untere Hauptgasse",
+  "hn": "28",
+  "lat": 46.7608426,
+  "lng": 7.6288071,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|24": {
+  "street": "Untere Hauptgasse",
+  "hn": "24",
+  "lat": 46.7607244,
+  "lng": 7.6288447,
+  "mieter": []
+ },
+ "thun|bälliz|67": {
+  "street": "Bälliz",
+  "hn": "67",
+  "lat": 46.757467,
+  "lng": 7.6299619,
+  "mieter": []
+ },
+ "thun|bälliz|69a": {
+  "street": "Bälliz",
+  "hn": "69a",
+  "lat": 46.757386,
+  "lng": 7.630192,
+  "mieter": []
+ },
+ "thun|bälliz|69": {
+  "street": "Bälliz",
+  "hn": "69",
+  "lat": 46.7573511,
+  "lng": 7.6302575,
+  "mieter": []
+ },
+ "thun|bälliz|71": {
+  "street": "Bälliz",
+  "hn": "71",
+  "lat": 46.7573415,
+  "lng": 7.6303393,
+  "mieter": []
+ },
+ "thun|bälliz|73": {
+  "street": "Bälliz",
+  "hn": "73",
+  "lat": 46.7573236,
+  "lng": 7.6304201,
+  "mieter": []
+ },
+ "thun|bälliz|75": {
+  "street": "Bälliz",
+  "hn": "75",
+  "lat": 46.7572173,
+  "lng": 7.6304817,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|55": {
+  "street": "Obere Hauptgasse",
+  "hn": "55",
+  "lat": 46.7584566,
+  "lng": 7.6305314,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|65": {
+  "street": "Obere Hauptgasse",
+  "hn": "65",
+  "lat": 46.7582921,
+  "lng": 7.6309465,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|63": {
+  "street": "Obere Hauptgasse",
+  "hn": "63",
+  "lat": 46.7583154,
+  "lng": 7.6308638,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|61": {
+  "street": "Obere Hauptgasse",
+  "hn": "61",
+  "lat": 46.7583058,
+  "lng": 7.6307934,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|59": {
+  "street": "Obere Hauptgasse",
+  "hn": "59",
+  "lat": 46.7583269,
+  "lng": 7.6307399,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|57": {
+  "street": "Obere Hauptgasse",
+  "hn": "57",
+  "lat": 46.758365,
+  "lng": 7.6307015,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|52": {
+  "street": "Obere Hauptgasse",
+  "hn": "52",
+  "lat": 46.7582757,
+  "lng": 7.6303431,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|14": {
+  "street": "Obere Hauptgasse",
+  "hn": "14",
+  "lat": 46.7589138,
+  "lng": 7.6291763,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|16": {
+  "street": "Obere Hauptgasse",
+  "hn": "16",
+  "lat": 46.7589048,
+  "lng": 7.6292414,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|22": {
+  "street": "Obere Hauptgasse",
+  "hn": "22",
+  "lat": 46.7588473,
+  "lng": 7.6293505,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|34": {
+  "street": "Obere Hauptgasse",
+  "hn": "34",
+  "lat": 46.7586733,
+  "lng": 7.629735,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|42": {
+  "street": "Obere Hauptgasse",
+  "hn": "42",
+  "lat": 46.7585299,
+  "lng": 7.6299162,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|44": {
+  "street": "Obere Hauptgasse",
+  "hn": "44",
+  "lat": 46.7584629,
+  "lng": 7.630033,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|70": {
+  "street": "Obere Hauptgasse",
+  "hn": "70",
+  "lat": 46.7580346,
+  "lng": 7.6311085,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|72": {
+  "street": "Obere Hauptgasse",
+  "hn": "72",
+  "lat": 46.7580263,
+  "lng": 7.6312638,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|74": {
+  "street": "Obere Hauptgasse",
+  "hn": "74",
+  "lat": 46.7580157,
+  "lng": 7.6313917,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|4": {
+  "street": "Untere Hauptgasse",
+  "hn": "4",
+  "lat": 46.7599267,
+  "lng": 7.6288354,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|8": {
+  "street": "Untere Hauptgasse",
+  "hn": "8",
+  "lat": 46.7600583,
+  "lng": 7.6288171,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|10": {
+  "street": "Untere Hauptgasse",
+  "hn": "10",
+  "lat": 46.7601177,
+  "lng": 7.6287718,
+  "mieter": []
+ },
+ "thun|untere hauptgasse|12a": {
+  "street": "Untere Hauptgasse",
+  "hn": "12a",
+  "lat": 46.7601298,
+  "lng": 7.6289242,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|71": {
+  "street": "Obere Hauptgasse",
+  "hn": "71",
+  "lat": 46.7582729,
+  "lng": 7.6311349,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|57b": {
+  "street": "Obere Hauptgasse",
+  "hn": "57b",
+  "lat": 46.7585443,
+  "lng": 7.6307708,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|65a": {
+  "street": "Obere Hauptgasse",
+  "hn": "65a",
+  "lat": 46.7584579,
+  "lng": 7.6311455,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|67": {
+  "street": "Obere Hauptgasse",
+  "hn": "67",
+  "lat": 46.7582683,
+  "lng": 7.6310153,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|75": {
+  "street": "Obere Hauptgasse",
+  "hn": "75",
+  "lat": 46.7582467,
+  "lng": 7.6312556,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|8": {
+  "street": "Obere Hauptgasse",
+  "hn": "8",
+  "lat": 46.7591162,
+  "lng": 7.6288734,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|6": {
+  "street": "Obere Hauptgasse",
+  "hn": "6",
+  "lat": 46.7591472,
+  "lng": 7.6287432,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|3": {
+  "street": "Obere Hauptgasse",
+  "hn": "3",
+  "lat": 46.7593615,
+  "lng": 7.6291244,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|5": {
+  "street": "Obere Hauptgasse",
+  "hn": "5",
+  "lat": 46.7593655,
+  "lng": 7.6292048,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|7": {
+  "street": "Obere Hauptgasse",
+  "hn": "7",
+  "lat": 46.759293,
+  "lng": 7.6292245,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|9": {
+  "street": "Obere Hauptgasse",
+  "hn": "9",
+  "lat": 46.7593064,
+  "lng": 7.6293271,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|11": {
+  "street": "Obere Hauptgasse",
+  "hn": "11",
+  "lat": 46.7592377,
+  "lng": 7.6293528,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|13": {
+  "street": "Obere Hauptgasse",
+  "hn": "13",
+  "lat": 46.7592143,
+  "lng": 7.6294075,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|15": {
+  "street": "Obere Hauptgasse",
+  "hn": "15",
+  "lat": 46.7591924,
+  "lng": 7.629448,
+  "mieter": []
+ },
+ "thun|bahnhofstrasse|91": {
+  "street": "Bahnhofstrasse",
+  "hn": "91",
+  "lat": 46.7728266,
+  "lng": 7.6159048,
+  "mieter": []
+ },
+ "thun|bälliz|73a": {
+  "street": "Bälliz",
+  "hn": "73a",
+  "lat": 46.757482,
+  "lng": 7.6303452,
+  "mieter": []
+ },
+ "thun|bälliz|61a": {
+  "street": "Bälliz",
+  "hn": "61a",
+  "lat": 46.7578374,
+  "lng": 7.6292498,
+  "mieter": []
+ },
+ "thun|bälliz|57b": {
+  "street": "Bälliz",
+  "hn": "57b",
+  "lat": 46.7580461,
+  "lng": 7.6289216,
+  "mieter": []
+ },
+ "thun|bälliz|55a": {
+  "street": "Bälliz",
+  "hn": "55a",
+  "lat": 46.758015,
+  "lng": 7.6286785,
+  "mieter": []
+ },
+ "thun|bälliz|43c": {
+  "street": "Bälliz",
+  "hn": "43c",
+  "lat": 46.7583907,
+  "lng": 7.6282324,
+  "mieter": []
+ },
+ "thun|bälliz|43b": {
+  "street": "Bälliz",
+  "hn": "43b",
+  "lat": 46.7584147,
+  "lng": 7.6283262,
+  "mieter": []
+ },
+ "thun|bälliz|43a": {
+  "street": "Bälliz",
+  "hn": "43a",
+  "lat": 46.7583302,
+  "lng": 7.6283379,
+  "mieter": []
+ },
+ "thun|bälliz|45b": {
+  "street": "Bälliz",
+  "hn": "45b",
+  "lat": 46.7583026,
+  "lng": 7.6283987,
+  "mieter": []
+ },
+ "thun|bälliz|31a": {
+  "street": "Bälliz",
+  "hn": "31a",
+  "lat": 46.7590178,
+  "lng": 7.6277093,
+  "mieter": []
+ },
+ "thun|bälliz|27a": {
+  "street": "Bälliz",
+  "hn": "27a",
+  "lat": 46.759175,
+  "lng": 7.6275553,
+  "mieter": []
+ },
+ "thun|bälliz|46a": {
+  "street": "Bälliz",
+  "hn": "46a",
+  "lat": 46.7581626,
+  "lng": 7.6274344,
+  "mieter": []
+ },
+ "thun|bälliz|4a": {
+  "street": "Bälliz",
+  "hn": "4a",
+  "lat": 46.7603141,
+  "lng": 7.6261253,
+  "mieter": []
+ },
+ "thun|obere hauptgasse|61a": {
+  "street": "Obere Hauptgasse",
+  "hn": "61a",
+  "lat": 46.7583602,
+  "lng": 7.6308532,
+  "mieter": []
+ },
+ "thun|bälliz|62b": {
+  "street": "Bälliz",
+  "hn": "62b",
+  "lat": 46.757042,
+  "lng": 7.6295233,
+  "mieter": []
+ }
+}

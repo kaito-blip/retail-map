@@ -1,0 +1,697 @@
+{
+ "rapperswil|untere bahnhofstrasse|2": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "2",
+  "lat": 47.2253291,
+  "lng": 8.81769,
+  "mieter": [
+   "Postfinance",
+   "Concordia",
+   "PostFinance",
+   "Orange Grill Kebab",
+   "Coop",
+   "BeelerLegal Advokatur Notariat Steuerberatung"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|21": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "21",
+  "lat": 47.2258395,
+  "lng": 8.8185238,
+  "mieter": [
+   "Migros Bank"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|19": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "19",
+  "lat": 47.2259117,
+  "lng": 8.8182095,
+  "mieter": [
+   "The Beauty Nails",
+   "Secondhand-Shop Rapperswil",
+   "Cafitass",
+   "WasWieWo-Schalter"
+  ]
+ },
+ "rapperswil|marktgasse|12": {
+  "street": "Marktgasse",
+  "hn": "12",
+  "lat": 47.2263676,
+  "lng": 8.8153208,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|14": {
+  "street": "Marktgasse",
+  "hn": "14",
+  "lat": 47.2263568,
+  "lng": 8.8152302,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|16": {
+  "street": "Marktgasse",
+  "hn": "16",
+  "lat": 47.2263499,
+  "lng": 8.8151729,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|20": {
+  "street": "Marktgasse",
+  "hn": "20",
+  "lat": 47.2263231,
+  "lng": 8.8150278,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|22": {
+  "street": "Marktgasse",
+  "hn": "22",
+  "lat": 47.2263171,
+  "lng": 8.814902,
+  "mieter": []
+ },
+ "rapperswil|untere bahnhofstrasse|9": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "9",
+  "lat": 47.2254808,
+  "lng": 8.817366,
+  "mieter": [
+   "St. Galler Kantonalbank"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|11": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "11",
+  "lat": 47.2255849,
+  "lng": 8.8179078,
+  "mieter": [
+   "Fielmann",
+   "Bank Linth",
+   "workmanagement Hauptsitz Rapperswil"
+  ]
+ },
+ "rapperswil|marktgasse|25": {
+  "street": "Marktgasse",
+  "hn": "25",
+  "lat": 47.2260686,
+  "lng": 8.8146301,
+  "mieter": [
+   "Seerestaurant Steinbock",
+   "Nautic Pub"
+  ]
+ },
+ "rapperswil|marktgasse|9": {
+  "street": "Marktgasse",
+  "hn": "9",
+  "lat": 47.2262823,
+  "lng": 8.8157717,
+  "mieter": [
+   "Bären"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|28": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "28",
+  "lat": 47.2262901,
+  "lng": 8.8186934,
+  "mieter": []
+ },
+ "rapperswil|untere bahnhofstrasse|8": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "8",
+  "lat": 47.2255493,
+  "lng": 8.8188559,
+  "mieter": [
+   "Wasserbett- und Schlafcenter"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|20": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "20",
+  "lat": 47.2256964,
+  "lng": 8.8188356,
+  "mieter": [
+   "dieci"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|4": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "4",
+  "lat": 47.2255226,
+  "lng": 8.8186239,
+  "mieter": [
+   "tabu"
+  ]
+ },
+ "rapperswil|halsgasse|31a": {
+  "street": "Halsgasse",
+  "hn": "31a",
+  "lat": 47.2278565,
+  "lng": 8.8184126,
+  "mieter": [
+   "§11"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|32c": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "32c",
+  "lat": 47.2268311,
+  "lng": 8.8190721,
+  "mieter": [
+   "Salt",
+   "PKZ"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|27": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "27",
+  "lat": 47.2264541,
+  "lng": 8.8183143,
+  "mieter": [
+   "Sunrise"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|22": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "22",
+  "lat": 47.2258714,
+  "lng": 8.818801,
+  "mieter": [
+   "Art of Food - South Indian Restaurant",
+   "hait & soul",
+   "RAPPI MOMO"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|18": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "18",
+  "lat": 47.2257257,
+  "lng": 8.819117,
+  "mieter": []
+ },
+ "rapperswil|untere bahnhofstrasse|16": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "16",
+  "lat": 47.2257395,
+  "lng": 8.8192265,
+  "mieter": [
+   "Aung Kyaw"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|32a": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "32a",
+  "lat": 47.2270634,
+  "lng": 8.8189169,
+  "mieter": [
+   "Coiffeur Prince",
+   "Unia"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|32b": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "32b",
+  "lat": 47.2269746,
+  "lng": 8.8190421,
+  "mieter": [
+   "McOptic"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|40": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "40",
+  "lat": 47.2271979,
+  "lng": 8.8189653,
+  "mieter": [
+   "I Wicky"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|46": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "46",
+  "lat": 47.227475,
+  "lng": 8.8192389,
+  "mieter": [
+   "Leuzinger",
+   "Valentino"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|5": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "5",
+  "lat": 47.2256351,
+  "lng": 8.816846,
+  "mieter": [
+   "Sayori euro asia sushi bar"
+  ]
+ },
+ "rapperswil|marktgasse|3": {
+  "street": "Marktgasse",
+  "hn": "3",
+  "lat": 47.226254,
+  "lng": 8.8161387,
+  "mieter": [
+   "RAV-Regionale Arbeitsvermittlung"
+  ]
+ },
+ "rapperswil|marktgasse|3a": {
+  "street": "Marktgasse",
+  "hn": "3a",
+  "lat": 47.2263179,
+  "lng": 8.8160982,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|2": {
+  "street": "Marktgasse",
+  "hn": "2",
+  "lat": 47.2264315,
+  "lng": 8.8161413,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|6": {
+  "street": "Marktgasse",
+  "hn": "6",
+  "lat": 47.226434,
+  "lng": 8.8157488,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|8": {
+  "street": "Marktgasse",
+  "hn": "8",
+  "lat": 47.2264169,
+  "lng": 8.8156213,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|7": {
+  "street": "Marktgasse",
+  "hn": "7",
+  "lat": 47.2263737,
+  "lng": 8.8158652,
+  "mieter": [
+   "Anwaltskanzlei Locher"
+  ]
+ },
+ "rapperswil|marktgasse|4": {
+  "street": "Marktgasse",
+  "hn": "4",
+  "lat": 47.2264554,
+  "lng": 8.8158652,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|11": {
+  "street": "Marktgasse",
+  "hn": "11",
+  "lat": 47.2262916,
+  "lng": 8.8154408,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|10": {
+  "street": "Marktgasse",
+  "hn": "10",
+  "lat": 47.226405,
+  "lng": 8.8154673,
+  "mieter": []
+ },
+ "rapperswil|untere bahnhofstrasse|26": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "26",
+  "lat": 47.2260476,
+  "lng": 8.8187261,
+  "mieter": [
+   "Tchibo",
+   "trennpunkt.ch"
+  ]
+ },
+ "rapperswil|halsgasse|34": {
+  "street": "Halsgasse",
+  "hn": "34",
+  "lat": 47.228089,
+  "lng": 8.8192037,
+  "mieter": [
+   "Quellenhof"
+  ]
+ },
+ "rapperswil|hauptplatz|11": {
+  "street": "Hauptplatz",
+  "hn": "11",
+  "lat": 47.2267694,
+  "lng": 8.8165186,
+  "mieter": [
+   "Restaurant JAKOB"
+  ]
+ },
+ "rapperswil|halsgasse|30": {
+  "street": "Halsgasse",
+  "hn": "30",
+  "lat": 47.2279652,
+  "lng": 8.8189772,
+  "mieter": [
+   "Bottega Siculus"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|24": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "24",
+  "lat": 47.2259148,
+  "lng": 8.8187819,
+  "mieter": [
+   "Toni AD"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|10": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "10",
+  "lat": 47.2255939,
+  "lng": 8.8191846,
+  "mieter": [
+   "NaVita kosmetik"
+  ]
+ },
+ "rapperswil|halsgasse|31": {
+  "street": "Halsgasse",
+  "hn": "31",
+  "lat": 47.2278095,
+  "lng": 8.8182995,
+  "mieter": [
+   "La Finca"
+  ]
+ },
+ "rapperswil|halsgasse|37": {
+  "street": "Halsgasse",
+  "hn": "37",
+  "lat": 47.2279513,
+  "lng": 8.8187085,
+  "mieter": [
+   "Diva"
+  ]
+ },
+ "rapperswil|marktgasse|17": {
+  "street": "Marktgasse",
+  "hn": "17",
+  "lat": 47.2261683,
+  "lng": 8.8150836,
+  "mieter": [
+   "Jump-in Kontaktstelle Jugendarbeit"
+  ]
+ },
+ "rapperswil|halsgasse|32": {
+  "street": "Halsgasse",
+  "hn": "32",
+  "lat": 47.2280278,
+  "lng": 8.8190775,
+  "mieter": [
+   "Siculus"
+  ]
+ },
+ "rapperswil|halsgasse|33": {
+  "street": "Halsgasse",
+  "hn": "33",
+  "lat": 47.2278769,
+  "lng": 8.8185363,
+  "mieter": [
+   "ENA"
+  ]
+ },
+ "rapperswil|halsgasse|29": {
+  "street": "Halsgasse",
+  "hn": "29",
+  "lat": 47.2277846,
+  "lng": 8.8182275,
+  "mieter": [
+   "La Familia"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|54": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "54",
+  "lat": 47.2277711,
+  "lng": 8.8195484,
+  "mieter": [
+   "Beldona"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|58": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "58",
+  "lat": 47.2283683,
+  "lng": 8.8201853,
+  "mieter": [
+   "Lidl",
+   "ortimo",
+   "ENTRA"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|52": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "52",
+  "lat": 47.2276085,
+  "lng": 8.8193909,
+  "mieter": [
+   "Specimen Style Co.",
+   "Western Art Outfitters"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|56": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "56",
+  "lat": 47.2278398,
+  "lng": 8.8196129,
+  "mieter": [
+   "HanfTheke Rapperswil",
+   "Neuroth"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|42": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "42",
+  "lat": 47.2273253,
+  "lng": 8.8190725,
+  "mieter": [
+   "Mai Nails"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|44": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "44",
+  "lat": 47.2273987,
+  "lng": 8.8191485,
+  "mieter": [
+   "Think in ink"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|58b": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "58b",
+  "lat": 47.2278725,
+  "lng": 8.8201488,
+  "mieter": []
+ },
+ "rapperswil|obere bahnhofstrasse|58a": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "58a",
+  "lat": 47.2282038,
+  "lng": 8.8199628,
+  "mieter": [
+   "Three Men's Kebap"
+  ]
+ },
+ "rapperswil|halsgasse|27": {
+  "street": "Halsgasse",
+  "hn": "27",
+  "lat": 47.2277311,
+  "lng": 8.8180768,
+  "mieter": [
+   "perle de rose",
+   "QuikSilber"
+  ]
+ },
+ "rapperswil|halsgasse|23": {
+  "street": "Halsgasse",
+  "hn": "23",
+  "lat": 47.2276662,
+  "lng": 8.8179477,
+  "mieter": [
+   "Weber Goldschmied-Handarbeit"
+  ]
+ },
+ "rapperswil|obere bahnhofstrasse|30": {
+  "street": "Obere Bahnhofstrasse",
+  "hn": "30",
+  "lat": 47.2270224,
+  "lng": 8.8184876,
+  "mieter": [
+   "MY BEAUTY"
+  ]
+ },
+ "rapperswil|marktgasse|15": {
+  "street": "Marktgasse",
+  "hn": "15",
+  "lat": 47.2262003,
+  "lng": 8.8151693,
+  "mieter": [
+   "Paia Poké"
+  ]
+ },
+ "rapperswil|untere bahnhofstrasse|2a": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "2a",
+  "lat": 47.2254162,
+  "lng": 8.8182591,
+  "mieter": []
+ },
+ "rapperswil|untere bahnhofstrasse|3": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "3",
+  "lat": 47.2254723,
+  "lng": 8.8166489,
+  "mieter": []
+ },
+ "rapperswil|untere bahnhofstrasse|1": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "1",
+  "lat": 47.2254303,
+  "lng": 8.8164259,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|21": {
+  "street": "Marktgasse",
+  "hn": "21",
+  "lat": 47.226048,
+  "lng": 8.8148602,
+  "mieter": [
+   "Bacino"
+  ]
+ },
+ "rapperswil|halsgasse|35": {
+  "street": "Halsgasse",
+  "hn": "35",
+  "lat": 47.227916,
+  "lng": 8.8186049,
+  "mieter": []
+ },
+ "rapperswil|untere bahnhofstrasse|14": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.2258144,
+  "lng": 8.8194964,
+  "mieter": []
+ },
+ "rapperswil|untere bahnhofstrasse|30": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "30",
+  "lat": 47.2265101,
+  "lng": 8.8187179,
+  "mieter": []
+ },
+ "rapperswil|untere bahnhofstrasse|12": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "12",
+  "lat": 47.2256136,
+  "lng": 8.819436,
+  "mieter": []
+ },
+ "rapperswil|untere bahnhofstrasse|7": {
+  "street": "Untere Bahnhofstrasse",
+  "hn": "7",
+  "lat": 47.2255173,
+  "lng": 8.817221,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|26": {
+  "street": "Marktgasse",
+  "hn": "26",
+  "lat": 47.2263921,
+  "lng": 8.814639,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|13": {
+  "street": "Marktgasse",
+  "hn": "13",
+  "lat": 47.2262232,
+  "lng": 8.8152916,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|23": {
+  "street": "Marktgasse",
+  "hn": "23",
+  "lat": 47.2261316,
+  "lng": 8.8147583,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|19": {
+  "street": "Marktgasse",
+  "hn": "19",
+  "lat": 47.2261048,
+  "lng": 8.8149661,
+  "mieter": []
+ },
+ "rapperswil|halsgasse|20": {
+  "street": "Halsgasse",
+  "hn": "20",
+  "lat": 47.2276966,
+  "lng": 8.8183646,
+  "mieter": []
+ },
+ "rapperswil|halsgasse|22": {
+  "street": "Halsgasse",
+  "hn": "22",
+  "lat": 47.2277408,
+  "lng": 8.8185055,
+  "mieter": []
+ },
+ "rapperswil|halsgasse|24": {
+  "street": "Halsgasse",
+  "hn": "24",
+  "lat": 47.2277885,
+  "lng": 8.8186376,
+  "mieter": []
+ },
+ "rapperswil|halsgasse|26": {
+  "street": "Halsgasse",
+  "hn": "26",
+  "lat": 47.2278399,
+  "lng": 8.8187636,
+  "mieter": []
+ },
+ "rapperswil|halsgasse|28": {
+  "street": "Halsgasse",
+  "hn": "28",
+  "lat": 47.2279094,
+  "lng": 8.8189072,
+  "mieter": []
+ },
+ "rapperswil|halsgasse|18": {
+  "street": "Halsgasse",
+  "hn": "18",
+  "lat": 47.2276674,
+  "lng": 8.8182818,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|18": {
+  "street": "Marktgasse",
+  "hn": "18",
+  "lat": 47.2264228,
+  "lng": 8.815095,
+  "mieter": []
+ },
+ "rapperswil|marktgasse|5": {
+  "street": "Marktgasse",
+  "hn": "5",
+  "lat": 47.2263419,
+  "lng": 8.8159866,
+  "mieter": []
+ },
+ "rapperswil|halsgasse|39": {
+  "street": "Halsgasse",
+  "hn": "39",
+  "lat": 47.2280234,
+  "lng": 8.8187355,
+  "mieter": []
+ },
+ "rapperswil|halsgasse|25": {
+  "street": "Halsgasse",
+  "hn": "25",
+  "lat": 47.227728,
+  "lng": 8.8179864,
+  "mieter": []
+ }
+}

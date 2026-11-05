@@ -1,0 +1,1202 @@
+{
+ "luzern|pilatusstrasse|17a": {
+  "street": "Pilatusstrasse",
+  "hn": "17a",
+  "lat": 47.0488665,
+  "lng": 8.3065612,
+  "mieter": [
+   "La vie en rose"
+  ]
+ },
+ "luzern|pilatusstrasse|46a": {
+  "street": "Pilatusstrasse",
+  "hn": "46a",
+  "lat": 47.0479093,
+  "lng": 8.3030885,
+  "mieter": [
+   "Luzern Pilatusplatz/Hallwilerweg"
+  ]
+ },
+ "luzern|pilatusstrasse|12": {
+  "street": "Pilatusstrasse",
+  "hn": "12",
+  "lat": 47.0494894,
+  "lng": 8.306714,
+  "mieter": [
+   "Luzerner Kantonalbank",
+   "Reisebüro Metro"
+  ]
+ },
+ "luzern|hertensteinstrasse|44": {
+  "street": "Hertensteinstrasse",
+  "hn": "44",
+  "lat": 47.0542741,
+  "lng": 8.3080909,
+  "mieter": [
+   "Lüthy Balmer Stocker"
+  ]
+ },
+ "luzern|pilatusstrasse|38": {
+  "street": "Pilatusstrasse",
+  "hn": "38",
+  "lat": 47.0481723,
+  "lng": 8.3034719,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|1": {
+  "street": "Pilatusstrasse",
+  "hn": "1",
+  "lat": 47.0498475,
+  "lng": 8.3088526,
+  "mieter": [
+   "Negishi Sushi Bar",
+   "l'tur"
+  ]
+ },
+ "luzern|pilatusstrasse|29": {
+  "street": "Pilatusstrasse",
+  "hn": "29",
+  "lat": 47.0480783,
+  "lng": 8.3056813,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|4": {
+  "street": "Pilatusstrasse",
+  "hn": "4",
+  "lat": 47.0501034,
+  "lng": 8.3084872,
+  "mieter": [
+   "Globus",
+   "Parfums Christian Dior",
+   "Fust"
+  ]
+ },
+ "luzern|pilatusstrasse|6": {
+  "street": "Pilatusstrasse",
+  "hn": "6",
+  "lat": 47.0500522,
+  "lng": 8.3084144,
+  "mieter": [
+   "Fuchs Hairteam",
+   "Praxis Dr. Suter-Montano"
+  ]
+ },
+ "luzern|pilatusstrasse|8": {
+  "street": "Pilatusstrasse",
+  "hn": "8",
+  "lat": 47.0498344,
+  "lng": 8.3078683,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|10": {
+  "street": "Pilatusstrasse",
+  "hn": "10",
+  "lat": 47.0496846,
+  "lng": 8.3073171,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|23": {
+  "street": "Hertensteinstrasse",
+  "hn": "23",
+  "lat": 47.0541998,
+  "lng": 8.308468,
+  "mieter": [
+   "Pizzeria Einhorn"
+  ]
+ },
+ "luzern|pilatusstrasse|15": {
+  "street": "Pilatusstrasse",
+  "hn": "15",
+  "lat": 47.0489776,
+  "lng": 8.3067156,
+  "mieter": [
+   "Boca Grande",
+   "Pacifico"
+  ]
+ },
+ "luzern|pilatusstrasse|14": {
+  "street": "Pilatusstrasse",
+  "hn": "14",
+  "lat": 47.0494411,
+  "lng": 8.3064254,
+  "mieter": [
+   "Mövenpick Restaurant",
+   "Bachmann",
+   "Cysat Apotheke"
+  ]
+ },
+ "luzern|kapellgasse|1": {
+  "street": "Kapellgasse",
+  "hn": "1",
+  "lat": 47.052522,
+  "lng": 8.3073549,
+  "mieter": [
+   "Les Ambassadeurs"
+  ]
+ },
+ "luzern|weggisgasse|1": {
+  "street": "Weggisgasse",
+  "hn": "1",
+  "lat": 47.0533771,
+  "lng": 8.3067166,
+  "mieter": [
+   "Läderach",
+   "Swarowski",
+   "Frauenarztpraxis Luzern"
+  ]
+ },
+ "luzern|kapellgasse|11": {
+  "street": "Kapellgasse",
+  "hn": "11",
+  "lat": 47.0523874,
+  "lng": 8.3067369,
+  "mieter": []
+ },
+ "luzern|weggisgasse|11": {
+  "street": "Weggisgasse",
+  "hn": "11",
+  "lat": 47.0531587,
+  "lng": 8.3063691,
+  "mieter": []
+ },
+ "luzern|kapellgasse|12": {
+  "street": "Kapellgasse",
+  "hn": "12",
+  "lat": 47.0524846,
+  "lng": 8.3067595,
+  "mieter": []
+ },
+ "luzern|weggisgasse|14": {
+  "street": "Weggisgasse",
+  "hn": "14",
+  "lat": 47.0531622,
+  "lng": 8.3061898,
+  "mieter": [
+   "Only"
+  ]
+ },
+ "luzern|grendelstrasse|15": {
+  "street": "Grendelstrasse",
+  "hn": "15",
+  "lat": 47.0533445,
+  "lng": 8.3076319,
+  "mieter": [
+   "Hebammenpraxis am Grendel"
+  ]
+ },
+ "luzern|kapellgasse|16": {
+  "street": "Kapellgasse",
+  "hn": "16",
+  "lat": 47.0524435,
+  "lng": 8.306682,
+  "mieter": []
+ },
+ "luzern|grendelstrasse|19": {
+  "street": "Grendelstrasse",
+  "hn": "19",
+  "lat": 47.0533238,
+  "lng": 8.3074375,
+  "mieter": []
+ },
+ "luzern|kapellgasse|19": {
+  "street": "Kapellgasse",
+  "hn": "19",
+  "lat": 47.0522631,
+  "lng": 8.3062488,
+  "mieter": []
+ },
+ "luzern|kapellgasse|21": {
+  "street": "Kapellgasse",
+  "hn": "21",
+  "lat": 47.0522192,
+  "lng": 8.3060503,
+  "mieter": [
+   "PKZ"
+  ]
+ },
+ "luzern|kapellgasse|24": {
+  "street": "Kapellgasse",
+  "hn": "24",
+  "lat": 47.0523705,
+  "lng": 8.3062746,
+  "mieter": [
+   "Casagrande"
+  ]
+ },
+ "luzern|kapellgasse|26": {
+  "street": "Kapellgasse",
+  "hn": "26",
+  "lat": 47.0523435,
+  "lng": 8.3061361,
+  "mieter": []
+ },
+ "luzern|weggisgasse|26": {
+  "street": "Weggisgasse",
+  "hn": "26",
+  "lat": 47.0529159,
+  "lng": 8.3058119,
+  "mieter": [
+   "Bonita"
+  ]
+ },
+ "luzern|hertensteinstrasse|27": {
+  "street": "Hertensteinstrasse",
+  "hn": "27",
+  "lat": 47.0541834,
+  "lng": 8.3082915,
+  "mieter": []
+ },
+ "luzern|weggisgasse|28": {
+  "street": "Weggisgasse",
+  "hn": "28",
+  "lat": 47.0528552,
+  "lng": 8.3056941,
+  "mieter": [
+   "Tommy Hilfiger"
+  ]
+ },
+ "luzern|hertensteinstrasse|29": {
+  "street": "Hertensteinstrasse",
+  "hn": "29",
+  "lat": 47.0541432,
+  "lng": 8.3082014,
+  "mieter": [
+   "Chicorée",
+   "Ochsner",
+   "Magen Darm Leber Praxis Luzern",
+   "Dres. med. dent. Steigmeier & Tschümperlin",
+   "Steigmeier & Tschümperlin"
+  ]
+ },
+ "luzern|kapellgasse|3": {
+  "street": "Kapellgasse",
+  "hn": "3",
+  "lat": 47.052489,
+  "lng": 8.3072044,
+  "mieter": [
+   "Cuckoo"
+  ]
+ },
+ "luzern|weggisgasse|3": {
+  "street": "Weggisgasse",
+  "hn": "3",
+  "lat": 47.0533194,
+  "lng": 8.3066436,
+  "mieter": []
+ },
+ "luzern|weggisgasse|30": {
+  "street": "Weggisgasse",
+  "hn": "30",
+  "lat": 47.0528,
+  "lng": 8.3055904,
+  "mieter": [
+   "Day"
+  ]
+ },
+ "luzern|kapellgasse|4": {
+  "street": "Kapellgasse",
+  "hn": "4",
+  "lat": 47.0526139,
+  "lng": 8.3072292,
+  "mieter": [
+   "Bank Cler"
+  ]
+ },
+ "luzern|grendelstrasse|6": {
+  "street": "Grendelstrasse",
+  "hn": "6",
+  "lat": 47.053527,
+  "lng": 8.3079118,
+  "mieter": [
+   "Casagrande"
+  ]
+ },
+ "luzern|kapellgasse|6": {
+  "street": "Kapellgasse",
+  "hn": "6",
+  "lat": 47.0525513,
+  "lng": 8.3071252,
+  "mieter": [
+   "Swiss Watches Outlet"
+  ]
+ },
+ "luzern|kapellgasse|5": {
+  "street": "Kapellgasse",
+  "hn": "5",
+  "lat": 47.0524422,
+  "lng": 8.307032,
+  "mieter": [
+   "Lederschmid",
+   "Bijou"
+  ]
+ },
+ "luzern|kapellgasse|8": {
+  "street": "Kapellgasse",
+  "hn": "8",
+  "lat": 47.0525188,
+  "lng": 8.3069944,
+  "mieter": []
+ },
+ "luzern|kapellgasse|9": {
+  "street": "Kapellgasse",
+  "hn": "9",
+  "lat": 47.0523205,
+  "lng": 8.3068313,
+  "mieter": []
+ },
+ "luzern|weggisgasse|29": {
+  "street": "Weggisgasse",
+  "hn": "29",
+  "lat": 47.0525553,
+  "lng": 8.3057236,
+  "mieter": [
+   "Passo per Passo"
+  ]
+ },
+ "luzern|weggisgasse|40": {
+  "street": "Weggisgasse",
+  "hn": "40",
+  "lat": 47.0526126,
+  "lng": 8.3052762,
+  "mieter": [
+   "WE",
+   "Gemeinschaftspraxis"
+  ]
+ },
+ "luzern|hertensteinstrasse|51": {
+  "street": "Hertensteinstrasse",
+  "hn": "51",
+  "lat": 47.0536086,
+  "lng": 8.3071496,
+  "mieter": [
+   "Luzerner Kantonalbank",
+   "Brezelkönig",
+   "Regus Business Center Luzern"
+  ]
+ },
+ "luzern|hertensteinstrasse|58": {
+  "street": "Hertensteinstrasse",
+  "hn": "58",
+  "lat": 47.0538269,
+  "lng": 8.3071963,
+  "mieter": [
+   "C&A"
+  ]
+ },
+ "luzern|weggisgasse|25": {
+  "street": "Weggisgasse",
+  "hn": "25",
+  "lat": 47.0527719,
+  "lng": 8.3057599,
+  "mieter": [
+   "KURZ"
+  ]
+ },
+ "luzern|hertensteinstrasse|62": {
+  "street": "Hertensteinstrasse",
+  "hn": "62",
+  "lat": 47.0537144,
+  "lng": 8.3069929,
+  "mieter": [
+   "Sprüngli"
+  ]
+ },
+ "luzern|weggisgasse|19": {
+  "street": "Weggisgasse",
+  "hn": "19",
+  "lat": 47.0529418,
+  "lng": 8.3060288,
+  "mieter": [
+   "Swatch"
+  ]
+ },
+ "luzern|pilatusstrasse|19": {
+  "street": "Pilatusstrasse",
+  "hn": "19",
+  "lat": 47.0485625,
+  "lng": 8.3060936,
+  "mieter": [
+   "Hänggi"
+  ]
+ },
+ "luzern|pilatusstrasse|5": {
+  "street": "Pilatusstrasse",
+  "hn": "5",
+  "lat": 47.0495227,
+  "lng": 8.3080623,
+  "mieter": [
+   "Kuoni",
+   "Holy Cow"
+  ]
+ },
+ "luzern|pilatusstrasse|13": {
+  "street": "Pilatusstrasse",
+  "hn": "13",
+  "lat": 47.0491754,
+  "lng": 8.3072271,
+  "mieter": [
+   "Marionnaud"
+  ]
+ },
+ "luzern|hertensteinstrasse|26": {
+  "street": "Hertensteinstrasse",
+  "hn": "26",
+  "lat": 47.0549004,
+  "lng": 8.309428,
+  "mieter": [
+   "Douglas"
+  ]
+ },
+ "luzern|hertensteinstrasse|33": {
+  "street": "Hertensteinstrasse",
+  "hn": "33",
+  "lat": 47.0540179,
+  "lng": 8.3079538,
+  "mieter": [
+   "Tschümperlin"
+  ]
+ },
+ "luzern|pilatusstrasse|32": {
+  "street": "Pilatusstrasse",
+  "hn": "32",
+  "lat": 47.0482722,
+  "lng": 8.3045914,
+  "mieter": [
+   "Rothenbuhler & Cocchi"
+  ]
+ },
+ "luzern|pilatusstrasse|35": {
+  "street": "Pilatusstrasse",
+  "hn": "35",
+  "lat": 47.0479883,
+  "lng": 8.3049706,
+  "mieter": [
+   "Praxis ChirurgieZentrum Luzern"
+  ]
+ },
+ "luzern|pilatusstrasse|39": {
+  "street": "Pilatusstrasse",
+  "hn": "39",
+  "lat": 47.047833,
+  "lng": 8.3046518,
+  "mieter": [
+   "Valiant",
+   "Zahnarztpraxis am Pilatusplatz"
+  ]
+ },
+ "luzern|pilatusstrasse|28": {
+  "street": "Pilatusstrasse",
+  "hn": "28",
+  "lat": 47.0483579,
+  "lng": 8.3049387,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|30": {
+  "street": "Pilatusstrasse",
+  "hn": "30",
+  "lat": 47.0482921,
+  "lng": 8.3047748,
+  "mieter": [
+   "Praxis Dr. Kuster B & H."
+  ]
+ },
+ "luzern|pilatusstrasse|34": {
+  "street": "Pilatusstrasse",
+  "hn": "34",
+  "lat": 47.0481252,
+  "lng": 8.3043588,
+  "mieter": [
+   "Gefässpraxis Luzern AG"
+  ]
+ },
+ "luzern|pilatusstrasse|26": {
+  "street": "Pilatusstrasse",
+  "hn": "26",
+  "lat": 47.0484139,
+  "lng": 8.3050783,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|24": {
+  "street": "Pilatusstrasse",
+  "hn": "24",
+  "lat": 47.0484778,
+  "lng": 8.3052378,
+  "mieter": []
+ },
+ "luzern|weggisgasse|22": {
+  "street": "Weggisgasse",
+  "hn": "22",
+  "lat": 47.0530219,
+  "lng": 8.3058958,
+  "mieter": [
+   "H&M"
+  ]
+ },
+ "luzern|weggisgasse|4": {
+  "street": "Weggisgasse",
+  "hn": "4",
+  "lat": 47.0533508,
+  "lng": 8.3064671,
+  "mieter": [
+   "imgrüth schuhmode"
+  ]
+ },
+ "luzern|weggisgasse|36": {
+  "street": "Weggisgasse",
+  "hn": "36",
+  "lat": 47.0526889,
+  "lng": 8.3054129,
+  "mieter": [
+   "Rituals"
+  ]
+ },
+ "luzern|weggisgasse|34": {
+  "street": "Weggisgasse",
+  "hn": "34",
+  "lat": 47.052725,
+  "lng": 8.3054771,
+  "mieter": [
+   "Nile"
+  ]
+ },
+ "luzern|weggisgasse|5": {
+  "street": "Weggisgasse",
+  "hn": "5",
+  "lat": 47.0531254,
+  "lng": 8.3064251,
+  "mieter": [
+   "Manor",
+   "Manora",
+   "Parfums Christian Dior"
+  ]
+ },
+ "luzern|hertensteinstrasse|64": {
+  "street": "Hertensteinstrasse",
+  "hn": "64",
+  "lat": 47.0536512,
+  "lng": 8.3068436,
+  "mieter": [
+   "Bayard Co Ltd"
+  ]
+ },
+ "luzern|weggisgasse|10": {
+  "street": "Weggisgasse",
+  "hn": "10",
+  "lat": 47.0532267,
+  "lng": 8.3063729,
+  "mieter": []
+ },
+ "luzern|weggisgasse|12": {
+  "street": "Weggisgasse",
+  "hn": "12",
+  "lat": 47.0531939,
+  "lng": 8.3063207,
+  "mieter": []
+ },
+ "luzern|kapellgasse|18": {
+  "street": "Kapellgasse",
+  "hn": "18",
+  "lat": 47.0524462,
+  "lng": 8.3065945,
+  "mieter": [
+   "Beldona"
+  ]
+ },
+ "luzern|kapellgasse|10": {
+  "street": "Kapellgasse",
+  "hn": "10",
+  "lat": 47.0524886,
+  "lng": 8.3068705,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|62": {
+  "street": "Pilatusstrasse",
+  "hn": "62",
+  "lat": 47.0471131,
+  "lng": 8.3019387,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|60": {
+  "street": "Pilatusstrasse",
+  "hn": "60",
+  "lat": 47.0471738,
+  "lng": 8.3020789,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|58": {
+  "street": "Pilatusstrasse",
+  "hn": "58",
+  "lat": 47.0472342,
+  "lng": 8.3022182,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|56": {
+  "street": "Pilatusstrasse",
+  "hn": "56",
+  "lat": 47.0472974,
+  "lng": 8.3023644,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|66": {
+  "street": "Hertensteinstrasse",
+  "hn": "66",
+  "lat": 47.0536238,
+  "lng": 8.3064783,
+  "mieter": []
+ },
+ "luzern|weggisgasse|36-38": {
+  "street": "Weggisgasse",
+  "hn": "36-38",
+  "lat": 47.0526688,
+  "lng": 8.3056874,
+  "mieter": [
+   "Fielmann"
+  ]
+ },
+ "luzern|pilatusstrasse|3a": {
+  "street": "Pilatusstrasse",
+  "hn": "3a",
+  "lat": 47.0496821,
+  "lng": 8.3083687,
+  "mieter": [
+   "Sunrise",
+   "k kiosk",
+   "Praxis Dr. Gisler",
+   "Praxis Dr. Neises Gudrund",
+   "Vierwaldstättersee Praxis"
+  ]
+ },
+ "luzern|pilatusstrasse|3": {
+  "street": "Pilatusstrasse",
+  "hn": "3",
+  "lat": 47.0496946,
+  "lng": 8.3084776,
+  "mieter": [
+   "mit & ohne"
+  ]
+ },
+ "luzern|pilatusstrasse|2": {
+  "street": "Pilatusstrasse",
+  "hn": "2",
+  "lat": 47.0502531,
+  "lng": 8.3090212,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|50": {
+  "street": "Hertensteinstrasse",
+  "hn": "50",
+  "lat": 47.0541662,
+  "lng": 8.3075962,
+  "mieter": [
+   "Aldi",
+   "Müller",
+   "Praxis Dr. Züger Patrick",
+   "mobilezone",
+   "Drycut"
+  ]
+ },
+ "luzern|hertensteinstrasse|20": {
+  "street": "Hertensteinstrasse",
+  "hn": "20",
+  "lat": 47.0551755,
+  "lng": 8.3098599,
+  "mieter": [
+   "Fidea Design",
+   "Le Creuset Signature Boutique"
+  ]
+ },
+ "luzern|pilatusstrasse|21": {
+  "street": "Pilatusstrasse",
+  "hn": "21",
+  "lat": 47.0485128,
+  "lng": 8.3059728,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|23": {
+  "street": "Pilatusstrasse",
+  "hn": "23",
+  "lat": 47.0484656,
+  "lng": 8.3058526,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|35": {
+  "street": "Hertensteinstrasse",
+  "hn": "35",
+  "lat": 47.0539745,
+  "lng": 8.3078645,
+  "mieter": [
+   "Aurora Prestige",
+   "Casagrande"
+  ]
+ },
+ "luzern|hertensteinstrasse|45": {
+  "street": "Hertensteinstrasse",
+  "hn": "45",
+  "lat": 47.0538188,
+  "lng": 8.3075115,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|39": {
+  "street": "Hertensteinstrasse",
+  "hn": "39",
+  "lat": 47.0539233,
+  "lng": 8.3077428,
+  "mieter": [
+   "Import Parfumerie"
+  ]
+ },
+ "luzern|hertensteinstrasse|37": {
+  "street": "Hertensteinstrasse",
+  "hn": "37",
+  "lat": 47.0539503,
+  "lng": 8.3077983,
+  "mieter": [
+   "Lush"
+  ]
+ },
+ "luzern|hertensteinstrasse|41": {
+  "street": "Hertensteinstrasse",
+  "hn": "41",
+  "lat": 47.0538893,
+  "lng": 8.3076706,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|18": {
+  "street": "Pilatusstrasse",
+  "hn": "18",
+  "lat": 47.0488054,
+  "lng": 8.3059482,
+  "mieter": [
+   "DQ Solutions Filiale Luzern",
+   "Gidor"
+  ]
+ },
+ "luzern|hertensteinstrasse|40": {
+  "street": "Hertensteinstrasse",
+  "hn": "40",
+  "lat": 47.0543816,
+  "lng": 8.3084604,
+  "mieter": [
+   "fundsachenverkauf.ch"
+  ]
+ },
+ "luzern|hertensteinstrasse|8": {
+  "street": "Hertensteinstrasse",
+  "hn": "8",
+  "lat": 47.0555088,
+  "lng": 8.310162,
+  "mieter": [
+   "KIND"
+  ]
+ },
+ "luzern|pilatusstrasse|8a": {
+  "street": "Pilatusstrasse",
+  "hn": "8a",
+  "lat": 47.049902,
+  "lng": 8.3078688,
+  "mieter": [
+   "TUI"
+  ]
+ },
+ "luzern|weggisgasse|8": {
+  "street": "Weggisgasse",
+  "hn": "8",
+  "lat": 47.0532712,
+  "lng": 8.3063891,
+  "mieter": [
+   "Pandora"
+  ]
+ },
+ "luzern|hertensteinstrasse|9": {
+  "street": "Hertensteinstrasse",
+  "hn": "9",
+  "lat": 47.0548441,
+  "lng": 8.3097071,
+  "mieter": [
+   "Migros Restaurant",
+   "Migros"
+  ]
+ },
+ "luzern|pilatusstrasse|20": {
+  "street": "Pilatusstrasse",
+  "hn": "20",
+  "lat": 47.0487661,
+  "lng": 8.3057884,
+  "mieter": [
+   "Alemania Deutschschule"
+  ]
+ },
+ "luzern|hertensteinstrasse|3": {
+  "street": "Hertensteinstrasse",
+  "hn": "3",
+  "lat": 47.0555436,
+  "lng": 8.3103894,
+  "mieter": [
+   "Augenpraxis an der Hertensteinstrasse"
+  ]
+ },
+ "luzern|pilatusstrasse|48": {
+  "street": "Pilatusstrasse",
+  "hn": "48",
+  "lat": 47.047627,
+  "lng": 8.3030488,
+  "mieter": [
+   "Praxis Dr. Häcki",
+   "Luzern Pilatusplatz/Pilatusstrasse"
+  ]
+ },
+ "luzern|pilatusstrasse|59": {
+  "street": "Pilatusstrasse",
+  "hn": "59",
+  "lat": 47.0469934,
+  "lng": 8.302227,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|48a": {
+  "street": "Pilatusstrasse",
+  "hn": "48A",
+  "lat": 47.0477454,
+  "lng": 8.3028934,
+  "mieter": [
+   "Schluckspecht"
+  ]
+ },
+ "luzern|hertensteinstrasse|7": {
+  "street": "Hertensteinstrasse",
+  "hn": "7",
+  "lat": 47.055176,
+  "lng": 8.310025,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|17": {
+  "street": "Pilatusstrasse",
+  "hn": "17",
+  "lat": 47.0489376,
+  "lng": 8.306738,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|11": {
+  "street": "Pilatusstrasse",
+  "hn": "11",
+  "lat": 47.0492488,
+  "lng": 8.3074647,
+  "mieter": [
+   "Bruder Klaus"
+  ]
+ },
+ "luzern|pilatusstrasse|22": {
+  "street": "Pilatusstrasse",
+  "hn": "22",
+  "lat": 47.0486833,
+  "lng": 8.3055678,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|41": {
+  "street": "Pilatusstrasse",
+  "hn": "41",
+  "lat": 47.0477335,
+  "lng": 8.3043579,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|25": {
+  "street": "Pilatusstrasse",
+  "hn": "25",
+  "lat": 47.0483502,
+  "lng": 8.3058086,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|36": {
+  "street": "Pilatusstrasse",
+  "hn": "36",
+  "lat": 47.0480979,
+  "lng": 8.3040879,
+  "mieter": []
+ },
+ "luzern|weggisgasse|32": {
+  "street": "Weggisgasse",
+  "hn": "32",
+  "lat": 47.0527802,
+  "lng": 8.3055116,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|28": {
+  "street": "Hertensteinstrasse",
+  "hn": "28",
+  "lat": 47.0547605,
+  "lng": 8.3091116,
+  "mieter": []
+ },
+ "luzern|weggisgasse|21": {
+  "street": "Weggisgasse",
+  "hn": "21",
+  "lat": 47.052841,
+  "lng": 8.3059464,
+  "mieter": []
+ },
+ "luzern|kapellgasse|28": {
+  "street": "Kapellgasse",
+  "hn": "28",
+  "lat": 47.052361,
+  "lng": 8.3060056,
+  "mieter": []
+ },
+ "luzern|kapellgasse|15": {
+  "street": "Kapellgasse",
+  "hn": "15",
+  "lat": 47.0523063,
+  "lng": 8.3065737,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|17": {
+  "street": "Hertensteinstrasse",
+  "hn": "17",
+  "lat": 47.0543912,
+  "lng": 8.3088797,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|22": {
+  "street": "Hertensteinstrasse",
+  "hn": "22",
+  "lat": 47.055106,
+  "lng": 8.3097196,
+  "mieter": []
+ },
+ "luzern|weggisgasse|33": {
+  "street": "Weggisgasse",
+  "hn": "33",
+  "lat": 47.052514,
+  "lng": 8.305427,
+  "mieter": []
+ },
+ "luzern|grendelstrasse|5": {
+  "street": "Grendelstrasse",
+  "hn": "5",
+  "lat": 47.0533515,
+  "lng": 8.3080688,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|21": {
+  "street": "Hertensteinstrasse",
+  "hn": "21",
+  "lat": 47.0543208,
+  "lng": 8.3086122,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|34": {
+  "street": "Hertensteinstrasse",
+  "hn": "34",
+  "lat": 47.0544738,
+  "lng": 8.3085016,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|18": {
+  "street": "Hertensteinstrasse",
+  "hn": "18",
+  "lat": 47.0553006,
+  "lng": 8.3099868,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|32": {
+  "street": "Hertensteinstrasse",
+  "hn": "32",
+  "lat": 47.0545374,
+  "lng": 8.3086733,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|2": {
+  "street": "Hertensteinstrasse",
+  "hn": "2",
+  "lat": 47.0556833,
+  "lng": 8.3102365,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|42": {
+  "street": "Hertensteinstrasse",
+  "hn": "42",
+  "lat": 47.0543433,
+  "lng": 8.3082968,
+  "mieter": []
+ },
+ "luzern|weggisgasse|31": {
+  "street": "Weggisgasse",
+  "hn": "31",
+  "lat": 47.052543,
+  "lng": 8.3055077,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|6": {
+  "street": "Hertensteinstrasse",
+  "hn": "6",
+  "lat": 47.0555887,
+  "lng": 8.3102048,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|19": {
+  "street": "Hertensteinstrasse",
+  "hn": "19",
+  "lat": 47.0543131,
+  "lng": 8.3087426,
+  "mieter": []
+ },
+ "luzern|weggisgasse|23": {
+  "street": "Weggisgasse",
+  "hn": "23",
+  "lat": 47.0528143,
+  "lng": 8.3058908,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|12": {
+  "street": "Hertensteinstrasse",
+  "hn": "12",
+  "lat": 47.0553984,
+  "lng": 8.3100269,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|14": {
+  "street": "Hertensteinstrasse",
+  "hn": "14",
+  "lat": 47.0553094,
+  "lng": 8.3096594,
+  "mieter": []
+ },
+ "luzern|grendelstrasse|8": {
+  "street": "Grendelstrasse",
+  "hn": "8",
+  "lat": 47.053549,
+  "lng": 8.3074465,
+  "mieter": []
+ },
+ "luzern|weggisgasse|17": {
+  "street": "Weggisgasse",
+  "hn": "17",
+  "lat": 47.0529576,
+  "lng": 8.3062055,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|10": {
+  "street": "Hertensteinstrasse",
+  "hn": "10",
+  "lat": 47.0554633,
+  "lng": 8.3100836,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|43": {
+  "street": "Hertensteinstrasse",
+  "hn": "43",
+  "lat": 47.0538052,
+  "lng": 8.3076318,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|24": {
+  "street": "Hertensteinstrasse",
+  "hn": "24",
+  "lat": 47.0550123,
+  "lng": 8.3095707,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|16": {
+  "street": "Hertensteinstrasse",
+  "hn": "16",
+  "lat": 47.0553313,
+  "lng": 8.3098706,
+  "mieter": []
+ },
+ "luzern|kapellgasse|7": {
+  "street": "Kapellgasse",
+  "hn": "7",
+  "lat": 47.052402,
+  "lng": 8.3069513,
+  "mieter": []
+ },
+ "luzern|hertensteinstrasse|30": {
+  "street": "Hertensteinstrasse",
+  "hn": "30",
+  "lat": 47.054648,
+  "lng": 8.3088807,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|16": {
+  "street": "Pilatusstrasse",
+  "hn": "16",
+  "lat": 47.0323875,
+  "lng": 8.2898388,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|9": {
+  "street": "Pilatusstrasse",
+  "hn": "9",
+  "lat": 47.0336011,
+  "lng": 8.290365,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|7": {
+  "street": "Pilatusstrasse",
+  "hn": "7",
+  "lat": 47.0338057,
+  "lng": 8.2902885,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|68": {
+  "street": "Pilatusstrasse",
+  "hn": "68",
+  "lat": 47.0468688,
+  "lng": 8.3012471,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|70": {
+  "street": "Pilatusstrasse",
+  "hn": "70",
+  "lat": 47.0468004,
+  "lng": 8.3010832,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|72": {
+  "street": "Pilatusstrasse",
+  "hn": "72",
+  "lat": 47.0467319,
+  "lng": 8.3009188,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|53": {
+  "street": "Pilatusstrasse",
+  "hn": "53",
+  "lat": 47.0472962,
+  "lng": 8.3032043,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|46": {
+  "street": "Pilatusstrasse",
+  "hn": "46",
+  "lat": 47.0477106,
+  "lng": 8.3031337,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|55": {
+  "street": "Pilatusstrasse",
+  "hn": "55",
+  "lat": 47.0472098,
+  "lng": 8.3029655,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|52": {
+  "street": "Pilatusstrasse",
+  "hn": "52",
+  "lat": 47.0475528,
+  "lng": 8.3027995,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|50": {
+  "street": "Pilatusstrasse",
+  "hn": "50",
+  "lat": 47.0476034,
+  "lng": 8.3029158,
+  "mieter": []
+ },
+ "luzern|pilatusstrasse|61": {
+  "street": "Pilatusstrasse",
+  "hn": "61",
+  "lat": 47.0465081,
+  "lng": 8.301728,
+  "mieter": []
+ }
+}

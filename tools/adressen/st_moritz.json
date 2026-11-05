@@ -1,4 +1,62 @@
 {
+ "st. moritz|via maistra|80": {
+  "street": "Via Maistra",
+  "hn": "80",
+  "lat": 46.5123213,
+  "lng": 9.8591984,
+  "mieter": [
+   "Bo's Co"
+  ]
+ },
+ "st. moritz|via maistra|71": {
+  "street": "Via Maistra",
+  "hn": "71",
+  "lat": 46.5120992,
+  "lng": 9.8577019,
+  "mieter": []
+ },
+ "st. moritz|via maistra|44a": {
+  "street": "Via Maistra",
+  "hn": "44a",
+  "lat": 46.5019762,
+  "lng": 9.851383,
+  "mieter": []
+ },
+ "st. moritz|via maistra|44b": {
+  "street": "Via Maistra",
+  "hn": "44b",
+  "lat": 46.5019477,
+  "lng": 9.8512864,
+  "mieter": []
+ },
+ "st. moritz|via maistra|73": {
+  "street": "Via Maistra",
+  "hn": "73",
+  "lat": 46.5122433,
+  "lng": 9.8579584,
+  "mieter": []
+ },
+ "st. moritz|via maistra|80a": {
+  "street": "Via Maistra",
+  "hn": "80a",
+  "lat": 46.5121259,
+  "lng": 9.8592653,
+  "mieter": []
+ },
+ "st. moritz|via maistra|81": {
+  "street": "Via Maistra",
+  "hn": "81",
+  "lat": 46.5124477,
+  "lng": 9.859161,
+  "mieter": []
+ },
+ "st. moritz|via maistra|108": {
+  "street": "Via Maistra",
+  "hn": "108",
+  "lat": 46.5132645,
+  "lng": 9.8622943,
+  "mieter": []
+ },
  "st. moritz|via maistra|1a": {
   "street": "Via Maistra",
   "hn": "1a",
@@ -11,9 +69,7 @@
   "hn": "26b",
   "lat": 46.4972991,
   "lng": 9.8393739,
-  "mieter": [
-   "Billionaire"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal vout|4": {
   "street": "Via dal Vout",
@@ -34,9 +90,7 @@
   "hn": "38",
   "lat": 46.4971113,
   "lng": 9.8382645,
-  "mieter": [
-   "Tommy Hilfiger"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal vout|3": {
   "street": "Via dal Vout",
@@ -50,54 +104,42 @@
   "hn": "9",
   "lat": 46.4977918,
   "lng": 9.839146,
-  "mieter": [
-   "Prada"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|11": {
   "street": "Via Maistra",
   "hn": "11",
   "lat": 46.4979437,
   "lng": 9.8392034,
-  "mieter": [
-   "Amavita"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|2": {
   "street": "Via Maistra",
   "hn": "2",
   "lat": 46.4972182,
   "lng": 9.8382717,
-  "mieter": [
-   "Café Spettacolo"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|10": {
   "street": "Via Maistra",
   "hn": "10",
   "lat": 46.4975805,
   "lng": 9.8395008,
-  "mieter": [
-   "Jetset"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|28": {
   "street": "Via Serlas",
   "hn": "28",
   "lat": 46.4972872,
   "lng": 9.8392459,
-  "mieter": [
-   "Valentino"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|2a": {
   "street": "Via Maistra",
   "hn": "2a",
   "lat": 46.4971934,
   "lng": 9.8381829,
-  "mieter": [
-   "Angere Intersport"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|10b": {
   "street": "Via Maistra",
@@ -125,18 +167,14 @@
   "hn": "5b",
   "lat": 46.497593,
   "lng": 9.8386337,
-  "mieter": [
-   "Spremberg"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|30": {
   "street": "Via Serlas",
   "hn": "30",
   "lat": 46.497139,
   "lng": 9.8387538,
-  "mieter": [
-   "Brunello Cucinelli"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|3": {
   "street": "Via Maistra",
@@ -185,9 +223,7 @@
   "hn": "8",
   "lat": 46.4976729,
   "lng": 9.8391503,
-  "mieter": [
-   "Hanselmann"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|30b": {
   "street": "Via Serlas",
@@ -201,9 +237,7 @@
   "hn": "4b",
   "lat": 46.4974525,
   "lng": 9.8386936,
-  "mieter": [
-   "Jill Sander"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|5": {
   "street": "Via Maistra",
@@ -217,9 +251,7 @@
   "hn": "2",
   "lat": 46.4973144,
   "lng": 9.839078,
-  "mieter": [
-   "Chopard"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|7a": {
   "street": "Via Maistra",
@@ -268,9 +300,7 @@
   "hn": "1",
   "lat": 46.4974461,
   "lng": 9.8383863,
-  "mieter": [
-   "Graubündner Kantonalbank"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|3a": {
   "street": "Via Maistra",
@@ -284,9 +314,7 @@
   "hn": "7b",
   "lat": 46.4976757,
   "lng": 9.8388661,
-  "mieter": [
-   "Kriemler"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|34": {
   "street": "Via Serlas",
@@ -300,9 +328,7 @@
   "hn": "26a",
   "lat": 46.4973779,
   "lng": 9.8396022,
-  "mieter": [
-   "Läderach"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|11a": {
   "street": "Via Maistra",
@@ -316,9 +342,7 @@
   "hn": "1",
   "lat": 46.4971865,
   "lng": 9.839108,
-  "mieter": [
-   "Loro Piana"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|4": {
   "street": "Via Maistra",
@@ -339,9 +363,7 @@
   "hn": "6",
   "lat": 46.4973063,
   "lng": 9.8386636,
-  "mieter": [
-   "Dolce & Gabbana"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|4c": {
   "street": "Via Maistra",
@@ -362,9 +384,7 @@
   "hn": "16a",
   "lat": 46.498261,
   "lng": 9.8395499,
-  "mieter": [
-   "Hatecke"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|24": {
   "street": "Via Maistra",
@@ -392,9 +412,7 @@
   "hn": "22c",
   "lat": 46.4977348,
   "lng": 9.8407621,
-  "mieter": [
-   "Louis Vuitton"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|22a": {
   "street": "Via Serlas",
@@ -408,18 +426,14 @@
   "hn": "22d",
   "lat": 46.4977118,
   "lng": 9.8406701,
-  "mieter": [
-   "Fusalp"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|14": {
   "street": "Via Maistra",
   "hn": "14",
   "lat": 46.4980473,
   "lng": 9.8394687,
-  "mieter": [
-   "UBS"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|24b": {
   "street": "Via Maistra",
@@ -454,9 +468,7 @@
   "hn": "20a",
   "lat": 46.4985585,
   "lng": 9.840077,
-  "mieter": [
-   "United Colors of Benetton"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|14a": {
   "street": "Via Maistra",
@@ -470,9 +482,7 @@
   "hn": "22",
   "lat": 46.4977526,
   "lng": 9.8408323,
-  "mieter": [
-   "Louis Vuitton"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|20": {
   "street": "Via Maistra",
@@ -486,9 +496,7 @@
   "hn": "22c",
   "lat": 46.4988134,
   "lng": 9.8402779,
-  "mieter": [
-   "Alprausch"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|18a": {
   "street": "Via Maistra",
@@ -502,9 +510,7 @@
   "hn": "22e",
   "lat": 46.4976896,
   "lng": 9.8405796,
-  "mieter": [
-   "Dior"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|16": {
   "street": "Via Maistra",
@@ -518,45 +524,35 @@
   "hn": "14b",
   "lat": 46.498159,
   "lng": 9.8395798,
-  "mieter": [
-   "MC"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|22b": {
   "street": "Via Serlas",
   "hn": "22b",
   "lat": 46.4977795,
   "lng": 9.8409452,
-  "mieter": [
-   "Giorgio Armani"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|22b": {
   "street": "Via Maistra",
   "hn": "22b",
   "lat": 46.4987681,
   "lng": 9.8402099,
-  "mieter": [
-   "Maison Rita"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|16c": {
   "street": "Via Maistra",
   "hn": "16c",
   "lat": 46.4983195,
   "lng": 9.8396463,
-  "mieter": [
-   "Bally"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|24a": {
   "street": "Via Maistra",
   "hn": "24a",
   "lat": 46.4988372,
   "lng": 9.8403721,
-  "mieter": [
-   "Rutz"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|36a": {
   "street": "Via Maistra",
@@ -577,18 +573,14 @@
   "hn": "22f",
   "lat": 46.4976647,
   "lng": 9.8404868,
-  "mieter": [
-   "Gucci"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|22g": {
   "street": "Via Serlas",
   "hn": "22g",
   "lat": 46.4976432,
   "lng": 9.8403945,
-  "mieter": [
-   "Bulgari"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|19": {
   "street": "Via Maistra",
@@ -609,28 +601,21 @@
   "hn": "17a",
   "lat": 46.4984938,
   "lng": 9.8393808,
-  "mieter": [
-   "Interdiscount",
-   "Ender Sport"
-  ]
+  "mieter": []
  },
  "st. moritz|plazza dal mulin|1": {
   "street": "Plazza dal Mulin",
   "hn": "1",
   "lat": 46.498766,
   "lng": 9.8396972,
-  "mieter": [
-   "Hawick"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|15": {
   "street": "Via Maistra",
   "hn": "15",
   "lat": 46.4981296,
   "lng": 9.8391953,
-  "mieter": [
-   "Julius Bär"
-  ]
+  "mieter": []
  },
  "st. moritz|plazza dal mulin|3": {
   "street": "Plazza dal Mulin",
@@ -665,9 +650,7 @@
   "hn": "15c",
   "lat": 46.4982457,
   "lng": 9.8393444,
-  "mieter": [
-   "Lamm Cashmere House"
-  ]
+  "mieter": []
  },
  "st. moritz|plazza dal mulin|3b": {
   "street": "Plazza dal Mulin",
@@ -695,47 +678,35 @@
   "hn": "3a",
   "lat": 46.4988158,
   "lng": 9.8395123,
-  "mieter": [
-   "Marionnaud",
-   "Paulis Toystore"
-  ]
+  "mieter": []
  },
  "st. moritz|plazza dal mulin|8": {
   "street": "Plazza dal Mulin",
   "hn": "8",
   "lat": 46.4990121,
   "lng": 9.8391473,
-  "mieter": [
-   "Faoro"
-  ]
+  "mieter": []
  },
  "st. moritz|plazza dal mulin|3c": {
   "street": "Plazza dal Mulin",
   "hn": "3c",
   "lat": 46.4988697,
   "lng": 9.8393261,
-  "mieter": [
-   "Kebab Shop",
-   "Lago Cosmetics - St. Moritz"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|17": {
   "street": "Via Maistra",
   "hn": "17",
   "lat": 46.4985165,
   "lng": 9.8397597,
-  "mieter": [
-   "Bucherer"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|17b": {
   "street": "Via Maistra",
   "hn": "17b",
   "lat": 46.4984253,
   "lng": 9.8393797,
-  "mieter": [
-   "Mono"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|27g": {
   "street": "Via Serlas",
@@ -749,9 +720,7 @@
   "hn": "27m",
   "lat": 46.4972762,
   "lng": 9.8398758,
-  "mieter": [
-   "Le Restaurant / Le Relais"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|54b": {
   "street": "Via dal Bagn",
@@ -765,10 +734,7 @@
   "hn": "54d",
   "lat": 46.4969835,
   "lng": 9.8382501,
-  "mieter": [
-   "Piano Bar Schweizerhof",
-   "The Souvenir"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|35d": {
   "street": "Via Serlas",
@@ -789,9 +755,7 @@
   "hn": "27c",
   "lat": 46.497594,
   "lng": 9.8409563,
-  "mieter": [
-   "Ogier"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|35e": {
   "street": "Via Serlas",
@@ -812,56 +776,42 @@
   "hn": "27n",
   "lat": 46.4972415,
   "lng": 9.8397785,
-  "mieter": [
-   "Rebecca Ardessi"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|27k": {
   "street": "Via Serlas",
   "hn": "27k",
   "lat": 46.4973027,
   "lng": 9.8399557,
-  "mieter": [
-   "Alexander McQueen",
-   "La Coupole-Matsuhisa",
-   "Miu Miu"
-  ]
+  "mieter": []
  },
  "st. moritz|plazza dal mulin|4": {
   "street": "Plazza dal Mulin",
   "hn": "4",
   "lat": 46.4989925,
   "lng": 9.8397438,
-  "mieter": [
-   "Secondo"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|54a": {
   "street": "Via dal Bagn",
   "hn": "54a",
   "lat": 46.4969129,
   "lng": 9.8377364,
-  "mieter": [
-   "Acla"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|37a": {
   "street": "Via Serlas",
   "hn": "37a",
   "lat": 46.4969018,
   "lng": 9.8386041,
-  "mieter": [
-   "Ermano Scer"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|27h": {
   "street": "Via Serlas",
   "hn": "27h",
   "lat": 46.4973634,
   "lng": 9.8401341,
-  "mieter": [
-   "Kings Club"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|35": {
   "street": "Via Serlas",
@@ -875,27 +825,21 @@
   "hn": "21b",
   "lat": 46.4989045,
   "lng": 9.8402046,
-  "mieter": [
-   "PizzaWay"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|27f": {
   "street": "Via Serlas",
   "hn": "27f",
   "lat": 46.4974546,
   "lng": 9.8403828,
-  "mieter": [
-   "Miu Miu"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|27a": {
   "street": "Via Serlas",
   "hn": "27a",
   "lat": 46.4974483,
   "lng": 9.8411857,
-  "mieter": [
-   "Le Grand Hall"
-  ]
+  "mieter": []
  },
  "st. moritz|plazza dal mulin|4b": {
   "street": "Plazza dal Mulin",
@@ -916,11 +860,7 @@
   "hn": "2a",
   "lat": 46.4988949,
   "lng": 9.8400348,
-  "mieter": [
-   "Press P&B Books",
-   "La Stalla",
-   "Chamanna Bar"
-  ]
+  "mieter": []
  },
  "st. moritz|plazza dal mulin|6a": {
   "street": "Plazza dal Mulin",
@@ -948,9 +888,7 @@
   "hn": "35c",
   "lat": 46.4969777,
   "lng": 9.8389026,
-  "mieter": [
-   "Sease"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|37": {
   "street": "Via Serlas",
@@ -964,9 +902,7 @@
   "hn": "4a",
   "lat": 46.4989554,
   "lng": 9.8398347,
-  "mieter": [
-   "Dal Mulin"
-  ]
+  "mieter": []
  },
  "st. moritz|plazza dal mulin|6": {
   "street": "Plazza dal Mulin",
@@ -980,27 +916,21 @@
   "hn": "54",
   "lat": 46.4969912,
   "lng": 9.8379846,
-  "mieter": [
-   "Muli-Snack"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|27d": {
   "street": "Via Serlas",
   "hn": "27d",
   "lat": 46.4975622,
   "lng": 9.8407809,
-  "mieter": [
-   "Rolls-Royce"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|21": {
   "street": "Via Maistra",
   "hn": "21",
   "lat": 46.4989757,
   "lng": 9.8403671,
-  "mieter": [
-   "Corviglia Sport"
-  ]
+  "mieter": []
  },
  "st. moritz|plazza dal mulin|2b": {
   "street": "Plazza dal Mulin",
@@ -1014,36 +944,28 @@
   "hn": "27i",
   "lat": 46.4973429,
   "lng": 9.8400735,
-  "mieter": [
-   "Cartier"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|29": {
   "street": "Via Serlas",
   "hn": "29",
   "lat": 46.4972162,
   "lng": 9.8397064,
-  "mieter": [
-   "Trois Pommes"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|21a": {
   "street": "Via Maistra",
   "hn": "21a",
   "lat": 46.4989375,
   "lng": 9.8402783,
-  "mieter": [
-   "Bikelocal"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|35b": {
   "street": "Via Serlas",
   "hn": "35b",
   "lat": 46.4969922,
   "lng": 9.8390317,
-  "mieter": [
-   "Asprey"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|35a": {
   "street": "Via Serlas",
@@ -1057,9 +979,7 @@
   "hn": "27p",
   "lat": 46.4972349,
   "lng": 9.8397593,
-  "mieter": [
-   "Gübelin"
-  ]
+  "mieter": []
  },
  "st. moritz|plazza dal mulin|6b": {
   "street": "Plazza dal Mulin",
@@ -1094,18 +1014,14 @@
   "hn": "49",
   "lat": 46.4962724,
   "lng": 9.8367327,
-  "mieter": [
-   "Passione"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|57": {
   "street": "Via dal Bagn",
   "hn": "57",
   "lat": 46.4966972,
   "lng": 9.8368993,
-  "mieter": [
-   "Beretta"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|61": {
   "street": "Via dal Bagn",
@@ -1119,9 +1035,7 @@
   "hn": "65",
   "lat": 46.497138,
   "lng": 9.83757,
-  "mieter": [
-   "Marina Anouilh"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|59": {
   "street": "Via dal Bagn",
@@ -1135,9 +1049,7 @@
   "hn": "63",
   "lat": 46.4970938,
   "lng": 9.8375066,
-  "mieter": [
-   "dolceperla"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|49a": {
   "street": "Via dal Bagn",
@@ -1165,11 +1077,7 @@
   "hn": "52a",
   "lat": 46.496554,
   "lng": 9.8370853,
-  "mieter": [
-   "Damen Herren",
-   "Photozoom",
-   "Galaria Caspar Badrutt"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|50c": {
   "street": "Via dal Bagn",
@@ -1197,45 +1105,35 @@
   "hn": "52",
   "lat": 46.4963786,
   "lng": 9.8370388,
-  "mieter": [
-   "Lego"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|50a": {
   "street": "Via dal Bagn",
   "hn": "50a",
   "lat": 46.4960264,
   "lng": 9.8370691,
-  "mieter": [
-   "Dadoura"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|52c": {
   "street": "Via dal Bagn",
   "hn": "52c",
   "lat": 46.4966694,
   "lng": 9.8372077,
-  "mieter": [
-   "Galerie Apotheke"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|52b": {
   "street": "Via dal Bagn",
   "hn": "52b",
   "lat": 46.4966314,
   "lng": 9.8371577,
-  "mieter": [
-   "Bricks Toys"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|50": {
   "street": "Via dal Bagn",
   "hn": "50",
   "lat": 46.4959662,
   "lng": 9.8370455,
-  "mieter": [
-   "Bobby's Pub"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|50d": {
   "street": "Via dal Bagn",
@@ -1256,9 +1154,7 @@
   "hn": "26",
   "lat": 46.49896,
   "lng": 9.8406921,
-  "mieter": [
-   "Ender Sport"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|29b": {
   "street": "Via Maistra",
@@ -1279,18 +1175,14 @@
   "hn": "25",
   "lat": 46.4992425,
   "lng": 9.8409555,
-  "mieter": [
-   "Prada"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|20a": {
   "street": "Via Serlas",
   "hn": "20a",
   "lat": 46.4980448,
   "lng": 9.8422251,
-  "mieter": [
-   "Terra Vino"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|23a": {
   "street": "Via Serlas",
@@ -1304,18 +1196,14 @@
   "hn": "27",
   "lat": 46.4993607,
   "lng": 9.841173,
-  "mieter": [
-   "Omega"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|27a": {
   "street": "Via Maistra",
   "hn": "27a",
   "lat": 46.499327,
   "lng": 9.8411207,
-  "mieter": [
-   "Kulm Apotheke"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|23e": {
   "street": "Via Serlas",
@@ -1343,9 +1231,7 @@
   "hn": "20b",
   "lat": 46.4980767,
   "lng": 9.8423287,
-  "mieter": [
-   "Baumann"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|23d": {
   "street": "Via Serlas",
@@ -1380,18 +1266,14 @@
   "hn": "28",
   "lat": 46.4990763,
   "lng": 9.8409916,
-  "mieter": [
-   "Modes"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|23": {
   "street": "Via Maistra",
   "hn": "23",
   "lat": 46.4990556,
   "lng": 9.8406296,
-  "mieter": [
-   "Moncler"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|23g": {
   "street": "Via Serlas",
@@ -1447,9 +1329,7 @@
   "hn": "50a",
   "lat": 46.5013969,
   "lng": 9.8453921,
-  "mieter": [
-   "Olympia Restaurant St. Moritz"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|50b": {
   "street": "Via Maistra",
@@ -1540,9 +1420,7 @@
   "hn": "33",
   "lat": 46.4997954,
   "lng": 9.8419024,
-  "mieter": [
-   "Pur Alps"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|50c": {
   "street": "Via Maistra",
@@ -1577,9 +1455,7 @@
   "hn": "37a",
   "lat": 46.5000508,
   "lng": 9.8425911,
-  "mieter": [
-   "Ares Modena"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|43c": {
   "street": "Via Maistra",
@@ -1600,9 +1476,7 @@
   "hn": "41c",
   "lat": 46.5004561,
   "lng": 9.8434951,
-  "mieter": [
-   "R Eichholzer AG"
-  ]
+  "mieter": []
  },
  "st. moritz|via dal bagn|34": {
   "street": "Via dal Bagn",
@@ -1625,6 +1499,223 @@
   "lng": 9.8356841,
   "mieter": []
  },
+ "st. moritz|via dal bagn|15c": {
+  "street": "Via dal Bagn",
+  "hn": "15c",
+  "lat": 46.489752,
+  "lng": 9.8346051,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|15a": {
+  "street": "Via dal Bagn",
+  "hn": "15a",
+  "lat": 46.4897031,
+  "lng": 9.8345881,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|21b": {
+  "street": "Via dal Bagn",
+  "hn": "21b",
+  "lat": 46.4904544,
+  "lng": 9.8347635,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|15b": {
+  "street": "Via dal Bagn",
+  "hn": "15b",
+  "lat": 46.4899118,
+  "lng": 9.8346226,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|21": {
+  "street": "Via dal Bagn",
+  "hn": "21",
+  "lat": 46.4904032,
+  "lng": 9.8347275,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|15": {
+  "street": "Via dal Bagn",
+  "hn": "15",
+  "lat": 46.4896543,
+  "lng": 9.8345639,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|15d": {
+  "street": "Via dal Bagn",
+  "hn": "15d",
+  "lat": 46.4898423,
+  "lng": 9.8346064,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|21a": {
+  "street": "Via dal Bagn",
+  "hn": "21a",
+  "lat": 46.4903031,
+  "lng": 9.8347196,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|1d": {
+  "street": "Via dal Bagn",
+  "hn": "1d",
+  "lat": 46.4883694,
+  "lng": 9.8357755,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|1a": {
+  "street": "Via dal Bagn",
+  "hn": "1a",
+  "lat": 46.4882749,
+  "lng": 9.8356384,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|11": {
+  "street": "Via dal Bagn",
+  "hn": "11",
+  "lat": 46.4893084,
+  "lng": 9.8347542,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|1b": {
+  "street": "Via dal Bagn",
+  "hn": "1b",
+  "lat": 46.4883168,
+  "lng": 9.8357632,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|1e": {
+  "street": "Via dal Bagn",
+  "hn": "1e",
+  "lat": 46.4884768,
+  "lng": 9.8356893,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|1": {
+  "street": "Via dal Bagn",
+  "hn": "1",
+  "lat": 46.4884561,
+  "lng": 9.8354919,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|13": {
+  "street": "Via dal Bagn",
+  "hn": "13",
+  "lat": 46.489459,
+  "lng": 9.8347268,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|1c": {
+  "street": "Via dal Bagn",
+  "hn": "1c",
+  "lat": 46.4883236,
+  "lng": 9.835776,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|12": {
+  "street": "Via dal Bagn",
+  "hn": "12",
+  "lat": 46.4893404,
+  "lng": 9.8354671,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|12a": {
+  "street": "Via dal Bagn",
+  "hn": "12a",
+  "lat": 46.4893253,
+  "lng": 9.8354163,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|6a": {
+  "street": "Via dal Bagn",
+  "hn": "6a",
+  "lat": 46.4889093,
+  "lng": 9.8354966,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|4a": {
+  "street": "Via dal Bagn",
+  "hn": "4a",
+  "lat": 46.4887007,
+  "lng": 9.8359326,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|4b": {
+  "street": "Via dal Bagn",
+  "hn": "4b",
+  "lat": 46.4887561,
+  "lng": 9.8356572,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|4": {
+  "street": "Via dal Bagn",
+  "hn": "4",
+  "lat": 46.4887404,
+  "lng": 9.8358207,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|10": {
+  "street": "Via dal Bagn",
+  "hn": "10",
+  "lat": 46.4893855,
+  "lng": 9.8352636,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|4c": {
+  "street": "Via dal Bagn",
+  "hn": "4c",
+  "lat": 46.4888325,
+  "lng": 9.8355848,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|8": {
+  "street": "Via dal Bagn",
+  "hn": "8",
+  "lat": 46.489074,
+  "lng": 9.8353037,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|6b": {
+  "street": "Via dal Bagn",
+  "hn": "6b",
+  "lat": 46.4889909,
+  "lng": 9.8354004,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|12b": {
+  "street": "Via dal Bagn",
+  "hn": "12b",
+  "lat": 46.4892923,
+  "lng": 9.8353271,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|6": {
+  "street": "Via dal Bagn",
+  "hn": "6",
+  "lat": 46.4889385,
+  "lng": 9.8354588,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|10d": {
+  "street": "Via dal Bagn",
+  "hn": "10d",
+  "lat": 46.4894367,
+  "lng": 9.8354053,
+  "mieter": []
+ },
+ "st. moritz|via maistra|113": {
+  "street": "Via Maistra",
+  "hn": "113",
+  "lat": 46.5142614,
+  "lng": 9.8618333,
+  "mieter": []
+ },
+ "st. moritz|via maistra|117": {
+  "street": "Via Maistra",
+  "hn": "117",
+  "lat": 46.5145183,
+  "lng": 9.8614748,
+  "mieter": []
+ },
  "st. moritz|via dal bagn|48": {
   "street": "Via dal Bagn",
   "hn": "48",
@@ -1639,11 +1730,111 @@
   "lng": 9.837005,
   "mieter": []
  },
+ "st. moritz|via maistra|94": {
+  "street": "Via Maistra",
+  "hn": "94",
+  "lat": 46.5127518,
+  "lng": 9.8607171,
+  "mieter": []
+ },
+ "st. moritz|via maistra|75": {
+  "street": "Via Maistra",
+  "hn": "75",
+  "lat": 46.5122604,
+  "lng": 9.8578532,
+  "mieter": []
+ },
+ "st. moritz|via maistra|102": {
+  "street": "Via Maistra",
+  "hn": "102",
+  "lat": 46.5128103,
+  "lng": 9.861528,
+  "mieter": []
+ },
+ "st. moritz|via maistra|90": {
+  "street": "Via Maistra",
+  "hn": "90",
+  "lat": 46.5125742,
+  "lng": 9.8601878,
+  "mieter": []
+ },
+ "st. moritz|via maistra|92": {
+  "street": "Via Maistra",
+  "hn": "92",
+  "lat": 46.5126185,
+  "lng": 9.8604641,
+  "mieter": []
+ },
+ "st. moritz|via maistra|104": {
+  "street": "Via Maistra",
+  "hn": "104",
+  "lat": 46.5130323,
+  "lng": 9.8615421,
+  "mieter": []
+ },
+ "st. moritz|via maistra|106": {
+  "street": "Via Maistra",
+  "hn": "106",
+  "lat": 46.5131547,
+  "lng": 9.8617877,
+  "mieter": []
+ },
+ "st. moritz|via maistra|107": {
+  "street": "Via Maistra",
+  "hn": "107",
+  "lat": 46.5136195,
+  "lng": 9.8618239,
+  "mieter": []
+ },
+ "st. moritz|via maistra|114": {
+  "street": "Via Maistra",
+  "hn": "114",
+  "lat": 46.51384,
+  "lng": 9.8621007,
+  "mieter": []
+ },
+ "st. moritz|via maistra|103": {
+  "street": "Via Maistra",
+  "hn": "103",
+  "lat": 46.5135161,
+  "lng": 9.8614957,
+  "mieter": []
+ },
+ "st. moritz|via maistra|97": {
+  "street": "Via Maistra",
+  "hn": "97",
+  "lat": 46.5131727,
+  "lng": 9.8610004,
+  "mieter": [
+   "Chesa Cumünela"
+  ]
+ },
+ "st. moritz|via maistra|96": {
+  "street": "Via Maistra",
+  "hn": "96",
+  "lat": 46.5126074,
+  "lng": 9.8610598,
+  "mieter": []
+ },
  "st. moritz|via maistra|43": {
   "street": "Via Maistra",
   "hn": "43",
   "lat": 46.5008702,
   "lng": 9.8441392,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|19": {
+  "street": "Via dal Bagn",
+  "hn": "19",
+  "lat": 46.49019,
+  "lng": 9.8342675,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|23": {
+  "street": "Via dal Bagn",
+  "hn": "23",
+  "lat": 46.4906518,
+  "lng": 9.8343613,
   "mieter": []
  },
  "st. moritz|via maistra|45": {
@@ -1667,6 +1858,166 @@
   "lng": 9.8358865,
   "mieter": []
  },
+ "st. moritz|via maistra|58": {
+  "street": "Via Maistra",
+  "hn": "58",
+  "lat": 46.5109373,
+  "lng": 9.8566334,
+  "mieter": []
+ },
+ "st. moritz|via maistra|62": {
+  "street": "Via Maistra",
+  "hn": "62",
+  "lat": 46.5107064,
+  "lng": 9.8563275,
+  "mieter": []
+ },
+ "st. moritz|via maistra|64a": {
+  "street": "Via Maistra",
+  "hn": "64a",
+  "lat": 46.5104221,
+  "lng": 9.8563512,
+  "mieter": []
+ },
+ "st. moritz|via maistra|54": {
+  "street": "Via Maistra",
+  "hn": "54",
+  "lat": 46.5108794,
+  "lng": 9.8559008,
+  "mieter": [
+   "Baselgia refurmeda Crasta"
+  ]
+ },
+ "st. moritz|via maistra|56": {
+  "street": "Via Maistra",
+  "hn": "56",
+  "lat": 46.5109913,
+  "lng": 9.856084,
+  "mieter": []
+ },
+ "st. moritz|via maistra|49": {
+  "street": "Via Maistra",
+  "hn": "49",
+  "lat": 46.5110616,
+  "lng": 9.8554865,
+  "mieter": []
+ },
+ "st. moritz|via maistra|42": {
+  "street": "Via Maistra",
+  "hn": "42",
+  "lat": 46.5105316,
+  "lng": 9.8553714,
+  "mieter": []
+ },
+ "st. moritz|via maistra|36": {
+  "street": "Via Maistra",
+  "hn": "36",
+  "lat": 46.5103617,
+  "lng": 9.8552897,
+  "mieter": []
+ },
+ "st. moritz|via maistra|34": {
+  "street": "Via Maistra",
+  "hn": "34",
+  "lat": 46.5101905,
+  "lng": 9.8550373,
+  "mieter": []
+ },
+ "st. moritz|via maistra|44": {
+  "street": "Via Maistra",
+  "hn": "44",
+  "lat": 46.5104697,
+  "lng": 9.8555291,
+  "mieter": []
+ },
+ "st. moritz|via maistra|46": {
+  "street": "Via Maistra",
+  "hn": "46",
+  "lat": 46.5104015,
+  "lng": 9.8557057,
+  "mieter": []
+ },
+ "st. moritz|via maistra|51": {
+  "street": "Via Maistra",
+  "hn": "51",
+  "lat": 46.5112565,
+  "lng": 9.855204,
+  "mieter": []
+ },
+ "st. moritz|via maistra|32": {
+  "street": "Via Maistra",
+  "hn": "32",
+  "lat": 46.5098414,
+  "lng": 9.8549651,
+  "mieter": []
+ },
+ "st. moritz|via maistra|30": {
+  "street": "Via Maistra",
+  "hn": "30",
+  "lat": 46.5097783,
+  "lng": 9.854607,
+  "mieter": []
+ },
+ "st. moritz|via maistra|55": {
+  "street": "Via Maistra",
+  "hn": "55",
+  "lat": 46.5113614,
+  "lng": 9.8566405,
+  "mieter": []
+ },
+ "st. moritz|via maistra|68": {
+  "street": "Via Maistra",
+  "hn": "68",
+  "lat": 46.5101934,
+  "lng": 9.8559093,
+  "mieter": []
+ },
+ "st. moritz|via maistra|65": {
+  "street": "Via Maistra",
+  "hn": "65",
+  "lat": 46.51177,
+  "lng": 9.856819,
+  "mieter": []
+ },
+ "st. moritz|via maistra|61": {
+  "street": "Via Maistra",
+  "hn": "61",
+  "lat": 46.5114674,
+  "lng": 9.856969,
+  "mieter": []
+ },
+ "st. moritz|via maistra|53": {
+  "street": "Via Maistra",
+  "hn": "53",
+  "lat": 46.5113011,
+  "lng": 9.8562658,
+  "mieter": []
+ },
+ "st. moritz|via maistra|76": {
+  "street": "Via Maistra",
+  "hn": "76",
+  "lat": 46.5119002,
+  "lng": 9.8584717,
+  "mieter": [
+   "la Piruetta"
+  ]
+ },
+ "st. moritz|via dal bagn|29": {
+  "street": "Via dal Bagn",
+  "hn": "29",
+  "lat": 46.4913417,
+  "lng": 9.8347156,
+  "mieter": [
+   "Badkirche"
+  ]
+ },
+ "st. moritz|via dal bagn|25": {
+  "street": "Via dal Bagn",
+  "hn": "25",
+  "lat": 46.4908777,
+  "lng": 9.834762,
+  "mieter": []
+ },
  "st. moritz|via dal bagn|39": {
   "street": "Via dal Bagn",
   "hn": "39",
@@ -1679,6 +2030,20 @@
   "hn": "33",
   "lat": 46.4920734,
   "lng": 9.8345714,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|16": {
+  "street": "Via dal Bagn",
+  "hn": "16",
+  "lat": 46.4897525,
+  "lng": 9.8350132,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|17": {
+  "street": "Via dal Bagn",
+  "hn": "17",
+  "lat": 46.4900945,
+  "lng": 9.8345729,
   "mieter": []
  },
  "st. moritz|via dal bagn|37": {
@@ -1695,14 +2060,26 @@
   "lng": 9.835596,
   "mieter": []
  },
- "st. moritz|via maistra|46": {
-  "street": "Via Maistra",
-  "hn": "46",
-  "lat": 46.5009326,
-  "lng": 9.8450952,
-  "mieter": [
-   "Subaru"
-  ]
+ "st. moritz|via dal bagn|7a": {
+  "street": "Via dal Bagn",
+  "hn": "7a",
+  "lat": 46.4889903,
+  "lng": 9.8350242,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|9": {
+  "street": "Via dal Bagn",
+  "hn": "9",
+  "lat": 46.4890862,
+  "lng": 9.834911,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|3": {
+  "street": "Via dal Bagn",
+  "hn": "3",
+  "lat": 46.4886812,
+  "lng": 9.8353622,
+  "mieter": []
  },
  "st. moritz|via maistra|46a": {
   "street": "Via Maistra",
@@ -1710,16 +2087,6 @@
   "lat": 46.5008402,
   "lng": 9.8449713,
   "mieter": []
- },
- "st. moritz|via maistra|44": {
-  "street": "Via Maistra",
-  "hn": "44",
-  "lat": 46.5004483,
-  "lng": 9.8445495,
-  "mieter": [
-   "Chesa Al Parc",
-   "Restaurant al Parc"
-  ]
  },
  "st. moritz|via dal bagn|42": {
   "street": "Via dal Bagn",
@@ -1747,6 +2114,13 @@
   "hn": "15",
   "lat": 46.4981727,
   "lng": 9.8448526,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|2b": {
+  "street": "Via dal Bagn",
+  "hn": "2b",
+  "lat": 46.4886389,
+  "lng": 9.8360006,
   "mieter": []
  },
  "st. moritz|via serlas|13": {
@@ -1803,9 +2177,7 @@
   "hn": "25",
   "lat": 46.4968627,
   "lng": 9.8410332,
-  "mieter": [
-   "La Diala"
-  ]
+  "mieter": []
  },
  "st. moritz|via serlas|21d": {
   "street": "Via Serlas",
@@ -1842,6 +2214,20 @@
   "lng": 9.8349554,
   "mieter": []
  },
+ "st. moritz|via dal bagn|22": {
+  "street": "Via dal Bagn",
+  "hn": "22",
+  "lat": 46.4915029,
+  "lng": 9.8350883,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|20": {
+  "street": "Via dal Bagn",
+  "hn": "20",
+  "lat": 46.490989,
+  "lng": 9.83516,
+  "mieter": []
+ },
  "st. moritz|via serlas|5": {
   "street": "Via Serlas",
   "hn": "5",
@@ -1854,10 +2240,7 @@
   "hn": "40",
   "lat": 46.5002873,
   "lng": 9.8437088,
-  "mieter": [
-   "Eispavillon Kulm",
-   "KCC by Mauro Colagreco"
-  ]
+  "mieter": []
  },
  "st. moritz|via maistra|47": {
   "street": "Via Maistra",
@@ -1866,18 +2249,11 @@
   "lng": 9.8441304,
   "mieter": []
  },
- "st. moritz|via maistra|49": {
+ "st. moritz|via maistra|66": {
   "street": "Via Maistra",
-  "hn": "49",
-  "lat": 46.5012347,
-  "lng": 9.8445045,
-  "mieter": []
- },
- "st. moritz|via maistra|51": {
-  "street": "Via Maistra",
-  "hn": "51",
-  "lat": 46.5014994,
-  "lng": 9.8449628,
+  "hn": "66",
+  "lat": 46.5027328,
+  "lng": 9.8466932,
   "mieter": []
  },
  "st. moritz|via serlas|31": {
@@ -1885,15 +2261,48 @@
   "hn": "31",
   "lat": 46.4971522,
   "lng": 9.8395025,
-  "mieter": [
-   "Tornaghi"
-  ]
+  "mieter": []
  },
- "st. moritz|via maistra|36": {
+ "st. moritz|via maistra|68a": {
   "street": "Via Maistra",
-  "hn": "36",
-  "lat": 46.4995676,
-  "lng": 9.8433491,
+  "hn": "68a",
+  "lat": 46.5027892,
+  "lng": 9.8472295,
+  "mieter": []
+ },
+ "st. moritz|via maistra|70": {
+  "street": "Via Maistra",
+  "hn": "70",
+  "lat": 46.5029279,
+  "lng": 9.8469463,
+  "mieter": []
+ },
+ "st. moritz|via maistra|59": {
+  "street": "Via Maistra",
+  "hn": "59",
+  "lat": 46.5113641,
+  "lng": 9.8568632,
+  "mieter": []
+ },
+ "st. moritz|via maistra|54a": {
+  "street": "Via Maistra",
+  "hn": "54a",
+  "lat": 46.5109159,
+  "lng": 9.8557956,
+  "mieter": []
+ },
+ "st. moritz|via maistra|98": {
+  "street": "Via Maistra",
+  "hn": "98",
+  "lat": 46.5128497,
+  "lng": 9.8611171,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|31": {
+  "street": "Via dal Bagn",
+  "hn": "31",
+  "lat": 46.4917674,
+  "lng": 9.8345101,
   "mieter": []
  },
  "st. moritz|via serlas|7": {
@@ -1901,6 +2310,111 @@
   "hn": "7",
   "lat": 46.4986763,
   "lng": 9.8453996,
+  "mieter": []
+ },
+ "st. moritz|via maistra|4e": {
+  "street": "Via Maistra",
+  "hn": "4e",
+  "lat": 46.5041562,
+  "lng": 9.8497192,
+  "mieter": []
+ },
+ "st. moritz|via maistra|72": {
+  "street": "Via Maistra",
+  "hn": "72",
+  "lat": 46.5114161,
+  "lng": 9.8574892,
+  "mieter": []
+ },
+ "st. moritz|via maistra|64b": {
+  "street": "Via Maistra",
+  "hn": "64b",
+  "lat": 46.5105471,
+  "lng": 9.8563982,
+  "mieter": []
+ },
+ "st. moritz|via maistra|60": {
+  "street": "Via Maistra",
+  "hn": "60",
+  "lat": 46.5107635,
+  "lng": 9.8564975,
+  "mieter": []
+ },
+ "st. moritz|via maistra|62b": {
+  "street": "Via Maistra",
+  "hn": "62b",
+  "lat": 46.5106207,
+  "lng": 9.8564362,
+  "mieter": []
+ },
+ "st. moritz|via maistra|62a": {
+  "street": "Via Maistra",
+  "hn": "62a",
+  "lat": 46.5106011,
+  "lng": 9.8565473,
+  "mieter": []
+ },
+ "st. moritz|via maistra|64": {
+  "street": "Via Maistra",
+  "hn": "64",
+  "lat": 46.5104905,
+  "lng": 9.8561983,
+  "mieter": []
+ },
+ "st. moritz|via maistra|78": {
+  "street": "Via Maistra",
+  "hn": "78",
+  "lat": 46.5120221,
+  "lng": 9.8588656,
+  "mieter": []
+ },
+ "st. moritz|via maistra|110": {
+  "street": "Via Maistra",
+  "hn": "110",
+  "lat": 46.5136192,
+  "lng": 9.8621078,
+  "mieter": []
+ },
+ "st. moritz|via maistra|106a": {
+  "street": "Via Maistra",
+  "hn": "106a",
+  "lat": 46.5130731,
+  "lng": 9.8619273,
+  "mieter": []
+ },
+ "st. moritz|via maistra|100": {
+  "street": "Via Maistra",
+  "hn": "100",
+  "lat": 46.5127946,
+  "lng": 9.861253,
+  "mieter": []
+ },
+ "st. moritz|via maistra|89": {
+  "street": "Via Maistra",
+  "hn": "89",
+  "lat": 46.5127997,
+  "lng": 9.8603067,
+  "mieter": []
+ },
+ "st. moritz|via maistra|95": {
+  "street": "Via Maistra",
+  "hn": "95",
+  "lat": 46.5130606,
+  "lng": 9.8606556,
+  "mieter": []
+ },
+ "st. moritz|via maistra|101": {
+  "street": "Via Maistra",
+  "hn": "101",
+  "lat": 46.5133029,
+  "lng": 9.8615816,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|22a": {
+  "street": "Via dal Bagn",
+  "hn": "22a",
+  "lat": 46.4913313,
+  "lng": 9.8351637,
   "mieter": []
  },
  "st. moritz|via dal bagn|46a": {
@@ -1929,6 +2443,13 @@
   "hn": "21c",
   "lat": 46.4970181,
   "lng": 9.8419617,
+  "mieter": []
+ },
+ "st. moritz|via maistra|66a": {
+  "street": "Via Maistra",
+  "hn": "66a",
+  "lat": 46.5027077,
+  "lng": 9.8467619,
   "mieter": []
  },
  "st. moritz|via serlas|4": {
@@ -1966,11 +2487,81 @@
   "lng": 9.8445385,
   "mieter": []
  },
+ "st. moritz|via dal bagn|18": {
+  "street": "Via dal Bagn",
+  "hn": "18",
+  "lat": 46.4902713,
+  "lng": 9.8351095,
+  "mieter": []
+ },
  "st. moritz|via dal bagn|45": {
   "street": "Via dal Bagn",
   "hn": "45",
   "lat": 46.4947647,
   "lng": 9.8360342,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|22b": {
+  "street": "Via dal Bagn",
+  "hn": "22b",
+  "lat": 46.491411,
+  "lng": 9.8351144,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|27": {
+  "street": "Via dal Bagn",
+  "hn": "27",
+  "lat": 46.4910359,
+  "lng": 9.8347171,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|3a": {
+  "street": "Via dal Bagn",
+  "hn": "3a",
+  "lat": 46.4886023,
+  "lng": 9.8352535,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|5a": {
+  "street": "Via dal Bagn",
+  "hn": "5a",
+  "lat": 46.4889158,
+  "lng": 9.8350655,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|5": {
+  "street": "Via dal Bagn",
+  "hn": "5",
+  "lat": 46.4888548,
+  "lng": 9.8351371,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|3b": {
+  "street": "Via dal Bagn",
+  "hn": "3b",
+  "lat": 46.4887759,
+  "lng": 9.8352268,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|7": {
+  "street": "Via dal Bagn",
+  "hn": "7",
+  "lat": 46.488912,
+  "lng": 9.8348828,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|2": {
+  "street": "Via dal Bagn",
+  "hn": "2",
+  "lat": 46.4885119,
+  "lng": 9.836006,
+  "mieter": []
+ },
+ "st. moritz|via dal bagn|2a": {
+  "street": "Via dal Bagn",
+  "hn": "2a",
+  "lat": 46.4885834,
+  "lng": 9.8361016,
   "mieter": []
  }
 }

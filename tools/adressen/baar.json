@@ -1,0 +1,1136 @@
+{
+ "baar|bahnhofstrasse|22": {
+  "street": "Bahnhofstrasse",
+  "hn": "22",
+  "lat": 47.1939288,
+  "lng": 8.5235455,
+  "mieter": [
+   "Velo Motos Baar"
+  ]
+ },
+ "baar|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 47.1949919,
+  "lng": 8.5235955,
+  "mieter": [
+   "Zumbach",
+   "Interdiscount",
+   "Neuroth",
+   "Gidor"
+  ]
+ },
+ "baar|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 47.1951191,
+  "lng": 8.5228028,
+  "mieter": [
+   "BBQ"
+  ]
+ },
+ "baar|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 47.195439,
+  "lng": 8.5244496,
+  "mieter": [
+   "Restaurant Neumühle"
+  ]
+ },
+ "baar|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 47.1955485,
+  "lng": 8.5248613,
+  "mieter": [
+   "Migros"
+  ]
+ },
+ "baar|rathausstrasse|4": {
+  "street": "Rathausstrasse",
+  "hn": "4",
+  "lat": 47.1947591,
+  "lng": 8.5268569,
+  "mieter": [
+   "Bibliothek Baar"
+  ]
+ },
+ "baar|rathausstrasse|3": {
+  "street": "Rathausstrasse",
+  "hn": "3",
+  "lat": 47.1947896,
+  "lng": 8.5260568,
+  "mieter": [
+   "Restaurant Pizzeria Krone"
+  ]
+ },
+ "baar|rathausstrasse|10": {
+  "street": "Rathausstrasse",
+  "hn": "10",
+  "lat": 47.19501,
+  "lng": 8.5263988,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "baar|dorfstrasse|2": {
+  "street": "Dorfstrasse",
+  "hn": "2",
+  "lat": 47.1946041,
+  "lng": 8.5260889,
+  "mieter": [
+   "Zuger Kantonalbank"
+  ]
+ },
+ "baar|dorfstrasse|6b": {
+  "street": "Dorfstrasse",
+  "hn": "6B",
+  "lat": 47.1943983,
+  "lng": 8.5254641,
+  "mieter": [
+   "Dörfli Kebap"
+  ]
+ },
+ "baar|rathausstrasse|14": {
+  "street": "Rathausstrasse",
+  "hn": "14",
+  "lat": 47.1953394,
+  "lng": 8.5266127,
+  "mieter": [
+   "Head Case"
+  ]
+ },
+ "baar|dorfstrasse|31": {
+  "street": "Dorfstrasse",
+  "hn": "31",
+  "lat": 47.1934689,
+  "lng": 8.5236584,
+  "mieter": [
+   "Repair Zone"
+  ]
+ },
+ "baar|dorfstrasse|33": {
+  "street": "Dorfstrasse",
+  "hn": "33",
+  "lat": 47.1934157,
+  "lng": 8.5234337,
+  "mieter": [
+   "BlumenBaar",
+   "Coiff&Co"
+  ]
+ },
+ "baar|dorfstrasse|38": {
+  "street": "Dorfstrasse",
+  "hn": "38",
+  "lat": 47.1936728,
+  "lng": 8.5233029,
+  "mieter": []
+ },
+ "baar|dorfstrasse|42": {
+  "street": "Dorfstrasse",
+  "hn": "42",
+  "lat": 47.193566,
+  "lng": 8.5229353,
+  "mieter": []
+ },
+ "baar|dorfstrasse|3": {
+  "street": "Dorfstrasse",
+  "hn": "3",
+  "lat": 47.1943158,
+  "lng": 8.5261526,
+  "mieter": [
+   "TopPharm"
+  ]
+ },
+ "baar|dorfstrasse|16": {
+  "street": "Dorfstrasse",
+  "hn": "16",
+  "lat": 47.1941771,
+  "lng": 8.5246606,
+  "mieter": [
+   "Post 6340 Baar"
+  ]
+ },
+ "baar|rathausstrasse|9": {
+  "street": "Rathausstrasse",
+  "hn": "9",
+  "lat": 47.195,
+  "lng": 8.5253493,
+  "mieter": [
+   "Schlafwohl",
+   "Rosie's"
+  ]
+ },
+ "baar|dorfstrasse|23": {
+  "street": "Dorfstrasse",
+  "hn": "23",
+  "lat": 47.1937053,
+  "lng": 8.5247665,
+  "mieter": [
+   "Clean & dry Textilpflege",
+   "Speck",
+   "Metzgerei Roggenmoser"
+  ]
+ },
+ "baar|leihgasse|11": {
+  "street": "Leihgasse",
+  "hn": "11",
+  "lat": 47.1943653,
+  "lng": 8.5280574,
+  "mieter": [
+   "Polizeidienststelle Baar"
+  ]
+ },
+ "baar|dorfstrasse|10": {
+  "street": "Dorfstrasse",
+  "hn": "10",
+  "lat": 47.1942919,
+  "lng": 8.5252682,
+  "mieter": [
+   "Haarstube"
+  ]
+ },
+ "baar|dorfstrasse|29": {
+  "street": "Dorfstrasse",
+  "hn": "29",
+  "lat": 47.1936354,
+  "lng": 8.5239116,
+  "mieter": [
+   "Wolle &Baby"
+  ]
+ },
+ "baar|dorfstrasse|19a": {
+  "street": "Dorfstrasse",
+  "hn": "19a",
+  "lat": 47.1938844,
+  "lng": 8.5247705,
+  "mieter": [
+   "Blutspende Zentrum"
+  ]
+ },
+ "baar|rathausstrasse|7": {
+  "street": "Rathausstrasse",
+  "hn": "7",
+  "lat": 47.1952059,
+  "lng": 8.5257358,
+  "mieter": [
+   "UBS"
+  ]
+ },
+ "baar|leihgasse|16": {
+  "street": "Leihgasse",
+  "hn": "16",
+  "lat": 47.1942106,
+  "lng": 8.5286361,
+  "mieter": []
+ },
+ "baar|leihgasse|14": {
+  "street": "Leihgasse",
+  "hn": "14",
+  "lat": 47.1941985,
+  "lng": 8.5284942,
+  "mieter": []
+ },
+ "baar|leihgasse|12a": {
+  "street": "Leihgasse",
+  "hn": "12a",
+  "lat": 47.1941056,
+  "lng": 8.5281783,
+  "mieter": []
+ },
+ "baar|leihgasse|10": {
+  "street": "Leihgasse",
+  "hn": "10",
+  "lat": 47.1941706,
+  "lng": 8.527854,
+  "mieter": []
+ },
+ "baar|leihgasse|8": {
+  "street": "Leihgasse",
+  "hn": "8",
+  "lat": 47.1941502,
+  "lng": 8.5276535,
+  "mieter": []
+ },
+ "baar|dorfstrasse|13": {
+  "street": "Dorfstrasse",
+  "hn": "13",
+  "lat": 47.1940176,
+  "lng": 8.5251074,
+  "mieter": [
+   "Chez Sylia",
+   "Hörberatung Müller"
+  ]
+ },
+ "baar|dorfstrasse|1": {
+  "street": "Dorfstrasse",
+  "hn": "1",
+  "lat": 47.1942693,
+  "lng": 8.5263148,
+  "mieter": [
+   "Elefant"
+  ]
+ },
+ "baar|leihgasse|2": {
+  "street": "Leihgasse",
+  "hn": "2",
+  "lat": 47.194182,
+  "lng": 8.5266838,
+  "mieter": [
+   "Räbechäller"
+  ]
+ },
+ "baar|dorfstrasse|12": {
+  "street": "Dorfstrasse",
+  "hn": "12",
+  "lat": 47.1942296,
+  "lng": 8.5250872,
+  "mieter": [
+   "Coiffeur Kim"
+  ]
+ },
+ "baar|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 47.1942973,
+  "lng": 8.5233081,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|20a": {
+  "street": "Bahnhofstrasse",
+  "hn": "20a",
+  "lat": 47.1941144,
+  "lng": 8.5234711,
+  "mieter": []
+ },
+ "baar|leihgasse|96": {
+  "street": "Leihgasse",
+  "hn": "96",
+  "lat": 47.19434,
+  "lng": 8.535157,
+  "mieter": []
+ },
+ "baar|leihgasse|62": {
+  "street": "Leihgasse",
+  "hn": "62",
+  "lat": 47.194206,
+  "lng": 8.534653,
+  "mieter": []
+ },
+ "baar|leihgasse|90": {
+  "street": "Leihgasse",
+  "hn": "90",
+  "lat": 47.19456,
+  "lng": 8.535203,
+  "mieter": []
+ },
+ "baar|leihgasse|24": {
+  "street": "Leihgasse",
+  "hn": "24",
+  "lat": 47.193894,
+  "lng": 8.529618,
+  "mieter": []
+ },
+ "baar|leihgasse|100": {
+  "street": "Leihgasse",
+  "hn": "100",
+  "lat": 47.19469,
+  "lng": 8.535561,
+  "mieter": []
+ },
+ "baar|leihgasse|88": {
+  "street": "Leihgasse",
+  "hn": "88",
+  "lat": 47.194584,
+  "lng": 8.535198,
+  "mieter": []
+ },
+ "baar|leihgasse|20": {
+  "street": "Leihgasse",
+  "hn": "20",
+  "lat": 47.1941667,
+  "lng": 8.5294038,
+  "mieter": []
+ },
+ "baar|leihgasse|94": {
+  "street": "Leihgasse",
+  "hn": "94",
+  "lat": 47.1944118,
+  "lng": 8.5351442,
+  "mieter": []
+ },
+ "baar|leihgasse|64": {
+  "street": "Leihgasse",
+  "hn": "64",
+  "lat": 47.19426,
+  "lng": 8.534642,
+  "mieter": []
+ },
+ "baar|leihgasse|22": {
+  "street": "Leihgasse",
+  "hn": "22",
+  "lat": 47.19403,
+  "lng": 8.52951,
+  "mieter": []
+ },
+ "baar|leihgasse|108": {
+  "street": "Leihgasse",
+  "hn": "108",
+  "lat": 47.194477,
+  "lng": 8.535606,
+  "mieter": []
+ },
+ "baar|leihgasse|86": {
+  "street": "Leihgasse",
+  "hn": "86",
+  "lat": 47.194656,
+  "lng": 8.535183,
+  "mieter": []
+ },
+ "baar|leihgasse|106": {
+  "street": "Leihgasse",
+  "hn": "106",
+  "lat": 47.194527,
+  "lng": 8.535596,
+  "mieter": []
+ },
+ "baar|leihgasse|68": {
+  "street": "Leihgasse",
+  "hn": "68",
+  "lat": 47.194355,
+  "lng": 8.534623,
+  "mieter": []
+ },
+ "baar|leihgasse|16a": {
+  "street": "Leihgasse",
+  "hn": "16a",
+  "lat": 47.194134,
+  "lng": 8.52869,
+  "mieter": []
+ },
+ "baar|leihgasse|66": {
+  "street": "Leihgasse",
+  "hn": "66",
+  "lat": 47.194305,
+  "lng": 8.534633,
+  "mieter": []
+ },
+ "baar|leihgasse|92": {
+  "street": "Leihgasse",
+  "hn": "92",
+  "lat": 47.19449,
+  "lng": 8.535218,
+  "mieter": []
+ },
+ "baar|leihgasse|98": {
+  "street": "Leihgasse",
+  "hn": "98",
+  "lat": 47.1943081,
+  "lng": 8.5351637,
+  "mieter": []
+ },
+ "baar|leihgasse|102": {
+  "street": "Leihgasse",
+  "hn": "102",
+  "lat": 47.194626,
+  "lng": 8.535575,
+  "mieter": []
+ },
+ "baar|leihgasse|104": {
+  "street": "Leihgasse",
+  "hn": "104",
+  "lat": 47.194595,
+  "lng": 8.535581,
+  "mieter": []
+ },
+ "baar|leihgasse|10a": {
+  "street": "Leihgasse",
+  "hn": "10a",
+  "lat": 47.1945164,
+  "lng": 8.5309849,
+  "mieter": []
+ },
+ "baar|marktgasse|17": {
+  "street": "Marktgasse",
+  "hn": "17",
+  "lat": 47.1961016,
+  "lng": 8.527929,
+  "mieter": []
+ },
+ "baar|dorfstrasse|11a": {
+  "street": "Dorfstrasse",
+  "hn": "11a",
+  "lat": 47.19392,
+  "lng": 8.5255619,
+  "mieter": []
+ },
+ "baar|rathausstrasse|8a": {
+  "street": "Rathausstrasse",
+  "hn": "8a",
+  "lat": 47.1950161,
+  "lng": 8.5266664,
+  "mieter": []
+ },
+ "baar|marktgasse|6b": {
+  "street": "Marktgasse",
+  "hn": "6b",
+  "lat": 47.1951426,
+  "lng": 8.526603,
+  "mieter": []
+ },
+ "baar|rathausstrasse|4a": {
+  "street": "Rathausstrasse",
+  "hn": "4a",
+  "lat": 47.1947371,
+  "lng": 8.5266739,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|3a": {
+  "street": "Bahnhofstrasse",
+  "hn": "3a",
+  "lat": 47.1954366,
+  "lng": 8.5249989,
+  "mieter": []
+ },
+ "baar|leihgasse|39a": {
+  "street": "Leihgasse",
+  "hn": "39a",
+  "lat": 47.1947657,
+  "lng": 8.5331544,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|20": {
+  "street": "Bahnhofstrasse",
+  "hn": "20",
+  "lat": 47.1940906,
+  "lng": 8.5232815,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|7a": {
+  "street": "Bahnhofstrasse",
+  "hn": "7a",
+  "lat": 47.1954837,
+  "lng": 8.5247755,
+  "mieter": []
+ },
+ "baar|dorfstrasse|35": {
+  "street": "Dorfstrasse",
+  "hn": "35",
+  "lat": 47.193404,
+  "lng": 8.5232482,
+  "mieter": [
+   "Reviderm"
+  ]
+ },
+ "baar|dorfstrasse|27": {
+  "street": "Dorfstrasse",
+  "hn": "27",
+  "lat": 47.1937062,
+  "lng": 8.5241156,
+  "mieter": [
+   "Stile Libero"
+  ]
+ },
+ "baar|dorfstrasse|7": {
+  "street": "Dorfstrasse",
+  "hn": "7",
+  "lat": 47.1942554,
+  "lng": 8.5257103,
+  "mieter": [
+   "E'cco"
+  ]
+ },
+ "baar|dorfstrasse|5": {
+  "street": "Dorfstrasse",
+  "hn": "5",
+  "lat": 47.1943182,
+  "lng": 8.526052,
+  "mieter": [
+   "Ana"
+  ]
+ },
+ "baar|dorfstrasse|6a": {
+  "street": "Dorfstrasse",
+  "hn": "6a",
+  "lat": 47.194414,
+  "lng": 8.5256236,
+  "mieter": [
+   "Jasper & Co"
+  ]
+ },
+ "baar|dorfstrasse|24": {
+  "street": "Dorfstrasse",
+  "hn": "24",
+  "lat": 47.1938876,
+  "lng": 8.524081,
+  "mieter": [
+   "Orthorama"
+  ]
+ },
+ "baar|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 47.194166,
+  "lng": 8.5237092,
+  "mieter": [
+   "Gabriella's Secondhand"
+  ]
+ },
+ "baar|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 47.1953014,
+  "lng": 8.5248821,
+  "mieter": [
+   "Zahnarztpraxis Dr. Nina van Sprundel"
+  ]
+ },
+ "baar|bahnhofstrasse|20b": {
+  "street": "Bahnhofstrasse",
+  "hn": "20b",
+  "lat": 47.1940179,
+  "lng": 8.5230661,
+  "mieter": [
+   "Praxis-Baar - Dr. med.univ. Danijela Strametz"
+  ]
+ },
+ "baar|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 47.1945568,
+  "lng": 8.5232502,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.1948439,
+  "lng": 8.5230351,
+  "mieter": []
+ },
+ "baar|leihgasse|12b": {
+  "street": "Leihgasse",
+  "hn": "12b",
+  "lat": 47.1939229,
+  "lng": 8.5282438,
+  "mieter": []
+ },
+ "baar|dorfstrasse|29b": {
+  "street": "Dorfstrasse",
+  "hn": "29b",
+  "lat": 47.1932744,
+  "lng": 8.5242803,
+  "mieter": [
+   "Kino Lux"
+  ]
+ },
+ "baar|dorfstrasse|19b": {
+  "street": "Dorfstrasse",
+  "hn": "19b",
+  "lat": 47.1937561,
+  "lng": 8.5252245,
+  "mieter": []
+ },
+ "baar|dorfstrasse|8": {
+  "street": "Dorfstrasse",
+  "hn": "8",
+  "lat": 47.1943435,
+  "lng": 8.5252304,
+  "mieter": []
+ },
+ "baar|dorfstrasse|33a": {
+  "street": "Dorfstrasse",
+  "hn": "33a",
+  "lat": 47.1931679,
+  "lng": 8.5238208,
+  "mieter": []
+ },
+ "baar|dorfstrasse|34": {
+  "street": "Dorfstrasse",
+  "hn": "34",
+  "lat": 47.1937794,
+  "lng": 8.5235728,
+  "mieter": []
+ },
+ "baar|dorfstrasse|32": {
+  "street": "Dorfstrasse",
+  "hn": "32",
+  "lat": 47.1938823,
+  "lng": 8.5239101,
+  "mieter": []
+ },
+ "baar|dorfstrasse|22": {
+  "street": "Dorfstrasse",
+  "hn": "22",
+  "lat": 47.1940063,
+  "lng": 8.5243394,
+  "mieter": []
+ },
+ "baar|dorfstrasse|22a": {
+  "street": "Dorfstrasse",
+  "hn": "22a",
+  "lat": 47.1941698,
+  "lng": 8.5242205,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|19": {
+  "street": "Bahnhofstrasse",
+  "hn": "19",
+  "lat": 47.194384,
+  "lng": 8.5238067,
+  "mieter": []
+ },
+ "baar|dorfstrasse|17": {
+  "street": "Dorfstrasse",
+  "hn": "17",
+  "lat": 47.1939513,
+  "lng": 8.5249996,
+  "mieter": []
+ },
+ "baar|leihgasse|70": {
+  "street": "Leihgasse",
+  "hn": "70",
+  "lat": 47.1945275,
+  "lng": 8.5343118,
+  "mieter": []
+ },
+ "baar|leihgasse|42": {
+  "street": "Leihgasse",
+  "hn": "42",
+  "lat": 47.1944488,
+  "lng": 8.5335253,
+  "mieter": []
+ },
+ "baar|rathausstrasse|2": {
+  "street": "Rathausstrasse",
+  "hn": "2",
+  "lat": 47.194564,
+  "lng": 8.5265661,
+  "mieter": [
+   "Rathaus"
+  ]
+ },
+ "baar|leihgasse|4": {
+  "street": "Leihgasse",
+  "hn": "4",
+  "lat": 47.1941157,
+  "lng": 8.5271145,
+  "mieter": []
+ },
+ "baar|leihgasse|1": {
+  "street": "Leihgasse",
+  "hn": "1",
+  "lat": 47.1943751,
+  "lng": 8.5266033,
+  "mieter": []
+ },
+ "baar|dorfstrasse|5a": {
+  "street": "Dorfstrasse",
+  "hn": "5a",
+  "lat": 47.1941739,
+  "lng": 8.5259985,
+  "mieter": []
+ },
+ "baar|leihgasse|9": {
+  "street": "Leihgasse",
+  "hn": "9",
+  "lat": 47.1944045,
+  "lng": 8.5277816,
+  "mieter": []
+ },
+ "baar|leihgasse|28": {
+  "street": "Leihgasse",
+  "hn": "28",
+  "lat": 47.1942943,
+  "lng": 8.5306773,
+  "mieter": []
+ },
+ "baar|leihgasse|11b": {
+  "street": "Leihgasse",
+  "hn": "11b",
+  "lat": 47.1947939,
+  "lng": 8.528129,
+  "mieter": []
+ },
+ "baar|leihgasse|60": {
+  "street": "Leihgasse",
+  "hn": "60",
+  "lat": 47.1941472,
+  "lng": 8.5341862,
+  "mieter": []
+ },
+ "baar|leihgasse|11a": {
+  "street": "Leihgasse",
+  "hn": "11a",
+  "lat": 47.1949788,
+  "lng": 8.5281442,
+  "mieter": []
+ },
+ "baar|marktgasse|16": {
+  "street": "Marktgasse",
+  "hn": "16",
+  "lat": 47.1958038,
+  "lng": 8.5279129,
+  "mieter": []
+ },
+ "baar|marktgasse|12": {
+  "street": "Marktgasse",
+  "hn": "12",
+  "lat": 47.1956657,
+  "lng": 8.5274928,
+  "mieter": []
+ },
+ "baar|marktgasse|14": {
+  "street": "Marktgasse",
+  "hn": "14",
+  "lat": 47.1957484,
+  "lng": 8.5277102,
+  "mieter": []
+ },
+ "baar|leihgasse|43": {
+  "street": "Leihgasse",
+  "hn": "43",
+  "lat": 47.1948034,
+  "lng": 8.5335704,
+  "mieter": []
+ },
+ "baar|leihgasse|45": {
+  "street": "Leihgasse",
+  "hn": "45",
+  "lat": 47.1947709,
+  "lng": 8.5340261,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 47.1945597,
+  "lng": 8.5221549,
+  "mieter": [
+   "VIVIVA Martinspark"
+  ]
+ },
+ "baar|marktgasse|10": {
+  "street": "Marktgasse",
+  "hn": "10",
+  "lat": 47.1952056,
+  "lng": 8.5275794,
+  "mieter": []
+ },
+ "baar|leihgasse|47": {
+  "street": "Leihgasse",
+  "hn": "47",
+  "lat": 47.1948192,
+  "lng": 8.534015,
+  "mieter": []
+ },
+ "baar|leihgasse|49": {
+  "street": "Leihgasse",
+  "hn": "49",
+  "lat": 47.1948675,
+  "lng": 8.5340039,
+  "mieter": []
+ },
+ "baar|leihgasse|51": {
+  "street": "Leihgasse",
+  "hn": "51",
+  "lat": 47.1949195,
+  "lng": 8.5339918,
+  "mieter": []
+ },
+ "baar|rathausstrasse|2.1": {
+  "street": "Rathausstrasse",
+  "hn": "2.1",
+  "lat": 47.1946863,
+  "lng": 8.5269284,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 47.1954072,
+  "lng": 8.5254777,
+  "mieter": []
+ },
+ "baar|rathausstrasse|9a": {
+  "street": "Rathausstrasse",
+  "hn": "9a",
+  "lat": 47.1950397,
+  "lng": 8.5253911,
+  "mieter": []
+ },
+ "baar|rathausstrasse|5": {
+  "street": "Rathausstrasse",
+  "hn": "5",
+  "lat": 47.1950626,
+  "lng": 8.5259285,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 47.1944584,
+  "lng": 8.521116,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|8b": {
+  "street": "Bahnhofstrasse",
+  "hn": "8b",
+  "lat": 47.1948188,
+  "lng": 8.5219955,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|21a": {
+  "street": "Bahnhofstrasse",
+  "hn": "21a",
+  "lat": 47.1942884,
+  "lng": 8.524127,
+  "mieter": []
+ },
+ "baar|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 47.1953216,
+  "lng": 8.5232473,
+  "mieter": []
+ },
+ "baar|leihgasse|6a": {
+  "street": "Leihgasse",
+  "hn": "6a",
+  "lat": 47.1940732,
+  "lng": 8.5273762,
+  "mieter": []
+ },
+ "baar|leihgasse|16b": {
+  "street": "Leihgasse",
+  "hn": "16b",
+  "lat": 47.1942685,
+  "lng": 8.5287867,
+  "mieter": []
+ },
+ "baar|marktgasse|19": {
+  "street": "Marktgasse",
+  "hn": "19",
+  "lat": 47.196279,
+  "lng": 8.5281883,
+  "mieter": []
+ },
+ "baar|marktgasse|7": {
+  "street": "Marktgasse",
+  "hn": "7",
+  "lat": 47.1960296,
+  "lng": 8.5275583,
+  "mieter": []
+ },
+ "baar|marktgasse|9": {
+  "street": "Marktgasse",
+  "hn": "9",
+  "lat": 47.1959178,
+  "lng": 8.5271967,
+  "mieter": []
+ },
+ "baar|marktgasse|5": {
+  "street": "Marktgasse",
+  "hn": "5",
+  "lat": 47.1956178,
+  "lng": 8.526522,
+  "mieter": []
+ },
+ "baar|leihgasse|30": {
+  "street": "Leihgasse",
+  "hn": "30",
+  "lat": 47.1942885,
+  "lng": 8.5310425,
+  "mieter": []
+ },
+ "baar|dorfstrasse|8a": {
+  "street": "Dorfstrasse",
+  "hn": "8a",
+  "lat": 47.1945007,
+  "lng": 8.5252931,
+  "mieter": []
+ },
+ "baar|dorfstrasse|10a": {
+  "street": "Dorfstrasse",
+  "hn": "10a",
+  "lat": 47.1945139,
+  "lng": 8.5250391,
+  "mieter": []
+ },
+ "baar|dorfstrasse|12a": {
+  "street": "Dorfstrasse",
+  "hn": "12a",
+  "lat": 47.1944319,
+  "lng": 8.5249032,
+  "mieter": []
+ },
+ "baar|dorfstrasse|9a": {
+  "street": "Dorfstrasse",
+  "hn": "9a",
+  "lat": 47.1940248,
+  "lng": 8.5256133,
+  "mieter": []
+ },
+ "baar|dorfstrasse|9": {
+  "street": "Dorfstrasse",
+  "hn": "9",
+  "lat": 47.1941614,
+  "lng": 8.5255406,
+  "mieter": []
+ },
+ "baar|dorfstrasse|29a": {
+  "street": "Dorfstrasse",
+  "hn": "29a",
+  "lat": 47.1934504,
+  "lng": 8.5240415,
+  "mieter": []
+ },
+ "baar|leihgasse|84": {
+  "street": "Leihgasse",
+  "hn": "84",
+  "lat": 47.1945765,
+  "lng": 8.5348087,
+  "mieter": []
+ },
+ "baar|leihgasse|82": {
+  "street": "Leihgasse",
+  "hn": "82",
+  "lat": 47.1945696,
+  "lng": 8.5347377,
+  "mieter": []
+ },
+ "baar|leihgasse|80": {
+  "street": "Leihgasse",
+  "hn": "80",
+  "lat": 47.1945626,
+  "lng": 8.5346668,
+  "mieter": []
+ },
+ "baar|leihgasse|78": {
+  "street": "Leihgasse",
+  "hn": "78",
+  "lat": 47.1945556,
+  "lng": 8.5345958,
+  "mieter": []
+ },
+ "baar|leihgasse|76": {
+  "street": "Leihgasse",
+  "hn": "76",
+  "lat": 47.1945486,
+  "lng": 8.5345248,
+  "mieter": []
+ },
+ "baar|leihgasse|74": {
+  "street": "Leihgasse",
+  "hn": "74",
+  "lat": 47.1945415,
+  "lng": 8.5344538,
+  "mieter": []
+ },
+ "baar|leihgasse|72": {
+  "street": "Leihgasse",
+  "hn": "72",
+  "lat": 47.1945346,
+  "lng": 8.5343829,
+  "mieter": []
+ },
+ "baar|leihgasse|38": {
+  "street": "Leihgasse",
+  "hn": "38",
+  "lat": 47.1944619,
+  "lng": 8.5332353,
+  "mieter": []
+ },
+ "baar|leihgasse|40": {
+  "street": "Leihgasse",
+  "hn": "40",
+  "lat": 47.1944414,
+  "lng": 8.5334423,
+  "mieter": []
+ },
+ "baar|leihgasse|58": {
+  "street": "Leihgasse",
+  "hn": "58",
+  "lat": 47.1945044,
+  "lng": 8.5341223,
+  "mieter": []
+ },
+ "baar|leihgasse|56": {
+  "street": "Leihgasse",
+  "hn": "56",
+  "lat": 47.1944978,
+  "lng": 8.5340504,
+  "mieter": []
+ },
+ "baar|leihgasse|54": {
+  "street": "Leihgasse",
+  "hn": "54",
+  "lat": 47.1944911,
+  "lng": 8.5339786,
+  "mieter": []
+ },
+ "baar|leihgasse|52": {
+  "street": "Leihgasse",
+  "hn": "52",
+  "lat": 47.1944845,
+  "lng": 8.5339067,
+  "mieter": []
+ },
+ "baar|leihgasse|50": {
+  "street": "Leihgasse",
+  "hn": "50",
+  "lat": 47.1944778,
+  "lng": 8.5338349,
+  "mieter": []
+ },
+ "baar|leihgasse|48": {
+  "street": "Leihgasse",
+  "hn": "48",
+  "lat": 47.1944712,
+  "lng": 8.5337631,
+  "mieter": []
+ },
+ "baar|leihgasse|46": {
+  "street": "Leihgasse",
+  "hn": "46",
+  "lat": 47.1944647,
+  "lng": 8.5336913,
+  "mieter": []
+ },
+ "baar|leihgasse|44": {
+  "street": "Leihgasse",
+  "hn": "44",
+  "lat": 47.194458,
+  "lng": 8.5336139,
+  "mieter": []
+ },
+ "baar|leihgasse|15a": {
+  "street": "Leihgasse",
+  "hn": "15a",
+  "lat": 47.1945257,
+  "lng": 8.5287828,
+  "mieter": []
+ },
+ "baar|marktgasse|8": {
+  "street": "Marktgasse",
+  "hn": "8",
+  "lat": 47.1955107,
+  "lng": 8.5270029,
+  "mieter": []
+ },
+ "baar|leihgasse|41": {
+  "street": "Leihgasse",
+  "hn": "41",
+  "lat": 47.1947643,
+  "lng": 8.5333069,
+  "mieter": []
+ },
+ "baar|rathausstrasse|1": {
+  "street": "Rathausstrasse",
+  "hn": "1",
+  "lat": 47.194659,
+  "lng": 8.5260712,
+  "mieter": []
+ }
+}

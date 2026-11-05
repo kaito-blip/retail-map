@@ -1,0 +1,703 @@
+{
+ "uster|gerichtsstrasse|4": {
+  "street": "Gerichtsstrasse",
+  "hn": "4",
+  "lat": 47.3503359,
+  "lng": 8.7170557,
+  "mieter": [
+   "Post Uster",
+   "Audisana",
+   "Orell Füssli",
+   "Swisscom",
+   "Sunrise"
+  ]
+ },
+ "uster|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 47.3496482,
+  "lng": 8.7191572,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "uster|poststrasse|13": {
+  "street": "Poststrasse",
+  "hn": "13",
+  "lat": 47.3489562,
+  "lng": 8.7170431,
+  "mieter": [
+   "Suan Long"
+  ]
+ },
+ "uster|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 47.3495648,
+  "lng": 8.7195716,
+  "mieter": [
+   "Steiner"
+  ]
+ },
+ "uster|gerichtsstrasse|8": {
+  "street": "Gerichtsstrasse",
+  "hn": "8",
+  "lat": 47.3504332,
+  "lng": 8.7158483,
+  "mieter": [
+   "Tasty",
+   "Pfingstgemeinde Uster"
+  ]
+ },
+ "uster|poststrasse|4": {
+  "street": "Poststrasse",
+  "hn": "4",
+  "lat": 47.3500092,
+  "lng": 8.7181336,
+  "mieter": [
+   "Pöstli Da Mamma Lisetta"
+  ]
+ },
+ "uster|zentralstrasse|30": {
+  "street": "Zentralstrasse",
+  "hn": "30",
+  "lat": 47.3467541,
+  "lng": 8.7168181,
+  "mieter": [
+   "Frieden",
+   "Hölzli Bar"
+  ]
+ },
+ "uster|zentralstrasse|33": {
+  "street": "Zentralstrasse",
+  "hn": "33",
+  "lat": 47.3463554,
+  "lng": 8.7167614,
+  "mieter": [
+   "Ram Bistro & Shop GmbH"
+  ]
+ },
+ "uster|bahnhofstrasse|20": {
+  "street": "Bahnhofstrasse",
+  "hn": "20",
+  "lat": 47.348553,
+  "lng": 8.7180999,
+  "mieter": []
+ },
+ "uster|zentralstrasse|28": {
+  "street": "Zentralstrasse",
+  "hn": "28",
+  "lat": 47.3468325,
+  "lng": 8.7170969,
+  "mieter": [
+   "Arena"
+  ]
+ },
+ "uster|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 47.3486047,
+  "lng": 8.7181832,
+  "mieter": [
+   "Zum Hut"
+  ]
+ },
+ "uster|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 47.3486732,
+  "lng": 8.7182546,
+  "mieter": []
+ },
+ "uster|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 47.3490748,
+  "lng": 8.7186918,
+  "mieter": []
+ },
+ "uster|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 47.3491728,
+  "lng": 8.7188072,
+  "mieter": []
+ },
+ "uster|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 47.3491148,
+  "lng": 8.7187428,
+  "mieter": []
+ },
+ "uster|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.3487581,
+  "lng": 8.7183051,
+  "mieter": []
+ },
+ "uster|gerichtsstrasse|3": {
+  "street": "Gerichtsstrasse",
+  "hn": "3",
+  "lat": 47.3498748,
+  "lng": 8.7166227,
+  "mieter": [
+   "C&A",
+   "Gidor"
+  ]
+ },
+ "uster|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 47.3485096,
+  "lng": 8.7189843,
+  "mieter": [
+   "Stadtarchiv & Kläui Bibliothek",
+   "Sozialberatung",
+   "Fachstelle Kindheit, Jugend und Inklusion",
+   "Stadthaus"
+  ]
+ },
+ "uster|webernstrasse|3": {
+  "street": "Webernstrasse",
+  "hn": "3",
+  "lat": 47.3500993,
+  "lng": 8.7173134,
+  "mieter": [
+   "Zürcher Kantonalbank"
+  ]
+ },
+ "uster|webernstrasse|1": {
+  "street": "Webernstrasse",
+  "hn": "1",
+  "lat": 47.3502534,
+  "lng": 8.7174208,
+  "mieter": []
+ },
+ "uster|poststrasse|1": {
+  "street": "Poststrasse",
+  "hn": "1",
+  "lat": 47.3498396,
+  "lng": 8.7183219,
+  "mieter": [
+   "Müller"
+  ]
+ },
+ "uster|zentralstrasse|36": {
+  "street": "Zentralstrasse",
+  "hn": "36",
+  "lat": 47.3465184,
+  "lng": 8.7165949,
+  "mieter": [
+   "Kinderkrippe Mary Poppins"
+  ]
+ },
+ "uster|poststrasse|7a": {
+  "street": "Poststrasse",
+  "hn": "7A",
+  "lat": 47.3492836,
+  "lng": 8.717864,
+  "mieter": [
+   "Physiozentrum.ch",
+   "Bayard Co Ltd"
+  ]
+ },
+ "uster|poststrasse|7": {
+  "street": "Poststrasse",
+  "hn": "7",
+  "lat": 47.3494375,
+  "lng": 8.7176794,
+  "mieter": [
+   "Bayard Co Ltd"
+  ]
+ },
+ "uster|zentralstrasse|2": {
+  "street": "Zentralstrasse",
+  "hn": "2",
+  "lat": 47.347756,
+  "lng": 8.7179979,
+  "mieter": [
+   "Blaser’s"
+  ]
+ },
+ "uster|gerichtsstrasse|14a/b": {
+  "street": "Gerichtsstrasse",
+  "hn": "14a/b",
+  "lat": 47.3511968,
+  "lng": 8.7141582,
+  "mieter": [
+   "55 Grad Nord"
+  ]
+ },
+ "uster|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 47.349013,
+  "lng": 8.7185651,
+  "mieter": [
+   "Dr.med.dent. Christoph Renker"
+  ]
+ },
+ "uster|webernstrasse|1-3": {
+  "street": "Webernstrasse",
+  "hn": "1-3",
+  "lat": 47.3502094,
+  "lng": 8.7173664,
+  "mieter": [
+   "Steiner"
+  ]
+ },
+ "uster|poststrasse|9": {
+  "street": "Poststrasse",
+  "hn": "9",
+  "lat": 47.3493016,
+  "lng": 8.7174922,
+  "mieter": [
+   "McOptic"
+  ]
+ },
+ "uster|poststrasse|3": {
+  "street": "Poststrasse",
+  "hn": "3",
+  "lat": 47.349483,
+  "lng": 8.7182241,
+  "mieter": []
+ },
+ "uster|webernstrasse|5": {
+  "street": "Webernstrasse",
+  "hn": "5",
+  "lat": 47.3498967,
+  "lng": 8.7173216,
+  "mieter": [
+   "Tiefenbacher"
+  ]
+ },
+ "uster|gerichtsstrasse|5": {
+  "street": "Gerichtsstrasse",
+  "hn": "5",
+  "lat": 47.3498412,
+  "lng": 8.7167455,
+  "mieter": [
+   "Zebra",
+   "Chicorée",
+   "Goodent Zahnarztpraxis"
+  ]
+ },
+ "uster|gerichtsstrasse|14": {
+  "street": "Gerichtsstrasse",
+  "hn": "14",
+  "lat": 47.351136,
+  "lng": 8.7139052,
+  "mieter": [
+   "Avera",
+   "Regal 9"
+  ]
+ },
+ "uster|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 47.3491387,
+  "lng": 8.7190872,
+  "mieter": [
+   "PostFinance"
+  ]
+ },
+ "uster|zentralstrasse|5": {
+  "street": "Zentralstrasse",
+  "hn": "5",
+  "lat": 47.3475437,
+  "lng": 8.718313,
+  "mieter": [
+   "Töff-Bekleidung Swiss Uster GmbH"
+  ]
+ },
+ "uster|zentralstrasse|13": {
+  "street": "Zentralstrasse",
+  "hn": "13",
+  "lat": 47.3473893,
+  "lng": 8.7186385,
+  "mieter": []
+ },
+ "uster|zentralstrasse|11": {
+  "street": "Zentralstrasse",
+  "hn": "11",
+  "lat": 47.3474301,
+  "lng": 8.7186919,
+  "mieter": []
+ },
+ "uster|zentralstrasse|9": {
+  "street": "Zentralstrasse",
+  "hn": "9",
+  "lat": 47.3473645,
+  "lng": 8.7187462,
+  "mieter": []
+ },
+ "uster|zentralstrasse|1": {
+  "street": "Zentralstrasse",
+  "hn": "1",
+  "lat": 47.3478196,
+  "lng": 8.7183564,
+  "mieter": [
+   "Mode Suozzi"
+  ]
+ },
+ "uster|poststrasse|6": {
+  "street": "Poststrasse",
+  "hn": "6",
+  "lat": 47.3499261,
+  "lng": 8.7179488,
+  "mieter": [
+   "Tschopp Optik AG"
+  ]
+ },
+ "uster|gerichtsstrasse|14b": {
+  "street": "Gerichtsstrasse",
+  "hn": "14b",
+  "lat": 47.3511776,
+  "lng": 8.7142466,
+  "mieter": []
+ },
+ "uster|gerichtsstrasse|14a": {
+  "street": "Gerichtsstrasse",
+  "hn": "14a",
+  "lat": 47.3512494,
+  "lng": 8.714007,
+  "mieter": []
+ },
+ "uster|gerichtsstrasse|17": {
+  "street": "Gerichtsstrasse",
+  "hn": "17",
+  "lat": 47.3505383,
+  "lng": 8.7144807,
+  "mieter": [
+   "Bezirksgericht Uster"
+  ]
+ },
+ "uster|gerichtsstrasse|12": {
+  "street": "Gerichtsstrasse",
+  "hn": "12",
+  "lat": 47.3510183,
+  "lng": 8.7145314,
+  "mieter": []
+ },
+ "uster|gerichtsstrasse|6": {
+  "street": "Gerichtsstrasse",
+  "hn": "6",
+  "lat": 47.3502937,
+  "lng": 8.7163306,
+  "mieter": []
+ },
+ "uster|poststrasse|2": {
+  "street": "Poststrasse",
+  "hn": "2",
+  "lat": 47.3501707,
+  "lng": 8.7182008,
+  "mieter": []
+ },
+ "uster|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 47.3496408,
+  "lng": 8.7198018,
+  "mieter": []
+ },
+ "uster|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 47.3493482,
+  "lng": 8.7193531,
+  "mieter": []
+ },
+ "uster|poststrasse|10": {
+  "street": "Poststrasse",
+  "hn": "10",
+  "lat": 47.3498108,
+  "lng": 8.7175956,
+  "mieter": []
+ },
+ "uster|zentralstrasse|34": {
+  "street": "Zentralstrasse",
+  "hn": "34",
+  "lat": 47.3466543,
+  "lng": 8.716698,
+  "mieter": []
+ },
+ "uster|zentralstrasse|32": {
+  "street": "Zentralstrasse",
+  "hn": "32",
+  "lat": 47.3469234,
+  "lng": 8.7165856,
+  "mieter": []
+ },
+ "uster|zentralstrasse|32a": {
+  "street": "Zentralstrasse",
+  "hn": "32a",
+  "lat": 47.3471211,
+  "lng": 8.7163494,
+  "mieter": []
+ },
+ "uster|zentralstrasse|38": {
+  "street": "Zentralstrasse",
+  "hn": "38",
+  "lat": 47.3460921,
+  "lng": 8.7160949,
+  "mieter": []
+ },
+ "uster|zentralstrasse|40": {
+  "street": "Zentralstrasse",
+  "hn": "40",
+  "lat": 47.3458299,
+  "lng": 8.7159313,
+  "mieter": [
+   "Reformiertes Kirchgemeindehaus"
+  ]
+ },
+ "uster|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 47.3492452,
+  "lng": 8.7192476,
+  "mieter": []
+ },
+ "uster|poststrasse|12": {
+  "street": "Poststrasse",
+  "hn": "12",
+  "lat": 47.3495267,
+  "lng": 8.7173861,
+  "mieter": []
+ },
+ "uster|poststrasse|5": {
+  "street": "Poststrasse",
+  "hn": "5",
+  "lat": 47.3495556,
+  "lng": 8.7179081,
+  "mieter": []
+ },
+ "uster|zentralstrasse|25": {
+  "street": "Zentralstrasse",
+  "hn": "25",
+  "lat": 47.346627,
+  "lng": 8.7172008,
+  "mieter": []
+ },
+ "uster|zentralstrasse|37": {
+  "street": "Zentralstrasse",
+  "hn": "37",
+  "lat": 47.3461717,
+  "lng": 8.7167796,
+  "mieter": []
+ },
+ "uster|zentralstrasse|29": {
+  "street": "Zentralstrasse",
+  "hn": "29",
+  "lat": 47.3463907,
+  "lng": 8.7169381,
+  "mieter": []
+ },
+ "uster|zentralstrasse|23": {
+  "street": "Zentralstrasse",
+  "hn": "23",
+  "lat": 47.3466088,
+  "lng": 8.7175048,
+  "mieter": [
+   "Ochsen"
+  ]
+ },
+ "uster|zentralstrasse|39": {
+  "street": "Zentralstrasse",
+  "hn": "39",
+  "lat": 47.3461216,
+  "lng": 8.7165656,
+  "mieter": []
+ },
+ "uster|zentralstrasse|24": {
+  "street": "Zentralstrasse",
+  "hn": "24",
+  "lat": 47.3470288,
+  "lng": 8.7174364,
+  "mieter": []
+ },
+ "uster|zentralstrasse|26": {
+  "street": "Zentralstrasse",
+  "hn": "26",
+  "lat": 47.3469292,
+  "lng": 8.7173253,
+  "mieter": []
+ },
+ "uster|zentralstrasse|20": {
+  "street": "Zentralstrasse",
+  "hn": "20",
+  "lat": 47.3472189,
+  "lng": 8.7175548,
+  "mieter": []
+ },
+ "uster|zentralstrasse|14, 16": {
+  "street": "Zentralstrasse",
+  "hn": "14, 16",
+  "lat": 47.3472833,
+  "lng": 8.7172962,
+  "mieter": []
+ },
+ "uster|zentralstrasse|18": {
+  "street": "Zentralstrasse",
+  "hn": "18",
+  "lat": 47.3472902,
+  "lng": 8.7176169,
+  "mieter": []
+ },
+ "uster|zentralstrasse|2c": {
+  "street": "Zentralstrasse",
+  "hn": "2c",
+  "lat": 47.3477324,
+  "lng": 8.7172964,
+  "mieter": []
+ },
+ "uster|zentralstrasse|4": {
+  "street": "Zentralstrasse",
+  "hn": "4",
+  "lat": 47.3475402,
+  "lng": 8.7179004,
+  "mieter": []
+ },
+ "uster|zentralstrasse|2a": {
+  "street": "Zentralstrasse",
+  "hn": "2a",
+  "lat": 47.3477672,
+  "lng": 8.7177266,
+  "mieter": []
+ },
+ "uster|zentralstrasse|7": {
+  "street": "Zentralstrasse",
+  "hn": "7",
+  "lat": 47.34757,
+  "lng": 8.718682,
+  "mieter": []
+ },
+ "uster|zentralstrasse|3": {
+  "street": "Zentralstrasse",
+  "hn": "3",
+  "lat": 47.3477099,
+  "lng": 8.718292,
+  "mieter": []
+ },
+ "uster|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 47.3494425,
+  "lng": 8.7190202,
+  "mieter": []
+ },
+ "uster|gerichtsstrasse|1": {
+  "street": "Gerichtsstrasse",
+  "hn": "1",
+  "lat": 47.3496383,
+  "lng": 8.7171689,
+  "mieter": []
+ },
+ "uster|zentralstrasse|17a": {
+  "street": "Zentralstrasse",
+  "hn": "17a",
+  "lat": 47.3467636,
+  "lng": 8.7183059,
+  "mieter": []
+ },
+ "uster|zentralstrasse|15": {
+  "street": "Zentralstrasse",
+  "hn": "15",
+  "lat": 47.3470985,
+  "lng": 8.7181668,
+  "mieter": []
+ },
+ "uster|zentralstrasse|5a": {
+  "street": "Zentralstrasse",
+  "hn": "5a",
+  "lat": 47.3473836,
+  "lng": 8.7182658,
+  "mieter": []
+ },
+ "uster|zentralstrasse|19": {
+  "street": "Zentralstrasse",
+  "hn": "19",
+  "lat": 47.3468578,
+  "lng": 8.7177857,
+  "mieter": []
+ },
+ "uster|zentralstrasse|17": {
+  "street": "Zentralstrasse",
+  "hn": "17",
+  "lat": 47.3468788,
+  "lng": 8.7181718,
+  "mieter": []
+ },
+ "uster|gerichtsstrasse|10": {
+  "street": "Gerichtsstrasse",
+  "hn": "10",
+  "lat": 47.3508184,
+  "lng": 8.7152205,
+  "mieter": []
+ },
+ "uster|zentralstrasse|21": {
+  "street": "Zentralstrasse",
+  "hn": "21",
+  "lat": 47.3467611,
+  "lng": 8.7176782,
+  "mieter": []
+ },
+ "uster|zentralstrasse|10": {
+  "street": "Zentralstrasse",
+  "hn": "10",
+  "lat": 47.3474668,
+  "lng": 8.7174149,
+  "mieter": []
+ },
+ "uster|zentralstrasse|2b": {
+  "street": "Zentralstrasse",
+  "hn": "2b",
+  "lat": 47.3478096,
+  "lng": 8.7170245,
+  "mieter": []
+ },
+ "uster|zentralstrasse|12": {
+  "street": "Zentralstrasse",
+  "hn": "12",
+  "lat": 47.3474224,
+  "lng": 8.7171731,
+  "mieter": []
+ },
+ "uster|zentralstrasse|26a": {
+  "street": "Zentralstrasse",
+  "hn": "26a",
+  "lat": 47.3470826,
+  "lng": 8.7171715,
+  "mieter": []
+ },
+ "uster|zentralstrasse|8": {
+  "street": "Zentralstrasse",
+  "hn": "8",
+  "lat": 47.3474276,
+  "lng": 8.7178382,
+  "mieter": []
+ },
+ "uster|zentralstrasse|31": {
+  "street": "Zentralstrasse",
+  "hn": "31",
+  "lat": 47.3463882,
+  "lng": 8.71684,
+  "mieter": []
+ },
+ "uster|zentralstrasse|35": {
+  "street": "Zentralstrasse",
+  "hn": "35",
+  "lat": 47.3462729,
+  "lng": 8.7167701,
+  "mieter": []
+ },
+ "uster|zentralstrasse|27": {
+  "street": "Zentralstrasse",
+  "hn": "27",
+  "lat": 47.3464694,
+  "lng": 8.7169954,
+  "mieter": []
+ }
+}

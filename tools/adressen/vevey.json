@@ -1,0 +1,1124 @@
+{
+ "vevey|rue du théâtre|1": {
+  "street": "Rue du Théâtre",
+  "hn": "1",
+  "lat": 46.4606503,
+  "lng": 6.8427725,
+  "mieter": [
+   "Café Restaurant La Clef"
+  ]
+ },
+ "vevey|rue du théâtre|3": {
+  "street": "Rue du Théâtre",
+  "hn": "3",
+  "lat": 46.4608198,
+  "lng": 6.8429098,
+  "mieter": [
+   "BREW"
+  ]
+ },
+ "vevey|rue du simplon|45": {
+  "street": "Rue du Simplon",
+  "hn": "45",
+  "lat": 46.4612394,
+  "lng": 6.8434204,
+  "mieter": [
+   "Pizzeria Ristorante Molino"
+  ]
+ },
+ "vevey|rue de lausanne|23": {
+  "street": "Rue de Lausanne",
+  "hn": "23",
+  "lat": 46.4616422,
+  "lng": 6.8428857,
+  "mieter": [
+   "Le 23"
+  ]
+ },
+ "vevey|rue d'italie|24": {
+  "street": "Rue d'Italie",
+  "hn": "24",
+  "lat": 46.4582378,
+  "lng": 6.8508251,
+  "mieter": [
+   "Le Bout du Monde"
+  ]
+ },
+ "vevey|rue d'italie|58": {
+  "street": "Rue d'Italie",
+  "hn": "58",
+  "lat": 46.458714,
+  "lng": 6.8479598,
+  "mieter": [
+   "Pharmacies BENU SA",
+   "L'Age d'Or",
+   "Kiosque Michel Savoyen",
+   "NL Coiffure"
+  ]
+ },
+ "vevey|rue du lac|47": {
+  "street": "Rue du Lac",
+  "hn": "47",
+  "lat": 46.4588451,
+  "lng": 6.8432382,
+  "mieter": [
+   "La Fontaine"
+  ]
+ },
+ "vevey|rue du simplon|28": {
+  "street": "Rue du Simplon",
+  "hn": "28",
+  "lat": 46.4603251,
+  "lng": 6.8451542,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "vevey|rue d'italie|22": {
+  "street": "Rue d'Italie",
+  "hn": "22",
+  "lat": 46.4582056,
+  "lng": 6.8509254,
+  "mieter": [
+   "Théâtre de l'Oriental"
+  ]
+ },
+ "vevey|rue du simplon|1": {
+  "street": "Rue du Simplon",
+  "hn": "1",
+  "lat": 46.4593872,
+  "lng": 6.8459964,
+  "mieter": [
+   "Les Trois Sifflets"
+  ]
+ },
+ "vevey|rue du simplon|42": {
+  "street": "Rue du Simplon",
+  "hn": "42",
+  "lat": 46.4610012,
+  "lng": 6.8439355,
+  "mieter": [
+   "NailGi Onglerie",
+   "Le Caveau"
+  ]
+ },
+ "vevey|rue d'italie|29": {
+  "street": "Rue d'Italie",
+  "hn": "29",
+  "lat": 46.4580794,
+  "lng": 6.8500574,
+  "mieter": [
+   "Bokoloko"
+  ]
+ },
+ "vevey|rue du simplon|40": {
+  "street": "Rue du Simplon",
+  "hn": "40",
+  "lat": 46.4609169,
+  "lng": 6.844154,
+  "mieter": [
+   "ASLOCA Vevey – La Tour-de-Peilz"
+  ]
+ },
+ "vevey|rue du théâtre|5": {
+  "street": "Rue du Théâtre",
+  "hn": "5",
+  "lat": 46.4608917,
+  "lng": 6.8429294,
+  "mieter": [
+   "Ravann"
+  ]
+ },
+ "vevey|rue du simplon|35": {
+  "street": "Rue du Simplon",
+  "hn": "35",
+  "lat": 46.4607078,
+  "lng": 6.8440147,
+  "mieter": [
+   "Droguerie Jaquet"
+  ]
+ },
+ "vevey|rue du simplon|16": {
+  "street": "Rue du Simplon",
+  "hn": "16",
+  "lat": 46.4593819,
+  "lng": 6.8463583,
+  "mieter": [
+   "Vevey Bien"
+  ]
+ },
+ "vevey|rue du lac|5": {
+  "street": "Rue du Lac",
+  "hn": "5",
+  "lat": 46.4588018,
+  "lng": 6.8465561,
+  "mieter": [
+   "Le Rubis"
+  ]
+ },
+ "vevey|rue du simplon|33": {
+  "street": "Rue du Simplon",
+  "hn": "33",
+  "lat": 46.4606212,
+  "lng": 6.8441478,
+  "mieter": [
+   "Non-Stop"
+  ]
+ },
+ "vevey|rue d'italie|53": {
+  "street": "Rue d'Italie",
+  "hn": "53",
+  "lat": 46.4586372,
+  "lng": 6.847696,
+  "mieter": [
+   "Pummaro pizzas"
+  ]
+ },
+ "vevey|rue du lac|45": {
+  "street": "Rue du Lac",
+  "hn": "45",
+  "lat": 46.4587491,
+  "lng": 6.8433624,
+  "mieter": [
+   "La Brasserie du Carré"
+  ]
+ },
+ "vevey|rue du simplon|7": {
+  "street": "Rue du Simplon",
+  "hn": "7",
+  "lat": 46.4595596,
+  "lng": 6.8456742,
+  "mieter": [
+   "Swagat"
+  ]
+ },
+ "vevey|rue du théâtre|9": {
+  "street": "Rue du Théâtre",
+  "hn": "9",
+  "lat": 46.4611428,
+  "lng": 6.8430205,
+  "mieter": [
+   "Eleven Coffee"
+  ]
+ },
+ "vevey|rue du simplon|39": {
+  "street": "Rue du Simplon",
+  "hn": "39",
+  "lat": 46.4609906,
+  "lng": 6.8436628,
+  "mieter": [
+   "L'Annexe"
+  ]
+ },
+ "vevey|rue d'italie|60": {
+  "street": "Rue d'Italie",
+  "hn": "60",
+  "lat": 46.4588309,
+  "lng": 6.8475718,
+  "mieter": [
+   "Ateapic"
+  ]
+ },
+ "vevey|rue du simplon|2": {
+  "street": "Rue du Simplon",
+  "hn": "2",
+  "lat": 46.4590837,
+  "lng": 6.8470786,
+  "mieter": [
+   "VetPhalen"
+  ]
+ },
+ "vevey|rue du lac|51": {
+  "street": "Rue du Lac",
+  "hn": "51",
+  "lat": 46.4588337,
+  "lng": 6.8428592,
+  "mieter": [
+   "Terre & Eau"
+  ]
+ },
+ "vevey|rue du lac|39": {
+  "street": "Rue du Lac",
+  "hn": "39",
+  "lat": 46.4585577,
+  "lng": 6.8437776,
+  "mieter": [
+   "Manu Gelato"
+  ]
+ },
+ "vevey|rue du lac|16": {
+  "street": "Rue du Lac",
+  "hn": "16",
+  "lat": 46.4590159,
+  "lng": 6.8453741,
+  "mieter": [
+   "Parenthèse Enchantée"
+  ]
+ },
+ "vevey|rue du lac|35": {
+  "street": "Rue du Lac",
+  "hn": "35",
+  "lat": 46.4588811,
+  "lng": 6.8447406,
+  "mieter": [
+   "Kizuku"
+  ]
+ },
+ "vevey|rue du lac|18": {
+  "street": "Rue du Lac",
+  "hn": "18",
+  "lat": 46.4590092,
+  "lng": 6.8452418,
+  "mieter": [
+   "Le Goût du Voyage"
+  ]
+ },
+ "vevey|rue d'italie|7": {
+  "street": "Rue d'Italie",
+  "hn": "7",
+  "lat": 46.4579262,
+  "lng": 6.8514747,
+  "mieter": [
+   "TomSab Thai Restaurant"
+  ]
+ },
+ "vevey|rue d'italie|41": {
+  "street": "Rue d'Italie",
+  "hn": "41",
+  "lat": 46.4582438,
+  "lng": 6.8491787,
+  "mieter": [
+   "Le Dé"
+  ]
+ },
+ "vevey|rue d'italie|26": {
+  "street": "Rue d'Italie",
+  "hn": "26",
+  "lat": 46.4582973,
+  "lng": 6.8506048,
+  "mieter": [
+   "L'Imprudence"
+  ]
+ },
+ "vevey|rue d'italie|20": {
+  "street": "Rue d'Italie",
+  "hn": "20",
+  "lat": 46.4581815,
+  "lng": 6.8510259,
+  "mieter": []
+ },
+ "vevey|rue du lac|36": {
+  "street": "Rue du Lac",
+  "hn": "36",
+  "lat": 46.4590019,
+  "lng": 6.8433385,
+  "mieter": [
+   "Wark"
+  ]
+ },
+ "vevey|rue d'italie|49": {
+  "street": "Rue d'Italie",
+  "hn": "49",
+  "lat": 46.4584472,
+  "lng": 6.8478499,
+  "mieter": [
+   "KAISEKI BY MANABU"
+  ]
+ },
+ "vevey|rue d'italie|1": {
+  "street": "Rue d'Italie",
+  "hn": "1",
+  "lat": 46.4578065,
+  "lng": 6.8518435,
+  "mieter": [
+   "EMOTIONS by Guy Ravet"
+  ]
+ },
+ "vevey|rue du simplon|31": {
+  "street": "Rue du Simplon",
+  "hn": "31",
+  "lat": 46.4604757,
+  "lng": 6.8443437,
+  "mieter": [
+   "Pop-up store 31"
+  ]
+ },
+ "vevey|rue du simplon|3": {
+  "street": "Rue du Simplon",
+  "hn": "3",
+  "lat": 46.4592589,
+  "lng": 6.8459492,
+  "mieter": [
+   "Crazy-creations"
+  ]
+ },
+ "vevey|rue du théâtre|6": {
+  "street": "Rue du Théâtre",
+  "hn": "6",
+  "lat": 46.4607193,
+  "lng": 6.8430254,
+  "mieter": [
+   "Golay"
+  ]
+ },
+ "vevey|rue du lac|2": {
+  "street": "Rue du Lac",
+  "hn": "2",
+  "lat": 46.4589687,
+  "lng": 6.8468627,
+  "mieter": [
+   "Hôtel de Ville"
+  ]
+ },
+ "vevey|rue du lac|49": {
+  "street": "Rue du Lac",
+  "hn": "49",
+  "lat": 46.4587999,
+  "lng": 6.8430382,
+  "mieter": []
+ },
+ "vevey|rue d'italie|43": {
+  "street": "Rue d'Italie",
+  "hn": "43",
+  "lat": 46.4582466,
+  "lng": 6.8488985,
+  "mieter": []
+ },
+ "vevey|rue du simplon|4": {
+  "street": "Rue du Simplon",
+  "hn": "4",
+  "lat": 46.4592,
+  "lng": 6.8469411,
+  "mieter": []
+ },
+ "vevey|rue d'italie|56": {
+  "street": "Rue d'Italie",
+  "hn": "56",
+  "lat": 46.4586716,
+  "lng": 6.8485205,
+  "mieter": []
+ },
+ "vevey|rue d'italie|2": {
+  "street": "Rue d'Italie",
+  "hn": "2",
+  "lat": 46.4579277,
+  "lng": 6.8522703,
+  "mieter": []
+ },
+ "vevey|rue d'italie|6": {
+  "street": "Rue d'Italie",
+  "hn": "6",
+  "lat": 46.4580113,
+  "lng": 6.8521446,
+  "mieter": []
+ },
+ "vevey|rue d'italie|8": {
+  "street": "Rue d'Italie",
+  "hn": "8",
+  "lat": 46.4579827,
+  "lng": 6.8520473,
+  "mieter": []
+ },
+ "vevey|rue d'italie|10": {
+  "street": "Rue d'Italie",
+  "hn": "10",
+  "lat": 46.4580341,
+  "lng": 6.8518911,
+  "mieter": []
+ },
+ "vevey|rue d'italie|12": {
+  "street": "Rue d'Italie",
+  "hn": "12",
+  "lat": 46.4581055,
+  "lng": 6.8517567,
+  "mieter": []
+ },
+ "vevey|rue d'italie|14": {
+  "street": "Rue d'Italie",
+  "hn": "14",
+  "lat": 46.4581108,
+  "lng": 6.8516681,
+  "mieter": []
+ },
+ "vevey|rue d'italie|16": {
+  "street": "Rue d'Italie",
+  "hn": "16",
+  "lat": 46.4580934,
+  "lng": 6.8515396,
+  "mieter": []
+ },
+ "vevey|rue d'italie|18": {
+  "street": "Rue d'Italie",
+  "hn": "18",
+  "lat": 46.4581287,
+  "lng": 6.8513906,
+  "mieter": []
+ },
+ "vevey|rue du théâtre|8": {
+  "street": "Rue du Théâtre",
+  "hn": "8",
+  "lat": 46.4609203,
+  "lng": 6.8432351,
+  "mieter": []
+ },
+ "vevey|rue du lac|7": {
+  "street": "Rue du Lac",
+  "hn": "7",
+  "lat": 46.4587836,
+  "lng": 6.8465719,
+  "mieter": []
+ },
+ "vevey|rue du lac|10": {
+  "street": "Rue du Lac",
+  "hn": "10",
+  "lat": 46.4590737,
+  "lng": 6.8456474,
+  "mieter": []
+ },
+ "vevey|rue du lac|8": {
+  "street": "Rue du Lac",
+  "hn": "8",
+  "lat": 46.4590499,
+  "lng": 6.8457948,
+  "mieter": []
+ },
+ "vevey|rue du simplon|30": {
+  "street": "Rue du Simplon",
+  "hn": "30",
+  "lat": 46.4604753,
+  "lng": 6.8448913,
+  "mieter": []
+ },
+ "vevey|rue du simplon|22": {
+  "street": "Rue du Simplon",
+  "hn": "22",
+  "lat": 46.460131,
+  "lng": 6.8456469,
+  "mieter": []
+ },
+ "vevey|rue du simplon|34": {
+  "street": "Rue du Simplon",
+  "hn": "34",
+  "lat": 46.4605322,
+  "lng": 6.8446136,
+  "mieter": []
+ },
+ "vevey|rue d'italie|19": {
+  "street": "Rue d'Italie",
+  "hn": "19",
+  "lat": 46.4578541,
+  "lng": 6.8510576,
+  "mieter": []
+ },
+ "vevey|rue d'italie|17": {
+  "street": "Rue d'Italie",
+  "hn": "17",
+  "lat": 46.4579162,
+  "lng": 6.8511973,
+  "mieter": []
+ },
+ "vevey|rue d'italie|21": {
+  "street": "Rue d'Italie",
+  "hn": "21",
+  "lat": 46.4578788,
+  "lng": 6.8509345,
+  "mieter": []
+ },
+ "vevey|rue d'italie|13": {
+  "street": "Rue d'Italie",
+  "hn": "13",
+  "lat": 46.4578904,
+  "lng": 6.8513153,
+  "mieter": []
+ },
+ "vevey|rue du lac|37": {
+  "street": "Rue du Lac",
+  "hn": "37",
+  "lat": 46.4587985,
+  "lng": 6.8438428,
+  "mieter": []
+ },
+ "vevey|rue du lac|43": {
+  "street": "Rue du Lac",
+  "hn": "43",
+  "lat": 46.4587508,
+  "lng": 6.843541,
+  "mieter": []
+ },
+ "vevey|rue du lac|28": {
+  "street": "Rue du Lac",
+  "hn": "28",
+  "lat": 46.4589596,
+  "lng": 6.8440471,
+  "mieter": []
+ },
+ "vevey|rue du lac|28b": {
+  "street": "Rue du Lac",
+  "hn": "28b",
+  "lat": 46.4590001,
+  "lng": 6.8438343,
+  "mieter": []
+ },
+ "vevey|rue du lac|30": {
+  "street": "Rue du Lac",
+  "hn": "30",
+  "lat": 46.4590228,
+  "lng": 6.8437146,
+  "mieter": []
+ },
+ "vevey|rue du lac|32": {
+  "street": "Rue du Lac",
+  "hn": "32",
+  "lat": 46.4590202,
+  "lng": 6.8435347,
+  "mieter": []
+ },
+ "vevey|rue du lac|34": {
+  "street": "Rue du Lac",
+  "hn": "34",
+  "lat": 46.4589688,
+  "lng": 6.8434456,
+  "mieter": []
+ },
+ "vevey|rue du lac|41": {
+  "street": "Rue du Lac",
+  "hn": "41",
+  "lat": 46.4587945,
+  "lng": 6.8437117,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|10": {
+  "street": "Rue de Lausanne",
+  "hn": "10",
+  "lat": 46.4619472,
+  "lng": 6.8429642,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|12": {
+  "street": "Rue de Lausanne",
+  "hn": "12",
+  "lat": 46.4620892,
+  "lng": 6.8427499,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|14": {
+  "street": "Rue de Lausanne",
+  "hn": "14",
+  "lat": 46.4621911,
+  "lng": 6.8426149,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|6": {
+  "street": "Rue de Lausanne",
+  "hn": "6",
+  "lat": 46.461708,
+  "lng": 6.8433012,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|8": {
+  "street": "Rue de Lausanne",
+  "hn": "8",
+  "lat": 46.4618156,
+  "lng": 6.8431606,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|1": {
+  "street": "Rue de Lausanne",
+  "hn": "1",
+  "lat": 46.4608478,
+  "lng": 6.8424317,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|15": {
+  "street": "Rue de Lausanne",
+  "hn": "15",
+  "lat": 46.4612628,
+  "lng": 6.84274,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|17": {
+  "street": "Rue de Lausanne",
+  "hn": "17",
+  "lat": 46.4615055,
+  "lng": 6.8427958,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|19": {
+  "street": "Rue de Lausanne",
+  "hn": "19",
+  "lat": 46.4616324,
+  "lng": 6.8427941,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|25": {
+  "street": "Rue de Lausanne",
+  "hn": "25",
+  "lat": 46.4618083,
+  "lng": 6.8426974,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|29": {
+  "street": "Rue de Lausanne",
+  "hn": "29",
+  "lat": 46.4618768,
+  "lng": 6.8425936,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|3": {
+  "street": "Rue de Lausanne",
+  "hn": "3",
+  "lat": 46.4609436,
+  "lng": 6.8425168,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|31": {
+  "street": "Rue de Lausanne",
+  "hn": "31",
+  "lat": 46.4619732,
+  "lng": 6.842534,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|5": {
+  "street": "Rue de Lausanne",
+  "hn": "5",
+  "lat": 46.4610117,
+  "lng": 6.8425601,
+  "mieter": []
+ },
+ "vevey|rue de lausanne|7": {
+  "street": "Rue de Lausanne",
+  "hn": "7",
+  "lat": 46.4610808,
+  "lng": 6.8425769,
+  "mieter": []
+ },
+ "vevey|rue du théâtre|7": {
+  "street": "Rue du Théâtre",
+  "hn": "7",
+  "lat": 46.4609806,
+  "lng": 6.8429297,
+  "mieter": []
+ },
+ "vevey|rue du théâtre|2": {
+  "street": "Rue du Théâtre",
+  "hn": "2",
+  "lat": 46.4603195,
+  "lng": 6.8430586,
+  "mieter": []
+ },
+ "vevey|rue du théâtre|4": {
+  "street": "Rue du Théâtre",
+  "hn": "4",
+  "lat": 46.460512,
+  "lng": 6.843143,
+  "mieter": [
+   "Théâtre Le Reflet"
+  ]
+ },
+ "vevey|rue du théâtre|10": {
+  "street": "Rue du Théâtre",
+  "hn": "10",
+  "lat": 46.4611587,
+  "lng": 6.8431843,
+  "mieter": []
+ },
+ "vevey|rue du simplon|13": {
+  "street": "Rue du Simplon",
+  "hn": "13",
+  "lat": 46.459778,
+  "lng": 6.8452267,
+  "mieter": []
+ },
+ "vevey|rue du simplon|15": {
+  "street": "Rue du Simplon",
+  "hn": "15",
+  "lat": 46.4599219,
+  "lng": 6.8451902,
+  "mieter": []
+ },
+ "vevey|rue du simplon|17": {
+  "street": "Rue du Simplon",
+  "hn": "17",
+  "lat": 46.45996,
+  "lng": 6.8451286,
+  "mieter": []
+ },
+ "vevey|rue du simplon|21": {
+  "street": "Rue du Simplon",
+  "hn": "21",
+  "lat": 46.4600459,
+  "lng": 6.8449373,
+  "mieter": []
+ },
+ "vevey|rue du simplon|23": {
+  "street": "Rue du Simplon",
+  "hn": "23",
+  "lat": 46.4601635,
+  "lng": 6.8447224,
+  "mieter": []
+ },
+ "vevey|rue du simplon|25": {
+  "street": "Rue du Simplon",
+  "hn": "25",
+  "lat": 46.4602321,
+  "lng": 6.8445861,
+  "mieter": []
+ },
+ "vevey|rue du simplon|29": {
+  "street": "Rue du Simplon",
+  "hn": "29",
+  "lat": 46.46032,
+  "lng": 6.8444449,
+  "mieter": []
+ },
+ "vevey|rue du simplon|45bis": {
+  "street": "Rue du Simplon",
+  "hn": "45bis",
+  "lat": 46.4611588,
+  "lng": 6.8434202,
+  "mieter": []
+ },
+ "vevey|rue du lac|26": {
+  "street": "Rue du Lac",
+  "hn": "26",
+  "lat": 46.4590556,
+  "lng": 6.8450176,
+  "mieter": []
+ },
+ "vevey|rue du simplon|11": {
+  "street": "Rue du Simplon",
+  "hn": "11",
+  "lat": 46.4596501,
+  "lng": 6.845479,
+  "mieter": []
+ },
+ "vevey|rue du simplon|5": {
+  "street": "Rue du Simplon",
+  "hn": "5",
+  "lat": 46.4594521,
+  "lng": 6.8457267,
+  "mieter": []
+ },
+ "vevey|rue du simplon|9": {
+  "street": "Rue du Simplon",
+  "hn": "9",
+  "lat": 46.4595352,
+  "lng": 6.845536,
+  "mieter": []
+ },
+ "vevey|rue du lac|12": {
+  "street": "Rue du Lac",
+  "hn": "12",
+  "lat": 46.4590872,
+  "lng": 6.8455676,
+  "mieter": []
+ },
+ "vevey|rue du lac|14": {
+  "street": "Rue du Lac",
+  "hn": "14",
+  "lat": 46.4590449,
+  "lng": 6.8454577,
+  "mieter": []
+ },
+ "vevey|rue du lac|19": {
+  "street": "Rue du Lac",
+  "hn": "19",
+  "lat": 46.4588989,
+  "lng": 6.8455731,
+  "mieter": []
+ },
+ "vevey|rue du lac|20": {
+  "street": "Rue du Lac",
+  "hn": "20",
+  "lat": 46.459071,
+  "lng": 6.8451921,
+  "mieter": []
+ },
+ "vevey|rue du lac|21": {
+  "street": "Rue du Lac",
+  "hn": "21",
+  "lat": 46.4588699,
+  "lng": 6.8453945,
+  "mieter": []
+ },
+ "vevey|rue du lac|22": {
+  "street": "Rue du Lac",
+  "hn": "22",
+  "lat": 46.4590458,
+  "lng": 6.8451173,
+  "mieter": []
+ },
+ "vevey|rue du lac|23": {
+  "street": "Rue du Lac",
+  "hn": "23",
+  "lat": 46.4588722,
+  "lng": 6.8452504,
+  "mieter": []
+ },
+ "vevey|rue du lac|25": {
+  "street": "Rue du Lac",
+  "hn": "25",
+  "lat": 46.4586229,
+  "lng": 6.8451496,
+  "mieter": []
+ },
+ "vevey|rue du lac|27": {
+  "street": "Rue du Lac",
+  "hn": "27",
+  "lat": 46.4588066,
+  "lng": 6.8450654,
+  "mieter": []
+ },
+ "vevey|rue du lac|29": {
+  "street": "Rue du Lac",
+  "hn": "29",
+  "lat": 46.4588135,
+  "lng": 6.8449317,
+  "mieter": []
+ },
+ "vevey|rue du lac|33": {
+  "street": "Rue du Lac",
+  "hn": "33",
+  "lat": 46.4588391,
+  "lng": 6.8448109,
+  "mieter": []
+ },
+ "vevey|rue du lac|13": {
+  "street": "Rue du Lac",
+  "hn": "13",
+  "lat": 46.4588344,
+  "lng": 6.845907,
+  "mieter": []
+ },
+ "vevey|rue du lac|15": {
+  "street": "Rue du Lac",
+  "hn": "15",
+  "lat": 46.4588527,
+  "lng": 6.8460211,
+  "mieter": []
+ },
+ "vevey|rue du lac|3": {
+  "street": "Rue du Lac",
+  "hn": "3",
+  "lat": 46.4587336,
+  "lng": 6.8468785,
+  "mieter": []
+ },
+ "vevey|rue du lac|9": {
+  "street": "Rue du Lac",
+  "hn": "9",
+  "lat": 46.4587761,
+  "lng": 6.846337,
+  "mieter": []
+ },
+ "vevey|rue d'italie|44": {
+  "street": "Rue d'Italie",
+  "hn": "44",
+  "lat": 46.458517,
+  "lng": 6.8491567,
+  "mieter": []
+ },
+ "vevey|rue d'italie|23": {
+  "street": "Rue d'Italie",
+  "hn": "23",
+  "lat": 46.4578947,
+  "lng": 6.8508042,
+  "mieter": []
+ },
+ "vevey|rue d'italie|27": {
+  "street": "Rue d'Italie",
+  "hn": "27",
+  "lat": 46.4579954,
+  "lng": 6.8506435,
+  "mieter": []
+ },
+ "vevey|rue d'italie|25": {
+  "street": "Rue d'Italie",
+  "hn": "25",
+  "lat": 46.4579481,
+  "lng": 6.8507205,
+  "mieter": []
+ },
+ "vevey|rue d'italie|31": {
+  "street": "Rue d'Italie",
+  "hn": "31",
+  "lat": 46.4580323,
+  "lng": 6.8496248,
+  "mieter": []
+ },
+ "vevey|rue d'italie|39": {
+  "street": "Rue d'Italie",
+  "hn": "39",
+  "lat": 46.4581571,
+  "lng": 6.849259,
+  "mieter": []
+ },
+ "vevey|rue d'italie|37": {
+  "street": "Rue d'Italie",
+  "hn": "37",
+  "lat": 46.4580775,
+  "lng": 6.8493192,
+  "mieter": []
+ },
+ "vevey|rue d'italie|33": {
+  "street": "Rue d'Italie",
+  "hn": "33",
+  "lat": 46.4580762,
+  "lng": 6.8495055,
+  "mieter": []
+ },
+ "vevey|rue du simplon|38": {
+  "street": "Rue du Simplon",
+  "hn": "38",
+  "lat": 46.4608388,
+  "lng": 6.8444326,
+  "mieter": []
+ },
+ "vevey|rue du simplon|44": {
+  "street": "Rue du Simplon",
+  "hn": "44",
+  "lat": 46.4611404,
+  "lng": 6.8439793,
+  "mieter": []
+ },
+ "vevey|rue du simplon|46": {
+  "street": "Rue du Simplon",
+  "hn": "46",
+  "lat": 46.4612079,
+  "lng": 6.843912,
+  "mieter": []
+ },
+ "vevey|rue du simplon|48": {
+  "street": "Rue du Simplon",
+  "hn": "48",
+  "lat": 46.4612996,
+  "lng": 6.8438124,
+  "mieter": []
+ },
+ "vevey|rue du simplon|50": {
+  "street": "Rue du Simplon",
+  "hn": "50",
+  "lat": 46.461446,
+  "lng": 6.8436674,
+  "mieter": []
+ },
+ "vevey|rue du simplon|24": {
+  "street": "Rue du Simplon",
+  "hn": "24",
+  "lat": 46.4601329,
+  "lng": 6.8453185,
+  "mieter": []
+ },
+ "vevey|rue du simplon|14": {
+  "street": "Rue du Simplon",
+  "hn": "14",
+  "lat": 46.4593338,
+  "lng": 6.8465616,
+  "mieter": []
+ },
+ "vevey|rue du simplon|18": {
+  "street": "Rue du Simplon",
+  "hn": "18",
+  "lat": 46.4596546,
+  "lng": 6.8461001,
+  "mieter": []
+ },
+ "vevey|rue d'italie|30": {
+  "street": "Rue d'Italie",
+  "hn": "30",
+  "lat": 46.4583155,
+  "lng": 6.8497581,
+  "mieter": []
+ },
+ "vevey|rue d'italie|32": {
+  "street": "Rue d'Italie",
+  "hn": "32",
+  "lat": 46.4583353,
+  "lng": 6.8496679,
+  "mieter": []
+ },
+ "vevey|rue d'italie|34": {
+  "street": "Rue d'Italie",
+  "hn": "34",
+  "lat": 46.4583571,
+  "lng": 6.8495678,
+  "mieter": []
+ },
+ "vevey|rue d'italie|38": {
+  "street": "Rue d'Italie",
+  "hn": "38",
+  "lat": 46.4584011,
+  "lng": 6.8494842,
+  "mieter": []
+ },
+ "vevey|rue d'italie|40": {
+  "street": "Rue d'Italie",
+  "hn": "40",
+  "lat": 46.4584228,
+  "lng": 6.8493816,
+  "mieter": []
+ },
+ "vevey|rue d'italie|42": {
+  "street": "Rue d'Italie",
+  "hn": "42",
+  "lat": 46.4584442,
+  "lng": 6.8492737,
+  "mieter": []
+ },
+ "vevey|rue d'italie|46": {
+  "street": "Rue d'Italie",
+  "hn": "46",
+  "lat": 46.4585265,
+  "lng": 6.8489258,
+  "mieter": []
+ },
+ "vevey|rue d'italie|51": {
+  "street": "Rue d'Italie",
+  "hn": "51",
+  "lat": 46.4585196,
+  "lng": 6.847705,
+  "mieter": []
+ },
+ "vevey|rue d'italie|55": {
+  "street": "Rue d'Italie",
+  "hn": "55",
+  "lat": 46.4585669,
+  "lng": 6.8475594,
+  "mieter": []
+ },
+ "vevey|rue d'italie|57": {
+  "street": "Rue d'Italie",
+  "hn": "57",
+  "lat": 46.4585977,
+  "lng": 6.8474406,
+  "mieter": []
+ },
+ "vevey|rue d'italie|59": {
+  "street": "Rue d'Italie",
+  "hn": "59",
+  "lat": 46.4586144,
+  "lng": 6.8473197,
+  "mieter": []
+ },
+ "vevey|rue d'italie|61": {
+  "street": "Rue d'Italie",
+  "hn": "61",
+  "lat": 46.4586332,
+  "lng": 6.8472433,
+  "mieter": []
+ },
+ "vevey|rue d'italie|35": {
+  "street": "Rue d'Italie",
+  "hn": "35",
+  "lat": 46.4580887,
+  "lng": 6.8493933,
+  "mieter": []
+ },
+ "vevey|rue d'italie|20b": {
+  "street": "Rue d'Italie",
+  "hn": "20b",
+  "lat": 46.4583392,
+  "lng": 6.8512765,
+  "mieter": []
+ }
+}

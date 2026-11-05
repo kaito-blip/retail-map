@@ -1,0 +1,2324 @@
+{
+ "olten|baslerstrasse|211": {
+  "street": "Baslerstrasse",
+  "hn": "211",
+  "lat": 47.3630239,
+  "lng": 7.8952192,
+  "mieter": [
+   "Traube",
+   "Altersheim Oasis"
+  ]
+ },
+ "olten|ringstrasse|9": {
+  "street": "Ringstrasse",
+  "hn": "9",
+  "lat": 47.3518487,
+  "lng": 7.9015339,
+  "mieter": [
+   "KINOKONI"
+  ]
+ },
+ "olten|hauptgasse|6": {
+  "street": "Hauptgasse",
+  "hn": "6",
+  "lat": 47.349854,
+  "lng": 7.9043063,
+  "mieter": [
+   "Kalte Lust Olten"
+  ]
+ },
+ "olten|hauptgasse|34": {
+  "street": "Hauptgasse",
+  "hn": "34",
+  "lat": 47.3501755,
+  "lng": 7.90305,
+  "mieter": [
+   "Alja",
+   "Audika"
+  ]
+ },
+ "olten|hübelistrasse|15": {
+  "street": "Hübelistrasse",
+  "hn": "15",
+  "lat": 47.3506713,
+  "lng": 7.9004833,
+  "mieter": []
+ },
+ "olten|hauptgasse|28": {
+  "street": "Hauptgasse",
+  "hn": "28",
+  "lat": 47.3502026,
+  "lng": 7.903301,
+  "mieter": []
+ },
+ "olten|baslerstrasse|8": {
+  "street": "Baslerstrasse",
+  "hn": "8",
+  "lat": 47.357051,
+  "lng": 7.9010653,
+  "mieter": []
+ },
+ "olten|baslerstrasse|98": {
+  "street": "Baslerstrasse",
+  "hn": "98",
+  "lat": 47.3621807,
+  "lng": 7.8982048,
+  "mieter": []
+ },
+ "olten|kirchgasse|1": {
+  "street": "Kirchgasse",
+  "hn": "1",
+  "lat": 47.3498535,
+  "lng": 7.9023413,
+  "mieter": [
+   "McDonald's"
+  ]
+ },
+ "olten|baslerstrasse|10": {
+  "street": "Baslerstrasse",
+  "hn": "10",
+  "lat": 47.3505367,
+  "lng": 7.9028726,
+  "mieter": [
+   "Coop City",
+   "Christ",
+   "Import Parfumerie"
+  ]
+ },
+ "olten|hauptgasse|31": {
+  "street": "Hauptgasse",
+  "hn": "31",
+  "lat": 47.349885,
+  "lng": 7.9030836,
+  "mieter": [
+   "TUI"
+  ]
+ },
+ "olten|hauptgasse|25": {
+  "street": "Hauptgasse",
+  "hn": "25",
+  "lat": 47.3499036,
+  "lng": 7.9033859,
+  "mieter": [
+   "Fielmann"
+  ]
+ },
+ "olten|hauptgasse|4": {
+  "street": "Hauptgasse",
+  "hn": "4",
+  "lat": 47.3498328,
+  "lng": 7.9043811,
+  "mieter": [
+   "Marktecke"
+  ]
+ },
+ "olten|hauptgasse|18": {
+  "street": "Hauptgasse",
+  "hn": "18",
+  "lat": 47.3500418,
+  "lng": 7.9037618,
+  "mieter": [
+   "TopPharm"
+  ]
+ },
+ "olten|ringstrasse|15": {
+  "street": "Ringstrasse",
+  "hn": "15",
+  "lat": 47.3517383,
+  "lng": 7.9010686,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "olten|baslerstrasse|37": {
+  "street": "Baslerstrasse",
+  "hn": "37",
+  "lat": 47.3516684,
+  "lng": 7.9024406,
+  "mieter": [
+   "Praxis Dres.Hirt und Oberholzer"
+  ]
+ },
+ "olten|baslerstrasse|91": {
+  "street": "Baslerstrasse",
+  "hn": "91",
+  "lat": 47.3615316,
+  "lng": 7.8986801,
+  "mieter": []
+ },
+ "olten|baslerstrasse|134": {
+  "street": "Baslerstrasse",
+  "hn": "134",
+  "lat": 47.363728,
+  "lng": 7.8942438,
+  "mieter": [
+   "Rössli (Hong Huang)"
+  ]
+ },
+ "olten|ringstrasse|39": {
+  "street": "Ringstrasse",
+  "hn": "39",
+  "lat": 47.3508832,
+  "lng": 7.8995217,
+  "mieter": [
+   "Restaurant Salmen"
+  ]
+ },
+ "olten|baslerstrasse|123": {
+  "street": "Baslerstrasse",
+  "hn": "123",
+  "lat": 47.3617648,
+  "lng": 7.8984387,
+  "mieter": [
+   "k kiosk"
+  ]
+ },
+ "olten|ringstrasse|27": {
+  "street": "Ringstrasse",
+  "hn": "27",
+  "lat": 47.3512662,
+  "lng": 7.899936,
+  "mieter": [
+   "Kolping"
+  ]
+ },
+ "olten|baslerstrasse|116": {
+  "street": "Baslerstrasse",
+  "hn": "116",
+  "lat": 47.3627329,
+  "lng": 7.8966473,
+  "mieter": []
+ },
+ "olten|baslerstrasse|118": {
+  "street": "Baslerstrasse",
+  "hn": "118",
+  "lat": 47.3628426,
+  "lng": 7.8963848,
+  "mieter": []
+ },
+ "olten|baslerstrasse|12": {
+  "street": "Baslerstrasse",
+  "hn": "12",
+  "lat": 47.3572137,
+  "lng": 7.9010763,
+  "mieter": []
+ },
+ "olten|baslerstrasse|120": {
+  "street": "Baslerstrasse",
+  "hn": "120",
+  "lat": 47.3629551,
+  "lng": 7.8962074,
+  "mieter": []
+ },
+ "olten|kirchgasse|17": {
+  "street": "Kirchgasse",
+  "hn": "17",
+  "lat": 47.3496224,
+  "lng": 7.9013589,
+  "mieter": [
+   "Abbasso"
+  ]
+ },
+ "olten|baslerstrasse|32": {
+  "street": "Baslerstrasse",
+  "hn": "32",
+  "lat": 47.3512856,
+  "lng": 7.9028509,
+  "mieter": [
+   "WE",
+   "Die Mobiliar - Generalagentur Olten"
+  ]
+ },
+ "olten|baslerstrasse|30": {
+  "street": "Baslerstrasse",
+  "hn": "30",
+  "lat": 47.3508171,
+  "lng": 7.9028023,
+  "mieter": [
+   "Müller",
+   "Gidor"
+  ]
+ },
+ "olten|kirchgasse|12": {
+  "street": "Kirchgasse",
+  "hn": "12",
+  "lat": 47.3498207,
+  "lng": 7.9009932,
+  "mieter": [
+   "Café/Bar Gryffe"
+  ]
+ },
+ "olten|ringstrasse|54": {
+  "street": "Ringstrasse",
+  "hn": "54",
+  "lat": 47.3503784,
+  "lng": 7.8990717,
+  "mieter": []
+ },
+ "olten|ringstrasse|50": {
+  "street": "Ringstrasse",
+  "hn": "50",
+  "lat": 47.3504154,
+  "lng": 7.8990727,
+  "mieter": []
+ },
+ "olten|ringstrasse|44": {
+  "street": "Ringstrasse",
+  "hn": "44",
+  "lat": 47.3506756,
+  "lng": 7.8990832,
+  "mieter": []
+ },
+ "olten|ringstrasse|42": {
+  "street": "Ringstrasse",
+  "hn": "42",
+  "lat": 47.3507038,
+  "lng": 7.8990844,
+  "mieter": []
+ },
+ "olten|ringstrasse|41": {
+  "street": "Ringstrasse",
+  "hn": "41",
+  "lat": 47.3507995,
+  "lng": 7.8993788,
+  "mieter": []
+ },
+ "olten|ringstrasse|5": {
+  "street": "Ringstrasse",
+  "hn": "5",
+  "lat": 47.35189,
+  "lng": 7.901925,
+  "mieter": [
+   "Migros Bank"
+  ]
+ },
+ "olten|kirchgasse|9": {
+  "street": "Kirchgasse",
+  "hn": "9",
+  "lat": 47.3497655,
+  "lng": 7.9018132,
+  "mieter": [
+   "Cler"
+  ]
+ },
+ "olten|baslerstrasse|15": {
+  "street": "Baslerstrasse",
+  "hn": "15",
+  "lat": 47.3510949,
+  "lng": 7.9024667,
+  "mieter": [
+   "Ristorante Olivo"
+  ]
+ },
+ "olten|kirchgasse|29": {
+  "street": "Kirchgasse",
+  "hn": "29",
+  "lat": 47.3496693,
+  "lng": 7.9007376,
+  "mieter": [
+   "Helsana"
+  ]
+ },
+ "olten|hauptgasse|36": {
+  "street": "Hauptgasse",
+  "hn": "36",
+  "lat": 47.3500868,
+  "lng": 7.9027218,
+  "mieter": [
+   "Jack & Jones"
+  ]
+ },
+ "olten|hauptgasse|21": {
+  "street": "Hauptgasse",
+  "hn": "21",
+  "lat": 47.3499061,
+  "lng": 7.9036408,
+  "mieter": [
+   "Smokee"
+  ]
+ },
+ "olten|ringstrasse|45": {
+  "street": "Ringstrasse",
+  "hn": "45",
+  "lat": 47.350236,
+  "lng": 7.899368,
+  "mieter": [
+   "Hammer Brocki"
+  ]
+ },
+ "olten|baslerstrasse|72": {
+  "street": "Baslerstrasse",
+  "hn": "72",
+  "lat": 47.3530138,
+  "lng": 7.9026492,
+  "mieter": [
+   "Central Apotheke Olten"
+  ]
+ },
+ "olten|hübelistrasse|26": {
+  "street": "Hübelistrasse",
+  "hn": "26",
+  "lat": 47.3511941,
+  "lng": 7.9004805,
+  "mieter": [
+   "Cachet"
+  ]
+ },
+ "olten|baslerstrasse|5": {
+  "street": "Baslerstrasse",
+  "hn": "5",
+  "lat": 47.3509309,
+  "lng": 7.9024555,
+  "mieter": [
+   "Amplifon"
+  ]
+ },
+ "olten|hauptgasse|24": {
+  "street": "Hauptgasse",
+  "hn": "24",
+  "lat": 47.35005,
+  "lng": 7.9034464,
+  "mieter": [
+   "Trotter Optik"
+  ]
+ },
+ "olten|kirchgasse|11": {
+  "street": "Kirchgasse",
+  "hn": "11",
+  "lat": 47.3497183,
+  "lng": 7.9016738,
+  "mieter": [
+   "Für Margrit"
+  ]
+ },
+ "olten|hauptgasse|22": {
+  "street": "Hauptgasse",
+  "hn": "22",
+  "lat": 47.3500522,
+  "lng": 7.9035433,
+  "mieter": [
+   "Marionnaud"
+  ]
+ },
+ "olten|baslerstrasse|9": {
+  "street": "Baslerstrasse",
+  "hn": "9",
+  "lat": 47.3510148,
+  "lng": 7.9024679,
+  "mieter": [
+   "Phone Bazaar"
+  ]
+ },
+ "olten|hauptgasse|33": {
+  "street": "Hauptgasse",
+  "hn": "33",
+  "lat": 47.349865,
+  "lng": 7.9027838,
+  "mieter": [
+   "Beldona",
+   "Unia"
+  ]
+ },
+ "olten|kirchgasse|10": {
+  "street": "Kirchgasse",
+  "hn": "10",
+  "lat": 47.3499545,
+  "lng": 7.9014021,
+  "mieter": []
+ },
+ "olten|kirchgasse|8": {
+  "street": "Kirchgasse",
+  "hn": "8",
+  "lat": 47.3500082,
+  "lng": 7.9016508,
+  "mieter": []
+ },
+ "olten|baslerstrasse|85": {
+  "street": "Baslerstrasse",
+  "hn": "85",
+  "lat": 47.3613106,
+  "lng": 7.8992476,
+  "mieter": [
+   "Kurz"
+  ]
+ },
+ "olten|kirchgasse|25": {
+  "street": "Kirchgasse",
+  "hn": "25",
+  "lat": 47.3494732,
+  "lng": 7.9009926,
+  "mieter": [
+   "Hinterhof Olten"
+  ]
+ },
+ "olten|kirchgasse|4": {
+  "street": "Kirchgasse",
+  "hn": "4",
+  "lat": 47.3500282,
+  "lng": 7.9018224,
+  "mieter": [
+   "NOON Imbiss"
+  ]
+ },
+ "olten|ringstrasse|48": {
+  "street": "Ringstrasse",
+  "hn": "48",
+  "lat": 47.3505717,
+  "lng": 7.8990484,
+  "mieter": [
+   "Scarpe Diem"
+  ]
+ },
+ "olten|baslerstrasse|47/49": {
+  "street": "Baslerstrasse",
+  "hn": "47/49",
+  "lat": 47.3524854,
+  "lng": 7.9023678,
+  "mieter": []
+ },
+ "olten|ringstrasse|36": {
+  "street": "Ringstrasse",
+  "hn": "36",
+  "lat": 47.3511347,
+  "lng": 7.8982552,
+  "mieter": []
+ },
+ "olten|ringstrasse|38": {
+  "street": "Ringstrasse",
+  "hn": "38",
+  "lat": 47.3510253,
+  "lng": 7.8986819,
+  "mieter": []
+ },
+ "olten|ringstrasse|34": {
+  "street": "Ringstrasse",
+  "hn": "34",
+  "lat": 47.3512359,
+  "lng": 7.8984919,
+  "mieter": []
+ },
+ "olten|hübelistrasse|27": {
+  "street": "Hübelistrasse",
+  "hn": "27",
+  "lat": 47.3511261,
+  "lng": 7.9002556,
+  "mieter": []
+ },
+ "olten|hübelistrasse|25": {
+  "street": "Hübelistrasse",
+  "hn": "25",
+  "lat": 47.3510397,
+  "lng": 7.9002983,
+  "mieter": []
+ },
+ "olten|hübelistrasse|19": {
+  "street": "Hübelistrasse",
+  "hn": "19",
+  "lat": 47.350884,
+  "lng": 7.9003755,
+  "mieter": []
+ },
+ "olten|hübelistrasse|17": {
+  "street": "Hübelistrasse",
+  "hn": "17",
+  "lat": 47.3508504,
+  "lng": 7.9003922,
+  "mieter": []
+ },
+ "olten|hübelistrasse|5d": {
+  "street": "Hübelistrasse",
+  "hn": "5d",
+  "lat": 47.3502871,
+  "lng": 7.9001317,
+  "mieter": []
+ },
+ "olten|hübelistrasse|5c": {
+  "street": "Hübelistrasse",
+  "hn": "5c",
+  "lat": 47.3502892,
+  "lng": 7.9001667,
+  "mieter": []
+ },
+ "olten|hübelistrasse|5b": {
+  "street": "Hübelistrasse",
+  "hn": "5b",
+  "lat": 47.3502913,
+  "lng": 7.900208,
+  "mieter": []
+ },
+ "olten|hübelistrasse|5a": {
+  "street": "Hübelistrasse",
+  "hn": "5a",
+  "lat": 47.350293,
+  "lng": 7.9002419,
+  "mieter": []
+ },
+ "olten|hübelistrasse|5": {
+  "street": "Hübelistrasse",
+  "hn": "5",
+  "lat": 47.350295,
+  "lng": 7.9002816,
+  "mieter": []
+ },
+ "olten|baslerstrasse|1": {
+  "street": "Baslerstrasse",
+  "hn": "1",
+  "lat": 47.3507434,
+  "lng": 7.9023613,
+  "mieter": []
+ },
+ "olten|baslerstrasse|3": {
+  "street": "Baslerstrasse",
+  "hn": "3",
+  "lat": 47.3508346,
+  "lng": 7.9025246,
+  "mieter": []
+ },
+ "olten|baslerstrasse|44": {
+  "street": "Baslerstrasse",
+  "hn": "44",
+  "lat": 47.3515276,
+  "lng": 7.9027701,
+  "mieter": []
+ },
+ "olten|baslerstrasse|46": {
+  "street": "Baslerstrasse",
+  "hn": "46",
+  "lat": 47.3516541,
+  "lng": 7.9027598,
+  "mieter": []
+ },
+ "olten|baslerstrasse|27": {
+  "street": "Baslerstrasse",
+  "hn": "27",
+  "lat": 47.3514326,
+  "lng": 7.9025229,
+  "mieter": []
+ },
+ "olten|baslerstrasse|29": {
+  "street": "Baslerstrasse",
+  "hn": "29",
+  "lat": 47.3515115,
+  "lng": 7.9025218,
+  "mieter": []
+ },
+ "olten|hübelistrasse|28": {
+  "street": "Hübelistrasse",
+  "hn": "28",
+  "lat": 47.3513118,
+  "lng": 7.9004704,
+  "mieter": []
+ },
+ "olten|ringstrasse|17": {
+  "street": "Ringstrasse",
+  "hn": "17",
+  "lat": 47.3515775,
+  "lng": 7.9005727,
+  "mieter": []
+ },
+ "olten|ringstrasse|19": {
+  "street": "Ringstrasse",
+  "hn": "19",
+  "lat": 47.351567,
+  "lng": 7.9005515,
+  "mieter": []
+ },
+ "olten|ringstrasse|23": {
+  "street": "Ringstrasse",
+  "hn": "23",
+  "lat": 47.3515125,
+  "lng": 7.9004139,
+  "mieter": []
+ },
+ "olten|ringstrasse|14": {
+  "street": "Ringstrasse",
+  "hn": "14",
+  "lat": 47.3518217,
+  "lng": 7.9005048,
+  "mieter": []
+ },
+ "olten|ringstrasse|12": {
+  "street": "Ringstrasse",
+  "hn": "12",
+  "lat": 47.3518195,
+  "lng": 7.9006976,
+  "mieter": []
+ },
+ "olten|hauptgasse|10": {
+  "street": "Hauptgasse",
+  "hn": "10",
+  "lat": 47.3500546,
+  "lng": 7.9042728,
+  "mieter": []
+ },
+ "olten|hauptgasse|3": {
+  "street": "Hauptgasse",
+  "hn": "3",
+  "lat": 47.3496278,
+  "lng": 7.9044386,
+  "mieter": []
+ },
+ "olten|hauptgasse|17": {
+  "street": "Hauptgasse",
+  "hn": "17",
+  "lat": 47.3498969,
+  "lng": 7.9038616,
+  "mieter": []
+ },
+ "olten|hauptgasse|26": {
+  "street": "Hauptgasse",
+  "hn": "26",
+  "lat": 47.3500206,
+  "lng": 7.903393,
+  "mieter": []
+ },
+ "olten|ringstrasse|7": {
+  "street": "Ringstrasse",
+  "hn": "7",
+  "lat": 47.3519035,
+  "lng": 7.901727,
+  "mieter": [
+   "Haar Gallerie",
+   "Blessing’s Beauty Kosmetik-Nails"
+  ]
+ },
+ "olten|ringstrasse|8": {
+  "street": "Ringstrasse",
+  "hn": "8",
+  "lat": 47.3521265,
+  "lng": 7.901605,
+  "mieter": []
+ },
+ "olten|baslerstrasse|57": {
+  "street": "Baslerstrasse",
+  "hn": "57",
+  "lat": 47.3527991,
+  "lng": 7.90228,
+  "mieter": []
+ },
+ "olten|baslerstrasse|80": {
+  "street": "Baslerstrasse",
+  "hn": "80",
+  "lat": 47.3532393,
+  "lng": 7.9026041,
+  "mieter": []
+ },
+ "olten|baslerstrasse|76": {
+  "street": "Baslerstrasse",
+  "hn": "76",
+  "lat": 47.35316,
+  "lng": 7.9026117,
+  "mieter": []
+ },
+ "olten|baslerstrasse|61": {
+  "street": "Baslerstrasse",
+  "hn": "61",
+  "lat": 47.3530463,
+  "lng": 7.9022599,
+  "mieter": []
+ },
+ "olten|baslerstrasse|47": {
+  "street": "Baslerstrasse",
+  "hn": "47",
+  "lat": 47.3523934,
+  "lng": 7.9024439,
+  "mieter": []
+ },
+ "olten|baslerstrasse|84": {
+  "street": "Baslerstrasse",
+  "hn": "84",
+  "lat": 47.3532881,
+  "lng": 7.9031788,
+  "mieter": []
+ },
+ "olten|baslerstrasse|122": {
+  "street": "Baslerstrasse",
+  "hn": "122",
+  "lat": 47.3551664,
+  "lng": 7.9019876,
+  "mieter": []
+ },
+ "olten|baslerstrasse|90": {
+  "street": "Baslerstrasse",
+  "hn": "90",
+  "lat": 47.3537491,
+  "lng": 7.9025655,
+  "mieter": []
+ },
+ "olten|baslerstrasse|6": {
+  "street": "Baslerstrasse",
+  "hn": "6",
+  "lat": 47.356984,
+  "lng": 7.9010854,
+  "mieter": []
+ },
+ "olten|baslerstrasse|4": {
+  "street": "Baslerstrasse",
+  "hn": "4",
+  "lat": 47.356917,
+  "lng": 7.9011071,
+  "mieter": []
+ },
+ "olten|baslerstrasse|136": {
+  "street": "Baslerstrasse",
+  "hn": "136",
+  "lat": 47.355674,
+  "lng": 7.9019355,
+  "mieter": []
+ },
+ "olten|baslerstrasse|138": {
+  "street": "Baslerstrasse",
+  "hn": "138",
+  "lat": 47.3557264,
+  "lng": 7.9019815,
+  "mieter": []
+ },
+ "olten|baslerstrasse|97": {
+  "street": "Baslerstrasse",
+  "hn": "97",
+  "lat": 47.3563545,
+  "lng": 7.9009893,
+  "mieter": []
+ },
+ "olten|baslerstrasse|95": {
+  "street": "Baslerstrasse",
+  "hn": "95",
+  "lat": 47.3561944,
+  "lng": 7.9010585,
+  "mieter": []
+ },
+ "olten|ringstrasse|22": {
+  "street": "Ringstrasse",
+  "hn": "22",
+  "lat": 47.3515971,
+  "lng": 7.8998893,
+  "mieter": []
+ },
+ "olten|ringstrasse|24": {
+  "street": "Ringstrasse",
+  "hn": "24",
+  "lat": 47.3515546,
+  "lng": 7.8997542,
+  "mieter": []
+ },
+ "olten|ringstrasse|20": {
+  "street": "Ringstrasse",
+  "hn": "20",
+  "lat": 47.3516359,
+  "lng": 7.900129,
+  "mieter": []
+ },
+ "olten|hauptgasse|8": {
+  "street": "Hauptgasse",
+  "hn": "8",
+  "lat": 47.3499834,
+  "lng": 7.9042073,
+  "mieter": []
+ },
+ "olten|baslerstrasse|30a": {
+  "street": "Baslerstrasse",
+  "hn": "30a",
+  "lat": 47.3509697,
+  "lng": 7.9027793,
+  "mieter": []
+ },
+ "olten|baslerstrasse|73": {
+  "street": "Baslerstrasse",
+  "hn": "73",
+  "lat": 47.3546766,
+  "lng": 7.901634,
+  "mieter": []
+ },
+ "olten|baslerstrasse|64": {
+  "street": "Baslerstrasse",
+  "hn": "64",
+  "lat": 47.3526039,
+  "lng": 7.902729,
+  "mieter": []
+ },
+ "olten|ringstrasse|3a": {
+  "street": "Ringstrasse",
+  "hn": "3a",
+  "lat": 47.3516201,
+  "lng": 7.9018932,
+  "mieter": []
+ },
+ "olten|hauptgasse|2a": {
+  "street": "Hauptgasse",
+  "hn": "2a",
+  "lat": 47.3496621,
+  "lng": 7.9045669,
+  "mieter": []
+ },
+ "olten|baslerstrasse|42": {
+  "street": "Baslerstrasse",
+  "hn": "42",
+  "lat": 47.3590115,
+  "lng": 7.901013,
+  "mieter": []
+ },
+ "olten|baslerstrasse|38": {
+  "street": "Baslerstrasse",
+  "hn": "38",
+  "lat": 47.3587346,
+  "lng": 7.90101,
+  "mieter": []
+ },
+ "olten|baslerstrasse|259": {
+  "street": "Baslerstrasse",
+  "hn": "259",
+  "lat": 47.363792,
+  "lng": 7.8915899,
+  "mieter": []
+ },
+ "olten|baslerstrasse|238a": {
+  "street": "Baslerstrasse",
+  "hn": "238a",
+  "lat": 47.3664729,
+  "lng": 7.8860606,
+  "mieter": []
+ },
+ "olten|baslerstrasse|40": {
+  "street": "Baslerstrasse",
+  "hn": "40",
+  "lat": 47.3588472,
+  "lng": 7.9010097,
+  "mieter": []
+ },
+ "olten|baslerstrasse|259a": {
+  "street": "Baslerstrasse",
+  "hn": "259a",
+  "lat": 47.3637487,
+  "lng": 7.8915631,
+  "mieter": []
+ },
+ "olten|hübelistrasse|30": {
+  "street": "Hübelistrasse",
+  "hn": "30",
+  "lat": 47.3514091,
+  "lng": 7.9006277,
+  "mieter": []
+ },
+ "olten|ringstrasse|3": {
+  "street": "Ringstrasse",
+  "hn": "3",
+  "lat": 47.3519041,
+  "lng": 7.9021167,
+  "mieter": [
+   "Hozan Barbershop"
+  ]
+ },
+ "olten|baslerstrasse|78": {
+  "street": "Baslerstrasse",
+  "hn": "78",
+  "lat": 47.3614149,
+  "lng": 7.89963,
+  "mieter": []
+ },
+ "olten|baslerstrasse|96": {
+  "street": "Baslerstrasse",
+  "hn": "96",
+  "lat": 47.3618691,
+  "lng": 7.8991862,
+  "mieter": []
+ },
+ "olten|baslerstrasse|92": {
+  "street": "Baslerstrasse",
+  "hn": "92",
+  "lat": 47.3616519,
+  "lng": 7.8996201,
+  "mieter": []
+ },
+ "olten|baslerstrasse|177": {
+  "street": "Baslerstrasse",
+  "hn": "177",
+  "lat": 47.3622524,
+  "lng": 7.8968841,
+  "mieter": []
+ },
+ "olten|baslerstrasse|173": {
+  "street": "Baslerstrasse",
+  "hn": "173",
+  "lat": 47.3622388,
+  "lng": 7.8969197,
+  "mieter": []
+ },
+ "olten|ringstrasse|6a": {
+  "street": "Ringstrasse",
+  "hn": "6a",
+  "lat": 47.3523711,
+  "lng": 7.9017133,
+  "mieter": []
+ },
+ "olten|hübelistrasse|8": {
+  "street": "Hübelistrasse",
+  "hn": "8",
+  "lat": 47.350202,
+  "lng": 7.9008677,
+  "mieter": []
+ },
+ "olten|ringstrasse|52": {
+  "street": "Ringstrasse",
+  "hn": "52",
+  "lat": 47.3504379,
+  "lng": 7.8987736,
+  "mieter": []
+ },
+ "olten|hauptgasse|7": {
+  "street": "Hauptgasse",
+  "hn": "7",
+  "lat": 47.3497367,
+  "lng": 7.9042223,
+  "mieter": []
+ },
+ "olten|ringstrasse|1": {
+  "street": "Ringstrasse",
+  "hn": "1",
+  "lat": 47.3518604,
+  "lng": 7.9023509,
+  "mieter": []
+ },
+ "olten|kirchgasse|15": {
+  "street": "Kirchgasse",
+  "hn": "15",
+  "lat": 47.3496104,
+  "lng": 7.9015438,
+  "mieter": []
+ },
+ "olten|ringstrasse|4": {
+  "street": "Ringstrasse",
+  "hn": "4",
+  "lat": 47.3521597,
+  "lng": 7.9019008,
+  "mieter": []
+ },
+ "olten|baslerstrasse|140": {
+  "street": "Baslerstrasse",
+  "hn": "140",
+  "lat": 47.3559352,
+  "lng": 7.9016499,
+  "mieter": []
+ },
+ "olten|kirchgasse|20": {
+  "street": "Kirchgasse",
+  "hn": "20",
+  "lat": 47.3499679,
+  "lng": 7.9008609,
+  "mieter": []
+ },
+ "olten|baslerstrasse|2": {
+  "street": "Baslerstrasse",
+  "hn": "2",
+  "lat": 47.350235,
+  "lng": 7.9028111,
+  "mieter": []
+ },
+ "olten|ringstrasse|28": {
+  "street": "Ringstrasse",
+  "hn": "28",
+  "lat": 47.3514318,
+  "lng": 7.8995658,
+  "mieter": []
+ },
+ "olten|baslerstrasse|66": {
+  "street": "Baslerstrasse",
+  "hn": "66",
+  "lat": 47.3527224,
+  "lng": 7.9028323,
+  "mieter": []
+ },
+ "olten|baslerstrasse|100": {
+  "street": "Baslerstrasse",
+  "hn": "100",
+  "lat": 47.3542203,
+  "lng": 7.9027019,
+  "mieter": []
+ },
+ "olten|kirchgasse|2": {
+  "street": "Kirchgasse",
+  "hn": "2",
+  "lat": 47.3503803,
+  "lng": 7.9022187,
+  "mieter": [
+   "Stadtkirche"
+  ]
+ },
+ "olten|baslerstrasse|79": {
+  "street": "Baslerstrasse",
+  "hn": "79",
+  "lat": 47.355176,
+  "lng": 7.9015641,
+  "mieter": []
+ },
+ "olten|ringstrasse|37": {
+  "street": "Ringstrasse",
+  "hn": "37",
+  "lat": 47.3510146,
+  "lng": 7.8995676,
+  "mieter": []
+ },
+ "olten|hauptgasse|14": {
+  "street": "Hauptgasse",
+  "hn": "14",
+  "lat": 47.3500677,
+  "lng": 7.9039962,
+  "mieter": []
+ },
+ "olten|baslerstrasse|60": {
+  "street": "Baslerstrasse",
+  "hn": "60",
+  "lat": 47.3524336,
+  "lng": 7.9028186,
+  "mieter": []
+ },
+ "olten|baslerstrasse|25": {
+  "street": "Baslerstrasse",
+  "hn": "25",
+  "lat": 47.3513729,
+  "lng": 7.9024034,
+  "mieter": []
+ },
+ "olten|ringstrasse|28a": {
+  "street": "Ringstrasse",
+  "hn": "28a",
+  "lat": 47.3516221,
+  "lng": 7.8993499,
+  "mieter": []
+ },
+ "olten|hauptgasse|9": {
+  "street": "Hauptgasse",
+  "hn": "9",
+  "lat": 47.3496546,
+  "lng": 7.9041562,
+  "mieter": []
+ },
+ "olten|ringstrasse|20a": {
+  "street": "Ringstrasse",
+  "hn": "20a",
+  "lat": 47.3517921,
+  "lng": 7.8999545,
+  "mieter": []
+ },
+ "olten|kirchgasse|3": {
+  "street": "Kirchgasse",
+  "hn": "3",
+  "lat": 47.3497844,
+  "lng": 7.9021565,
+  "mieter": []
+ },
+ "olten|ringstrasse|6": {
+  "street": "Ringstrasse",
+  "hn": "6",
+  "lat": 47.3522008,
+  "lng": 7.9017272,
+  "mieter": []
+ },
+ "olten|kirchgasse|14": {
+  "street": "Kirchgasse",
+  "hn": "14",
+  "lat": 47.349942,
+  "lng": 7.9009914,
+  "mieter": []
+ },
+ "olten|hauptgasse|30": {
+  "street": "Hauptgasse",
+  "hn": "30",
+  "lat": 47.3500918,
+  "lng": 7.9031702,
+  "mieter": []
+ },
+ "olten|baslerstrasse|21": {
+  "street": "Baslerstrasse",
+  "hn": "21",
+  "lat": 47.3512601,
+  "lng": 7.9023701,
+  "mieter": []
+ },
+ "olten|hübelistrasse|4": {
+  "street": "Hübelistrasse",
+  "hn": "4",
+  "lat": 47.3500715,
+  "lng": 7.900728,
+  "mieter": []
+ },
+ "olten|kirchgasse|22": {
+  "street": "Kirchgasse",
+  "hn": "22",
+  "lat": 47.349868,
+  "lng": 7.9007394,
+  "mieter": []
+ },
+ "olten|hauptgasse|12": {
+  "street": "Hauptgasse",
+  "hn": "12",
+  "lat": 47.3500571,
+  "lng": 7.9041046,
+  "mieter": [
+   "Stadtbibliothek"
+  ]
+ },
+ "olten|baslerstrasse|23": {
+  "street": "Baslerstrasse",
+  "hn": "23",
+  "lat": 47.3513246,
+  "lng": 7.9023749,
+  "mieter": []
+ },
+ "olten|ringstrasse|33": {
+  "street": "Ringstrasse",
+  "hn": "33",
+  "lat": 47.3511121,
+  "lng": 7.8996277,
+  "mieter": []
+ },
+ "olten|baslerstrasse|93": {
+  "street": "Baslerstrasse",
+  "hn": "93",
+  "lat": 47.3557468,
+  "lng": 7.901075,
+  "mieter": []
+ },
+ "olten|hübelistrasse|6": {
+  "street": "Hübelistrasse",
+  "hn": "6",
+  "lat": 47.3503151,
+  "lng": 7.9007668,
+  "mieter": []
+ },
+ "olten|ringstrasse|26": {
+  "street": "Ringstrasse",
+  "hn": "26",
+  "lat": 47.351559,
+  "lng": 7.8996216,
+  "mieter": []
+ },
+ "olten|ringstrasse|40": {
+  "street": "Ringstrasse",
+  "hn": "40",
+  "lat": 47.3508523,
+  "lng": 7.8989627,
+  "mieter": []
+ },
+ "olten|ringstrasse|30": {
+  "street": "Ringstrasse",
+  "hn": "30",
+  "lat": 47.3513973,
+  "lng": 7.8992261,
+  "mieter": []
+ },
+ "olten|baslerstrasse|21a": {
+  "street": "Baslerstrasse",
+  "hn": "21a",
+  "lat": 47.3513184,
+  "lng": 7.9020789,
+  "mieter": []
+ },
+ "olten|hauptgasse|5": {
+  "street": "Hauptgasse",
+  "hn": "5",
+  "lat": 47.3495512,
+  "lng": 7.9042085,
+  "mieter": []
+ },
+ "olten|ringstrasse|31": {
+  "street": "Ringstrasse",
+  "hn": "31",
+  "lat": 47.3511977,
+  "lng": 7.8998177,
+  "mieter": []
+ },
+ "olten|hübelistrasse|7": {
+  "street": "Hübelistrasse",
+  "hn": "7",
+  "lat": 47.3503408,
+  "lng": 7.9004369,
+  "mieter": []
+ },
+ "olten|kirchgasse|7": {
+  "street": "Kirchgasse",
+  "hn": "7",
+  "lat": 47.3497041,
+  "lng": 7.9020164,
+  "mieter": []
+ },
+ "olten|baslerstrasse|89": {
+  "street": "Baslerstrasse",
+  "hn": "89",
+  "lat": 47.3555423,
+  "lng": 7.9010413,
+  "mieter": []
+ },
+ "olten|ringstrasse|42a": {
+  "street": "Ringstrasse",
+  "hn": "42a",
+  "lat": 47.3507798,
+  "lng": 7.898867,
+  "mieter": []
+ },
+ "olten|baslerstrasse|77": {
+  "street": "Baslerstrasse",
+  "hn": "77",
+  "lat": 47.3549653,
+  "lng": 7.9016574,
+  "mieter": []
+ },
+ "olten|hauptgasse|20": {
+  "street": "Hauptgasse",
+  "hn": "20",
+  "lat": 47.350092,
+  "lng": 7.9036561,
+  "mieter": []
+ },
+ "olten|ringstrasse|2": {
+  "street": "Ringstrasse",
+  "hn": "2",
+  "lat": 47.3521619,
+  "lng": 7.9020605,
+  "mieter": []
+ },
+ "olten|ringstrasse|20b": {
+  "street": "Ringstrasse",
+  "hn": "20b",
+  "lat": 47.3517352,
+  "lng": 7.8999388,
+  "mieter": []
+ },
+ "olten|baslerstrasse|87": {
+  "street": "Baslerstrasse",
+  "hn": "87",
+  "lat": 47.3556837,
+  "lng": 7.9013349,
+  "mieter": []
+ },
+ "olten|hübelistrasse|6a": {
+  "street": "Hübelistrasse",
+  "hn": "6a",
+  "lat": 47.3501643,
+  "lng": 7.9007076,
+  "mieter": []
+ },
+ "olten|hübelistrasse|29": {
+  "street": "Hübelistrasse",
+  "hn": "29",
+  "lat": 47.351191,
+  "lng": 7.9001436,
+  "mieter": []
+ },
+ "olten|baslerstrasse|49": {
+  "street": "Baslerstrasse",
+  "hn": "49",
+  "lat": 47.3524981,
+  "lng": 7.9020442,
+  "mieter": []
+ },
+ "olten|baslerstrasse|21b": {
+  "street": "Baslerstrasse",
+  "hn": "21b",
+  "lat": 47.3512463,
+  "lng": 7.9021197,
+  "mieter": []
+ },
+ "olten|hauptgasse|11": {
+  "street": "Hauptgasse",
+  "hn": "11",
+  "lat": 47.3497915,
+  "lng": 7.9039913,
+  "mieter": []
+ },
+ "olten|hübelistrasse|2": {
+  "street": "Hübelistrasse",
+  "hn": "2",
+  "lat": 47.3499829,
+  "lng": 7.9007149,
+  "mieter": []
+ },
+ "olten|hauptgasse|1": {
+  "street": "Hauptgasse",
+  "hn": "1",
+  "lat": 47.3495608,
+  "lng": 7.9045632,
+  "mieter": []
+ },
+ "olten|ringstrasse|25": {
+  "street": "Ringstrasse",
+  "hn": "25",
+  "lat": 47.3513075,
+  "lng": 7.9000751,
+  "mieter": []
+ },
+ "olten|baslerstrasse|19": {
+  "street": "Baslerstrasse",
+  "hn": "19",
+  "lat": 47.3511788,
+  "lng": 7.9023807,
+  "mieter": []
+ },
+ "olten|ringstrasse|2a": {
+  "street": "Ringstrasse",
+  "hn": "2a",
+  "lat": 47.3521511,
+  "lng": 7.9022062,
+  "mieter": []
+ },
+ "olten|ringstrasse|18": {
+  "street": "Ringstrasse",
+  "hn": "18",
+  "lat": 47.3517453,
+  "lng": 7.9002536,
+  "mieter": []
+ },
+ "olten|baslerstrasse|74": {
+  "street": "Baslerstrasse",
+  "hn": "74",
+  "lat": 47.3530967,
+  "lng": 7.9028202,
+  "mieter": []
+ },
+ "olten|hübelistrasse|1": {
+  "street": "Hübelistrasse",
+  "hn": "1",
+  "lat": 47.3501943,
+  "lng": 7.9004471,
+  "mieter": []
+ },
+ "olten|hauptgasse|29": {
+  "street": "Hauptgasse",
+  "hn": "29",
+  "lat": 47.3498647,
+  "lng": 7.9032117,
+  "mieter": []
+ },
+ "olten|baslerstrasse|45": {
+  "street": "Baslerstrasse",
+  "hn": "45",
+  "lat": 47.3521552,
+  "lng": 7.9023706,
+  "mieter": []
+ },
+ "olten|ringstrasse|16": {
+  "street": "Ringstrasse",
+  "hn": "16",
+  "lat": 47.3518002,
+  "lng": 7.9003585,
+  "mieter": []
+ },
+ "olten|hauptgasse|2": {
+  "street": "Hauptgasse",
+  "hn": "2",
+  "lat": 47.3497115,
+  "lng": 7.9045629,
+  "mieter": []
+ },
+ "olten|kirchgasse|18": {
+  "street": "Kirchgasse",
+  "hn": "18",
+  "lat": 47.3498566,
+  "lng": 7.9008367,
+  "mieter": []
+ },
+ "olten|baslerstrasse|62": {
+  "street": "Baslerstrasse",
+  "hn": "62",
+  "lat": 47.3525216,
+  "lng": 7.9028444,
+  "mieter": []
+ },
+ "olten|baslerstrasse|17": {
+  "street": "Baslerstrasse",
+  "hn": "17",
+  "lat": 47.3511136,
+  "lng": 7.9021425,
+  "mieter": []
+ },
+ "olten|kirchgasse|6": {
+  "street": "Kirchgasse",
+  "hn": "6",
+  "lat": 47.350205,
+  "lng": 7.9017994,
+  "mieter": []
+ },
+ "olten|baslerstrasse|283": {
+  "street": "Baslerstrasse",
+  "hn": "283",
+  "lat": 47.364241,
+  "lng": 7.8901978,
+  "mieter": []
+ },
+ "olten|baslerstrasse|223": {
+  "street": "Baslerstrasse",
+  "hn": "223",
+  "lat": 47.3632775,
+  "lng": 7.8943023,
+  "mieter": []
+ },
+ "olten|baslerstrasse|70": {
+  "street": "Baslerstrasse",
+  "hn": "70",
+  "lat": 47.3609586,
+  "lng": 7.9001943,
+  "mieter": []
+ },
+ "olten|baslerstrasse|291": {
+  "street": "Baslerstrasse",
+  "hn": "291",
+  "lat": 47.3643462,
+  "lng": 7.8899441,
+  "mieter": []
+ },
+ "olten|baslerstrasse|133": {
+  "street": "Baslerstrasse",
+  "hn": "133",
+  "lat": 47.3619322,
+  "lng": 7.8979961,
+  "mieter": []
+ },
+ "olten|baslerstrasse|206": {
+  "street": "Baslerstrasse",
+  "hn": "206",
+  "lat": 47.3653061,
+  "lng": 7.8888811,
+  "mieter": []
+ },
+ "olten|baslerstrasse|143": {
+  "street": "Baslerstrasse",
+  "hn": "143",
+  "lat": 47.36166,
+  "lng": 7.8975334,
+  "mieter": []
+ },
+ "olten|baslerstrasse|243": {
+  "street": "Baslerstrasse",
+  "hn": "243",
+  "lat": 47.363646,
+  "lng": 7.8927118,
+  "mieter": []
+ },
+ "olten|baslerstrasse|240": {
+  "street": "Baslerstrasse",
+  "hn": "240",
+  "lat": 47.3668074,
+  "lng": 7.8855114,
+  "mieter": []
+ },
+ "olten|baslerstrasse|214": {
+  "street": "Baslerstrasse",
+  "hn": "214",
+  "lat": 47.365742,
+  "lng": 7.8886496,
+  "mieter": []
+ },
+ "olten|baslerstrasse|56": {
+  "street": "Baslerstrasse",
+  "hn": "56",
+  "lat": 47.3598887,
+  "lng": 7.9009168,
+  "mieter": []
+ },
+ "olten|baslerstrasse|164": {
+  "street": "Baslerstrasse",
+  "hn": "164",
+  "lat": 47.3641636,
+  "lng": 7.8918973,
+  "mieter": []
+ },
+ "olten|baslerstrasse|236b": {
+  "street": "Baslerstrasse",
+  "hn": "236b",
+  "lat": 47.3663429,
+  "lng": 7.8864487,
+  "mieter": []
+ },
+ "olten|baslerstrasse|183": {
+  "street": "Baslerstrasse",
+  "hn": "183",
+  "lat": 47.3622274,
+  "lng": 7.8965181,
+  "mieter": []
+ },
+ "olten|baslerstrasse|156": {
+  "street": "Baslerstrasse",
+  "hn": "156",
+  "lat": 47.363969,
+  "lng": 7.8927345,
+  "mieter": []
+ },
+ "olten|baslerstrasse|13": {
+  "street": "Baslerstrasse",
+  "hn": "13",
+  "lat": 47.3573932,
+  "lng": 7.90074,
+  "mieter": []
+ },
+ "olten|baslerstrasse|134a": {
+  "street": "Baslerstrasse",
+  "hn": "134a",
+  "lat": 47.3639024,
+  "lng": 7.8942287,
+  "mieter": []
+ },
+ "olten|baslerstrasse|36": {
+  "street": "Baslerstrasse",
+  "hn": "36",
+  "lat": 47.3586126,
+  "lng": 7.9010542,
+  "mieter": []
+ },
+ "olten|baslerstrasse|189": {
+  "street": "Baslerstrasse",
+  "hn": "189",
+  "lat": 47.3625402,
+  "lng": 7.8963095,
+  "mieter": []
+ },
+ "olten|baslerstrasse|236a": {
+  "street": "Baslerstrasse",
+  "hn": "236a",
+  "lat": 47.3664537,
+  "lng": 7.8861802,
+  "mieter": []
+ },
+ "olten|baslerstrasse|232a": {
+  "street": "Baslerstrasse",
+  "hn": "232a",
+  "lat": 47.3661977,
+  "lng": 7.8867931,
+  "mieter": []
+ },
+ "olten|baslerstrasse|186": {
+  "street": "Baslerstrasse",
+  "hn": "186",
+  "lat": 47.3649279,
+  "lng": 7.8897858,
+  "mieter": []
+ },
+ "olten|baslerstrasse|71": {
+  "street": "Baslerstrasse",
+  "hn": "71",
+  "lat": 47.360824,
+  "lng": 7.8996632,
+  "mieter": []
+ },
+ "olten|baslerstrasse|148": {
+  "street": "Baslerstrasse",
+  "hn": "148",
+  "lat": 47.3638394,
+  "lng": 7.8934984,
+  "mieter": []
+ },
+ "olten|baslerstrasse|191": {
+  "street": "Baslerstrasse",
+  "hn": "191",
+  "lat": 47.3626756,
+  "lng": 7.8960444,
+  "mieter": []
+ },
+ "olten|baslerstrasse|222": {
+  "street": "Baslerstrasse",
+  "hn": "222",
+  "lat": 47.3658059,
+  "lng": 7.8875537,
+  "mieter": []
+ },
+ "olten|baslerstrasse|22": {
+  "street": "Baslerstrasse",
+  "hn": "22",
+  "lat": 47.3578425,
+  "lng": 7.9009603,
+  "mieter": []
+ },
+ "olten|baslerstrasse|68": {
+  "street": "Baslerstrasse",
+  "hn": "68",
+  "lat": 47.3608559,
+  "lng": 7.9005126,
+  "mieter": []
+ },
+ "olten|baslerstrasse|50": {
+  "street": "Baslerstrasse",
+  "hn": "50",
+  "lat": 47.3596099,
+  "lng": 7.9009381,
+  "mieter": []
+ },
+ "olten|baslerstrasse|26": {
+  "street": "Baslerstrasse",
+  "hn": "26",
+  "lat": 47.3582445,
+  "lng": 7.9011585,
+  "mieter": []
+ },
+ "olten|baslerstrasse|273": {
+  "street": "Baslerstrasse",
+  "hn": "273",
+  "lat": 47.3639369,
+  "lng": 7.8909908,
+  "mieter": []
+ },
+ "olten|baslerstrasse|187a": {
+  "street": "Baslerstrasse",
+  "hn": "187a",
+  "lat": 47.3621636,
+  "lng": 7.8962756,
+  "mieter": []
+ },
+ "olten|baslerstrasse|325": {
+  "street": "Baslerstrasse",
+  "hn": "325",
+  "lat": 47.3659545,
+  "lng": 7.88645,
+  "mieter": []
+ },
+ "olten|baslerstrasse|279a": {
+  "street": "Baslerstrasse",
+  "hn": "279a",
+  "lat": 47.3639879,
+  "lng": 7.8906417,
+  "mieter": []
+ },
+ "olten|baslerstrasse|102": {
+  "street": "Baslerstrasse",
+  "hn": "102",
+  "lat": 47.3624532,
+  "lng": 7.8973281,
+  "mieter": []
+ },
+ "olten|baslerstrasse|132": {
+  "street": "Baslerstrasse",
+  "hn": "132",
+  "lat": 47.3636058,
+  "lng": 7.8946015,
+  "mieter": []
+ },
+ "olten|baslerstrasse|139": {
+  "street": "Baslerstrasse",
+  "hn": "139",
+  "lat": 47.3620365,
+  "lng": 7.8974007,
+  "mieter": []
+ },
+ "olten|baslerstrasse|158": {
+  "street": "Baslerstrasse",
+  "hn": "158",
+  "lat": 47.3640795,
+  "lng": 7.8927752,
+  "mieter": []
+ },
+ "olten|baslerstrasse|24": {
+  "street": "Baslerstrasse",
+  "hn": "24",
+  "lat": 47.3580791,
+  "lng": 7.9010598,
+  "mieter": []
+ },
+ "olten|baslerstrasse|11": {
+  "street": "Baslerstrasse",
+  "hn": "11",
+  "lat": 47.3573192,
+  "lng": 7.9007505,
+  "mieter": []
+ },
+ "olten|baslerstrasse|10a": {
+  "street": "Baslerstrasse",
+  "hn": "10a",
+  "lat": 47.3571524,
+  "lng": 7.901241,
+  "mieter": []
+ },
+ "olten|baslerstrasse|213": {
+  "street": "Baslerstrasse",
+  "hn": "213",
+  "lat": 47.362718,
+  "lng": 7.8948929,
+  "mieter": []
+ },
+ "olten|baslerstrasse|220": {
+  "street": "Baslerstrasse",
+  "hn": "220",
+  "lat": 47.3656943,
+  "lng": 7.8878706,
+  "mieter": []
+ },
+ "olten|baslerstrasse|182": {
+  "street": "Baslerstrasse",
+  "hn": "182",
+  "lat": 47.3647858,
+  "lng": 7.8900099,
+  "mieter": []
+ },
+ "olten|baslerstrasse|188": {
+  "street": "Baslerstrasse",
+  "hn": "188",
+  "lat": 47.3650395,
+  "lng": 7.8896422,
+  "mieter": []
+ },
+ "olten|baslerstrasse|52": {
+  "street": "Baslerstrasse",
+  "hn": "52",
+  "lat": 47.3597003,
+  "lng": 7.9009168,
+  "mieter": []
+ },
+ "olten|baslerstrasse|69": {
+  "street": "Baslerstrasse",
+  "hn": "69",
+  "lat": 47.3608983,
+  "lng": 7.8997595,
+  "mieter": []
+ },
+ "olten|baslerstrasse|187": {
+  "street": "Baslerstrasse",
+  "hn": "187",
+  "lat": 47.3623183,
+  "lng": 7.8963668,
+  "mieter": []
+ },
+ "olten|baslerstrasse|232": {
+  "street": "Baslerstrasse",
+  "hn": "232",
+  "lat": 47.3662268,
+  "lng": 7.8866191,
+  "mieter": []
+ },
+ "olten|baslerstrasse|135": {
+  "street": "Baslerstrasse",
+  "hn": "135",
+  "lat": 47.3618681,
+  "lng": 7.8978892,
+  "mieter": []
+ },
+ "olten|baslerstrasse|144": {
+  "street": "Baslerstrasse",
+  "hn": "144",
+  "lat": 47.364068,
+  "lng": 7.8935265,
+  "mieter": []
+ },
+ "olten|baslerstrasse|199": {
+  "street": "Baslerstrasse",
+  "hn": "199",
+  "lat": 47.3628913,
+  "lng": 7.8953597,
+  "mieter": []
+ },
+ "olten|baslerstrasse|219": {
+  "street": "Baslerstrasse",
+  "hn": "219",
+  "lat": 47.3630903,
+  "lng": 7.8945009,
+  "mieter": []
+ },
+ "olten|baslerstrasse|267": {
+  "street": "Baslerstrasse",
+  "hn": "267",
+  "lat": 47.3638067,
+  "lng": 7.8911629,
+  "mieter": []
+ },
+ "olten|baslerstrasse|236": {
+  "street": "Baslerstrasse",
+  "hn": "236",
+  "lat": 47.366379,
+  "lng": 7.8862413,
+  "mieter": []
+ },
+ "olten|baslerstrasse|194": {
+  "street": "Baslerstrasse",
+  "hn": "194",
+  "lat": 47.3651486,
+  "lng": 7.88961,
+  "mieter": []
+ },
+ "olten|baslerstrasse|255": {
+  "street": "Baslerstrasse",
+  "hn": "255",
+  "lat": 47.3637359,
+  "lng": 7.8918089,
+  "mieter": []
+ },
+ "olten|baslerstrasse|20": {
+  "street": "Baslerstrasse",
+  "hn": "20",
+  "lat": 47.3578687,
+  "lng": 7.9011938,
+  "mieter": []
+ },
+ "olten|baslerstrasse|67": {
+  "street": "Baslerstrasse",
+  "hn": "67",
+  "lat": 47.360658,
+  "lng": 7.8999233,
+  "mieter": []
+ },
+ "olten|baslerstrasse|184": {
+  "street": "Baslerstrasse",
+  "hn": "184",
+  "lat": 47.3648761,
+  "lng": 7.8898775,
+  "mieter": []
+ },
+ "olten|baslerstrasse|106": {
+  "street": "Baslerstrasse",
+  "hn": "106",
+  "lat": 47.3625507,
+  "lng": 7.8970078,
+  "mieter": []
+ },
+ "olten|baslerstrasse|128": {
+  "street": "Baslerstrasse",
+  "hn": "128",
+  "lat": 47.3634311,
+  "lng": 7.8949642,
+  "mieter": []
+ },
+ "olten|baslerstrasse|7": {
+  "street": "Baslerstrasse",
+  "hn": "7",
+  "lat": 47.356979,
+  "lng": 7.9008027,
+  "mieter": []
+ },
+ "olten|baslerstrasse|271": {
+  "street": "Baslerstrasse",
+  "hn": "271",
+  "lat": 47.3636378,
+  "lng": 7.8909315,
+  "mieter": []
+ },
+ "olten|baslerstrasse|180": {
+  "street": "Baslerstrasse",
+  "hn": "180",
+  "lat": 47.3647629,
+  "lng": 7.8901692,
+  "mieter": []
+ },
+ "olten|baslerstrasse|137": {
+  "street": "Baslerstrasse",
+  "hn": "137",
+  "lat": 47.3619097,
+  "lng": 7.8976135,
+  "mieter": []
+ },
+ "olten|baslerstrasse|150": {
+  "street": "Baslerstrasse",
+  "hn": "150",
+  "lat": 47.3639385,
+  "lng": 7.8931927,
+  "mieter": []
+ },
+ "olten|baslerstrasse|88": {
+  "street": "Baslerstrasse",
+  "hn": "88",
+  "lat": 47.3617235,
+  "lng": 7.8992126,
+  "mieter": []
+ },
+ "olten|baslerstrasse|218": {
+  "street": "Baslerstrasse",
+  "hn": "218",
+  "lat": 47.3659244,
+  "lng": 7.887989,
+  "mieter": []
+ },
+ "olten|baslerstrasse|192": {
+  "street": "Baslerstrasse",
+  "hn": "192",
+  "lat": 47.3650851,
+  "lng": 7.8899983,
+  "mieter": []
+ },
+ "olten|baslerstrasse|153": {
+  "street": "Baslerstrasse",
+  "hn": "153",
+  "lat": 47.3613806,
+  "lng": 7.8974688,
+  "mieter": []
+ },
+ "olten|baslerstrasse|179": {
+  "street": "Baslerstrasse",
+  "hn": "179",
+  "lat": 47.3620691,
+  "lng": 7.8965857,
+  "mieter": []
+ },
+ "olten|baslerstrasse|261": {
+  "street": "Baslerstrasse",
+  "hn": "261",
+  "lat": 47.3636882,
+  "lng": 7.8914498,
+  "mieter": []
+ },
+ "olten|baslerstrasse|16": {
+  "street": "Baslerstrasse",
+  "hn": "16",
+  "lat": 47.3575972,
+  "lng": 7.9011106,
+  "mieter": []
+ },
+ "olten|baslerstrasse|104": {
+  "street": "Baslerstrasse",
+  "hn": "104",
+  "lat": 47.3625148,
+  "lng": 7.8971064,
+  "mieter": []
+ },
+ "olten|baslerstrasse|130": {
+  "street": "Baslerstrasse",
+  "hn": "130",
+  "lat": 47.3635356,
+  "lng": 7.8947856,
+  "mieter": []
+ },
+ "olten|baslerstrasse|101": {
+  "street": "Baslerstrasse",
+  "hn": "101",
+  "lat": 47.3609749,
+  "lng": 7.8979999,
+  "mieter": []
+ },
+ "olten|baslerstrasse|126": {
+  "street": "Baslerstrasse",
+  "hn": "126",
+  "lat": 47.3634237,
+  "lng": 7.8953293,
+  "mieter": []
+ },
+ "olten|baslerstrasse|242": {
+  "street": "Baslerstrasse",
+  "hn": "242",
+  "lat": 47.3668964,
+  "lng": 7.8858094,
+  "mieter": []
+ },
+ "olten|baslerstrasse|321": {
+  "street": "Baslerstrasse",
+  "hn": "321",
+  "lat": 47.3655429,
+  "lng": 7.8874752,
+  "mieter": []
+ },
+ "olten|baslerstrasse|221": {
+  "street": "Baslerstrasse",
+  "hn": "221",
+  "lat": 47.3628128,
+  "lng": 7.894484,
+  "mieter": [
+   "Kreuzkirche Trimbach"
+  ]
+ },
+ "olten|baslerstrasse|18": {
+  "street": "Baslerstrasse",
+  "hn": "18",
+  "lat": 47.3577445,
+  "lng": 7.9011288,
+  "mieter": []
+ },
+ "olten|baslerstrasse|289": {
+  "street": "Baslerstrasse",
+  "hn": "289",
+  "lat": 47.3640289,
+  "lng": 7.8899031,
+  "mieter": []
+ },
+ "olten|baslerstrasse|227": {
+  "street": "Baslerstrasse",
+  "hn": "227",
+  "lat": 47.363359,
+  "lng": 7.8937815,
+  "mieter": []
+ },
+ "olten|baslerstrasse|285": {
+  "street": "Baslerstrasse",
+  "hn": "285",
+  "lat": 47.364157,
+  "lng": 7.8900755,
+  "mieter": []
+ },
+ "olten|baslerstrasse|81": {
+  "street": "Baslerstrasse",
+  "hn": "81",
+  "lat": 47.3610212,
+  "lng": 7.8994983,
+  "mieter": []
+ },
+ "olten|baslerstrasse|251": {
+  "street": "Baslerstrasse",
+  "hn": "251",
+  "lat": 47.3637635,
+  "lng": 7.8922107,
+  "mieter": []
+ },
+ "olten|baslerstrasse|54": {
+  "street": "Baslerstrasse",
+  "hn": "54",
+  "lat": 47.3597906,
+  "lng": 7.9008958,
+  "mieter": []
+ },
+ "olten|baslerstrasse|247": {
+  "street": "Baslerstrasse",
+  "hn": "247",
+  "lat": 47.3636745,
+  "lng": 7.8926016,
+  "mieter": []
+ },
+ "olten|baslerstrasse|58": {
+  "street": "Baslerstrasse",
+  "hn": "58",
+  "lat": 47.3600564,
+  "lng": 7.9008204,
+  "mieter": []
+ },
+ "olten|baslerstrasse|216": {
+  "street": "Baslerstrasse",
+  "hn": "216",
+  "lat": 47.3655508,
+  "lng": 7.8882267,
+  "mieter": []
+ },
+ "olten|baslerstrasse|198": {
+  "street": "Baslerstrasse",
+  "hn": "198",
+  "lat": 47.3652466,
+  "lng": 7.8893607,
+  "mieter": []
+ },
+ "olten|baslerstrasse|83": {
+  "street": "Baslerstrasse",
+  "hn": "83",
+  "lat": 47.3612007,
+  "lng": 7.8990569,
+  "mieter": []
+ },
+ "olten|baslerstrasse|185": {
+  "street": "Baslerstrasse",
+  "hn": "185",
+  "lat": 47.3623903,
+  "lng": 7.8964764,
+  "mieter": []
+ },
+ "olten|baslerstrasse|287": {
+  "street": "Baslerstrasse",
+  "hn": "287",
+  "lat": 47.3638812,
+  "lng": 7.8901164,
+  "mieter": []
+ },
+ "olten|baslerstrasse|181": {
+  "street": "Baslerstrasse",
+  "hn": "181",
+  "lat": 47.3624265,
+  "lng": 7.8967278,
+  "mieter": []
+ },
+ "olten|baslerstrasse|14": {
+  "street": "Baslerstrasse",
+  "hn": "14",
+  "lat": 47.3575118,
+  "lng": 7.901067,
+  "mieter": []
+ },
+ "olten|baslerstrasse|145": {
+  "street": "Baslerstrasse",
+  "hn": "145",
+  "lat": 47.361412,
+  "lng": 7.8966499,
+  "mieter": []
+ },
+ "olten|baslerstrasse|238": {
+  "street": "Baslerstrasse",
+  "hn": "238",
+  "lat": 47.3664583,
+  "lng": 7.8859468,
+  "mieter": []
+ },
+ "olten|baslerstrasse|75": {
+  "street": "Baslerstrasse",
+  "hn": "75",
+  "lat": 47.3606543,
+  "lng": 7.8992539,
+  "mieter": []
+ },
+ "olten|baslerstrasse|103": {
+  "street": "Baslerstrasse",
+  "hn": "103",
+  "lat": 47.3609482,
+  "lng": 7.8984977,
+  "mieter": []
+ },
+ "olten|baslerstrasse|136a": {
+  "street": "Baslerstrasse",
+  "hn": "136a",
+  "lat": 47.3639041,
+  "lng": 7.8937868,
+  "mieter": []
+ },
+ "olten|baslerstrasse|142": {
+  "street": "Baslerstrasse",
+  "hn": "142",
+  "lat": 47.364036,
+  "lng": 7.8938552,
+  "mieter": []
+ },
+ "olten|baslerstrasse|142b": {
+  "street": "Baslerstrasse",
+  "hn": "142b",
+  "lat": 47.3641538,
+  "lng": 7.8940219,
+  "mieter": []
+ },
+ "olten|baslerstrasse|142c": {
+  "street": "Baslerstrasse",
+  "hn": "142c",
+  "lat": 47.3642847,
+  "lng": 7.8940411,
+  "mieter": []
+ },
+ "olten|baslerstrasse|149": {
+  "street": "Baslerstrasse",
+  "hn": "149",
+  "lat": 47.3612564,
+  "lng": 7.8964386,
+  "mieter": []
+ },
+ "olten|baslerstrasse|151": {
+  "street": "Baslerstrasse",
+  "hn": "151",
+  "lat": 47.3617536,
+  "lng": 7.896419,
+  "mieter": []
+ },
+ "olten|baslerstrasse|172": {
+  "street": "Baslerstrasse",
+  "hn": "172",
+  "lat": 47.3645659,
+  "lng": 7.8908123,
+  "mieter": []
+ },
+ "olten|baslerstrasse|174": {
+  "street": "Baslerstrasse",
+  "hn": "174",
+  "lat": 47.3646675,
+  "lng": 7.8904981,
+  "mieter": []
+ },
+ "olten|baslerstrasse|176": {
+  "street": "Baslerstrasse",
+  "hn": "176",
+  "lat": 47.3648319,
+  "lng": 7.8911313,
+  "mieter": []
+ },
+ "olten|baslerstrasse|178": {
+  "street": "Baslerstrasse",
+  "hn": "178",
+  "lat": 47.3650029,
+  "lng": 7.8906038,
+  "mieter": []
+ },
+ "olten|baslerstrasse|197": {
+  "street": "Baslerstrasse",
+  "hn": "197",
+  "lat": 47.3627602,
+  "lng": 7.8955519,
+  "mieter": []
+ },
+ "olten|baslerstrasse|225": {
+  "street": "Baslerstrasse",
+  "hn": "225",
+  "lat": 47.363379,
+  "lng": 7.89397,
+  "mieter": []
+ },
+ "olten|baslerstrasse|34": {
+  "street": "Baslerstrasse",
+  "hn": "34",
+  "lat": 47.3585167,
+  "lng": 7.9011644,
+  "mieter": []
+ },
+ "olten|baslerstrasse|127": {
+  "street": "Baslerstrasse",
+  "hn": "127",
+  "lat": 47.36179,
+  "lng": 7.8982888,
+  "mieter": []
+ },
+ "olten|baslerstrasse|184a": {
+  "street": "Baslerstrasse",
+  "hn": "184a",
+  "lat": 47.3649086,
+  "lng": 7.8900396,
+  "mieter": []
+ },
+ "olten|baslerstrasse|218a": {
+  "street": "Baslerstrasse",
+  "hn": "218a",
+  "lat": 47.365978,
+  "lng": 7.8878372,
+  "mieter": []
+ },
+ "olten|baslerstrasse|226": {
+  "street": "Baslerstrasse",
+  "hn": "226",
+  "lat": 47.3662294,
+  "lng": 7.8873723,
+  "mieter": []
+ },
+ "olten|baslerstrasse|228": {
+  "street": "Baslerstrasse",
+  "hn": "228",
+  "lat": 47.3662413,
+  "lng": 7.8871336,
+  "mieter": []
+ },
+ "olten|baslerstrasse|230": {
+  "street": "Baslerstrasse",
+  "hn": "230",
+  "lat": 47.3662892,
+  "lng": 7.8871505,
+  "mieter": []
+ },
+ "olten|baslerstrasse|160": {
+  "street": "Baslerstrasse",
+  "hn": "160",
+  "lat": 47.3564422,
+  "lng": 7.901286,
+  "mieter": []
+ },
+ "olten|baslerstrasse|224": {
+  "street": "Baslerstrasse",
+  "hn": "224",
+  "lat": 47.3660481,
+  "lng": 7.8870938,
+  "mieter": []
+ },
+ "olten|baslerstrasse|142a": {
+  "street": "Baslerstrasse",
+  "hn": "142a",
+  "lat": 47.3639608,
+  "lng": 7.8941285,
+  "mieter": []
+ },
+ "olten|baslerstrasse|140a": {
+  "street": "Baslerstrasse",
+  "hn": "140a",
+  "lat": 47.363935,
+  "lng": 7.8941223,
+  "mieter": []
+ },
+ "olten|baslerstrasse|279": {
+  "street": "Baslerstrasse",
+  "hn": "279",
+  "lat": 47.3640806,
+  "lng": 7.8907183,
+  "mieter": []
+ },
+ "olten|baslerstrasse|87a": {
+  "street": "Baslerstrasse",
+  "hn": "87a",
+  "lat": 47.3557395,
+  "lng": 7.901448,
+  "mieter": []
+ }
+}

@@ -1,0 +1,900 @@
+{
+ "locarno|via bartolomeo varenna|79": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "79",
+  "lat": 46.1674753,
+  "lng": 8.7790637,
+  "mieter": []
+ },
+ "locarno|via cittadella|2": {
+  "street": "Via Cittadella",
+  "hn": "2",
+  "lat": 46.1691704,
+  "lng": 8.7930246,
+  "mieter": [
+   "Farmacia Città Vecchia"
+  ]
+ },
+ "locarno|via alla ramogna|16": {
+  "street": "Via alla Ramogna",
+  "hn": "16",
+  "lat": 46.1704824,
+  "lng": 8.7988822,
+  "mieter": [
+   "Farmacia Maggiorini"
+  ]
+ },
+ "locarno|via della motta|1": {
+  "street": "Via della Motta",
+  "hn": "1",
+  "lat": 46.1684677,
+  "lng": 8.7942941,
+  "mieter": [
+   "L'Angolino"
+  ]
+ },
+ "locarno|via della motta|3": {
+  "street": "Via della Motta",
+  "hn": "3",
+  "lat": 46.1685479,
+  "lng": 8.7940924,
+  "mieter": [
+   "PardoBar",
+   "Little Inka Poke"
+  ]
+ },
+ "locarno|via della motta|7": {
+  "street": "Via della Motta",
+  "hn": "7",
+  "lat": 46.168773,
+  "lng": 8.7935362,
+  "mieter": [
+   "Il Boccalino",
+   "il Boccalino"
+  ]
+ },
+ "locarno|via alla ramogna|4": {
+  "street": "Via alla Ramogna",
+  "hn": "4",
+  "lat": 46.1709647,
+  "lng": 8.7994726,
+  "mieter": [
+   "Tally Weijl",
+   "Ochsner Shoes",
+   "Bar Oasi"
+  ]
+ },
+ "locarno|via alla ramogna|2": {
+  "street": "Via alla Ramogna",
+  "hn": "2",
+  "lat": 46.1705071,
+  "lng": 8.7991271,
+  "mieter": [
+   "Bucherer",
+   "Monn"
+  ]
+ },
+ "locarno|via alla ramogna|3": {
+  "street": "Via alla Ramogna",
+  "hn": "3",
+  "lat": 46.1706123,
+  "lng": 8.7992598,
+  "mieter": [
+   "Cicala",
+   "BOUTIQUE CICALA"
+  ]
+ },
+ "locarno|via alla ramogna|14": {
+  "street": "Via alla Ramogna",
+  "hn": "14",
+  "lat": 46.1706319,
+  "lng": 8.799075,
+  "mieter": [
+   "Corner",
+   "Sunrise"
+  ]
+ },
+ "locarno|via alla ramogna|12": {
+  "street": "Via alla Ramogna",
+  "hn": "12",
+  "lat": 46.1707341,
+  "lng": 8.7992064,
+  "mieter": [
+   "New Yorker"
+  ]
+ },
+ "locarno|via alla ramogna|18": {
+  "street": "Via alla Ramogna",
+  "hn": "18",
+  "lat": 46.1704411,
+  "lng": 8.7988267,
+  "mieter": [
+   "United Colors of Benetton"
+  ]
+ },
+ "locarno|via alla ramogna|8": {
+  "street": "Via alla Ramogna",
+  "hn": "8",
+  "lat": 46.1698158,
+  "lng": 8.7972643,
+  "mieter": [
+   "Ina Kess"
+  ]
+ },
+ "locarno|via cittadella|22": {
+  "street": "Via Cittadella",
+  "hn": "22",
+  "lat": 46.1694283,
+  "lng": 8.7932851,
+  "mieter": [
+   "Belotti",
+   "Belotti Sport Bici"
+  ]
+ },
+ "locarno|via cittadella|1": {
+  "street": "Via Cittadella",
+  "hn": "1",
+  "lat": 46.1691459,
+  "lng": 8.7931319,
+  "mieter": []
+ },
+ "locarno|via cittadella|9": {
+  "street": "Via Cittadella",
+  "hn": "9",
+  "lat": 46.1699096,
+  "lng": 8.7940745,
+  "mieter": [
+   "Caffè dell'Arte"
+  ]
+ },
+ "locarno|via bartolomeo varenna|76": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "76",
+  "lat": 46.167467,
+  "lng": 8.7793554,
+  "mieter": [
+   "981 NINE EIGHT ONE BIKESHOP"
+  ]
+ },
+ "locarno|via bartolomeo varenna|94": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "94",
+  "lat": 46.1681588,
+  "lng": 8.7769045,
+  "mieter": [
+   "Pasinelli SA"
+  ]
+ },
+ "locarno|via bartolomeo varenna|62": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "62",
+  "lat": 46.1675819,
+  "lng": 8.7805397,
+  "mieter": [
+   "Carrozzeria Moderna SA"
+  ]
+ },
+ "locarno|piazza grande|18": {
+  "street": "Piazza Grande",
+  "hn": "18",
+  "lat": 46.16992,
+  "lng": 8.7952486,
+  "mieter": [
+   "Municipio di Locarno"
+  ]
+ },
+ "locarno|via cittadella|6": {
+  "street": "Via Cittadella",
+  "hn": "6",
+  "lat": 46.1702987,
+  "lng": 8.7936427,
+  "mieter": [
+   "YOYO Tennis Shop"
+  ]
+ },
+ "locarno|via bartolomeo varenna|71a": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "71A",
+  "lat": 46.1673698,
+  "lng": 8.7799696,
+  "mieter": [
+   "Peter Marco"
+  ]
+ },
+ "locarno|via della motta|18": {
+  "street": "Via della Motta",
+  "hn": "18",
+  "lat": 46.1691763,
+  "lng": 8.7933073,
+  "mieter": [
+   "Bottega del mondo"
+  ]
+ },
+ "locarno|via della motta|10": {
+  "street": "Via della Motta",
+  "hn": "10",
+  "lat": 46.1688938,
+  "lng": 8.793715,
+  "mieter": [
+   "Vecchia Locarno",
+   "Govinda"
+  ]
+ },
+ "locarno|via bartolomeo varenna|1": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "1",
+  "lat": 46.1680235,
+  "lng": 8.7908436,
+  "mieter": [
+   "Sartoria Daniela"
+  ]
+ },
+ "locarno|via bartolomeo varenna|5": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "5",
+  "lat": 46.1677347,
+  "lng": 8.7898954,
+  "mieter": [
+   "Castellani&Cavalli SA",
+   "E.Caputi",
+   "Info Lab",
+   "Pizzeria Flash Express"
+  ]
+ },
+ "locarno|via cittadella|15": {
+  "street": "Via Cittadella",
+  "hn": "15",
+  "lat": 46.1697361,
+  "lng": 8.7937694,
+  "mieter": [
+   "KilometroZARO"
+  ]
+ },
+ "locarno|via alla ramogna|1": {
+  "street": "Via alla Ramogna",
+  "hn": "1",
+  "lat": 46.170822,
+  "lng": 8.799527,
+  "mieter": []
+ },
+ "locarno|piazza grande|30": {
+  "street": "Piazza Grande",
+  "hn": "30",
+  "lat": 46.1690166,
+  "lng": 8.7946197,
+  "mieter": []
+ },
+ "locarno|via della motta|14": {
+  "street": "Via della Motta",
+  "hn": "14",
+  "lat": 46.169014,
+  "lng": 8.7935583,
+  "mieter": [
+   "Manu e l'arte"
+  ]
+ },
+ "locarno|via cittadella|16": {
+  "street": "Via Cittadella",
+  "hn": "16",
+  "lat": 46.1697922,
+  "lng": 8.7935932,
+  "mieter": []
+ },
+ "locarno|via cittadella|8": {
+  "street": "Via Cittadella",
+  "hn": "8",
+  "lat": 46.169895,
+  "lng": 8.793802,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|52": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "52",
+  "lat": 46.1675669,
+  "lng": 8.7826229,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|96": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "96",
+  "lat": 46.16819,
+  "lng": 8.7765828,
+  "mieter": [
+   "10' dieci"
+  ]
+ },
+ "locarno|via della motta|11": {
+  "street": "Via della Motta",
+  "hn": "11",
+  "lat": 46.1690152,
+  "lng": 8.793391,
+  "mieter": []
+ },
+ "locarno|piazza grande|3": {
+  "street": "Piazza Grande",
+  "hn": "3",
+  "lat": 46.1693651,
+  "lng": 8.7966281,
+  "mieter": [
+   "Ufficio postale Locarno"
+  ]
+ },
+ "locarno|via cittadella|17a": {
+  "street": "Via Cittadella",
+  "hn": "17a",
+  "lat": 46.1695043,
+  "lng": 8.7936965,
+  "mieter": [
+   "Chiesa di Santa Maria Assunta"
+  ]
+ },
+ "locarno|via bartolomeo varenna|2": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "2",
+  "lat": 46.1680611,
+  "lng": 8.7900849,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|11": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "11",
+  "lat": 46.1675186,
+  "lng": 8.7881455,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|9": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "9",
+  "lat": 46.1675632,
+  "lng": 8.7885097,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|13": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "13",
+  "lat": 46.1672035,
+  "lng": 8.7880423,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|87": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "87",
+  "lat": 46.1678587,
+  "lng": 8.777038,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|81": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "81",
+  "lat": 46.1675304,
+  "lng": 8.7784828,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|85": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "85",
+  "lat": 46.1675566,
+  "lng": 8.7779805,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|69": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "69",
+  "lat": 46.1672791,
+  "lng": 8.7802949,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|75": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "75",
+  "lat": 46.1673566,
+  "lng": 8.7794309,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|67": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "67",
+  "lat": 46.1672125,
+  "lng": 8.7806413,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|78": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "78",
+  "lat": 46.1679066,
+  "lng": 8.7784465,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|74": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "74",
+  "lat": 46.1678659,
+  "lng": 8.7789884,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|82": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "82",
+  "lat": 46.1679365,
+  "lng": 8.7781657,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|66": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "66",
+  "lat": 46.167669,
+  "lng": 8.7796713,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|64": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "64",
+  "lat": 46.1676762,
+  "lng": 8.7798729,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|80": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "80",
+  "lat": 46.1681033,
+  "lng": 8.7783494,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|22a": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "22a",
+  "lat": 46.1680126,
+  "lng": 8.7872794,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|22": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "22",
+  "lat": 46.1677164,
+  "lng": 8.7872556,
+  "mieter": []
+ },
+ "locarno|piazza grande|32": {
+  "street": "Piazza Grande",
+  "hn": "32",
+  "lat": 46.16897,
+  "lng": 8.7944739,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|54": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "54",
+  "lat": 46.16757,
+  "lng": 8.7822105,
+  "mieter": [
+   "Garage Plus Nessi Cars"
+  ]
+ },
+ "locarno|via bartolomeo varenna|56": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "56",
+  "lat": 46.1675044,
+  "lng": 8.7818666,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|15": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "15",
+  "lat": 46.1674325,
+  "lng": 8.7876721,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|17": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "17",
+  "lat": 46.1673837,
+  "lng": 8.7872766,
+  "mieter": []
+ },
+ "locarno|via cittadella|3": {
+  "street": "Via Cittadella",
+  "hn": "3",
+  "lat": 46.170293,
+  "lng": 8.7944686,
+  "mieter": []
+ },
+ "locarno|via cittadella|7": {
+  "street": "Via Cittadella",
+  "hn": "7",
+  "lat": 46.1700913,
+  "lng": 8.7942986,
+  "mieter": []
+ },
+ "locarno|via cittadella|17": {
+  "street": "Via Cittadella",
+  "hn": "17",
+  "lat": 46.1696319,
+  "lng": 8.7937776,
+  "mieter": []
+ },
+ "locarno|via cittadella|13": {
+  "street": "Via Cittadella",
+  "hn": "13",
+  "lat": 46.1698131,
+  "lng": 8.7939441,
+  "mieter": []
+ },
+ "locarno|via della motta|6": {
+  "street": "Via della Motta",
+  "hn": "6",
+  "lat": 46.1688335,
+  "lng": 8.7939862,
+  "mieter": []
+ },
+ "locarno|via cittadella|19": {
+  "street": "Via Cittadella",
+  "hn": "19",
+  "lat": 46.1693523,
+  "lng": 8.7934874,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|53": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "53",
+  "lat": 46.1670688,
+  "lng": 8.7823955,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|63": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "63",
+  "lat": 46.1671593,
+  "lng": 8.781436,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|51": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "51",
+  "lat": 46.1671312,
+  "lng": 8.7826145,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|65": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "65",
+  "lat": 46.1671705,
+  "lng": 8.7811787,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|45": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "45",
+  "lat": 46.166948,
+  "lng": 8.7833277,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|47": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "47",
+  "lat": 46.1670541,
+  "lng": 8.7829932,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|46": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "46",
+  "lat": 46.16738,
+  "lng": 8.7838488,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|44": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "44",
+  "lat": 46.1673536,
+  "lng": 8.7842072,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|26": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "26",
+  "lat": 46.167661,
+  "lng": 8.7869813,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|36": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "36",
+  "lat": 46.1674759,
+  "lng": 8.7850479,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|28": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "28",
+  "lat": 46.1674931,
+  "lng": 8.7861179,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|30": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "30",
+  "lat": 46.1677942,
+  "lng": 8.7858082,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|32": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "32",
+  "lat": 46.1674167,
+  "lng": 8.7857361,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|40": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "40",
+  "lat": 46.1674755,
+  "lng": 8.7846792,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|18": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "18",
+  "lat": 46.1679982,
+  "lng": 8.7880128,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|8": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "8",
+  "lat": 46.1680339,
+  "lng": 8.7891675,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|12": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "12",
+  "lat": 46.1679702,
+  "lng": 8.7888992,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|14": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "14",
+  "lat": 46.1679183,
+  "lng": 8.7886991,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|16": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "16",
+  "lat": 46.1679919,
+  "lng": 8.7884889,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|7": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "7",
+  "lat": 46.1676311,
+  "lng": 8.7896555,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|43": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "43",
+  "lat": 46.167106,
+  "lng": 8.7837632,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|41": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "41",
+  "lat": 46.1670983,
+  "lng": 8.7840267,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|21": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "21",
+  "lat": 46.1671709,
+  "lng": 8.7863542,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|33": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "33",
+  "lat": 46.1670954,
+  "lng": 8.7849713,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|37": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "37",
+  "lat": 46.1668407,
+  "lng": 8.7845649,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|35": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "35",
+  "lat": 46.1670765,
+  "lng": 8.784737,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|71b": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "71b",
+  "lat": 46.1671742,
+  "lng": 8.7797768,
+  "mieter": []
+ },
+ "locarno|via cittadella|20": {
+  "street": "Via Cittadella",
+  "hn": "20",
+  "lat": 46.1696529,
+  "lng": 8.7933699,
+  "mieter": []
+ },
+ "locarno|via alla ramogna|6": {
+  "street": "Via alla Ramogna",
+  "hn": "6",
+  "lat": 46.1713279,
+  "lng": 8.7989024,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|23": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "23",
+  "lat": 46.167,
+  "lng": 8.786055,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|31": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "31",
+  "lat": 46.1669801,
+  "lng": 8.7852567,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|29": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "29",
+  "lat": 46.167039,
+  "lng": 8.7855951,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|55": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "55",
+  "lat": 46.1671115,
+  "lng": 8.7821486,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|71c": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "71c",
+  "lat": 46.1670529,
+  "lng": 8.7799641,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|68": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "68",
+  "lat": 46.1677876,
+  "lng": 8.7794523,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|20b": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "20b",
+  "lat": 46.1681203,
+  "lng": 8.7875863,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|20a": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "20a",
+  "lat": 46.1677923,
+  "lng": 8.7875737,
+  "mieter": []
+ },
+ "locarno|via cittadella|5": {
+  "street": "Via Cittadella",
+  "hn": "5",
+  "lat": 46.1702113,
+  "lng": 8.7943819,
+  "mieter": []
+ },
+ "locarno|via alla ramogna|10": {
+  "street": "Via alla Ramogna",
+  "hn": "10",
+  "lat": 46.1709021,
+  "lng": 8.7992389,
+  "mieter": []
+ },
+ "locarno|via della motta|12": {
+  "street": "Via della Motta",
+  "hn": "12",
+  "lat": 46.1689977,
+  "lng": 8.793644,
+  "mieter": []
+ },
+ "locarno|via cittadella|21": {
+  "street": "Via Cittadella",
+  "hn": "21",
+  "lat": 46.1692812,
+  "lng": 8.7934279,
+  "mieter": []
+ },
+ "locarno|via della motta|8": {
+  "street": "Via della Motta",
+  "hn": "8",
+  "lat": 46.1688862,
+  "lng": 8.7938428,
+  "mieter": []
+ },
+ "locarno|via della motta|4": {
+  "street": "Via della Motta",
+  "hn": "4",
+  "lat": 46.1687534,
+  "lng": 8.7941381,
+  "mieter": []
+ },
+ "locarno|via della motta|2": {
+  "street": "Via della Motta",
+  "hn": "2",
+  "lat": 46.1687196,
+  "lng": 8.7942159,
+  "mieter": []
+ },
+ "locarno|via cittadella|18": {
+  "street": "Via Cittadella",
+  "hn": "18",
+  "lat": 46.169713,
+  "lng": 8.7935484,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|10": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "10",
+  "lat": 46.1679933,
+  "lng": 8.7890732,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|34": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "34",
+  "lat": 46.1674564,
+  "lng": 8.7853485,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|58": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "58",
+  "lat": 46.1676391,
+  "lng": 8.7819142,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|39": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "39",
+  "lat": 46.1671173,
+  "lng": 8.784256,
+  "mieter": []
+ },
+ "locarno|via bartolomeo varenna|59": {
+  "street": "Via Bartolomeo Varenna",
+  "hn": "59",
+  "lat": 46.1671969,
+  "lng": 8.7816824,
+  "mieter": []
+ },
+ "locarno|via cittadella|11": {
+  "street": "Via Cittadella",
+  "hn": "11",
+  "lat": 46.1698633,
+  "lng": 8.793977,
+  "mieter": []
+ },
+ "locarno|piazza grande|5": {
+  "street": "Piazza Grande",
+  "hn": "5",
+  "lat": 46.1692546,
+  "lng": 8.7960425,
+  "mieter": []
+ }
+}

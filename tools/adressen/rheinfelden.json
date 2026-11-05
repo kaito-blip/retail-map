@@ -1,0 +1,1046 @@
+{
+ "rheinfelden|kaiserstrasse|6": {
+  "street": "Kaiserstrasse",
+  "hn": "6",
+  "lat": 47.5531111,
+  "lng": 7.7947488,
+  "mieter": [
+   "PostFinance"
+  ]
+ },
+ "rheinfelden|kaiserstrasse|2": {
+  "street": "Kaiserstrasse",
+  "hn": "2",
+  "lat": 47.5533279,
+  "lng": 7.7952067,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|36": {
+  "street": "Marktgasse",
+  "hn": "36",
+  "lat": 47.5551545,
+  "lng": 7.7921946,
+  "mieter": [
+   "Feldschlösschen am Rhein"
+  ]
+ },
+ "rheinfelden|kaiserstrasse|8": {
+  "street": "Kaiserstrasse",
+  "hn": "8",
+  "lat": 47.5528289,
+  "lng": 7.7939989,
+  "mieter": [
+   "Aargauische Kantonalbank",
+   "Pneumologie Nordwest"
+  ]
+ },
+ "rheinfelden|kaiserstrasse|9": {
+  "street": "Kaiserstrasse",
+  "hn": "9",
+  "lat": 47.5523534,
+  "lng": 7.7943003,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|55": {
+  "street": "Marktgasse",
+  "hn": "55",
+  "lat": 47.5548363,
+  "lng": 7.7914007,
+  "mieter": [
+   "Rhein-Mühle"
+  ]
+ },
+ "rheinfelden|marktgasse|58": {
+  "street": "Marktgasse",
+  "hn": "58",
+  "lat": 47.5549494,
+  "lng": 7.7913336,
+  "mieter": [
+   "Schuh Müller",
+   "Marionnaud"
+  ]
+ },
+ "rheinfelden|marktgasse|48": {
+  "street": "Marktgasse",
+  "hn": "48",
+  "lat": 47.5550544,
+  "lng": 7.7917508,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|32": {
+  "street": "Marktgasse",
+  "hn": "32",
+  "lat": 47.5551973,
+  "lng": 7.792393,
+  "mieter": [
+   "Zweiblatt Concept Store"
+  ]
+ },
+ "rheinfelden|marktgasse|26": {
+  "street": "Marktgasse",
+  "hn": "26",
+  "lat": 47.5552678,
+  "lng": 7.7926581,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|24": {
+  "street": "Marktgasse",
+  "hn": "24",
+  "lat": 47.5552853,
+  "lng": 7.7927349,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|20": {
+  "street": "Marktgasse",
+  "hn": "20",
+  "lat": 47.5553126,
+  "lng": 7.7928847,
+  "mieter": [
+   "Veronesi Optik"
+  ]
+ },
+ "rheinfelden|marktgasse|14": {
+  "street": "Marktgasse",
+  "hn": "14",
+  "lat": 47.5553536,
+  "lng": 7.793366,
+  "mieter": [
+   "Löwen Apotheke"
+  ]
+ },
+ "rheinfelden|marktgasse|9": {
+  "street": "Marktgasse",
+  "hn": "9",
+  "lat": 47.5551986,
+  "lng": 7.7934978,
+  "mieter": [
+   "Eiscafé Mona Lisa"
+  ]
+ },
+ "rheinfelden|marktgasse|10": {
+  "street": "Marktgasse",
+  "hn": "10",
+  "lat": 47.5553876,
+  "lng": 7.7936392,
+  "mieter": [
+   "Stadtbibliothek Rheinfelden",
+   "Brasserie zum Salmen"
+  ]
+ },
+ "rheinfelden|bahnhofstrasse|19": {
+  "street": "Bahnhofstrasse",
+  "hn": "19",
+  "lat": 47.5531386,
+  "lng": 7.7923915,
+  "mieter": [
+   "Klinik Schützen Rheinfelden",
+   "Jazzclub Q4"
+  ]
+ },
+ "rheinfelden|marktgasse|61": {
+  "street": "Marktgasse",
+  "hn": "61",
+  "lat": 47.5547181,
+  "lng": 7.7911154,
+  "mieter": [
+   "knecht reisen"
+  ]
+ },
+ "rheinfelden|fröschweid|13": {
+  "street": "Fröschweid",
+  "hn": "13",
+  "lat": 47.5540365,
+  "lng": 7.7905224,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|13": {
+  "street": "Marktgasse",
+  "hn": "13",
+  "lat": 47.5551627,
+  "lng": 7.7932055,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|18": {
+  "street": "Kaiserstrasse",
+  "hn": "18",
+  "lat": 47.5526464,
+  "lng": 7.7904094,
+  "mieter": [
+   "Ipso International School"
+  ]
+ },
+ "rheinfelden|marktgasse|31": {
+  "street": "Marktgasse",
+  "hn": "31",
+  "lat": 47.5550557,
+  "lng": 7.7923703,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|29": {
+  "street": "Marktgasse",
+  "hn": "29",
+  "lat": 47.5547205,
+  "lng": 7.7914651,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|26": {
+  "street": "Bahnhofstrasse",
+  "hn": "26",
+  "lat": 47.5524167,
+  "lng": 7.7915034,
+  "mieter": [
+   "Praxis IAVO Rheinfelden Bahnhofstrasse"
+  ]
+ },
+ "rheinfelden|kaiserstrasse|7a": {
+  "street": "Kaiserstrasse",
+  "hn": "7a",
+  "lat": 47.5524932,
+  "lng": 7.7948401,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|28": {
+  "street": "Kaiserstrasse",
+  "hn": "28",
+  "lat": 47.5519609,
+  "lng": 7.7885593,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|30": {
+  "street": "Kaiserstrasse",
+  "hn": "30",
+  "lat": 47.55184,
+  "lng": 7.7880286,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|31": {
+  "street": "Kaiserstrasse",
+  "hn": "31",
+  "lat": 47.5516578,
+  "lng": 7.7880977,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|16": {
+  "street": "Marktgasse",
+  "hn": "16",
+  "lat": 47.5553638,
+  "lng": 7.7931435,
+  "mieter": [
+   "Rathaus"
+  ]
+ },
+ "rheinfelden|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 47.5546718,
+  "lng": 7.7921364,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 47.5533706,
+  "lng": 7.7921532,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|7b": {
+  "street": "Kaiserstrasse",
+  "hn": "7b",
+  "lat": 47.5522995,
+  "lng": 7.7948166,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|5a": {
+  "street": "Kaiserstrasse",
+  "hn": "5a",
+  "lat": 47.5525472,
+  "lng": 7.7951501,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|5b": {
+  "street": "Kaiserstrasse",
+  "hn": "5b",
+  "lat": 47.5524006,
+  "lng": 7.7953418,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|13": {
+  "street": "Kaiserstrasse",
+  "hn": "13",
+  "lat": 47.5520249,
+  "lng": 7.7944159,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|11": {
+  "street": "Kaiserstrasse",
+  "hn": "11",
+  "lat": 47.552181,
+  "lng": 7.7943629,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|8": {
+  "street": "Kupfergasse",
+  "hn": "8",
+  "lat": 47.5552984,
+  "lng": 7.7948521,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|1": {
+  "street": "Kupfergasse",
+  "hn": "1",
+  "lat": 47.5553336,
+  "lng": 7.7946246,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|17": {
+  "street": "Kupfergasse",
+  "hn": "17",
+  "lat": 47.5554119,
+  "lng": 7.7953451,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|10": {
+  "street": "Kupfergasse",
+  "hn": "10",
+  "lat": 47.5553007,
+  "lng": 7.794878,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|15": {
+  "street": "Kupfergasse",
+  "hn": "15",
+  "lat": 47.5553973,
+  "lng": 7.7952323,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|12": {
+  "street": "Kupfergasse",
+  "hn": "12",
+  "lat": 47.5553169,
+  "lng": 7.7949999,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|20": {
+  "street": "Kupfergasse",
+  "hn": "20",
+  "lat": 47.5553655,
+  "lng": 7.7953747,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|13": {
+  "street": "Kupfergasse",
+  "hn": "13",
+  "lat": 47.5553863,
+  "lng": 7.7951593,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|11": {
+  "street": "Kupfergasse",
+  "hn": "11",
+  "lat": 47.5553721,
+  "lng": 7.7950565,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|5": {
+  "street": "Kupfergasse",
+  "hn": "5",
+  "lat": 47.5553344,
+  "lng": 7.7947605,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|9": {
+  "street": "Kupfergasse",
+  "hn": "9",
+  "lat": 47.5553673,
+  "lng": 7.7949157,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|14": {
+  "street": "Kupfergasse",
+  "hn": "14",
+  "lat": 47.5553206,
+  "lng": 7.7950349,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|4": {
+  "street": "Kupfergasse",
+  "hn": "4",
+  "lat": 47.5552947,
+  "lng": 7.7947123,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|16": {
+  "street": "Kupfergasse",
+  "hn": "16",
+  "lat": 47.5553549,
+  "lng": 7.795228,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|18": {
+  "street": "Kupfergasse",
+  "hn": "18",
+  "lat": 47.555322,
+  "lng": 7.7953612,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|2": {
+  "street": "Kupfergasse",
+  "hn": "2",
+  "lat": 47.5552893,
+  "lng": 7.7946356,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|6": {
+  "street": "Kupfergasse",
+  "hn": "6",
+  "lat": 47.5552977,
+  "lng": 7.7947682,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|2": {
+  "street": "Marktgasse",
+  "hn": "2",
+  "lat": 47.5554017,
+  "lng": 7.7944448,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|15": {
+  "street": "Kaiserstrasse",
+  "hn": "15",
+  "lat": 47.5520813,
+  "lng": 7.7918834,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|8b": {
+  "street": "Marktgasse",
+  "hn": "8b",
+  "lat": 47.5554016,
+  "lng": 7.7939907,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|30": {
+  "street": "Bahnhofstrasse",
+  "hn": "30",
+  "lat": 47.5518156,
+  "lng": 7.7918892,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|8a": {
+  "street": "Marktgasse",
+  "hn": "8a",
+  "lat": 47.5553918,
+  "lng": 7.7941541,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|18": {
+  "street": "Marktgasse",
+  "hn": "18",
+  "lat": 47.5553903,
+  "lng": 7.7928938,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|21": {
+  "street": "Kaiserstrasse",
+  "hn": "21",
+  "lat": 47.5518887,
+  "lng": 7.7903216,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|23": {
+  "street": "Kaiserstrasse",
+  "hn": "23",
+  "lat": 47.5518353,
+  "lng": 7.7894575,
+  "mieter": [
+   "ehem. Cigarrenfabriken A. Wuhrmann & Cie. AG"
+  ]
+ },
+ "rheinfelden|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 47.5517364,
+  "lng": 7.792819,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|10a": {
+  "street": "Marktgasse",
+  "hn": "10a",
+  "lat": 47.5554248,
+  "lng": 7.7937634,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|3": {
+  "street": "Kaiserstrasse",
+  "hn": "3",
+  "lat": 47.5526009,
+  "lng": 7.7956343,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|37": {
+  "street": "Kaiserstrasse",
+  "hn": "37",
+  "lat": 47.5515223,
+  "lng": 7.7871365,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|27": {
+  "street": "Kaiserstrasse",
+  "hn": "27",
+  "lat": 47.5516779,
+  "lng": 7.788773,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|16.1": {
+  "street": "Bahnhofstrasse",
+  "hn": "16.1",
+  "lat": 47.5541165,
+  "lng": 7.790784,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|26": {
+  "street": "Kaiserstrasse",
+  "hn": "26",
+  "lat": 47.5521582,
+  "lng": 7.7889504,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|35": {
+  "street": "Kaiserstrasse",
+  "hn": "35",
+  "lat": 47.5515275,
+  "lng": 7.7874017,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|29": {
+  "street": "Kaiserstrasse",
+  "hn": "29",
+  "lat": 47.5516384,
+  "lng": 7.7884271,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|22": {
+  "street": "Kaiserstrasse",
+  "hn": "22",
+  "lat": 47.5521179,
+  "lng": 7.7894831,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|14": {
+  "street": "Fröschweid",
+  "hn": "14",
+  "lat": 47.554367,
+  "lng": 7.7904061,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|4": {
+  "street": "Fröschweid",
+  "hn": "4",
+  "lat": 47.5545962,
+  "lng": 7.7906642,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 47.5540661,
+  "lng": 7.7916242,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|34": {
+  "street": "Kaiserstrasse",
+  "hn": "34",
+  "lat": 47.5517885,
+  "lng": 7.7873617,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|2": {
+  "street": "Fröschweid",
+  "hn": "2",
+  "lat": 47.5547076,
+  "lng": 7.790681,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|44": {
+  "street": "Marktgasse",
+  "hn": "44",
+  "lat": 47.5551509,
+  "lng": 7.7918674,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|34.1": {
+  "street": "Marktgasse",
+  "hn": "34.1",
+  "lat": 47.5553455,
+  "lng": 7.7922026,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|49": {
+  "street": "Marktgasse",
+  "hn": "49",
+  "lat": 47.5548212,
+  "lng": 7.7916565,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 47.5546886,
+  "lng": 7.792009,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|57": {
+  "street": "Marktgasse",
+  "hn": "57",
+  "lat": 47.554785,
+  "lng": 7.7913486,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|34": {
+  "street": "Marktgasse",
+  "hn": "34",
+  "lat": 47.5552119,
+  "lng": 7.792275,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|43": {
+  "street": "Marktgasse",
+  "hn": "43",
+  "lat": 47.5548613,
+  "lng": 7.7918648,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|60": {
+  "street": "Marktgasse",
+  "hn": "60",
+  "lat": 47.5549108,
+  "lng": 7.7909435,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|46": {
+  "street": "Marktgasse",
+  "hn": "46",
+  "lat": 47.5551341,
+  "lng": 7.7917902,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|8c": {
+  "street": "Marktgasse",
+  "hn": "8c",
+  "lat": 47.5557049,
+  "lng": 7.79406,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|50": {
+  "street": "Marktgasse",
+  "hn": "50",
+  "lat": 47.5550997,
+  "lng": 7.7916035,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|38": {
+  "street": "Marktgasse",
+  "hn": "38",
+  "lat": 47.5551957,
+  "lng": 7.7920621,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|51": {
+  "street": "Marktgasse",
+  "hn": "51",
+  "lat": 47.554834,
+  "lng": 7.7915569,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|47": {
+  "street": "Marktgasse",
+  "hn": "47",
+  "lat": 47.5548629,
+  "lng": 7.791706,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|10b": {
+  "street": "Marktgasse",
+  "hn": "10b",
+  "lat": 47.5556689,
+  "lng": 7.7936185,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|59": {
+  "street": "Marktgasse",
+  "hn": "59",
+  "lat": 47.5547455,
+  "lng": 7.7912463,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|52": {
+  "street": "Marktgasse",
+  "hn": "52",
+  "lat": 47.5550691,
+  "lng": 7.7914997,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|30": {
+  "street": "Marktgasse",
+  "hn": "30",
+  "lat": 47.5553101,
+  "lng": 7.7924429,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|28": {
+  "street": "Marktgasse",
+  "hn": "28",
+  "lat": 47.5552932,
+  "lng": 7.792549,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|35": {
+  "street": "Marktgasse",
+  "hn": "35",
+  "lat": 47.5549407,
+  "lng": 7.7920936,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|41": {
+  "street": "Marktgasse",
+  "hn": "41",
+  "lat": 47.5549138,
+  "lng": 7.7919348,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|12": {
+  "street": "Marktgasse",
+  "hn": "12",
+  "lat": 47.5554106,
+  "lng": 7.7935112,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|33": {
+  "street": "Marktgasse",
+  "hn": "33",
+  "lat": 47.5549525,
+  "lng": 7.7921675,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|17": {
+  "street": "Marktgasse",
+  "hn": "17",
+  "lat": 47.555149,
+  "lng": 7.7930721,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|3": {
+  "street": "Marktgasse",
+  "hn": "3",
+  "lat": 47.5551654,
+  "lng": 7.7938184,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|19": {
+  "street": "Marktgasse",
+  "hn": "19",
+  "lat": 47.555138,
+  "lng": 7.7929945,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|27": {
+  "street": "Marktgasse",
+  "hn": "27",
+  "lat": 47.5550906,
+  "lng": 7.79263,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|23": {
+  "street": "Marktgasse",
+  "hn": "23",
+  "lat": 47.5550822,
+  "lng": 7.7928048,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|25": {
+  "street": "Marktgasse",
+  "hn": "25",
+  "lat": 47.555097,
+  "lng": 7.7927259,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|21": {
+  "street": "Marktgasse",
+  "hn": "21",
+  "lat": 47.5551503,
+  "lng": 7.7929068,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|15": {
+  "street": "Marktgasse",
+  "hn": "15",
+  "lat": 47.5551416,
+  "lng": 7.7931513,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|1": {
+  "street": "Marktgasse",
+  "hn": "1",
+  "lat": 47.5551167,
+  "lng": 7.7941556,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 47.5545491,
+  "lng": 7.7921795,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 47.5543591,
+  "lng": 7.792198,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.554195,
+  "lng": 7.7918128,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 47.5542834,
+  "lng": 7.7918723,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 47.554382,
+  "lng": 7.7918741,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 47.5544276,
+  "lng": 7.7921898,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|7": {
+  "street": "Marktgasse",
+  "hn": "7",
+  "lat": 47.5551511,
+  "lng": 7.7936066,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|5": {
+  "street": "Marktgasse",
+  "hn": "5",
+  "lat": 47.5551318,
+  "lng": 7.7936813,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|9": {
+  "street": "Fröschweid",
+  "hn": "9",
+  "lat": 47.5543612,
+  "lng": 7.7907547,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|22": {
+  "street": "Marktgasse",
+  "hn": "22",
+  "lat": 47.5553182,
+  "lng": 7.7927799,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|6": {
+  "street": "Marktgasse",
+  "hn": "6",
+  "lat": 47.555376,
+  "lng": 7.7943081,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|4": {
+  "street": "Marktgasse",
+  "hn": "4",
+  "lat": 47.555373,
+  "lng": 7.7943801,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|12": {
+  "street": "Fröschweid",
+  "hn": "12",
+  "lat": 47.5544401,
+  "lng": 7.7905334,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|10": {
+  "street": "Fröschweid",
+  "hn": "10",
+  "lat": 47.5544712,
+  "lng": 7.7905574,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|8": {
+  "street": "Fröschweid",
+  "hn": "8",
+  "lat": 47.5545172,
+  "lng": 7.7905885,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|6": {
+  "street": "Fröschweid",
+  "hn": "6",
+  "lat": 47.5545618,
+  "lng": 7.7906242,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|11": {
+  "street": "Fröschweid",
+  "hn": "11",
+  "lat": 47.5541195,
+  "lng": 7.7906797,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|5": {
+  "street": "Fröschweid",
+  "hn": "5",
+  "lat": 47.5544653,
+  "lng": 7.7908467,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|7": {
+  "street": "Fröschweid",
+  "hn": "7",
+  "lat": 47.5544352,
+  "lng": 7.7907766,
+  "mieter": []
+ },
+ "rheinfelden|fröschweid|1": {
+  "street": "Fröschweid",
+  "hn": "1",
+  "lat": 47.5545303,
+  "lng": 7.7909201,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 47.5537851,
+  "lng": 7.7912434,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|20": {
+  "street": "Bahnhofstrasse",
+  "hn": "20",
+  "lat": 47.5536463,
+  "lng": 7.7917279,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|22.1": {
+  "street": "Marktgasse",
+  "hn": "22.1",
+  "lat": 47.5554593,
+  "lng": 7.7927069,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|40": {
+  "street": "Marktgasse",
+  "hn": "40",
+  "lat": 47.555179,
+  "lng": 7.7919961,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|42": {
+  "street": "Marktgasse",
+  "hn": "42",
+  "lat": 47.5551648,
+  "lng": 7.7919304,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|54": {
+  "street": "Marktgasse",
+  "hn": "54",
+  "lat": 47.555031,
+  "lng": 7.7913805,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|56": {
+  "street": "Marktgasse",
+  "hn": "56",
+  "lat": 47.5550042,
+  "lng": 7.791286,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 47.5547854,
+  "lng": 7.7921707,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|37": {
+  "street": "Marktgasse",
+  "hn": "37",
+  "lat": 47.5549228,
+  "lng": 7.7920359,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|39": {
+  "street": "Marktgasse",
+  "hn": "39",
+  "lat": 47.5549133,
+  "lng": 7.7919945,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|45": {
+  "street": "Marktgasse",
+  "hn": "45",
+  "lat": 47.5548437,
+  "lng": 7.7917869,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|53": {
+  "street": "Marktgasse",
+  "hn": "53",
+  "lat": 47.5548151,
+  "lng": 7.7914942,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 47.554052,
+  "lng": 7.7920685,
+  "mieter": []
+ },
+ "rheinfelden|marktgasse|11": {
+  "street": "Marktgasse",
+  "hn": "11",
+  "lat": 47.5551344,
+  "lng": 7.7933374,
+  "mieter": []
+ },
+ "rheinfelden|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 47.5544956,
+  "lng": 7.7921836,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|4": {
+  "street": "Kaiserstrasse",
+  "hn": "4",
+  "lat": 47.5532794,
+  "lng": 7.7949853,
+  "mieter": []
+ },
+ "rheinfelden|kaiserstrasse|1": {
+  "street": "Kaiserstrasse",
+  "hn": "1",
+  "lat": 47.5525917,
+  "lng": 7.7959317,
+  "mieter": []
+ }
+}

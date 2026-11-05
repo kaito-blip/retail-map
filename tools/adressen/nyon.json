@@ -1,0 +1,1138 @@
+{
+ "nyon|rue de rive|12": {
+  "street": "Rue de Rive",
+  "hn": "12",
+  "lat": 46.3813679,
+  "lng": 6.2416194,
+  "mieter": [
+   "Le Cheval Blanc"
+  ]
+ },
+ "nyon|rue de rive|15": {
+  "street": "Rue de Rive",
+  "hn": "15",
+  "lat": 46.3823873,
+  "lng": 6.2431485,
+  "mieter": [
+   "La Brasserie du Rive"
+  ]
+ },
+ "nyon|rue de la gare|36": {
+  "street": "Rue de la Gare",
+  "hn": "36",
+  "lat": 46.3833815,
+  "lng": 6.2359032,
+  "mieter": [
+   "Elsalad"
+  ]
+ },
+ "nyon|grand-rue|22": {
+  "street": "Grand-Rue",
+  "hn": "22",
+  "lat": 46.3817972,
+  "lng": 6.2388193,
+  "mieter": [
+   "Ideo Human Capital"
+  ]
+ },
+ "nyon|grand-rue|21": {
+  "street": "Grand-Rue",
+  "hn": "21",
+  "lat": 46.381472,
+  "lng": 6.2386025,
+  "mieter": [
+   "L'èRe du Voyage"
+  ]
+ },
+ "nyon|rue de la gare|1": {
+  "street": "Rue de la Gare",
+  "hn": "1",
+  "lat": 46.3822256,
+  "lng": 6.238865,
+  "mieter": []
+ },
+ "nyon|rue de la gare|6": {
+  "street": "Rue de la Gare",
+  "hn": "6",
+  "lat": 46.3822438,
+  "lng": 6.2382593,
+  "mieter": []
+ },
+ "nyon|rue de la gare|8": {
+  "street": "Rue de la Gare",
+  "hn": "8",
+  "lat": 46.3823209,
+  "lng": 6.2380215,
+  "mieter": []
+ },
+ "nyon|grand-rue|29": {
+  "street": "Grand-Rue",
+  "hn": "29",
+  "lat": 46.3811752,
+  "lng": 6.2384183,
+  "mieter": []
+ },
+ "nyon|place du marché|3": {
+  "street": "Place du Marché",
+  "hn": "3",
+  "lat": 46.3818766,
+  "lng": 6.2383336,
+  "mieter": []
+ },
+ "nyon|place du marché|1": {
+  "street": "Place du Marché",
+  "hn": "1",
+  "lat": 46.3818086,
+  "lng": 6.2386509,
+  "mieter": []
+ },
+ "nyon|grand-rue|37": {
+  "street": "Grand-Rue",
+  "hn": "37",
+  "lat": 46.3806683,
+  "lng": 6.2383782,
+  "mieter": []
+ },
+ "nyon|rue neuve|16": {
+  "street": "Rue Neuve",
+  "hn": "16",
+  "lat": 46.3827856,
+  "lng": 6.2377422,
+  "mieter": []
+ },
+ "nyon|rue neuve|12": {
+  "street": "Rue Neuve",
+  "hn": "12",
+  "lat": 46.3829434,
+  "lng": 6.238145,
+  "mieter": []
+ },
+ "nyon|rue neuve|8": {
+  "street": "Rue Neuve",
+  "hn": "8",
+  "lat": 46.3831843,
+  "lng": 6.2387696,
+  "mieter": [
+   "Rhizone Le Salon"
+  ]
+ },
+ "nyon|rue neuve|6": {
+  "street": "Rue Neuve",
+  "hn": "6",
+  "lat": 46.3832004,
+  "lng": 6.2388759,
+  "mieter": [
+   "Cabinet Dr. Giannelli Sandra"
+  ]
+ },
+ "nyon|rue neuve|4": {
+  "street": "Rue Neuve",
+  "hn": "4",
+  "lat": 46.3832028,
+  "lng": 6.2390522,
+  "mieter": []
+ },
+ "nyon|rue de rive|46": {
+  "street": "Rue de Rive",
+  "hn": "46",
+  "lat": 46.3821296,
+  "lng": 6.2425181,
+  "mieter": []
+ },
+ "nyon|rue de rive|48": {
+  "street": "Rue de Rive",
+  "hn": "48",
+  "lat": 46.3821219,
+  "lng": 6.242382,
+  "mieter": []
+ },
+ "nyon|rue de rive|38": {
+  "street": "Rue de Rive",
+  "hn": "38",
+  "lat": 46.382346,
+  "lng": 6.2428314,
+  "mieter": []
+ },
+ "nyon|rue de rive|36": {
+  "street": "Rue de Rive",
+  "hn": "36",
+  "lat": 46.3823821,
+  "lng": 6.2428607,
+  "mieter": []
+ },
+ "nyon|rue de rive|34": {
+  "street": "Rue de Rive",
+  "hn": "34",
+  "lat": 46.3824873,
+  "lng": 6.2429469,
+  "mieter": []
+ },
+ "nyon|rue de rive|64": {
+  "street": "Rue de Rive",
+  "hn": "64",
+  "lat": 46.3811896,
+  "lng": 6.2415252,
+  "mieter": []
+ },
+ "nyon|rue de rive|66": {
+  "street": "Rue de Rive",
+  "hn": "66",
+  "lat": 46.3811057,
+  "lng": 6.2414652,
+  "mieter": [
+   "L'abri"
+  ]
+ },
+ "nyon|rue de rive|49": {
+  "street": "Rue de Rive",
+  "hn": "49",
+  "lat": 46.3813586,
+  "lng": 6.2418549,
+  "mieter": []
+ },
+ "nyon|rue de rive|53": {
+  "street": "Rue de Rive",
+  "hn": "53",
+  "lat": 46.3811928,
+  "lng": 6.2417394,
+  "mieter": []
+ },
+ "nyon|rue de rive|55": {
+  "street": "Rue de Rive",
+  "hn": "55",
+  "lat": 46.381142,
+  "lng": 6.2416486,
+  "mieter": []
+ },
+ "nyon|rue de rive|65": {
+  "street": "Rue de Rive",
+  "hn": "65",
+  "lat": 46.3807858,
+  "lng": 6.2414343,
+  "mieter": []
+ },
+ "nyon|rue de rive|9": {
+  "street": "Rue de Rive",
+  "hn": "9",
+  "lat": 46.3836548,
+  "lng": 6.2444277,
+  "mieter": []
+ },
+ "nyon|rue de la gare|38": {
+  "street": "Rue de la Gare",
+  "hn": "38",
+  "lat": 46.3835735,
+  "lng": 6.2357321,
+  "mieter": []
+ },
+ "nyon|rue de la gare|21": {
+  "street": "Rue de la Gare",
+  "hn": "21",
+  "lat": 46.3828743,
+  "lng": 6.2371925,
+  "mieter": []
+ },
+ "nyon|rue de la gare|23": {
+  "street": "Rue de la Gare",
+  "hn": "23",
+  "lat": 46.3828891,
+  "lng": 6.2371677,
+  "mieter": []
+ },
+ "nyon|rue de la gare|25": {
+  "street": "Rue de la Gare",
+  "hn": "25",
+  "lat": 46.3829201,
+  "lng": 6.2370993,
+  "mieter": []
+ },
+ "nyon|rue neuve|7": {
+  "street": "Rue Neuve",
+  "hn": "7",
+  "lat": 46.3830783,
+  "lng": 6.2381319,
+  "mieter": []
+ },
+ "nyon|rue de la gare|35bis": {
+  "street": "Rue de la Gare",
+  "hn": "35bis",
+  "lat": 46.3835244,
+  "lng": 6.2369612,
+  "mieter": []
+ },
+ "nyon|rue de la gare|27": {
+  "street": "Rue de la Gare",
+  "hn": "27",
+  "lat": 46.3829353,
+  "lng": 6.2370738,
+  "mieter": []
+ },
+ "nyon|rue de la gare|35": {
+  "street": "Rue de la Gare",
+  "hn": "35",
+  "lat": 46.3830876,
+  "lng": 6.2368362,
+  "mieter": []
+ },
+ "nyon|rue de la gare|37": {
+  "street": "Rue de la Gare",
+  "hn": "37",
+  "lat": 46.3832482,
+  "lng": 6.2366146,
+  "mieter": []
+ },
+ "nyon|rue de la gare|41": {
+  "street": "Rue de la Gare",
+  "hn": "41",
+  "lat": 46.3834171,
+  "lng": 6.2362274,
+  "mieter": []
+ },
+ "nyon|rue de la gare|43": {
+  "street": "Rue de la Gare",
+  "hn": "43",
+  "lat": 46.3835652,
+  "lng": 6.2360365,
+  "mieter": []
+ },
+ "nyon|rue de la gare|14": {
+  "street": "Rue de la Gare",
+  "hn": "14",
+  "lat": 46.3826197,
+  "lng": 6.2375032,
+  "mieter": []
+ },
+ "nyon|rue de rive|14": {
+  "street": "Rue de Rive",
+  "hn": "14",
+  "lat": 46.3843541,
+  "lng": 6.2452053,
+  "mieter": []
+ },
+ "nyon|rue de rive|6a": {
+  "street": "Rue de Rive",
+  "hn": "6a",
+  "lat": 46.3849827,
+  "lng": 6.2448457,
+  "mieter": []
+ },
+ "nyon|rue de rive|6b": {
+  "street": "Rue de Rive",
+  "hn": "6b",
+  "lat": 46.3848846,
+  "lng": 6.2446871,
+  "mieter": []
+ },
+ "nyon|rue de rive|6c": {
+  "street": "Rue de Rive",
+  "hn": "6c",
+  "lat": 46.3848972,
+  "lng": 6.2445143,
+  "mieter": []
+ },
+ "nyon|rue de rive|3": {
+  "street": "Rue de Rive",
+  "hn": "3",
+  "lat": 46.3839121,
+  "lng": 6.246081,
+  "mieter": []
+ },
+ "nyon|rue de la gare|13": {
+  "street": "Rue de la Gare",
+  "hn": "13",
+  "lat": 46.3942245,
+  "lng": 6.2469384,
+  "mieter": []
+ },
+ "nyon|rue de la gare|4": {
+  "street": "Rue de la Gare",
+  "hn": "4",
+  "lat": 46.3944053,
+  "lng": 6.2489573,
+  "mieter": []
+ },
+ "nyon|rue de la gare|4b": {
+  "street": "Rue de la Gare",
+  "hn": "4b",
+  "lat": 46.3944544,
+  "lng": 6.2489118,
+  "mieter": []
+ },
+ "nyon|rue de la gare|17": {
+  "street": "Rue de la Gare",
+  "hn": "17",
+  "lat": 46.3828364,
+  "lng": 6.2373117,
+  "mieter": [
+   "Le Cercle du Thé"
+  ]
+ },
+ "nyon|grand-rue|22bis": {
+  "street": "Grand-Rue",
+  "hn": "22bis",
+  "lat": 46.3817799,
+  "lng": 6.2388087,
+  "mieter": [
+   "La Parenthèse"
+  ]
+ },
+ "nyon|rue de la gare|11": {
+  "street": "Rue de la Gare",
+  "hn": "11",
+  "lat": 46.3824757,
+  "lng": 6.2381276,
+  "mieter": [
+   "Marie-Jo Couture"
+  ]
+ },
+ "nyon|grand-rue|10": {
+  "street": "Grand-Rue",
+  "hn": "10",
+  "lat": 46.3820112,
+  "lng": 6.2389765,
+  "mieter": [
+   "Baroque et Rococo"
+  ]
+ },
+ "nyon|place du marché|2": {
+  "street": "Place du Marché",
+  "hn": "2",
+  "lat": 46.3819111,
+  "lng": 6.2387572,
+  "mieter": [
+   "Espace eeeeh!"
+  ]
+ },
+ "nyon|rue neuve|14": {
+  "street": "Rue Neuve",
+  "hn": "14",
+  "lat": 46.3829416,
+  "lng": 6.2381312,
+  "mieter": [
+   "a2 nails"
+  ]
+ },
+ "nyon|grand-rue|5": {
+  "street": "Grand-Rue",
+  "hn": "5",
+  "lat": 46.3824788,
+  "lng": 6.2391488,
+  "mieter": [
+   "Décor Penché"
+  ]
+ },
+ "nyon|rue de rive|68": {
+  "street": "Rue de Rive",
+  "hn": "68",
+  "lat": 46.3810041,
+  "lng": 6.2413194,
+  "mieter": []
+ },
+ "nyon|grand-rue|10,18": {
+  "street": "Grand-Rue",
+  "hn": "10,18",
+  "lat": 46.3819948,
+  "lng": 6.239092,
+  "mieter": []
+ },
+ "nyon|grand-rue|2": {
+  "street": "Grand-Rue",
+  "hn": "2",
+  "lat": 46.3825114,
+  "lng": 6.2393685,
+  "mieter": []
+ },
+ "nyon|grand-rue|6": {
+  "street": "Grand-Rue",
+  "hn": "6",
+  "lat": 46.3821476,
+  "lng": 6.239181,
+  "mieter": []
+ },
+ "nyon|grand-rue|4": {
+  "street": "Grand-Rue",
+  "hn": "4",
+  "lat": 46.3822209,
+  "lng": 6.2391733,
+  "mieter": []
+ },
+ "nyon|rue de la gare|45": {
+  "street": "Rue de la Gare",
+  "hn": "45",
+  "lat": 46.3836795,
+  "lng": 6.2360004,
+  "mieter": []
+ },
+ "nyon|rue de la gare|5": {
+  "street": "Rue de la Gare",
+  "hn": "5",
+  "lat": 46.3824181,
+  "lng": 6.2385559,
+  "mieter": []
+ },
+ "nyon|rue de la gare|3": {
+  "street": "Rue de la Gare",
+  "hn": "3",
+  "lat": 46.3822834,
+  "lng": 6.2386747,
+  "mieter": []
+ },
+ "nyon|grand-rue|9": {
+  "street": "Grand-Rue",
+  "hn": "9",
+  "lat": 46.3823592,
+  "lng": 6.2389328,
+  "mieter": []
+ },
+ "nyon|grand-rue|5,7": {
+  "street": "Grand-Rue",
+  "hn": "5,7",
+  "lat": 46.3824708,
+  "lng": 6.2389924,
+  "mieter": []
+ },
+ "nyon|rue de la gare|7": {
+  "street": "Rue de la Gare",
+  "hn": "7",
+  "lat": 46.3824099,
+  "lng": 6.238466,
+  "mieter": []
+ },
+ "nyon|rue de la gare|9": {
+  "street": "Rue de la Gare",
+  "hn": "9",
+  "lat": 46.3824428,
+  "lng": 6.2383474,
+  "mieter": []
+ },
+ "nyon|grand-rue|3": {
+  "street": "Grand-Rue",
+  "hn": "3",
+  "lat": 46.3825516,
+  "lng": 6.2390698,
+  "mieter": []
+ },
+ "nyon|rue de la gare|2": {
+  "street": "Rue de la Gare",
+  "hn": "2",
+  "lat": 46.3821038,
+  "lng": 6.2387764,
+  "mieter": []
+ },
+ "nyon|grand-rue|13": {
+  "street": "Grand-Rue",
+  "hn": "13",
+  "lat": 46.3820255,
+  "lng": 6.238735,
+  "mieter": []
+ },
+ "nyon|grand-rue|20": {
+  "street": "Grand-Rue",
+  "hn": "20",
+  "lat": 46.381855,
+  "lng": 6.2389848,
+  "mieter": []
+ },
+ "nyon|grand-rue|24b": {
+  "street": "Grand-Rue",
+  "hn": "24b",
+  "lat": 46.3816359,
+  "lng": 6.2392353,
+  "mieter": []
+ },
+ "nyon|grand-rue|26bis": {
+  "street": "Grand-Rue",
+  "hn": "26bis",
+  "lat": 46.3814923,
+  "lng": 6.238746,
+  "mieter": []
+ },
+ "nyon|grand-rue|24a": {
+  "street": "Grand-Rue",
+  "hn": "24a",
+  "lat": 46.3816699,
+  "lng": 6.2388838,
+  "mieter": []
+ },
+ "nyon|grand-rue|31,33": {
+  "street": "Grand-Rue",
+  "hn": "31,33",
+  "lat": 46.3810922,
+  "lng": 6.2382704,
+  "mieter": []
+ },
+ "nyon|grand-rue|39": {
+  "street": "Grand-Rue",
+  "hn": "39",
+  "lat": 46.3805213,
+  "lng": 6.2382352,
+  "mieter": []
+ },
+ "nyon|grand-rue|36": {
+  "street": "Grand-Rue",
+  "hn": "36",
+  "lat": 46.3811349,
+  "lng": 6.2386484,
+  "mieter": []
+ },
+ "nyon|grand-rue|35": {
+  "street": "Grand-Rue",
+  "hn": "35",
+  "lat": 46.3809959,
+  "lng": 6.2382735,
+  "mieter": []
+ },
+ "nyon|grand-rue|28": {
+  "street": "Grand-Rue",
+  "hn": "28",
+  "lat": 46.3813157,
+  "lng": 6.2387179,
+  "mieter": []
+ },
+ "nyon|grand-rue|15": {
+  "street": "Grand-Rue",
+  "hn": "15",
+  "lat": 46.3816769,
+  "lng": 6.2386073,
+  "mieter": []
+ },
+ "nyon|grand-rue|23,25": {
+  "street": "Grand-Rue",
+  "hn": "23,25",
+  "lat": 46.3814069,
+  "lng": 6.2384706,
+  "mieter": []
+ },
+ "nyon|grand-rue|17": {
+  "street": "Grand-Rue",
+  "hn": "17",
+  "lat": 46.3816109,
+  "lng": 6.238545,
+  "mieter": []
+ },
+ "nyon|grand-rue|27": {
+  "street": "Grand-Rue",
+  "hn": "27",
+  "lat": 46.3813153,
+  "lng": 6.238388,
+  "mieter": []
+ },
+ "nyon|grand-rue|19": {
+  "street": "Grand-Rue",
+  "hn": "19",
+  "lat": 46.381548,
+  "lng": 6.2385647,
+  "mieter": []
+ },
+ "nyon|rue de la gare|18": {
+  "street": "Rue de la Gare",
+  "hn": "18",
+  "lat": 46.3826927,
+  "lng": 6.2371809,
+  "mieter": []
+ },
+ "nyon|rue de la gare|32": {
+  "street": "Rue de la Gare",
+  "hn": "32",
+  "lat": 46.3830168,
+  "lng": 6.2365292,
+  "mieter": []
+ },
+ "nyon|rue de la gare|30": {
+  "street": "Rue de la Gare",
+  "hn": "30",
+  "lat": 46.3829859,
+  "lng": 6.2366322,
+  "mieter": []
+ },
+ "nyon|rue de la gare|24": {
+  "street": "Rue de la Gare",
+  "hn": "24",
+  "lat": 46.3828458,
+  "lng": 6.2369449,
+  "mieter": []
+ },
+ "nyon|rue de la gare|20": {
+  "street": "Rue de la Gare",
+  "hn": "20",
+  "lat": 46.3827468,
+  "lng": 6.2371099,
+  "mieter": []
+ },
+ "nyon|rue de la gare|26": {
+  "street": "Rue de la Gare",
+  "hn": "26",
+  "lat": 46.382889,
+  "lng": 6.2368379,
+  "mieter": []
+ },
+ "nyon|rue de la gare|22": {
+  "street": "Rue de la Gare",
+  "hn": "22",
+  "lat": 46.3827793,
+  "lng": 6.2370217,
+  "mieter": []
+ },
+ "nyon|rue de la gare|28": {
+  "street": "Rue de la Gare",
+  "hn": "28",
+  "lat": 46.3829217,
+  "lng": 6.2367163,
+  "mieter": []
+ },
+ "nyon|rue de la gare|16": {
+  "street": "Rue de la Gare",
+  "hn": "16",
+  "lat": 46.3826288,
+  "lng": 6.2373507,
+  "mieter": []
+ },
+ "nyon|rue de la gare|34": {
+  "street": "Rue de la Gare",
+  "hn": "34",
+  "lat": 46.3830634,
+  "lng": 6.236416,
+  "mieter": []
+ },
+ "nyon|rue de la gare|39": {
+  "street": "Rue de la Gare",
+  "hn": "39",
+  "lat": 46.3833515,
+  "lng": 6.2363885,
+  "mieter": []
+ },
+ "nyon|rue neuve|5": {
+  "street": "Rue Neuve",
+  "hn": "5",
+  "lat": 46.3831979,
+  "lng": 6.2382793,
+  "mieter": []
+ },
+ "nyon|rue neuve|3": {
+  "street": "Rue Neuve",
+  "hn": "3",
+  "lat": 46.3832836,
+  "lng": 6.2384876,
+  "mieter": []
+ },
+ "nyon|rue de la gare|19": {
+  "street": "Rue de la Gare",
+  "hn": "19",
+  "lat": 46.3828987,
+  "lng": 6.2372809,
+  "mieter": []
+ },
+ "nyon|rue de rive|1": {
+  "street": "Rue de Rive",
+  "hn": "1",
+  "lat": 46.3844045,
+  "lng": 6.2457889,
+  "mieter": []
+ },
+ "nyon|rue de rive|20": {
+  "street": "Rue de Rive",
+  "hn": "20",
+  "lat": 46.3841151,
+  "lng": 6.244682,
+  "mieter": []
+ },
+ "nyon|rue de rive|2": {
+  "street": "Rue de Rive",
+  "hn": "2",
+  "lat": 46.3846735,
+  "lng": 6.2452871,
+  "mieter": []
+ },
+ "nyon|rue de rive|16": {
+  "street": "Rue de Rive",
+  "hn": "16",
+  "lat": 46.3843092,
+  "lng": 6.2450209,
+  "mieter": []
+ },
+ "nyon|rue de rive|18": {
+  "street": "Rue de Rive",
+  "hn": "18",
+  "lat": 46.3842738,
+  "lng": 6.2448325,
+  "mieter": []
+ },
+ "nyon|rue de rive|22": {
+  "street": "Rue de Rive",
+  "hn": "22",
+  "lat": 46.3840175,
+  "lng": 6.2444536,
+  "mieter": []
+ },
+ "nyon|rue de rive|22a": {
+  "street": "Rue de Rive",
+  "hn": "22a",
+  "lat": 46.3839037,
+  "lng": 6.2442785,
+  "mieter": []
+ },
+ "nyon|rue de rive|61": {
+  "street": "Rue de Rive",
+  "hn": "61",
+  "lat": 46.3809122,
+  "lng": 6.2416716,
+  "mieter": []
+ },
+ "nyon|rue de rive|63": {
+  "street": "Rue de Rive",
+  "hn": "63",
+  "lat": 46.3808393,
+  "lng": 6.241566,
+  "mieter": []
+ },
+ "nyon|rue de rive|57": {
+  "street": "Rue de Rive",
+  "hn": "57",
+  "lat": 46.3810452,
+  "lng": 6.2416594,
+  "mieter": []
+ },
+ "nyon|rue de rive|43": {
+  "street": "Rue de Rive",
+  "hn": "43",
+  "lat": 46.3816269,
+  "lng": 6.242046,
+  "mieter": []
+ },
+ "nyon|rue de rive|31": {
+  "street": "Rue de Rive",
+  "hn": "31",
+  "lat": 46.3819824,
+  "lng": 6.2424217,
+  "mieter": []
+ },
+ "nyon|rue de rive|33": {
+  "street": "Rue de Rive",
+  "hn": "33",
+  "lat": 46.381998,
+  "lng": 6.2422684,
+  "mieter": []
+ },
+ "nyon|rue de rive|37": {
+  "street": "Rue de Rive",
+  "hn": "37",
+  "lat": 46.3818317,
+  "lng": 6.2422755,
+  "mieter": []
+ },
+ "nyon|rue de rive|45": {
+  "street": "Rue de Rive",
+  "hn": "45",
+  "lat": 46.3815218,
+  "lng": 6.2419814,
+  "mieter": []
+ },
+ "nyon|rue de rive|35": {
+  "street": "Rue de Rive",
+  "hn": "35",
+  "lat": 46.3819322,
+  "lng": 6.242241,
+  "mieter": []
+ },
+ "nyon|rue de rive|41": {
+  "street": "Rue de Rive",
+  "hn": "41",
+  "lat": 46.3817107,
+  "lng": 6.2420653,
+  "mieter": []
+ },
+ "nyon|rue de rive|51": {
+  "street": "Rue de Rive",
+  "hn": "51",
+  "lat": 46.3811826,
+  "lng": 6.2419856,
+  "mieter": []
+ },
+ "nyon|rue de rive|39": {
+  "street": "Rue de Rive",
+  "hn": "39",
+  "lat": 46.3817605,
+  "lng": 6.2421418,
+  "mieter": []
+ },
+ "nyon|rue de rive|21": {
+  "street": "Rue de Rive",
+  "hn": "21",
+  "lat": 46.3820892,
+  "lng": 6.2427814,
+  "mieter": []
+ },
+ "nyon|rue de rive|19": {
+  "street": "Rue de Rive",
+  "hn": "19",
+  "lat": 46.3821674,
+  "lng": 6.242901,
+  "mieter": []
+ },
+ "nyon|rue de rive|17": {
+  "street": "Rue de Rive",
+  "hn": "17",
+  "lat": 46.3822238,
+  "lng": 6.2430073,
+  "mieter": []
+ },
+ "nyon|rue de rive|58bis": {
+  "street": "Rue de Rive",
+  "hn": "58bis",
+  "lat": 46.381639,
+  "lng": 6.2416528,
+  "mieter": []
+ },
+ "nyon|rue de rive|58": {
+  "street": "Rue de Rive",
+  "hn": "58",
+  "lat": 46.381707,
+  "lng": 6.2416956,
+  "mieter": []
+ },
+ "nyon|rue de rive|56": {
+  "street": "Rue de Rive",
+  "hn": "56",
+  "lat": 46.3817595,
+  "lng": 6.2417212,
+  "mieter": []
+ },
+ "nyon|rue de rive|60": {
+  "street": "Rue de Rive",
+  "hn": "60",
+  "lat": 46.3814704,
+  "lng": 6.2416811,
+  "mieter": []
+ },
+ "nyon|rue de rive|62": {
+  "street": "Rue de Rive",
+  "hn": "62",
+  "lat": 46.3813697,
+  "lng": 6.2416095,
+  "mieter": []
+ },
+ "nyon|rue de rive|54": {
+  "street": "Rue de Rive",
+  "hn": "54",
+  "lat": 46.3818791,
+  "lng": 6.241857,
+  "mieter": []
+ },
+ "nyon|rue de rive|24": {
+  "street": "Rue de Rive",
+  "hn": "24",
+  "lat": 46.382975,
+  "lng": 6.2433974,
+  "mieter": []
+ },
+ "nyon|rue de rive|32": {
+  "street": "Rue de Rive",
+  "hn": "32",
+  "lat": 46.3826907,
+  "lng": 6.2429736,
+  "mieter": []
+ },
+ "nyon|rue de rive|42": {
+  "street": "Rue de Rive",
+  "hn": "42",
+  "lat": 46.3823116,
+  "lng": 6.2426355,
+  "mieter": []
+ },
+ "nyon|rue de rive|40": {
+  "street": "Rue de Rive",
+  "hn": "40",
+  "lat": 46.3823544,
+  "lng": 6.242674,
+  "mieter": []
+ },
+ "nyon|rue de rive|44": {
+  "street": "Rue de Rive",
+  "hn": "44",
+  "lat": 46.3822726,
+  "lng": 6.2425907,
+  "mieter": []
+ },
+ "nyon|rue de rive|50": {
+  "street": "Rue de Rive",
+  "hn": "50",
+  "lat": 46.3822021,
+  "lng": 6.2423351,
+  "mieter": []
+ },
+ "nyon|rue de rive|52": {
+  "street": "Rue de Rive",
+  "hn": "52",
+  "lat": 46.3822462,
+  "lng": 6.2422885,
+  "mieter": []
+ },
+ "nyon|rue de rive|26": {
+  "street": "Rue de Rive",
+  "hn": "26",
+  "lat": 46.3828932,
+  "lng": 6.2433252,
+  "mieter": []
+ },
+ "nyon|rue de rive|30": {
+  "street": "Rue de Rive",
+  "hn": "30",
+  "lat": 46.3827312,
+  "lng": 6.2431298,
+  "mieter": []
+ },
+ "nyon|rue de rive|28": {
+  "street": "Rue de Rive",
+  "hn": "28",
+  "lat": 46.3827841,
+  "lng": 6.2432821,
+  "mieter": []
+ },
+ "nyon|rue de rive|11": {
+  "street": "Rue de Rive",
+  "hn": "11",
+  "lat": 46.3835355,
+  "lng": 6.2443152,
+  "mieter": []
+ },
+ "nyon|rue de rive|13": {
+  "street": "Rue de Rive",
+  "hn": "13",
+  "lat": 46.3831929,
+  "lng": 6.2439788,
+  "mieter": []
+ },
+ "nyon|rue de rive|22bis": {
+  "street": "Rue de Rive",
+  "hn": "22bis",
+  "lat": 46.3841305,
+  "lng": 6.2441993,
+  "mieter": []
+ },
+ "nyon|rue de la gare|31": {
+  "street": "Rue de la Gare",
+  "hn": "31",
+  "lat": 46.3962396,
+  "lng": 6.2449386,
+  "mieter": []
+ },
+ "nyon|rue de la gare|33a": {
+  "street": "Rue de la Gare",
+  "hn": "33a",
+  "lat": 46.3963573,
+  "lng": 6.2438668,
+  "mieter": []
+ },
+ "nyon|rue de la gare|37a": {
+  "street": "Rue de la Gare",
+  "hn": "37a",
+  "lat": 46.3965738,
+  "lng": 6.2433185,
+  "mieter": []
+ },
+ "nyon|rue de la gare|36a": {
+  "street": "Rue de la Gare",
+  "hn": "36a",
+  "lat": 46.3968709,
+  "lng": 6.2439734,
+  "mieter": []
+ },
+ "nyon|rue de la gare|33": {
+  "street": "Rue de la Gare",
+  "hn": "33",
+  "lat": 46.3964497,
+  "lng": 6.2439031,
+  "mieter": []
+ },
+ "nyon|rue de la gare|19d": {
+  "street": "Rue de la Gare",
+  "hn": "19d",
+  "lat": 46.395047,
+  "lng": 6.245882,
+  "mieter": []
+ },
+ "nyon|rue de la gare|15b": {
+  "street": "Rue de la Gare",
+  "hn": "15b",
+  "lat": 46.3945714,
+  "lng": 6.2464511,
+  "mieter": []
+ },
+ "nyon|rue de la gare|15": {
+  "street": "Rue de la Gare",
+  "hn": "15",
+  "lat": 46.3948287,
+  "lng": 6.2467753,
+  "mieter": []
+ },
+ "nyon|rue de la gare|14a": {
+  "street": "Rue de la Gare",
+  "hn": "14a",
+  "lat": 46.3947415,
+  "lng": 6.2480249,
+  "mieter": []
+ },
+ "nyon|rue de la gare|12": {
+  "street": "Rue de la Gare",
+  "hn": "12",
+  "lat": 46.3945692,
+  "lng": 6.2482033,
+  "mieter": []
+ },
+ "nyon|rue de la gare|29": {
+  "street": "Rue de la Gare",
+  "hn": "29",
+  "lat": 46.3954806,
+  "lng": 6.2451329,
+  "mieter": []
+ },
+ "nyon|grand-rue|26": {
+  "street": "Grand-Rue",
+  "hn": "26",
+  "lat": 46.3815754,
+  "lng": 6.2388456,
+  "mieter": []
+ },
+ "nyon|grand-rue|38": {
+  "street": "Grand-Rue",
+  "hn": "38",
+  "lat": 46.3805851,
+  "lng": 6.2385504,
+  "mieter": []
+ },
+ "nyon|grand-rue|41": {
+  "street": "Grand-Rue",
+  "hn": "41",
+  "lat": 46.3804047,
+  "lng": 6.2382476,
+  "mieter": []
+ },
+ "nyon|rue de la gare|19c": {
+  "street": "Rue de la Gare",
+  "hn": "19c",
+  "lat": 46.3951838,
+  "lng": 6.2461025,
+  "mieter": []
+ },
+ "nyon|rue de rive|5": {
+  "street": "Rue de Rive",
+  "hn": "5",
+  "lat": 46.3840603,
+  "lng": 6.2464276,
+  "mieter": []
+ },
+ "nyon|rue de la gare|19a": {
+  "street": "Rue de la Gare",
+  "hn": "19a",
+  "lat": 46.3953359,
+  "lng": 6.246297,
+  "mieter": []
+ },
+ "nyon|rue de la gare|19b": {
+  "street": "Rue de la Gare",
+  "hn": "19b",
+  "lat": 46.3952598,
+  "lng": 6.2461998,
+  "mieter": []
+ }
+}

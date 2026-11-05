@@ -1,0 +1,1999 @@
+{
+ "appenzell|weissbadstrasse|71": {
+  "street": "Weissbadstrasse",
+  "hn": "71",
+  "lat": 47.3265636,
+  "lng": 9.4209783,
+  "mieter": [
+   "Badi Appenzell"
+  ]
+ },
+ "appenzell|weissbadstrasse|2": {
+  "street": "Weissbadstrasse",
+  "hn": "2",
+  "lat": 47.3305776,
+  "lng": 9.4109331,
+  "mieter": [
+   "Fonduekeller"
+  ]
+ },
+ "appenzell|zielstrasse|2": {
+  "street": "Zielstrasse",
+  "hn": "2",
+  "lat": 47.3318532,
+  "lng": 9.4081034,
+  "mieter": [
+   "Blumen Barbara",
+   "SME Architektur"
+  ]
+ },
+ "appenzell|engelgasse|9": {
+  "street": "Engelgasse",
+  "hn": "9",
+  "lat": 47.3306871,
+  "lng": 9.4073736,
+  "mieter": [
+   "BÖHLI AG, Bäckerei Confiserie"
+  ]
+ },
+ "appenzell|marktgasse|2": {
+  "street": "Marktgasse",
+  "hn": "2",
+  "lat": 47.3311981,
+  "lng": 9.4095875,
+  "mieter": [
+   "Kantonsbibliothek",
+   "Landeskanzlei"
+  ]
+ },
+ "appenzell|hauptgasse|21": {
+  "street": "Hauptgasse",
+  "hn": "21",
+  "lat": 47.3306822,
+  "lng": 9.4093608,
+  "mieter": [
+   "Flauderei"
+  ]
+ },
+ "appenzell|hauptgasse|17": {
+  "street": "Hauptgasse",
+  "hn": "17",
+  "lat": 47.3306823,
+  "lng": 9.4096215,
+  "mieter": [
+   "Land bäckerei",
+   "Gass 17"
+  ]
+ },
+ "appenzell|weissbadstrasse|9": {
+  "street": "Weissbadstrasse",
+  "hn": "9",
+  "lat": 47.3297171,
+  "lng": 9.4119611,
+  "mieter": [
+   "Kuoni"
+  ]
+ },
+ "appenzell|hauptgasse|27": {
+  "street": "Hauptgasse",
+  "hn": "27",
+  "lat": 47.3307461,
+  "lng": 9.4086521,
+  "mieter": [
+   "Cocon",
+   "Säntis Fashion"
+  ]
+ },
+ "appenzell|hauptgasse|8": {
+  "street": "Hauptgasse",
+  "hn": "8",
+  "lat": 47.3308027,
+  "lng": 9.4095093,
+  "mieter": [
+   "pepp."
+  ]
+ },
+ "appenzell|zielstrasse|46": {
+  "street": "Zielstrasse",
+  "hn": "46",
+  "lat": 47.3351464,
+  "lng": 9.4064585,
+  "mieter": [
+   "Vespa;Suzuki;Haibike;benno;kalkhoff;Piaggio;Focus"
+  ]
+ },
+ "appenzell|hauptgasse|58": {
+  "street": "Hauptgasse",
+  "hn": "58",
+  "lat": 47.3319554,
+  "lng": 9.4043656,
+  "mieter": [
+   "Neff - Zweirad"
+  ]
+ },
+ "appenzell|weissbadstrasse|67": {
+  "street": "Weissbadstrasse",
+  "hn": "67",
+  "lat": 47.3259105,
+  "lng": 9.4200707,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|22": {
+  "street": "Weissbadstrasse",
+  "hn": "22",
+  "lat": 47.328435,
+  "lng": 9.4132454,
+  "mieter": [
+   "Haarwerkstatt"
+  ]
+ },
+ "appenzell|weissbadstrasse|22a": {
+  "street": "Weissbadstrasse",
+  "hn": "22a",
+  "lat": 47.3283311,
+  "lng": 9.4130409,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|27": {
+  "street": "Weissbadstrasse",
+  "hn": "27",
+  "lat": 47.3289773,
+  "lng": 9.4134421,
+  "mieter": [
+   "Laden"
+  ]
+ },
+ "appenzell|weissbadstrasse|13a": {
+  "street": "Weissbadstrasse",
+  "hn": "13a",
+  "lat": 47.3296372,
+  "lng": 9.4124236,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|86": {
+  "street": "Weissbadstrasse",
+  "hn": "86",
+  "lat": 47.3217608,
+  "lng": 9.4269433,
+  "mieter": [
+   "Volg",
+   "Appenzeller Fleisch und Feinkost Steinegg"
+  ]
+ },
+ "appenzell|zielstrasse|1": {
+  "street": "Zielstrasse",
+  "hn": "1",
+  "lat": 47.3327155,
+  "lng": 9.4078091,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|1a": {
+  "street": "Zielstrasse",
+  "hn": "1a",
+  "lat": 47.3327593,
+  "lng": 9.4075905,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|5": {
+  "street": "Zielstrasse",
+  "hn": "5",
+  "lat": 47.3331611,
+  "lng": 9.407791,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|5a": {
+  "street": "Zielstrasse",
+  "hn": "5a",
+  "lat": 47.3331126,
+  "lng": 9.4076421,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|34": {
+  "street": "Zielstrasse",
+  "hn": "34",
+  "lat": 47.3338745,
+  "lng": 9.4095457,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|46": {
+  "street": "Hauptgasse",
+  "hn": "46",
+  "lat": 47.3317208,
+  "lng": 9.4064806,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|44": {
+  "street": "Hauptgasse",
+  "hn": "44",
+  "lat": 47.331707,
+  "lng": 9.4066254,
+  "mieter": []
+ },
+ "appenzell|marktgasse|7": {
+  "street": "Marktgasse",
+  "hn": "7",
+  "lat": 47.3312878,
+  "lng": 9.4085423,
+  "mieter": [
+   "Hotel Traube"
+  ]
+ },
+ "appenzell|marktgasse|5": {
+  "street": "Marktgasse",
+  "hn": "5",
+  "lat": 47.3313002,
+  "lng": 9.40864,
+  "mieter": []
+ },
+ "appenzell|marktgasse|3": {
+  "street": "Marktgasse",
+  "hn": "3",
+  "lat": 47.3311891,
+  "lng": 9.4086959,
+  "mieter": [
+   "Stielwerk"
+  ]
+ },
+ "appenzell|hauptgasse|51": {
+  "street": "Hauptgasse",
+  "hn": "51",
+  "lat": 47.3315441,
+  "lng": 9.4043077,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|49": {
+  "street": "Hauptgasse",
+  "hn": "49",
+  "lat": 47.3317059,
+  "lng": 9.4049422,
+  "mieter": [
+   "ONYX Jugendkulturzentrum"
+  ]
+ },
+ "appenzell|hauptgasse|51a": {
+  "street": "Hauptgasse",
+  "hn": "51a",
+  "lat": 47.3316494,
+  "lng": 9.4048229,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|49a": {
+  "street": "Hauptgasse",
+  "hn": "49a",
+  "lat": 47.3313631,
+  "lng": 9.4055234,
+  "mieter": []
+ },
+ "appenzell|engelgasse|21": {
+  "street": "Engelgasse",
+  "hn": "21",
+  "lat": 47.3306017,
+  "lng": 9.4052594,
+  "mieter": []
+ },
+ "appenzell|engelgasse|8a": {
+  "street": "Engelgasse",
+  "hn": "8a",
+  "lat": 47.3309559,
+  "lng": 9.4069207,
+  "mieter": []
+ },
+ "appenzell|engelgasse|8": {
+  "street": "Engelgasse",
+  "hn": "8",
+  "lat": 47.3309644,
+  "lng": 9.4069995,
+  "mieter": []
+ },
+ "appenzell|engelgasse|6": {
+  "street": "Engelgasse",
+  "hn": "6",
+  "lat": 47.3309629,
+  "lng": 9.4070805,
+  "mieter": []
+ },
+ "appenzell|engelgasse|17": {
+  "street": "Engelgasse",
+  "hn": "17",
+  "lat": 47.3307052,
+  "lng": 9.4068452,
+  "mieter": []
+ },
+ "appenzell|engelgasse|15": {
+  "street": "Engelgasse",
+  "hn": "15",
+  "lat": 47.3306977,
+  "lng": 9.406965,
+  "mieter": []
+ },
+ "appenzell|engelgasse|13": {
+  "street": "Engelgasse",
+  "hn": "13",
+  "lat": 47.3307626,
+  "lng": 9.4070932,
+  "mieter": []
+ },
+ "appenzell|engelgasse|11": {
+  "street": "Engelgasse",
+  "hn": "11",
+  "lat": 47.3306977,
+  "lng": 9.4071403,
+  "mieter": []
+ },
+ "appenzell|engelgasse|7": {
+  "street": "Engelgasse",
+  "hn": "7",
+  "lat": 47.3306531,
+  "lng": 9.4075805,
+  "mieter": [
+   "Alptel"
+  ]
+ },
+ "appenzell|hauptgasse|17a": {
+  "street": "Hauptgasse",
+  "hn": "17a",
+  "lat": 47.3303774,
+  "lng": 9.4093695,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|11": {
+  "street": "Hauptgasse",
+  "hn": "11",
+  "lat": 47.3306801,
+  "lng": 9.4099978,
+  "mieter": []
+ },
+ "appenzell|engelgasse|3": {
+  "street": "Engelgasse",
+  "hn": "3",
+  "lat": 47.3306145,
+  "lng": 9.4080927,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|26": {
+  "street": "Weissbadstrasse",
+  "hn": "26",
+  "lat": 47.3280878,
+  "lng": 9.413947,
+  "mieter": [
+   "H&G Motos GmbH"
+  ]
+ },
+ "appenzell|zielstrasse|13": {
+  "street": "Zielstrasse",
+  "hn": "13",
+  "lat": 47.3337531,
+  "lng": 9.4073602,
+  "mieter": [
+   "Böhli Bäckerei",
+   "Pirsus Coiffeur",
+   "Metzgerei Fässler, Chitzele",
+   "Coop"
+  ]
+ },
+ "appenzell|hauptgasse|36": {
+  "street": "Hauptgasse",
+  "hn": "36",
+  "lat": 47.3312901,
+  "lng": 9.407857,
+  "mieter": [
+   "dogsland"
+  ]
+ },
+ "appenzell|hauptgasse|4": {
+  "street": "Hauptgasse",
+  "hn": "4",
+  "lat": 47.3308913,
+  "lng": 9.4098553,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|13": {
+  "street": "Hauptgasse",
+  "hn": "13",
+  "lat": 47.3306957,
+  "lng": 9.4098511,
+  "mieter": [
+   "Breitenmoser GenussEcke"
+  ]
+ },
+ "appenzell|hauptgasse|6": {
+  "street": "Hauptgasse",
+  "hn": "6",
+  "lat": 47.330795,
+  "lng": 9.4096365,
+  "mieter": []
+ },
+ "appenzell|marktgasse|10c": {
+  "street": "Marktgasse",
+  "hn": "10c",
+  "lat": 47.3315829,
+  "lng": 9.4094296,
+  "mieter": [
+   "Sozialberatung Appenzell",
+   "Pro Senectute Appenzell"
+  ]
+ },
+ "appenzell|hauptgasse|33": {
+  "street": "Hauptgasse",
+  "hn": "33",
+  "lat": 47.3310668,
+  "lng": 9.4080708,
+  "mieter": [
+   "Hans Keller Drechslerei"
+  ]
+ },
+ "appenzell|hauptgasse|2": {
+  "street": "Hauptgasse",
+  "hn": "2",
+  "lat": 47.3308951,
+  "lng": 9.4106869,
+  "mieter": [
+   "Stephanskapelle Appenzell",
+   "Pfarrkirche St. Mauritius"
+  ]
+ },
+ "appenzell|hauptgasse|29": {
+  "street": "Hauptgasse",
+  "hn": "29",
+  "lat": 47.3309607,
+  "lng": 9.4082783,
+  "mieter": [
+   "Margreiter"
+  ]
+ },
+ "appenzell|hauptgasse|30": {
+  "street": "Hauptgasse",
+  "hn": "30",
+  "lat": 47.3311201,
+  "lng": 9.4083175,
+  "mieter": [
+   "Atelier für Grafikdesign Bawart"
+  ]
+ },
+ "appenzell|zielstrasse|19": {
+  "street": "Zielstrasse",
+  "hn": "19",
+  "lat": 47.3342813,
+  "lng": 9.4068008,
+  "mieter": [
+   "Kühnis Optik Appenzell"
+  ]
+ },
+ "appenzell|weissbadstrasse|21": {
+  "street": "Weissbadstrasse",
+  "hn": "21",
+  "lat": 47.3291286,
+  "lng": 9.4125697,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|14a": {
+  "street": "Weissbadstrasse",
+  "hn": "14a",
+  "lat": 47.3288118,
+  "lng": 9.4121344,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|16": {
+  "street": "Weissbadstrasse",
+  "hn": "16",
+  "lat": 47.3287533,
+  "lng": 9.4124068,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|14": {
+  "street": "Weissbadstrasse",
+  "hn": "14",
+  "lat": 47.3292446,
+  "lng": 9.4119539,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|23": {
+  "street": "Weissbadstrasse",
+  "hn": "23",
+  "lat": 47.3290474,
+  "lng": 9.4126938,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|23a": {
+  "street": "Weissbadstrasse",
+  "hn": "23a",
+  "lat": 47.3290027,
+  "lng": 9.4127551,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|42": {
+  "street": "Zielstrasse",
+  "hn": "42",
+  "lat": 47.3348276,
+  "lng": 9.4074023,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|70": {
+  "street": "Weissbadstrasse",
+  "hn": "70",
+  "lat": 47.323664,
+  "lng": 9.4229021,
+  "mieter": [
+   "Kappelle St Anna"
+  ]
+ },
+ "appenzell|weissbadstrasse|108": {
+  "street": "Weissbadstrasse",
+  "hn": "108",
+  "lat": 47.3186511,
+  "lng": 9.4295931,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|38": {
+  "street": "Hauptgasse",
+  "hn": "38",
+  "lat": 47.3315846,
+  "lng": 9.4071276,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|106": {
+  "street": "Weissbadstrasse",
+  "hn": "106",
+  "lat": 47.3205336,
+  "lng": 9.4298864,
+  "mieter": [
+   "Kapelle St. Magdalena"
+  ]
+ },
+ "appenzell|weissbadstrasse|107": {
+  "street": "Weissbadstrasse",
+  "hn": "107",
+  "lat": 47.3188284,
+  "lng": 9.4321291,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|107a": {
+  "street": "Weissbadstrasse",
+  "hn": "107a",
+  "lat": 47.3189646,
+  "lng": 9.4319032,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|109": {
+  "street": "Weissbadstrasse",
+  "hn": "109",
+  "lat": 47.3183214,
+  "lng": 9.4329615,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|111d": {
+  "street": "Weissbadstrasse",
+  "hn": "111d",
+  "lat": 47.3176831,
+  "lng": 9.4336869,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|110": {
+  "street": "Weissbadstrasse",
+  "hn": "110",
+  "lat": 47.3164058,
+  "lng": 9.4335863,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|111": {
+  "street": "Weissbadstrasse",
+  "hn": "111",
+  "lat": 47.3167998,
+  "lng": 9.433934,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|111a": {
+  "street": "Weissbadstrasse",
+  "hn": "111a",
+  "lat": 47.3166384,
+  "lng": 9.4343776,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|111c": {
+  "street": "Weissbadstrasse",
+  "hn": "111c",
+  "lat": 47.3165291,
+  "lng": 9.4342625,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|118": {
+  "street": "Weissbadstrasse",
+  "hn": "118",
+  "lat": 47.3143287,
+  "lng": 9.4346764,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|113": {
+  "street": "Weissbadstrasse",
+  "hn": "113",
+  "lat": 47.3154119,
+  "lng": 9.4351666,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|116": {
+  "street": "Weissbadstrasse",
+  "hn": "116",
+  "lat": 47.3149697,
+  "lng": 9.4342672,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|112": {
+  "street": "Weissbadstrasse",
+  "hn": "112",
+  "lat": 47.3151877,
+  "lng": 9.4341773,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|114": {
+  "street": "Weissbadstrasse",
+  "hn": "114",
+  "lat": 47.3151982,
+  "lng": 9.4337599,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|104": {
+  "street": "Weissbadstrasse",
+  "hn": "104",
+  "lat": 47.3199465,
+  "lng": 9.4293957,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|104a": {
+  "street": "Weissbadstrasse",
+  "hn": "104a",
+  "lat": 47.3198737,
+  "lng": 9.4291345,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|102": {
+  "street": "Weissbadstrasse",
+  "hn": "102",
+  "lat": 47.3207629,
+  "lng": 9.429328,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|100": {
+  "street": "Weissbadstrasse",
+  "hn": "100",
+  "lat": 47.3207965,
+  "lng": 9.4289723,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|96": {
+  "street": "Weissbadstrasse",
+  "hn": "96",
+  "lat": 47.3206165,
+  "lng": 9.4280867,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|94": {
+  "street": "Weissbadstrasse",
+  "hn": "94",
+  "lat": 47.3208727,
+  "lng": 9.4281628,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|92": {
+  "street": "Weissbadstrasse",
+  "hn": "92",
+  "lat": 47.3209598,
+  "lng": 9.4277369,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|92a": {
+  "street": "Weissbadstrasse",
+  "hn": "92a",
+  "lat": 47.3209292,
+  "lng": 9.4279563,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|88": {
+  "street": "Weissbadstrasse",
+  "hn": "88",
+  "lat": 47.3216376,
+  "lng": 9.4271045,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|90": {
+  "street": "Weissbadstrasse",
+  "hn": "90",
+  "lat": 47.3212793,
+  "lng": 9.4273183,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|93": {
+  "street": "Weissbadstrasse",
+  "hn": "93",
+  "lat": 47.3213159,
+  "lng": 9.4281494,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|84": {
+  "street": "Weissbadstrasse",
+  "hn": "84",
+  "lat": 47.3221099,
+  "lng": 9.4265725,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|82": {
+  "street": "Weissbadstrasse",
+  "hn": "82",
+  "lat": 47.3225022,
+  "lng": 9.4260775,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|83a": {
+  "street": "Weissbadstrasse",
+  "hn": "83a",
+  "lat": 47.3224972,
+  "lng": 9.4276917,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|83": {
+  "street": "Weissbadstrasse",
+  "hn": "83",
+  "lat": 47.3224804,
+  "lng": 9.4272643,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|81": {
+  "street": "Weissbadstrasse",
+  "hn": "81",
+  "lat": 47.3232227,
+  "lng": 9.4257031,
+  "mieter": [
+   "Restaurant/Bäckerei Schäfli"
+  ]
+ },
+ "appenzell|weissbadstrasse|79": {
+  "street": "Weissbadstrasse",
+  "hn": "79",
+  "lat": 47.3234107,
+  "lng": 9.4254339,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|79a": {
+  "street": "Weissbadstrasse",
+  "hn": "79a",
+  "lat": 47.3234324,
+  "lng": 9.42491,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|79b": {
+  "street": "Weissbadstrasse",
+  "hn": "79b",
+  "lat": 47.3234665,
+  "lng": 9.4246323,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|77": {
+  "street": "Weissbadstrasse",
+  "hn": "77",
+  "lat": 47.323505,
+  "lng": 9.4241842,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|75": {
+  "street": "Weissbadstrasse",
+  "hn": "75",
+  "lat": 47.3236444,
+  "lng": 9.4236555,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|64": {
+  "street": "Weissbadstrasse",
+  "hn": "64",
+  "lat": 47.3243934,
+  "lng": 9.4219682,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|66": {
+  "street": "Weissbadstrasse",
+  "hn": "66",
+  "lat": 47.3242302,
+  "lng": 9.4223509,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|68": {
+  "street": "Weissbadstrasse",
+  "hn": "68",
+  "lat": 47.3239703,
+  "lng": 9.4227934,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|62": {
+  "street": "Weissbadstrasse",
+  "hn": "62",
+  "lat": 47.3247095,
+  "lng": 9.4213745,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|60": {
+  "street": "Weissbadstrasse",
+  "hn": "60",
+  "lat": 47.3249054,
+  "lng": 9.4209378,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|58": {
+  "street": "Weissbadstrasse",
+  "hn": "58",
+  "lat": 47.3250545,
+  "lng": 9.4205694,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|56": {
+  "street": "Weissbadstrasse",
+  "hn": "56",
+  "lat": 47.3251551,
+  "lng": 9.4203064,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|52": {
+  "street": "Weissbadstrasse",
+  "hn": "52",
+  "lat": 47.3252883,
+  "lng": 9.4194169,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|52a": {
+  "street": "Weissbadstrasse",
+  "hn": "52a",
+  "lat": 47.3251106,
+  "lng": 9.4195383,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|46": {
+  "street": "Weissbadstrasse",
+  "hn": "46",
+  "lat": 47.3257145,
+  "lng": 9.4180793,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|44": {
+  "street": "Weissbadstrasse",
+  "hn": "44",
+  "lat": 47.3259048,
+  "lng": 9.4179416,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|40": {
+  "street": "Weissbadstrasse",
+  "hn": "40",
+  "lat": 47.32678,
+  "lng": 9.4166077,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|38": {
+  "street": "Weissbadstrasse",
+  "hn": "38",
+  "lat": 47.3269749,
+  "lng": 9.41627,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|36": {
+  "street": "Weissbadstrasse",
+  "hn": "36",
+  "lat": 47.3272055,
+  "lng": 9.4157977,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|34": {
+  "street": "Weissbadstrasse",
+  "hn": "34",
+  "lat": 47.3274346,
+  "lng": 9.4152546,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|32": {
+  "street": "Weissbadstrasse",
+  "hn": "32",
+  "lat": 47.3275654,
+  "lng": 9.4149096,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|28": {
+  "street": "Weissbadstrasse",
+  "hn": "28",
+  "lat": 47.3277724,
+  "lng": 9.4146324,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|51": {
+  "street": "Weissbadstrasse",
+  "hn": "51",
+  "lat": 47.327946,
+  "lng": 9.414884,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|59": {
+  "street": "Weissbadstrasse",
+  "hn": "59",
+  "lat": 47.3274682,
+  "lng": 9.4161391,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|61": {
+  "street": "Weissbadstrasse",
+  "hn": "61",
+  "lat": 47.3270999,
+  "lng": 9.4165163,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|49a": {
+  "street": "Weissbadstrasse",
+  "hn": "49a",
+  "lat": 47.328751,
+  "lng": 9.4157125,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|47": {
+  "street": "Weissbadstrasse",
+  "hn": "47",
+  "lat": 47.328154,
+  "lng": 9.4143903,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|45": {
+  "street": "Weissbadstrasse",
+  "hn": "45",
+  "lat": 47.3282686,
+  "lng": 9.4142328,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|43": {
+  "street": "Weissbadstrasse",
+  "hn": "43",
+  "lat": 47.328323,
+  "lng": 9.414013,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|41": {
+  "street": "Weissbadstrasse",
+  "hn": "41",
+  "lat": 47.3283949,
+  "lng": 9.4138808,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|39": {
+  "street": "Weissbadstrasse",
+  "hn": "39",
+  "lat": 47.3284763,
+  "lng": 9.4137562,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|37": {
+  "street": "Weissbadstrasse",
+  "hn": "37",
+  "lat": 47.3285346,
+  "lng": 9.4136695,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|35": {
+  "street": "Weissbadstrasse",
+  "hn": "35",
+  "lat": 47.3285849,
+  "lng": 9.4135806,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|33": {
+  "street": "Weissbadstrasse",
+  "hn": "33",
+  "lat": 47.3286704,
+  "lng": 9.4134576,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|31": {
+  "street": "Weissbadstrasse",
+  "hn": "31",
+  "lat": 47.3287329,
+  "lng": 9.4133097,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|29": {
+  "street": "Weissbadstrasse",
+  "hn": "29",
+  "lat": 47.3288016,
+  "lng": 9.4132119,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|25": {
+  "street": "Weissbadstrasse",
+  "hn": "25",
+  "lat": 47.3289806,
+  "lng": 9.4129831,
+  "mieter": [
+   "Restaurant Rössli"
+  ]
+ },
+ "appenzell|weissbadstrasse|27b": {
+  "street": "Weissbadstrasse",
+  "hn": "27b",
+  "lat": 47.3292488,
+  "lng": 9.4132371,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|27a": {
+  "street": "Weissbadstrasse",
+  "hn": "27a",
+  "lat": 47.3293743,
+  "lng": 9.4129239,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|17": {
+  "street": "Weissbadstrasse",
+  "hn": "17",
+  "lat": 47.3292439,
+  "lng": 9.4124082,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|19": {
+  "street": "Weissbadstrasse",
+  "hn": "19",
+  "lat": 47.329188,
+  "lng": 9.4125034,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|13": {
+  "street": "Weissbadstrasse",
+  "hn": "13",
+  "lat": 47.3294343,
+  "lng": 9.4122283,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|11": {
+  "street": "Weissbadstrasse",
+  "hn": "11",
+  "lat": 47.329622,
+  "lng": 9.4121882,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|7": {
+  "street": "Weissbadstrasse",
+  "hn": "7",
+  "lat": 47.3299167,
+  "lng": 9.4118322,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|5": {
+  "street": "Weissbadstrasse",
+  "hn": "5",
+  "lat": 47.330094,
+  "lng": 9.4116944,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|3": {
+  "street": "Weissbadstrasse",
+  "hn": "3",
+  "lat": 47.3304182,
+  "lng": 9.4113982,
+  "mieter": [
+   "Café-Confiserie Laimbacher"
+  ]
+ },
+ "appenzell|weissbadstrasse|1": {
+  "street": "Weissbadstrasse",
+  "hn": "1",
+  "lat": 47.330697,
+  "lng": 9.4113018,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|3a": {
+  "street": "Weissbadstrasse",
+  "hn": "3a",
+  "lat": 47.3303652,
+  "lng": 9.4118492,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|4": {
+  "street": "Weissbadstrasse",
+  "hn": "4",
+  "lat": 47.3303308,
+  "lng": 9.411108,
+  "mieter": [
+   "Sport Baumann AG"
+  ]
+ },
+ "appenzell|weissbadstrasse|6": {
+  "street": "Weissbadstrasse",
+  "hn": "6",
+  "lat": 47.3301619,
+  "lng": 9.4113098,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|8": {
+  "street": "Weissbadstrasse",
+  "hn": "8",
+  "lat": 47.3299543,
+  "lng": 9.4114099,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|8c": {
+  "street": "Weissbadstrasse",
+  "hn": "8c",
+  "lat": 47.3299088,
+  "lng": 9.4111432,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|8a": {
+  "street": "Weissbadstrasse",
+  "hn": "8a",
+  "lat": 47.3297166,
+  "lng": 9.41115,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|8b": {
+  "street": "Weissbadstrasse",
+  "hn": "8b",
+  "lat": 47.3295819,
+  "lng": 9.4109519,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|10": {
+  "street": "Weissbadstrasse",
+  "hn": "10",
+  "lat": 47.3298258,
+  "lng": 9.411575,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|12": {
+  "street": "Weissbadstrasse",
+  "hn": "12",
+  "lat": 47.329589,
+  "lng": 9.411642,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|12a": {
+  "street": "Weissbadstrasse",
+  "hn": "12a",
+  "lat": 47.3294578,
+  "lng": 9.4115372,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|16a": {
+  "street": "Weissbadstrasse",
+  "hn": "16a",
+  "lat": 47.3286748,
+  "lng": 9.412866,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|20": {
+  "street": "Weissbadstrasse",
+  "hn": "20",
+  "lat": 47.3285792,
+  "lng": 9.413026,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|24": {
+  "street": "Weissbadstrasse",
+  "hn": "24",
+  "lat": 47.3280674,
+  "lng": 9.4135871,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|36a": {
+  "street": "Weissbadstrasse",
+  "hn": "36a",
+  "lat": 47.3273653,
+  "lng": 9.4144966,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|48": {
+  "street": "Weissbadstrasse",
+  "hn": "48",
+  "lat": 47.325149,
+  "lng": 9.4172687,
+  "mieter": []
+ },
+ "appenzell|marktgasse|6": {
+  "street": "Marktgasse",
+  "hn": "6",
+  "lat": 47.3308706,
+  "lng": 9.4096453,
+  "mieter": [
+   "Rathaus",
+   "Rot Tor Apotheke"
+  ]
+ },
+ "appenzell|marktgasse|8": {
+  "street": "Marktgasse",
+  "hn": "8",
+  "lat": 47.3308918,
+  "lng": 9.4095021,
+  "mieter": [
+   "Chäs-Sutter"
+  ]
+ },
+ "appenzell|hauptgasse|10": {
+  "street": "Hauptgasse",
+  "hn": "10",
+  "lat": 47.3309172,
+  "lng": 9.4094187,
+  "mieter": [
+   "bücherladen"
+  ]
+ },
+ "appenzell|hauptgasse|12": {
+  "street": "Hauptgasse",
+  "hn": "12",
+  "lat": 47.3308824,
+  "lng": 9.4093083,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|14": {
+  "street": "Hauptgasse",
+  "hn": "14",
+  "lat": 47.3308436,
+  "lng": 9.409235,
+  "mieter": [
+   "k kiosk"
+  ]
+ },
+ "appenzell|hauptgasse|16": {
+  "street": "Hauptgasse",
+  "hn": "16",
+  "lat": 47.3308974,
+  "lng": 9.4091338,
+  "mieter": [
+   "Chocolat Manufacture"
+  ]
+ },
+ "appenzell|hauptgasse|18": {
+  "street": "Hauptgasse",
+  "hn": "18",
+  "lat": 47.3308818,
+  "lng": 9.4090434,
+  "mieter": [
+   "Kybun"
+  ]
+ },
+ "appenzell|hauptgasse|20": {
+  "street": "Hauptgasse",
+  "hn": "20",
+  "lat": 47.330884,
+  "lng": 9.4089562,
+  "mieter": [
+   "Löwen Drogerie"
+  ]
+ },
+ "appenzell|hauptgasse|22": {
+  "street": "Hauptgasse",
+  "hn": "22",
+  "lat": 47.3309125,
+  "lng": 9.4088969,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|22a": {
+  "street": "Hauptgasse",
+  "hn": "22a",
+  "lat": 47.3310789,
+  "lng": 9.4089747,
+  "mieter": []
+ },
+ "appenzell|marktgasse|1": {
+  "street": "Marktgasse",
+  "hn": "1",
+  "lat": 47.3310473,
+  "lng": 9.4093019,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|9": {
+  "street": "Hauptgasse",
+  "hn": "9",
+  "lat": 47.3305778,
+  "lng": 9.4102065,
+  "mieter": [
+   "Hotel Hecht"
+  ]
+ },
+ "appenzell|hauptgasse|15": {
+  "street": "Hauptgasse",
+  "hn": "15",
+  "lat": 47.3304914,
+  "lng": 9.409901,
+  "mieter": [
+   "s’plätzli"
+  ]
+ },
+ "appenzell|hauptgasse|19": {
+  "street": "Hauptgasse",
+  "hn": "19",
+  "lat": 47.3306527,
+  "lng": 9.4094536,
+  "mieter": [
+   "Parfumerie Stefani"
+  ]
+ },
+ "appenzell|hauptgasse|23": {
+  "street": "Hauptgasse",
+  "hn": "23",
+  "lat": 47.3306235,
+  "lng": 9.4092328,
+  "mieter": [
+   "Romoda Les Boutiques"
+  ]
+ },
+ "appenzell|hauptgasse|25": {
+  "street": "Hauptgasse",
+  "hn": "25",
+  "lat": 47.3306,
+  "lng": 9.4089878,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|26": {
+  "street": "Hauptgasse",
+  "hn": "26",
+  "lat": 47.330984,
+  "lng": 9.4086203,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|24": {
+  "street": "Hauptgasse",
+  "hn": "24",
+  "lat": 47.330948,
+  "lng": 9.4087144,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|34": {
+  "street": "Hauptgasse",
+  "hn": "34",
+  "lat": 47.3312085,
+  "lng": 9.4080067,
+  "mieter": [
+   "Heiligkreuzkapelle"
+  ]
+ },
+ "appenzell|hauptgasse|32": {
+  "street": "Hauptgasse",
+  "hn": "32",
+  "lat": 47.3311974,
+  "lng": 9.4081967,
+  "mieter": [
+   "Café Flade"
+  ]
+ },
+ "appenzell|hauptgasse|28": {
+  "street": "Hauptgasse",
+  "hn": "28",
+  "lat": 47.331187,
+  "lng": 9.4084383,
+  "mieter": []
+ },
+ "appenzell|marktgasse|4": {
+  "street": "Marktgasse",
+  "hn": "4",
+  "lat": 47.3313111,
+  "lng": 9.4092938,
+  "mieter": []
+ },
+ "appenzell|marktgasse|8a": {
+  "street": "Marktgasse",
+  "hn": "8a",
+  "lat": 47.3314974,
+  "lng": 9.4091061,
+  "mieter": []
+ },
+ "appenzell|marktgasse|10d": {
+  "street": "Marktgasse",
+  "hn": "10d",
+  "lat": 47.3315831,
+  "lng": 9.4096137,
+  "mieter": []
+ },
+ "appenzell|marktgasse|10b": {
+  "street": "Marktgasse",
+  "hn": "10b",
+  "lat": 47.3316284,
+  "lng": 9.4092891,
+  "mieter": []
+ },
+ "appenzell|marktgasse|10a": {
+  "street": "Marktgasse",
+  "hn": "10a",
+  "lat": 47.3316751,
+  "lng": 9.4091499,
+  "mieter": []
+ },
+ "appenzell|marktgasse|10": {
+  "street": "Marktgasse",
+  "hn": "10",
+  "lat": 47.3316805,
+  "lng": 9.408903,
+  "mieter": []
+ },
+ "appenzell|marktgasse|12": {
+  "street": "Marktgasse",
+  "hn": "12",
+  "lat": 47.3318646,
+  "lng": 9.4088281,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|6c": {
+  "street": "Zielstrasse",
+  "hn": "6c",
+  "lat": 47.3323471,
+  "lng": 9.4100321,
+  "mieter": []
+ },
+ "appenzell|marktgasse|11": {
+  "street": "Marktgasse",
+  "hn": "11",
+  "lat": 47.3315675,
+  "lng": 9.4084986,
+  "mieter": []
+ },
+ "appenzell|marktgasse|9": {
+  "street": "Marktgasse",
+  "hn": "9",
+  "lat": 47.331501,
+  "lng": 9.4083593,
+  "mieter": []
+ },
+ "appenzell|marktgasse|13": {
+  "street": "Marktgasse",
+  "hn": "13",
+  "lat": 47.331625,
+  "lng": 9.4082226,
+  "mieter": []
+ },
+ "appenzell|marktgasse|14a": {
+  "street": "Marktgasse",
+  "hn": "14a",
+  "lat": 47.3320731,
+  "lng": 9.4086674,
+  "mieter": []
+ },
+ "appenzell|marktgasse|14": {
+  "street": "Marktgasse",
+  "hn": "14",
+  "lat": 47.3318247,
+  "lng": 9.4086065,
+  "mieter": []
+ },
+ "appenzell|marktgasse|16": {
+  "street": "Marktgasse",
+  "hn": "16",
+  "lat": 47.3317912,
+  "lng": 9.4083803,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|41": {
+  "street": "Hauptgasse",
+  "hn": "41",
+  "lat": 47.3314255,
+  "lng": 9.4068295,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "appenzell|hauptgasse|39": {
+  "street": "Hauptgasse",
+  "hn": "39",
+  "lat": 47.3312627,
+  "lng": 9.4072868,
+  "mieter": [
+   "Schuhe + Sport"
+  ]
+ },
+ "appenzell|hauptgasse|37": {
+  "street": "Hauptgasse",
+  "hn": "37",
+  "lat": 47.3311652,
+  "lng": 9.4074172,
+  "mieter": [
+   "Café-Hotel Appenzell"
+  ]
+ },
+ "appenzell|zielstrasse|4": {
+  "street": "Zielstrasse",
+  "hn": "4",
+  "lat": 47.3322064,
+  "lng": 9.408217,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|6": {
+  "street": "Zielstrasse",
+  "hn": "6",
+  "lat": 47.332389,
+  "lng": 9.408287,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|6a": {
+  "street": "Zielstrasse",
+  "hn": "6a",
+  "lat": 47.3324041,
+  "lng": 9.4087275,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|16": {
+  "street": "Zielstrasse",
+  "hn": "16",
+  "lat": 47.3326678,
+  "lng": 9.4095732,
+  "mieter": [
+   "Reformierte Kirche"
+  ]
+ },
+ "appenzell|zielstrasse|8": {
+  "street": "Zielstrasse",
+  "hn": "8",
+  "lat": 47.3326151,
+  "lng": 9.4083032,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|8a": {
+  "street": "Zielstrasse",
+  "hn": "8a",
+  "lat": 47.3326175,
+  "lng": 9.4085212,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|8b": {
+  "street": "Zielstrasse",
+  "hn": "8b",
+  "lat": 47.3325883,
+  "lng": 9.408774,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|6b": {
+  "street": "Zielstrasse",
+  "hn": "6b",
+  "lat": 47.3323767,
+  "lng": 9.4091103,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|10": {
+  "street": "Zielstrasse",
+  "hn": "10",
+  "lat": 47.3328592,
+  "lng": 9.4085285,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|12": {
+  "street": "Zielstrasse",
+  "hn": "12",
+  "lat": 47.3328591,
+  "lng": 9.4087815,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|18": {
+  "street": "Zielstrasse",
+  "hn": "18",
+  "lat": 47.333025,
+  "lng": 9.4088035,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|14": {
+  "street": "Zielstrasse",
+  "hn": "14",
+  "lat": 47.3328294,
+  "lng": 9.409055,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|14b": {
+  "street": "Zielstrasse",
+  "hn": "14b",
+  "lat": 47.3329303,
+  "lng": 9.4091312,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|14a": {
+  "street": "Zielstrasse",
+  "hn": "14a",
+  "lat": 47.3328956,
+  "lng": 9.409705,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|38": {
+  "street": "Zielstrasse",
+  "hn": "38",
+  "lat": 47.3340625,
+  "lng": 9.4076586,
+  "mieter": [
+   "Ziel-Center"
+  ]
+ },
+ "appenzell|zielstrasse|38a": {
+  "street": "Zielstrasse",
+  "hn": "38a",
+  "lat": 47.3342934,
+  "lng": 9.4081781,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|20": {
+  "street": "Zielstrasse",
+  "hn": "20",
+  "lat": 47.3336924,
+  "lng": 9.4079277,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|22": {
+  "street": "Zielstrasse",
+  "hn": "22",
+  "lat": 47.3337077,
+  "lng": 9.4081637,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|24": {
+  "street": "Zielstrasse",
+  "hn": "24",
+  "lat": 47.333719,
+  "lng": 9.4083596,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|26": {
+  "street": "Zielstrasse",
+  "hn": "26",
+  "lat": 47.3337451,
+  "lng": 9.4085429,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|28": {
+  "street": "Zielstrasse",
+  "hn": "28",
+  "lat": 47.3337618,
+  "lng": 9.4087442,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|30": {
+  "street": "Zielstrasse",
+  "hn": "30",
+  "lat": 47.3337825,
+  "lng": 9.4089396,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|32": {
+  "street": "Zielstrasse",
+  "hn": "32",
+  "lat": 47.3338298,
+  "lng": 9.4091852,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|36": {
+  "street": "Zielstrasse",
+  "hn": "36",
+  "lat": 47.333879,
+  "lng": 9.4099103,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|36a": {
+  "street": "Zielstrasse",
+  "hn": "36a",
+  "lat": 47.3340556,
+  "lng": 9.4102053,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|23": {
+  "street": "Zielstrasse",
+  "hn": "23",
+  "lat": 47.3345523,
+  "lng": 9.4061409,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|21": {
+  "street": "Zielstrasse",
+  "hn": "21",
+  "lat": 47.3341237,
+  "lng": 9.4063785,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|11": {
+  "street": "Zielstrasse",
+  "hn": "11",
+  "lat": 47.3334331,
+  "lng": 9.4074305,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|9": {
+  "street": "Zielstrasse",
+  "hn": "9",
+  "lat": 47.3335075,
+  "lng": 9.4076313,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|7": {
+  "street": "Zielstrasse",
+  "hn": "7",
+  "lat": 47.3333242,
+  "lng": 9.4077243,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|3": {
+  "street": "Zielstrasse",
+  "hn": "3",
+  "lat": 47.332916,
+  "lng": 9.4078165,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|48": {
+  "street": "Hauptgasse",
+  "hn": "48",
+  "lat": 47.3319439,
+  "lng": 9.4061778,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|46a": {
+  "street": "Hauptgasse",
+  "hn": "46a",
+  "lat": 47.3318549,
+  "lng": 9.4063152,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|42": {
+  "street": "Hauptgasse",
+  "hn": "42",
+  "lat": 47.3316941,
+  "lng": 9.4067979,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|50": {
+  "street": "Hauptgasse",
+  "hn": "50",
+  "lat": 47.3319829,
+  "lng": 9.4056393,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|52": {
+  "street": "Hauptgasse",
+  "hn": "52",
+  "lat": 47.3319062,
+  "lng": 9.4051894,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|54": {
+  "street": "Hauptgasse",
+  "hn": "54",
+  "lat": 47.3319248,
+  "lng": 9.4047642,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|56": {
+  "street": "Hauptgasse",
+  "hn": "56",
+  "lat": 47.3319783,
+  "lng": 9.4046018,
+  "mieter": [
+   "Goldener"
+  ]
+ },
+ "appenzell|engelgasse|19": {
+  "street": "Engelgasse",
+  "hn": "19",
+  "lat": 47.3307983,
+  "lng": 9.4059445,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|47": {
+  "street": "Hauptgasse",
+  "hn": "47",
+  "lat": 47.3316553,
+  "lng": 9.4060858,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|45": {
+  "street": "Hauptgasse",
+  "hn": "45",
+  "lat": 47.3316082,
+  "lng": 9.4062386,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|43": {
+  "street": "Hauptgasse",
+  "hn": "43",
+  "lat": 47.3315521,
+  "lng": 9.4063854,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|25a": {
+  "street": "Zielstrasse",
+  "hn": "25a",
+  "lat": 47.3350178,
+  "lng": 9.4058805,
+  "mieter": [
+   "Terra Rossa"
+  ]
+ },
+ "appenzell|zielstrasse|25": {
+  "street": "Zielstrasse",
+  "hn": "25",
+  "lat": 47.3349961,
+  "lng": 9.4055695,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|27": {
+  "street": "Zielstrasse",
+  "hn": "27",
+  "lat": 47.3349544,
+  "lng": 9.4052906,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|25b": {
+  "street": "Zielstrasse",
+  "hn": "25b",
+  "lat": 47.3352102,
+  "lng": 9.4058312,
+  "mieter": []
+ },
+ "appenzell|zielstrasse|50": {
+  "street": "Zielstrasse",
+  "hn": "50",
+  "lat": 47.3353515,
+  "lng": 9.4076265,
+  "mieter": [
+   "Garage Gschwend"
+  ]
+ },
+ "appenzell|zielstrasse|48": {
+  "street": "Zielstrasse",
+  "hn": "48",
+  "lat": 47.3352369,
+  "lng": 9.4070351,
+  "mieter": []
+ },
+ "appenzell|engelgasse|18": {
+  "street": "Engelgasse",
+  "hn": "18",
+  "lat": 47.3310355,
+  "lng": 9.4060699,
+  "mieter": []
+ },
+ "appenzell|engelgasse|16": {
+  "street": "Engelgasse",
+  "hn": "16",
+  "lat": 47.3310254,
+  "lng": 9.4062656,
+  "mieter": []
+ },
+ "appenzell|engelgasse|14": {
+  "street": "Engelgasse",
+  "hn": "14",
+  "lat": 47.3310186,
+  "lng": 9.4064405,
+  "mieter": []
+ },
+ "appenzell|engelgasse|4a": {
+  "street": "Engelgasse",
+  "hn": "4a",
+  "lat": 47.3308477,
+  "lng": 9.4074222,
+  "mieter": []
+ },
+ "appenzell|engelgasse|4": {
+  "street": "Engelgasse",
+  "hn": "4",
+  "lat": 47.3309771,
+  "lng": 9.4075453,
+  "mieter": [
+   "Gasthaus Hof"
+  ]
+ },
+ "appenzell|hauptgasse|35": {
+  "street": "Hauptgasse",
+  "hn": "35",
+  "lat": 47.3310517,
+  "lng": 9.40789,
+  "mieter": [
+   "streule appenzell"
+  ]
+ },
+ "appenzell|engelgasse|2": {
+  "street": "Engelgasse",
+  "hn": "2",
+  "lat": 47.3308461,
+  "lng": 9.4078525,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|31": {
+  "street": "Hauptgasse",
+  "hn": "31",
+  "lat": 47.330992,
+  "lng": 9.408156,
+  "mieter": []
+ },
+ "appenzell|engelgasse|5": {
+  "street": "Engelgasse",
+  "hn": "5",
+  "lat": 47.3305879,
+  "lng": 9.4078012,
+  "mieter": [
+   "Engel Optik"
+  ]
+ },
+ "appenzell|engelgasse|1": {
+  "street": "Engelgasse",
+  "hn": "1",
+  "lat": 47.3306032,
+  "lng": 9.4085417,
+  "mieter": [
+   "Tiefenbacher Schuhe"
+  ]
+ },
+ "appenzell|hauptgasse|1": {
+  "street": "Hauptgasse",
+  "hn": "1",
+  "lat": 47.3306335,
+  "lng": 9.4107213,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|3": {
+  "street": "Hauptgasse",
+  "hn": "3",
+  "lat": 47.3306184,
+  "lng": 9.4106459,
+  "mieter": [
+   "Elektro Ulmann"
+  ]
+ },
+ "appenzell|hauptgasse|5": {
+  "street": "Hauptgasse",
+  "hn": "5",
+  "lat": 47.3306142,
+  "lng": 9.4105361,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|7": {
+  "street": "Hauptgasse",
+  "hn": "7",
+  "lat": 47.3306108,
+  "lng": 9.4104064,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|15": {
+  "street": "Weissbadstrasse",
+  "hn": "15",
+  "lat": 47.3293886,
+  "lng": 9.4123736,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|30": {
+  "street": "Weissbadstrasse",
+  "hn": "30",
+  "lat": 47.3276994,
+  "lng": 9.4147935,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|67b": {
+  "street": "Weissbadstrasse",
+  "hn": "67b",
+  "lat": 47.3253307,
+  "lng": 9.4218292,
+  "mieter": []
+ },
+ "appenzell|hauptgasse|40": {
+  "street": "Hauptgasse",
+  "hn": "40",
+  "lat": 47.3316353,
+  "lng": 9.4069257,
+  "mieter": [
+   "Gasthaus Linde"
+  ]
+ },
+ "appenzell|weissbadstrasse|104b": {
+  "street": "Weissbadstrasse",
+  "hn": "104b",
+  "lat": 47.3187587,
+  "lng": 9.4308609,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|111b": {
+  "street": "Weissbadstrasse",
+  "hn": "111b",
+  "lat": 47.3164797,
+  "lng": 9.4343901,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|42a": {
+  "street": "Weissbadstrasse",
+  "hn": "42a",
+  "lat": 47.3247123,
+  "lng": 9.4199815,
+  "mieter": []
+ },
+ "appenzell|weissbadstrasse|42b": {
+  "street": "Weissbadstrasse",
+  "hn": "42b",
+  "lat": 47.3243702,
+  "lng": 9.4199303,
+  "mieter": []
+ }
+}

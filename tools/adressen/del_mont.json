@@ -1,0 +1,1408 @@
+{
+ "delémont|avenue de la gare|37": {
+  "street": "Avenue de la Gare",
+  "hn": "37",
+  "lat": 47.3637389,
+  "lng": 7.3496149,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|18": {
+  "street": "Avenue de la Gare",
+  "hn": "18",
+  "lat": 47.3651293,
+  "lng": 7.3488873,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|20": {
+  "street": "Avenue de la Gare",
+  "hn": "20",
+  "lat": 47.3650504,
+  "lng": 7.3489135,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|22": {
+  "street": "Avenue de la Gare",
+  "hn": "22",
+  "lat": 47.3649522,
+  "lng": 7.348946,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|24": {
+  "street": "Avenue de la Gare",
+  "hn": "24",
+  "lat": 47.364811,
+  "lng": 7.3489928,
+  "mieter": [
+   "Siam"
+  ]
+ },
+ "delémont|rue des moulins|4": {
+  "street": "Rue des Moulins",
+  "hn": "4",
+  "lat": 47.3655458,
+  "lng": 7.345155,
+  "mieter": []
+ },
+ "delémont|place de la liberté|2": {
+  "street": "Place de la Liberté",
+  "hn": "2",
+  "lat": 47.365067,
+  "lng": 7.3436817,
+  "mieter": []
+ },
+ "delémont|place de la liberté|4": {
+  "street": "Place de la Liberté",
+  "hn": "4",
+  "lat": 47.3649785,
+  "lng": 7.343779,
+  "mieter": []
+ },
+ "delémont|place de la liberté|8": {
+  "street": "Place de la Liberté",
+  "hn": "8",
+  "lat": 47.3648705,
+  "lng": 7.3438996,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|33": {
+  "street": "Avenue de la Gare",
+  "hn": "33",
+  "lat": 47.3639024,
+  "lng": 7.3495445,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|38": {
+  "street": "Avenue de la Gare",
+  "hn": "38",
+  "lat": 47.364213,
+  "lng": 7.3491744,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|40": {
+  "street": "Avenue de la Gare",
+  "hn": "40",
+  "lat": 47.364124,
+  "lng": 7.3492012,
+  "mieter": [
+   "Fust"
+  ]
+ },
+ "delémont|avenue de la gare|34": {
+  "street": "Avenue de la Gare",
+  "hn": "34",
+  "lat": 47.364362,
+  "lng": 7.3490537,
+  "mieter": [
+   "WOEZON"
+  ]
+ },
+ "delémont|avenue de la gare|30": {
+  "street": "Avenue de la Gare",
+  "hn": "30",
+  "lat": 47.3644547,
+  "lng": 7.3490966,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|26": {
+  "street": "Avenue de la Gare",
+  "hn": "26",
+  "lat": 47.3645455,
+  "lng": 7.3490725,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|31": {
+  "street": "Avenue de la Gare",
+  "hn": "31",
+  "lat": 47.3639932,
+  "lng": 7.3495231,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|22": {
+  "street": "Rue de l'Hôpital",
+  "hn": "22",
+  "lat": 47.3662318,
+  "lng": 7.3431714,
+  "mieter": [
+   "Mini-Marché"
+  ]
+ },
+ "delémont|rue du 23-juin|32": {
+  "street": "Rue du 23-Juin",
+  "hn": "32",
+  "lat": 47.3650233,
+  "lng": 7.3429485,
+  "mieter": [
+   "La Bonne Auberge"
+  ]
+ },
+ "delémont|rue de l'hôpital|39": {
+  "street": "Rue de l'Hôpital",
+  "hn": "39",
+  "lat": 47.365325,
+  "lng": 7.3420179,
+  "mieter": [
+   "Komachi"
+  ]
+ },
+ "delémont|avenue de la gare|49": {
+  "street": "Avenue de la Gare",
+  "hn": "49",
+  "lat": 47.3634672,
+  "lng": 7.3497009,
+  "mieter": [
+   "Metro boutique"
+  ]
+ },
+ "delémont|rue de l'hôpital|23": {
+  "street": "Rue de l'Hôpital",
+  "hn": "23",
+  "lat": 47.3654936,
+  "lng": 7.3423177,
+  "mieter": [
+   "Coiffure Marie-Claude"
+  ]
+ },
+ "delémont|rue de l'hôpital|47": {
+  "street": "Rue de l'Hôpital",
+  "hn": "47",
+  "lat": 47.3648983,
+  "lng": 7.3415526,
+  "mieter": [
+   "Bibliothèque des adultes"
+  ]
+ },
+ "delémont|rue du 23-juin|48": {
+  "street": "Rue du 23-Juin",
+  "hn": "48",
+  "lat": 47.3646664,
+  "lng": 7.3423296,
+  "mieter": [
+   "La petite chocolaterie"
+  ]
+ },
+ "delémont|avenue de la gare|27": {
+  "street": "Avenue de la Gare",
+  "hn": "27",
+  "lat": 47.3642717,
+  "lng": 7.3496978,
+  "mieter": [
+   "Manor"
+  ]
+ },
+ "delémont|rue du 23-juin|79": {
+  "street": "Rue du 23-Juin",
+  "hn": "79",
+  "lat": 47.3610028,
+  "lng": 7.3816348,
+  "mieter": [
+   "La Boyevatte"
+  ]
+ },
+ "delémont|rue du 23-juin|34": {
+  "street": "Rue du 23-Juin",
+  "hn": "34",
+  "lat": 47.3649523,
+  "lng": 7.3428247,
+  "mieter": [
+   "Magasin du Monde"
+  ]
+ },
+ "delémont|rue du 23-juin|59b": {
+  "street": "Rue du 23-Juin",
+  "hn": "59b",
+  "lat": 47.3623212,
+  "lng": 7.3771111,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|88": {
+  "street": "Rue du 23-Juin",
+  "hn": "88",
+  "lat": 47.3595504,
+  "lng": 7.3855501,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|50": {
+  "street": "Rue du 23-Juin",
+  "hn": "50",
+  "lat": 47.3616283,
+  "lng": 7.376522,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|23a": {
+  "street": "Rue du 23-Juin",
+  "hn": "23a",
+  "lat": 47.3625863,
+  "lng": 7.3720829,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|77": {
+  "street": "Rue du 23-Juin",
+  "hn": "77",
+  "lat": 47.3614303,
+  "lng": 7.381063,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|20": {
+  "street": "Rue du 23-Juin",
+  "hn": "20",
+  "lat": 47.3621411,
+  "lng": 7.3718524,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|57": {
+  "street": "Rue du 23-Juin",
+  "hn": "57",
+  "lat": 47.3618571,
+  "lng": 7.3766714,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|79a": {
+  "street": "Rue du 23-Juin",
+  "hn": "79a",
+  "lat": 47.3612716,
+  "lng": 7.3815569,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|8a": {
+  "street": "Rue du 23-Juin",
+  "hn": "8a",
+  "lat": 47.3618754,
+  "lng": 7.3683529,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|39a": {
+  "street": "Rue du 23-Juin",
+  "hn": "39a",
+  "lat": 47.3622443,
+  "lng": 7.3739827,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|59a": {
+  "street": "Rue du 23-Juin",
+  "hn": "59a",
+  "lat": 47.3621764,
+  "lng": 7.3768874,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|21": {
+  "street": "Rue du 23-Juin",
+  "hn": "21",
+  "lat": 47.3622972,
+  "lng": 7.3718885,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|52": {
+  "street": "Rue du 23-Juin",
+  "hn": "52",
+  "lat": 47.3616007,
+  "lng": 7.3769418,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|26": {
+  "street": "Rue du 23-Juin",
+  "hn": "26",
+  "lat": 47.3619359,
+  "lng": 7.3727781,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|20b": {
+  "street": "Rue du 23-Juin",
+  "hn": "20b",
+  "lat": 47.3619589,
+  "lng": 7.3717816,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|2": {
+  "street": "Rue du 23-Juin",
+  "hn": "2",
+  "lat": 47.3618566,
+  "lng": 7.3673582,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|2a": {
+  "street": "Rue du 23-Juin",
+  "hn": "2a",
+  "lat": 47.3617612,
+  "lng": 7.3673574,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|6": {
+  "street": "Rue du 23-Juin",
+  "hn": "6",
+  "lat": 47.3619174,
+  "lng": 7.368191,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|6a": {
+  "street": "Rue du 23-Juin",
+  "hn": "6a",
+  "lat": 47.36173,
+  "lng": 7.3682194,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|12b": {
+  "street": "Rue du 23-Juin",
+  "hn": "12b",
+  "lat": 47.3616245,
+  "lng": 7.3696174,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|12a": {
+  "street": "Rue du 23-Juin",
+  "hn": "12a",
+  "lat": 47.3616315,
+  "lng": 7.3693572,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|5": {
+  "street": "Rue du 23-Juin",
+  "hn": "5",
+  "lat": 47.3622624,
+  "lng": 7.3682182,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|30a": {
+  "street": "Rue du 23-Juin",
+  "hn": "30a",
+  "lat": 47.3615241,
+  "lng": 7.3729407,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|42": {
+  "street": "Rue du 23-Juin",
+  "hn": "42",
+  "lat": 47.3615108,
+  "lng": 7.3750316,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|13": {
+  "street": "Rue du 23-Juin",
+  "hn": "13",
+  "lat": 47.3625798,
+  "lng": 7.3713062,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|29": {
+  "street": "Rue du 23-Juin",
+  "hn": "29",
+  "lat": 47.3625094,
+  "lng": 7.3727518,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|56": {
+  "street": "Rue du 23-Juin",
+  "hn": "56",
+  "lat": 47.361556,
+  "lng": 7.3777402,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|19a": {
+  "street": "Rue du 23-Juin",
+  "hn": "19a",
+  "lat": 47.3626258,
+  "lng": 7.371802,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|13a": {
+  "street": "Rue du 23-Juin",
+  "hn": "13a",
+  "lat": 47.3627854,
+  "lng": 7.3713018,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|45": {
+  "street": "Rue du 23-Juin",
+  "hn": "45",
+  "lat": 47.3619778,
+  "lng": 7.3742432,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|54": {
+  "street": "Rue du 23-Juin",
+  "hn": "54",
+  "lat": 47.3616002,
+  "lng": 7.3774655,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|84": {
+  "street": "Rue du 23-Juin",
+  "hn": "84",
+  "lat": 47.3597768,
+  "lng": 7.3846108,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|52b": {
+  "street": "Rue du 23-Juin",
+  "hn": "52b",
+  "lat": 47.3614647,
+  "lng": 7.3771731,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|69b": {
+  "street": "Rue du 23-Juin",
+  "hn": "69b",
+  "lat": 47.361713,
+  "lng": 7.3792792,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|77a": {
+  "street": "Rue du 23-Juin",
+  "hn": "77a",
+  "lat": 47.3615218,
+  "lng": 7.3811793,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|45a": {
+  "street": "Rue du 23-Juin",
+  "hn": "45a",
+  "lat": 47.3621759,
+  "lng": 7.374245,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|65a": {
+  "street": "Rue du 23-Juin",
+  "hn": "65a",
+  "lat": 47.3618947,
+  "lng": 7.3783874,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|78": {
+  "street": "Rue du 23-Juin",
+  "hn": "78",
+  "lat": 47.3597355,
+  "lng": 7.3834914,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|60": {
+  "street": "Rue du 23-Juin",
+  "hn": "60",
+  "lat": 47.361265,
+  "lng": 7.3785767,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|72": {
+  "street": "Rue du 23-Juin",
+  "hn": "72",
+  "lat": 47.3606152,
+  "lng": 7.3818194,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|41": {
+  "street": "Rue du 23-Juin",
+  "hn": "41",
+  "lat": 47.3620446,
+  "lng": 7.373826,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|17": {
+  "street": "Rue du 23-Juin",
+  "hn": "17",
+  "lat": 47.3624052,
+  "lng": 7.371571,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|28": {
+  "street": "Rue du 23-Juin",
+  "hn": "28",
+  "lat": 47.3620077,
+  "lng": 7.3729487,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|17c": {
+  "street": "Rue du 23-Juin",
+  "hn": "17c",
+  "lat": 47.3626905,
+  "lng": 7.3717706,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|23b": {
+  "street": "Rue du 23-Juin",
+  "hn": "23b",
+  "lat": 47.362705,
+  "lng": 7.3721243,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|15a": {
+  "street": "Rue du 23-Juin",
+  "hn": "15a",
+  "lat": 47.3627328,
+  "lng": 7.3714862,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|16": {
+  "street": "Rue du 23-Juin",
+  "hn": "16",
+  "lat": 47.3617127,
+  "lng": 7.3702584,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|50a": {
+  "street": "Rue du 23-Juin",
+  "hn": "50a",
+  "lat": 47.3615183,
+  "lng": 7.3765545,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|43": {
+  "street": "Rue du 23-Juin",
+  "hn": "43",
+  "lat": 47.3620021,
+  "lng": 7.3741047,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|30b": {
+  "street": "Rue du 23-Juin",
+  "hn": "30b",
+  "lat": 47.3613916,
+  "lng": 7.3730163,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|35a": {
+  "street": "Rue du 23-Juin",
+  "hn": "35a",
+  "lat": 47.3624994,
+  "lng": 7.3730224,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|43a": {
+  "street": "Rue du 23-Juin",
+  "hn": "43a",
+  "lat": 47.3622063,
+  "lng": 7.3741111,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|14": {
+  "street": "Rue du 23-Juin",
+  "hn": "14",
+  "lat": 47.3621499,
+  "lng": 7.3702513,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|17a": {
+  "street": "Rue du 23-Juin",
+  "hn": "17a",
+  "lat": 47.3625899,
+  "lng": 7.3716127,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|12": {
+  "street": "Rue du 23-Juin",
+  "hn": "12",
+  "lat": 47.3620144,
+  "lng": 7.3693241,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|4": {
+  "street": "Rue du 23-Juin",
+  "hn": "4",
+  "lat": 47.3618512,
+  "lng": 7.3676363,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|55": {
+  "street": "Rue du 23-Juin",
+  "hn": "55",
+  "lat": 47.3618191,
+  "lng": 7.3762438,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|38": {
+  "street": "Rue du 23-Juin",
+  "hn": "38",
+  "lat": 47.3617211,
+  "lng": 7.3743298,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|35": {
+  "street": "Rue du 23-Juin",
+  "hn": "35",
+  "lat": 47.3622623,
+  "lng": 7.3730403,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|20a": {
+  "street": "Rue du 23-Juin",
+  "hn": "20a",
+  "lat": 47.3620801,
+  "lng": 7.3716846,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|3": {
+  "street": "Rue du 23-Juin",
+  "hn": "3",
+  "lat": 47.3622728,
+  "lng": 7.3680453,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|72a": {
+  "street": "Rue du 23-Juin",
+  "hn": "72a",
+  "lat": 47.3605452,
+  "lng": 7.3821366,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|69": {
+  "street": "Rue du 23-Juin",
+  "hn": "69",
+  "lat": 47.3615094,
+  "lng": 7.3792552,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|86a": {
+  "street": "Rue du 23-Juin",
+  "hn": "86a",
+  "lat": 47.3592163,
+  "lng": 7.3850666,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|82": {
+  "street": "Rue du 23-Juin",
+  "hn": "82",
+  "lat": 47.3598209,
+  "lng": 7.384461,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|76": {
+  "street": "Rue du 23-Juin",
+  "hn": "76",
+  "lat": 47.3602125,
+  "lng": 7.3827202,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "delémont|rue du 23-juin|83a": {
+  "street": "Rue du 23-Juin",
+  "hn": "83a",
+  "lat": 47.3604341,
+  "lng": 7.3837663,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|68": {
+  "street": "Rue du 23-Juin",
+  "hn": "68",
+  "lat": 47.3608387,
+  "lng": 7.3811485,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|83": {
+  "street": "Rue du 23-Juin",
+  "hn": "83",
+  "lat": 47.3603494,
+  "lng": 7.3837314,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|72b": {
+  "street": "Rue du 23-Juin",
+  "hn": "72b",
+  "lat": 47.360231,
+  "lng": 7.3819539,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|65": {
+  "street": "Rue du 23-Juin",
+  "hn": "65",
+  "lat": 47.3618003,
+  "lng": 7.3783447,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|62": {
+  "street": "Rue du 23-Juin",
+  "hn": "62",
+  "lat": 47.3612505,
+  "lng": 7.3789345,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|66": {
+  "street": "Rue du 23-Juin",
+  "hn": "66",
+  "lat": 47.3612564,
+  "lng": 7.3800988,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|70": {
+  "street": "Rue du 23-Juin",
+  "hn": "70",
+  "lat": 47.3605003,
+  "lng": 7.3816479,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|15": {
+  "street": "Rue du 23-Juin",
+  "hn": "15",
+  "lat": 47.3625422,
+  "lng": 7.371384,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|40": {
+  "street": "Rue du 23-Juin",
+  "hn": "40",
+  "lat": 47.3615991,
+  "lng": 7.3749231,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|59": {
+  "street": "Rue du 23-Juin",
+  "hn": "59",
+  "lat": 47.3619656,
+  "lng": 7.3771823,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|37": {
+  "street": "Rue du 23-Juin",
+  "hn": "37",
+  "lat": 47.362165,
+  "lng": 7.3733918,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|18": {
+  "street": "Rue du 23-Juin",
+  "hn": "18",
+  "lat": 47.3622173,
+  "lng": 7.3714132,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|27": {
+  "street": "Rue du 23-Juin",
+  "hn": "27",
+  "lat": 47.3623114,
+  "lng": 7.3726506,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|39b": {
+  "street": "Rue du 23-Juin",
+  "hn": "39b",
+  "lat": 47.362295,
+  "lng": 7.3738936,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|59e": {
+  "street": "Rue du 23-Juin",
+  "hn": "59e",
+  "lat": 47.3619183,
+  "lng": 7.3772787,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|52a": {
+  "street": "Rue du 23-Juin",
+  "hn": "52a",
+  "lat": 47.3616,
+  "lng": 7.3770538,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|17d": {
+  "street": "Rue du 23-Juin",
+  "hn": "17d",
+  "lat": 47.3626531,
+  "lng": 7.3716992,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|44": {
+  "street": "Rue du 23-Juin",
+  "hn": "44",
+  "lat": 47.3616416,
+  "lng": 7.3751637,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|39": {
+  "street": "Rue du 23-Juin",
+  "hn": "39",
+  "lat": 47.3620998,
+  "lng": 7.3736527,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|25": {
+  "street": "Rue du 23-Juin",
+  "hn": "25",
+  "lat": 47.3624204,
+  "lng": 7.3723579,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|19": {
+  "street": "Rue du 23-Juin",
+  "hn": "19",
+  "lat": 47.3623677,
+  "lng": 7.371752,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|59c": {
+  "street": "Rue du 23-Juin",
+  "hn": "59c",
+  "lat": 47.3619388,
+  "lng": 7.376883,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|17b": {
+  "street": "Rue du 23-Juin",
+  "hn": "17b",
+  "lat": 47.3625803,
+  "lng": 7.3717454,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|29a": {
+  "street": "Rue du 23-Juin",
+  "hn": "29a",
+  "lat": 47.3625816,
+  "lng": 7.3726238,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|7a": {
+  "street": "Rue du 23-Juin",
+  "hn": "7a",
+  "lat": 47.3621836,
+  "lng": 7.3684771,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|38a": {
+  "street": "Rue du 23-Juin",
+  "hn": "38a",
+  "lat": 47.3614507,
+  "lng": 7.3739615,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|22": {
+  "street": "Rue du 23-Juin",
+  "hn": "22",
+  "lat": 47.3621288,
+  "lng": 7.3722284,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|31": {
+  "street": "Rue du 23-Juin",
+  "hn": "31",
+  "lat": 47.3626619,
+  "lng": 7.3730318,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|33": {
+  "street": "Rue du 23-Juin",
+  "hn": "33",
+  "lat": 47.3624058,
+  "lng": 7.3728529,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|30": {
+  "street": "Rue du 23-Juin",
+  "hn": "30",
+  "lat": 47.3616159,
+  "lng": 7.3730332,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|24": {
+  "street": "Rue du 23-Juin",
+  "hn": "24",
+  "lat": 47.3620364,
+  "lng": 7.3726465,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|8": {
+  "street": "Rue du 23-Juin",
+  "hn": "8",
+  "lat": 47.36189,
+  "lng": 7.3684798,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|10": {
+  "street": "Rue du 23-Juin",
+  "hn": "10",
+  "lat": 47.3617727,
+  "lng": 7.3690535,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|7": {
+  "street": "Rue du 23-Juin",
+  "hn": "7",
+  "lat": 47.3621696,
+  "lng": 7.3688547,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|23": {
+  "street": "Rue du 23-Juin",
+  "hn": "23",
+  "lat": 47.3623106,
+  "lng": 7.3721437,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|80": {
+  "street": "Rue du 23-Juin",
+  "hn": "80",
+  "lat": 47.3598487,
+  "lng": 7.3837876,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|90": {
+  "street": "Rue du 23-Juin",
+  "hn": "90",
+  "lat": 47.3593564,
+  "lng": 7.3860822,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|58": {
+  "street": "Rue de l'Hôpital",
+  "hn": "58",
+  "lat": 47.3653583,
+  "lng": 7.3409721,
+  "mieter": [
+   "Résidence La Promenade"
+  ]
+ },
+ "delémont|rue du 23-juin|1": {
+  "street": "Rue du 23-Juin",
+  "hn": "1",
+  "lat": 47.3483552,
+  "lng": 7.3460896,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|51": {
+  "street": "Avenue de la Gare",
+  "hn": "51",
+  "lat": 47.3629519,
+  "lng": 7.3498835,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|7": {
+  "street": "Avenue de la Gare",
+  "hn": "7",
+  "lat": 47.3660189,
+  "lng": 7.3499677,
+  "mieter": [
+   "Collège de Delémont"
+  ]
+ },
+ "delémont|avenue de la gare|47": {
+  "street": "Avenue de la Gare",
+  "hn": "47",
+  "lat": 47.3632565,
+  "lng": 7.3498035,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|48": {
+  "street": "Avenue de la Gare",
+  "hn": "48",
+  "lat": 47.3632209,
+  "lng": 7.3494246,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|50": {
+  "street": "Avenue de la Gare",
+  "hn": "50",
+  "lat": 47.3631008,
+  "lng": 7.3494629,
+  "mieter": []
+ },
+ "delémont|rue des moulins|28": {
+  "street": "Rue des Moulins",
+  "hn": "28",
+  "lat": 47.3639191,
+  "lng": 7.3450632,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|11": {
+  "street": "Avenue de la Gare",
+  "hn": "11",
+  "lat": 47.3654684,
+  "lng": 7.3491669,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|15": {
+  "street": "Avenue de la Gare",
+  "hn": "15",
+  "lat": 47.3651775,
+  "lng": 7.3492824,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|19": {
+  "street": "Avenue de la Gare",
+  "hn": "19",
+  "lat": 47.3648703,
+  "lng": 7.3493919,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|39": {
+  "street": "Avenue de la Gare",
+  "hn": "39",
+  "lat": 47.3636031,
+  "lng": 7.3497534,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|42": {
+  "street": "Avenue de la Gare",
+  "hn": "42",
+  "lat": 47.3638756,
+  "lng": 7.3489841,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|44": {
+  "street": "Avenue de la Gare",
+  "hn": "44",
+  "lat": 47.3637495,
+  "lng": 7.3492492,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|46": {
+  "street": "Avenue de la Gare",
+  "hn": "46",
+  "lat": 47.3635794,
+  "lng": 7.3492982,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|41": {
+  "street": "Avenue de la Gare",
+  "hn": "41",
+  "lat": 47.3634746,
+  "lng": 7.3497668,
+  "mieter": []
+ },
+ "delémont|rue des moulins|13,15": {
+  "street": "Rue des Moulins",
+  "hn": "13,15",
+  "lat": 47.3646762,
+  "lng": 7.3455215,
+  "mieter": []
+ },
+ "delémont|rue des moulins|17": {
+  "street": "Rue des Moulins",
+  "hn": "17",
+  "lat": 47.3644783,
+  "lng": 7.3453089,
+  "mieter": []
+ },
+ "delémont|rue des moulins|19": {
+  "street": "Rue des Moulins",
+  "hn": "19",
+  "lat": 47.364385,
+  "lng": 7.3453786,
+  "mieter": []
+ },
+ "delémont|rue des moulins|21": {
+  "street": "Rue des Moulins",
+  "hn": "21",
+  "lat": 47.3641979,
+  "lng": 7.3454974,
+  "mieter": []
+ },
+ "delémont|place de la liberté|1": {
+  "street": "Place de la Liberté",
+  "hn": "1",
+  "lat": 47.3651568,
+  "lng": 7.3440927,
+  "mieter": [
+   "Hôtel de Ville"
+  ]
+ },
+ "delémont|rue des moulins|1": {
+  "street": "Rue des Moulins",
+  "hn": "1",
+  "lat": 47.3653909,
+  "lng": 7.3454846,
+  "mieter": []
+ },
+ "delémont|rue des moulins|3": {
+  "street": "Rue des Moulins",
+  "hn": "3",
+  "lat": 47.3652779,
+  "lng": 7.3454056,
+  "mieter": []
+ },
+ "delémont|rue des moulins|5": {
+  "street": "Rue des Moulins",
+  "hn": "5",
+  "lat": 47.3651853,
+  "lng": 7.345285,
+  "mieter": []
+ },
+ "delémont|rue des moulins|7": {
+  "street": "Rue des Moulins",
+  "hn": "7",
+  "lat": 47.3650744,
+  "lng": 7.3453199,
+  "mieter": []
+ },
+ "delémont|rue des moulins|9": {
+  "street": "Rue des Moulins",
+  "hn": "9",
+  "lat": 47.3649882,
+  "lng": 7.3454036,
+  "mieter": []
+ },
+ "delémont|rue des moulins|2": {
+  "street": "Rue des Moulins",
+  "hn": "2",
+  "lat": 47.365285,
+  "lng": 7.3449713,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|6": {
+  "street": "Avenue de la Gare",
+  "hn": "6",
+  "lat": 47.3660473,
+  "lng": 7.3484189,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|11": {
+  "street": "Rue du 23-Juin",
+  "hn": "11",
+  "lat": 47.364918,
+  "lng": 7.3433252,
+  "mieter": []
+ },
+ "delémont|place de la liberté|6": {
+  "street": "Place de la Liberté",
+  "hn": "6",
+  "lat": 47.3648802,
+  "lng": 7.343769,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|9": {
+  "street": "Rue du 23-Juin",
+  "hn": "9",
+  "lat": 47.3649501,
+  "lng": 7.3433818,
+  "mieter": []
+ },
+ "delémont|rue des moulins|12": {
+  "street": "Rue des Moulins",
+  "hn": "12",
+  "lat": 47.3645955,
+  "lng": 7.3447199,
+  "mieter": []
+ },
+ "delémont|rue des moulins|14": {
+  "street": "Rue des Moulins",
+  "hn": "14",
+  "lat": 47.3644468,
+  "lng": 7.3448839,
+  "mieter": []
+ },
+ "delémont|rue des moulins|16": {
+  "street": "Rue des Moulins",
+  "hn": "16",
+  "lat": 47.3642664,
+  "lng": 7.3447833,
+  "mieter": []
+ },
+ "delémont|rue des moulins|18": {
+  "street": "Rue des Moulins",
+  "hn": "18",
+  "lat": 47.3643616,
+  "lng": 7.3449894,
+  "mieter": []
+ },
+ "delémont|rue des moulins|20": {
+  "street": "Rue des Moulins",
+  "hn": "20",
+  "lat": 47.3641863,
+  "lng": 7.3448708,
+  "mieter": []
+ },
+ "delémont|rue des moulins|22": {
+  "street": "Rue des Moulins",
+  "hn": "22",
+  "lat": 47.3642429,
+  "lng": 7.3450091,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|36": {
+  "street": "Rue du 23-Juin",
+  "hn": "36",
+  "lat": 47.3649518,
+  "lng": 7.3427272,
+  "mieter": []
+ },
+ "delémont|rue du 23-juin|46": {
+  "street": "Rue du 23-Juin",
+  "hn": "46",
+  "lat": 47.3647462,
+  "lng": 7.3424384,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|15": {
+  "street": "Rue de l'Hôpital",
+  "hn": "15",
+  "lat": 47.3656118,
+  "lng": 7.3426967,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|17": {
+  "street": "Rue de l'Hôpital",
+  "hn": "17",
+  "lat": 47.3656066,
+  "lng": 7.3425995,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|19": {
+  "street": "Rue de l'Hôpital",
+  "hn": "19",
+  "lat": 47.3655509,
+  "lng": 7.3424984,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|31": {
+  "street": "Rue de l'Hôpital",
+  "hn": "31",
+  "lat": 47.3654752,
+  "lng": 7.3423124,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|33": {
+  "street": "Rue de l'Hôpital",
+  "hn": "33",
+  "lat": 47.3654277,
+  "lng": 7.3422234,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|35": {
+  "street": "Rue de l'Hôpital",
+  "hn": "35",
+  "lat": 47.3653815,
+  "lng": 7.3421477,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|37": {
+  "street": "Rue de l'Hôpital",
+  "hn": "37",
+  "lat": 47.36533,
+  "lng": 7.3421101,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|41": {
+  "street": "Rue de l'Hôpital",
+  "hn": "41",
+  "lat": 47.3652948,
+  "lng": 7.3419292,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|9": {
+  "street": "Rue de l'Hôpital",
+  "hn": "9",
+  "lat": 47.3661851,
+  "lng": 7.343484,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|3": {
+  "street": "Rue de l'Hôpital",
+  "hn": "3",
+  "lat": 47.3664248,
+  "lng": 7.3440583,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|5": {
+  "street": "Rue de l'Hôpital",
+  "hn": "5",
+  "lat": 47.3664177,
+  "lng": 7.3439622,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|8": {
+  "street": "Rue de l'Hôpital",
+  "hn": "8",
+  "lat": 47.3666184,
+  "lng": 7.3436379,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|4": {
+  "street": "Rue de l'Hôpital",
+  "hn": "4",
+  "lat": 47.3669038,
+  "lng": 7.34377,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|12": {
+  "street": "Rue de l'Hôpital",
+  "hn": "12",
+  "lat": 47.3663792,
+  "lng": 7.3433771,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|14": {
+  "street": "Rue de l'Hôpital",
+  "hn": "14",
+  "lat": 47.3663605,
+  "lng": 7.3433369,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|16": {
+  "street": "Rue de l'Hôpital",
+  "hn": "16",
+  "lat": 47.3663263,
+  "lng": 7.3432833,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|24": {
+  "street": "Rue de l'Hôpital",
+  "hn": "24",
+  "lat": 47.3662156,
+  "lng": 7.3430028,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|26": {
+  "street": "Rue de l'Hôpital",
+  "hn": "26",
+  "lat": 47.3661719,
+  "lng": 7.342942,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|28": {
+  "street": "Rue de l'Hôpital",
+  "hn": "28",
+  "lat": 47.3660874,
+  "lng": 7.3429306,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|30": {
+  "street": "Rue de l'Hôpital",
+  "hn": "30",
+  "lat": 47.366051,
+  "lng": 7.3428628,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|32": {
+  "street": "Rue de l'Hôpital",
+  "hn": "32",
+  "lat": 47.366015,
+  "lng": 7.3427999,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|52": {
+  "street": "Rue de l'Hôpital",
+  "hn": "52",
+  "lat": 47.3655239,
+  "lng": 7.3417224,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|25": {
+  "street": "Avenue de la Gare",
+  "hn": "25",
+  "lat": 47.3644177,
+  "lng": 7.3494264,
+  "mieter": []
+ },
+ "delémont|avenue de la gare|1": {
+  "street": "Avenue de la Gare",
+  "hn": "1",
+  "lat": 47.3660594,
+  "lng": 7.3491174,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|2": {
+  "street": "Rue de l'Hôpital",
+  "hn": "2",
+  "lat": 47.3668198,
+  "lng": 7.3439941,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|6": {
+  "street": "Rue de l'Hôpital",
+  "hn": "6",
+  "lat": 47.3666403,
+  "lng": 7.3437411,
+  "mieter": []
+ },
+ "delémont|rue de l'hôpital|56": {
+  "street": "Rue de l'Hôpital",
+  "hn": "56",
+  "lat": 47.3657811,
+  "lng": 7.3415691,
+  "mieter": []
+ }
+}

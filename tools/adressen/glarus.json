@@ -1,0 +1,957 @@
+{
+ "glarus|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 47.0396825,
+  "lng": 9.0704881,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 47.0399711,
+  "lng": 9.0684161,
+  "mieter": [
+   "Bürger & Steakhouse City Glarus"
+  ]
+ },
+ "glarus|zaunplatz|6": {
+  "street": "Zaunplatz",
+  "hn": "6",
+  "lat": 47.0387907,
+  "lng": 9.0674331,
+  "mieter": [
+   "Glarnerstübli"
+  ]
+ },
+ "glarus|hauptstrasse|31": {
+  "street": "Hauptstrasse",
+  "hn": "31",
+  "lat": 47.0395122,
+  "lng": 9.0680558,
+  "mieter": [
+   "Cornetto"
+  ]
+ },
+ "glarus|zaunplatz|2": {
+  "street": "Zaunplatz",
+  "hn": "2",
+  "lat": 47.0389528,
+  "lng": 9.0676861,
+  "mieter": [
+   "Apotheke Glarus"
+  ]
+ },
+ "glarus|zaunplatz|14": {
+  "street": "Zaunplatz",
+  "hn": "14",
+  "lat": 47.0385028,
+  "lng": 9.0673848,
+  "mieter": [
+   "Glarus Kebap"
+  ]
+ },
+ "glarus|spielhof|15": {
+  "street": "Spielhof",
+  "hn": "15",
+  "lat": 47.0419892,
+  "lng": 9.0660609,
+  "mieter": [
+   "Gabriel"
+  ]
+ },
+ "glarus|hauptstrasse|21": {
+  "street": "Hauptstrasse",
+  "hn": "21",
+  "lat": 47.0391759,
+  "lng": 9.0683104,
+  "mieter": [
+   "GLKB"
+  ]
+ },
+ "glarus|rathausplatz|9": {
+  "street": "Rathausplatz",
+  "hn": "9",
+  "lat": 47.0396576,
+  "lng": 9.0680061,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|23": {
+  "street": "Bahnhofstrasse",
+  "hn": "23",
+  "lat": 47.0397632,
+  "lng": 9.0682635,
+  "mieter": [
+   "glarussell"
+  ]
+ },
+ "glarus|spielhof|12": {
+  "street": "Spielhof",
+  "hn": "12",
+  "lat": 47.0424375,
+  "lng": 9.0663338,
+  "mieter": [
+   "Kommando Kantonspolizei Glarus"
+  ]
+ },
+ "glarus|hauptstrasse|45": {
+  "street": "Hauptstrasse",
+  "hn": "45",
+  "lat": 47.0407657,
+  "lng": 9.0671911,
+  "mieter": [
+   "O Sole Mio"
+  ]
+ },
+ "glarus|hauptstrasse|43": {
+  "street": "Hauptstrasse",
+  "hn": "43",
+  "lat": 47.0407126,
+  "lng": 9.0672294,
+  "mieter": [
+   "Tsiounis"
+  ]
+ },
+ "glarus|hauptstrasse|37": {
+  "street": "Hauptstrasse",
+  "hn": "37",
+  "lat": 47.0404437,
+  "lng": 9.0674233,
+  "mieter": [
+   "Winteler Zigarren"
+  ]
+ },
+ "glarus|hauptstrasse|35": {
+  "street": "Hauptstrasse",
+  "hn": "35",
+  "lat": 47.0403595,
+  "lng": 9.0674839,
+  "mieter": [
+   "Dätwyler Intercoiffure"
+  ]
+ },
+ "glarus|hauptstrasse|55": {
+  "street": "Hauptstrasse",
+  "hn": "55",
+  "lat": 47.0412718,
+  "lng": 9.0668671,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|16": {
+  "street": "Bahnhofstrasse",
+  "hn": "16",
+  "lat": 47.0398623,
+  "lng": 9.0686602,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.0397967,
+  "lng": 9.0689077,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|60": {
+  "street": "Hauptstrasse",
+  "hn": "60",
+  "lat": 47.0414752,
+  "lng": 9.0671137,
+  "mieter": [
+   "Landesbibliothek Glarus"
+  ]
+ },
+ "glarus|hauptstrasse|11": {
+  "street": "Hauptstrasse",
+  "hn": "11",
+  "lat": 47.0387783,
+  "lng": 9.0686077,
+  "mieter": [
+   "Steuerverwaltung des Kantons Glarus"
+  ]
+ },
+ "glarus|rathausplatz|3": {
+  "street": "Rathausplatz",
+  "hn": "3",
+  "lat": 47.0401706,
+  "lng": 9.068261,
+  "mieter": [
+   "Läderach"
+  ]
+ },
+ "glarus|bahnhofstrasse|17": {
+  "street": "Bahnhofstrasse",
+  "hn": "17",
+  "lat": 47.0396844,
+  "lng": 9.0686002,
+  "mieter": [
+   "Modehaus Beglinger"
+  ]
+ },
+ "glarus|hauptstrasse|20": {
+  "street": "Hauptstrasse",
+  "hn": "20",
+  "lat": 47.0392458,
+  "lng": 9.0686157,
+  "mieter": [
+   "claro Weltladen"
+  ]
+ },
+ "glarus|hauptstrasse|34": {
+  "street": "Hauptstrasse",
+  "hn": "34",
+  "lat": 47.0404737,
+  "lng": 9.0678534,
+  "mieter": [
+   "Mypet.ch"
+  ]
+ },
+ "glarus|hauptstrasse|17": {
+  "street": "Hauptstrasse",
+  "hn": "17",
+  "lat": 47.0388525,
+  "lng": 9.0685141,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 47.0395901,
+  "lng": 9.0690206,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|19": {
+  "street": "Bahnhofstrasse",
+  "hn": "19",
+  "lat": 47.0397289,
+  "lng": 9.0684949,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|32": {
+  "street": "Hauptstrasse",
+  "hn": "32",
+  "lat": 47.0396286,
+  "lng": 9.0682972,
+  "mieter": []
+ },
+ "glarus|spielhof|14a": {
+  "street": "Spielhof",
+  "hn": "14a",
+  "lat": 47.0425391,
+  "lng": 9.0659701,
+  "mieter": []
+ },
+ "glarus|spielhof|14": {
+  "street": "Spielhof",
+  "hn": "14",
+  "lat": 47.0422967,
+  "lng": 9.0660696,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|7": {
+  "street": "Hauptstrasse",
+  "hn": "7",
+  "lat": 47.0492447,
+  "lng": 9.0525436,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|46": {
+  "street": "Hauptstrasse",
+  "hn": "46",
+  "lat": 47.0408596,
+  "lng": 9.0674549,
+  "mieter": [
+   "Lavie46"
+  ]
+ },
+ "glarus|hauptstrasse|18": {
+  "street": "Hauptstrasse",
+  "hn": "18",
+  "lat": 47.0486635,
+  "lng": 9.0529652,
+  "mieter": [
+   "Abeille"
+  ]
+ },
+ "glarus|spielhof|9": {
+  "street": "Spielhof",
+  "hn": "9",
+  "lat": 47.0418936,
+  "lng": 9.0661426,
+  "mieter": [
+   "Spielhofkaffee"
+  ]
+ },
+ "glarus|hauptstrasse|24": {
+  "street": "Hauptstrasse",
+  "hn": "24",
+  "lat": 47.0393829,
+  "lng": 9.0685356,
+  "mieter": [
+   "Duski Imbiss"
+  ]
+ },
+ "glarus|hauptstrasse|28": {
+  "street": "Hauptstrasse",
+  "hn": "28",
+  "lat": 47.0395678,
+  "lng": 9.0685468,
+  "mieter": []
+ },
+ "glarus|rathausplatz|7": {
+  "street": "Rathausplatz",
+  "hn": "7",
+  "lat": 47.0398588,
+  "lng": 9.0674838,
+  "mieter": [
+   "Rathaus"
+  ]
+ },
+ "glarus|hauptstrasse|9": {
+  "street": "Hauptstrasse",
+  "hn": "9",
+  "lat": 47.0386519,
+  "lng": 9.068606,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 47.0395287,
+  "lng": 9.068772,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|47": {
+  "street": "Hauptstrasse",
+  "hn": "47",
+  "lat": 47.0409011,
+  "lng": 9.0669949,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|27": {
+  "street": "Bahnhofstrasse",
+  "hn": "27",
+  "lat": 47.0320951,
+  "lng": 9.0789137,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|41": {
+  "street": "Bahnhofstrasse",
+  "hn": "41",
+  "lat": 47.0317618,
+  "lng": 9.0793734,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|29a": {
+  "street": "Bahnhofstrasse",
+  "hn": "29a",
+  "lat": 47.0321103,
+  "lng": 9.0793063,
+  "mieter": []
+ },
+ "glarus|zaunplatz|36": {
+  "street": "Zaunplatz",
+  "hn": "36",
+  "lat": 47.0378335,
+  "lng": 9.0685616,
+  "mieter": [
+   "Zaunschulhaus"
+  ]
+ },
+ "glarus|spielhof|6": {
+  "street": "Spielhof",
+  "hn": "6",
+  "lat": 47.0420811,
+  "lng": 9.0669646,
+  "mieter": [
+   "Gerichtshaus"
+  ]
+ },
+ "glarus|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 47.0637351,
+  "lng": 9.0580787,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 47.063931,
+  "lng": 9.0591192,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 47.0635775,
+  "lng": 9.0574321,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 47.0635162,
+  "lng": 9.0577897,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|1": {
+  "street": "Hauptstrasse",
+  "hn": "1",
+  "lat": 47.0496247,
+  "lng": 9.0521455,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|10": {
+  "street": "Hauptstrasse",
+  "hn": "10",
+  "lat": 47.0494423,
+  "lng": 9.0519261,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|21a": {
+  "street": "Hauptstrasse",
+  "hn": "21a",
+  "lat": 47.0490638,
+  "lng": 9.0536971,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|5": {
+  "street": "Hauptstrasse",
+  "hn": "5",
+  "lat": 47.0494997,
+  "lng": 9.0524635,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|2": {
+  "street": "Hauptstrasse",
+  "hn": "2",
+  "lat": 47.0497431,
+  "lng": 9.0512328,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|8": {
+  "street": "Hauptstrasse",
+  "hn": "8",
+  "lat": 47.0495208,
+  "lng": 9.0517614,
+  "mieter": []
+ },
+ "glarus|spielhof|1": {
+  "street": "Spielhof",
+  "hn": "1",
+  "lat": 47.0415742,
+  "lng": 9.0663228,
+  "mieter": []
+ },
+ "glarus|spielhof|22": {
+  "street": "Spielhof",
+  "hn": "22",
+  "lat": 47.0423121,
+  "lng": 9.0653521,
+  "mieter": []
+ },
+ "glarus|spielhof|18": {
+  "street": "Spielhof",
+  "hn": "18",
+  "lat": 47.0423049,
+  "lng": 9.0657299,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|12": {
+  "street": "Hauptstrasse",
+  "hn": "12",
+  "lat": 47.0490799,
+  "lng": 9.0523584,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|16": {
+  "street": "Hauptstrasse",
+  "hn": "16",
+  "lat": 47.0487075,
+  "lng": 9.0523905,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|14": {
+  "street": "Hauptstrasse",
+  "hn": "14",
+  "lat": 47.0489082,
+  "lng": 9.0525289,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|22": {
+  "street": "Hauptstrasse",
+  "hn": "22",
+  "lat": 47.0485347,
+  "lng": 9.0525767,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|110": {
+  "street": "Hauptstrasse",
+  "hn": "110",
+  "lat": 47.0238386,
+  "lng": 9.0798487,
+  "mieter": []
+ },
+ "glarus|zaunplatz|12": {
+  "street": "Zaunplatz",
+  "hn": "12",
+  "lat": 47.0386977,
+  "lng": 9.0672115,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|6": {
+  "street": "Hauptstrasse",
+  "hn": "6",
+  "lat": 47.0386243,
+  "lng": 9.0690716,
+  "mieter": []
+ },
+ "glarus|zaunplatz|22": {
+  "street": "Zaunplatz",
+  "hn": "22",
+  "lat": 47.0381797,
+  "lng": 9.0677658,
+  "mieter": []
+ },
+ "glarus|zaunplatz|34": {
+  "street": "Zaunplatz",
+  "hn": "34",
+  "lat": 47.0378204,
+  "lng": 9.0680881,
+  "mieter": []
+ },
+ "glarus|zaunplatz|38": {
+  "street": "Zaunplatz",
+  "hn": "38",
+  "lat": 47.0382172,
+  "lng": 9.0687817,
+  "mieter": []
+ },
+ "glarus|zaunplatz|36a": {
+  "street": "Zaunplatz",
+  "hn": "36a",
+  "lat": 47.0377273,
+  "lng": 9.0681015,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|4": {
+  "street": "Hauptstrasse",
+  "hn": "4",
+  "lat": 47.0385696,
+  "lng": 9.0691108,
+  "mieter": []
+ },
+ "glarus|spielhof|26": {
+  "street": "Spielhof",
+  "hn": "26",
+  "lat": 47.0423224,
+  "lng": 9.0649268,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|49": {
+  "street": "Hauptstrasse",
+  "hn": "49",
+  "lat": 47.0409897,
+  "lng": 9.0669395,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|57": {
+  "street": "Hauptstrasse",
+  "hn": "57",
+  "lat": 47.041322,
+  "lng": 9.066694,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|51": {
+  "street": "Hauptstrasse",
+  "hn": "51",
+  "lat": 47.041053,
+  "lng": 9.0668782,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|53": {
+  "street": "Hauptstrasse",
+  "hn": "53",
+  "lat": 47.0411371,
+  "lng": 9.0668001,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|59": {
+  "street": "Hauptstrasse",
+  "hn": "59",
+  "lat": 47.0414326,
+  "lng": 9.0666467,
+  "mieter": []
+ },
+ "glarus|spielhof|7": {
+  "street": "Spielhof",
+  "hn": "7",
+  "lat": 47.041826,
+  "lng": 9.0661674,
+  "mieter": []
+ },
+ "glarus|spielhof|17": {
+  "street": "Spielhof",
+  "hn": "17",
+  "lat": 47.0420588,
+  "lng": 9.0658931,
+  "mieter": []
+ },
+ "glarus|spielhof|3": {
+  "street": "Spielhof",
+  "hn": "3",
+  "lat": 47.0416803,
+  "lng": 9.0662645,
+  "mieter": []
+ },
+ "glarus|spielhof|5": {
+  "street": "Spielhof",
+  "hn": "5",
+  "lat": 47.0417575,
+  "lng": 9.0662088,
+  "mieter": []
+ },
+ "glarus|spielhof|25": {
+  "street": "Spielhof",
+  "hn": "25",
+  "lat": 47.042036,
+  "lng": 9.065474,
+  "mieter": []
+ },
+ "glarus|spielhof|19": {
+  "street": "Spielhof",
+  "hn": "19",
+  "lat": 47.0420387,
+  "lng": 9.065808,
+  "mieter": []
+ },
+ "glarus|spielhof|23": {
+  "street": "Spielhof",
+  "hn": "23",
+  "lat": 47.0420404,
+  "lng": 9.0655839,
+  "mieter": []
+ },
+ "glarus|spielhof|27": {
+  "street": "Spielhof",
+  "hn": "27",
+  "lat": 47.0420643,
+  "lng": 9.0653581,
+  "mieter": []
+ },
+ "glarus|spielhof|21": {
+  "street": "Spielhof",
+  "hn": "21",
+  "lat": 47.0420338,
+  "lng": 9.0656968,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 47.0397112,
+  "lng": 9.0683455,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|26": {
+  "street": "Hauptstrasse",
+  "hn": "26",
+  "lat": 47.039484,
+  "lng": 9.0685173,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|30": {
+  "street": "Hauptstrasse",
+  "hn": "30",
+  "lat": 47.039595,
+  "lng": 9.0684267,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|44": {
+  "street": "Hauptstrasse",
+  "hn": "44",
+  "lat": 47.0408363,
+  "lng": 9.0675759,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|42": {
+  "street": "Hauptstrasse",
+  "hn": "42",
+  "lat": 47.0407756,
+  "lng": 9.0676693,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|38": {
+  "street": "Hauptstrasse",
+  "hn": "38",
+  "lat": 47.0406087,
+  "lng": 9.0677914,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|40": {
+  "street": "Hauptstrasse",
+  "hn": "40",
+  "lat": 47.0407118,
+  "lng": 9.0677134,
+  "mieter": []
+ },
+ "glarus|rathausplatz|1": {
+  "street": "Rathausplatz",
+  "hn": "1",
+  "lat": 47.0401143,
+  "lng": 9.0683549,
+  "mieter": []
+ },
+ "glarus|rathausplatz|5": {
+  "street": "Rathausplatz",
+  "hn": "5",
+  "lat": 47.0402814,
+  "lng": 9.0682755,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 47.0398105,
+  "lng": 9.0690699,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|41": {
+  "street": "Hauptstrasse",
+  "hn": "41",
+  "lat": 47.040586,
+  "lng": 9.0672421,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|39": {
+  "street": "Hauptstrasse",
+  "hn": "39",
+  "lat": 47.0404759,
+  "lng": 9.0672588,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|48": {
+  "street": "Hauptstrasse",
+  "hn": "48",
+  "lat": 47.0411333,
+  "lng": 9.0674957,
+  "mieter": []
+ },
+ "glarus|zaunplatz|4": {
+  "street": "Zaunplatz",
+  "hn": "4",
+  "lat": 47.0388701,
+  "lng": 9.067486,
+  "mieter": []
+ },
+ "glarus|zaunplatz|8": {
+  "street": "Zaunplatz",
+  "hn": "8",
+  "lat": 47.038768,
+  "lng": 9.067327,
+  "mieter": []
+ },
+ "glarus|zaunplatz|10": {
+  "street": "Zaunplatz",
+  "hn": "10",
+  "lat": 47.0387349,
+  "lng": 9.0672758,
+  "mieter": []
+ },
+ "glarus|zaunplatz|32": {
+  "street": "Zaunplatz",
+  "hn": "32",
+  "lat": 47.0378779,
+  "lng": 9.0680418,
+  "mieter": []
+ },
+ "glarus|zaunplatz|30": {
+  "street": "Zaunplatz",
+  "hn": "30",
+  "lat": 47.0379333,
+  "lng": 9.0679958,
+  "mieter": []
+ },
+ "glarus|zaunplatz|26": {
+  "street": "Zaunplatz",
+  "hn": "26",
+  "lat": 47.0380323,
+  "lng": 9.0679137,
+  "mieter": []
+ },
+ "glarus|zaunplatz|28": {
+  "street": "Zaunplatz",
+  "hn": "28",
+  "lat": 47.0379857,
+  "lng": 9.067952,
+  "mieter": []
+ },
+ "glarus|zaunplatz|16": {
+  "street": "Zaunplatz",
+  "hn": "16",
+  "lat": 47.0384142,
+  "lng": 9.0674523,
+  "mieter": []
+ },
+ "glarus|zaunplatz|24": {
+  "street": "Zaunplatz",
+  "hn": "24",
+  "lat": 47.0380946,
+  "lng": 9.0678624,
+  "mieter": []
+ },
+ "glarus|zaunplatz|18": {
+  "street": "Zaunplatz",
+  "hn": "18",
+  "lat": 47.0383538,
+  "lng": 9.0675443,
+  "mieter": []
+ },
+ "glarus|zaunplatz|20": {
+  "street": "Zaunplatz",
+  "hn": "20",
+  "lat": 47.0382907,
+  "lng": 9.0676333,
+  "mieter": []
+ },
+ "glarus|spielhof|24": {
+  "street": "Spielhof",
+  "hn": "24",
+  "lat": 47.0423022,
+  "lng": 9.065195,
+  "mieter": []
+ },
+ "glarus|spielhof|20": {
+  "street": "Spielhof",
+  "hn": "20",
+  "lat": 47.0423053,
+  "lng": 9.0655911,
+  "mieter": []
+ },
+ "glarus|spielhof|16": {
+  "street": "Spielhof",
+  "hn": "16",
+  "lat": 47.042285,
+  "lng": 9.0659316,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|3": {
+  "street": "Hauptstrasse",
+  "hn": "3",
+  "lat": 47.0495219,
+  "lng": 9.0523324,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|15": {
+  "street": "Hauptstrasse",
+  "hn": "15",
+  "lat": 47.0489999,
+  "lng": 9.053031,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|19": {
+  "street": "Hauptstrasse",
+  "hn": "19",
+  "lat": 47.048876,
+  "lng": 9.0532117,
+  "mieter": []
+ },
+ "glarus|hauptstrasse|13": {
+  "street": "Hauptstrasse",
+  "hn": "13",
+  "lat": 47.0490308,
+  "lng": 9.0529842,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|25": {
+  "street": "Bahnhofstrasse",
+  "hn": "25",
+  "lat": 47.0321273,
+  "lng": 9.0788463,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 47.0323652,
+  "lng": 9.0785247,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 47.0323997,
+  "lng": 9.0784783,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 47.0325029,
+  "lng": 9.078338,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 47.0324337,
+  "lng": 9.0784315,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 47.0325503,
+  "lng": 9.0783049,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|37": {
+  "street": "Bahnhofstrasse",
+  "hn": "37",
+  "lat": 47.0318528,
+  "lng": 9.0792141,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|35": {
+  "street": "Bahnhofstrasse",
+  "hn": "35",
+  "lat": 47.0318867,
+  "lng": 9.0791683,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|29": {
+  "street": "Bahnhofstrasse",
+  "hn": "29",
+  "lat": 47.0319985,
+  "lng": 9.0790427,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|33": {
+  "street": "Bahnhofstrasse",
+  "hn": "33",
+  "lat": 47.0319203,
+  "lng": 9.0791238,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|39": {
+  "street": "Bahnhofstrasse",
+  "hn": "39",
+  "lat": 47.0318252,
+  "lng": 9.0792764,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|31": {
+  "street": "Bahnhofstrasse",
+  "hn": "31",
+  "lat": 47.0319531,
+  "lng": 9.0790797,
+  "mieter": []
+ },
+ "glarus|bahnhofstrasse|5a": {
+  "street": "Bahnhofstrasse",
+  "hn": "5a",
+  "lat": 47.0638709,
+  "lng": 9.058327,
+  "mieter": []
+ }
+}

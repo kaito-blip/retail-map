@@ -1,0 +1,1810 @@
+{
+ "gstaad|güterstrasse|6": {
+  "street": "Güterstrasse",
+  "hn": "6",
+  "lat": 46.4758503,
+  "lng": 7.2835819,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "gstaad|güterstrasse|10": {
+  "street": "Güterstrasse",
+  "hn": "10",
+  "lat": 46.4759762,
+  "lng": 7.2831474,
+  "mieter": [
+   "Landi"
+  ]
+ },
+ "gstaad|lauenenstrasse|76": {
+  "street": "Lauenenstrasse",
+  "hn": "76",
+  "lat": 46.4697658,
+  "lng": 7.2930085,
+  "mieter": []
+ },
+ "gstaad|promenade|41": {
+  "street": "Promenade",
+  "hn": "41",
+  "lat": 46.4736662,
+  "lng": 7.2863522,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|3": {
+  "street": "Untergstaadstrasse",
+  "hn": "3",
+  "lat": 46.4782763,
+  "lng": 7.282448,
+  "mieter": [
+   "Migros"
+  ]
+ },
+ "gstaad|untergstaadstrasse|8": {
+  "street": "Untergstaadstrasse",
+  "hn": "8",
+  "lat": 46.4774084,
+  "lng": 7.2820467,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|28": {
+  "street": "Palacestrasse",
+  "hn": "28",
+  "lat": 46.4731762,
+  "lng": 7.2893315,
+  "mieter": [
+   "Gildo's Ristorante",
+   "Le Grill",
+   "Le Grand Restaurant et La Grande Terrasse"
+  ]
+ },
+ "gstaad|untergstaadstrasse|26": {
+  "street": "Untergstaadstrasse",
+  "hn": "26",
+  "lat": 46.4763625,
+  "lng": 7.2837169,
+  "mieter": [
+   "The Mansard Restaurant"
+  ]
+ },
+ "gstaad|güterstrasse|11": {
+  "street": "Güterstrasse",
+  "hn": "11",
+  "lat": 46.4754547,
+  "lng": 7.2841588,
+  "mieter": [
+   "Poststelle Gstaad"
+  ]
+ },
+ "gstaad|promenade|50": {
+  "street": "Promenade",
+  "hn": "50",
+  "lat": 46.4742052,
+  "lng": 7.2865095,
+  "mieter": []
+ },
+ "gstaad|promenade|54": {
+  "street": "Promenade",
+  "hn": "54",
+  "lat": 46.4744796,
+  "lng": 7.2861506,
+  "mieter": []
+ },
+ "gstaad|promenade|53": {
+  "street": "Promenade",
+  "hn": "53",
+  "lat": 46.4741229,
+  "lng": 7.2860437,
+  "mieter": []
+ },
+ "gstaad|promenade|52": {
+  "street": "Promenade",
+  "hn": "52",
+  "lat": 46.4742995,
+  "lng": 7.2863838,
+  "mieter": [
+   "Saanenbank"
+  ]
+ },
+ "gstaad|palacestrasse|2": {
+  "street": "Palacestrasse",
+  "hn": "2",
+  "lat": 46.4738161,
+  "lng": 7.2868031,
+  "mieter": []
+ },
+ "gstaad|güterstrasse|12": {
+  "street": "Güterstrasse",
+  "hn": "12",
+  "lat": 46.4751104,
+  "lng": 7.2841375,
+  "mieter": []
+ },
+ "gstaad|güterstrasse|14": {
+  "street": "Güterstrasse",
+  "hn": "14",
+  "lat": 46.4749178,
+  "lng": 7.2843686,
+  "mieter": [
+   "Press & Books"
+  ]
+ },
+ "gstaad|promenade|57": {
+  "street": "Promenade",
+  "hn": "57",
+  "lat": 46.4742488,
+  "lng": 7.2856507,
+  "mieter": []
+ },
+ "gstaad|güterstrasse|8": {
+  "street": "Güterstrasse",
+  "hn": "8",
+  "lat": 46.4761084,
+  "lng": 7.2834145,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|28": {
+  "street": "Untergstaadstrasse",
+  "hn": "28",
+  "lat": 46.4761118,
+  "lng": 7.2839723,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|20": {
+  "street": "Untergstaadstrasse",
+  "hn": "20",
+  "lat": 46.4765274,
+  "lng": 7.283286,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "gstaad|untergstaadstrasse|6": {
+  "street": "Untergstaadstrasse",
+  "hn": "6",
+  "lat": 46.4777631,
+  "lng": 7.2820914,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|4": {
+  "street": "Untergstaadstrasse",
+  "hn": "4",
+  "lat": 46.4776718,
+  "lng": 7.2824248,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|10": {
+  "street": "Untergstaadstrasse",
+  "hn": "10",
+  "lat": 46.4774423,
+  "lng": 7.2826408,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|12": {
+  "street": "Untergstaadstrasse",
+  "hn": "12",
+  "lat": 46.4772007,
+  "lng": 7.2826085,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|14": {
+  "street": "Untergstaadstrasse",
+  "hn": "14",
+  "lat": 46.4771264,
+  "lng": 7.282944,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|15": {
+  "street": "Untergstaadstrasse",
+  "hn": "15",
+  "lat": 46.4776188,
+  "lng": 7.2841414,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|21": {
+  "street": "Untergstaadstrasse",
+  "hn": "21",
+  "lat": 46.4787379,
+  "lng": 7.2830681,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|7": {
+  "street": "Untergstaadstrasse",
+  "hn": "7",
+  "lat": 46.4784968,
+  "lng": 7.2828001,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|9": {
+  "street": "Untergstaadstrasse",
+  "hn": "9",
+  "lat": 46.47823,
+  "lng": 7.2829672,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|19": {
+  "street": "Untergstaadstrasse",
+  "hn": "19",
+  "lat": 46.4784607,
+  "lng": 7.2832546,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|17": {
+  "street": "Untergstaadstrasse",
+  "hn": "17",
+  "lat": 46.4779665,
+  "lng": 7.2834402,
+  "mieter": []
+ },
+ "gstaad|promenade|81": {
+  "street": "Promenade",
+  "hn": "81",
+  "lat": 46.4758748,
+  "lng": 7.2841602,
+  "mieter": []
+ },
+ "gstaad|promenade|79": {
+  "street": "Promenade",
+  "hn": "79",
+  "lat": 46.4757369,
+  "lng": 7.2842396,
+  "mieter": []
+ },
+ "gstaad|promenade|77": {
+  "street": "Promenade",
+  "hn": "77",
+  "lat": 46.4756582,
+  "lng": 7.2843995,
+  "mieter": []
+ },
+ "gstaad|promenade|75": {
+  "street": "Promenade",
+  "hn": "75",
+  "lat": 46.4755049,
+  "lng": 7.2844919,
+  "mieter": []
+ },
+ "gstaad|promenade|73": {
+  "street": "Promenade",
+  "hn": "73",
+  "lat": 46.4754002,
+  "lng": 7.2845576,
+  "mieter": []
+ },
+ "gstaad|promenade|65": {
+  "street": "Promenade",
+  "hn": "65",
+  "lat": 46.4749268,
+  "lng": 7.2850754,
+  "mieter": []
+ },
+ "gstaad|promenade|63": {
+  "street": "Promenade",
+  "hn": "63",
+  "lat": 46.474832,
+  "lng": 7.285176,
+  "mieter": []
+ },
+ "gstaad|promenade|61": {
+  "street": "Promenade",
+  "hn": "61",
+  "lat": 46.4746887,
+  "lng": 7.2852266,
+  "mieter": []
+ },
+ "gstaad|promenade|59": {
+  "street": "Promenade",
+  "hn": "59",
+  "lat": 46.47448,
+  "lng": 7.2855366,
+  "mieter": [
+   "St. Niklaus-Kapelle"
+  ]
+ },
+ "gstaad|promenade|55": {
+  "street": "Promenade",
+  "hn": "55",
+  "lat": 46.4741892,
+  "lng": 7.2858678,
+  "mieter": []
+ },
+ "gstaad|promenade|76": {
+  "street": "Promenade",
+  "hn": "76",
+  "lat": 46.4758381,
+  "lng": 7.2848509,
+  "mieter": [
+   "Charly's"
+  ]
+ },
+ "gstaad|promenade|74": {
+  "street": "Promenade",
+  "hn": "74",
+  "lat": 46.4756699,
+  "lng": 7.2848645,
+  "mieter": []
+ },
+ "gstaad|promenade|72": {
+  "street": "Promenade",
+  "hn": "72",
+  "lat": 46.4755252,
+  "lng": 7.2850268,
+  "mieter": []
+ },
+ "gstaad|promenade|68": {
+  "street": "Promenade",
+  "hn": "68",
+  "lat": 46.4752019,
+  "lng": 7.285336,
+  "mieter": []
+ },
+ "gstaad|promenade|66": {
+  "street": "Promenade",
+  "hn": "66",
+  "lat": 46.4750559,
+  "lng": 7.2854361,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|2": {
+  "street": "Untergstaadstrasse",
+  "hn": "2",
+  "lat": 46.4779544,
+  "lng": 7.2822588,
+  "mieter": []
+ },
+ "gstaad|promenade|45": {
+  "street": "Promenade",
+  "hn": "45",
+  "lat": 46.4735479,
+  "lng": 7.2859522,
+  "mieter": []
+ },
+ "gstaad|promenade|47": {
+  "street": "Promenade",
+  "hn": "47",
+  "lat": 46.4737765,
+  "lng": 7.2861717,
+  "mieter": []
+ },
+ "gstaad|promenade|35": {
+  "street": "Promenade",
+  "hn": "35",
+  "lat": 46.4733835,
+  "lng": 7.286198,
+  "mieter": []
+ },
+ "gstaad|promenade|37": {
+  "street": "Promenade",
+  "hn": "37",
+  "lat": 46.4733614,
+  "lng": 7.2858649,
+  "mieter": []
+ },
+ "gstaad|promenade|25": {
+  "street": "Promenade",
+  "hn": "25",
+  "lat": 46.4732417,
+  "lng": 7.2859855,
+  "mieter": []
+ },
+ "gstaad|promenade|19": {
+  "street": "Promenade",
+  "hn": "19",
+  "lat": 46.4730517,
+  "lng": 7.2861294,
+  "mieter": []
+ },
+ "gstaad|promenade|23": {
+  "street": "Promenade",
+  "hn": "23",
+  "lat": 46.4732567,
+  "lng": 7.2861566,
+  "mieter": []
+ },
+ "gstaad|promenade|29": {
+  "street": "Promenade",
+  "hn": "29",
+  "lat": 46.4731094,
+  "lng": 7.2858932,
+  "mieter": []
+ },
+ "gstaad|promenade|15": {
+  "street": "Promenade",
+  "hn": "15",
+  "lat": 46.4728388,
+  "lng": 7.2860827,
+  "mieter": []
+ },
+ "gstaad|promenade|9": {
+  "street": "Promenade",
+  "hn": "9",
+  "lat": 46.4727256,
+  "lng": 7.2863448,
+  "mieter": []
+ },
+ "gstaad|promenade|7": {
+  "street": "Promenade",
+  "hn": "7",
+  "lat": 46.472581,
+  "lng": 7.2863775,
+  "mieter": []
+ },
+ "gstaad|promenade|3": {
+  "street": "Promenade",
+  "hn": "3",
+  "lat": 46.4724029,
+  "lng": 7.286345,
+  "mieter": []
+ },
+ "gstaad|promenade|13": {
+  "street": "Promenade",
+  "hn": "13",
+  "lat": 46.472643,
+  "lng": 7.2861541,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|16": {
+  "street": "Untergstaadstrasse",
+  "hn": "16",
+  "lat": 46.4767861,
+  "lng": 7.2831425,
+  "mieter": []
+ },
+ "gstaad|güterstrasse|2": {
+  "street": "Güterstrasse",
+  "hn": "2",
+  "lat": 46.4760771,
+  "lng": 7.2839061,
+  "mieter": []
+ },
+ "gstaad|promenade|70": {
+  "street": "Promenade",
+  "hn": "70",
+  "lat": 46.4752944,
+  "lng": 7.2851388,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|24": {
+  "street": "Untergstaadstrasse",
+  "hn": "24",
+  "lat": 46.4761735,
+  "lng": 7.2833508,
+  "mieter": []
+ },
+ "gstaad|promenade|58": {
+  "street": "Promenade",
+  "hn": "58",
+  "lat": 46.4746797,
+  "lng": 7.2857618,
+  "mieter": []
+ },
+ "gstaad|promenade|38": {
+  "street": "Promenade",
+  "hn": "38",
+  "lat": 46.4734531,
+  "lng": 7.2866655,
+  "mieter": []
+ },
+ "gstaad|promenade|28": {
+  "street": "Promenade",
+  "hn": "28",
+  "lat": 46.4732872,
+  "lng": 7.2865133,
+  "mieter": []
+ },
+ "gstaad|promenade|20": {
+  "street": "Promenade",
+  "hn": "20",
+  "lat": 46.4730952,
+  "lng": 7.2866169,
+  "mieter": []
+ },
+ "gstaad|promenade|10": {
+  "street": "Promenade",
+  "hn": "10",
+  "lat": 46.4728085,
+  "lng": 7.2866181,
+  "mieter": []
+ },
+ "gstaad|promenade|6": {
+  "street": "Promenade",
+  "hn": "6",
+  "lat": 46.4725578,
+  "lng": 7.2866709,
+  "mieter": []
+ },
+ "gstaad|promenade|2": {
+  "street": "Promenade",
+  "hn": "2",
+  "lat": 46.4722374,
+  "lng": 7.2867597,
+  "mieter": []
+ },
+ "gstaad|promenade|4": {
+  "street": "Promenade",
+  "hn": "4",
+  "lat": 46.4724014,
+  "lng": 7.2868918,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|19": {
+  "street": "Palacestrasse",
+  "hn": "19",
+  "lat": 46.4744633,
+  "lng": 7.2883551,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|17": {
+  "street": "Palacestrasse",
+  "hn": "17",
+  "lat": 46.4743333,
+  "lng": 7.288739,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|14": {
+  "street": "Palacestrasse",
+  "hn": "14",
+  "lat": 46.4741717,
+  "lng": 7.2881202,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|16": {
+  "street": "Palacestrasse",
+  "hn": "16",
+  "lat": 46.4740125,
+  "lng": 7.2884702,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|10": {
+  "street": "Palacestrasse",
+  "hn": "10",
+  "lat": 46.4739821,
+  "lng": 7.2881235,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|18": {
+  "street": "Palacestrasse",
+  "hn": "18",
+  "lat": 46.4737957,
+  "lng": 7.2888139,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|20": {
+  "street": "Palacestrasse",
+  "hn": "20",
+  "lat": 46.4735782,
+  "lng": 7.288982,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|22": {
+  "street": "Palacestrasse",
+  "hn": "22",
+  "lat": 46.4732128,
+  "lng": 7.2887919,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|24": {
+  "street": "Palacestrasse",
+  "hn": "24",
+  "lat": 46.4728926,
+  "lng": 7.2890893,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|26": {
+  "street": "Palacestrasse",
+  "hn": "26",
+  "lat": 46.4725122,
+  "lng": 7.2900763,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|21": {
+  "street": "Palacestrasse",
+  "hn": "21",
+  "lat": 46.4743557,
+  "lng": 7.2894516,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|34a": {
+  "street": "Palacestrasse",
+  "hn": "34a",
+  "lat": 46.4739488,
+  "lng": 7.290191,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|34": {
+  "street": "Palacestrasse",
+  "hn": "34",
+  "lat": 46.473693,
+  "lng": 7.290506,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|28a": {
+  "street": "Palacestrasse",
+  "hn": "28a",
+  "lat": 46.4734659,
+  "lng": 7.2902396,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|43": {
+  "street": "Lauenenstrasse",
+  "hn": "43",
+  "lat": 46.4715468,
+  "lng": 7.2914135,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|45": {
+  "street": "Lauenenstrasse",
+  "hn": "45",
+  "lat": 46.471362,
+  "lng": 7.2917502,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|71": {
+  "street": "Lauenenstrasse",
+  "hn": "71",
+  "lat": 46.470292,
+  "lng": 7.2931492,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|69a": {
+  "street": "Lauenenstrasse",
+  "hn": "69a",
+  "lat": 46.4703014,
+  "lng": 7.2928182,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|57": {
+  "street": "Lauenenstrasse",
+  "hn": "57",
+  "lat": 46.4703447,
+  "lng": 7.2925511,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|59": {
+  "street": "Lauenenstrasse",
+  "hn": "59",
+  "lat": 46.4708002,
+  "lng": 7.2921603,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|65": {
+  "street": "Lauenenstrasse",
+  "hn": "65",
+  "lat": 46.4707991,
+  "lng": 7.2926841,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|61": {
+  "street": "Lauenenstrasse",
+  "hn": "61",
+  "lat": 46.4712023,
+  "lng": 7.2923208,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|11": {
+  "street": "Lauenenstrasse",
+  "hn": "11",
+  "lat": 46.4717058,
+  "lng": 7.2843621,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|21": {
+  "street": "Lauenenstrasse",
+  "hn": "21",
+  "lat": 46.4718504,
+  "lng": 7.2854371,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|23": {
+  "street": "Lauenenstrasse",
+  "hn": "23",
+  "lat": 46.471998,
+  "lng": 7.2856664,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|25": {
+  "street": "Lauenenstrasse",
+  "hn": "25",
+  "lat": 46.4720368,
+  "lng": 7.2859516,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|9": {
+  "street": "Lauenenstrasse",
+  "hn": "9",
+  "lat": 46.4715652,
+  "lng": 7.28472,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|7": {
+  "street": "Lauenenstrasse",
+  "hn": "7",
+  "lat": 46.4713912,
+  "lng": 7.2849106,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|5": {
+  "street": "Lauenenstrasse",
+  "hn": "5",
+  "lat": 46.471085,
+  "lng": 7.2848189,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|19": {
+  "street": "Lauenenstrasse",
+  "hn": "19",
+  "lat": 46.4716444,
+  "lng": 7.2852531,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|17": {
+  "street": "Lauenenstrasse",
+  "hn": "17",
+  "lat": 46.4714584,
+  "lng": 7.2851794,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|2": {
+  "street": "Lauenenstrasse",
+  "hn": "2",
+  "lat": 46.4707246,
+  "lng": 7.2848124,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|4": {
+  "street": "Lauenenstrasse",
+  "hn": "4",
+  "lat": 46.4708562,
+  "lng": 7.284961,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|8": {
+  "street": "Lauenenstrasse",
+  "hn": "8",
+  "lat": 46.4710286,
+  "lng": 7.285452,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|16": {
+  "street": "Lauenenstrasse",
+  "hn": "16",
+  "lat": 46.4701205,
+  "lng": 7.2862882,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|14": {
+  "street": "Lauenenstrasse",
+  "hn": "14",
+  "lat": 46.4703207,
+  "lng": 7.286053,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|10": {
+  "street": "Lauenenstrasse",
+  "hn": "10",
+  "lat": 46.4708335,
+  "lng": 7.2858268,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|18": {
+  "street": "Lauenenstrasse",
+  "hn": "18",
+  "lat": 46.4712119,
+  "lng": 7.2857291,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|20": {
+  "street": "Lauenenstrasse",
+  "hn": "20",
+  "lat": 46.4713301,
+  "lng": 7.2859002,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|22": {
+  "street": "Lauenenstrasse",
+  "hn": "22",
+  "lat": 46.4715997,
+  "lng": 7.2861456,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|22a": {
+  "street": "Lauenenstrasse",
+  "hn": "22a",
+  "lat": 46.4714777,
+  "lng": 7.2860134,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|26": {
+  "street": "Lauenenstrasse",
+  "hn": "26",
+  "lat": 46.4718729,
+  "lng": 7.2867048,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|24": {
+  "street": "Lauenenstrasse",
+  "hn": "24",
+  "lat": 46.4717405,
+  "lng": 7.2864723,
+  "mieter": [
+   "Molkerei Gstaad"
+  ]
+ },
+ "gstaad|lauenenstrasse|28": {
+  "street": "Lauenenstrasse",
+  "hn": "28",
+  "lat": 46.4719031,
+  "lng": 7.2872074,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|34": {
+  "street": "Lauenenstrasse",
+  "hn": "34",
+  "lat": 46.4717941,
+  "lng": 7.2877132,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|36": {
+  "street": "Lauenenstrasse",
+  "hn": "36",
+  "lat": 46.471827,
+  "lng": 7.2881001,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|88": {
+  "street": "Lauenenstrasse",
+  "hn": "88",
+  "lat": 46.4692777,
+  "lng": 7.2934895,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|86": {
+  "street": "Lauenenstrasse",
+  "hn": "86",
+  "lat": 46.4695247,
+  "lng": 7.2932754,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|90": {
+  "street": "Lauenenstrasse",
+  "hn": "90",
+  "lat": 46.4694096,
+  "lng": 7.2942353,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|89": {
+  "street": "Lauenenstrasse",
+  "hn": "89",
+  "lat": 46.4697786,
+  "lng": 7.29479,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|91": {
+  "street": "Lauenenstrasse",
+  "hn": "91",
+  "lat": 46.4692632,
+  "lng": 7.295577,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|93": {
+  "street": "Lauenenstrasse",
+  "hn": "93",
+  "lat": 46.468947,
+  "lng": 7.2959555,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|97a": {
+  "street": "Lauenenstrasse",
+  "hn": "97a",
+  "lat": 46.4677026,
+  "lng": 7.2963055,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|97": {
+  "street": "Lauenenstrasse",
+  "hn": "97",
+  "lat": 46.4676519,
+  "lng": 7.2965007,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|98": {
+  "street": "Lauenenstrasse",
+  "hn": "98",
+  "lat": 46.4674879,
+  "lng": 7.2960497,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|100a": {
+  "street": "Lauenenstrasse",
+  "hn": "100a",
+  "lat": 46.4673373,
+  "lng": 7.2963808,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|99": {
+  "street": "Lauenenstrasse",
+  "hn": "99",
+  "lat": 46.467449,
+  "lng": 7.2967164,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|168a": {
+  "street": "Lauenenstrasse",
+  "hn": "168a",
+  "lat": 46.4615865,
+  "lng": 7.299251,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|170a": {
+  "street": "Lauenenstrasse",
+  "hn": "170a",
+  "lat": 46.4610976,
+  "lng": 7.2999173,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|172": {
+  "street": "Lauenenstrasse",
+  "hn": "172",
+  "lat": 46.4608622,
+  "lng": 7.3006833,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|172a": {
+  "street": "Lauenenstrasse",
+  "hn": "172a",
+  "lat": 46.4608218,
+  "lng": 7.3009234,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|196a": {
+  "street": "Lauenenstrasse",
+  "hn": "196a",
+  "lat": 46.4572266,
+  "lng": 7.3066714,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|204a": {
+  "street": "Lauenenstrasse",
+  "hn": "204a",
+  "lat": 46.4549893,
+  "lng": 7.3080875,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|202": {
+  "street": "Lauenenstrasse",
+  "hn": "202",
+  "lat": 46.455002,
+  "lng": 7.3082595,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|206a": {
+  "street": "Lauenenstrasse",
+  "hn": "206a",
+  "lat": 46.45454,
+  "lng": 7.3079903,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|206": {
+  "street": "Lauenenstrasse",
+  "hn": "206",
+  "lat": 46.4545287,
+  "lng": 7.3083675,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|152": {
+  "street": "Lauenenstrasse",
+  "hn": "152",
+  "lat": 46.4628167,
+  "lng": 7.2980871,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|152a": {
+  "street": "Lauenenstrasse",
+  "hn": "152a",
+  "lat": 46.4629734,
+  "lng": 7.2978769,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|156": {
+  "street": "Lauenenstrasse",
+  "hn": "156",
+  "lat": 46.4629618,
+  "lng": 7.2988433,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|157": {
+  "street": "Lauenenstrasse",
+  "hn": "157",
+  "lat": 46.4626411,
+  "lng": 7.2994348,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|159": {
+  "street": "Lauenenstrasse",
+  "hn": "159",
+  "lat": 46.4627506,
+  "lng": 7.2996402,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|46": {
+  "street": "Lauenenstrasse",
+  "hn": "46",
+  "lat": 46.4711135,
+  "lng": 7.2914182,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|50": {
+  "street": "Lauenenstrasse",
+  "hn": "50",
+  "lat": 46.4706104,
+  "lng": 7.2915317,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|75": {
+  "street": "Lauenenstrasse",
+  "hn": "75",
+  "lat": 46.4699021,
+  "lng": 7.2935884,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|62a": {
+  "street": "Lauenenstrasse",
+  "hn": "62a",
+  "lat": 46.4701244,
+  "lng": 7.2927263,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|60": {
+  "street": "Lauenenstrasse",
+  "hn": "60",
+  "lat": 46.4701242,
+  "lng": 7.2924399,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|58a": {
+  "street": "Lauenenstrasse",
+  "hn": "58a",
+  "lat": 46.4701319,
+  "lng": 7.2922493,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|60a": {
+  "street": "Lauenenstrasse",
+  "hn": "60a",
+  "lat": 46.4701189,
+  "lng": 7.2923367,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|56": {
+  "street": "Lauenenstrasse",
+  "hn": "56",
+  "lat": 46.4701659,
+  "lng": 7.2921215,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|52": {
+  "street": "Lauenenstrasse",
+  "hn": "52",
+  "lat": 46.470296,
+  "lng": 7.2918687,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|52a": {
+  "street": "Lauenenstrasse",
+  "hn": "52a",
+  "lat": 46.4701398,
+  "lng": 7.2919647,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|78": {
+  "street": "Lauenenstrasse",
+  "hn": "78",
+  "lat": 46.4698212,
+  "lng": 7.2922326,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|76a": {
+  "street": "Lauenenstrasse",
+  "hn": "76a",
+  "lat": 46.469631,
+  "lng": 7.292728,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|78b": {
+  "street": "Lauenenstrasse",
+  "hn": "78b",
+  "lat": 46.4697202,
+  "lng": 7.2918976,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|78a": {
+  "street": "Lauenenstrasse",
+  "hn": "78a",
+  "lat": 46.4696894,
+  "lng": 7.2920156,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|74": {
+  "street": "Lauenenstrasse",
+  "hn": "74",
+  "lat": 46.4698781,
+  "lng": 7.2931394,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|96a": {
+  "street": "Lauenenstrasse",
+  "hn": "96a",
+  "lat": 46.4678009,
+  "lng": 7.2958744,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|96b": {
+  "street": "Lauenenstrasse",
+  "hn": "96b",
+  "lat": 46.4676188,
+  "lng": 7.29587,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|205": {
+  "street": "Lauenenstrasse",
+  "hn": "205",
+  "lat": 46.4569149,
+  "lng": 7.3093218,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|203": {
+  "street": "Lauenenstrasse",
+  "hn": "203",
+  "lat": 46.4560493,
+  "lng": 7.3094453,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|201a": {
+  "street": "Lauenenstrasse",
+  "hn": "201a",
+  "lat": 46.4557904,
+  "lng": 7.3086948,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|201b": {
+  "street": "Lauenenstrasse",
+  "hn": "201b",
+  "lat": 46.4556557,
+  "lng": 7.3088252,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|199": {
+  "street": "Lauenenstrasse",
+  "hn": "199",
+  "lat": 46.4560229,
+  "lng": 7.3077093,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|195b": {
+  "street": "Lauenenstrasse",
+  "hn": "195b",
+  "lat": 46.4579268,
+  "lng": 7.3067231,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|195c": {
+  "street": "Lauenenstrasse",
+  "hn": "195c",
+  "lat": 46.4580134,
+  "lng": 7.3073453,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|195": {
+  "street": "Lauenenstrasse",
+  "hn": "195",
+  "lat": 46.4576649,
+  "lng": 7.3080603,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|193a": {
+  "street": "Lauenenstrasse",
+  "hn": "193a",
+  "lat": 46.4579619,
+  "lng": 7.3088243,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|191b": {
+  "street": "Lauenenstrasse",
+  "hn": "191b",
+  "lat": 46.4586926,
+  "lng": 7.3072708,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|191": {
+  "street": "Lauenenstrasse",
+  "hn": "191",
+  "lat": 46.4589092,
+  "lng": 7.306828,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|189": {
+  "street": "Lauenenstrasse",
+  "hn": "189",
+  "lat": 46.4587645,
+  "lng": 7.3059295,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|191a": {
+  "street": "Lauenenstrasse",
+  "hn": "191a",
+  "lat": 46.4585995,
+  "lng": 7.3060176,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|188a": {
+  "street": "Lauenenstrasse",
+  "hn": "188a",
+  "lat": 46.4586803,
+  "lng": 7.3054482,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|186": {
+  "street": "Lauenenstrasse",
+  "hn": "186",
+  "lat": 46.4591145,
+  "lng": 7.30421,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|184": {
+  "street": "Lauenenstrasse",
+  "hn": "184",
+  "lat": 46.4592251,
+  "lng": 7.3038897,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|182": {
+  "street": "Lauenenstrasse",
+  "hn": "182",
+  "lat": 46.4595089,
+  "lng": 7.303565,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|180": {
+  "street": "Lauenenstrasse",
+  "hn": "180",
+  "lat": 46.4598761,
+  "lng": 7.3031599,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|180a": {
+  "street": "Lauenenstrasse",
+  "hn": "180a",
+  "lat": 46.4599212,
+  "lng": 7.303057,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|176": {
+  "street": "Lauenenstrasse",
+  "hn": "176",
+  "lat": 46.4601588,
+  "lng": 7.3027618,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|39": {
+  "street": "Lauenenstrasse",
+  "hn": "39",
+  "lat": 46.472158,
+  "lng": 7.2898171,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|7": {
+  "street": "Palacestrasse",
+  "hn": "7",
+  "lat": 46.4757367,
+  "lng": 7.2871925,
+  "mieter": []
+ },
+ "gstaad|palacestrasse|9": {
+  "street": "Palacestrasse",
+  "hn": "9",
+  "lat": 46.4753337,
+  "lng": 7.2874942,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|173a": {
+  "street": "Lauenenstrasse",
+  "hn": "173a",
+  "lat": 46.4612006,
+  "lng": 7.3013502,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|167a": {
+  "street": "Lauenenstrasse",
+  "hn": "167a",
+  "lat": 46.4621259,
+  "lng": 7.301801,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|163": {
+  "street": "Lauenenstrasse",
+  "hn": "163",
+  "lat": 46.462614,
+  "lng": 7.3006037,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|163a": {
+  "street": "Lauenenstrasse",
+  "hn": "163a",
+  "lat": 46.4626085,
+  "lng": 7.3008352,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|165": {
+  "street": "Lauenenstrasse",
+  "hn": "165",
+  "lat": 46.4637225,
+  "lng": 7.299938,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|165b": {
+  "street": "Lauenenstrasse",
+  "hn": "165b",
+  "lat": 46.4636654,
+  "lng": 7.2996885,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|165a": {
+  "street": "Lauenenstrasse",
+  "hn": "165a",
+  "lat": 46.463375,
+  "lng": 7.2998629,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|137": {
+  "street": "Lauenenstrasse",
+  "hn": "137",
+  "lat": 46.4646378,
+  "lng": 7.2977315,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|139a": {
+  "street": "Lauenenstrasse",
+  "hn": "139a",
+  "lat": 46.4643269,
+  "lng": 7.2976982,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|143": {
+  "street": "Lauenenstrasse",
+  "hn": "143",
+  "lat": 46.4639544,
+  "lng": 7.2977882,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|130": {
+  "street": "Lauenenstrasse",
+  "hn": "130",
+  "lat": 46.4647256,
+  "lng": 7.2967699,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|122": {
+  "street": "Lauenenstrasse",
+  "hn": "122",
+  "lat": 46.4653649,
+  "lng": 7.2964355,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|134a": {
+  "street": "Lauenenstrasse",
+  "hn": "134a",
+  "lat": 46.465497,
+  "lng": 7.2968129,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|118": {
+  "street": "Lauenenstrasse",
+  "hn": "118",
+  "lat": 46.4657218,
+  "lng": 7.2963077,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|110": {
+  "street": "Lauenenstrasse",
+  "hn": "110",
+  "lat": 46.4661675,
+  "lng": 7.2969974,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|116a": {
+  "street": "Lauenenstrasse",
+  "hn": "116a",
+  "lat": 46.4662661,
+  "lng": 7.2965766,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|118a": {
+  "street": "Lauenenstrasse",
+  "hn": "118a",
+  "lat": 46.4656515,
+  "lng": 7.2961368,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|140": {
+  "street": "Lauenenstrasse",
+  "hn": "140",
+  "lat": 46.46423,
+  "lng": 7.2973428,
+  "mieter": []
+ },
+ "gstaad|promenade|44": {
+  "street": "Promenade",
+  "hn": "44",
+  "lat": 46.4737258,
+  "lng": 7.2867147,
+  "mieter": [
+   "Hermès"
+  ]
+ },
+ "gstaad|güterstrasse|4": {
+  "street": "Güterstrasse",
+  "hn": "4",
+  "lat": 46.4760433,
+  "lng": 7.2838391,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|100": {
+  "street": "Lauenenstrasse",
+  "hn": "100",
+  "lat": 46.4668677,
+  "lng": 7.2960255,
+  "mieter": [
+   "Molkerei Gstaad"
+  ]
+ },
+ "gstaad|promenade|39": {
+  "street": "Promenade",
+  "hn": "39",
+  "lat": 46.473227,
+  "lng": 7.2854114,
+  "mieter": []
+ },
+ "gstaad|promenade|33": {
+  "street": "Promenade",
+  "hn": "33",
+  "lat": 46.4731168,
+  "lng": 7.2856983,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|101": {
+  "street": "Lauenenstrasse",
+  "hn": "101",
+  "lat": 46.4661377,
+  "lng": 7.2973908,
+  "mieter": []
+ },
+ "gstaad|promenade|62": {
+  "street": "Promenade",
+  "hn": "62",
+  "lat": 46.4748396,
+  "lng": 7.285579,
+  "mieter": []
+ },
+ "gstaad|promenade|60": {
+  "street": "Promenade",
+  "hn": "60",
+  "lat": 46.474809,
+  "lng": 7.2857353,
+  "mieter": []
+ },
+ "gstaad|promenade|2a": {
+  "street": "Promenade",
+  "hn": "2a",
+  "lat": 46.4722755,
+  "lng": 7.2869785,
+  "mieter": []
+ },
+ "gstaad|promenade|43": {
+  "street": "Promenade",
+  "hn": "43",
+  "lat": 46.4735048,
+  "lng": 7.2857347,
+  "mieter": []
+ },
+ "gstaad|promenade|67": {
+  "street": "Promenade",
+  "hn": "67",
+  "lat": 46.4750997,
+  "lng": 7.2850117,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|141": {
+  "street": "Lauenenstrasse",
+  "hn": "141",
+  "lat": 46.4641386,
+  "lng": 7.2979427,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|141a": {
+  "street": "Lauenenstrasse",
+  "hn": "141a",
+  "lat": 46.4641503,
+  "lng": 7.2977223,
+  "mieter": []
+ },
+ "gstaad|güterstrasse|16a": {
+  "street": "Güterstrasse",
+  "hn": "16a",
+  "lat": 46.4739932,
+  "lng": 7.2855426,
+  "mieter": []
+ },
+ "gstaad|promenade|21": {
+  "street": "Promenade",
+  "hn": "21",
+  "lat": 46.4731429,
+  "lng": 7.2861129,
+  "mieter": []
+ },
+ "gstaad|promenade|31": {
+  "street": "Promenade",
+  "hn": "31",
+  "lat": 46.4730141,
+  "lng": 7.285922,
+  "mieter": []
+ },
+ "gstaad|promenade|27": {
+  "street": "Promenade",
+  "hn": "27",
+  "lat": 46.4732035,
+  "lng": 7.2858586,
+  "mieter": []
+ },
+ "gstaad|promenade|11a": {
+  "street": "Promenade",
+  "hn": "11a",
+  "lat": 46.4727759,
+  "lng": 7.2862499,
+  "mieter": []
+ },
+ "gstaad|promenade|8": {
+  "street": "Promenade",
+  "hn": "8",
+  "lat": 46.4726356,
+  "lng": 7.2866368,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|93a": {
+  "street": "Lauenenstrasse",
+  "hn": "93a",
+  "lat": 46.4689353,
+  "lng": 7.2957682,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|124": {
+  "street": "Lauenenstrasse",
+  "hn": "124",
+  "lat": 46.4652487,
+  "lng": 7.2965016,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|126": {
+  "street": "Lauenenstrasse",
+  "hn": "126",
+  "lat": 46.4651479,
+  "lng": 7.2966159,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|139": {
+  "street": "Lauenenstrasse",
+  "hn": "139",
+  "lat": 46.4643703,
+  "lng": 7.2978391,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|137a": {
+  "street": "Lauenenstrasse",
+  "hn": "137a",
+  "lat": 46.464471,
+  "lng": 7.2976628,
+  "mieter": []
+ },
+ "gstaad|promenade|33a": {
+  "street": "Promenade",
+  "hn": "33a",
+  "lat": 46.4732595,
+  "lng": 7.2858215,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|62b": {
+  "street": "Lauenenstrasse",
+  "hn": "62b",
+  "lat": 46.4701301,
+  "lng": 7.2927984,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|10a": {
+  "street": "Lauenenstrasse",
+  "hn": "10a",
+  "lat": 46.4709721,
+  "lng": 7.2857413,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|12a": {
+  "street": "Lauenenstrasse",
+  "hn": "12a",
+  "lat": 46.470664,
+  "lng": 7.2859493,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|199a": {
+  "street": "Lauenenstrasse",
+  "hn": "199a",
+  "lat": 46.456086,
+  "lng": 7.3077791,
+  "mieter": []
+ },
+ "gstaad|promenade|61a": {
+  "street": "Promenade",
+  "hn": "61a",
+  "lat": 46.4745221,
+  "lng": 7.2851501,
+  "mieter": []
+ },
+ "gstaad|promenade|2c": {
+  "street": "Promenade",
+  "hn": "2c",
+  "lat": 46.4723116,
+  "lng": 7.2872149,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|91b": {
+  "street": "Lauenenstrasse",
+  "hn": "91b",
+  "lat": 46.4690985,
+  "lng": 7.2957937,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|128": {
+  "street": "Lauenenstrasse",
+  "hn": "128",
+  "lat": 46.4649028,
+  "lng": 7.2966612,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|132": {
+  "street": "Lauenenstrasse",
+  "hn": "132",
+  "lat": 46.4645456,
+  "lng": 7.2966826,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|67": {
+  "street": "Lauenenstrasse",
+  "hn": "67",
+  "lat": 46.4705759,
+  "lng": 7.2926592,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|69": {
+  "street": "Lauenenstrasse",
+  "hn": "69",
+  "lat": 46.4703651,
+  "lng": 7.2929045,
+  "mieter": []
+ },
+ "gstaad|promenade|17": {
+  "street": "Promenade",
+  "hn": "17",
+  "lat": 46.4729051,
+  "lng": 7.2862415,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|75b": {
+  "street": "Lauenenstrasse",
+  "hn": "75b",
+  "lat": 46.4698157,
+  "lng": 7.2938382,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|75a": {
+  "street": "Lauenenstrasse",
+  "hn": "75a",
+  "lat": 46.4699461,
+  "lng": 7.293911,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|87b": {
+  "street": "Lauenenstrasse",
+  "hn": "87b",
+  "lat": 46.4697474,
+  "lng": 7.2940638,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|102": {
+  "street": "Lauenenstrasse",
+  "hn": "102",
+  "lat": 46.4666047,
+  "lng": 7.296355,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|96": {
+  "street": "Lauenenstrasse",
+  "hn": "96",
+  "lat": 46.4677104,
+  "lng": 7.2959111,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|91a": {
+  "street": "Lauenenstrasse",
+  "hn": "91a",
+  "lat": 46.4693622,
+  "lng": 7.2953731,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|112": {
+  "street": "Lauenenstrasse",
+  "hn": "112",
+  "lat": 46.4658665,
+  "lng": 7.2968849,
+  "mieter": []
+ },
+ "gstaad|promenade|52a": {
+  "street": "Promenade",
+  "hn": "52a",
+  "lat": 46.4744411,
+  "lng": 7.286544,
+  "mieter": []
+ },
+ "gstaad|untergstaadstrasse|15a": {
+  "street": "Untergstaadstrasse",
+  "hn": "15a",
+  "lat": 46.4774043,
+  "lng": 7.2830765,
+  "mieter": []
+ },
+ "gstaad|promenade|49": {
+  "street": "Promenade",
+  "hn": "49",
+  "lat": 46.4738947,
+  "lng": 7.2863366,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|22b": {
+  "street": "Lauenenstrasse",
+  "hn": "22b",
+  "lat": 46.4716154,
+  "lng": 7.2863486,
+  "mieter": []
+ },
+ "gstaad|güterstrasse|1a": {
+  "street": "Güterstrasse",
+  "hn": "1a",
+  "lat": 46.4758367,
+  "lng": 7.2840131,
+  "mieter": []
+ },
+ "gstaad|promenade|52b": {
+  "street": "Promenade",
+  "hn": "52b",
+  "lat": 46.4744256,
+  "lng": 7.2867355,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|143a": {
+  "street": "Lauenenstrasse",
+  "hn": "143a",
+  "lat": 46.4638114,
+  "lng": 7.2979365,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|30": {
+  "street": "Lauenenstrasse",
+  "hn": "30",
+  "lat": 46.4718788,
+  "lng": 7.2872871,
+  "mieter": []
+ },
+ "gstaad|lauenenstrasse|30a": {
+  "street": "Lauenenstrasse",
+  "hn": "30a",
+  "lat": 46.4718785,
+  "lng": 7.2873658,
+  "mieter": []
+ }
+}

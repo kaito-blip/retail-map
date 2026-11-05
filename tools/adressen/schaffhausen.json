@@ -1,0 +1,1600 @@
+{
+ "schaffhausen|vorstadt|5": {
+  "street": "Vorstadt",
+  "hn": "5",
+  "lat": 47.6977076,
+  "lng": 8.6336848,
+  "mieter": [
+   "Falken"
+  ]
+ },
+ "schaffhausen|vorstadt|46": {
+  "street": "Vorstadt",
+  "hn": "46",
+  "lat": 47.698809,
+  "lng": 8.6349588,
+  "mieter": [
+   "Denner"
+  ]
+ },
+ "schaffhausen|fronwagplatz|1": {
+  "street": "Fronwagplatz",
+  "hn": "1",
+  "lat": 47.6963224,
+  "lng": 8.6336445,
+  "mieter": [
+   "Manor",
+   "Coop"
+  ]
+ },
+ "schaffhausen|vordergasse|69": {
+  "street": "Vordergasse",
+  "hn": "69",
+  "lat": 47.6962496,
+  "lng": 8.6346332,
+  "mieter": [
+   "Coop City",
+   "Import Parfumerie"
+  ]
+ },
+ "schaffhausen|schwertstrasse|9": {
+  "street": "Schwertstrasse",
+  "hn": "9",
+  "lat": 47.6968882,
+  "lng": 8.6324048,
+  "mieter": [
+   "Wamo Globetrotter",
+   "SandiBox"
+  ]
+ },
+ "schaffhausen|vordergasse|77": {
+  "street": "Vordergasse",
+  "hn": "77",
+  "lat": 47.6962852,
+  "lng": 8.6340522,
+  "mieter": [
+   "Orell Füssli"
+  ]
+ },
+ "schaffhausen|vorstadt|9": {
+  "street": "Vorstadt",
+  "hn": "9",
+  "lat": 47.6978358,
+  "lng": 8.6337653,
+  "mieter": [
+   "Bambus"
+  ]
+ },
+ "schaffhausen|schwertstrasse|1": {
+  "street": "Schwertstrasse",
+  "hn": "1",
+  "lat": 47.6970579,
+  "lng": 8.6332805,
+  "mieter": [
+   "Santa Lucia"
+  ]
+ },
+ "schaffhausen|vorstadt|58": {
+  "street": "Vorstadt",
+  "hn": "58",
+  "lat": 47.6992061,
+  "lng": 8.6353017,
+  "mieter": [
+   "La Forchetta"
+  ]
+ },
+ "schaffhausen|vordergasse|86": {
+  "street": "Vordergasse",
+  "hn": "86",
+  "lat": 47.696492,
+  "lng": 8.6337033,
+  "mieter": [
+   "Caffè Spettacolo"
+  ]
+ },
+ "schaffhausen|vordergasse|21": {
+  "street": "Vordergasse",
+  "hn": "21",
+  "lat": 47.6959362,
+  "lng": 8.6370613,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|37": {
+  "street": "Vordergasse",
+  "hn": "37",
+  "lat": 47.6960536,
+  "lng": 8.6364981,
+  "mieter": [
+   "Felsenkeller Schaffhausen"
+  ]
+ },
+ "schaffhausen|vordergasse|43": {
+  "street": "Vordergasse",
+  "hn": "43",
+  "lat": 47.6960702,
+  "lng": 8.6361822,
+  "mieter": [
+   "Steiger",
+   "US-MEX"
+  ]
+ },
+ "schaffhausen|vordergasse|54": {
+  "street": "Vordergasse",
+  "hn": "54",
+  "lat": 47.6963425,
+  "lng": 8.6355676,
+  "mieter": [
+   "Cler",
+   "Mc PaperLand"
+  ]
+ },
+ "schaffhausen|vordergasse|65": {
+  "street": "Vordergasse",
+  "hn": "65",
+  "lat": 47.6962432,
+  "lng": 8.6349108,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|12": {
+  "street": "Webergasse",
+  "hn": "12",
+  "lat": 47.6983319,
+  "lng": 8.6363882,
+  "mieter": [
+   "Mohrenkopf"
+  ]
+ },
+ "schaffhausen|schwertstrasse|2": {
+  "street": "Schwertstrasse",
+  "hn": "2",
+  "lat": 47.697223,
+  "lng": 8.633191,
+  "mieter": [
+   "UBS"
+  ]
+ },
+ "schaffhausen|vorstadt|19": {
+  "street": "Vorstadt",
+  "hn": "19",
+  "lat": 47.6981548,
+  "lng": 8.6340434,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|17": {
+  "street": "Vorstadt",
+  "hn": "17",
+  "lat": 47.6980186,
+  "lng": 8.6339364,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|27": {
+  "street": "Vorstadt",
+  "hn": "27",
+  "lat": 47.6983008,
+  "lng": 8.6341461,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|28": {
+  "street": "Vordergasse",
+  "hn": "28",
+  "lat": 47.6962683,
+  "lng": 8.6370142,
+  "mieter": [
+   "Casa Terranova"
+  ]
+ },
+ "schaffhausen|vordergasse|26": {
+  "street": "Vordergasse",
+  "hn": "26",
+  "lat": 47.6962083,
+  "lng": 8.6371373,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|11": {
+  "street": "Vordergasse",
+  "hn": "11",
+  "lat": 47.6958512,
+  "lng": 8.6374433,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|12": {
+  "street": "Vordergasse",
+  "hn": "12",
+  "lat": 47.6959573,
+  "lng": 8.6374554,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|14": {
+  "street": "Vordergasse",
+  "hn": "14",
+  "lat": 47.6959739,
+  "lng": 8.6373795,
+  "mieter": [
+   "Power Coiffeur"
+  ]
+ },
+ "schaffhausen|vordergasse|15": {
+  "street": "Vordergasse",
+  "hn": "15",
+  "lat": 47.6959064,
+  "lng": 8.6372138,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|16": {
+  "street": "Vordergasse",
+  "hn": "16",
+  "lat": 47.6960079,
+  "lng": 8.6372731,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|18": {
+  "street": "Vordergasse",
+  "hn": "18",
+  "lat": 47.6960385,
+  "lng": 8.6371496,
+  "mieter": [
+   "ABALIR"
+  ]
+ },
+ "schaffhausen|vordergasse|27": {
+  "street": "Vordergasse",
+  "hn": "27",
+  "lat": 47.6959691,
+  "lng": 8.6368891,
+  "mieter": [
+   "British Shop"
+  ]
+ },
+ "schaffhausen|vordergasse|31": {
+  "street": "Vordergasse",
+  "hn": "31",
+  "lat": 47.6959795,
+  "lng": 8.6368107,
+  "mieter": [
+   "Zum Zitronenbaum"
+  ]
+ },
+ "schaffhausen|vordergasse|32": {
+  "street": "Vordergasse",
+  "hn": "32",
+  "lat": 47.6962002,
+  "lng": 8.6367681,
+  "mieter": [
+   "Terra"
+  ]
+ },
+ "schaffhausen|vordergasse|34": {
+  "street": "Vordergasse",
+  "hn": "34",
+  "lat": 47.6961917,
+  "lng": 8.6366873,
+  "mieter": [
+   "Madal Bal"
+  ]
+ },
+ "schaffhausen|vordergasse|36": {
+  "street": "Vordergasse",
+  "hn": "36",
+  "lat": 47.6962094,
+  "lng": 8.6365632,
+  "mieter": [
+   "Dux"
+  ]
+ },
+ "schaffhausen|vordergasse|4": {
+  "street": "Vordergasse",
+  "hn": "4",
+  "lat": 47.6959184,
+  "lng": 8.6378228,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|41": {
+  "street": "Vordergasse",
+  "hn": "41",
+  "lat": 47.6960761,
+  "lng": 8.6363023,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|29": {
+  "street": "Vordergasse",
+  "hn": "29",
+  "lat": 47.6959925,
+  "lng": 8.6368483,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|11": {
+  "street": "Fronwagplatz",
+  "hn": "11",
+  "lat": 47.6968961,
+  "lng": 8.6333088,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|13": {
+  "street": "Fronwagplatz",
+  "hn": "13",
+  "lat": 47.6969485,
+  "lng": 8.6333087,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|17": {
+  "street": "Vordergasse",
+  "hn": "17",
+  "lat": 47.6959188,
+  "lng": 8.6371433,
+  "mieter": [
+   "Coiffure Ruckstuhl"
+  ]
+ },
+ "schaffhausen|vordergasse|23": {
+  "street": "Vordergasse",
+  "hn": "23",
+  "lat": 47.6959542,
+  "lng": 8.6369938,
+  "mieter": [
+   "Blickfang"
+  ]
+ },
+ "schaffhausen|vordergasse|33": {
+  "street": "Vordergasse",
+  "hn": "33",
+  "lat": 47.6960373,
+  "lng": 8.6366978,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|39": {
+  "street": "Vordergasse",
+  "hn": "39",
+  "lat": 47.6960665,
+  "lng": 8.6364033,
+  "mieter": [
+   "Uhl"
+  ]
+ },
+ "schaffhausen|schwertstrasse|4": {
+  "street": "Schwertstrasse",
+  "hn": "4",
+  "lat": 47.6972834,
+  "lng": 8.6329019,
+  "mieter": [
+   "Thomas Müller Chocolatier",
+   "Migrolino"
+  ]
+ },
+ "schaffhausen|vordergasse|45": {
+  "street": "Vordergasse",
+  "hn": "45",
+  "lat": 47.696087,
+  "lng": 8.6359629,
+  "mieter": [
+   "Zweiblatt Concept Store"
+  ]
+ },
+ "schaffhausen|vordergasse|47": {
+  "street": "Vordergasse",
+  "hn": "47",
+  "lat": 47.6961151,
+  "lng": 8.6359348,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|49": {
+  "street": "Vordergasse",
+  "hn": "49",
+  "lat": 47.6961132,
+  "lng": 8.6357341,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|5": {
+  "street": "Fronwagplatz",
+  "hn": "5",
+  "lat": 47.696638,
+  "lng": 8.6332873,
+  "mieter": [
+   "Bayard Co Ltd"
+  ]
+ },
+ "schaffhausen|vordergasse|51": {
+  "street": "Vordergasse",
+  "hn": "51",
+  "lat": 47.6961279,
+  "lng": 8.6356488,
+  "mieter": [
+   "Nile"
+  ]
+ },
+ "schaffhausen|vordergasse|53": {
+  "street": "Vordergasse",
+  "hn": "53",
+  "lat": 47.6961298,
+  "lng": 8.635589,
+  "mieter": [
+   "Tom Tailor"
+  ]
+ },
+ "schaffhausen|vordergasse|58": {
+  "street": "Vordergasse",
+  "hn": "58",
+  "lat": 47.6963464,
+  "lng": 8.6351764,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|6": {
+  "street": "Fronwagplatz",
+  "hn": "6",
+  "lat": 47.696541,
+  "lng": 8.6337197,
+  "mieter": []
+ },
+ "schaffhausen|schwertstrasse|6": {
+  "street": "Schwertstrasse",
+  "hn": "6",
+  "lat": 47.6973807,
+  "lng": 8.6326416,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|60": {
+  "street": "Vordergasse",
+  "hn": "60",
+  "lat": 47.6963825,
+  "lng": 8.635053,
+  "mieter": [
+   "Schauwerk. Das andere Theater"
+  ]
+ },
+ "schaffhausen|vordergasse|61": {
+  "street": "Vordergasse",
+  "hn": "61",
+  "lat": 47.6962251,
+  "lng": 8.635214,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|62": {
+  "street": "Vordergasse",
+  "hn": "62",
+  "lat": 47.6963843,
+  "lng": 8.6349081,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|63": {
+  "street": "Vordergasse",
+  "hn": "63",
+  "lat": 47.6962308,
+  "lng": 8.635104,
+  "mieter": [
+   "Jack & Jones",
+   "Cucina D'Alfonso"
+  ]
+ },
+ "schaffhausen|vordergasse|64": {
+  "street": "Vordergasse",
+  "hn": "64",
+  "lat": 47.6963915,
+  "lng": 8.6348143,
+  "mieter": [
+   "Quu Quality Coiffure"
+  ]
+ },
+ "schaffhausen|vordergasse|66": {
+  "street": "Vordergasse",
+  "hn": "66",
+  "lat": 47.6963997,
+  "lng": 8.6346517,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|7": {
+  "street": "Fronwagplatz",
+  "hn": "7",
+  "lat": 47.6967138,
+  "lng": 8.6332954,
+  "mieter": [
+   "Pasta Pizza Daniele"
+  ]
+ },
+ "schaffhausen|vordergasse|73": {
+  "street": "Vordergasse",
+  "hn": "73",
+  "lat": 47.6962781,
+  "lng": 8.6342743,
+  "mieter": [
+   "Vinorama",
+   "Branchenverband Schaffhauser Wein"
+  ]
+ },
+ "schaffhausen|vordergasse|76": {
+  "street": "Vordergasse",
+  "hn": "76",
+  "lat": 47.6964326,
+  "lng": 8.6341985,
+  "mieter": [
+   "Marionnaud"
+  ]
+ },
+ "schaffhausen|vordergasse|78": {
+  "street": "Vordergasse",
+  "hn": "78",
+  "lat": 47.6964292,
+  "lng": 8.6341491,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|81": {
+  "street": "Vordergasse",
+  "hn": "81",
+  "lat": 47.6963207,
+  "lng": 8.6338301,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|18": {
+  "street": "Fronwagplatz",
+  "hn": "18",
+  "lat": 47.6969612,
+  "lng": 8.6336374,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|20": {
+  "street": "Fronwagplatz",
+  "hn": "20",
+  "lat": 47.6970114,
+  "lng": 8.6336314,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|22": {
+  "street": "Fronwagplatz",
+  "hn": "22",
+  "lat": 47.697127,
+  "lng": 8.6336765,
+  "mieter": [
+   "Migros Bank"
+  ]
+ },
+ "schaffhausen|fronwagplatz|10": {
+  "street": "Fronwagplatz",
+  "hn": "10",
+  "lat": 47.6966416,
+  "lng": 8.6337031,
+  "mieter": [
+   "Fielmann"
+  ]
+ },
+ "schaffhausen|fronwagplatz|12": {
+  "street": "Fronwagplatz",
+  "hn": "12",
+  "lat": 47.6967097,
+  "lng": 8.6336813,
+  "mieter": [
+   "LUSH"
+  ]
+ },
+ "schaffhausen|vorstadt|13": {
+  "street": "Vorstadt",
+  "hn": "13",
+  "lat": 47.69793,
+  "lng": 8.6338683,
+  "mieter": [
+   "Tasty Gourmet Imbiss"
+  ]
+ },
+ "schaffhausen|fronwagplatz|14": {
+  "street": "Fronwagplatz",
+  "hn": "14",
+  "lat": 47.6968257,
+  "lng": 8.6336815,
+  "mieter": [
+   "Sunrise"
+  ]
+ },
+ "schaffhausen|vorstadt|15": {
+  "street": "Vorstadt",
+  "hn": "15",
+  "lat": 47.6979773,
+  "lng": 8.6339013,
+  "mieter": [
+   "The Cuttingroom"
+  ]
+ },
+ "schaffhausen|vorstadt|18": {
+  "street": "Vorstadt",
+  "hn": "18",
+  "lat": 47.6979536,
+  "lng": 8.6341859,
+  "mieter": [
+   "Chicorée"
+  ]
+ },
+ "schaffhausen|vordergasse|24": {
+  "street": "Vordergasse",
+  "hn": "24",
+  "lat": 47.696208,
+  "lng": 8.6372127,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|24": {
+  "street": "Fronwagplatz",
+  "hn": "24",
+  "lat": 47.6972626,
+  "lng": 8.6337083,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|25": {
+  "street": "Vorstadt",
+  "hn": "25",
+  "lat": 47.6982379,
+  "lng": 8.6341024,
+  "mieter": [
+   "Müller Beck"
+  ]
+ },
+ "schaffhausen|fronwagplatz|26": {
+  "street": "Fronwagplatz",
+  "hn": "26",
+  "lat": 47.6973637,
+  "lng": 8.6337352,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|26": {
+  "street": "Vorstadt",
+  "hn": "26",
+  "lat": 47.6982758,
+  "lng": 8.634332,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|29": {
+  "street": "Vorstadt",
+  "hn": "29",
+  "lat": 47.6983803,
+  "lng": 8.6342526,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|30": {
+  "street": "Vordergasse",
+  "hn": "30",
+  "lat": 47.6962034,
+  "lng": 8.6368516,
+  "mieter": [
+   "La Strada"
+  ]
+ },
+ "schaffhausen|webergasse|49": {
+  "street": "Webergasse",
+  "hn": "49",
+  "lat": 47.6984388,
+  "lng": 8.6345724,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|11": {
+  "street": "Vorstadt",
+  "hn": "11",
+  "lat": 47.6978677,
+  "lng": 8.6338219,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|16": {
+  "street": "Webergasse",
+  "hn": "16",
+  "lat": 47.6983419,
+  "lng": 8.6361836,
+  "mieter": [
+   "Zur Schäferei"
+  ]
+ },
+ "schaffhausen|webergasse|20": {
+  "street": "Webergasse",
+  "hn": "20",
+  "lat": 47.6983344,
+  "lng": 8.636032,
+  "mieter": [
+   "Wulle Lade"
+  ]
+ },
+ "schaffhausen|webergasse|10": {
+  "street": "Webergasse",
+  "hn": "10",
+  "lat": 47.6983334,
+  "lng": 8.6364468,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|22": {
+  "street": "Webergasse",
+  "hn": "22",
+  "lat": 47.6983379,
+  "lng": 8.6359727,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|6": {
+  "street": "Vordergasse",
+  "hn": "6",
+  "lat": 47.6959091,
+  "lng": 8.6377437,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|8": {
+  "street": "Vordergasse",
+  "hn": "8",
+  "lat": 47.6959086,
+  "lng": 8.6376538,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|10": {
+  "street": "Vordergasse",
+  "hn": "10",
+  "lat": 47.6959249,
+  "lng": 8.637568,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|8": {
+  "street": "Fronwagplatz",
+  "hn": "8",
+  "lat": 47.6965965,
+  "lng": 8.633713,
+  "mieter": [
+   "Amplifon"
+  ]
+ },
+ "schaffhausen|schwertstrasse|5": {
+  "street": "Schwertstrasse",
+  "hn": "5",
+  "lat": 47.697185,
+  "lng": 8.6326971,
+  "mieter": [
+   "Roost Augenoptik"
+  ]
+ },
+ "schaffhausen|fronwagplatz|15": {
+  "street": "Fronwagplatz",
+  "hn": "15",
+  "lat": 47.6970315,
+  "lng": 8.633306,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|3": {
+  "street": "Vordergasse",
+  "hn": "3",
+  "lat": 47.6957935,
+  "lng": 8.6378698,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|13": {
+  "street": "Vordergasse",
+  "hn": "13",
+  "lat": 47.6958692,
+  "lng": 8.6373439,
+  "mieter": [
+   "Barber Shop Rosario"
+  ]
+ },
+ "schaffhausen|vorstadt|30": {
+  "street": "Vorstadt",
+  "hn": "30",
+  "lat": 47.6983716,
+  "lng": 8.634428,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|34": {
+  "street": "Vorstadt",
+  "hn": "34",
+  "lat": 47.6985113,
+  "lng": 8.6345902,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|42": {
+  "street": "Vorstadt",
+  "hn": "42",
+  "lat": 47.6986992,
+  "lng": 8.634743,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|40": {
+  "street": "Vorstadt",
+  "hn": "40",
+  "lat": 47.6986477,
+  "lng": 8.6347002,
+  "mieter": [
+   "DUX"
+  ]
+ },
+ "schaffhausen|vorstadt|22": {
+  "street": "Vorstadt",
+  "hn": "22",
+  "lat": 47.6981768,
+  "lng": 8.634252,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|56": {
+  "street": "Vorstadt",
+  "hn": "56",
+  "lat": 47.6991556,
+  "lng": 8.6351982,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|50": {
+  "street": "Vorstadt",
+  "hn": "50",
+  "lat": 47.6990558,
+  "lng": 8.6350972,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|32": {
+  "street": "Vorstadt",
+  "hn": "32",
+  "lat": 47.6984311,
+  "lng": 8.6344861,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|62": {
+  "street": "Vorstadt",
+  "hn": "62",
+  "lat": 47.6992673,
+  "lng": 8.6352695,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|64": {
+  "street": "Vorstadt",
+  "hn": "64",
+  "lat": 47.6992962,
+  "lng": 8.6352854,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|24": {
+  "street": "Vorstadt",
+  "hn": "24",
+  "lat": 47.6982257,
+  "lng": 8.6342911,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|20": {
+  "street": "Vorstadt",
+  "hn": "20",
+  "lat": 47.698118,
+  "lng": 8.634208,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|54": {
+  "street": "Vorstadt",
+  "hn": "54",
+  "lat": 47.6991095,
+  "lng": 8.6351488,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|25": {
+  "street": "Fronwagplatz",
+  "hn": "25",
+  "lat": 47.6974774,
+  "lng": 8.6334937,
+  "mieter": [
+   "Visilab"
+  ]
+ },
+ "schaffhausen|vorstadt|3": {
+  "street": "Vorstadt",
+  "hn": "3",
+  "lat": 47.6976047,
+  "lng": 8.6336602,
+  "mieter": [
+   "Zebra"
+  ]
+ },
+ "schaffhausen|fronwagplatz|27": {
+  "street": "Fronwagplatz",
+  "hn": "27",
+  "lat": 47.6975253,
+  "lng": 8.6335377,
+  "mieter": [
+   "Schwaninger",
+   "Import Parfumerie"
+  ]
+ },
+ "schaffhausen|vorstadt|35": {
+  "street": "Vorstadt",
+  "hn": "35",
+  "lat": 47.6986033,
+  "lng": 8.6344527,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|39": {
+  "street": "Vorstadt",
+  "hn": "39",
+  "lat": 47.6986926,
+  "lng": 8.6345172,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|59": {
+  "street": "Vorstadt",
+  "hn": "59",
+  "lat": 47.6993952,
+  "lng": 8.6351737,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|61": {
+  "street": "Vorstadt",
+  "hn": "61",
+  "lat": 47.6994554,
+  "lng": 8.6352025,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|63": {
+  "street": "Vorstadt",
+  "hn": "63",
+  "lat": 47.699481,
+  "lng": 8.6352106,
+  "mieter": [
+   "Coiffeur Vorstadt"
+  ]
+ },
+ "schaffhausen|vorstadt|53": {
+  "street": "Vorstadt",
+  "hn": "53",
+  "lat": 47.6990869,
+  "lng": 8.6347833,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|44": {
+  "street": "Webergasse",
+  "hn": "44",
+  "lat": 47.6983603,
+  "lng": 8.6352387,
+  "mieter": [
+   "Winzig"
+  ]
+ },
+ "schaffhausen|webergasse|58": {
+  "street": "Webergasse",
+  "hn": "58",
+  "lat": 47.6984132,
+  "lng": 8.6348144,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|3": {
+  "street": "Webergasse",
+  "hn": "3",
+  "lat": 47.6982769,
+  "lng": 8.6365872,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|15": {
+  "street": "Webergasse",
+  "hn": "15",
+  "lat": 47.6982516,
+  "lng": 8.6361629,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|17": {
+  "street": "Webergasse",
+  "hn": "17",
+  "lat": 47.6982511,
+  "lng": 8.6361004,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|19": {
+  "street": "Webergasse",
+  "hn": "19",
+  "lat": 47.6982524,
+  "lng": 8.6360482,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|35": {
+  "street": "Webergasse",
+  "hn": "35",
+  "lat": 47.6982675,
+  "lng": 8.6353829,
+  "mieter": [
+   "Dampferchef"
+  ]
+ },
+ "schaffhausen|vordergasse|35": {
+  "street": "Vordergasse",
+  "hn": "35",
+  "lat": 47.6960444,
+  "lng": 8.6365797,
+  "mieter": [
+   "Niedermann"
+  ]
+ },
+ "schaffhausen|vordergasse|38": {
+  "street": "Vordergasse",
+  "hn": "38",
+  "lat": 47.6963976,
+  "lng": 8.6365294,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|68": {
+  "street": "Vordergasse",
+  "hn": "68",
+  "lat": 47.6964092,
+  "lng": 8.634554,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|9": {
+  "street": "Fronwagplatz",
+  "hn": "9",
+  "lat": 47.6968336,
+  "lng": 8.6333104,
+  "mieter": [
+   "Chäs Marili"
+  ]
+ },
+ "schaffhausen|webergasse|38": {
+  "street": "Webergasse",
+  "hn": "38",
+  "lat": 47.6983639,
+  "lng": 8.6354057,
+  "mieter": [
+   "Neu Sternen"
+  ]
+ },
+ "schaffhausen|webergasse|5": {
+  "street": "Webergasse",
+  "hn": "5",
+  "lat": 47.6982183,
+  "lng": 8.6365623,
+  "mieter": [
+   "Kaffeemacherei Bohnenblühn"
+  ]
+ },
+ "schaffhausen|fronwagplatz|28": {
+  "street": "Fronwagplatz",
+  "hn": "28",
+  "lat": 47.6974406,
+  "lng": 8.6337008,
+  "mieter": [
+   "Noordlicht"
+  ]
+ },
+ "schaffhausen|vordergasse|79": {
+  "street": "Vordergasse",
+  "hn": "79",
+  "lat": 47.6963171,
+  "lng": 8.6339326,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|45": {
+  "street": "Webergasse",
+  "hn": "45",
+  "lat": 47.6983305,
+  "lng": 8.6348019,
+  "mieter": [
+   "claro fair trade"
+  ]
+ },
+ "schaffhausen|schwertstrasse|7": {
+  "street": "Schwertstrasse",
+  "hn": "7",
+  "lat": 47.6970366,
+  "lng": 8.632561,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|11": {
+  "street": "Webergasse",
+  "hn": "11",
+  "lat": 47.6982283,
+  "lng": 8.6363708,
+  "mieter": [
+   "PeperOhni",
+   "Fass-Beiz"
+  ]
+ },
+ "schaffhausen|webergasse|13": {
+  "street": "Webergasse",
+  "hn": "13",
+  "lat": 47.6982248,
+  "lng": 8.6362659,
+  "mieter": [
+   "Bücherfass"
+  ]
+ },
+ "schaffhausen|fronwagplatz|23": {
+  "street": "Fronwagplatz",
+  "hn": "23",
+  "lat": 47.6973891,
+  "lng": 8.6334375,
+  "mieter": [
+   "Walder"
+  ]
+ },
+ "schaffhausen|vorstadt|44": {
+  "street": "Vorstadt",
+  "hn": "44",
+  "lat": 47.6987555,
+  "lng": 8.6348663,
+  "mieter": [
+   "Kreativ IDEE"
+  ]
+ },
+ "schaffhausen|webergasse|32": {
+  "street": "Webergasse",
+  "hn": "32",
+  "lat": 47.6983539,
+  "lng": 8.6356815,
+  "mieter": [
+   "Lu Hair Design"
+  ]
+ },
+ "schaffhausen|vorstadt|12": {
+  "street": "Vorstadt",
+  "hn": "12",
+  "lat": 47.6977617,
+  "lng": 8.6340523,
+  "mieter": [
+   "Gidor"
+  ]
+ },
+ "schaffhausen|webergasse|50": {
+  "street": "Webergasse",
+  "hn": "50",
+  "lat": 47.6983995,
+  "lng": 8.6350576,
+  "mieter": [
+   "La Mode"
+  ]
+ },
+ "schaffhausen|vorstadt|22;24": {
+  "street": "Vorstadt",
+  "hn": "22;24",
+  "lat": 47.698189,
+  "lng": 8.6343272,
+  "mieter": [
+   "Lüthy Balmer Stocker"
+  ]
+ },
+ "schaffhausen|vorstadt|16": {
+  "street": "Vorstadt",
+  "hn": "16",
+  "lat": 47.6978982,
+  "lng": 8.6341193,
+  "mieter": [
+   "Audika"
+  ]
+ },
+ "schaffhausen|vorstadt|14": {
+  "street": "Vorstadt",
+  "hn": "14",
+  "lat": 47.6978304,
+  "lng": 8.6340889,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|72": {
+  "street": "Vordergasse",
+  "hn": "72",
+  "lat": 47.6964457,
+  "lng": 8.6343835,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|4": {
+  "street": "Vorstadt",
+  "hn": "4",
+  "lat": 47.6975613,
+  "lng": 8.6338142,
+  "mieter": [
+   "Hotelplan"
+  ]
+ },
+ "schaffhausen|vordergasse|74": {
+  "street": "Vordergasse",
+  "hn": "74",
+  "lat": 47.696447,
+  "lng": 8.6342982,
+  "mieter": [
+   "The Body Shop"
+  ]
+ },
+ "schaffhausen|vorstadt|30-32": {
+  "street": "Vorstadt",
+  "hn": "30-32",
+  "lat": 47.6983863,
+  "lng": 8.6344801,
+  "mieter": [
+   "Amavita"
+  ]
+ },
+ "schaffhausen|vorstadt|33": {
+  "street": "Vorstadt",
+  "hn": "33",
+  "lat": 47.6985497,
+  "lng": 8.6343581,
+  "mieter": [
+   "Interdiscount"
+  ]
+ },
+ "schaffhausen|vorstadt|41": {
+  "street": "Vorstadt",
+  "hn": "41",
+  "lat": 47.6987386,
+  "lng": 8.6345565,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|37": {
+  "street": "Vorstadt",
+  "hn": "37",
+  "lat": 47.6986548,
+  "lng": 8.6344834,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|60": {
+  "street": "Vorstadt",
+  "hn": "60",
+  "lat": 47.6992311,
+  "lng": 8.6352485,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|28": {
+  "street": "Vorstadt",
+  "hn": "28",
+  "lat": 47.6983051,
+  "lng": 8.6344151,
+  "mieter": [
+   "Beldona"
+  ]
+ },
+ "schaffhausen|vorstadt|2": {
+  "street": "Vorstadt",
+  "hn": "2",
+  "lat": 47.697519,
+  "lng": 8.6337662,
+  "mieter": [
+   "Cibus TAKE AWAY"
+  ]
+ },
+ "schaffhausen|vorstadt|38": {
+  "street": "Vorstadt",
+  "hn": "38",
+  "lat": 47.6985996,
+  "lng": 8.634671,
+  "mieter": [
+   "Kleiner Dicker Junge"
+  ]
+ },
+ "schaffhausen|vordergasse|57": {
+  "street": "Vordergasse",
+  "hn": "57",
+  "lat": 47.6961668,
+  "lng": 8.635355,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|59": {
+  "street": "Vordergasse",
+  "hn": "59",
+  "lat": 47.696174,
+  "lng": 8.6352752,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|56": {
+  "street": "Vordergasse",
+  "hn": "56",
+  "lat": 47.6963315,
+  "lng": 8.6352823,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|42": {
+  "street": "Vordergasse",
+  "hn": "42",
+  "lat": 47.6963153,
+  "lng": 8.6357513,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|30a": {
+  "street": "Vordergasse",
+  "hn": "30a",
+  "lat": 47.6962966,
+  "lng": 8.6367224,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|4": {
+  "street": "Fronwagplatz",
+  "hn": "4",
+  "lat": 47.696376,
+  "lng": 8.6333354,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|55": {
+  "street": "Vorstadt",
+  "hn": "55",
+  "lat": 47.6993274,
+  "lng": 8.6350165,
+  "mieter": []
+ },
+ "schaffhausen|fronwagplatz|3": {
+  "street": "Fronwagplatz",
+  "hn": "3",
+  "lat": 47.6963487,
+  "lng": 8.6334343,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|43": {
+  "street": "Vorstadt",
+  "hn": "43",
+  "lat": 47.6988391,
+  "lng": 8.6344873,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|70": {
+  "street": "Vordergasse",
+  "hn": "70",
+  "lat": 47.6964947,
+  "lng": 8.6344639,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|80": {
+  "street": "Vordergasse",
+  "hn": "80",
+  "lat": 47.6965016,
+  "lng": 8.6340254,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|82": {
+  "street": "Vordergasse",
+  "hn": "82",
+  "lat": 47.6964958,
+  "lng": 8.6339402,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|84": {
+  "street": "Vordergasse",
+  "hn": "84",
+  "lat": 47.6964931,
+  "lng": 8.6338579,
+  "mieter": []
+ },
+ "schaffhausen|vordergasse|55": {
+  "street": "Vordergasse",
+  "hn": "55",
+  "lat": 47.6960373,
+  "lng": 8.6354216,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|10": {
+  "street": "Vorstadt",
+  "hn": "10",
+  "lat": 47.6976459,
+  "lng": 8.6341251,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|8": {
+  "street": "Vorstadt",
+  "hn": "8",
+  "lat": 47.6976186,
+  "lng": 8.6340054,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|6": {
+  "street": "Vorstadt",
+  "hn": "6",
+  "lat": 47.6975844,
+  "lng": 8.6339551,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|45": {
+  "street": "Vorstadt",
+  "hn": "45",
+  "lat": 47.6989377,
+  "lng": 8.6345553,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|69": {
+  "street": "Vorstadt",
+  "hn": "69",
+  "lat": 47.6996565,
+  "lng": 8.6351726,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|67": {
+  "street": "Vorstadt",
+  "hn": "67",
+  "lat": 47.6995778,
+  "lng": 8.6351304,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|66": {
+  "street": "Vorstadt",
+  "hn": "66",
+  "lat": 47.6993741,
+  "lng": 8.6353823,
+  "mieter": []
+ },
+ "schaffhausen|vorstadt|36": {
+  "street": "Vorstadt",
+  "hn": "36",
+  "lat": 47.6985245,
+  "lng": 8.6347116,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|56": {
+  "street": "Webergasse",
+  "hn": "56",
+  "lat": 47.6984451,
+  "lng": 8.6348732,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|52": {
+  "street": "Webergasse",
+  "hn": "52",
+  "lat": 47.6984578,
+  "lng": 8.6350203,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|48": {
+  "street": "Webergasse",
+  "hn": "48",
+  "lat": 47.6984604,
+  "lng": 8.6351409,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|46": {
+  "street": "Webergasse",
+  "hn": "46",
+  "lat": 47.698481,
+  "lng": 8.6352213,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|40": {
+  "street": "Webergasse",
+  "hn": "40",
+  "lat": 47.6984566,
+  "lng": 8.635365,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|36": {
+  "street": "Webergasse",
+  "hn": "36",
+  "lat": 47.6984621,
+  "lng": 8.6355414,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|34": {
+  "street": "Webergasse",
+  "hn": "34",
+  "lat": 47.698401,
+  "lng": 8.6355899,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|28": {
+  "street": "Webergasse",
+  "hn": "28",
+  "lat": 47.6983975,
+  "lng": 8.6357945,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|26": {
+  "street": "Webergasse",
+  "hn": "26",
+  "lat": 47.6984355,
+  "lng": 8.6358644,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|24": {
+  "street": "Webergasse",
+  "hn": "24",
+  "lat": 47.6983891,
+  "lng": 8.6359065,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|18": {
+  "street": "Webergasse",
+  "hn": "18",
+  "lat": 47.6984035,
+  "lng": 8.6360814,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|14": {
+  "street": "Webergasse",
+  "hn": "14",
+  "lat": 47.698402,
+  "lng": 8.6362946,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|8": {
+  "street": "Webergasse",
+  "hn": "8",
+  "lat": 47.6983973,
+  "lng": 8.6365561,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|2": {
+  "street": "Webergasse",
+  "hn": "2",
+  "lat": 47.6983858,
+  "lng": 8.6367178,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|4": {
+  "street": "Webergasse",
+  "hn": "4",
+  "lat": 47.6984131,
+  "lng": 8.6366489,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|24a": {
+  "street": "Webergasse",
+  "hn": "24a",
+  "lat": 47.6985031,
+  "lng": 8.6359318,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|9": {
+  "street": "Webergasse",
+  "hn": "9",
+  "lat": 47.6981121,
+  "lng": 8.6365171,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|7": {
+  "street": "Webergasse",
+  "hn": "7",
+  "lat": 47.6982026,
+  "lng": 8.6364769,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|11a": {
+  "street": "Webergasse",
+  "hn": "11a",
+  "lat": 47.6980679,
+  "lng": 8.6364663,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|21": {
+  "street": "Webergasse",
+  "hn": "21",
+  "lat": 47.6981922,
+  "lng": 8.6359805,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|47": {
+  "street": "Webergasse",
+  "hn": "47",
+  "lat": 47.6983605,
+  "lng": 8.6346836,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|43": {
+  "street": "Webergasse",
+  "hn": "43",
+  "lat": 47.6982614,
+  "lng": 8.634871,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|41": {
+  "street": "Webergasse",
+  "hn": "41",
+  "lat": 47.6982371,
+  "lng": 8.6349826,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|39": {
+  "street": "Webergasse",
+  "hn": "39",
+  "lat": 47.6981866,
+  "lng": 8.6351118,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|27": {
+  "street": "Webergasse",
+  "hn": "27",
+  "lat": 47.6981488,
+  "lng": 8.6355834,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|29": {
+  "street": "Webergasse",
+  "hn": "29",
+  "lat": 47.6981694,
+  "lng": 8.6355058,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|31": {
+  "street": "Webergasse",
+  "hn": "31",
+  "lat": 47.6981775,
+  "lng": 8.6354365,
+  "mieter": []
+ },
+ "schaffhausen|webergasse|33": {
+  "street": "Webergasse",
+  "hn": "33",
+  "lat": 47.6982141,
+  "lng": 8.635359,
+  "mieter": []
+ },
+ "schaffhausen|schwertstrasse|9b": {
+  "street": "Schwertstrasse",
+  "hn": "9b",
+  "lat": 47.696888,
+  "lng": 8.6324004,
+  "mieter": []
+ }
+}

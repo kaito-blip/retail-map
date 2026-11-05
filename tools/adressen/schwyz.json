@@ -1,0 +1,854 @@
+{
+ "schwyz|postplatz|6": {
+  "street": "Postplatz",
+  "hn": "6",
+  "lat": 47.0210267,
+  "lng": 8.6523296,
+  "mieter": [
+   "Hofmatt Apotheke"
+  ]
+ },
+ "schwyz|postplatz|11": {
+  "street": "Postplatz",
+  "hn": "11",
+  "lat": 47.0208455,
+  "lng": 8.651962,
+  "mieter": [
+   "UBS",
+   "Credit Suisse"
+  ]
+ },
+ "schwyz|postplatz|4": {
+  "street": "Postplatz",
+  "hn": "4",
+  "lat": 47.020967,
+  "lng": 8.65265,
+  "mieter": [
+   "Haug"
+  ]
+ },
+ "schwyz|herrengasse|17": {
+  "street": "Herrengasse",
+  "hn": "17",
+  "lat": 47.0218014,
+  "lng": 8.651654,
+  "mieter": [
+   "Spittel"
+  ]
+ },
+ "schwyz|postplatz|5": {
+  "street": "Postplatz",
+  "hn": "5",
+  "lat": 47.0207317,
+  "lng": 8.6526196,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "schwyz|hauptplatz|7": {
+  "street": "Hauptplatz",
+  "hn": "7",
+  "lat": 47.0211948,
+  "lng": 8.654025,
+  "mieter": [
+   "Kreuz & Quer",
+   "Migros Bank",
+   "Mything"
+  ]
+ },
+ "schwyz|hauptplatz|3": {
+  "street": "Hauptplatz",
+  "hn": "3",
+  "lat": 47.0207475,
+  "lng": 8.6534718,
+  "mieter": [
+   "Wysses Rössli"
+  ]
+ },
+ "schwyz|postplatz|9": {
+  "street": "Postplatz",
+  "hn": "9",
+  "lat": 47.0208028,
+  "lng": 8.6522637,
+  "mieter": [
+   "k kiosk"
+  ]
+ },
+ "schwyz|strehlgasse|5": {
+  "street": "Strehlgasse",
+  "hn": "5",
+  "lat": 47.02068,
+  "lng": 8.6545458,
+  "mieter": [
+   "Haar Werk Schwyz"
+  ]
+ },
+ "schwyz|schmiedgasse|92": {
+  "street": "Schmiedgasse",
+  "hn": "92",
+  "lat": 47.0141047,
+  "lng": 8.6459558,
+  "mieter": [
+   "Diti & Nisi"
+  ]
+ },
+ "schwyz|schmiedgasse|55": {
+  "street": "Schmiedgasse",
+  "hn": "55",
+  "lat": 47.0163023,
+  "lng": 8.6492837,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|57": {
+  "street": "Schmiedgasse",
+  "hn": "57",
+  "lat": 47.0162824,
+  "lng": 8.6489135,
+  "mieter": [
+   "Victorinox"
+  ]
+ },
+ "schwyz|hauptplatz|11": {
+  "street": "Hauptplatz",
+  "hn": "11",
+  "lat": 47.0209048,
+  "lng": 8.6540974,
+  "mieter": []
+ },
+ "schwyz|strehlgasse|8": {
+  "street": "Strehlgasse",
+  "hn": "8",
+  "lat": 47.0202744,
+  "lng": 8.6545187,
+  "mieter": [
+   "Audika"
+  ]
+ },
+ "schwyz|herrengasse|3": {
+  "street": "Herrengasse",
+  "hn": "3",
+  "lat": 47.0212227,
+  "lng": 8.6529645,
+  "mieter": [
+   "Irene Huwyler"
+  ]
+ },
+ "schwyz|herrengasse|14": {
+  "street": "Herrengasse",
+  "hn": "14",
+  "lat": 47.021849,
+  "lng": 8.6521921,
+  "mieter": [
+   "Intersport",
+   "Convisa"
+  ]
+ },
+ "schwyz|schmiedgasse|1": {
+  "street": "Schmiedgasse",
+  "hn": "1",
+  "lat": 47.0203523,
+  "lng": 8.6529314,
+  "mieter": [
+   "Neuroth"
+  ]
+ },
+ "schwyz|herrengasse|20": {
+  "street": "Herrengasse",
+  "hn": "20",
+  "lat": 47.0221124,
+  "lng": 8.651458,
+  "mieter": [
+   "Fielmann"
+  ]
+ },
+ "schwyz|schmiedgasse|18": {
+  "street": "Schmiedgasse",
+  "hn": "18",
+  "lat": 47.0193427,
+  "lng": 8.6511844,
+  "mieter": [
+   "Fressnapf"
+  ]
+ },
+ "schwyz|schmiedgasse|3": {
+  "street": "Schmiedgasse",
+  "hn": "3",
+  "lat": 47.0201038,
+  "lng": 8.6527763,
+  "mieter": [
+   "herzog mode"
+  ]
+ },
+ "schwyz|strehlgasse|11": {
+  "street": "Strehlgasse",
+  "hn": "11",
+  "lat": 47.0204326,
+  "lng": 8.6550256,
+  "mieter": [
+   "Knusperholz unverpackt"
+  ]
+ },
+ "schwyz|strehlgasse|21": {
+  "street": "Strehlgasse",
+  "hn": "21",
+  "lat": 47.0202051,
+  "lng": 8.6560287,
+  "mieter": []
+ },
+ "schwyz|hauptplatz|10": {
+  "street": "Hauptplatz",
+  "hn": "10",
+  "lat": 47.0210081,
+  "lng": 8.6542041,
+  "mieter": []
+ },
+ "schwyz|postplatz|3": {
+  "street": "Postplatz",
+  "hn": "3",
+  "lat": 47.0205176,
+  "lng": 8.6531475,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|30": {
+  "street": "Schmiedgasse",
+  "hn": "30",
+  "lat": 47.0180149,
+  "lng": 8.6506582,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|32": {
+  "street": "Schmiedgasse",
+  "hn": "32",
+  "lat": 47.0180898,
+  "lng": 8.6504701,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|6": {
+  "street": "Schmiedgasse",
+  "hn": "6",
+  "lat": 47.0204437,
+  "lng": 8.6521773,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|4": {
+  "street": "Schmiedgasse",
+  "hn": "4",
+  "lat": 47.0203635,
+  "lng": 8.6523532,
+  "mieter": []
+ },
+ "schwyz|herrengasse|37": {
+  "street": "Herrengasse",
+  "hn": "37",
+  "lat": 47.0227075,
+  "lng": 8.6489421,
+  "mieter": [
+   "Schulhaus Herrengasse"
+  ]
+ },
+ "schwyz|herrengasse|39": {
+  "street": "Herrengasse",
+  "hn": "39",
+  "lat": 47.022795,
+  "lng": 8.6487891,
+  "mieter": []
+ },
+ "schwyz|herrengasse|21": {
+  "street": "Herrengasse",
+  "hn": "21",
+  "lat": 47.0219388,
+  "lng": 8.6513168,
+  "mieter": []
+ },
+ "schwyz|herrengasse|23": {
+  "street": "Herrengasse",
+  "hn": "23",
+  "lat": 47.0220023,
+  "lng": 8.6510789,
+  "mieter": []
+ },
+ "schwyz|herrengasse|25": {
+  "street": "Herrengasse",
+  "hn": "25",
+  "lat": 47.0220664,
+  "lng": 8.6508815,
+  "mieter": []
+ },
+ "schwyz|hauptplatz|6": {
+  "street": "Hauptplatz",
+  "hn": "6",
+  "lat": 47.0210854,
+  "lng": 8.6532174,
+  "mieter": [
+   "Noodle Bar"
+  ]
+ },
+ "schwyz|hauptplatz|5": {
+  "street": "Hauptplatz",
+  "hn": "5",
+  "lat": 47.0209956,
+  "lng": 8.653133,
+  "mieter": []
+ },
+ "schwyz|herrengasse|6": {
+  "street": "Herrengasse",
+  "hn": "6",
+  "lat": 47.0216191,
+  "lng": 8.6530035,
+  "mieter": []
+ },
+ "schwyz|herrengasse|42": {
+  "street": "Herrengasse",
+  "hn": "42",
+  "lat": 47.0233159,
+  "lng": 8.6488329,
+  "mieter": []
+ },
+ "schwyz|herrengasse|46a": {
+  "street": "Herrengasse",
+  "hn": "46a",
+  "lat": 47.0234914,
+  "lng": 8.6494095,
+  "mieter": []
+ },
+ "schwyz|herrengasse|46b": {
+  "street": "Herrengasse",
+  "hn": "46b",
+  "lat": 47.0236152,
+  "lng": 8.6492088,
+  "mieter": []
+ },
+ "schwyz|herrengasse|46c": {
+  "street": "Herrengasse",
+  "hn": "46c",
+  "lat": 47.0237377,
+  "lng": 8.6490098,
+  "mieter": []
+ },
+ "schwyz|herrengasse|38": {
+  "street": "Herrengasse",
+  "hn": "38",
+  "lat": 47.0228575,
+  "lng": 8.6493039,
+  "mieter": []
+ },
+ "schwyz|herrengasse|38b": {
+  "street": "Herrengasse",
+  "hn": "38b",
+  "lat": 47.0230129,
+  "lng": 8.6494954,
+  "mieter": []
+ },
+ "schwyz|strehlgasse|3": {
+  "street": "Strehlgasse",
+  "hn": "3",
+  "lat": 47.0207649,
+  "lng": 8.6542672,
+  "mieter": [
+   "Restaurant Ratskeller"
+  ]
+ },
+ "schwyz|herrengasse|12": {
+  "street": "Herrengasse",
+  "hn": "12",
+  "lat": 47.0217433,
+  "lng": 8.6525044,
+  "mieter": [
+   "Claro Fair Trade",
+   "Bistro Bären"
+  ]
+ },
+ "schwyz|herrengasse|10": {
+  "street": "Herrengasse",
+  "hn": "10",
+  "lat": 47.0219546,
+  "lng": 8.6525528,
+  "mieter": [
+   "Pagliara"
+  ]
+ },
+ "schwyz|strehlgasse|15": {
+  "street": "Strehlgasse",
+  "hn": "15",
+  "lat": 47.0204884,
+  "lng": 8.6556487,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|65": {
+  "street": "Schmiedgasse",
+  "hn": "65",
+  "lat": 47.0154448,
+  "lng": 8.6484738,
+  "mieter": [
+   "Danys"
+  ]
+ },
+ "schwyz|schmiedgasse|7": {
+  "street": "Schmiedgasse",
+  "hn": "7",
+  "lat": 47.0194579,
+  "lng": 8.652783,
+  "mieter": []
+ },
+ "schwyz|herrengasse|36": {
+  "street": "Herrengasse",
+  "hn": "36",
+  "lat": 47.0227653,
+  "lng": 8.6497605,
+  "mieter": []
+ },
+ "schwyz|herrengasse|18": {
+  "street": "Herrengasse",
+  "hn": "18",
+  "lat": 47.0220426,
+  "lng": 8.6518289,
+  "mieter": []
+ },
+ "schwyz|herrengasse|38c": {
+  "street": "Herrengasse",
+  "hn": "38c",
+  "lat": 47.0231934,
+  "lng": 8.6496191,
+  "mieter": []
+ },
+ "schwyz|herrengasse|57": {
+  "street": "Herrengasse",
+  "hn": "57",
+  "lat": 47.0238797,
+  "lng": 8.6468227,
+  "mieter": []
+ },
+ "schwyz|herrengasse|56": {
+  "street": "Herrengasse",
+  "hn": "56",
+  "lat": 47.0241018,
+  "lng": 8.6474456,
+  "mieter": []
+ },
+ "schwyz|herrengasse|30": {
+  "street": "Herrengasse",
+  "hn": "30",
+  "lat": 47.0227146,
+  "lng": 8.6505444,
+  "mieter": []
+ },
+ "schwyz|herrengasse|44b": {
+  "street": "Herrengasse",
+  "hn": "44b",
+  "lat": 47.0235642,
+  "lng": 8.6488295,
+  "mieter": []
+ },
+ "schwyz|strehlgasse|12": {
+  "street": "Strehlgasse",
+  "hn": "12",
+  "lat": 47.0200576,
+  "lng": 8.6551719,
+  "mieter": []
+ },
+ "schwyz|hauptplatz|1": {
+  "street": "Hauptplatz",
+  "hn": "1",
+  "lat": 47.0207403,
+  "lng": 8.6538758,
+  "mieter": [
+   "Rathaus"
+  ]
+ },
+ "schwyz|herrengasse|44a": {
+  "street": "Herrengasse",
+  "hn": "44a",
+  "lat": 47.0233523,
+  "lng": 8.6491722,
+  "mieter": []
+ },
+ "schwyz|herrengasse|34": {
+  "street": "Herrengasse",
+  "hn": "34",
+  "lat": 47.0226715,
+  "lng": 8.6500604,
+  "mieter": []
+ },
+ "schwyz|herrengasse|56b": {
+  "street": "Herrengasse",
+  "hn": "56b",
+  "lat": 47.0241232,
+  "lng": 8.647855,
+  "mieter": []
+ },
+ "schwyz|strehlgasse|4": {
+  "street": "Strehlgasse",
+  "hn": "4",
+  "lat": 47.0206066,
+  "lng": 8.654338,
+  "mieter": []
+ },
+ "schwyz|herrengasse|15": {
+  "street": "Herrengasse",
+  "hn": "15",
+  "lat": 47.0216717,
+  "lng": 8.6519873,
+  "mieter": []
+ },
+ "schwyz|herrengasse|11": {
+  "street": "Herrengasse",
+  "hn": "11",
+  "lat": 47.0215732,
+  "lng": 8.6523783,
+  "mieter": []
+ },
+ "schwyz|herrengasse|7": {
+  "street": "Herrengasse",
+  "hn": "7",
+  "lat": 47.0214614,
+  "lng": 8.6526941,
+  "mieter": []
+ },
+ "schwyz|herrengasse|9": {
+  "street": "Herrengasse",
+  "hn": "9",
+  "lat": 47.0215004,
+  "lng": 8.6525811,
+  "mieter": []
+ },
+ "schwyz|herrengasse|13": {
+  "street": "Herrengasse",
+  "hn": "13",
+  "lat": 47.0216336,
+  "lng": 8.652181,
+  "mieter": []
+ },
+ "schwyz|herrengasse|5": {
+  "street": "Herrengasse",
+  "hn": "5",
+  "lat": 47.0213845,
+  "lng": 8.6528371,
+  "mieter": []
+ },
+ "schwyz|strehlgasse|13": {
+  "street": "Strehlgasse",
+  "hn": "13",
+  "lat": 47.0203478,
+  "lng": 8.6552949,
+  "mieter": []
+ },
+ "schwyz|herrengasse|8": {
+  "street": "Herrengasse",
+  "hn": "8",
+  "lat": 47.0216695,
+  "lng": 8.6528035,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|20": {
+  "street": "Schmiedgasse",
+  "hn": "20",
+  "lat": 47.0190498,
+  "lng": 8.6511564,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|11": {
+  "street": "Schmiedgasse",
+  "hn": "11",
+  "lat": 47.0187879,
+  "lng": 8.6522032,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|15": {
+  "street": "Schmiedgasse",
+  "hn": "15",
+  "lat": 47.0185328,
+  "lng": 8.6525321,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|13": {
+  "street": "Schmiedgasse",
+  "hn": "13",
+  "lat": 47.0188134,
+  "lng": 8.6528621,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|19": {
+  "street": "Schmiedgasse",
+  "hn": "19",
+  "lat": 47.0181311,
+  "lng": 8.6521421,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|9": {
+  "street": "Schmiedgasse",
+  "hn": "9",
+  "lat": 47.0191074,
+  "lng": 8.6525215,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|17": {
+  "street": "Schmiedgasse",
+  "hn": "17",
+  "lat": 47.0183467,
+  "lng": 8.6518596,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|23": {
+  "street": "Schmiedgasse",
+  "hn": "23",
+  "lat": 47.0177806,
+  "lng": 8.6517941,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|21": {
+  "street": "Schmiedgasse",
+  "hn": "21",
+  "lat": 47.018041,
+  "lng": 8.6514753,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|34": {
+  "street": "Schmiedgasse",
+  "hn": "34",
+  "lat": 47.0178123,
+  "lng": 8.6501823,
+  "mieter": [
+   "Evangelisch reformierte Kirche"
+  ]
+ },
+ "schwyz|schmiedgasse|38": {
+  "street": "Schmiedgasse",
+  "hn": "38",
+  "lat": 47.0173705,
+  "lng": 8.6494133,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|40": {
+  "street": "Schmiedgasse",
+  "hn": "40",
+  "lat": 47.0171837,
+  "lng": 8.6492128,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|33": {
+  "street": "Schmiedgasse",
+  "hn": "33",
+  "lat": 47.0175237,
+  "lng": 8.6507867,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|43": {
+  "street": "Schmiedgasse",
+  "hn": "43",
+  "lat": 47.0170286,
+  "lng": 8.6506473,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|45": {
+  "street": "Schmiedgasse",
+  "hn": "45",
+  "lat": 47.0171933,
+  "lng": 8.6504624,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|47": {
+  "street": "Schmiedgasse",
+  "hn": "47",
+  "lat": 47.0173596,
+  "lng": 8.650303,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|35": {
+  "street": "Schmiedgasse",
+  "hn": "35",
+  "lat": 47.0174239,
+  "lng": 8.6506165,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|32a": {
+  "street": "Schmiedgasse",
+  "hn": "32a",
+  "lat": 47.0182837,
+  "lng": 8.6501496,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|91": {
+  "street": "Schmiedgasse",
+  "hn": "91",
+  "lat": 47.0137815,
+  "lng": 8.6460535,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|93": {
+  "street": "Schmiedgasse",
+  "hn": "93",
+  "lat": 47.0136207,
+  "lng": 8.646205,
+  "mieter": []
+ },
+ "schwyz|strehlgasse|9": {
+  "street": "Strehlgasse",
+  "hn": "9",
+  "lat": 47.0205542,
+  "lng": 8.6548333,
+  "mieter": []
+ },
+ "schwyz|strehlgasse|19": {
+  "street": "Strehlgasse",
+  "hn": "19",
+  "lat": 47.0202001,
+  "lng": 8.6557915,
+  "mieter": []
+ },
+ "schwyz|strehlgasse|14": {
+  "street": "Strehlgasse",
+  "hn": "14",
+  "lat": 47.0200594,
+  "lng": 8.6555776,
+  "mieter": []
+ },
+ "schwyz|strehlgasse|16": {
+  "street": "Strehlgasse",
+  "hn": "16",
+  "lat": 47.0200338,
+  "lng": 8.6557894,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|90": {
+  "street": "Schmiedgasse",
+  "hn": "90",
+  "lat": 47.0143523,
+  "lng": 8.645839,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|82": {
+  "street": "Schmiedgasse",
+  "hn": "82",
+  "lat": 47.0145213,
+  "lng": 8.6456294,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|98": {
+  "street": "Schmiedgasse",
+  "hn": "98",
+  "lat": 47.0143714,
+  "lng": 8.6454587,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|96": {
+  "street": "Schmiedgasse",
+  "hn": "96",
+  "lat": 47.0141279,
+  "lng": 8.645577,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|94": {
+  "street": "Schmiedgasse",
+  "hn": "94",
+  "lat": 47.0138801,
+  "lng": 8.645659,
+  "mieter": []
+ },
+ "schwyz|herrengasse|59": {
+  "street": "Herrengasse",
+  "hn": "59",
+  "lat": 47.0241803,
+  "lng": 8.6465817,
+  "mieter": []
+ },
+ "schwyz|herrengasse|50": {
+  "street": "Herrengasse",
+  "hn": "50",
+  "lat": 47.0237635,
+  "lng": 8.6483492,
+  "mieter": []
+ },
+ "schwyz|herrengasse|52": {
+  "street": "Herrengasse",
+  "hn": "52",
+  "lat": 47.0239248,
+  "lng": 8.6479743,
+  "mieter": []
+ },
+ "schwyz|herrengasse|32": {
+  "street": "Herrengasse",
+  "hn": "32",
+  "lat": 47.022567,
+  "lng": 8.6503206,
+  "mieter": []
+ },
+ "schwyz|herrengasse|28": {
+  "street": "Herrengasse",
+  "hn": "28",
+  "lat": 47.0224903,
+  "lng": 8.6505929,
+  "mieter": []
+ },
+ "schwyz|herrengasse|26": {
+  "street": "Herrengasse",
+  "hn": "26",
+  "lat": 47.0223953,
+  "lng": 8.6508521,
+  "mieter": []
+ },
+ "schwyz|herrengasse|22": {
+  "street": "Herrengasse",
+  "hn": "22",
+  "lat": 47.0222745,
+  "lng": 8.6512306,
+  "mieter": []
+ },
+ "schwyz|herrengasse|16": {
+  "street": "Herrengasse",
+  "hn": "16",
+  "lat": 47.0221139,
+  "lng": 8.652202,
+  "mieter": []
+ },
+ "schwyz|strehlgasse|7": {
+  "street": "Strehlgasse",
+  "hn": "7",
+  "lat": 47.020641,
+  "lng": 8.6546893,
+  "mieter": []
+ },
+ "schwyz|herrengasse|54": {
+  "street": "Herrengasse",
+  "hn": "54",
+  "lat": 47.0241669,
+  "lng": 8.6482732,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|46": {
+  "street": "Schmiedgasse",
+  "hn": "46",
+  "lat": 47.0169275,
+  "lng": 8.6486265,
+  "mieter": []
+ },
+ "schwyz|schmiedgasse|42": {
+  "street": "Schmiedgasse",
+  "hn": "42",
+  "lat": 47.0173053,
+  "lng": 8.6489372,
+  "mieter": []
+ },
+ "schwyz|herrengasse|24": {
+  "street": "Herrengasse",
+  "hn": "24",
+  "lat": 47.0223254,
+  "lng": 8.6510808,
+  "mieter": []
+ },
+ "schwyz|strehlgasse|18": {
+  "street": "Strehlgasse",
+  "hn": "18",
+  "lat": 47.0200126,
+  "lng": 8.6564509,
+  "mieter": [
+   "Frauenkloster St. Peter am Bach"
+  ]
+ },
+ "schwyz|herrengasse|33": {
+  "street": "Herrengasse",
+  "hn": "33",
+  "lat": 47.0222,
+  "lng": 8.6501846,
+  "mieter": []
+ }
+}

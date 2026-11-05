@@ -1,0 +1,1170 @@
+{
+ "st. gallen|neugasse|39": {
+  "street": "Neugasse",
+  "hn": "39",
+  "lat": 47.4245826,
+  "lng": 9.3748112,
+  "mieter": []
+ },
+ "st. gallen|marktgasse|9": {
+  "street": "Marktgasse",
+  "hn": "9",
+  "lat": 47.4255024,
+  "lng": 9.3764555,
+  "mieter": [
+   "Starbucks"
+  ]
+ },
+ "st. gallen|neugasse|54": {
+  "street": "Neugasse",
+  "hn": "54",
+  "lat": 47.4239421,
+  "lng": 9.3743431,
+  "mieter": [
+   "Globus",
+   "Razzo"
+  ]
+ },
+ "st. gallen|neugasse|2": {
+  "street": "Neugasse",
+  "hn": "2",
+  "lat": 47.4256989,
+  "lng": 9.3754467,
+  "mieter": [
+   "Marktplatz",
+   "Fratelli - Pasta Takeaway"
+  ]
+ },
+ "st. gallen|multergasse|17": {
+  "street": "Multergasse",
+  "hn": "17",
+  "lat": 47.4242717,
+  "lng": 9.3756041,
+  "mieter": [
+   "Confiserie Roggwiller"
+  ]
+ },
+ "st. gallen|spisergasse|9a": {
+  "street": "Spisergasse",
+  "hn": "9a",
+  "lat": 47.4249561,
+  "lng": 9.377258,
+  "mieter": [
+   "Bierfalken"
+  ]
+ },
+ "st. gallen|marktgasse|5": {
+  "street": "Marktgasse",
+  "hn": "5",
+  "lat": 47.4258935,
+  "lng": 9.3763566,
+  "mieter": [
+   "Papeterie zum Schiff",
+   "schiffchuchi"
+  ]
+ },
+ "st. gallen|marktgasse|3": {
+  "street": "Marktgasse",
+  "hn": "3",
+  "lat": 47.4259855,
+  "lng": 9.3763292,
+  "mieter": [
+   "Rietmann"
+  ]
+ },
+ "st. gallen|marktgasse|28": {
+  "street": "Marktgasse",
+  "hn": "28",
+  "lat": 47.4242388,
+  "lng": 9.3766652,
+  "mieter": [
+   "Confiserie Scherrer"
+  ]
+ },
+ "st. gallen|neugasse|48": {
+  "street": "Neugasse",
+  "hn": "48",
+  "lat": 47.4242801,
+  "lng": 9.374364,
+  "mieter": [
+   "Coop",
+   "Brillen-Institut",
+   "LABHART Chronometrie & Goldschmiede"
+  ]
+ },
+ "st. gallen|multergasse|47": {
+  "street": "Multergasse",
+  "hn": "47",
+  "lat": 47.4235884,
+  "lng": 9.3744521,
+  "mieter": [
+   "Transa"
+  ]
+ },
+ "st. gallen|webergasse|10": {
+  "street": "Webergasse",
+  "hn": "10",
+  "lat": 47.4231901,
+  "lng": 9.3748672,
+  "mieter": []
+ },
+ "st. gallen|webergasse|12": {
+  "street": "Webergasse",
+  "hn": "12",
+  "lat": 47.4231246,
+  "lng": 9.3749268,
+  "mieter": []
+ },
+ "st. gallen|webergasse|14": {
+  "street": "Webergasse",
+  "hn": "14",
+  "lat": 47.4230569,
+  "lng": 9.3749858,
+  "mieter": []
+ },
+ "st. gallen|webergasse|15": {
+  "street": "Webergasse",
+  "hn": "15",
+  "lat": 47.4229635,
+  "lng": 9.3751639,
+  "mieter": []
+ },
+ "st. gallen|webergasse|16": {
+  "street": "Webergasse",
+  "hn": "16",
+  "lat": 47.4229972,
+  "lng": 9.375046,
+  "mieter": [
+   "PinChu"
+  ]
+ },
+ "st. gallen|webergasse|19": {
+  "street": "Webergasse",
+  "hn": "19",
+  "lat": 47.4228622,
+  "lng": 9.3752516,
+  "mieter": [
+   "Kündig Rorschach"
+  ]
+ },
+ "st. gallen|webergasse|21": {
+  "street": "Webergasse",
+  "hn": "21",
+  "lat": 47.4227505,
+  "lng": 9.375355,
+  "mieter": []
+ },
+ "st. gallen|webergasse|22": {
+  "street": "Webergasse",
+  "hn": "22",
+  "lat": 47.4228311,
+  "lng": 9.3751998,
+  "mieter": [
+   "Stadtbistro"
+  ]
+ },
+ "st. gallen|webergasse|23": {
+  "street": "Webergasse",
+  "hn": "23",
+  "lat": 47.4226602,
+  "lng": 9.3754416,
+  "mieter": []
+ },
+ "st. gallen|webergasse|24": {
+  "street": "Webergasse",
+  "hn": "24",
+  "lat": 47.4226946,
+  "lng": 9.3753229,
+  "mieter": []
+ },
+ "st. gallen|webergasse|26": {
+  "street": "Webergasse",
+  "hn": "26",
+  "lat": 47.4225198,
+  "lng": 9.375474,
+  "mieter": [
+   "Galerie Lüchinger"
+  ]
+ },
+ "st. gallen|webergasse|5": {
+  "street": "Webergasse",
+  "hn": "5",
+  "lat": 47.4234025,
+  "lng": 9.3748129,
+  "mieter": [
+   "Swisscom"
+  ]
+ },
+ "st. gallen|webergasse|7": {
+  "street": "Webergasse",
+  "hn": "7",
+  "lat": 47.423274,
+  "lng": 9.374887,
+  "mieter": [
+   "Glen Fahrn"
+  ]
+ },
+ "st. gallen|webergasse|8": {
+  "street": "Webergasse",
+  "hn": "8",
+  "lat": 47.4232751,
+  "lng": 9.3747778,
+  "mieter": [
+   "Balthasar 8"
+  ]
+ },
+ "st. gallen|webergasse|9": {
+  "street": "Webergasse",
+  "hn": "9",
+  "lat": 47.4231339,
+  "lng": 9.37501,
+  "mieter": [
+   "la bocca"
+  ]
+ },
+ "st. gallen|neugasse|42": {
+  "street": "Neugasse",
+  "hn": "42",
+  "lat": 47.4246086,
+  "lng": 9.3745323,
+  "mieter": [
+   "Rukka Flagship Store"
+  ]
+ },
+ "st. gallen|neugasse|55": {
+  "street": "Neugasse",
+  "hn": "55",
+  "lat": 47.4240419,
+  "lng": 9.3748983,
+  "mieter": [
+   "PKZ"
+  ]
+ },
+ "st. gallen|webergasse|1": {
+  "street": "Webergasse",
+  "hn": "1",
+  "lat": 47.4236632,
+  "lng": 9.3747798,
+  "mieter": [
+   "rohners chloschterbeck"
+  ]
+ },
+ "st. gallen|marktgasse|18": {
+  "street": "Marktgasse",
+  "hn": "18",
+  "lat": 47.4251794,
+  "lng": 9.3762941,
+  "mieter": [
+   "Marionnaud"
+  ]
+ },
+ "st. gallen|neugasse|1": {
+  "street": "Neugasse",
+  "hn": "1",
+  "lat": 47.4255662,
+  "lng": 9.3760307,
+  "mieter": [
+   "Wellauer",
+   "Bernie's",
+   "Amtshaus"
+  ]
+ },
+ "st. gallen|multergasse|15": {
+  "street": "Multergasse",
+  "hn": "15",
+  "lat": 47.4244089,
+  "lng": 9.3757704,
+  "mieter": []
+ },
+ "st. gallen|neugasse|34": {
+  "street": "Neugasse",
+  "hn": "34",
+  "lat": 47.4248639,
+  "lng": 9.3747531,
+  "mieter": [
+   "Beldona"
+  ]
+ },
+ "st. gallen|neugasse|35": {
+  "street": "Neugasse",
+  "hn": "35",
+  "lat": 47.4247864,
+  "lng": 9.3748461,
+  "mieter": [
+   "Farfalla"
+  ]
+ },
+ "st. gallen|multergasse|27": {
+  "street": "Multergasse",
+  "hn": "27",
+  "lat": 47.4241107,
+  "lng": 9.3753429,
+  "mieter": [
+   "Import Parfumerie"
+  ]
+ },
+ "st. gallen|marktgasse|20": {
+  "street": "Marktgasse",
+  "hn": "20",
+  "lat": 47.4250862,
+  "lng": 9.3763888,
+  "mieter": [
+   "Otto's Beauty Shop",
+   "Wingo"
+  ]
+ },
+ "st. gallen|neugasse|43": {
+  "street": "Neugasse",
+  "hn": "43",
+  "lat": 47.4244933,
+  "lng": 9.3746719,
+  "mieter": [
+   "Jobprofi GmbH",
+   "Schlossberg"
+  ]
+ },
+ "st. gallen|multergasse|4": {
+  "street": "Multergasse",
+  "hn": "4",
+  "lat": 47.4246955,
+  "lng": 9.3760811,
+  "mieter": [
+   "BONITA"
+  ]
+ },
+ "st. gallen|multergasse|2": {
+  "street": "Multergasse",
+  "hn": "2",
+  "lat": 47.4247424,
+  "lng": 9.3761279,
+  "mieter": []
+ },
+ "st. gallen|multergasse|2a": {
+  "street": "Multergasse",
+  "hn": "2a",
+  "lat": 47.4247757,
+  "lng": 9.3761956,
+  "mieter": []
+ },
+ "st. gallen|multergasse|1": {
+  "street": "Multergasse",
+  "hn": "1",
+  "lat": 47.4247357,
+  "lng": 9.3762776,
+  "mieter": []
+ },
+ "st. gallen|multergasse|7": {
+  "street": "Multergasse",
+  "hn": "7",
+  "lat": 47.4245364,
+  "lng": 9.3759577,
+  "mieter": []
+ },
+ "st. gallen|multergasse|5": {
+  "street": "Multergasse",
+  "hn": "5",
+  "lat": 47.4245524,
+  "lng": 9.3761042,
+  "mieter": [
+   "Rituals"
+  ]
+ },
+ "st. gallen|multergasse|3": {
+  "street": "Multergasse",
+  "hn": "3",
+  "lat": 47.4246633,
+  "lng": 9.3761565,
+  "mieter": []
+ },
+ "st. gallen|neugasse|40": {
+  "street": "Neugasse",
+  "hn": "40",
+  "lat": 47.4246951,
+  "lng": 9.3746247,
+  "mieter": [
+   "Visilab",
+   "Alunir"
+  ]
+ },
+ "st. gallen|neugasse|36": {
+  "street": "Neugasse",
+  "hn": "36",
+  "lat": 47.4247889,
+  "lng": 9.3746757,
+  "mieter": [
+   "Anouk",
+   "Neugass"
+  ]
+ },
+ "st. gallen|neugasse|3": {
+  "street": "Neugasse",
+  "hn": "3",
+  "lat": 47.4254414,
+  "lng": 9.3755393,
+  "mieter": []
+ },
+ "st. gallen|neugasse|30": {
+  "street": "Neugasse",
+  "hn": "30",
+  "lat": 47.4249866,
+  "lng": 9.3748167,
+  "mieter": []
+ },
+ "st. gallen|neugasse|53": {
+  "street": "Neugasse",
+  "hn": "53",
+  "lat": 47.4240774,
+  "lng": 9.3746548,
+  "mieter": []
+ },
+ "st. gallen|multergasse|14": {
+  "street": "Multergasse",
+  "hn": "14",
+  "lat": 47.4244164,
+  "lng": 9.3756188,
+  "mieter": [
+   "Rossmann"
+  ]
+ },
+ "st. gallen|multergasse|16": {
+  "street": "Multergasse",
+  "hn": "16",
+  "lat": 47.4243723,
+  "lng": 9.3755266,
+  "mieter": []
+ },
+ "st. gallen|multergasse|19": {
+  "street": "Multergasse",
+  "hn": "19",
+  "lat": 47.4242658,
+  "lng": 9.3755122,
+  "mieter": []
+ },
+ "st. gallen|neugasse|44": {
+  "street": "Neugasse",
+  "hn": "44",
+  "lat": 47.4244799,
+  "lng": 9.3745075,
+  "mieter": []
+ },
+ "st. gallen|neugasse|33": {
+  "street": "Neugasse",
+  "hn": "33",
+  "lat": 47.4248725,
+  "lng": 9.374868,
+  "mieter": [
+   "Bolia"
+  ]
+ },
+ "st. gallen|multergasse|12": {
+  "street": "Multergasse",
+  "hn": "12",
+  "lat": 47.4244776,
+  "lng": 9.3757452,
+  "mieter": []
+ },
+ "st. gallen|neugasse|25": {
+  "street": "Neugasse",
+  "hn": "25",
+  "lat": 47.4251279,
+  "lng": 9.3751136,
+  "mieter": [
+   "Jeanswerk"
+  ]
+ },
+ "st. gallen|neugasse|46": {
+  "street": "Neugasse",
+  "hn": "46",
+  "lat": 47.424373,
+  "lng": 9.374449,
+  "mieter": [
+   "Cento Grammi"
+  ]
+ },
+ "st. gallen|neugasse|49": {
+  "street": "Neugasse",
+  "hn": "49",
+  "lat": 47.4242354,
+  "lng": 9.3745497,
+  "mieter": [
+   "NILE"
+  ]
+ },
+ "st. gallen|multergasse|35": {
+  "street": "Multergasse",
+  "hn": "35",
+  "lat": 47.4239388,
+  "lng": 9.3749572,
+  "mieter": []
+ },
+ "st. gallen|multergasse|10": {
+  "street": "Multergasse",
+  "hn": "10",
+  "lat": 47.4245213,
+  "lng": 9.3758197,
+  "mieter": []
+ },
+ "st. gallen|multergasse|6": {
+  "street": "Multergasse",
+  "hn": "6",
+  "lat": 47.4246429,
+  "lng": 9.3760055,
+  "mieter": []
+ },
+ "st. gallen|multergasse|31": {
+  "street": "Multergasse",
+  "hn": "31",
+  "lat": 47.4239754,
+  "lng": 9.3751103,
+  "mieter": [
+   "Mobilezone"
+  ]
+ },
+ "st. gallen|multergasse|9": {
+  "street": "Multergasse",
+  "hn": "9",
+  "lat": 47.4244772,
+  "lng": 9.3758875,
+  "mieter": []
+ },
+ "st. gallen|multergasse|8": {
+  "street": "Multergasse",
+  "hn": "8",
+  "lat": 47.4245753,
+  "lng": 9.3759025,
+  "mieter": []
+ },
+ "st. gallen|marktgasse|15": {
+  "street": "Marktgasse",
+  "hn": "15",
+  "lat": 47.4252415,
+  "lng": 9.3764957,
+  "mieter": []
+ },
+ "st. gallen|marktgasse|17": {
+  "street": "Marktgasse",
+  "hn": "17",
+  "lat": 47.4251167,
+  "lng": 9.3765374,
+  "mieter": []
+ },
+ "st. gallen|multergasse|29": {
+  "street": "Multergasse",
+  "hn": "29",
+  "lat": 47.424078,
+  "lng": 9.3751869,
+  "mieter": []
+ },
+ "st. gallen|multergasse|26": {
+  "street": "Multergasse",
+  "hn": "26",
+  "lat": 47.4241416,
+  "lng": 9.3751133,
+  "mieter": []
+ },
+ "st. gallen|neugasse|20": {
+  "street": "Neugasse",
+  "hn": "20",
+  "lat": 47.4253403,
+  "lng": 9.3750968,
+  "mieter": [
+   "Torso"
+  ]
+ },
+ "st. gallen|neugasse|22": {
+  "street": "Neugasse",
+  "hn": "22",
+  "lat": 47.4252862,
+  "lng": 9.3750317,
+  "mieter": [
+   "The Notes"
+  ]
+ },
+ "st. gallen|neugasse|5": {
+  "street": "Neugasse",
+  "hn": "5",
+  "lat": 47.4253172,
+  "lng": 9.3753228,
+  "mieter": [
+   "Gefängnis St.Gallen"
+  ]
+ },
+ "st. gallen|multergasse|22": {
+  "street": "Multergasse",
+  "hn": "22",
+  "lat": 47.4242681,
+  "lng": 9.3753402,
+  "mieter": [
+   "Søstrene Grene"
+  ]
+ },
+ "st. gallen|webergasse|24a": {
+  "street": "Webergasse",
+  "hn": "24a",
+  "lat": 47.422658,
+  "lng": 9.3753582,
+  "mieter": [
+   "Förderraum am Dom"
+  ]
+ },
+ "st. gallen|multergasse|18": {
+  "street": "Multergasse",
+  "hn": "18",
+  "lat": 47.4243372,
+  "lng": 9.3754604,
+  "mieter": []
+ },
+ "st. gallen|multergasse|20": {
+  "street": "Multergasse",
+  "hn": "20",
+  "lat": 47.424311,
+  "lng": 9.3754131,
+  "mieter": []
+ },
+ "st. gallen|neugasse|38": {
+  "street": "Neugasse",
+  "hn": "38",
+  "lat": 47.424749,
+  "lng": 9.3746905,
+  "mieter": []
+ },
+ "st. gallen|neugasse|51": {
+  "street": "Neugasse",
+  "hn": "51",
+  "lat": 47.4241522,
+  "lng": 9.374592,
+  "mieter": [
+   "JoshMartin"
+  ]
+ },
+ "st. gallen|spisergasse|42": {
+  "street": "Spisergasse",
+  "hn": "42",
+  "lat": 47.4244208,
+  "lng": 9.3790997,
+  "mieter": [
+   "Lavka"
+  ]
+ },
+ "st. gallen|spisergasse|25": {
+  "street": "Spisergasse",
+  "hn": "25",
+  "lat": 47.4247489,
+  "lng": 9.3782863,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|24": {
+  "street": "Spisergasse",
+  "hn": "24",
+  "lat": 47.4246814,
+  "lng": 9.3781438,
+  "mieter": [
+   "Chicorée",
+   "Viu"
+  ]
+ },
+ "st. gallen|spisergasse|41": {
+  "street": "Spisergasse",
+  "hn": "41",
+  "lat": 47.4245142,
+  "lng": 9.3789956,
+  "mieter": [
+   "Lucy's Design Shop",
+   "Haus des Döners",
+   "Burgermeister"
+  ]
+ },
+ "st. gallen|spisergasse|26": {
+  "street": "Spisergasse",
+  "hn": "26",
+  "lat": 47.424577,
+  "lng": 9.3782688,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|31": {
+  "street": "Spisergasse",
+  "hn": "31",
+  "lat": 47.4245903,
+  "lng": 9.3785261,
+  "mieter": [
+   "Mewis"
+  ]
+ },
+ "st. gallen|spisergasse|29": {
+  "street": "Spisergasse",
+  "hn": "29",
+  "lat": 47.4246587,
+  "lng": 9.3784051,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|20": {
+  "street": "Spisergasse",
+  "hn": "20",
+  "lat": 47.4246903,
+  "lng": 9.3779756,
+  "mieter": [
+   "Boutique Späti"
+  ]
+ },
+ "st. gallen|spisergasse|18": {
+  "street": "Spisergasse",
+  "hn": "18",
+  "lat": 47.4246855,
+  "lng": 9.3779031,
+  "mieter": [
+   "Buchhandlung Opal"
+  ]
+ },
+ "st. gallen|neugasse|24": {
+  "street": "Neugasse",
+  "hn": "24",
+  "lat": 47.4252839,
+  "lng": 9.3748551,
+  "mieter": [
+   "Gentlemen's Club"
+  ]
+ },
+ "st. gallen|spisergasse|40": {
+  "street": "Spisergasse",
+  "hn": "40",
+  "lat": 47.4243984,
+  "lng": 9.3788836,
+  "mieter": [
+   "tarzan"
+  ]
+ },
+ "st. gallen|spisergasse|34": {
+  "street": "Spisergasse",
+  "hn": "34",
+  "lat": 47.4244526,
+  "lng": 9.3786854,
+  "mieter": [
+   "Spisergass Drogerie + Reformhaus"
+  ]
+ },
+ "st. gallen|spisergasse|32": {
+  "street": "Spisergasse",
+  "hn": "32",
+  "lat": 47.4244579,
+  "lng": 9.3785968,
+  "mieter": [
+   "EF"
+  ]
+ },
+ "st. gallen|spisergasse|9": {
+  "street": "Spisergasse",
+  "hn": "9",
+  "lat": 47.4249409,
+  "lng": 9.376848,
+  "mieter": [
+   "Tiefenbacher",
+   "Jacadi"
+  ]
+ },
+ "st. gallen|marktgasse|21": {
+  "street": "Marktgasse",
+  "hn": "21",
+  "lat": 47.4247935,
+  "lng": 9.3766784,
+  "mieter": [
+   "ONLY"
+  ]
+ },
+ "st. gallen|multergasse|21": {
+  "street": "Multergasse",
+  "hn": "21",
+  "lat": 47.4241852,
+  "lng": 9.3754417,
+  "mieter": [
+   "Sprüngli"
+  ]
+ },
+ "st. gallen|spisergasse|38": {
+  "street": "Spisergasse",
+  "hn": "38",
+  "lat": 47.4244237,
+  "lng": 9.378825,
+  "mieter": [
+   "Express Nähatelier"
+  ]
+ },
+ "st. gallen|spisergasse|36": {
+  "street": "Spisergasse",
+  "hn": "36",
+  "lat": 47.4244285,
+  "lng": 9.3787533,
+  "mieter": []
+ },
+ "st. gallen|neugasse|41": {
+  "street": "Neugasse",
+  "hn": "41",
+  "lat": 47.4245054,
+  "lng": 9.3748445,
+  "mieter": [
+   "Audika"
+  ]
+ },
+ "st. gallen|marktgasse|11": {
+  "street": "Marktgasse",
+  "hn": "11",
+  "lat": 47.4254197,
+  "lng": 9.3765032,
+  "mieter": [
+   "Valiant"
+  ]
+ },
+ "st. gallen|neugasse|12": {
+  "street": "Neugasse",
+  "hn": "12",
+  "lat": 47.4256868,
+  "lng": 9.3751916,
+  "mieter": [
+   "Regioherz"
+  ]
+ },
+ "st. gallen|marktgasse|14": {
+  "street": "Marktgasse",
+  "hn": "14",
+  "lat": 47.4252747,
+  "lng": 9.376239,
+  "mieter": [
+   "DQ Solutions Filiale St. Gallen"
+  ]
+ },
+ "st. gallen|spisergasse|7": {
+  "street": "Spisergasse",
+  "hn": "7",
+  "lat": 47.4249358,
+  "lng": 9.3770506,
+  "mieter": [
+   "Nile Second Season"
+  ]
+ },
+ "st. gallen|spisergasse|6": {
+  "street": "Spisergasse",
+  "hn": "6",
+  "lat": 47.424818,
+  "lng": 9.376922,
+  "mieter": [
+   "Dampfelix"
+  ]
+ },
+ "st. gallen|spisergasse|12": {
+  "street": "Spisergasse",
+  "hn": "12",
+  "lat": 47.4247744,
+  "lng": 9.3774338,
+  "mieter": [
+   "Cafe Olé",
+   "Haus Olé"
+  ]
+ },
+ "st. gallen|spisergasse|43": {
+  "street": "Spisergasse",
+  "hn": "43",
+  "lat": 47.4245017,
+  "lng": 9.3791973,
+  "mieter": [
+   "Kultkosmetik"
+  ]
+ },
+ "st. gallen|marktgasse|23": {
+  "street": "Marktgasse",
+  "hn": "23",
+  "lat": 47.4246908,
+  "lng": 9.3767088,
+  "mieter": [
+   "SOMA"
+  ]
+ },
+ "st. gallen|spisergasse|10": {
+  "street": "Spisergasse",
+  "hn": "10",
+  "lat": 47.4248284,
+  "lng": 9.3771508,
+  "mieter": [
+   "Alja Stoffe & Mercerie"
+  ]
+ },
+ "st. gallen|spisergasse|13a": {
+  "street": "Spisergasse",
+  "hn": "13a",
+  "lat": 47.4251239,
+  "lng": 9.37767,
+  "mieter": [
+   "The Buy and Sell Store"
+  ]
+ },
+ "st. gallen|spisergasse|16": {
+  "street": "Spisergasse",
+  "hn": "16",
+  "lat": 47.4246708,
+  "lng": 9.3777135,
+  "mieter": [
+   "workspace9000"
+  ]
+ },
+ "st. gallen|spisergasse|21": {
+  "street": "Spisergasse",
+  "hn": "21",
+  "lat": 47.4247942,
+  "lng": 9.3782122,
+  "mieter": [
+   "Baumann Mode"
+  ]
+ },
+ "st. gallen|spisergasse|23": {
+  "street": "Spisergasse",
+  "hn": "23",
+  "lat": 47.424783,
+  "lng": 9.3782609,
+  "mieter": [
+   "Kaufengold.ch"
+  ]
+ },
+ "st. gallen|spisergasse|17": {
+  "street": "Spisergasse",
+  "hn": "17",
+  "lat": 47.42494,
+  "lng": 9.3779663,
+  "mieter": [
+   "AHOI"
+  ]
+ },
+ "st. gallen|spisergasse|14": {
+  "street": "Spisergasse",
+  "hn": "14",
+  "lat": 47.4248008,
+  "lng": 9.3776034,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|11": {
+  "street": "Spisergasse",
+  "hn": "11",
+  "lat": 47.4249329,
+  "lng": 9.3775161,
+  "mieter": [
+   "Rrrevolve",
+   "Stadtlandkind"
+  ]
+ },
+ "st. gallen|marktgasse|25": {
+  "street": "Marktgasse",
+  "hn": "25",
+  "lat": 47.424365,
+  "lng": 9.3770716,
+  "mieter": [
+   "St. Laurenzen"
+  ]
+ },
+ "st. gallen|marktgasse|7": {
+  "street": "Marktgasse",
+  "hn": "7",
+  "lat": 47.4258282,
+  "lng": 9.3765346,
+  "mieter": []
+ },
+ "st. gallen|marktgasse|2": {
+  "street": "Marktgasse",
+  "hn": "2",
+  "lat": 47.4261371,
+  "lng": 9.3759237,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|1": {
+  "street": "Spisergasse",
+  "hn": "1",
+  "lat": 47.4249416,
+  "lng": 9.3766863,
+  "mieter": []
+ },
+ "st. gallen|marktgasse|16": {
+  "street": "Marktgasse",
+  "hn": "16",
+  "lat": 47.4252014,
+  "lng": 9.3761987,
+  "mieter": []
+ },
+ "st. gallen|marktgasse|12": {
+  "street": "Marktgasse",
+  "hn": "12",
+  "lat": 47.4253251,
+  "lng": 9.3761176,
+  "mieter": []
+ },
+ "st. gallen|marktgasse|13": {
+  "street": "Marktgasse",
+  "hn": "13",
+  "lat": 47.4253409,
+  "lng": 9.3765618,
+  "mieter": []
+ },
+ "st. gallen|multergasse|43": {
+  "street": "Multergasse",
+  "hn": "43",
+  "lat": 47.4237634,
+  "lng": 9.374804,
+  "mieter": []
+ },
+ "st. gallen|marktgasse|19": {
+  "street": "Marktgasse",
+  "hn": "19",
+  "lat": 47.4250388,
+  "lng": 9.3766641,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|3": {
+  "street": "Spisergasse",
+  "hn": "3",
+  "lat": 47.4249845,
+  "lng": 9.3768334,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|30": {
+  "street": "Spisergasse",
+  "hn": "30",
+  "lat": 47.4244307,
+  "lng": 9.3784745,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|28": {
+  "street": "Spisergasse",
+  "hn": "28",
+  "lat": 47.4245014,
+  "lng": 9.3783512,
+  "mieter": []
+ },
+ "st. gallen|marktgasse|26": {
+  "street": "Marktgasse",
+  "hn": "26",
+  "lat": 47.4242855,
+  "lng": 9.3766121,
+  "mieter": []
+ },
+ "st. gallen|multergasse|11": {
+  "street": "Multergasse",
+  "hn": "11",
+  "lat": 47.424279,
+  "lng": 9.3761131,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|27": {
+  "street": "Spisergasse",
+  "hn": "27",
+  "lat": 47.4247437,
+  "lng": 9.3784032,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|15": {
+  "street": "Spisergasse",
+  "hn": "15",
+  "lat": 47.4249406,
+  "lng": 9.3778179,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|13": {
+  "street": "Spisergasse",
+  "hn": "13",
+  "lat": 47.4249669,
+  "lng": 9.3776609,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|19": {
+  "street": "Spisergasse",
+  "hn": "19",
+  "lat": 47.4248863,
+  "lng": 9.378143,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|22": {
+  "street": "Spisergasse",
+  "hn": "22",
+  "lat": 47.4246376,
+  "lng": 9.3781002,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|4": {
+  "street": "Spisergasse",
+  "hn": "4",
+  "lat": 47.424815,
+  "lng": 9.3768417,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|8": {
+  "street": "Spisergasse",
+  "hn": "8",
+  "lat": 47.4247884,
+  "lng": 9.3769919,
+  "mieter": []
+ },
+ "st. gallen|spisergasse|5": {
+  "street": "Spisergasse",
+  "hn": "5",
+  "lat": 47.4249866,
+  "lng": 9.3769588,
+  "mieter": []
+ },
+ "st. gallen|neugasse|31": {
+  "street": "Neugasse",
+  "hn": "31",
+  "lat": 47.4249124,
+  "lng": 9.3749863,
+  "mieter": []
+ },
+ "st. gallen|neugasse|16": {
+  "street": "Neugasse",
+  "hn": "16",
+  "lat": 47.4254894,
+  "lng": 9.3751952,
+  "mieter": []
+ },
+ "st. gallen|neugasse|18": {
+  "street": "Neugasse",
+  "hn": "18",
+  "lat": 47.4254289,
+  "lng": 9.3751238,
+  "mieter": []
+ },
+ "st. gallen|neugasse|29": {
+  "street": "Neugasse",
+  "hn": "29",
+  "lat": 47.4249571,
+  "lng": 9.3750245,
+  "mieter": []
+ },
+ "st. gallen|neugasse|26": {
+  "street": "Neugasse",
+  "hn": "26",
+  "lat": 47.4251452,
+  "lng": 9.3748286,
+  "mieter": []
+ },
+ "st. gallen|marktgasse|24": {
+  "street": "Marktgasse",
+  "hn": "24",
+  "lat": 47.4245612,
+  "lng": 9.3765164,
+  "mieter": []
+ },
+ "st. gallen|multergasse|41": {
+  "street": "Multergasse",
+  "hn": "41",
+  "lat": 47.4238101,
+  "lng": 9.3749229,
+  "mieter": []
+ },
+ "st. gallen|multergasse|45": {
+  "street": "Multergasse",
+  "hn": "45",
+  "lat": 47.4237329,
+  "lng": 9.3747201,
+  "mieter": []
+ },
+ "st. gallen|marktgasse|30": {
+  "street": "Marktgasse",
+  "hn": "30",
+  "lat": 47.4239489,
+  "lng": 9.3767939,
+  "mieter": []
+ }
+}
