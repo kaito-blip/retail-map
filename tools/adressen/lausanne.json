@@ -1,0 +1,992 @@
+{
+ "lausanne|rue centrale|4": {
+  "street": "Rue Centrale",
+  "hn": "4",
+  "lat": 46.5205975,
+  "lng": 6.6325842,
+  "mieter": [
+   "Les Brasseurs"
+  ]
+ },
+ "lausanne|rue william-haldimand|17": {
+  "street": "Rue William-Haldimand",
+  "hn": "17",
+  "lat": 46.5222031,
+  "lng": 6.6299038,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|20": {
+  "street": "Rue de Bourg",
+  "hn": "20",
+  "lat": 46.5199691,
+  "lng": 6.6354729,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|2": {
+  "street": "Place Saint-François",
+  "hn": "2",
+  "lat": 46.5198881,
+  "lng": 6.6324949,
+  "mieter": [
+   "Café Romand"
+  ]
+ },
+ "lausanne|rue centrale|5": {
+  "street": "Rue Centrale",
+  "hn": "5",
+  "lat": 46.5207642,
+  "lng": 6.6320286,
+  "mieter": [
+   "La Latina",
+   "Librairie de l'Univers",
+   "Galerie de l'Univers",
+   "Régie Braun",
+   "CHIC Latino club",
+   "Mexicana",
+   "Daniel Guy"
+  ]
+ },
+ "lausanne|rue du pont|22": {
+  "street": "Rue du Pont",
+  "hn": "22",
+  "lat": 46.5210346,
+  "lng": 6.6333454,
+  "mieter": [
+   "Loxton"
+  ]
+ },
+ "lausanne|rue william-haldimand|13": {
+  "street": "Rue William-Haldimand",
+  "hn": "13",
+  "lat": 46.5222559,
+  "lng": 6.6301939,
+  "mieter": [
+   "Anouk"
+  ]
+ },
+ "lausanne|rue centrale|31": {
+  "street": "Rue Centrale",
+  "hn": "31",
+  "lat": 46.5210529,
+  "lng": 6.6360389,
+  "mieter": [
+   "Ethno Tattoo Piercing",
+   "Aquarelle"
+  ]
+ },
+ "lausanne|place saint-françois|1": {
+  "street": "Place Saint-François",
+  "hn": "1",
+  "lat": 46.5198843,
+  "lng": 6.6322225,
+  "mieter": []
+ },
+ "lausanne|rue centrale|2": {
+  "street": "Rue Centrale",
+  "hn": "2",
+  "lat": 46.5203526,
+  "lng": 6.6318827,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|10": {
+  "street": "Rue Saint-François",
+  "hn": "10",
+  "lat": 46.5204567,
+  "lng": 6.633817,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|12": {
+  "street": "Rue Saint-François",
+  "hn": "12",
+  "lat": 46.5204109,
+  "lng": 6.633838,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|14": {
+  "street": "Rue Saint-François",
+  "hn": "14",
+  "lat": 46.5203661,
+  "lng": 6.6338421,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|16": {
+  "street": "Rue Saint-François",
+  "hn": "16",
+  "lat": 46.5203165,
+  "lng": 6.6338473,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|18": {
+  "street": "Rue Saint-François",
+  "hn": "18",
+  "lat": 46.520264,
+  "lng": 6.6338557,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|8": {
+  "street": "Rue Saint-François",
+  "hn": "8",
+  "lat": 46.5204892,
+  "lng": 6.6338142,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|11": {
+  "street": "Rue William-Haldimand",
+  "hn": "11",
+  "lat": 46.522494,
+  "lng": 6.6310988,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|3": {
+  "street": "Rue William-Haldimand",
+  "hn": "3",
+  "lat": 46.5228477,
+  "lng": 6.6316654,
+  "mieter": []
+ },
+ "lausanne|rue du pont|5": {
+  "street": "Rue du Pont",
+  "hn": "5",
+  "lat": 46.521155,
+  "lng": 6.6334536,
+  "mieter": [
+   "Parfum Christian Dior"
+  ]
+ },
+ "lausanne|rue william-haldimand|14": {
+  "street": "Rue William-Haldimand",
+  "hn": "14",
+  "lat": 46.5223639,
+  "lng": 6.6302512,
+  "mieter": [
+   "Esther Bornand"
+  ]
+ },
+ "lausanne|rue william-haldimand|14a": {
+  "street": "Rue William-Haldimand",
+  "hn": "14a",
+  "lat": 46.5224244,
+  "lng": 6.6300253,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|16": {
+  "street": "Rue William-Haldimand",
+  "hn": "16",
+  "lat": 46.5225324,
+  "lng": 6.6298497,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|20": {
+  "street": "Rue William-Haldimand",
+  "hn": "20",
+  "lat": 46.5222427,
+  "lng": 6.6297486,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|12": {
+  "street": "Rue William-Haldimand",
+  "hn": "12",
+  "lat": 46.5224942,
+  "lng": 6.6308852,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|2": {
+  "street": "Rue William-Haldimand",
+  "hn": "2",
+  "lat": 46.5230233,
+  "lng": 6.6315945,
+  "mieter": [
+   "Undiz"
+  ]
+ },
+ "lausanne|place saint-françois|10": {
+  "street": "Place Saint-François",
+  "hn": "10",
+  "lat": 46.5199251,
+  "lng": 6.6338263,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|14": {
+  "street": "Rue de Bourg",
+  "hn": "14",
+  "lat": 46.5200124,
+  "lng": 6.6350521,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|16": {
+  "street": "Rue de Bourg",
+  "hn": "16",
+  "lat": 46.5199939,
+  "lng": 6.6351596,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|18": {
+  "street": "Rue de Bourg",
+  "hn": "18",
+  "lat": 46.5199763,
+  "lng": 6.6353039,
+  "mieter": [
+   "Tissot"
+  ]
+ },
+ "lausanne|rue de bourg|2": {
+  "street": "Rue de Bourg",
+  "hn": "2",
+  "lat": 46.5200475,
+  "lng": 6.63392,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|17": {
+  "street": "Place Saint-François",
+  "hn": "17",
+  "lat": 46.5197574,
+  "lng": 6.6319427,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|24": {
+  "street": "Rue de Bourg",
+  "hn": "24",
+  "lat": 46.5199709,
+  "lng": 6.6359833,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|30": {
+  "street": "Rue de Bourg",
+  "hn": "30",
+  "lat": 46.5198347,
+  "lng": 6.6364858,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|6": {
+  "street": "Place Saint-François",
+  "hn": "6",
+  "lat": 46.5200729,
+  "lng": 6.6333252,
+  "mieter": [
+   "Pharmacie internationale Golaz"
+  ]
+ },
+ "lausanne|rue de bourg|51": {
+  "street": "Rue de Bourg",
+  "hn": "51",
+  "lat": 46.5199562,
+  "lng": 6.63645,
+  "mieter": [
+   "Le Bourg",
+   "Belair Records"
+  ]
+ },
+ "lausanne|rue saint-françois|1": {
+  "street": "Rue Saint-François",
+  "hn": "1",
+  "lat": 46.5207286,
+  "lng": 6.6337576,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|3": {
+  "street": "Rue Saint-François",
+  "hn": "3",
+  "lat": 46.5206723,
+  "lng": 6.6338039,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|9": {
+  "street": "Rue Saint-François",
+  "hn": "9",
+  "lat": 46.5204754,
+  "lng": 6.6339009,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|1": {
+  "street": "Rue de Bourg",
+  "hn": "1",
+  "lat": 46.5201305,
+  "lng": 6.6339991,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|11": {
+  "street": "Rue Saint-François",
+  "hn": "11",
+  "lat": 46.5203823,
+  "lng": 6.6338987,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|15": {
+  "street": "Rue Saint-François",
+  "hn": "15",
+  "lat": 46.5201933,
+  "lng": 6.6339266,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|20": {
+  "street": "Rue Saint-François",
+  "hn": "20",
+  "lat": 46.5201866,
+  "lng": 6.6338648,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|9": {
+  "street": "Place Saint-François",
+  "hn": "9",
+  "lat": 46.5200967,
+  "lng": 6.6337897,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|53": {
+  "street": "Rue de Bourg",
+  "hn": "53",
+  "lat": 46.5198833,
+  "lng": 6.6365647,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|18": {
+  "street": "Place Saint-François",
+  "hn": "18",
+  "lat": 46.519677,
+  "lng": 6.6330201,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|2": {
+  "street": "Rue Saint-François",
+  "hn": "2",
+  "lat": 46.5207337,
+  "lng": 6.6336304,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|22": {
+  "street": "Rue de Bourg",
+  "hn": "22",
+  "lat": 46.5199749,
+  "lng": 6.6356141,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|5": {
+  "street": "Rue Saint-François",
+  "hn": "5",
+  "lat": 46.5206167,
+  "lng": 6.6338733,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|28": {
+  "street": "Rue de Bourg",
+  "hn": "28",
+  "lat": 46.519869,
+  "lng": 6.6362795,
+  "mieter": [
+   "Chez Mario"
+  ]
+ },
+ "lausanne|rue centrale|15": {
+  "street": "Rue Centrale",
+  "hn": "15",
+  "lat": 46.5211067,
+  "lng": 6.6339397,
+  "mieter": [
+   "Optic 2000"
+  ]
+ },
+ "lausanne|rue de bourg|5": {
+  "street": "Rue de Bourg",
+  "hn": "5",
+  "lat": 46.5202585,
+  "lng": 6.6341723,
+  "mieter": [
+   "Chocolatier Blondel"
+  ]
+ },
+ "lausanne|rue de bourg|12": {
+  "street": "Rue de Bourg",
+  "hn": "12",
+  "lat": 46.5200333,
+  "lng": 6.6349163,
+  "mieter": []
+ },
+ "lausanne|rue centrale|23": {
+  "street": "Rue Centrale",
+  "hn": "23",
+  "lat": 46.5210646,
+  "lng": 6.634921,
+  "mieter": [
+   "Kosann"
+  ]
+ },
+ "lausanne|rue centrale|21": {
+  "street": "Rue Centrale",
+  "hn": "21",
+  "lat": 46.5210841,
+  "lng": 6.6346874,
+  "mieter": [
+   "Prince d'Egypte"
+  ]
+ },
+ "lausanne|rue william-haldimand|9": {
+  "street": "Rue William-Haldimand",
+  "hn": "9",
+  "lat": 46.5225537,
+  "lng": 6.6313244,
+  "mieter": [
+   "CrazyWolf"
+  ]
+ },
+ "lausanne|rue centrale|29": {
+  "street": "Rue Centrale",
+  "hn": "29",
+  "lat": 46.521051,
+  "lng": 6.6356043,
+  "mieter": [
+   "Bluebird Café"
+  ]
+ },
+ "lausanne|rue centrale|10": {
+  "street": "Rue Centrale",
+  "hn": "10",
+  "lat": 46.5207292,
+  "lng": 6.6331126,
+  "mieter": [
+   "KramerKrieg"
+  ]
+ },
+ "lausanne|rue du pont|10": {
+  "street": "Rue du Pont",
+  "hn": "10",
+  "lat": 46.5214103,
+  "lng": 6.6332119,
+  "mieter": [
+   "Viu"
+  ]
+ },
+ "lausanne|rue william-haldimand|10": {
+  "street": "Rue William-Haldimand",
+  "hn": "10",
+  "lat": 46.522566,
+  "lng": 6.6310548,
+  "mieter": [
+   "doodah"
+  ]
+ },
+ "lausanne|rue de bourg|43": {
+  "street": "Rue de Bourg",
+  "hn": "43",
+  "lat": 46.5200532,
+  "lng": 6.6361729,
+  "mieter": [
+   "Victorinox Store Lausanne"
+  ]
+ },
+ "lausanne|place saint-françois|4": {
+  "street": "Place Saint-François",
+  "hn": "4",
+  "lat": 46.5200245,
+  "lng": 6.6327907,
+  "mieter": [
+   "Centre Lentilles de Contact"
+  ]
+ },
+ "lausanne|rue de bourg|6": {
+  "street": "Rue de Bourg",
+  "hn": "6",
+  "lat": 46.5199927,
+  "lng": 6.6343149,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|29": {
+  "street": "Rue de Bourg",
+  "hn": "29",
+  "lat": 46.5200485,
+  "lng": 6.6355735,
+  "mieter": [
+   "Le mouton"
+  ]
+ },
+ "lausanne|rue de bourg|11": {
+  "street": "Rue de Bourg",
+  "hn": "11",
+  "lat": 46.5204048,
+  "lng": 6.6345589,
+  "mieter": [
+   "L'Echo"
+  ]
+ },
+ "lausanne|rue centrale|7": {
+  "street": "Rue Centrale",
+  "hn": "7",
+  "lat": 46.5208814,
+  "lng": 6.6326964,
+  "mieter": [
+   "randstad"
+  ]
+ },
+ "lausanne|rue centrale|30": {
+  "street": "Rue Centrale",
+  "hn": "30",
+  "lat": 46.5208179,
+  "lng": 6.6354471,
+  "mieter": [
+   "Kouah"
+  ]
+ },
+ "lausanne|rue haldimand|17": {
+  "street": "Rue Haldimand",
+  "hn": "17",
+  "lat": 46.5221571,
+  "lng": 6.6298869,
+  "mieter": []
+ },
+ "lausanne|rue centrale|26": {
+  "street": "Rue Centrale",
+  "hn": "26",
+  "lat": 46.5208011,
+  "lng": 6.6348329,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|1": {
+  "street": "Rue William-Haldimand",
+  "hn": "1",
+  "lat": 46.5228829,
+  "lng": 6.631808,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|15": {
+  "street": "Place Saint-François",
+  "hn": "15",
+  "lat": 46.5191046,
+  "lng": 6.6331952,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|16": {
+  "street": "Place Saint-François",
+  "hn": "16",
+  "lat": 46.519397,
+  "lng": 6.6323347,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|33": {
+  "street": "Rue de Bourg",
+  "hn": "33",
+  "lat": 46.5201168,
+  "lng": 6.6357272,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|17": {
+  "street": "Rue de Bourg",
+  "hn": "17",
+  "lat": 46.5201886,
+  "lng": 6.6348172,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|3": {
+  "street": "Rue de Bourg",
+  "hn": "3",
+  "lat": 46.5202087,
+  "lng": 6.6341086,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|25": {
+  "street": "Rue de Bourg",
+  "hn": "25",
+  "lat": 46.5201915,
+  "lng": 6.6351107,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|15": {
+  "street": "Rue de Bourg",
+  "hn": "15",
+  "lat": 46.5201922,
+  "lng": 6.6346897,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|21": {
+  "street": "Rue de Bourg",
+  "hn": "21",
+  "lat": 46.5202084,
+  "lng": 6.63497,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|19": {
+  "street": "Rue de Bourg",
+  "hn": "19",
+  "lat": 46.52022,
+  "lng": 6.6349095,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|23": {
+  "street": "Rue de Bourg",
+  "hn": "23",
+  "lat": 46.5201979,
+  "lng": 6.6350315,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|31": {
+  "street": "Rue de Bourg",
+  "hn": "31",
+  "lat": 46.5201356,
+  "lng": 6.6355688,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|27": {
+  "street": "Rue de Bourg",
+  "hn": "27",
+  "lat": 46.5201506,
+  "lng": 6.6352085,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|11b": {
+  "street": "Rue Saint-François",
+  "hn": "11b",
+  "lat": 46.520308,
+  "lng": 6.6340061,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|7": {
+  "street": "Rue de Bourg",
+  "hn": "7",
+  "lat": 46.5202845,
+  "lng": 6.634255,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|13": {
+  "street": "Rue de Bourg",
+  "hn": "13",
+  "lat": 46.5202083,
+  "lng": 6.6345554,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|37": {
+  "street": "Rue de Bourg",
+  "hn": "37",
+  "lat": 46.5201037,
+  "lng": 6.6360211,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|35": {
+  "street": "Rue de Bourg",
+  "hn": "35",
+  "lat": 46.5201019,
+  "lng": 6.6359096,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|39": {
+  "street": "Rue de Bourg",
+  "hn": "39",
+  "lat": 46.5200969,
+  "lng": 6.6360881,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|12": {
+  "street": "Place Saint-François",
+  "hn": "12",
+  "lat": 46.5195438,
+  "lng": 6.6343752,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|11": {
+  "street": "Place Saint-François",
+  "hn": "11",
+  "lat": 46.5196406,
+  "lng": 6.6340622,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|4": {
+  "street": "Rue de Bourg",
+  "hn": "4",
+  "lat": 46.5198648,
+  "lng": 6.6341462,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|12bis": {
+  "street": "Place Saint-François",
+  "hn": "12bis",
+  "lat": 46.5195824,
+  "lng": 6.6345918,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|8": {
+  "street": "Rue de Bourg",
+  "hn": "8",
+  "lat": 46.5198467,
+  "lng": 6.6344414,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|10": {
+  "street": "Rue de Bourg",
+  "hn": "10",
+  "lat": 46.5199299,
+  "lng": 6.6346932,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|18": {
+  "street": "Rue William-Haldimand",
+  "hn": "18",
+  "lat": 46.5223803,
+  "lng": 6.6298644,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|15": {
+  "street": "Rue William-Haldimand",
+  "hn": "15",
+  "lat": 46.5221647,
+  "lng": 6.6300533,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|8": {
+  "street": "Rue William-Haldimand",
+  "hn": "8",
+  "lat": 46.522668,
+  "lng": 6.6311729,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|4": {
+  "street": "Rue William-Haldimand",
+  "hn": "4",
+  "lat": 46.5228453,
+  "lng": 6.6314354,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|6": {
+  "street": "Rue William-Haldimand",
+  "hn": "6",
+  "lat": 46.5227477,
+  "lng": 6.6313126,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|5": {
+  "street": "Rue William-Haldimand",
+  "hn": "5",
+  "lat": 46.522672,
+  "lng": 6.6316267,
+  "mieter": []
+ },
+ "lausanne|rue william-haldimand|7": {
+  "street": "Rue William-Haldimand",
+  "hn": "7",
+  "lat": 46.5226036,
+  "lng": 6.6315375,
+  "mieter": []
+ },
+ "lausanne|rue du pont|2": {
+  "street": "Rue du Pont",
+  "hn": "2",
+  "lat": 46.5215611,
+  "lng": 6.6330648,
+  "mieter": []
+ },
+ "lausanne|rue du pont|12": {
+  "street": "Rue du Pont",
+  "hn": "12",
+  "lat": 46.521346,
+  "lng": 6.6331234,
+  "mieter": []
+ },
+ "lausanne|rue centrale|9b": {
+  "street": "Rue Centrale",
+  "hn": "9b",
+  "lat": 46.5209837,
+  "lng": 6.6328977,
+  "mieter": []
+ },
+ "lausanne|rue du pont|20": {
+  "street": "Rue du Pont",
+  "hn": "20",
+  "lat": 46.5212496,
+  "lng": 6.633104,
+  "mieter": []
+ },
+ "lausanne|rue du pont|4": {
+  "street": "Rue du Pont",
+  "hn": "4",
+  "lat": 46.5214646,
+  "lng": 6.6331231,
+  "mieter": []
+ },
+ "lausanne|rue centrale|9": {
+  "street": "Rue Centrale",
+  "hn": "9",
+  "lat": 46.5209584,
+  "lng": 6.6331267,
+  "mieter": []
+ },
+ "lausanne|rue du pont|14": {
+  "street": "Rue du Pont",
+  "hn": "14",
+  "lat": 46.5213038,
+  "lng": 6.633139,
+  "mieter": []
+ },
+ "lausanne|rue du pont|1": {
+  "street": "Rue du Pont",
+  "hn": "1",
+  "lat": 46.5216029,
+  "lng": 6.6334983,
+  "mieter": []
+ },
+ "lausanne|rue du pont|3": {
+  "street": "Rue du Pont",
+  "hn": "3",
+  "lat": 46.5214586,
+  "lng": 6.6334424,
+  "mieter": []
+ },
+ "lausanne|rue centrale|19": {
+  "street": "Rue Centrale",
+  "hn": "19",
+  "lat": 46.5210977,
+  "lng": 6.6344522,
+  "mieter": []
+ },
+ "lausanne|rue centrale|17": {
+  "street": "Rue Centrale",
+  "hn": "17",
+  "lat": 46.5211045,
+  "lng": 6.6342294,
+  "mieter": []
+ },
+ "lausanne|rue centrale|25": {
+  "street": "Rue Centrale",
+  "hn": "25",
+  "lat": 46.5210845,
+  "lng": 6.6351392,
+  "mieter": []
+ },
+ "lausanne|rue centrale|27": {
+  "street": "Rue Centrale",
+  "hn": "27",
+  "lat": 46.5210799,
+  "lng": 6.6353935,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|14": {
+  "street": "Place Saint-François",
+  "hn": "14",
+  "lat": 46.5190739,
+  "lng": 6.6343008,
+  "mieter": [
+   "Banque Cantonale Vaudoise"
+  ]
+ },
+ "lausanne|rue saint-françois|7": {
+  "street": "Rue Saint-François",
+  "hn": "7",
+  "lat": 46.520561,
+  "lng": 6.6340162,
+  "mieter": []
+ },
+ "lausanne|rue centrale|14": {
+  "street": "Rue Centrale",
+  "hn": "14",
+  "lat": 46.5207518,
+  "lng": 6.6341288,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|5": {
+  "street": "Place Saint-François",
+  "hn": "5",
+  "lat": 46.5201304,
+  "lng": 6.6330208,
+  "mieter": []
+ },
+ "lausanne|rue centrale|8": {
+  "street": "Rue Centrale",
+  "hn": "8",
+  "lat": 46.5207031,
+  "lng": 6.633088,
+  "mieter": []
+ },
+ "lausanne|rue centrale|6": {
+  "street": "Rue Centrale",
+  "hn": "6",
+  "lat": 46.5206552,
+  "lng": 6.6328616,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|7": {
+  "street": "Place Saint-François",
+  "hn": "7",
+  "lat": 46.52015,
+  "lng": 6.6334498,
+  "mieter": []
+ },
+ "lausanne|place saint-françois|8": {
+  "street": "Place Saint-François",
+  "hn": "8",
+  "lat": 46.5201651,
+  "lng": 6.6336111,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|4": {
+  "street": "Rue Saint-François",
+  "hn": "4",
+  "lat": 46.5206623,
+  "lng": 6.6336515,
+  "mieter": []
+ },
+ "lausanne|rue saint-françois|6": {
+  "street": "Rue Saint-François",
+  "hn": "6",
+  "lat": 46.5205791,
+  "lng": 6.6336452,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|49": {
+  "street": "Rue de Bourg",
+  "hn": "49",
+  "lat": 46.5201281,
+  "lng": 6.6365064,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|26": {
+  "street": "Rue de Bourg",
+  "hn": "26",
+  "lat": 46.5197457,
+  "lng": 6.6360711,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|47": {
+  "street": "Rue de Bourg",
+  "hn": "47",
+  "lat": 46.5200843,
+  "lng": 6.6363726,
+  "mieter": []
+ },
+ "lausanne|rue centrale|12": {
+  "street": "Rue Centrale",
+  "hn": "12",
+  "lat": 46.5208365,
+  "lng": 6.6338668,
+  "mieter": []
+ },
+ "lausanne|rue centrale|16": {
+  "street": "Rue Centrale",
+  "hn": "16",
+  "lat": 46.5207296,
+  "lng": 6.6343767,
+  "mieter": []
+ },
+ "lausanne|rue centrale|18": {
+  "street": "Rue Centrale",
+  "hn": "18",
+  "lat": 46.5206852,
+  "lng": 6.6345849,
+  "mieter": []
+ },
+ "lausanne|rue centrale|27b": {
+  "street": "Rue Centrale",
+  "hn": "27b",
+  "lat": 46.5212277,
+  "lng": 6.6355256,
+  "mieter": []
+ },
+ "lausanne|rue centrale|28": {
+  "street": "Rue Centrale",
+  "hn": "28",
+  "lat": 46.5207634,
+  "lng": 6.6350694,
+  "mieter": []
+ },
+ "lausanne|rue de bourg|9": {
+  "street": "Rue de Bourg",
+  "hn": "9",
+  "lat": 46.5202779,
+  "lng": 6.6343246,
+  "mieter": []
+ }
+}

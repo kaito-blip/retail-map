@@ -75,14 +75,15 @@
   "strassen": [
    "Rue de Bourg",
    "Rue Saint-François",
+   "Place Saint-François",
    "Rue du Pont",
    "Rue Centrale",
-   "Rue Haldimand"
+   "Rue William-Haldimand"
   ],
-  "strassen_ok": false,
-  "letzter_lauf": "",
-  "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12",
-  "offen": "78"
+  "strassen_ok": true,
+  "letzter_lauf": "2026-11-05",
+  "eigentuemer_quelle": "Intercapi public (SMS, 5/Tag, Kaito einzeln) bzw. Registre foncier Office de Lausanne; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 14; Grundbuch-Einträge vom 19.08.26: 5 (+2 gleiche Parzelle)",
+  "offen": "111"
  },
  {
   "kanton": "LU",
