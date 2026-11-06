@@ -374,6 +374,28 @@
    "Regus Business Center Luzern"
   ]
  },
+ "luzern|schwanenplatz|7": {
+  "street": "Schwanenplatz",
+  "hn": "7",
+  "lat": 47.0537647,
+  "lng": 8.3086255,
+  "mieter": [
+   "Bachmann",
+   "Schwanenpraxis",
+   "Praxis Dr. Vatterott Susanne",
+   "Zahnarztpraxis Wegner"
+  ]
+ },
+ "luzern|schwanenplatz|2": {
+  "street": "Schwanenplatz",
+  "hn": "2",
+  "lat": 47.0529523,
+  "lng": 8.3084423,
+  "mieter": [
+   "Hug",
+   "Julius Bär"
+  ]
+ },
  "luzern|hertensteinstrasse|58": {
   "street": "Hertensteinstrasse",
   "hn": "58",
@@ -609,6 +631,15 @@
   "lng": 8.3068705,
   "mieter": []
  },
+ "luzern|schwanenplatz|4": {
+  "street": "Schwanenplatz",
+  "hn": "4",
+  "lat": 47.0531787,
+  "lng": 8.3084916,
+  "mieter": [
+   "Praxis Dr. Kellenberger Matthias"
+  ]
+ },
  "luzern|pilatusstrasse|62": {
   "street": "Pilatusstrasse",
   "hn": "62",
@@ -693,6 +724,15 @@
    "Praxis Dr. Züger Patrick",
    "mobilezone",
    "Drycut"
+  ]
+ },
+ "luzern|schwanenplatz|8": {
+  "street": "Schwanenplatz",
+  "hn": "8",
+  "lat": 47.0538452,
+  "lng": 8.3089322,
+  "mieter": [
+   "Credit Suisse"
   ]
  },
  "luzern|hertensteinstrasse|20": {
@@ -1029,6 +1069,13 @@
   "hn": "6",
   "lat": 47.0555887,
   "lng": 8.3102048,
+  "mieter": []
+ },
+ "luzern|schwanenplatz|6": {
+  "street": "Schwanenplatz",
+  "hn": "6",
+  "lat": 47.053652,
+  "lng": 8.3082733,
   "mieter": []
  },
  "luzern|hertensteinstrasse|19": {

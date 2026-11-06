@@ -95,12 +95,13 @@
       "Hertensteinstrasse",
       "Kapellgasse",
       "Grendelstrasse",
+      "Schwanenplatz",
       "Pilatusstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 11",
-    "offen": "129"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-06",
+    "eigentuemer_quelle": "Grundbuch LU (frühere Abfrage, Hertensteinstrasse 2–12); Eigentümer-Register (Geschäftsberichte/Fondsinventare SPS, UBS Sima, AXA, Schroder); Rest: Grundbuchplan LU (SMS, Kaito selbst) oder Grundbuchamt Luzern Ost, Kriens",
+    "offen": "130"
   },
   {
     "kanton": "SG",
