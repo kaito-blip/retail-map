@@ -115,9 +115,9 @@
       "Neugasse",
       "Webergasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12",
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-07",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12; 07.11.26 Register-Abgleich 0 neu (12 bestätigt); Rest: Grundbuchamt Stadt St.Gallen (Neugasse 1, grundbuchamt@stadt.sg.ch), Anfrageliste SG_St. Gallen.csv, keine Online-Abfrage",
     "offen": "131"
   },
   {

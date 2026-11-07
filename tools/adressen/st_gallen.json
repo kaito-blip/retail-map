@@ -396,6 +396,15 @@
    "Neugass"
   ]
  },
+ "st. gallen|multergasse|6": {
+  "street": "Multergasse",
+  "hn": "6",
+  "lat": 47.4246508,
+  "lng": 9.3759571,
+  "mieter": [
+   "Baumgartner"
+  ]
+ },
  "st. gallen|neugasse|3": {
   "street": "Neugasse",
   "hn": "3",
@@ -502,13 +511,6 @@
   "hn": "10",
   "lat": 47.4245213,
   "lng": 9.3758197,
-  "mieter": []
- },
- "st. gallen|multergasse|6": {
-  "street": "Multergasse",
-  "hn": "6",
-  "lat": 47.4246429,
-  "lng": 9.3760055,
   "mieter": []
  },
  "st. gallen|multergasse|31": {
