@@ -753,14 +753,14 @@
     "strassen": [
       "Dorfstrasse",
       "Klosterstrasse",
-      "Bahnhofplatz",
+      "Bahnhofstrasse",
       "Engelbergerstrasse",
       "Hinterdorfstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "128"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Grundbuchamt Obwalden, Aussenstelle Engelberg (Anfrage, Mailentwurf); Eigentümer-Register ohne Treffer",
+    "offen": "100"
   },
   {
     "kanton": "JU",

@@ -289,13 +289,6 @@
    "Evang.-ref. Kirche Engelberg"
   ]
  },
- "engelberg|dorfstrasse|80": {
-  "street": "Dorfstrasse",
-  "hn": "80",
-  "lat": 46.820346,
-  "lng": 8.3938137,
-  "mieter": []
- },
  "engelberg|dorfstrasse|48": {
   "street": "Dorfstrasse",
   "hn": "48",
@@ -317,39 +310,11 @@
   "lng": 8.4063527,
   "mieter": []
  },
- "engelberg|engelbergerstrasse|55": {
-  "street": "Engelbergerstrasse",
-  "hn": "55",
-  "lat": 46.8186233,
-  "lng": 8.3951339,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|57": {
-  "street": "Engelbergerstrasse",
-  "hn": "57",
-  "lat": 46.8188593,
-  "lng": 8.3940769,
-  "mieter": []
- },
  "engelberg|engelbergerstrasse|51": {
   "street": "Engelbergerstrasse",
   "hn": "51",
   "lat": 46.8184043,
   "lng": 8.3961658,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|53": {
-  "street": "Engelbergerstrasse",
-  "hn": "53",
-  "lat": 46.8183985,
-  "lng": 8.3956142,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|59": {
-  "street": "Engelbergerstrasse",
-  "hn": "59",
-  "lat": 46.8189011,
-  "lng": 8.3935893,
   "mieter": []
  },
  "engelberg|engelbergerstrasse|6": {
@@ -361,13 +326,6 @@
    "Alters- und Pflegeheim Erlenhaus"
   ]
  },
- "engelberg|dorfstrasse|82a": {
-  "street": "Dorfstrasse",
-  "hn": "82a",
-  "lat": 46.8205079,
-  "lng": 8.3926154,
-  "mieter": []
- },
  "engelberg|klosterstrasse|8a": {
   "street": "Klosterstrasse",
   "hn": "8a",
@@ -375,25 +333,11 @@
   "lng": 8.405664,
   "mieter": []
  },
- "engelberg|dorfstrasse|82f": {
-  "street": "Dorfstrasse",
-  "hn": "82f",
-  "lat": 46.8208361,
-  "lng": 8.3918954,
-  "mieter": []
- },
  "engelberg|engelbergerstrasse|42": {
   "street": "Engelbergerstrasse",
   "hn": "42",
   "lat": 46.8188271,
   "lng": 8.3980257,
-  "mieter": []
- },
- "engelberg|dorfstrasse|82b": {
-  "street": "Dorfstrasse",
-  "hn": "82b",
-  "lat": 46.8205815,
-  "lng": 8.3929601,
   "mieter": []
  },
  "engelberg|dorfstrasse|57": {
@@ -408,13 +352,6 @@
   "hn": "54",
   "lat": 46.8201131,
   "lng": 8.3984284,
-  "mieter": []
- },
- "engelberg|dorfstrasse|84a": {
-  "street": "Dorfstrasse",
-  "hn": "84a",
-  "lat": 46.8209441,
-  "lng": 8.392942,
   "mieter": []
  },
  "engelberg|hinterdorfstrasse|10": {
@@ -480,13 +417,6 @@
   "lng": 8.405722,
   "mieter": []
  },
- "engelberg|dorfstrasse|86": {
-  "street": "Dorfstrasse",
-  "hn": "86",
-  "lat": 46.8203042,
-  "lng": 8.392299,
-  "mieter": []
- },
  "engelberg|dorfstrasse|52a": {
   "street": "Dorfstrasse",
   "hn": "52a",
@@ -499,13 +429,6 @@
   "hn": "6",
   "lat": 46.8187578,
   "lng": 8.4031294,
-  "mieter": []
- },
- "engelberg|dorfstrasse|88": {
-  "street": "Dorfstrasse",
-  "hn": "88",
-  "lat": 46.8203288,
-  "lng": 8.3920088,
   "mieter": []
  },
  "engelberg|dorfstrasse|53c": {
@@ -538,13 +461,6 @@
   "lng": 8.4006064,
   "mieter": []
  },
- "engelberg|dorfstrasse|84": {
-  "street": "Dorfstrasse",
-  "hn": "84",
-  "lat": 46.8207452,
-  "lng": 8.3928225,
-  "mieter": []
- },
  "engelberg|dorfstrasse|26": {
   "street": "Dorfstrasse",
   "hn": "26",
@@ -557,13 +473,6 @@
   "hn": "53a",
   "lat": 46.8196822,
   "lng": 8.3980977,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|80": {
-  "street": "Engelbergerstrasse",
-  "hn": "80",
-  "lat": 46.8198047,
-  "lng": 8.3900105,
   "mieter": []
  },
  "engelberg|bahnhofstrasse|17": {
@@ -596,13 +505,6 @@
   "lng": 8.4030262,
   "mieter": []
  },
- "engelberg|dorfstrasse|82d": {
-  "street": "Dorfstrasse",
-  "hn": "82d",
-  "lat": 46.8207844,
-  "lng": 8.3922079,
-  "mieter": []
- },
  "engelberg|bahnhofstrasse|17a": {
   "street": "Bahnhofstrasse",
   "hn": "17a",
@@ -617,13 +519,6 @@
   "lng": 8.4029076,
   "mieter": []
  },
- "engelberg|dorfstrasse|82c": {
-  "street": "Dorfstrasse",
-  "hn": "82c",
-  "lat": 46.8207704,
-  "lng": 8.39251,
-  "mieter": []
- },
  "engelberg|hinterdorfstrasse|11": {
   "street": "Hinterdorfstrasse",
   "hn": "11",
@@ -636,13 +531,6 @@
   "hn": "5",
   "lat": 46.8187685,
   "lng": 8.4027845,
-  "mieter": []
- },
- "engelberg|dorfstrasse|82e": {
-  "street": "Dorfstrasse",
-  "hn": "82e",
-  "lat": 46.820662,
-  "lng": 8.3917756,
   "mieter": []
  },
  "engelberg|dorfstrasse|3": {
@@ -731,13 +619,6 @@
   "lng": 8.396966,
   "mieter": []
  },
- "engelberg|engelbergerstrasse|78": {
-  "street": "Engelbergerstrasse",
-  "hn": "78",
-  "lat": 46.8198418,
-  "lng": 8.3903619,
-  "mieter": []
- },
  "engelberg|hinterdorfstrasse|6": {
   "street": "Hinterdorfstrasse",
   "hn": "6",
@@ -787,25 +668,11 @@
   "lng": 8.4055153,
   "mieter": []
  },
- "engelberg|engelbergerstrasse|68": {
-  "street": "Engelbergerstrasse",
-  "hn": "68",
-  "lat": 46.8197683,
-  "lng": 8.3923087,
-  "mieter": []
- },
  "engelberg|dorfstrasse|10": {
   "street": "Dorfstrasse",
   "hn": "10",
   "lat": 46.8214789,
   "lng": 8.4064614,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|70": {
-  "street": "Engelbergerstrasse",
-  "hn": "70",
-  "lat": 46.8199897,
-  "lng": 8.3915876,
   "mieter": []
  },
  "engelberg|dorfstrasse|12": {
@@ -834,64 +701,6 @@
   "hn": "41",
   "lat": 46.8180627,
   "lng": 8.3977773,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|66": {
-  "street": "Engelbergerstrasse",
-  "hn": "66",
-  "lat": 46.8194807,
-  "lng": 8.3929648,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|117": {
-  "street": "Engelbergerstrasse",
-  "hn": "117",
-  "lat": 46.8233728,
-  "lng": 8.3859033,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|107": {
-  "street": "Engelbergerstrasse",
-  "hn": "107",
-  "lat": 46.8225895,
-  "lng": 8.3844005,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|109": {
-  "street": "Engelbergerstrasse",
-  "hn": "109",
-  "lat": 46.8227707,
-  "lng": 8.3847948,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|101": {
-  "street": "Engelbergerstrasse",
-  "hn": "101",
-  "lat": 46.8220711,
-  "lng": 8.3843842,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|121": {
-  "street": "Engelbergerstrasse",
-  "hn": "121",
-  "lat": 46.8241473,
-  "lng": 8.3851062,
-  "mieter": [
-   "Auto Portmann"
-  ]
- },
- "engelberg|dorfstrasse|90": {
-  "street": "Dorfstrasse",
-  "hn": "90",
-  "lat": 46.8203991,
-  "lng": 8.39183,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|105": {
-  "street": "Engelbergerstrasse",
-  "hn": "105",
-  "lat": 46.8223555,
-  "lng": 8.3840823,
   "mieter": []
  },
  "engelberg|hinterdorfstrasse|2": {
@@ -934,13 +743,6 @@
   "hn": "1",
   "lat": 46.8208225,
   "lng": 8.4053542,
-  "mieter": []
- },
- "engelberg|engelbergerstrasse|125": {
-  "street": "Engelbergerstrasse",
-  "hn": "125",
-  "lat": 46.8240836,
-  "lng": 8.3837199,
   "mieter": []
  },
  "engelberg|engelbergerstrasse|40": {
