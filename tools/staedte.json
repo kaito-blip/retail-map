@@ -367,9 +367,9 @@
       "Brünigstrasse",
       "Poststrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Grundbuchamt Obwalden (Anfrage per Mail, Entwurf OW_Sarnen_Anleitung.txt); Register ohne Treffer",
     "offen": "155"
   },
   {
