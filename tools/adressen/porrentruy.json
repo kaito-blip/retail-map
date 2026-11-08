@@ -34,12 +34,35 @@
    "Beerarium"
   ]
  },
+ "porrentruy|faubourg st-germain|22b": {
+  "street": "Faubourg St-Germain",
+  "hn": "22B",
+  "lat": 47.4177274,
+  "lng": 7.0795869,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|22a": {
+  "street": "Faubourg St-Germain",
+  "hn": "22A",
+  "lat": 47.4177224,
+  "lng": 7.0795582,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|22c": {
+  "street": "Faubourg St-Germain",
+  "hn": "22C",
+  "lat": 47.4177324,
+  "lng": 7.0796155,
+  "mieter": []
+ },
  "porrentruy|grand-rue|2": {
   "street": "Grand-Rue",
   "hn": "2",
   "lat": 47.41671,
   "lng": 7.0748467,
-  "mieter": []
+  "mieter": [
+   "pharmacie plus"
+  ]
  },
  "porrentruy|grand-rue|38": {
   "street": "Grand-Rue",
@@ -60,7 +83,9 @@
   "hn": "11",
   "lat": 47.4165298,
   "lng": 7.0742754,
-  "mieter": []
+  "mieter": [
+   "Boulangerie Roelli"
+  ]
  },
  "porrentruy|grand-rue|18": {
   "street": "Grand-Rue",
@@ -99,12 +124,28 @@
   "lng": 7.0740605,
   "mieter": []
  },
+ "porrentruy|rue pierre péquignat|7": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "7",
+  "lat": 47.4170655,
+  "lng": 7.0745062,
+  "mieter": []
+ },
  "porrentruy|rue des malvoisins|14": {
   "street": "Rue des Malvoisins",
   "hn": "14",
   "lat": 47.4173745,
   "lng": 7.0736299,
   "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|6": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "6",
+  "lat": 47.4171122,
+  "lng": 7.0748787,
+  "mieter": [
+   "A. Müller Watch Trading Sàrl"
+  ]
  },
  "porrentruy|allée des soupirs|1": {
   "street": "Allée des Soupirs",
@@ -121,7 +162,77 @@
   "lat": 47.4182488,
   "lng": 7.0740605,
   "mieter": [
-   "Salle de l’Inter"
+   "Salle de l’Inter",
+   "de l'Inter"
+  ]
+ },
+ "porrentruy|faubourg st-germain|26": {
+  "street": "Faubourg St-Germain",
+  "hn": "26",
+  "lat": 47.4174809,
+  "lng": 7.0797684,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|24": {
+  "street": "Faubourg St-Germain",
+  "hn": "24",
+  "lat": 47.41770515,
+  "lng": 7.0797272,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|22": {
+  "street": "Faubourg St-Germain",
+  "hn": "22",
+  "lat": 47.4176474,
+  "lng": 7.0793711,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|14": {
+  "street": "Faubourg St-Germain",
+  "hn": "14",
+  "lat": 47.416860400000004,
+  "lng": 7.07839435,
+  "mieter": [
+   "Gambrinus"
+  ]
+ },
+ "porrentruy|faubourg st-germain|16": {
+  "street": "Faubourg St-Germain",
+  "hn": "16",
+  "lat": 47.41696760000001,
+  "lng": 7.078395,
+  "mieter": [
+   "Empire Salon Barbier"
+  ]
+ },
+ "porrentruy|faubourg st-germain|18": {
+  "street": "Faubourg St-Germain",
+  "hn": "18",
+  "lat": 47.41744705,
+  "lng": 7.0787270499999995,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|16a": {
+  "street": "Faubourg St-Germain",
+  "hn": "16A",
+  "lat": 47.41693575,
+  "lng": 7.0786561500000005,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|20": {
+  "street": "Faubourg St-Germain",
+  "hn": "20",
+  "lat": 47.41735065,
+  "lng": 7.078977,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|3": {
+  "street": "Faubourg St-Germain",
+  "hn": "3",
+  "lat": 47.417139250000005,
+  "lng": 7.077659799999999,
+  "mieter": [
+   "Coop"
   ]
  },
  "porrentruy|rue du 23-juin|2": {
@@ -129,166 +240,247 @@
   "hn": "2",
   "lat": 47.4169229,
   "lng": 7.0761598,
-  "mieter": []
+  "mieter": [
+   "Benu"
+  ]
  },
  "porrentruy|rue du 23-juin|8": {
   "street": "Rue du 23-Juin",
   "hn": "8",
-  "lat": 47.416963,
-  "lng": 7.0756822,
+  "lat": 47.41696305,
+  "lng": 7.075682199999999,
+  "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|16": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "16",
+  "lat": 47.41739165,
+  "lng": 7.07472005,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|6": {
   "street": "Rue du 23-Juin",
   "hn": "6",
-  "lat": 47.4169537,
-  "lng": 7.0758798,
+  "lat": 47.41695375,
+  "lng": 7.07587985,
   "mieter": []
  },
  "porrentruy|allée des soupirs|3": {
   "street": "Allée des Soupirs",
   "hn": "3",
   "lat": 47.417524,
-  "lng": 7.0758737,
+  "lng": 7.07587365,
   "mieter": []
  },
  "porrentruy|allée des soupirs|13": {
   "street": "Allée des Soupirs",
   "hn": "13",
-  "lat": 47.4179934,
-  "lng": 7.075023,
+  "lat": 47.41799335,
+  "lng": 7.07502295,
   "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|4": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "4",
+  "lat": 47.41709365,
+  "lng": 7.0749807,
+  "mieter": [
+   "Atelier Culotté"
+  ]
  },
  "porrentruy|rue du 23-juin|4": {
   "street": "Rue du 23-Juin",
   "hn": "4",
   "lat": 47.4169463,
-  "lng": 7.0759906,
+  "lng": 7.07599065,
   "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|14": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "14",
+  "lat": 47.41734495,
+  "lng": 7.0747667,
+  "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|10": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "10",
+  "lat": 47.417210999999995,
+  "lng": 7.07485255,
+  "mieter": [
+   "Trois Quart"
+  ]
  },
  "porrentruy|allée des soupirs|7": {
   "street": "Allée des Soupirs",
   "hn": "7",
   "lat": 47.417617,
-  "lng": 7.0756852,
+  "lng": 7.075685200000001,
   "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|2": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "2",
+  "lat": 47.41699615,
+  "lng": 7.0750379,
+  "mieter": [
+   "Hôtel de Ville"
+  ]
  },
  "porrentruy|allée des soupirs|9": {
   "street": "Allée des Soupirs",
   "hn": "9",
-  "lat": 47.4177451,
-  "lng": 7.0755144,
+  "lat": 47.41774515,
+  "lng": 7.075514350000001,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|16": {
   "street": "Rue du 23-Juin",
   "hn": "16",
-  "lat": 47.4169549,
-  "lng": 7.0751884,
+  "lat": 47.416954849999996,
+  "lng": 7.07518845,
+  "mieter": [
+   "Esprit de Femmes"
+  ]
+ },
+ "porrentruy|rue pierre péquignat|26": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "26",
+  "lat": 47.417619650000006,
+  "lng": 7.0744278,
+  "mieter": [
+   "Asia Takeaway"
+  ]
+ },
+ "porrentruy|rue pierre péquignat|32": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "32",
+  "lat": 47.41771805,
+  "lng": 7.0742370999999995,
+  "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|24": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "24",
+  "lat": 47.41756,
+  "lng": 7.0744975,
+  "mieter": [
+   "Happy Bowl"
+  ]
+ },
+ "porrentruy|rue pierre péquignat|22": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "22",
+  "lat": 47.41751325,
+  "lng": 7.0745638,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|15": {
   "street": "Rue du 23-Juin",
   "hn": "15",
-  "lat": 47.4161639,
-  "lng": 7.0740139,
+  "lat": 47.41616395,
+  "lng": 7.07401385,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|30": {
   "street": "Rue du 23-Juin",
   "hn": "30",
-  "lat": 47.4163663,
+  "lat": 47.416366249999996,
   "lng": 7.0738225,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|19": {
   "street": "Rue du 23-Juin",
   "hn": "19",
-  "lat": 47.4160076,
+  "lat": 47.41600755,
   "lng": 7.0737508,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|13": {
   "street": "Rue du 23-Juin",
   "hn": "13",
-  "lat": 47.4162584,
+  "lat": 47.41625845,
   "lng": 7.0741422,
   "mieter": []
  },
  "porrentruy|rue des malvoisins|7": {
   "street": "Rue des Malvoisins",
   "hn": "7",
-  "lat": 47.4166395,
+  "lat": 47.41663955,
   "lng": 7.0737552,
-  "mieter": []
+  "mieter": [
+   "Brasserie des deux Clefs"
+  ]
  },
  "porrentruy|rue des malvoisins|11": {
   "street": "Rue des Malvoisins",
   "hn": "11",
-  "lat": 47.4167917,
+  "lat": 47.416791700000005,
   "lng": 7.0736065,
   "mieter": []
  },
  "porrentruy|rue des malvoisins|9": {
   "street": "Rue des Malvoisins",
   "hn": "9",
-  "lat": 47.4167119,
-  "lng": 7.0736833,
+  "lat": 47.41671185,
+  "lng": 7.07368325,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|28": {
   "street": "Rue du 23-Juin",
   "hn": "28",
-  "lat": 47.4164024,
-  "lng": 7.0739057,
+  "lat": 47.416402399999996,
+  "lng": 7.07390565,
   "mieter": []
  },
  "porrentruy|rue des malvoisins|9a": {
   "street": "Rue des Malvoisins",
   "hn": "9A",
   "lat": 47.416604,
-  "lng": 7.0735079,
+  "lng": 7.07350795,
   "mieter": []
  },
  "porrentruy|rue des malvoisins|15": {
   "street": "Rue des Malvoisins",
   "hn": "15",
-  "lat": 47.4168802,
-  "lng": 7.0734466,
+  "lat": 47.416880250000006,
+  "lng": 7.0734466000000005,
   "mieter": []
  },
  "porrentruy|rue des malvoisins|1": {
   "street": "Rue des Malvoisins",
   "hn": "1",
-  "lat": 47.4165156,
-  "lng": 7.073995,
-  "mieter": []
+  "lat": 47.41651565,
+  "lng": 7.07399495,
+  "mieter": [
+   "Amavita"
+  ]
  },
  "porrentruy|grand-rue|23": {
   "street": "Grand-Rue",
   "hn": "23",
-  "lat": 47.4159166,
+  "lat": 47.41591665,
   "lng": 7.0758255,
   "mieter": []
  },
  "porrentruy|grand-rue|19": {
   "street": "Grand-Rue",
   "hn": "19",
-  "lat": 47.4160123,
-  "lng": 7.0756372,
+  "lat": 47.41601225,
+  "lng": 7.07563715,
   "mieter": []
  },
  "porrentruy|grand-rue|27": {
   "street": "Grand-Rue",
   "hn": "27",
-  "lat": 47.4156775,
-  "lng": 7.0759047,
+  "lat": 47.41567755,
+  "lng": 7.075904700000001,
   "mieter": []
  },
  "porrentruy|grand-rue|21": {
   "street": "Grand-Rue",
   "hn": "21",
-  "lat": 47.4159588,
+  "lat": 47.415958849999996,
   "lng": 7.0757016,
   "mieter": []
  },
@@ -303,48 +495,50 @@
   "street": "Grand-Rue",
   "hn": "54",
   "lat": 47.4151875,
-  "lng": 7.0759298,
+  "lng": 7.07592985,
   "mieter": []
  },
  "porrentruy|grand-rue|9": {
   "street": "Grand-Rue",
   "hn": "9",
-  "lat": 47.4162823,
-  "lng": 7.0754718,
-  "mieter": []
+  "lat": 47.41628225,
+  "lng": 7.07547185,
+  "mieter": [
+   "Nazar"
+  ]
  },
  "porrentruy|grand-rue|48": {
   "street": "Grand-Rue",
   "hn": "48",
   "lat": 47.4153131,
-  "lng": 7.0757888,
+  "lng": 7.07578875,
   "mieter": []
  },
  "porrentruy|grand-rue|13": {
   "street": "Grand-Rue",
   "hn": "13",
-  "lat": 47.4161807,
-  "lng": 7.0755384,
+  "lat": 47.41618065,
+  "lng": 7.07553845,
   "mieter": []
  },
  "porrentruy|grand-rue|17": {
   "street": "Grand-Rue",
   "hn": "17",
-  "lat": 47.4160593,
-  "lng": 7.0756054,
+  "lat": 47.41605925,
+  "lng": 7.07560535,
   "mieter": []
  },
  "porrentruy|grand-rue|50": {
   "street": "Grand-Rue",
   "hn": "50",
-  "lat": 47.4152854,
-  "lng": 7.0758456,
+  "lat": 47.41528545,
+  "lng": 7.07584565,
   "mieter": []
  },
  "porrentruy|grand-rue|46": {
   "street": "Grand-Rue",
   "hn": "46",
-  "lat": 47.4153377,
+  "lat": 47.41533775,
   "lng": 7.0756911,
   "mieter": []
  },
@@ -352,41 +546,45 @@
   "street": "Grand-Rue",
   "hn": "44",
   "lat": 47.4153865,
-  "lng": 7.0756407,
+  "lng": 7.075640699999999,
   "mieter": []
  },
  "porrentruy|grand-rue|36": {
   "street": "Grand-Rue",
   "hn": "36",
   "lat": 47.4155935,
-  "lng": 7.0755278,
-  "mieter": []
+  "lng": 7.07552775,
+  "mieter": [
+   "Le Damasson"
+  ]
  },
  "porrentruy|grand-rue|32": {
   "street": "Grand-Rue",
   "hn": "32",
-  "lat": 47.415723,
+  "lat": 47.41572295,
   "lng": 7.0754476,
   "mieter": []
  },
  "porrentruy|grand-rue|34": {
   "street": "Grand-Rue",
   "hn": "34",
-  "lat": 47.4156878,
-  "lng": 7.0754807,
+  "lat": 47.415687750000004,
+  "lng": 7.07548075,
   "mieter": []
  },
  "porrentruy|grand-rue|8": {
   "street": "Grand-Rue",
   "hn": "8",
   "lat": 47.4163666,
-  "lng": 7.0749081,
-  "mieter": []
+  "lng": 7.07490805,
+  "mieter": [
+   "La Tabatière"
+  ]
  },
  "porrentruy|grand-rue|20": {
   "street": "Grand-Rue",
   "hn": "20",
-  "lat": 47.4160135,
+  "lat": 47.41601345,
   "lng": 7.075197,
   "mieter": []
  },
@@ -401,63 +599,278 @@
   "street": "Grand-Rue",
   "hn": "26",
   "lat": 47.4158398,
-  "lng": 7.0753609,
+  "lng": 7.07536085,
   "mieter": []
  },
  "porrentruy|grand-rue|4": {
   "street": "Grand-Rue",
   "hn": "4",
   "lat": 47.4164761,
-  "lng": 7.0748033,
-  "mieter": []
+  "lng": 7.074803299999999,
+  "mieter": [
+   "Nathalie Balmer",
+   "Les Matins Bleus"
+  ]
  },
  "porrentruy|rue du 23-juin|5": {
   "street": "Rue du 23-Juin",
   "hn": "5",
-  "lat": 47.4165861,
-  "lng": 7.0745967,
+  "lat": 47.41658615,
+  "lng": 7.0745967499999995,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|7": {
   "street": "Rue du 23-Juin",
   "hn": "7",
   "lat": 47.4165316,
-  "lng": 7.0745049,
+  "lng": 7.07450495,
   "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|13": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "13",
+  "lat": 47.4175202,
+  "lng": 7.073934550000001,
+  "mieter": [
+   "Le Camillo"
+  ]
  },
  "porrentruy|rue des malvoisins|12": {
   "street": "Rue des Malvoisins",
   "hn": "12",
-  "lat": 47.4173612,
-  "lng": 7.0737739,
+  "lat": 47.41736115,
+  "lng": 7.07377395,
+  "mieter": [
+   "Lion d'Or"
+  ]
+ },
+ "porrentruy|rue pierre péquignat|11": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "11",
+  "lat": 47.4174453,
+  "lng": 7.073983999999999,
   "mieter": []
  },
  "porrentruy|rue pierre-péquignat|1": {
   "street": "Rue Pierre-Péquignat",
   "hn": "1",
-  "lat": 47.4169124,
-  "lng": 7.0745075,
-  "mieter": []
+  "lat": 47.416912350000004,
+  "lng": 7.074507499999999,
+  "mieter": [
+   "La Gueule du Loup"
+  ]
  },
  "porrentruy|rue des malvoisins|2": {
   "street": "Rue des Malvoisins",
   "hn": "2",
-  "lat": 47.4167861,
-  "lng": 7.074286,
+  "lat": 47.416786099999996,
+  "lng": 7.07428595,
+  "mieter": [
+   "Au près de chez vous"
+  ]
+ },
+ "porrentruy|rue pierre péquignat|40": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "40",
+  "lat": 47.41830485,
+  "lng": 7.07363565,
+  "mieter": [
+   "Colonie Italienne"
+  ]
+ },
+ "porrentruy|rue pierre péquignat|46": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "46",
+  "lat": 47.41847865,
+  "lng": 7.0729839000000005,
   "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|34": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "34",
+  "lat": 47.4178807,
+  "lng": 7.07400915,
+  "mieter": [
+   "Di Nolfi Chaussures"
+  ]
  },
  "porrentruy|allée des soupirs|17": {
   "street": "Allée des Soupirs",
   "hn": "17",
-  "lat": 47.4185526,
-  "lng": 7.0738902,
+  "lat": 47.41855255,
+  "lng": 7.07389015,
   "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|19": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "19",
+  "lat": 47.4182834,
+  "lng": 7.0728925,
+  "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|17": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "17",
+  "lat": 47.41796645,
+  "lng": 7.0735072,
+  "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|15": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "15",
+  "lat": 47.4178044,
+  "lng": 7.07374485,
+  "mieter": [
+   "Citron Studio"
+  ]
+ },
+ "porrentruy|rue pierre péquignat|42": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "42",
+  "lat": 47.4182873,
+  "lng": 7.073407700000001,
+  "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|38": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "38",
+  "lat": 47.418251749999996,
+  "lng": 7.07381065,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|30b": {
+  "street": "Faubourg St-Germain",
+  "hn": "30B",
+  "lat": 47.41794075,
+  "lng": 7.07969165,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|28a": {
+  "street": "Faubourg St-Germain",
+  "hn": "28A",
+  "lat": 47.4179055,
+  "lng": 7.07930835,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|32": {
+  "street": "Faubourg St-Germain",
+  "hn": "32",
+  "lat": 47.41812205,
+  "lng": 7.0800217,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|30": {
+  "street": "Faubourg St-Germain",
+  "hn": "30",
+  "lat": 47.41810255,
+  "lng": 7.0794689,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|28": {
+  "street": "Faubourg St-Germain",
+  "hn": "28",
+  "lat": 47.4178053,
+  "lng": 7.07909435,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|30a": {
+  "street": "Faubourg St-Germain",
+  "hn": "30A",
+  "lat": 47.4179307,
+  "lng": 7.0794687,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|5b": {
+  "street": "Faubourg St-Germain",
+  "hn": "5b",
+  "lat": 47.4181423,
+  "lng": 7.0780179,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|5": {
+  "street": "Faubourg St-Germain",
+  "hn": "5",
+  "lat": 47.4178038,
+  "lng": 7.0781633500000005,
+  "mieter": [
+   "Le Monde du Cheval"
+  ]
  },
  "porrentruy|allée des soupirs|2": {
   "street": "Allée des Soupirs",
   "hn": "2",
-  "lat": 47.4190297,
-  "lng": 7.0746128,
+  "lat": 47.41902975,
+  "lng": 7.07461275,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|2": {
+  "street": "Faubourg St-Germain",
+  "hn": "2",
+  "lat": 47.4161609,
+  "lng": 7.0777148,
+  "mieter": [
+   "Esplanade Centre",
+   "Migros",
+   "Denner",
+   "Migros Florissimo",
+   "Sunrise",
+   "Tally Weijl",
+   "C&A",
+   "La Boutique du Coiffeur",
+   "Maximilien Coiffure",
+   "Swisscom",
+   "Yumi",
+   "Chicorée",
+   "Naville",
+   "Visilab",
+   "Sun Store",
+   "Dosenbach",
+   "ALDI",
+   "Code Style Bijouterie"
+  ]
+ },
+ "porrentruy|faubourg st-germain|1": {
+  "street": "Faubourg St-Germain",
+  "hn": "1",
+  "lat": 47.416807,
+  "lng": 7.0776549499999994,
+  "mieter": [
+   "Au Cabanon"
+  ]
+ },
+ "porrentruy|faubourg st-germain|32c": {
+  "street": "Faubourg St-Germain",
+  "hn": "32C",
+  "lat": 47.4184936,
+  "lng": 7.08000275,
+  "mieter": []
+ },
+ "porrentruy|faubourg st-germain|32a": {
+  "street": "Faubourg St-Germain",
+  "hn": "32A",
+  "lat": 47.4181067,
+  "lng": 7.0803275,
+  "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|20": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "20",
+  "lat": 47.417465899999996,
+  "lng": 7.0746226,
+  "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|18": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "18",
+  "lat": 47.41743805,
+  "lng": 7.0746692,
+  "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|30": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "30",
+  "lat": 47.41766375,
+  "lng": 7.07433605,
   "mieter": []
  },
  "porrentruy|grand-rue|52": {
@@ -470,140 +883,186 @@
  "porrentruy|grand-rue|42": {
   "street": "Grand-Rue",
   "hn": "42",
-  "lat": 47.4154534,
+  "lat": 47.41545335,
   "lng": 7.0756315,
-  "mieter": []
+  "mieter": [
+   "Africa Shop"
+  ]
  },
  "porrentruy|grand-rue|31": {
   "street": "Grand-Rue",
   "hn": "31",
-  "lat": 47.4154699,
+  "lat": 47.415469900000005,
   "lng": 7.0760439,
   "mieter": []
  },
  "porrentruy|grand-rue|7": {
   "street": "Grand-Rue",
   "hn": "7",
-  "lat": 47.4163308,
-  "lng": 7.0754379,
+  "lat": 47.41633075,
+  "lng": 7.0754379499999995,
   "mieter": []
  },
  "porrentruy|grand-rue|11": {
   "street": "Grand-Rue",
   "hn": "11",
-  "lat": 47.4162302,
-  "lng": 7.0755042,
-  "mieter": []
+  "lat": 47.41623015,
+  "lng": 7.07550415,
+  "mieter": [
+   "L'univ'Hair de Jade"
+  ]
  },
  "porrentruy|rue du 23-juin|1": {
   "street": "Rue du 23-Juin",
   "hn": "1",
-  "lat": 47.4167626,
+  "lat": 47.41676255,
   "lng": 7.0752027,
-  "mieter": []
+  "mieter": [
+   "Mille et une histoire"
+  ]
  },
  "porrentruy|grand-rue|1": {
   "street": "Grand-Rue",
   "hn": "1",
-  "lat": 47.416798,
+  "lat": 47.41679795,
   "lng": 7.0750689,
-  "mieter": []
+  "mieter": [
+   "La Croix Fédérale"
+  ]
  },
  "porrentruy|grand-rue|3": {
   "street": "Grand-Rue",
   "hn": "3",
   "lat": 47.4167025,
-  "lng": 7.0751225,
+  "lng": 7.07512255,
   "mieter": []
  },
  "porrentruy|grand-rue|1a": {
   "street": "Grand-Rue",
   "hn": "1A",
-  "lat": 47.4167532,
+  "lat": 47.41675315,
   "lng": 7.0750952,
-  "mieter": []
+  "mieter": [
+   "Coiff by Nicolas"
+  ]
  },
  "porrentruy|grand-rue|15": {
   "street": "Grand-Rue",
   "hn": "15",
   "lat": 47.4161151,
-  "lng": 7.075566,
+  "lng": 7.07556605,
   "mieter": []
  },
  "porrentruy|grand-rue|24": {
   "street": "Grand-Rue",
   "hn": "24",
-  "lat": 47.4158849,
-  "lng": 7.0753221,
-  "mieter": []
+  "lat": 47.41588485,
+  "lng": 7.0753220500000005,
+  "mieter": [
+   "Abn. Derik Barbier Coiffeur"
+  ]
  },
  "porrentruy|grand-rue|6": {
   "street": "Grand-Rue",
   "hn": "6",
   "lat": 47.4164113,
   "lng": 7.0748459,
-  "mieter": []
+  "mieter": [
+   "Lanta Thaï"
+  ]
  },
  "porrentruy|rue du 23-juin|17": {
   "street": "Rue du 23-Juin",
   "hn": "17",
   "lat": 47.4160833,
-  "lng": 7.0738671,
+  "lng": 7.07386715,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|32": {
   "street": "Rue du 23-Juin",
   "hn": "32",
   "lat": 47.4163068,
-  "lng": 7.0737166,
+  "lng": 7.07371655,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|26": {
   "street": "Rue du 23-Juin",
   "hn": "26",
-  "lat": 47.4164458,
+  "lat": 47.416445800000005,
   "lng": 7.0739774,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|9": {
   "street": "Rue du 23-Juin",
   "hn": "9",
-  "lat": 47.4164866,
+  "lat": 47.41648655,
   "lng": 7.0744259,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|22": {
   "street": "Rue du 23-Juin",
   "hn": "22",
-  "lat": 47.4168339,
-  "lng": 7.0745,
+  "lat": 47.41683395,
+  "lng": 7.074500049999999,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|24": {
   "street": "Rue du 23-Juin",
   "hn": "24",
-  "lat": 47.4167798,
+  "lat": 47.41677985,
   "lng": 7.0743874,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|20": {
   "street": "Rue du 23-Juin",
   "hn": "20",
-  "lat": 47.4168788,
-  "lng": 7.0746078,
+  "lat": 47.41687875,
+  "lng": 7.07460785,
+  "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|8": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "8",
+  "lat": 47.4171697,
+  "lng": 7.074884,
+  "mieter": [
+   "L'Imaginarium"
+  ]
+ },
+ "porrentruy|rue pierre péquignat|12": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "12",
+  "lat": 47.417279,
+  "lng": 7.07480625,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|14": {
   "street": "Rue du 23-Juin",
   "hn": "14",
-  "lat": 47.4169139,
-  "lng": 7.0753066,
+  "lat": 47.41691385,
+  "lng": 7.07530665,
+  "mieter": [
+   "Chaussures L'Escarpin"
+  ]
+ },
+ "porrentruy|rue pierre péquignat|36": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "36",
+  "lat": 47.4179513,
+  "lng": 7.073916499999999,
+  "mieter": []
+ },
+ "porrentruy|rue pierre péquignat|44": {
+  "street": "Rue Pierre Péquignat",
+  "hn": "44",
+  "lat": 47.418427050000005,
+  "lng": 7.07308905,
   "mieter": []
  },
  "porrentruy|rue pierre-péquignat|9": {
   "street": "Rue Pierre-Péquignat",
   "hn": "9",
-  "lat": 47.4172415,
+  "lat": 47.41724155,
   "lng": 7.0740688,
   "mieter": [
    "Hôtel des Halles"
@@ -613,7 +1072,7 @@
   "street": "Grand-Rue",
   "hn": "30",
   "lat": 47.4157589,
-  "lng": 7.0754212,
+  "lng": 7.07542115,
   "mieter": []
  },
  "porrentruy|grand-rue|28": {
@@ -626,15 +1085,15 @@
  "porrentruy|grand-rue|22": {
   "street": "Grand-Rue",
   "hn": "22",
-  "lat": 47.4159451,
+  "lat": 47.41594505,
   "lng": 7.0752589,
   "mieter": []
  },
  "porrentruy|rue du 23-juin|3": {
   "street": "Rue du 23-Juin",
   "hn": "3",
-  "lat": 47.416634,
-  "lng": 7.0746671,
+  "lat": 47.416633950000005,
+  "lng": 7.07466715,
   "mieter": []
  }
 }

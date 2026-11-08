@@ -770,14 +770,16 @@
     "strassen": [
       "Grand-Rue",
       "Rue Pierre-Péquignat",
+      "Rue Pierre Péquignat",
       "Rue des Malvoisins",
       "Allée des Soupirs",
-      "Rue du 23-Juin"
+      "Rue du 23-Juin",
+      "Faubourg St-Germain"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "89"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (tools/register_abgleich.py): 0; alle offen, Anfrage Registre foncier JU vorbereitet (JU_Porrentruy.csv)",
+    "offen": "144"
   },
   {
     "kanton": "ZH",
