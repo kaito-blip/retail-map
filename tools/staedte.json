@@ -419,9 +419,9 @@
       "Platz",
       "Kasernenstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (tools/register_abgleich.py): 0 Treffer; Rest Anfrage Grundbuchamt Herisau (Grundbuchamt@herisau.ar.ch, verifiziert 08.11.2026) oder Einzelabfrage geoportal.ch (Eigentümeranzeige ungeprüft)",
     "offen": "282"
   },
   {
