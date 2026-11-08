@@ -1,13 +1,4 @@
 {
- "solothurn|hauptbahnhofstrasse|2": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "2",
-  "lat": 47.2051064,
-  "lng": 7.5405056,
-  "mieter": [
-   "Medbase"
-  ]
- },
  "solothurn|hauptgasse|53": {
   "street": "Hauptgasse",
   "hn": "53",
@@ -51,6 +42,16 @@
   "lng": 7.5365822,
   "mieter": []
  },
+ "solothurn|schmiedengasse|1": {
+  "street": "Schmiedengasse",
+  "hn": "1",
+  "lat": 47.2072632,
+  "lng": 7.5350978,
+  "mieter": [
+   "Fryhof Bistro",
+   "Fryhof Lounge"
+  ]
+ },
  "solothurn|hauptgasse|41": {
   "street": "Hauptgasse",
   "hn": "41",
@@ -76,15 +77,6 @@
   "lng": 7.5357718,
   "mieter": [
    "Lüthy Balmer Stocker"
-  ]
- },
- "solothurn|hauptbahnhofstrasse|4": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "4",
-  "lat": 47.2049949,
-  "lng": 7.5407086,
-  "mieter": [
-   "Steiner"
   ]
  },
  "solothurn|stalden|17": {
@@ -130,6 +122,15 @@
   "lng": 7.5359462,
   "mieter": [
    "Rituals ..."
+  ]
+ },
+ "solothurn|schmiedengasse|2": {
+  "street": "Schmiedengasse",
+  "hn": "2",
+  "lat": 47.2073525,
+  "lng": 7.5352098,
+  "mieter": [
+   "SchmuckZyt Ruchti"
   ]
  },
  "solothurn|hauptgasse|50": {
@@ -323,6 +324,15 @@
    "Nasevelo"
   ]
  },
+ "solothurn|schmiedengasse|31": {
+  "street": "Schmiedengasse",
+  "hn": "31",
+  "lat": 47.2080308,
+  "lng": 7.5348927,
+  "mieter": [
+   "Walder"
+  ]
+ },
  "solothurn|gurzelngasse|30": {
   "street": "Gurzelngasse",
   "hn": "30",
@@ -330,6 +340,15 @@
   "lng": 7.5353663,
   "mieter": [
    "Lüthy Paperlove"
+  ]
+ },
+ "solothurn|schmiedengasse|23": {
+  "street": "Schmiedengasse",
+  "hn": "23",
+  "lat": 47.2078473,
+  "lng": 7.5349027,
+  "mieter": [
+   "Barock Job AG"
   ]
  },
  "solothurn|hauptgasse|11": {
@@ -432,15 +451,6 @@
    "McOptic"
   ]
  },
- "solothurn|hauptbahnhofstrasse|8-10": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "8-10",
-  "lat": 47.2046768,
-  "lng": 7.5412424,
-  "mieter": [
-   "Amplifon"
-  ]
- },
  "solothurn|hauptgasse|60": {
   "street": "Hauptgasse",
   "hn": "60",
@@ -448,6 +458,15 @@
   "lng": 7.5376854,
   "mieter": [
    "Jesuitenkirche"
+  ]
+ },
+ "solothurn|schmiedengasse|7": {
+  "street": "Schmiedengasse",
+  "hn": "7",
+  "lat": 47.2074505,
+  "lng": 7.5349911,
+  "mieter": [
+   "Münzen Eppler"
   ]
  },
  "solothurn|gurzelngasse|12": {
@@ -557,50 +576,6 @@
    "dress-up!"
   ]
  },
- "solothurn|hauptbahnhofstrasse|7": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "7",
-  "lat": 47.2049559,
-  "lng": 7.5414198,
-  "mieter": [
-   "Stadtrösterei"
-  ]
- },
- "solothurn|hauptbahnhofstrasse|10": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "10",
-  "lat": 47.2046206,
-  "lng": 7.5414516,
-  "mieter": []
- },
- "solothurn|hauptbahnhofstrasse|12": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "12",
-  "lat": 47.2045501,
-  "lng": 7.541577,
-  "mieter": []
- },
- "solothurn|hauptbahnhofstrasse|8": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "8",
-  "lat": 47.2046779,
-  "lng": 7.5413493,
-  "mieter": []
- },
- "solothurn|hauptbahnhofstrasse|3": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "3",
-  "lat": 47.2051497,
-  "lng": 7.540947,
-  "mieter": []
- },
- "solothurn|hauptbahnhofstrasse|5": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "5",
-  "lat": 47.2050315,
-  "lng": 7.5411559,
-  "mieter": []
- },
  "solothurn|hauptgasse|33": {
   "street": "Hauptgasse",
   "hn": "33",
@@ -609,13 +584,6 @@
   "mieter": [
    "stadtoptik"
   ]
- },
- "solothurn|hauptbahnhofstrasse|1": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "1",
-  "lat": 47.2052216,
-  "lng": 7.5408658,
-  "mieter": []
  },
  "solothurn|hauptgasse|9": {
   "street": "Hauptgasse",
@@ -753,6 +721,89 @@
    "Lila, schöne Dinge"
   ]
  },
+ "solothurn|schmiedengasse|5": {
+  "street": "Schmiedengasse",
+  "hn": "5",
+  "lat": 47.2074121,
+  "lng": 7.5350601,
+  "mieter": [
+   "Schmuckwerk 26"
+  ]
+ },
+ "solothurn|schmiedengasse|9": {
+  "street": "Schmiedengasse",
+  "hn": "9",
+  "lat": 47.2075029,
+  "lng": 7.5349989,
+  "mieter": []
+ },
+ "solothurn|schmiedengasse|11": {
+  "street": "Schmiedengasse",
+  "hn": "11",
+  "lat": 47.2075389,
+  "lng": 7.534984,
+  "mieter": []
+ },
+ "solothurn|schmiedengasse|13": {
+  "street": "Schmiedengasse",
+  "hn": "13",
+  "lat": 47.2075819,
+  "lng": 7.5349697,
+  "mieter": []
+ },
+ "solothurn|schmiedengasse|15": {
+  "street": "Schmiedengasse",
+  "hn": "15",
+  "lat": 47.2076403,
+  "lng": 7.5349556,
+  "mieter": []
+ },
+ "solothurn|schmiedengasse|17": {
+  "street": "Schmiedengasse",
+  "hn": "17",
+  "lat": 47.2076929,
+  "lng": 7.5349461,
+  "mieter": [
+   "Lovely Brows"
+  ]
+ },
+ "solothurn|schmiedengasse|19": {
+  "street": "Schmiedengasse",
+  "hn": "19",
+  "lat": 47.2077504,
+  "lng": 7.5349381,
+  "mieter": []
+ },
+ "solothurn|schmiedengasse|21": {
+  "street": "Schmiedengasse",
+  "hn": "21",
+  "lat": 47.2078077,
+  "lng": 7.5349333,
+  "mieter": []
+ },
+ "solothurn|schmiedengasse|25": {
+  "street": "Schmiedengasse",
+  "hn": "25",
+  "lat": 47.2078921,
+  "lng": 7.5349286,
+  "mieter": [
+   "Kocher Immobilien AG"
+  ]
+ },
+ "solothurn|schmiedengasse|27": {
+  "street": "Schmiedengasse",
+  "hn": "27",
+  "lat": 47.2079348,
+  "lng": 7.5349268,
+  "mieter": []
+ },
+ "solothurn|schmiedengasse|33": {
+  "street": "Schmiedengasse",
+  "hn": "33",
+  "lat": 47.2080565,
+  "lng": 7.5349237,
+  "mieter": []
+ },
  "solothurn|hauptgasse|46": {
   "street": "Hauptgasse",
   "hn": "46",
@@ -789,6 +840,15 @@
   "lat": 47.2080613,
   "lng": 7.5364476,
   "mieter": []
+ },
+ "solothurn|schmiedengasse|4": {
+  "street": "Schmiedengasse",
+  "hn": "4",
+  "lat": 47.2075251,
+  "lng": 7.5354305,
+  "mieter": [
+   "La Profumeteca"
+  ]
  },
  "solothurn|stalden|9": {
   "street": "Stalden",
@@ -883,13 +943,6 @@
   "lng": 7.5359611,
   "mieter": []
  },
- "solothurn|hauptbahnhofstrasse|9": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "9",
-  "lat": 47.2047016,
-  "lng": 7.5417938,
-  "mieter": []
- },
  "solothurn|gurzelngasse|35": {
   "street": "Gurzelngasse",
   "hn": "35",
@@ -932,11 +985,11 @@
   "lng": 7.5355451,
   "mieter": []
  },
- "solothurn|hauptbahnhofstrasse|6": {
-  "street": "Hauptbahnhofstrasse",
-  "hn": "6",
-  "lat": 47.2049099,
-  "lng": 7.540824,
+ "solothurn|schmiedengasse|20": {
+  "street": "Schmiedengasse",
+  "hn": "20",
+  "lat": 47.2078252,
+  "lng": 7.5350352,
   "mieter": []
  },
  "solothurn|gurzelngasse|13": {
@@ -993,6 +1046,13 @@
   "hn": "70",
   "lat": 47.2085498,
   "lng": 7.5398974,
+  "mieter": []
+ },
+ "solothurn|schmiedengasse|29": {
+  "street": "Schmiedengasse",
+  "hn": "29",
+  "lat": 47.2079667,
+  "lng": 7.5348137,
   "mieter": []
  },
  "solothurn|gurzelngasse|6": {

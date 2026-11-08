@@ -8,9 +8,9 @@ Testabfragen: Eine Eigentümerabfrage per curl kam in keinem Kanton zustande, we
 ## Kernergebnis
 
 - **Kein Kanton liefert den Eigentümernamen frei per API oder JSON.** Überall gilt die Rechtsgrenze: Abfrage nur zu einem bestimmten Grundstück, Serienabfragen sind verboten (Art. 27 GBV, BGer 5A_279/2019).
-- **Frei ohne Login und ohne Captcha:** GE [B], BS [B] (10 pro Tag), FR RFpublic [V] (nur Formular-POST), AI und AR über geoportal.ch [S].
+- **Frei ohne Login und ohne Captcha:** SO [V 08.11.2026, geo.so.ch], GE [B], BS [B] (10 pro Tag), FR RFpublic [V] (nur Formular-POST), AI und AR über geoportal.ch [S].
 - **Online mit Hürde:** ZH (SMS), ZG (SMS), VD (SMS, 5 pro Tag), GR (Captcha oder SMS), SZ, NE, BL und TG (Captcha), VS (Login, 10 pro Tag), AG (Gratiskonto), BE (AGOV) [B].
-- **Nur auf Anfrage beim Grundbuchamt:** SO [B], GL, SH, UR, NW, TI, SG (kantonal; einzelne Gemeinden haben eigene Portale), OW (online nur für Registrierte). LU und JU sind unklar.
+- **Nur auf Anfrage beim Grundbuchamt:** GL, SH, UR, NW, TI, SG (kantonal; einzelne Gemeinden haben eigene Portale), OW (online nur für Registrierte). LU und JU sind unklar.
 - Formlos ist die Auskunft nach Art. 970 Abs. 2 ZGB (Eigentümer ohne Interessennachweis) in allen Kantonen zu haben. Belegte Kosten: ZG ab CHF 45 für die verbindliche Liste, UR CHF 20 pro Auszug online [S]. Sonst gilt die Gebühr nach Aufwand, Beträge nicht gefunden.
 
 ## Tabelle
@@ -27,7 +27,7 @@ Testabfragen: Eine Eigentümerabfrage per curl kam in keinem Kanton zustande, we
 | GL | map.geo.gl.ch [V, kein Eigentümer-Layer] | nur auf Anfrage | k.A. | nein | Grundbuchamt Glarus, Zwinglistrasse 6, 8750 Glarus, 055 646 66 50, grundbuchamt@gl.ch [S] |
 | ZG | ZugMap zugmap.ch; zg.ch/de/planen-bauen/grundbuch/eigentuemerauskunft [V] | gratis, Registrierung mit CH-Handynummer und SMS [S] | Nutzungsbestimmungen nicht gesehen | nein | Grundbuch Zug, Aabachstrasse 5, 6301 Zug, 041 594 56 00, info.agg@zg.ch [V]; verbindliche Eigentümerliste per Formular oder Post, ab CHF 45 [V]; Schalter und Telefon möglich [V] |
 | FR | **RFpublic** keycloak.fr.ch/rfpublic/ [V]; Profi: Intercapi www.rf.fr.ch/intercapi (Bewilligung) [V] | **gratis, ohne Login, ohne Captcha** [V] (Art. 53a kant. GBG, ohne öffentlichen Glauben) | kein Limit und kein Captcha gesehen [V] | **halb**: JSP-Formular-POST `selectCommune.jsp` → `v2TAffImmx01.jsp` (Felder `selcom`, `noIm`, `rue`), kein JSON [V]; nicht abgeschickt, ob ein Name zurückkommt ist ungetestet | nicht nötig; Registre foncier de la Sarine nicht erhoben (fr.ch/rf) |
-| SO | per Mail ans Grundbuchamt [B]; so.ch/services/grundbuch-eigentuemerauskunft-anfragen-bestellen/ | Bestellung [B] | Mail-Anfrage kostenpflichtig [S] | nein | Grundbuchamt der Amtei [B] |
+| SO | **Online-Eigentümerabfrage** geo.so.ch/map/grundstuecksinformation: Grundstück anklicken, Infobox «Eigentümerinformation» [V so.ch 08.11.2026]; Info so.ch/services/grundbuch-eigentuemerauskunft-anfragen-bestellen/ [V] | gratis, laut so.ch keine Vorbedingungen [V]; Eigentümer können sich sperren lassen [V] | kein Limit genannt; Art. 27 GBV; Eigentumsbescheinigung per Mail/Schalter bis 10 Personen pro Tag gebührenfrei, darüber Aufwand und evtl. Interessennachweis [V] | nein (interaktiv) | Stadt Solothurn: Amtschreiberei Region Solothurn, Grundbuchamt, Rötistrasse 4, 4502 Solothurn, 032 627 76 55, gb.so@fd.so.ch [V 08.11.2026]; Direktlink-Muster geo.so.ch/map/grundstuecksinformation?c=E,N&s=500 |
 | BS | MapBS map.geo.bs.ch, Parzelle → Grundstücksinformation [B] | ohne Login [B] | 10 pro IP und Tag [B] | nein (interaktiv) | k.A. |
 | BL | Eigentumsauskunft über GeoView geoview.bl.ch [V erreichbar, JS-App]; baselland.ch → Grundbuchamt → Eigentumsauskunft (403 bei curl) | öffentlich seit 10.11.2020 [S] | Captcha vor jeder Abfrage; früheres Limit 10 pro 24 h weggefallen; Serienabfragen verboten; Sperre möglich [S] | nein (Captcha) | Grundbuchamt BL, nicht erhoben (Seite 403) |
 | SH | map.geo.sh.ch [V, kein Eigentümer-Layer belegt] | nur auf Anfrage | Gebühr nach Aufwand [S] | nein | Grundbuchamt Schaffhausen, gbamt@ktsh.ch [S], Mühlentalstrasse 105, 8200 Schaffhausen [S] |
@@ -46,7 +46,7 @@ Testabfragen: Eine Eigentümerabfrage per curl kam in keinem Kanton zustande, we
 
 ## Notizen
 
-- **Für das Mapping praktikabel:** Einzelabfragen interaktiv in GE, BS, FR, AI/AR sowie (mit Captcha oder SMS) in ZH, ZG, SZ, BL, TG, GR, NE und VD. Für Lagen in GL, SH, UR, NW, TI, SG, SO und LU sammelt man die Parzellen (Parzellennummer oder EGRID aus dem Geoportal) und schickt pro Grundbuchamt eine Mail mit der Liste. Das ist zulässig, solange jede Parzelle einzeln benannt ist.
+- **Für das Mapping praktikabel:** Einzelabfragen interaktiv in GE, BS, FR, SO, AI/AR sowie (mit Captcha oder SMS) in ZH, ZG, SZ, BL, TG, GR, NE und VD. Für Lagen in GL, SH, UR, NW, TI, SG und LU sammelt man die Parzellen (Parzellennummer oder EGRID aus dem Geoportal) und schickt pro Grundbuchamt eine Mail mit der Liste. Das ist zulässig, solange jede Parzelle einzeln benannt ist.
 - **Geteilte Kontingente:** VD 5 pro Tag, ZH 5 pro Tag, BS 10 pro Tag, VS 10 pro Tag, GR 10 ohne bzw. 50 mit Login.
 - **FR** ist der einzige frei zugängliche, formularbasierte Dienst ohne Captcha. Vor jeder Automatisierung müssen Nutzungsbedingungen und Serienverbot geprüft werden. Testen kann man ihn nur durch Absenden des Formulars, das ist hier nicht passiert.
 - **Offen:** offizielle E-Mail-Adressen der Grundbuchämter LU, SZ, BL, SG (Stadt), GR (Chur), TG, VD (Lausanne), VS, NE, FR (Sarine) und Zürich-Stadt; ob LU eine Eigentümerabfrage im Grundbuchplan anbietet; ob AR und AI auf geoportal.ch aktuell ohne Login Eigentümer zeigen.

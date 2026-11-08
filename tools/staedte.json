@@ -179,14 +179,14 @@
     "strassen": [
       "Hauptgasse",
       "Gurzelngasse",
-      "Marktplatz",
       "Stalden",
-      "Hauptbahnhofstrasse"
+      "Marktplatz",
+      "Schmiedengasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
-    "offen": "136"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2; Rest: Online-Eigentümerabfrage geo.so.ch/map/grundstuecksinformation (gratis, einzeln durch Kaito) oder Grundbuchamt Region Solothurn gb.so@fd.so.ch",
+    "offen": "143"
   },
   {
     "kanton": "FR",
