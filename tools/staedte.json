@@ -555,15 +555,15 @@
     "radius": 800,
     "strassen": [
       "Piazza Grande",
-      "Via Ramogna",
-      "Via della Stazione",
-      "Largo Zorzi",
-      "Via Cittadella"
+      "Via alla Ramogna",
+      "Largo Franco Zorzi",
+      "Via Cittadella",
+      "Via Borghese"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "118"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (UBS Swissreal Piazza Grande 1, UBS 1a Immo PK Largo Zorzi 1/6, AXA AST Via alla Ramogna 8 / Via Borghese 15): 5; Rest über Ufficio del registro fondiario di Locarno, Via della Posta 9, 6601 Locarno, di-rf.locarno@ti.ch (verifiziert)",
+    "offen": "83"
   },
   {
     "kanton": "ZG",
