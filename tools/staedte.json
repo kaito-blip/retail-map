@@ -958,12 +958,12 @@
       "Klosterplatz",
       "Kronenstrasse",
       "Schmiedenstrasse",
-      "Bahnhofplatz"
+      "Bahnhofplatz", "Eisenbahnstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "148"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-09",
+    "eigentuemer_quelle": "Eigentümer-Register (VERIT/Raiffeisen Futura, Hauptstrasse 73-79); Rest Anfrageliste SZ_Einsiedeln.csv (WebGIS SZ mit Captcha oder Notariat Grundbuch- und Konkursamt Einsiedeln)",
+    "offen": "186"
   },
   {
     "kanton": "ZH",
