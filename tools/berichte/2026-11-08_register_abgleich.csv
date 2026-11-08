@@ -1,7 +1,4 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
-owner;montreux|avenue des alpes|58;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";;Eigentümer lt. Investis: Annual Report 2025, 2.5 Property portfolio details S. 110–111 (31.12.2025), Alleineigentum
-owner;montreux|grand'rue|26;Bonhôte-Immobilier SICAV;;Eigentümer lt. Bonhôte-Immobilier: Rapport annuel 31.03.2026, Inventaire des immeubles S. 25-28 (31.03.2026)
-owner;montreux|grand'rue|46;GEP SA für FIR Fonds Immobilier Romand;;Eigentümer lt. FIR: Rapport annuel au 30.06.2026, Inventaire de la fortune S. 33-41 (Strassennamen ohne Typ wie im Bericht) (30.06.2026)
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -285,7 +282,10 @@ bestätigt;montreux|avenue des alpes|50;;"Investis Holding SA (Gruppe; Eigentum 
 bestätigt;montreux|avenue des alpes|52;;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";
 bestätigt;montreux|avenue des alpes|54;;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";
 bestätigt;montreux|avenue des alpes|56;;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";
+bestätigt;montreux|avenue des alpes|58;;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";
 bestätigt;montreux|avenue des alpes|74;;Schweizerische Bundesbahnen SBB;
+bestätigt;montreux|grand'rue|26;;Bonhôte-Immobilier SICAV;
+bestätigt;montreux|grand'rue|46;;GEP SA für FIR Fonds Immobilier Romand;
 bestätigt;montreux|grand-rue|3;;Helvetica Property Investors AG für Helvetica Swiss Commercial Fund;
 bestätigt;montreux|rue du théâtre|6c;;Bonhôte-Immobilier SICAV;
 bestätigt;morges|grand-rue|4;;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";

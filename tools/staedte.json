@@ -538,12 +538,15 @@
       "Hauptplatz",
       "Fischmarktplatz",
       "Untere Bahnhofstrasse",
-      "Halsgasse"
+      "Obere Bahnhofstrasse",
+      "Halsgasse",
+      "Hintergasse",
+      "Kluggasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-    "offen": "80"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (UBS Sima Obere Bahnhofstr. 32a/b/c, SPA Untere Bahnhofstr. 19/21): 5; Rest über Grundbuchamt Rapperswil-Jona, St. Gallerstrasse 23, 8645 Jona, 055 225 71 10 (verifiziert, nur Kontaktformular)",
+    "offen": "135"
   },
   {
     "kanton": "TI",

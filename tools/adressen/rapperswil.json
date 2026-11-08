@@ -99,6 +99,15 @@
    "Nautic Pub"
   ]
  },
+ "rapperswil|hintergasse|14": {
+  "street": "Hintergasse",
+  "hn": "14",
+  "lat": 47.226758,
+  "lng": 8.8154281,
+  "mieter": [
+   "Aphrodite Kosmetikstudio"
+  ]
+ },
  "rapperswil|marktgasse|9": {
   "street": "Marktgasse",
   "hn": "9",
@@ -197,6 +206,15 @@
    "Aung Kyaw"
   ]
  },
+ "rapperswil|kluggasse|2": {
+  "street": "Kluggasse",
+  "hn": "2",
+  "lat": 47.226999,
+  "lng": 8.8166525,
+  "mieter": [
+   "Frauenhof"
+  ]
+ },
  "rapperswil|obere bahnhofstrasse|32a": {
   "street": "Obere Bahnhofstrasse",
   "hn": "32a",
@@ -233,6 +251,15 @@
   "mieter": [
    "Leuzinger",
    "Valentino"
+  ]
+ },
+ "rapperswil|kluggasse|5": {
+  "street": "Kluggasse",
+  "hn": "5",
+  "lat": 47.227173,
+  "lng": 8.8168718,
+  "mieter": [
+   "BRITS PASSION"
   ]
  },
  "rapperswil|untere bahnhofstrasse|5": {
@@ -319,6 +346,15 @@
   "mieter": [
    "Tchibo",
    "trennpunkt.ch"
+  ]
+ },
+ "rapperswil|hintergasse|12": {
+  "street": "Hintergasse",
+  "hn": "12",
+  "lat": 47.2267721,
+  "lng": 8.8154951,
+  "mieter": [
+   "Salon Hintergass"
   ]
  },
  "rapperswil|halsgasse|34": {
@@ -494,6 +530,25 @@
    "Three Men's Kebap"
   ]
  },
+ "rapperswil|kluggasse|6": {
+  "street": "Kluggasse",
+  "hn": "6",
+  "lat": 47.227047,
+  "lng": 8.8169031,
+  "mieter": [
+   "Bubble Bee",
+   "Corinne Schriber Goldschmied"
+  ]
+ },
+ "rapperswil|kluggasse|15": {
+  "street": "Kluggasse",
+  "hn": "15",
+  "lat": 47.2274467,
+  "lng": 8.8175589,
+  "mieter": [
+   "The Wisky Store"
+  ]
+ },
  "rapperswil|halsgasse|27": {
   "street": "Halsgasse",
   "hn": "27",
@@ -502,6 +557,70 @@
   "mieter": [
    "perle de rose",
    "QuikSilber"
+  ]
+ },
+ "rapperswil|kluggasse|19": {
+  "street": "Kluggasse",
+  "hn": "19",
+  "lat": 47.2275524,
+  "lng": 8.8177597,
+  "mieter": [
+   "beatrix travel"
+  ]
+ },
+ "rapperswil|kluggasse|9": {
+  "street": "Kluggasse",
+  "hn": "9",
+  "lat": 47.2273414,
+  "lng": 8.8173588,
+  "mieter": [
+   "FOOD OF THE CAPE"
+  ]
+ },
+ "rapperswil|kluggasse|14": {
+  "street": "Kluggasse",
+  "hn": "14",
+  "lat": 47.2272474,
+  "lng": 8.8173546,
+  "mieter": [
+   "Sunheart art+tattoo"
+  ]
+ },
+ "rapperswil|kluggasse|10": {
+  "street": "Kluggasse",
+  "hn": "10",
+  "lat": 47.2271688,
+  "lng": 8.8171687,
+  "mieter": [
+   "Dolce Vento"
+  ]
+ },
+ "rapperswil|kluggasse|8": {
+  "street": "Kluggasse",
+  "hn": "8",
+  "lat": 47.2272292,
+  "lng": 8.8170214,
+  "mieter": [
+   "Molteni&C",
+   "Coiffeur Hannes Staub"
+  ]
+ },
+ "rapperswil|kluggasse|12": {
+  "street": "Kluggasse",
+  "hn": "12",
+  "lat": 47.2272096,
+  "lng": 8.8172736,
+  "mieter": [
+   "jou flowers"
+  ]
+ },
+ "rapperswil|hintergasse|8": {
+  "street": "Hintergasse",
+  "hn": "8",
+  "lat": 47.2269778,
+  "lng": 8.8160476,
+  "mieter": [
+   "Brits' Passion"
   ]
  },
  "rapperswil|halsgasse|23": {
@@ -513,6 +632,15 @@
    "Weber Goldschmied-Handarbeit"
   ]
  },
+ "rapperswil|kluggasse|11": {
+  "street": "Kluggasse",
+  "hn": "11",
+  "lat": 47.2273694,
+  "lng": 8.8174252,
+  "mieter": [
+   "Boppart Beauty Studio"
+  ]
+ },
  "rapperswil|obere bahnhofstrasse|30": {
   "street": "Obere Bahnhofstrasse",
   "hn": "30",
@@ -520,6 +648,15 @@
   "lng": 8.8184876,
   "mieter": [
    "MY BEAUTY"
+  ]
+ },
+ "rapperswil|kluggasse|4": {
+  "street": "Kluggasse",
+  "hn": "4",
+  "lat": 47.2270041,
+  "lng": 8.8167691,
+  "mieter": [
+   "House of Spice"
   ]
  },
  "rapperswil|marktgasse|15": {
@@ -552,6 +689,15 @@
   "lng": 8.8164259,
   "mieter": []
  },
+ "rapperswil|kluggasse|21": {
+  "street": "Kluggasse",
+  "hn": "21",
+  "lat": 47.2276058,
+  "lng": 8.8178592,
+  "mieter": [
+   "trecose frauenmode"
+  ]
+ },
  "rapperswil|marktgasse|21": {
   "street": "Marktgasse",
   "hn": "21",
@@ -567,6 +713,15 @@
   "lat": 47.227916,
   "lng": 8.8186049,
   "mieter": []
+ },
+ "rapperswil|kluggasse|17": {
+  "street": "Kluggasse",
+  "hn": "17",
+  "lat": 47.2275026,
+  "lng": 8.8176911,
+  "mieter": [
+   "Altstadt Antiquariat Rapperswil"
+  ]
  },
  "rapperswil|untere bahnhofstrasse|14": {
   "street": "Untere Bahnhofstrasse",
@@ -596,11 +751,95 @@
   "lng": 8.817221,
   "mieter": []
  },
+ "rapperswil|hintergasse|32": {
+  "street": "Hintergasse",
+  "hn": "32",
+  "lat": 47.2265173,
+  "lng": 8.8141871,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|28": {
+  "street": "Hintergasse",
+  "hn": "28",
+  "lat": 47.2266815,
+  "lng": 8.8145046,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|22": {
+  "street": "Hintergasse",
+  "hn": "22",
+  "lat": 47.2267353,
+  "lng": 8.8149762,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|6": {
+  "street": "Hintergasse",
+  "hn": "6",
+  "lat": 47.2268935,
+  "lng": 8.8157553,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|18": {
+  "street": "Hintergasse",
+  "hn": "18",
+  "lat": 47.2267655,
+  "lng": 8.8151252,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|4": {
+  "street": "Hintergasse",
+  "hn": "4",
+  "lat": 47.2269165,
+  "lng": 8.8158517,
+  "mieter": []
+ },
  "rapperswil|marktgasse|26": {
   "street": "Marktgasse",
   "hn": "26",
   "lat": 47.2263921,
   "lng": 8.814639,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|10": {
+  "street": "Hintergasse",
+  "hn": "10",
+  "lat": 47.2268368,
+  "lng": 8.8155747,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|24": {
+  "street": "Hintergasse",
+  "hn": "24",
+  "lat": 47.226724,
+  "lng": 8.8148918,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|16": {
+  "street": "Hintergasse",
+  "hn": "16",
+  "lat": 47.2267868,
+  "lng": 8.8152776,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|26": {
+  "street": "Hintergasse",
+  "hn": "26",
+  "lat": 47.2267121,
+  "lng": 8.8148016,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|2": {
+  "street": "Hintergasse",
+  "hn": "2",
+  "lat": 47.2269698,
+  "lng": 8.8159355,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|29": {
+  "street": "Hintergasse",
+  "hn": "29",
+  "lat": 47.2265424,
+  "lng": 8.8146337,
   "mieter": []
  },
  "rapperswil|marktgasse|13": {
@@ -622,6 +861,55 @@
   "hn": "19",
   "lat": 47.2261048,
   "lng": 8.8149661,
+  "mieter": []
+ },
+ "rapperswil|kluggasse|16": {
+  "street": "Kluggasse",
+  "hn": "16",
+  "lat": 47.2272751,
+  "lng": 8.8175404,
+  "mieter": []
+ },
+ "rapperswil|kluggasse|7": {
+  "street": "Kluggasse",
+  "hn": "7",
+  "lat": 47.2272578,
+  "lng": 8.8169882,
+  "mieter": []
+ },
+ "rapperswil|kluggasse|13": {
+  "street": "Kluggasse",
+  "hn": "13",
+  "lat": 47.2274435,
+  "lng": 8.817458,
+  "mieter": []
+ },
+ "rapperswil|kluggasse|1": {
+  "street": "Kluggasse",
+  "hn": "1",
+  "lat": 47.22709,
+  "lng": 8.8165173,
+  "mieter": []
+ },
+ "rapperswil|kluggasse|3": {
+  "street": "Kluggasse",
+  "hn": "3",
+  "lat": 47.2271514,
+  "lng": 8.8166123,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|7": {
+  "street": "Hintergasse",
+  "hn": "7",
+  "lat": 47.2266513,
+  "lng": 8.815612,
+  "mieter": []
+ },
+ "rapperswil|hintergasse|20": {
+  "street": "Hintergasse",
+  "hn": "20",
+  "lat": 47.2267522,
+  "lng": 8.8150538,
   "mieter": []
  },
  "rapperswil|halsgasse|20": {
