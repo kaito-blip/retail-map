@@ -731,19 +731,19 @@
   {
     "kanton": "SZ",
     "stadt": "Pfäffikon SZ",
-    "ort": "Pfäffikon",
-    "radius": 700,
+    "ort": "Pfäffikon SZ@47.2003055,8.7780752",
+    "radius": 1500,
     "strassen": [
-      "Churerstrasse",
       "Bahnhofstrasse",
+      "Churerstrasse",
       "Schindellegistrasse",
       "Eichenstrasse",
-      "Seedammstrasse"
+      "Gwattstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "0"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Register (UBS 1a Immo PK); Rest Anfrageliste SZ WebGIS (Captcha) / Grundbuchamt Höfe",
+    "offen": "165"
   },
   {
     "kanton": "OW",

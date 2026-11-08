@@ -177,6 +177,10 @@ def main(schreiben):
     ohne_ort = collections.Counter()
     for r in rows:
         ziele = ort_targets(r.get("ort", ""), r.get("plz", ""), by_norm)
+        # Kanton muss passen: sonst landet z.B. «Pfäffikon ZH» über den Alias «pfaffikon» bei Pfäffikon SZ
+        # (nur Kantonszusatz im Ortsnamen zählt; die Spalte kanton ist in einzelnen Registern falsch, z.B. Davos «VS»)
+        m_kt = re.search(r"[\s(](zh|be|lu|ur|sz|ow|nw|gl|zg|fr|so|bs|bl|sh|ar|ai|sg|gr|ag|tg|ti|vd|vs|ne|ge|ju)\)?$", norm(r.get("ort", "")))
+        if m_kt: ziele = [z for z in ziele if kt.get(z, m_kt.group(1).upper()) == m_kt.group(1).upper()]
         if not ziele:
             ohne_ort[r.get("ort", "")] += 1; continue
         for stadt in ziele:

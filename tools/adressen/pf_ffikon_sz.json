@@ -1,1 +1,1254 @@
-{}
+{
+ "pfäffikon sz|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 47.2020321,
+  "lng": 8.7786618,
+  "mieter": [
+   "Schwyzer Kantonalbank"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|136": {
+  "street": "Churerstrasse",
+  "hn": "136",
+  "lat": 47.2018784,
+  "lng": 8.790165,
+  "mieter": [
+   "BP",
+   "Roos Schweizerhof Automobile smartli.ch",
+   "La Cucaracha Bar"
+  ]
+ },
+ "pfäffikon sz|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 47.2026366,
+  "lng": 8.7783335,
+  "mieter": [
+   "Capolinea"
+  ]
+ },
+ "pfäffikon sz|gwattstrasse|14": {
+  "street": "Gwattstrasse",
+  "hn": "14",
+  "lat": 47.1991961,
+  "lng": 8.7918997,
+  "mieter": [
+   "Seedamm Vögele Kulturzentrum"
+  ]
+ },
+ "pfäffikon sz|eichenstrasse|6": {
+  "street": "Eichenstrasse",
+  "hn": "6",
+  "lat": 47.1977746,
+  "lng": 8.7645067,
+  "mieter": [
+   "Polizeiposten Höfe",
+   "XXXLutz"
+  ]
+ },
+ "pfäffikon sz|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 47.2016401,
+  "lng": 8.778478,
+  "mieter": [
+   "Wüst"
+  ]
+ },
+ "pfäffikon sz|gwattstrasse|11": {
+  "street": "Gwattstrasse",
+  "hn": "11",
+  "lat": 47.2005339,
+  "lng": 8.7937944,
+  "mieter": [
+   "Rituals",
+   "Migros",
+   "Orell Füssli",
+   "Parfums Christian Dior",
+   "H&M",
+   "Kuoni",
+   "Migros Take-Away",
+   "Dropa",
+   "Marionnaud",
+   "PKZ",
+   "BRIX Burger & Salad",
+   "TUI",
+   "Tschümperlin",
+   "C&A",
+   "SPIGA",
+   "Tesla Supercharger",
+   "Seedamm-Center"
+  ]
+ },
+ "pfäffikon sz|gwattstrasse|15": {
+  "street": "Gwattstrasse",
+  "hn": "15",
+  "lat": 47.2007179,
+  "lng": 8.7942008,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|154": {
+  "street": "Churerstrasse",
+  "hn": "154",
+  "lat": 47.2015656,
+  "lng": 8.7954699,
+  "mieter": [
+   "Qualipet",
+   "Forcar"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|47": {
+  "street": "Churerstrasse",
+  "hn": "47",
+  "lat": 47.2016363,
+  "lng": 8.780094,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|25": {
+  "street": "Churerstrasse",
+  "hn": "25",
+  "lat": 47.201625,
+  "lng": 8.7772928,
+  "mieter": [
+   "Bank Linth"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|42": {
+  "street": "Churerstrasse",
+  "hn": "42",
+  "lat": 47.2011805,
+  "lng": 8.778853,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|54": {
+  "street": "Churerstrasse",
+  "hn": "54",
+  "lat": 47.2012371,
+  "lng": 8.7806692,
+  "mieter": [
+   "Praxis 54, Hausärzte"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|77": {
+  "street": "Churerstrasse",
+  "hn": "77",
+  "lat": 47.2017002,
+  "lng": 8.7828884,
+  "mieter": [
+   "dieci"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|158": {
+  "street": "Churerstrasse",
+  "hn": "158",
+  "lat": 47.2016268,
+  "lng": 8.7975328,
+  "mieter": [
+   "Mövenpick Wein"
+  ]
+ },
+ "pfäffikon sz|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 47.2023527,
+  "lng": 8.7784278,
+  "mieter": [
+   "Pill Apotheke"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|160b": {
+  "street": "Churerstrasse",
+  "hn": "160b",
+  "lat": 47.2014872,
+  "lng": 8.7986887,
+  "mieter": [
+   "Magic X",
+   "Fressnapf",
+   "Acosom GmbH"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|70": {
+  "street": "Churerstrasse",
+  "hn": "70",
+  "lat": 47.2014423,
+  "lng": 8.782688,
+  "mieter": [
+   "UBS"
+  ]
+ },
+ "pfäffikon sz|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 47.2015156,
+  "lng": 8.7781341,
+  "mieter": []
+ },
+ "pfäffikon sz|gwattstrasse|7": {
+  "street": "Gwattstrasse",
+  "hn": "7",
+  "lat": 47.2005589,
+  "lng": 8.7912523,
+  "mieter": [
+   "Migrol"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|82": {
+  "street": "Churerstrasse",
+  "hn": "82",
+  "lat": 47.2014714,
+  "lng": 8.7835443,
+  "mieter": [
+   "Threema GmbH"
+  ]
+ },
+ "pfäffikon sz|gwattstrasse|3": {
+  "street": "Gwattstrasse",
+  "hn": "3",
+  "lat": 47.2016067,
+  "lng": 8.7893884,
+  "mieter": []
+ },
+ "pfäffikon sz|gwattstrasse|5": {
+  "street": "Gwattstrasse",
+  "hn": "5",
+  "lat": 47.2016627,
+  "lng": 8.7897908,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|88": {
+  "street": "Churerstrasse",
+  "hn": "88",
+  "lat": 47.2015819,
+  "lng": 8.7841554,
+  "mieter": [
+   "Stüssi Rohbau Montagen"
+  ]
+ },
+ "pfäffikon sz|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 47.2027044,
+  "lng": 8.777743,
+  "mieter": [
+   "Vista Augenklinik",
+   "HNO Seedamm-Praxis"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|21": {
+  "street": "Churerstrasse",
+  "hn": "21",
+  "lat": 47.2017224,
+  "lng": 8.7768403,
+  "mieter": [
+   "Brocki21"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|98": {
+  "street": "Churerstrasse",
+  "hn": "98",
+  "lat": 47.2008887,
+  "lng": 8.7851326,
+  "mieter": [
+   "Kindergarten Hochhaus"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|156": {
+  "street": "Churerstrasse",
+  "hn": "156",
+  "lat": 47.2016649,
+  "lng": 8.7966402,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|160a": {
+  "street": "Churerstrasse",
+  "hn": "160a",
+  "lat": 47.201513,
+  "lng": 8.7983118,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|162": {
+  "street": "Churerstrasse",
+  "hn": "162",
+  "lat": 47.2014518,
+  "lng": 8.7992497,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|164": {
+  "street": "Churerstrasse",
+  "hn": "164",
+  "lat": 47.2013892,
+  "lng": 8.7998976,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|166": {
+  "street": "Churerstrasse",
+  "hn": "166",
+  "lat": 47.2013277,
+  "lng": 8.8006839,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|168": {
+  "street": "Churerstrasse",
+  "hn": "168",
+  "lat": 47.2012528,
+  "lng": 8.801332,
+  "mieter": []
+ },
+ "pfäffikon sz|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 47.2026523,
+  "lng": 8.7793056,
+  "mieter": []
+ },
+ "pfäffikon sz|eichenstrasse|4a": {
+  "street": "Eichenstrasse",
+  "hn": "4a",
+  "lat": 47.1973705,
+  "lng": 8.7658445,
+  "mieter": [
+   "Zebrabox Pfäffikon SZ"
+  ]
+ },
+ "pfäffikon sz|gwattstrasse|13": {
+  "street": "Gwattstrasse",
+  "hn": "13",
+  "lat": 47.2007015,
+  "lng": 8.794174,
+  "mieter": []
+ },
+ "pfäffikon sz|gwattstrasse|12": {
+  "street": "Gwattstrasse",
+  "hn": "12",
+  "lat": 47.1994411,
+  "lng": 8.7906166,
+  "mieter": []
+ },
+ "pfäffikon sz|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 47.2029563,
+  "lng": 8.7787263,
+  "mieter": []
+ },
+ "pfäffikon sz|eichenstrasse|11": {
+  "street": "Eichenstrasse",
+  "hn": "11",
+  "lat": 47.1972313,
+  "lng": 8.7633025,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|35": {
+  "street": "Churerstrasse",
+  "hn": "35",
+  "lat": 47.2017464,
+  "lng": 8.7788986,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|92h": {
+  "street": "Churerstrasse",
+  "hn": "92h",
+  "lat": 47.2004731,
+  "lng": 8.7840416,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|55": {
+  "street": "Churerstrasse",
+  "hn": "55",
+  "lat": 47.2017453,
+  "lng": 8.7805902,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|108": {
+  "street": "Churerstrasse",
+  "hn": "108",
+  "lat": 47.2012068,
+  "lng": 8.7859998,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|110": {
+  "street": "Churerstrasse",
+  "hn": "110",
+  "lat": 47.2016837,
+  "lng": 8.7866109,
+  "mieter": [
+   "GiGi Sushi"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|43": {
+  "street": "Churerstrasse",
+  "hn": "43",
+  "lat": 47.2015191,
+  "lng": 8.7791261,
+  "mieter": [
+   "Etzelclinic"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|92k": {
+  "street": "Churerstrasse",
+  "hn": "92k",
+  "lat": 47.2003013,
+  "lng": 8.7833052,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|92f": {
+  "street": "Churerstrasse",
+  "hn": "92f",
+  "lat": 47.2006447,
+  "lng": 8.7847883,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|133": {
+  "street": "Churerstrasse",
+  "hn": "133",
+  "lat": 47.2022909,
+  "lng": 8.7894099,
+  "mieter": [
+   "Jumbo"
+  ]
+ },
+ "pfäffikon sz|gwattstrasse|7a": {
+  "street": "Gwattstrasse",
+  "hn": "7a",
+  "lat": 47.201073,
+  "lng": 8.7897951,
+  "mieter": [
+   "Feuerwehr Stützpunkt Freienbach"
+  ]
+ },
+ "pfäffikon sz|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 47.2018135,
+  "lng": 8.778231,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|52": {
+  "street": "Churerstrasse",
+  "hn": "52",
+  "lat": 47.2011507,
+  "lng": 8.7800702,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|50": {
+  "street": "Churerstrasse",
+  "hn": "50",
+  "lat": 47.2013172,
+  "lng": 8.7800554,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|15": {
+  "street": "Churerstrasse",
+  "hn": "15",
+  "lat": 47.2018674,
+  "lng": 8.7759038,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|9": {
+  "street": "Churerstrasse",
+  "hn": "9",
+  "lat": 47.20201,
+  "lng": 8.7748321,
+  "mieter": [
+   "Schulhaus Brüel"
+  ]
+ },
+ "pfäffikon sz|churerstrasse|146": {
+  "street": "Churerstrasse",
+  "hn": "146",
+  "lat": 47.2018426,
+  "lng": 8.793622,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|148": {
+  "street": "Churerstrasse",
+  "hn": "148",
+  "lat": 47.2016009,
+  "lng": 8.7939806,
+  "mieter": []
+ },
+ "pfäffikon sz|gwattstrasse|1": {
+  "street": "Gwattstrasse",
+  "hn": "1",
+  "lat": 47.2010002,
+  "lng": 8.7890869,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|137": {
+  "street": "Churerstrasse",
+  "hn": "137",
+  "lat": 47.2022006,
+  "lng": 8.7910662,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|135": {
+  "street": "Churerstrasse",
+  "hn": "135",
+  "lat": 47.2022497,
+  "lng": 8.7902227,
+  "mieter": []
+ },
+ "pfäffikon sz|eichenstrasse|10": {
+  "street": "Eichenstrasse",
+  "hn": "10",
+  "lat": 47.1980337,
+  "lng": 8.7630505,
+  "mieter": []
+ },
+ "pfäffikon sz|eichenstrasse|8": {
+  "street": "Eichenstrasse",
+  "hn": "8",
+  "lat": 47.1979416,
+  "lng": 8.7637396,
+  "mieter": []
+ },
+ "pfäffikon sz|eichenstrasse|12": {
+  "street": "Eichenstrasse",
+  "hn": "12",
+  "lat": 47.1977804,
+  "lng": 8.7629075,
+  "mieter": []
+ },
+ "pfäffikon sz|eichenstrasse|2": {
+  "street": "Eichenstrasse",
+  "hn": "2",
+  "lat": 47.1972809,
+  "lng": 8.7649655,
+  "mieter": []
+ },
+ "pfäffikon sz|eichenstrasse|4c": {
+  "street": "Eichenstrasse",
+  "hn": "4c",
+  "lat": 47.1974663,
+  "lng": 8.7661633,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|75": {
+  "street": "Schindellegistrasse",
+  "hn": "75",
+  "lat": 47.1962218,
+  "lng": 8.7638683,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|1": {
+  "street": "Schindellegistrasse",
+  "hn": "1",
+  "lat": 47.2007516,
+  "lng": 8.7777617,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|61": {
+  "street": "Churerstrasse",
+  "hn": "61",
+  "lat": 47.2017942,
+  "lng": 8.7817183,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|64": {
+  "street": "Churerstrasse",
+  "hn": "64",
+  "lat": 47.2014438,
+  "lng": 8.7822398,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|78": {
+  "street": "Churerstrasse",
+  "hn": "78",
+  "lat": 47.2014181,
+  "lng": 8.7830265,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|62": {
+  "street": "Churerstrasse",
+  "hn": "62",
+  "lat": 47.201216,
+  "lng": 8.7817301,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|66": {
+  "street": "Churerstrasse",
+  "hn": "66",
+  "lat": 47.2011778,
+  "lng": 8.7821108,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|68": {
+  "street": "Churerstrasse",
+  "hn": "68",
+  "lat": 47.2011971,
+  "lng": 8.7824057,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|109": {
+  "street": "Churerstrasse",
+  "hn": "109",
+  "lat": 47.201973,
+  "lng": 8.7870872,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|22": {
+  "street": "Churerstrasse",
+  "hn": "22",
+  "lat": 47.2013802,
+  "lng": 8.7771389,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|24": {
+  "street": "Churerstrasse",
+  "hn": "24",
+  "lat": 47.201335,
+  "lng": 8.7773917,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|20": {
+  "street": "Churerstrasse",
+  "hn": "20",
+  "lat": 47.2014179,
+  "lng": 8.7767159,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|16": {
+  "street": "Churerstrasse",
+  "hn": "16",
+  "lat": 47.2014762,
+  "lng": 8.7761132,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|14": {
+  "street": "Churerstrasse",
+  "hn": "14",
+  "lat": 47.2015577,
+  "lng": 8.7757179,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|12": {
+  "street": "Churerstrasse",
+  "hn": "12",
+  "lat": 47.2015913,
+  "lng": 8.7754043,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|10": {
+  "street": "Churerstrasse",
+  "hn": "10",
+  "lat": 47.2016067,
+  "lng": 8.7749239,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|21": {
+  "street": "Schindellegistrasse",
+  "hn": "21",
+  "lat": 47.199657,
+  "lng": 8.775612,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|15": {
+  "street": "Schindellegistrasse",
+  "hn": "15",
+  "lat": 47.2000631,
+  "lng": 8.7757895,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|17": {
+  "street": "Schindellegistrasse",
+  "hn": "17",
+  "lat": 47.2000032,
+  "lng": 8.7755386,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|23": {
+  "street": "Schindellegistrasse",
+  "hn": "23",
+  "lat": 47.1996003,
+  "lng": 8.7752526,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|25": {
+  "street": "Schindellegistrasse",
+  "hn": "25",
+  "lat": 47.1994258,
+  "lng": 8.7749509,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|27": {
+  "street": "Schindellegistrasse",
+  "hn": "27",
+  "lat": 47.1993508,
+  "lng": 8.7746153,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|35": {
+  "street": "Schindellegistrasse",
+  "hn": "35",
+  "lat": 47.1987111,
+  "lng": 8.7732726,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|47": {
+  "street": "Schindellegistrasse",
+  "hn": "47",
+  "lat": 47.1978911,
+  "lng": 8.7703099,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|73": {
+  "street": "Schindellegistrasse",
+  "hn": "73",
+  "lat": 47.1965593,
+  "lng": 8.764351,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|71": {
+  "street": "Schindellegistrasse",
+  "hn": "71",
+  "lat": 47.1966684,
+  "lng": 8.7646907,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|67": {
+  "street": "Schindellegistrasse",
+  "hn": "67",
+  "lat": 47.1969292,
+  "lng": 8.7658438,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|65": {
+  "street": "Schindellegistrasse",
+  "hn": "65",
+  "lat": 47.1970536,
+  "lng": 8.7663645,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|63a,63b": {
+  "street": "Schindellegistrasse",
+  "hn": "63a,63b",
+  "lat": 47.197163,
+  "lng": 8.7667715,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|59": {
+  "street": "Schindellegistrasse",
+  "hn": "59",
+  "lat": 47.1973594,
+  "lng": 8.767593,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|57": {
+  "street": "Schindellegistrasse",
+  "hn": "57",
+  "lat": 47.1973516,
+  "lng": 8.7682689,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|55": {
+  "street": "Schindellegistrasse",
+  "hn": "55",
+  "lat": 47.1976264,
+  "lng": 8.7687634,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|51": {
+  "street": "Schindellegistrasse",
+  "hn": "51",
+  "lat": 47.1978247,
+  "lng": 8.7695294,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|3": {
+  "street": "Schindellegistrasse",
+  "hn": "3",
+  "lat": 47.2004174,
+  "lng": 8.7771809,
+  "mieter": []
+ },
+ "pfäffikon sz|gwattstrasse|17": {
+  "street": "Gwattstrasse",
+  "hn": "17",
+  "lat": 47.2007778,
+  "lng": 8.7957405,
+  "mieter": []
+ },
+ "pfäffikon sz|bahnhofstrasse|28": {
+  "street": "Bahnhofstrasse",
+  "hn": "28",
+  "lat": 47.202329,
+  "lng": 8.7809133,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|30": {
+  "street": "Churerstrasse",
+  "hn": "30",
+  "lat": 47.2012474,
+  "lng": 8.7780812,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|32": {
+  "street": "Churerstrasse",
+  "hn": "32",
+  "lat": 47.2011434,
+  "lng": 8.7781514,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|34": {
+  "street": "Churerstrasse",
+  "hn": "34",
+  "lat": 47.2011459,
+  "lng": 8.7783855,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|63": {
+  "street": "Churerstrasse",
+  "hn": "63",
+  "lat": 47.2016608,
+  "lng": 8.7821942,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|65": {
+  "street": "Churerstrasse",
+  "hn": "65",
+  "lat": 47.2017619,
+  "lng": 8.7821868,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|65b": {
+  "street": "Churerstrasse",
+  "hn": "65b",
+  "lat": 47.2020143,
+  "lng": 8.7822542,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|67": {
+  "street": "Churerstrasse",
+  "hn": "67",
+  "lat": 47.2017846,
+  "lng": 8.7825091,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|73": {
+  "street": "Churerstrasse",
+  "hn": "73",
+  "lat": 47.2024551,
+  "lng": 8.7824785,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|79": {
+  "street": "Churerstrasse",
+  "hn": "79",
+  "lat": 47.2020117,
+  "lng": 8.7829504,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|80": {
+  "street": "Churerstrasse",
+  "hn": "80",
+  "lat": 47.2012615,
+  "lng": 8.7834364,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|81": {
+  "street": "Churerstrasse",
+  "hn": "81",
+  "lat": 47.2017963,
+  "lng": 8.7833572,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|86": {
+  "street": "Churerstrasse",
+  "hn": "86",
+  "lat": 47.2013305,
+  "lng": 8.7840621,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|90": {
+  "street": "Churerstrasse",
+  "hn": "90",
+  "lat": 47.201576,
+  "lng": 8.7843718,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|84b": {
+  "street": "Churerstrasse",
+  "hn": "84b",
+  "lat": 47.2015468,
+  "lng": 8.7839231,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|92b": {
+  "street": "Churerstrasse",
+  "hn": "92b",
+  "lat": 47.2009758,
+  "lng": 8.7843434,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|92a": {
+  "street": "Churerstrasse",
+  "hn": "92a",
+  "lat": 47.2010208,
+  "lng": 8.7846018,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|92c": {
+  "street": "Churerstrasse",
+  "hn": "92c",
+  "lat": 47.2009128,
+  "lng": 8.7838941,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|92d": {
+  "street": "Churerstrasse",
+  "hn": "92d",
+  "lat": 47.2008843,
+  "lng": 8.7836275,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|92e": {
+  "street": "Churerstrasse",
+  "hn": "92e",
+  "lat": 47.2008517,
+  "lng": 8.7831298,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|92g": {
+  "street": "Churerstrasse",
+  "hn": "92g",
+  "lat": 47.2005857,
+  "lng": 8.7845326,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|92i": {
+  "street": "Churerstrasse",
+  "hn": "92i",
+  "lat": 47.2004139,
+  "lng": 8.7837833,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|92l": {
+  "street": "Churerstrasse",
+  "hn": "92l",
+  "lat": 47.2002426,
+  "lng": 8.7830495,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|100": {
+  "street": "Churerstrasse",
+  "hn": "100",
+  "lat": 47.2011196,
+  "lng": 8.7853369,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|106": {
+  "street": "Churerstrasse",
+  "hn": "106",
+  "lat": 47.2013358,
+  "lng": 8.7860286,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|104": {
+  "street": "Churerstrasse",
+  "hn": "104",
+  "lat": 47.201462,
+  "lng": 8.7860609,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|2": {
+  "street": "Schindellegistrasse",
+  "hn": "2",
+  "lat": 47.2008977,
+  "lng": 8.7772987,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|93": {
+  "street": "Churerstrasse",
+  "hn": "93",
+  "lat": 47.201911,
+  "lng": 8.7851214,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|95": {
+  "street": "Churerstrasse",
+  "hn": "95",
+  "lat": 47.2020895,
+  "lng": 8.7852143,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|97": {
+  "street": "Churerstrasse",
+  "hn": "97",
+  "lat": 47.2023754,
+  "lng": 8.785267,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|99": {
+  "street": "Churerstrasse",
+  "hn": "99",
+  "lat": 47.2025577,
+  "lng": 8.7853499,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|111": {
+  "street": "Churerstrasse",
+  "hn": "111",
+  "lat": 47.2020097,
+  "lng": 8.7875381,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|113a": {
+  "street": "Churerstrasse",
+  "hn": "113a",
+  "lat": 47.2020466,
+  "lng": 8.7879094,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|113b": {
+  "street": "Churerstrasse",
+  "hn": "113b",
+  "lat": 47.202102,
+  "lng": 8.7878634,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|120": {
+  "street": "Churerstrasse",
+  "hn": "120",
+  "lat": 47.2013915,
+  "lng": 8.7869884,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|122": {
+  "street": "Churerstrasse",
+  "hn": "122",
+  "lat": 47.2014125,
+  "lng": 8.7873282,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|44a,44b": {
+  "street": "Churerstrasse",
+  "hn": "44a,44b",
+  "lat": 47.2012445,
+  "lng": 8.7795512,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|101": {
+  "street": "Churerstrasse",
+  "hn": "101",
+  "lat": 47.2020191,
+  "lng": 8.7857848,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|107": {
+  "street": "Churerstrasse",
+  "hn": "107",
+  "lat": 47.2025129,
+  "lng": 8.7863103,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|105": {
+  "street": "Churerstrasse",
+  "hn": "105",
+  "lat": 47.202337,
+  "lng": 8.7863613,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|103": {
+  "street": "Churerstrasse",
+  "hn": "103",
+  "lat": 47.2021658,
+  "lng": 8.7864072,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|4": {
+  "street": "Schindellegistrasse",
+  "hn": "4",
+  "lat": 47.200778,
+  "lng": 8.7771244,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|6": {
+  "street": "Schindellegistrasse",
+  "hn": "6",
+  "lat": 47.2007246,
+  "lng": 8.7769374,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|8": {
+  "street": "Schindellegistrasse",
+  "hn": "8",
+  "lat": 47.2006627,
+  "lng": 8.7766329,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|10": {
+  "street": "Schindellegistrasse",
+  "hn": "10",
+  "lat": 47.2006099,
+  "lng": 8.7764103,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|12": {
+  "street": "Schindellegistrasse",
+  "hn": "12",
+  "lat": 47.2005324,
+  "lng": 8.7762762,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|14": {
+  "street": "Schindellegistrasse",
+  "hn": "14",
+  "lat": 47.2004888,
+  "lng": 8.7760181,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|16": {
+  "street": "Schindellegistrasse",
+  "hn": "16",
+  "lat": 47.2004216,
+  "lng": 8.775797,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|18": {
+  "street": "Schindellegistrasse",
+  "hn": "18",
+  "lat": 47.2003522,
+  "lng": 8.7755387,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|30": {
+  "street": "Schindellegistrasse",
+  "hn": "30",
+  "lat": 47.1992353,
+  "lng": 8.7735685,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|32": {
+  "street": "Schindellegistrasse",
+  "hn": "32",
+  "lat": 47.1991177,
+  "lng": 8.7732554,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|34a,34b": {
+  "street": "Schindellegistrasse",
+  "hn": "34a,34b",
+  "lat": 47.1990376,
+  "lng": 8.7729771,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|69": {
+  "street": "Schindellegistrasse",
+  "hn": "69",
+  "lat": 47.1967675,
+  "lng": 8.7651657,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|19": {
+  "street": "Schindellegistrasse",
+  "hn": "19",
+  "lat": 47.1997192,
+  "lng": 8.7758179,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|31": {
+  "street": "Schindellegistrasse",
+  "hn": "31",
+  "lat": 47.1988341,
+  "lng": 8.7735695,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|33": {
+  "street": "Schindellegistrasse",
+  "hn": "33",
+  "lat": 47.1986906,
+  "lng": 8.7734966,
+  "mieter": []
+ },
+ "pfäffikon sz|schindellegistrasse|61a,61b,61c": {
+  "street": "Schindellegistrasse",
+  "hn": "61a,61b,61c",
+  "lat": 47.1972258,
+  "lng": 8.7670451,
+  "mieter": []
+ },
+ "pfäffikon sz|eichenstrasse|5": {
+  "street": "Eichenstrasse",
+  "hn": "5",
+  "lat": 47.1973632,
+  "lng": 8.7640851,
+  "mieter": [
+   "Swiss International School"
+  ]
+ },
+ "pfäffikon sz|schindellegistrasse|36": {
+  "street": "Schindellegistrasse",
+  "hn": "36",
+  "lat": 47.1989756,
+  "lng": 8.7726792,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|60": {
+  "street": "Churerstrasse",
+  "hn": "60",
+  "lat": 47.2013047,
+  "lng": 8.7812048,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|85c": {
+  "street": "Churerstrasse",
+  "hn": "85c",
+  "lat": 47.2025618,
+  "lng": 8.783267,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|85b": {
+  "street": "Churerstrasse",
+  "hn": "85b",
+  "lat": 47.202322,
+  "lng": 8.7829264,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|85a": {
+  "street": "Churerstrasse",
+  "hn": "85a",
+  "lat": 47.2023052,
+  "lng": 8.7832853,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|83": {
+  "street": "Churerstrasse",
+  "hn": "83",
+  "lat": 47.2020495,
+  "lng": 8.7833064,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|87": {
+  "street": "Churerstrasse",
+  "hn": "87",
+  "lat": 47.2018805,
+  "lng": 8.7839813,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|139": {
+  "street": "Churerstrasse",
+  "hn": "139",
+  "lat": 47.2021801,
+  "lng": 8.7913766,
+  "mieter": []
+ },
+ "pfäffikon sz|churerstrasse|23": {
+  "street": "Churerstrasse",
+  "hn": "23",
+  "lat": 47.2017172,
+  "lng": 8.7770686,
+  "mieter": []
+ },
+ "pfäffikon sz|eichenstrasse|20": {
+  "street": "Eichenstrasse",
+  "hn": "20",
+  "lat": 47.1969,
+  "lng": 8.761163,
+  "mieter": []
+ }
+}

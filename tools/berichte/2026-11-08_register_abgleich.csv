@@ -1,4 +1,6 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
+owner;pfäffikon sz|churerstrasse|120;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Direct 1a Immo PK;;Eigentümer lt. UBS 1a Immo PK: Halbjahresbericht per 31.03.2026, Liegenschaftenverzeichnis S. 14 (2026-03-31), Baurecht
+owner;pfäffikon sz|churerstrasse|122;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Direct 1a Immo PK;;Eigentümer lt. UBS 1a Immo PK: Halbjahresbericht per 31.03.2026, Liegenschaftenverzeichnis S. 14 (2026-03-31), Baurecht
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -139,7 +141,6 @@ bestätigt;brugg|bahnhofstrasse|1;;UBS Fund Management (Switzerland) AG für UBS
 bestätigt;brugg|bahnhofstrasse|11;;Mobimo Holding AG;
 bestätigt;brugg|bahnhofstrasse|3;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Direct 1a Immo PK;
 bestätigt;brugg|bahnhofstrasse|5;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Residential «Siat»;
-bestätigt;brugg|bahnhofstrasse|8;;Schweizerische Bundesbahnen SBB;
 bestätigt;brugg|hauptstrasse|2;;Swiss Prime Anlagestiftung, Anlagegruppe SPA Immobilien Schweiz;
 bestätigt;brugg|neumarktplatz|18;;assetimmo Immobilien-Anlagestiftung, Anlagegruppe Geschäfte;
 bestätigt;brugg|neumarktplatz|4;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Direct 1a Immo PK;
