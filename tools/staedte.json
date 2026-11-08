@@ -1013,12 +1013,13 @@
       "Rue de Rive",
       "Grand-Rue",
       "Rue Neuve",
-      "Place du Marché"
+      "Place du Marché",
+      "Rue de la Morâche"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
-    "offen": "156"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-09",
+    "eigentuemer_quelle": "Eigentümer-Register (Geschäftsberichte, Fondsinventare; tools/register_abgleich.py): 4; Anfrageliste VD_Nyon.csv (Intercapi public oder RF La Côte)",
+    "offen": "171"
   },
   {
     "kanton": "SG",

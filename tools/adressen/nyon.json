@@ -17,13 +17,33 @@
    "La Brasserie du Rive"
   ]
  },
+ "nyon|rue de la morâche|19": {
+  "street": "Rue de la Morâche",
+  "hn": "19",
+  "lat": 46.3842483,
+  "lng": 6.2324415,
+  "mieter": [
+   "Cyclorum"
+  ]
+ },
  "nyon|rue de la gare|36": {
   "street": "Rue de la Gare",
   "hn": "36",
   "lat": 46.3833815,
   "lng": 6.2359032,
   "mieter": [
-   "Elsalad"
+   "Elsalad",
+   "Le Capybara",
+   "Cash Pay"
+  ]
+ },
+ "nyon|rue de la morâche|3": {
+  "street": "Rue de la Morâche",
+  "hn": "3",
+  "lat": 46.3831551,
+  "lng": 6.2358637,
+  "mieter": [
+   "Unia"
   ]
  },
  "nyon|grand-rue|22": {
@@ -32,6 +52,7 @@
   "lat": 46.3817972,
   "lng": 6.2388193,
   "mieter": [
+   "Sushi Haiku",
    "Ideo Human Capital"
   ]
  },
@@ -41,7 +62,147 @@
   "lat": 46.381472,
   "lng": 6.2386025,
   "mieter": [
-   "L'èRe du Voyage"
+   "L'èRe du Voyage",
+   "Gourman"
+  ]
+ },
+ "nyon|rue de rive|66": {
+  "street": "Rue de Rive",
+  "hn": "66",
+  "lat": 46.3811057,
+  "lng": 6.2414652,
+  "mieter": [
+   "L'abri"
+  ]
+ },
+ "nyon|rue de la morâche|4": {
+  "street": "Rue de la Morâche",
+  "hn": "4",
+  "lat": 46.3829916,
+  "lng": 6.2359761,
+  "mieter": [
+   "Hotelplan",
+   "Llongueras"
+  ]
+ },
+ "nyon|rue neuve|8": {
+  "street": "Rue Neuve",
+  "hn": "8",
+  "lat": 46.3831455,
+  "lng": 6.2386119,
+  "mieter": [
+   "Génération Sport",
+   "Rhizone Le Salon"
+  ]
+ },
+ "nyon|rue de la gare|17": {
+  "street": "Rue de la Gare",
+  "hn": "17",
+  "lat": 46.3828364,
+  "lng": 6.2373117,
+  "mieter": [
+   "Kuoni",
+   "Le Cercle du Thé"
+  ]
+ },
+ "nyon|grand-rue|22bis": {
+  "street": "Grand-Rue",
+  "hn": "22bis",
+  "lat": 46.3817799,
+  "lng": 6.2388087,
+  "mieter": [
+   "La Parenthèse"
+  ]
+ },
+ "nyon|rue de la morâche|1": {
+  "street": "Rue de la Morâche",
+  "hn": "1",
+  "lat": 46.383271,
+  "lng": 6.2360482,
+  "mieter": [
+   "Sushi Shop",
+   "Esri Suisse SA"
+  ]
+ },
+ "nyon|rue de la gare|11": {
+  "street": "Rue de la Gare",
+  "hn": "11",
+  "lat": 46.3824757,
+  "lng": 6.2381276,
+  "mieter": [
+   "Sun Store SA",
+   "Marie-Jo Couture"
+  ]
+ },
+ "nyon|grand-rue|10": {
+  "street": "Grand-Rue",
+  "hn": "10",
+  "lat": 46.3820112,
+  "lng": 6.2389765,
+  "mieter": [
+   "Luna's",
+   "India House",
+   "Baroque et Rococo"
+  ]
+ },
+ "nyon|rue de la morâche|8": {
+  "street": "Rue de la Morâche",
+  "hn": "8",
+  "lat": 46.3835326,
+  "lng": 6.2333284,
+  "mieter": [
+   "Cyclable"
+  ]
+ },
+ "nyon|rue neuve|14": {
+  "street": "Rue Neuve",
+  "hn": "14",
+  "lat": 46.3829416,
+  "lng": 6.2381312,
+  "mieter": [
+   "Domicim",
+   "a2 nails"
+  ]
+ },
+ "nyon|grand-rue|3": {
+  "street": "Grand-Rue",
+  "hn": "3",
+  "lat": 46.3825152,
+  "lng": 6.239174,
+  "mieter": [
+   "Delahaye"
+  ]
+ },
+ "nyon|rue de la morâche|17": {
+  "street": "Rue de la Morâche",
+  "hn": "17",
+  "lat": 46.384034,
+  "lng": 6.2327432,
+  "mieter": [
+   "Attitude Thrift"
+  ]
+ },
+ "nyon|rue de la morâche|13": {
+  "street": "Rue de la Morâche",
+  "hn": "13",
+  "lat": 46.3838972,
+  "lng": 6.2331757,
+  "mieter": []
+ },
+ "nyon|rue de la morâche|15": {
+  "street": "Rue de la Morâche",
+  "hn": "15",
+  "lat": 46.3839123,
+  "lng": 6.2330491,
+  "mieter": []
+ },
+ "nyon|rue de la morâche|9": {
+  "street": "Rue de la Morâche",
+  "hn": "9",
+  "lat": 46.3836728,
+  "lng": 6.2338095,
+  "mieter": [
+   "Centre Médico-Chirurgical Nyon SA"
   ]
  },
  "nyon|rue de la gare|1": {
@@ -56,7 +217,9 @@
   "hn": "6",
   "lat": 46.3822438,
   "lng": 6.2382593,
-  "mieter": []
+  "mieter": [
+   "H&M"
+  ]
  },
  "nyon|rue de la gare|8": {
   "street": "Rue de la Gare",
@@ -84,7 +247,9 @@
   "hn": "1",
   "lat": 46.3818086,
   "lng": 6.2386509,
-  "mieter": []
+  "mieter": [
+   "Khana Mandir"
+  ]
  },
  "nyon|grand-rue|37": {
   "street": "Grand-Rue",
@@ -107,21 +272,13 @@
   "lng": 6.238145,
   "mieter": []
  },
- "nyon|rue neuve|8": {
-  "street": "Rue Neuve",
-  "hn": "8",
-  "lat": 46.3831843,
-  "lng": 6.2387696,
-  "mieter": [
-   "Rhizone Le Salon"
-  ]
- },
  "nyon|rue neuve|6": {
   "street": "Rue Neuve",
   "hn": "6",
   "lat": 46.3832004,
   "lng": 6.2388759,
   "mieter": [
+   "Dolly Nails",
    "Cabinet Dr. Giannelli Sandra"
   ]
  },
@@ -137,7 +294,9 @@
   "hn": "46",
   "lat": 46.3821296,
   "lng": 6.2425181,
-  "mieter": []
+  "mieter": [
+   "Bijoux Chania"
+  ]
  },
  "nyon|rue de rive|48": {
   "street": "Rue de Rive",
@@ -151,21 +310,29 @@
   "hn": "38",
   "lat": 46.382346,
   "lng": 6.2428314,
-  "mieter": []
+  "mieter": [
+   "L'Ambroisie"
+  ]
  },
  "nyon|rue de rive|36": {
   "street": "Rue de Rive",
   "hn": "36",
   "lat": 46.3823821,
   "lng": 6.2428607,
-  "mieter": []
+  "mieter": [
+   "Funky Monkey Room"
+  ]
  },
  "nyon|rue de rive|34": {
   "street": "Rue de Rive",
   "hn": "34",
   "lat": 46.3824873,
   "lng": 6.2429469,
-  "mieter": []
+  "mieter": [
+   "Le Débarcadère",
+   "La Casa del Habano",
+   "La Couronne"
+  ]
  },
  "nyon|rue de rive|64": {
   "street": "Rue de Rive",
@@ -173,15 +340,6 @@
   "lat": 46.3811896,
   "lng": 6.2415252,
   "mieter": []
- },
- "nyon|rue de rive|66": {
-  "street": "Rue de Rive",
-  "hn": "66",
-  "lat": 46.3811057,
-  "lng": 6.2414652,
-  "mieter": [
-   "L'abri"
-  ]
  },
  "nyon|rue de rive|49": {
   "street": "Rue de Rive",
@@ -209,7 +367,9 @@
   "hn": "65",
   "lat": 46.3807858,
   "lng": 6.2414343,
-  "mieter": []
+  "mieter": [
+   "Le Garage"
+  ]
  },
  "nyon|rue de rive|9": {
   "street": "Rue de Rive",
@@ -223,35 +383,46 @@
   "hn": "38",
   "lat": 46.3835735,
   "lng": 6.2357321,
-  "mieter": []
+  "mieter": [
+   "Pom-o-doro"
+  ]
  },
  "nyon|rue de la gare|21": {
   "street": "Rue de la Gare",
   "hn": "21",
   "lat": 46.3828743,
   "lng": 6.2371925,
-  "mieter": []
+  "mieter": [
+   "Athena Outlet"
+  ]
  },
  "nyon|rue de la gare|23": {
   "street": "Rue de la Gare",
   "hn": "23",
   "lat": 46.3828891,
   "lng": 6.2371677,
-  "mieter": []
+  "mieter": [
+   "Figaro"
+  ]
  },
  "nyon|rue de la gare|25": {
   "street": "Rue de la Gare",
   "hn": "25",
   "lat": 46.3829201,
   "lng": 6.2370993,
-  "mieter": []
+  "mieter": [
+   "Chez Lin"
+  ]
  },
  "nyon|rue neuve|7": {
   "street": "Rue Neuve",
   "hn": "7",
   "lat": 46.3830783,
   "lng": 6.2381319,
-  "mieter": []
+  "mieter": [
+   "Banque Cantonale Vaudoise",
+   "Shan Global Food Market"
+  ]
  },
  "nyon|rue de la gare|35bis": {
   "street": "Rue de la Gare",
@@ -265,21 +436,30 @@
   "hn": "27",
   "lat": 46.3829353,
   "lng": 6.2370738,
-  "mieter": []
+  "mieter": [
+   "Barbershop"
+  ]
  },
  "nyon|rue de la gare|35": {
   "street": "Rue de la Gare",
   "hn": "35",
   "lat": 46.3830876,
   "lng": 6.2368362,
-  "mieter": []
+  "mieter": [
+   "Appunto",
+   "Manor"
+  ]
  },
  "nyon|rue de la gare|37": {
   "street": "Rue de la Gare",
   "hn": "37",
   "lat": 46.3832482,
   "lng": 6.2366146,
-  "mieter": []
+  "mieter": [
+   "Nouvelle vague",
+   "Brin de folie",
+   "Carnaby"
+  ]
  },
  "nyon|rue de la gare|41": {
   "street": "Rue de la Gare",
@@ -293,6 +473,47 @@
   "hn": "43",
   "lat": 46.3835652,
   "lng": 6.2360365,
+  "mieter": [
+   "Pharmacie Nyonnaise"
+  ]
+ },
+ "nyon|rue de la morâche|6": {
+  "street": "Rue de la Morâche",
+  "hn": "6",
+  "lat": 46.3827898,
+  "lng": 6.2353398,
+  "mieter": [
+   "Café du Commerce",
+   "Payot",
+   "Mister Minit",
+   "Beldona",
+   "UBS",
+   "Zeste"
+  ]
+ },
+ "nyon|rue de la morâche|2": {
+  "street": "Rue de la Morâche",
+  "hn": "2",
+  "lat": 46.3831202,
+  "lng": 6.2362658,
+  "mieter": [
+   "Fleur de Pains"
+  ]
+ },
+ "nyon|rue de la morâche|2a": {
+  "street": "Rue de la Morâche",
+  "hn": "2a",
+  "lat": 46.3830693,
+  "lng": 6.2361438,
+  "mieter": [
+   "J&L Arcade"
+  ]
+ },
+ "nyon|rue de la morâche|4b": {
+  "street": "Rue de la Morâche",
+  "hn": "4b",
+  "lat": 46.3827473,
+  "lng": 6.2358165,
   "mieter": []
  },
  "nyon|rue de la gare|14": {
@@ -300,14 +521,42 @@
   "hn": "14",
   "lat": 46.3826197,
   "lng": 6.2375032,
+  "mieter": [
+   "Salt"
+  ]
+ },
+ "nyon|rue de la morâche|11": {
+  "street": "Rue de la Morâche",
+  "hn": "11",
+  "lat": 46.3837935,
+  "lng": 6.2334178,
   "mieter": []
+ },
+ "nyon|rue de la morâche|14": {
+  "street": "Rue de la Morâche",
+  "hn": "14",
+  "lat": 46.3835495,
+  "lng": 6.2330319,
+  "mieter": []
+ },
+ "nyon|rue de la morâche|16": {
+  "street": "Rue de la Morâche",
+  "hn": "16",
+  "lat": 46.3836399,
+  "lng": 6.2327099,
+  "mieter": [
+   "Idéal Coiffure",
+   "Mes Saveurs"
+  ]
  },
  "nyon|rue de rive|14": {
   "street": "Rue de Rive",
   "hn": "14",
   "lat": 46.3843541,
   "lng": 6.2452053,
-  "mieter": []
+  "mieter": [
+   "Helvetica Avocats"
+  ]
  },
  "nyon|rue de rive|6a": {
   "street": "Rue de Rive",
@@ -337,80 +586,12 @@
   "lng": 6.246081,
   "mieter": []
  },
- "nyon|rue de la gare|13": {
-  "street": "Rue de la Gare",
-  "hn": "13",
-  "lat": 46.3942245,
-  "lng": 6.2469384,
-  "mieter": []
- },
- "nyon|rue de la gare|4": {
-  "street": "Rue de la Gare",
-  "hn": "4",
-  "lat": 46.3944053,
-  "lng": 6.2489573,
-  "mieter": []
- },
- "nyon|rue de la gare|4b": {
-  "street": "Rue de la Gare",
-  "hn": "4b",
-  "lat": 46.3944544,
-  "lng": 6.2489118,
-  "mieter": []
- },
- "nyon|rue de la gare|17": {
-  "street": "Rue de la Gare",
-  "hn": "17",
-  "lat": 46.3828364,
-  "lng": 6.2373117,
-  "mieter": [
-   "Le Cercle du Thé"
-  ]
- },
- "nyon|grand-rue|22bis": {
-  "street": "Grand-Rue",
-  "hn": "22bis",
-  "lat": 46.3817799,
-  "lng": 6.2388087,
-  "mieter": [
-   "La Parenthèse"
-  ]
- },
- "nyon|rue de la gare|11": {
-  "street": "Rue de la Gare",
-  "hn": "11",
-  "lat": 46.3824757,
-  "lng": 6.2381276,
-  "mieter": [
-   "Marie-Jo Couture"
-  ]
- },
- "nyon|grand-rue|10": {
-  "street": "Grand-Rue",
-  "hn": "10",
-  "lat": 46.3820112,
-  "lng": 6.2389765,
-  "mieter": [
-   "Baroque et Rococo"
-  ]
- },
  "nyon|place du marché|2": {
   "street": "Place du Marché",
   "hn": "2",
   "lat": 46.3819111,
   "lng": 6.2387572,
-  "mieter": [
-   "Espace eeeeh!"
-  ]
- },
- "nyon|rue neuve|14": {
-  "street": "Rue Neuve",
-  "hn": "14",
-  "lat": 46.3829416,
-  "lng": 6.2381312,
-  "mieter": [
-   "a2 nails"
-  ]
+  "mieter": []
  },
  "nyon|grand-rue|5": {
   "street": "Grand-Rue",
@@ -426,7 +607,9 @@
   "hn": "68",
   "lat": 46.3810041,
   "lng": 6.2413194,
-  "mieter": []
+  "mieter": [
+   "Litis"
+  ]
  },
  "nyon|grand-rue|10,18": {
   "street": "Grand-Rue",
@@ -447,13 +630,33 @@
   "hn": "6",
   "lat": 46.3821476,
   "lng": 6.239181,
-  "mieter": []
+  "mieter": [
+   "Racine Carrée"
+  ]
  },
  "nyon|grand-rue|4": {
   "street": "Grand-Rue",
   "hn": "4",
   "lat": 46.3822209,
   "lng": 6.2391733,
+  "mieter": [
+   "Guillaume Bichet"
+  ]
+ },
+ "nyon|rue de la morâche|7": {
+  "street": "Rue de la Morâche",
+  "hn": "7",
+  "lat": 46.3831179,
+  "lng": 6.2354579,
+  "mieter": [
+   "Régie Schmid"
+  ]
+ },
+ "nyon|rue de la morâche|5": {
+  "street": "Rue de la Morâche",
+  "hn": "5",
+  "lat": 46.3831188,
+  "lng": 6.2356806,
   "mieter": []
  },
  "nyon|rue de la gare|45": {
@@ -461,21 +664,29 @@
   "hn": "45",
   "lat": 46.3836795,
   "lng": 6.2360004,
-  "mieter": []
+  "mieter": [
+   "Zebra",
+   "Pimprenelle"
+  ]
  },
  "nyon|rue de la gare|5": {
   "street": "Rue de la Gare",
   "hn": "5",
   "lat": 46.3824181,
   "lng": 6.2385559,
-  "mieter": []
+  "mieter": [
+   "A Cause des Garçons"
+  ]
  },
  "nyon|rue de la gare|3": {
   "street": "Rue de la Gare",
   "hn": "3",
   "lat": 46.3822834,
   "lng": 6.2386747,
-  "mieter": []
+  "mieter": [
+   "Shark's",
+   "Stéphanie"
+  ]
  },
  "nyon|grand-rue|9": {
   "street": "Grand-Rue",
@@ -489,7 +700,9 @@
   "hn": "5,7",
   "lat": 46.3824708,
   "lng": 6.2389924,
-  "mieter": []
+  "mieter": [
+   "La Puccia"
+  ]
  },
  "nyon|rue de la gare|7": {
   "street": "Rue de la Gare",
@@ -503,21 +716,19 @@
   "hn": "9",
   "lat": 46.3824428,
   "lng": 6.2383474,
-  "mieter": []
- },
- "nyon|grand-rue|3": {
-  "street": "Grand-Rue",
-  "hn": "3",
-  "lat": 46.3825516,
-  "lng": 6.2390698,
-  "mieter": []
+  "mieter": [
+   "Optic 2000"
+  ]
  },
  "nyon|rue de la gare|2": {
   "street": "Rue de la Gare",
   "hn": "2",
   "lat": 46.3821038,
   "lng": 6.2387764,
-  "mieter": []
+  "mieter": [
+   "Kookaï",
+   "My Style Barber Shop"
+  ]
  },
  "nyon|grand-rue|13": {
   "street": "Grand-Rue",
@@ -526,12 +737,24 @@
   "lng": 6.238735,
   "mieter": []
  },
+ "nyon|rue de la gare|4": {
+  "street": "Rue de la Gare",
+  "hn": "4",
+  "lat": 46.3821421,
+  "lng": 6.2385952,
+  "mieter": [
+   "Au Cœur des Saveurs",
+   "Borex Poissons"
+  ]
+ },
  "nyon|grand-rue|20": {
   "street": "Grand-Rue",
   "hn": "20",
   "lat": 46.381855,
   "lng": 6.2389848,
-  "mieter": []
+  "mieter": [
+   "Viale D'Italia"
+  ]
  },
  "nyon|grand-rue|24b": {
   "street": "Grand-Rue",
@@ -545,21 +768,28 @@
   "hn": "26bis",
   "lat": 46.3814923,
   "lng": 6.238746,
-  "mieter": []
+  "mieter": [
+   "Cadé Déco"
+  ]
  },
  "nyon|grand-rue|24a": {
   "street": "Grand-Rue",
   "hn": "24a",
   "lat": 46.3816699,
   "lng": 6.2388838,
-  "mieter": []
+  "mieter": [
+   "Région de Nyon"
+  ]
  },
  "nyon|grand-rue|31,33": {
   "street": "Grand-Rue",
   "hn": "31,33",
   "lat": 46.3810922,
   "lng": 6.2382704,
-  "mieter": []
+  "mieter": [
+   "M. Durand",
+   "Sakura"
+  ]
  },
  "nyon|grand-rue|39": {
   "street": "Grand-Rue",
@@ -573,7 +803,10 @@
   "hn": "36",
   "lat": 46.3811349,
   "lng": 6.2386484,
-  "mieter": []
+  "mieter": [
+   "Aventure Linguistique",
+   "Galerie Marchande"
+  ]
  },
  "nyon|grand-rue|35": {
   "street": "Grand-Rue",
@@ -587,28 +820,38 @@
   "hn": "28",
   "lat": 46.3813157,
   "lng": 6.2387179,
-  "mieter": []
+  "mieter": [
+   "hélioexpress"
+  ]
  },
  "nyon|grand-rue|15": {
   "street": "Grand-Rue",
   "hn": "15",
   "lat": 46.3816769,
   "lng": 6.2386073,
-  "mieter": []
+  "mieter": [
+   "Mademoiselle P"
+  ]
  },
  "nyon|grand-rue|23,25": {
   "street": "Grand-Rue",
   "hn": "23,25",
   "lat": 46.3814069,
   "lng": 6.2384706,
-  "mieter": []
+  "mieter": [
+   "Galerie d'art Junod",
+   "Smartif Coiffure",
+   "Gourman"
+  ]
  },
  "nyon|grand-rue|17": {
   "street": "Grand-Rue",
   "hn": "17",
   "lat": 46.3816109,
   "lng": 6.238545,
-  "mieter": []
+  "mieter": [
+   "Mercerie Midinette"
+  ]
  },
  "nyon|grand-rue|27": {
   "street": "Grand-Rue",
@@ -622,63 +865,82 @@
   "hn": "19",
   "lat": 46.381548,
   "lng": 6.2385647,
-  "mieter": []
+  "mieter": [
+   "Verbel"
+  ]
  },
  "nyon|rue de la gare|18": {
   "street": "Rue de la Gare",
   "hn": "18",
   "lat": 46.3826927,
   "lng": 6.2371809,
-  "mieter": []
+  "mieter": [
+   "Les Brasseurs"
+  ]
  },
  "nyon|rue de la gare|32": {
   "street": "Rue de la Gare",
   "hn": "32",
   "lat": 46.3830168,
   "lng": 6.2365292,
-  "mieter": []
+  "mieter": [
+   "Fielman"
+  ]
  },
  "nyon|rue de la gare|30": {
   "street": "Rue de la Gare",
   "hn": "30",
   "lat": 46.3829859,
   "lng": 6.2366322,
-  "mieter": []
+  "mieter": [
+   "Alain Afflelou",
+   "Valiant"
+  ]
  },
  "nyon|rue de la gare|24": {
   "street": "Rue de la Gare",
   "hn": "24",
   "lat": 46.3828458,
   "lng": 6.2369449,
-  "mieter": []
+  "mieter": [
+   "Alexandre Bally"
+  ]
  },
  "nyon|rue de la gare|20": {
   "street": "Rue de la Gare",
   "hn": "20",
   "lat": 46.3827468,
   "lng": 6.2371099,
-  "mieter": []
+  "mieter": [
+   "Gidor"
+  ]
  },
  "nyon|rue de la gare|26": {
   "street": "Rue de la Gare",
   "hn": "26",
   "lat": 46.382889,
   "lng": 6.2368379,
-  "mieter": []
+  "mieter": [
+   "McCafé"
+  ]
  },
  "nyon|rue de la gare|22": {
   "street": "Rue de la Gare",
   "hn": "22",
   "lat": 46.3827793,
   "lng": 6.2370217,
-  "mieter": []
+  "mieter": [
+   "Sabrina"
+  ]
  },
  "nyon|rue de la gare|28": {
   "street": "Rue de la Gare",
   "hn": "28",
   "lat": 46.3829217,
   "lng": 6.2367163,
-  "mieter": []
+  "mieter": [
+   "McDonald's"
+  ]
  },
  "nyon|rue de la gare|16": {
   "street": "Rue de la Gare",
@@ -692,35 +954,49 @@
   "hn": "34",
   "lat": 46.3830634,
   "lng": 6.236416,
-  "mieter": []
+  "mieter": [
+   "Mama Jolie",
+   "Marionnaud",
+   "McOptic"
+  ]
  },
  "nyon|rue de la gare|39": {
   "street": "Rue de la Gare",
   "hn": "39",
   "lat": 46.3833515,
   "lng": 6.2363885,
-  "mieter": []
+  "mieter": [
+   "GBT",
+   "Shanti"
+  ]
  },
  "nyon|rue neuve|5": {
   "street": "Rue Neuve",
   "hn": "5",
   "lat": 46.3831979,
   "lng": 6.2382793,
-  "mieter": []
+  "mieter": [
+   "Movie Hair",
+   "Tapis d'Orient"
+  ]
  },
  "nyon|rue neuve|3": {
   "street": "Rue Neuve",
   "hn": "3",
   "lat": 46.3832836,
   "lng": 6.2384876,
-  "mieter": []
+  "mieter": [
+   "Divin creation"
+  ]
  },
  "nyon|rue de la gare|19": {
   "street": "Rue de la Gare",
   "hn": "19",
   "lat": 46.3828987,
   "lng": 6.2372809,
-  "mieter": []
+  "mieter": [
+   "Le Kiosque"
+  ]
  },
  "nyon|rue de rive|1": {
   "street": "Rue de Rive",
@@ -734,7 +1010,9 @@
   "hn": "20",
   "lat": 46.3841151,
   "lng": 6.244682,
-  "mieter": []
+  "mieter": [
+   "Naef"
+  ]
  },
  "nyon|rue de rive|2": {
   "street": "Rue de Rive",
@@ -755,14 +1033,18 @@
   "hn": "18",
   "lat": 46.3842738,
   "lng": 6.2448325,
-  "mieter": []
+  "mieter": [
+   "Prestige & Sensation"
+  ]
  },
  "nyon|rue de rive|22": {
   "street": "Rue de Rive",
   "hn": "22",
   "lat": 46.3840175,
   "lng": 6.2444536,
-  "mieter": []
+  "mieter": [
+   "Sultan"
+  ]
  },
  "nyon|rue de rive|22a": {
   "street": "Rue de Rive",
@@ -790,7 +1072,9 @@
   "hn": "57",
   "lat": 46.3810452,
   "lng": 6.2416594,
-  "mieter": []
+  "mieter": [
+   "Eva Ferri"
+  ]
  },
  "nyon|rue de rive|43": {
   "street": "Rue de Rive",
@@ -818,7 +1102,9 @@
   "hn": "37",
   "lat": 46.3818317,
   "lng": 6.2422755,
-  "mieter": []
+  "mieter": [
+   "The Fishermen's Pub"
+  ]
  },
  "nyon|rue de rive|45": {
   "street": "Rue de Rive",
@@ -832,14 +1118,18 @@
   "hn": "35",
   "lat": 46.3819322,
   "lng": 6.242241,
-  "mieter": []
+  "mieter": [
+   "Steiner"
+  ]
  },
  "nyon|rue de rive|41": {
   "street": "Rue de Rive",
   "hn": "41",
   "lat": 46.3817107,
   "lng": 6.2420653,
-  "mieter": []
+  "mieter": [
+   "Del Conte"
+  ]
  },
  "nyon|rue de rive|51": {
   "street": "Rue de Rive",
@@ -860,21 +1150,27 @@
   "hn": "21",
   "lat": 46.3820892,
   "lng": 6.2427814,
-  "mieter": []
+  "mieter": [
+   "Eva Ferri"
+  ]
  },
  "nyon|rue de rive|19": {
   "street": "Rue de Rive",
   "hn": "19",
   "lat": 46.3821674,
   "lng": 6.242901,
-  "mieter": []
+  "mieter": [
+   "Rive Marine"
+  ]
  },
  "nyon|rue de rive|17": {
   "street": "Rue de Rive",
   "hn": "17",
   "lat": 46.3822238,
   "lng": 6.2430073,
-  "mieter": []
+  "mieter": [
+   "Lo du Lac"
+  ]
  },
  "nyon|rue de rive|58bis": {
   "street": "Rue de Rive",
@@ -888,14 +1184,18 @@
   "hn": "58",
   "lat": 46.381707,
   "lng": 6.2416956,
-  "mieter": []
+  "mieter": [
+   "L'Antiquaire"
+  ]
  },
  "nyon|rue de rive|56": {
   "street": "Rue de Rive",
   "hn": "56",
   "lat": 46.3817595,
   "lng": 6.2417212,
-  "mieter": []
+  "mieter": [
+   "Carla G"
+  ]
  },
  "nyon|rue de rive|60": {
   "street": "Rue de Rive",
@@ -916,7 +1216,10 @@
   "hn": "54",
   "lat": 46.3818791,
   "lng": 6.241857,
-  "mieter": []
+  "mieter": [
+   "Le Tac-Oh",
+   "Asia Market"
+  ]
  },
  "nyon|rue de rive|24": {
   "street": "Rue de Rive",
@@ -930,28 +1233,36 @@
   "hn": "32",
   "lat": 46.3826907,
   "lng": 6.2429736,
-  "mieter": []
+  "mieter": [
+   "Engel & Völkers"
+  ]
  },
  "nyon|rue de rive|42": {
   "street": "Rue de Rive",
   "hn": "42",
   "lat": 46.3823116,
   "lng": 6.2426355,
-  "mieter": []
+  "mieter": [
+   "Rilsa"
+  ]
  },
  "nyon|rue de rive|40": {
   "street": "Rue de Rive",
   "hn": "40",
   "lat": 46.3823544,
   "lng": 6.242674,
-  "mieter": []
+  "mieter": [
+   "Chez mon oncle"
+  ]
  },
  "nyon|rue de rive|44": {
   "street": "Rue de Rive",
   "hn": "44",
   "lat": 46.3822726,
   "lng": 6.2425907,
-  "mieter": []
+  "mieter": [
+   "Art Shop"
+  ]
  },
  "nyon|rue de rive|50": {
   "street": "Rue de Rive",
@@ -972,21 +1283,27 @@
   "hn": "26",
   "lat": 46.3828932,
   "lng": 6.2433252,
-  "mieter": []
+  "mieter": [
+   "Cardis Immobilier"
+  ]
  },
  "nyon|rue de rive|30": {
   "street": "Rue de Rive",
   "hn": "30",
   "lat": 46.3827312,
   "lng": 6.2431298,
-  "mieter": []
+  "mieter": [
+   "Angelika Chollet"
+  ]
  },
  "nyon|rue de rive|28": {
   "street": "Rue de Rive",
   "hn": "28",
   "lat": 46.3827841,
   "lng": 6.2432821,
-  "mieter": []
+  "mieter": [
+   "Le Léman"
+  ]
  },
  "nyon|rue de rive|11": {
   "street": "Rue de Rive",
@@ -1009,81 +1326,11 @@
   "lng": 6.2441993,
   "mieter": []
  },
- "nyon|rue de la gare|31": {
-  "street": "Rue de la Gare",
-  "hn": "31",
-  "lat": 46.3962396,
-  "lng": 6.2449386,
-  "mieter": []
- },
- "nyon|rue de la gare|33a": {
-  "street": "Rue de la Gare",
-  "hn": "33a",
-  "lat": 46.3963573,
-  "lng": 6.2438668,
-  "mieter": []
- },
- "nyon|rue de la gare|37a": {
-  "street": "Rue de la Gare",
-  "hn": "37a",
-  "lat": 46.3965738,
-  "lng": 6.2433185,
-  "mieter": []
- },
- "nyon|rue de la gare|36a": {
-  "street": "Rue de la Gare",
-  "hn": "36a",
-  "lat": 46.3968709,
-  "lng": 6.2439734,
-  "mieter": []
- },
- "nyon|rue de la gare|33": {
-  "street": "Rue de la Gare",
-  "hn": "33",
-  "lat": 46.3964497,
-  "lng": 6.2439031,
-  "mieter": []
- },
- "nyon|rue de la gare|19d": {
-  "street": "Rue de la Gare",
-  "hn": "19d",
-  "lat": 46.395047,
-  "lng": 6.245882,
-  "mieter": []
- },
- "nyon|rue de la gare|15b": {
-  "street": "Rue de la Gare",
-  "hn": "15b",
-  "lat": 46.3945714,
-  "lng": 6.2464511,
-  "mieter": []
- },
- "nyon|rue de la gare|15": {
-  "street": "Rue de la Gare",
-  "hn": "15",
-  "lat": 46.3948287,
-  "lng": 6.2467753,
-  "mieter": []
- },
- "nyon|rue de la gare|14a": {
-  "street": "Rue de la Gare",
-  "hn": "14a",
-  "lat": 46.3947415,
-  "lng": 6.2480249,
-  "mieter": []
- },
- "nyon|rue de la gare|12": {
-  "street": "Rue de la Gare",
-  "hn": "12",
-  "lat": 46.3945692,
-  "lng": 6.2482033,
-  "mieter": []
- },
- "nyon|rue de la gare|29": {
-  "street": "Rue de la Gare",
-  "hn": "29",
-  "lat": 46.3954806,
-  "lng": 6.2451329,
+ "nyon|rue de la morâche|10": {
+  "street": "Rue de la Morâche",
+  "hn": "10",
+  "lat": 46.3830598,
+  "lng": 6.2331664,
   "mieter": []
  },
  "nyon|grand-rue|26": {
@@ -1091,7 +1338,10 @@
   "hn": "26",
   "lat": 46.3815754,
   "lng": 6.2388456,
-  "mieter": []
+  "mieter": [
+   "LTendance",
+   "Marchesi & Fils SA"
+  ]
  },
  "nyon|grand-rue|38": {
   "street": "Grand-Rue",
@@ -1107,13 +1357,6 @@
   "lng": 6.2382476,
   "mieter": []
  },
- "nyon|rue de la gare|19c": {
-  "street": "Rue de la Gare",
-  "hn": "19c",
-  "lat": 46.3951838,
-  "lng": 6.2461025,
-  "mieter": []
- },
  "nyon|rue de rive|5": {
   "street": "Rue de Rive",
   "hn": "5",
@@ -1121,18 +1364,121 @@
   "lng": 6.2464276,
   "mieter": []
  },
- "nyon|rue de la gare|19a": {
+ "nyon|rue de la gare|22b": {
   "street": "Rue de la Gare",
-  "hn": "19a",
-  "lat": 46.3953359,
-  "lng": 6.246297,
-  "mieter": []
+  "hn": "22b",
+  "lat": 46.382861,
+  "lng": 6.237023,
+  "mieter": [],
+  "extra": true
  },
- "nyon|rue de la gare|19b": {
-  "street": "Rue de la Gare",
-  "hn": "19b",
-  "lat": 46.3952598,
-  "lng": 6.2461998,
-  "mieter": []
+ "nyon|rue de rive|22c": {
+  "street": "Rue de Rive",
+  "hn": "22c",
+  "lat": 46.38425,
+  "lng": 6.244035,
+  "mieter": [],
+  "extra": true
+ },
+ "nyon|rue de rive|22b": {
+  "street": "Rue de Rive",
+  "hn": "22b",
+  "lat": 46.384232,
+  "lng": 6.244004,
+  "mieter": [],
+  "extra": true
+ },
+ "nyon|rue de rive|22d": {
+  "street": "Rue de Rive",
+  "hn": "22d",
+  "lat": 46.384269,
+  "lng": 6.244064,
+  "mieter": [],
+  "extra": true
+ },
+ "nyon|rue de rive|23": {
+  "street": "Rue de Rive",
+  "hn": "23",
+  "lat": 46.382025,
+  "lng": 6.242515,
+  "mieter": [],
+  "extra": true
+ },
+ "nyon|rue de rive|67": {
+  "street": "Rue de Rive",
+  "hn": "67",
+  "lat": 46.380741,
+  "lng": 6.241408,
+  "mieter": [],
+  "extra": true
+ },
+ "nyon|rue de rive|72": {
+  "street": "Rue de Rive",
+  "hn": "72",
+  "lat": 46.381167,
+  "lng": 6.240889,
+  "mieter": [],
+  "extra": true
+ },
+ "nyon|grand-rue|32": {
+  "street": "Grand-Rue",
+  "hn": "32",
+  "lat": 46.381195,
+  "lng": 6.238974,
+  "mieter": [],
+  "extra": true
+ },
+ "nyon|grand-rue|30": {
+  "street": "Grand-Rue",
+  "hn": "30",
+  "lat": 46.381241,
+  "lng": 6.238923,
+  "mieter": [],
+  "extra": true
+ },
+ "nyon|place du marché|4": {
+  "street": "Place du Marché",
+  "hn": "4",
+  "lat": 46.38201,
+  "lng": 6.238353,
+  "mieter": [
+   "Argecil SA",
+   "Sweetch"
+  ],
+  "extra": true
+ },
+ "nyon|place du marché|8": {
+  "street": "Place du Marché",
+  "hn": "8",
+  "lat": 46.382053,
+  "lng": 6.238206,
+  "mieter": [],
+  "extra": true
+ },
+ "nyon|place du marché|6": {
+  "street": "Place du Marché",
+  "hn": "6",
+  "lat": 46.382017,
+  "lng": 6.238319,
+  "mieter": [
+   "Ptit Croissant"
+  ],
+  "extra": true
+ },
+ "nyon|rue de la morâche|20": {
+  "street": "Rue de la Morâche",
+  "hn": "20",
+  "lat": 46.383857,
+  "lng": 6.232251,
+  "mieter": [],
+  "extra": true
+ },
+ "nyon|rue de la morâche|18": {
+  "street": "Rue de la Morâche",
+  "hn": "18",
+  "lat": 46.383812,
+  "lng": 6.232407,
+  "mieter": [],
+  "extra": true
  }
 }
