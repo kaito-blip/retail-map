@@ -402,10 +402,10 @@
       "Zaunplatz",
       "Bahnhofstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-    "offen": "128"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1; Rest Anfrage Grundbuchamt GL (grundbuchamt@gl.ch, verifiziert 08.11.2026)",
+    "offen": "100"
   },
   {
     "kanton": "AR",
