@@ -105,6 +105,16 @@
   "lng": 8.0513737,
   "mieter": []
  },
+ "aarau|graben|29": {
+  "street": "Graben",
+  "hn": "29",
+  "lat": 47.3918935,
+  "lng": 8.0451601,
+  "mieter": [
+   "Interdiscount",
+   "Ochsner Sport"
+  ]
+ },
  "aarau|rathausgasse|9": {
   "street": "Rathausgasse",
   "hn": "9",
@@ -145,12 +155,43 @@
    "Arzthaus"
   ]
  },
+ "aarau|kasinostrasse|30": {
+  "street": "Kasinostrasse",
+  "hn": "30",
+  "lat": 47.3919839,
+  "lng": 8.0466927,
+  "mieter": [
+   "Frei",
+   "Saner Drogerie",
+   "Schuh Treff",
+   "Zebra",
+   "Sanacare"
+  ]
+ },
  "aarau|bahnhofstrasse|2a": {
   "street": "Bahnhofstrasse",
   "hn": "2a",
   "lat": 47.3897061,
   "lng": 8.0456023,
   "mieter": []
+ },
+ "aarau|kasinostrasse|41": {
+  "street": "Kasinostrasse",
+  "hn": "41",
+  "lat": 47.3915176,
+  "lng": 8.0474619,
+  "mieter": [
+   "Bayard Co Ltd"
+  ]
+ },
+ "aarau|kasinostrasse|38": {
+  "street": "Kasinostrasse",
+  "hn": "38",
+  "lat": 47.3914897,
+  "lng": 8.0470305,
+  "mieter": [
+   "C&A"
+  ]
  },
  "aarau|bahnhofstrasse|35": {
   "street": "Bahnhofstrasse",
@@ -170,23 +211,24 @@
    "Pizzahüsli"
   ]
  },
- "aarau|kronengasse|4": {
-  "street": "Kronengasse",
-  "hn": "4",
-  "lat": 47.3928765,
-  "lng": 8.0441054,
+ "aarau|kasinostrasse|19": {
+  "street": "Kasinostrasse",
+  "hn": "19",
+  "lat": 47.3925593,
+  "lng": 8.0468843,
   "mieter": [
-   "Chocolats de Luxe Mark Bachmann",
-   "Jenny Brun"
+   "Bastel-Huus Amsler AG",
+   "Chiccoree Fasion Outlet"
   ]
  },
- "aarau|vordere vorstadt|14": {
-  "street": "Vordere Vorstadt",
-  "hn": "14",
-  "lat": 47.3907871,
-  "lng": 8.0449166,
+ "aarau|graben|31": {
+  "street": "Graben",
+  "hn": "31",
+  "lat": 47.3918051,
+  "lng": 8.0449938,
   "mieter": [
-   "Spielstatt"
+   "Waldmeier",
+   "Marionnaud"
   ]
  },
  "aarau|rathausgasse|14": {
@@ -216,22 +258,14 @@
    "Rollin Rock"
   ]
  },
- "aarau|kronengasse|3": {
-  "street": "Kronengasse",
-  "hn": "3",
-  "lat": 47.3929773,
-  "lng": 8.0439972,
+ "aarau|graben|36": {
+  "street": "Graben",
+  "hn": "36",
+  "lat": 47.392026,
+  "lng": 8.0447147,
   "mieter": [
-   "Scalo"
-  ]
- },
- "aarau|kronengasse|7": {
-  "street": "Kronengasse",
-  "hn": "7",
-  "lat": 47.3930422,
-  "lng": 8.0441487,
-  "mieter": [
-   "Max & Moriz"
+   "Thep Thai",
+   "Rent a Box"
   ]
  },
  "aarau|bahnhofstrasse|31": {
@@ -241,15 +275,6 @@
   "lng": 8.0473368,
   "mieter": [
    "Gygax Uhren Schmuck Erleben"
-  ]
- },
- "aarau|vordere vorstadt|25": {
-  "street": "Vordere Vorstadt",
-  "hn": "25",
-  "lat": 47.390865,
-  "lng": 8.0451799,
-  "mieter": [
-   "Lucky Monkey"
   ]
  },
  "aarau|bahnhofstrasse|15": {
@@ -270,6 +295,33 @@
    "Bücher Lüthy"
   ]
  },
+ "aarau|kasinostrasse|25": {
+  "street": "Kasinostrasse",
+  "hn": "25",
+  "lat": 47.3921561,
+  "lng": 8.0470762,
+  "mieter": [
+   "Bernheim Ladies Fashion"
+  ]
+ },
+ "aarau|kasinostrasse|29": {
+  "street": "Kasinostrasse",
+  "hn": "29",
+  "lat": 47.3919327,
+  "lng": 8.0471943,
+  "mieter": [
+   "Bernheim Ladies Fashion"
+  ]
+ },
+ "aarau|kasinostrasse|37": {
+  "street": "Kasinostrasse",
+  "hn": "37",
+  "lat": 47.3916713,
+  "lng": 8.0473647,
+  "mieter": [
+   "Raiffeisen"
+  ]
+ },
  "aarau|igelweid|9": {
   "street": "Igelweid",
   "hn": "9",
@@ -279,6 +331,15 @@
    "Ochsner Shoes"
   ]
  },
+ "aarau|kasinostrasse|40": {
+  "street": "Kasinostrasse",
+  "hn": "40",
+  "lat": 47.391347,
+  "lng": 8.0473048,
+  "mieter": [
+   "Varibelle"
+  ]
+ },
  "aarau|igelweid|1": {
   "street": "Igelweid",
   "hn": "1",
@@ -286,6 +347,34 @@
   "lng": 8.0454621,
   "mieter": [
    "Fielmann"
+  ]
+ },
+ "aarau|graben|6": {
+  "street": "Graben",
+  "hn": "6",
+  "lat": 47.3929881,
+  "lng": 8.045533,
+  "mieter": [
+   "Mr. Pick Wick Pub"
+  ]
+ },
+ "aarau|graben|18": {
+  "street": "Graben",
+  "hn": "18",
+  "lat": 47.3924194,
+  "lng": 8.0456036,
+  "mieter": [
+   "Jaisli-Beck"
+  ]
+ },
+ "aarau|graben|15": {
+  "street": "Graben",
+  "hn": "15",
+  "lat": 47.3924018,
+  "lng": 8.0461166,
+  "mieter": [
+   "Stadtbibliothek Aarau",
+   "Gelateria di Berna"
   ]
  },
  "aarau|rathausgasse|28": {
@@ -306,6 +395,28 @@
    "Ticino"
   ]
  },
+ "aarau|kasinostrasse|32": {
+  "street": "Kasinostrasse",
+  "hn": "32",
+  "lat": 47.3917167,
+  "lng": 8.0470681,
+  "mieter": [
+   "Dosenbach",
+   "Careland Apotheke Aarau",
+   "Calida",
+   "Akustik Schweiz"
+  ]
+ },
+ "aarau|kasinostrasse|17": {
+  "street": "Kasinostrasse",
+  "hn": "17",
+  "lat": 47.3926309,
+  "lng": 8.0468146,
+  "mieter": [
+   "Wöhrle Taschen & Koffer",
+   "Cler"
+  ]
+ },
  "aarau|rathausgasse|31": {
   "street": "Rathausgasse",
   "hn": "31",
@@ -322,13 +433,13 @@
    "fontis"
   ]
  },
- "aarau|vordere vorstadt|7": {
-  "street": "Vordere Vorstadt",
-  "hn": "7",
-  "lat": 47.3913953,
-  "lng": 8.0448793,
+ "aarau|kasinostrasse|15": {
+  "street": "Kasinostrasse",
+  "hn": "15",
+  "lat": 47.3928264,
+  "lng": 8.0467071,
   "mieter": [
-   "Zum Gmüesrad"
+   "PKZ"
   ]
  },
  "aarau|bahnhofstrasse|55": {
@@ -367,15 +478,6 @@
   "lng": 8.045499,
   "mieter": [
    "Stoffzentrale Aarau"
-  ]
- },
- "aarau|vordere vorstadt|1": {
-  "street": "Vordere Vorstadt",
-  "hn": "1",
-  "lat": 47.3916506,
-  "lng": 8.0447284,
-  "mieter": [
-   "Oberturm Uhren Schmuck"
   ]
  },
  "aarau|bahnhofstrasse|49": {
@@ -540,104 +642,18 @@
    "Kresom"
   ]
  },
+ "aarau|kasinostrasse|13": {
+  "street": "Kasinostrasse",
+  "hn": "13",
+  "lat": 47.3929814,
+  "lng": 8.0466587,
+  "mieter": []
+ },
  "aarau|bahnhofstrasse|1": {
   "street": "Bahnhofstrasse",
   "hn": "1",
   "lat": 47.3905743,
   "lng": 8.0454361,
-  "mieter": []
- },
- "aarau|vordere vorstadt|10": {
-  "street": "Vordere Vorstadt",
-  "hn": "10",
-  "lat": 47.3910577,
-  "lng": 8.0447286,
-  "mieter": []
- },
- "aarau|vordere vorstadt|12": {
-  "street": "Vordere Vorstadt",
-  "hn": "12",
-  "lat": 47.3909819,
-  "lng": 8.044761,
-  "mieter": []
- },
- "aarau|vordere vorstadt|15": {
-  "street": "Vordere Vorstadt",
-  "hn": "15",
-  "lat": 47.3911468,
-  "lng": 8.0449537,
-  "mieter": []
- },
- "aarau|vordere vorstadt|16": {
-  "street": "Vordere Vorstadt",
-  "hn": "16",
-  "lat": 47.390895,
-  "lng": 8.0448208,
-  "mieter": [
-   "Millepiedi"
-  ]
- },
- "aarau|vordere vorstadt|17": {
-  "street": "Vordere Vorstadt",
-  "hn": "17",
-  "lat": 47.3911227,
-  "lng": 8.0449909,
-  "mieter": []
- },
- "aarau|vordere vorstadt|18": {
-  "street": "Vordere Vorstadt",
-  "hn": "18",
-  "lat": 47.3908358,
-  "lng": 8.0448568,
-  "mieter": [
-   "Urech Optik"
-  ]
- },
- "aarau|vordere vorstadt|19": {
-  "street": "Vordere Vorstadt",
-  "hn": "19",
-  "lat": 47.3910682,
-  "lng": 8.0450392,
-  "mieter": []
- },
- "aarau|vordere vorstadt|20": {
-  "street": "Vordere Vorstadt",
-  "hn": "20",
-  "lat": 47.3907668,
-  "lng": 8.0448997,
-  "mieter": []
- },
- "aarau|vordere vorstadt|21": {
-  "street": "Vordere Vorstadt",
-  "hn": "21",
-  "lat": 47.3910101,
-  "lng": 8.0450875,
-  "mieter": [
-   "Arnold Rahmenmanufaktur"
-  ]
- },
- "aarau|vordere vorstadt|27": {
-  "street": "Vordere Vorstadt",
-  "hn": "27",
-  "lat": 47.3907258,
-  "lng": 8.0452205,
-  "mieter": [
-   "Alandaia Spa",
-   "knecht reisen"
-  ]
- },
- "aarau|vordere vorstadt|8": {
-  "street": "Vordere Vorstadt",
-  "hn": "8",
-  "lat": 47.3911699,
-  "lng": 8.0446798,
-  "mieter": []
- },
- "aarau|vordere vorstadt|9": {
-  "street": "Vordere Vorstadt",
-  "hn": "9",
-  "lat": 47.3913006,
-  "lng": 8.0449104,
   "mieter": []
  },
  "aarau|rathausgasse|1": {
@@ -648,29 +664,6 @@
   "mieter": [
    "Stadtverwaltung Aarau"
   ]
- },
- "aarau|vordere vorstadt|26": {
-  "street": "Vordere Vorstadt",
-  "hn": "26",
-  "lat": 47.3905171,
-  "lng": 8.0449403,
-  "mieter": [
-   "Von Däniken"
-  ]
- },
- "aarau|vordere vorstadt|22": {
-  "street": "Vordere Vorstadt",
-  "hn": "22",
-  "lat": 47.3907132,
-  "lng": 8.0449282,
-  "mieter": []
- },
- "aarau|vordere vorstadt|24": {
-  "street": "Vordere Vorstadt",
-  "hn": "24",
-  "lat": 47.3906479,
-  "lng": 8.0449617,
-  "mieter": []
  },
  "aarau|bahnhofstrasse|57": {
   "street": "Bahnhofstrasse",
@@ -688,6 +681,123 @@
   "lng": 8.0477358,
   "mieter": [
    "Schweizerischer Turnverband STV"
+  ]
+ },
+ "aarau|graben|35": {
+  "street": "Graben",
+  "hn": "35",
+  "lat": 47.3916947,
+  "lng": 8.0448268,
+  "mieter": [
+   "Sunrise"
+  ]
+ },
+ "aarau|graben|9": {
+  "street": "Graben",
+  "hn": "9",
+  "lat": 47.3928472,
+  "lng": 8.0461058,
+  "mieter": [
+   "Ludothek Aarau",
+   "Gynpraxis am Graben"
+  ]
+ },
+ "aarau|graben|37": {
+  "street": "Graben",
+  "hn": "37",
+  "lat": 47.3916856,
+  "lng": 8.0448082,
+  "mieter": []
+ },
+ "aarau|graben|32": {
+  "street": "Graben",
+  "hn": "32",
+  "lat": 47.3921259,
+  "lng": 8.0449504,
+  "mieter": [
+   "Amplifon"
+  ]
+ },
+ "aarau|graben|28": {
+  "street": "Graben",
+  "hn": "28",
+  "lat": 47.3921749,
+  "lng": 8.045127,
+  "mieter": [
+   "Chäsbueb"
+  ]
+ },
+ "aarau|graben|26": {
+  "street": "Graben",
+  "hn": "26",
+  "lat": 47.3922187,
+  "lng": 8.0452175,
+  "mieter": [
+   "Schuh Wehrli"
+  ]
+ },
+ "aarau|graben|34": {
+  "street": "Graben",
+  "hn": "34",
+  "lat": 47.3921054,
+  "lng": 8.0448292,
+  "mieter": [
+   "Kramer"
+  ]
+ },
+ "aarau|graben|10": {
+  "street": "Graben",
+  "hn": "10",
+  "lat": 47.3927812,
+  "lng": 8.0456254,
+  "mieter": []
+ },
+ "aarau|graben|2": {
+  "street": "Graben",
+  "hn": "2",
+  "lat": 47.3931421,
+  "lng": 8.0455513,
+  "mieter": []
+ },
+ "aarau|graben|4": {
+  "street": "Graben",
+  "hn": "4",
+  "lat": 47.3930781,
+  "lng": 8.0455379,
+  "mieter": [
+   "Globetrotter"
+  ]
+ },
+ "aarau|graben|12": {
+  "street": "Graben",
+  "hn": "12",
+  "lat": 47.3927078,
+  "lng": 8.0457217,
+  "mieter": []
+ },
+ "aarau|graben|14": {
+  "street": "Graben",
+  "hn": "14",
+  "lat": 47.3926475,
+  "lng": 8.0457002,
+  "mieter": [
+   "Smash Meat"
+  ]
+ },
+ "aarau|graben|8": {
+  "street": "Graben",
+  "hn": "8",
+  "lat": 47.3928365,
+  "lng": 8.0456788,
+  "mieter": []
+ },
+ "aarau|graben|16": {
+  "street": "Graben",
+  "hn": "16",
+  "lat": 47.3925508,
+  "lng": 8.0456626,
+  "mieter": [
+   "Helvetisch"
   ]
  },
  "aarau|rathausgasse|11": {
@@ -712,6 +822,20 @@
   "mieter": [
    "Gourmet Take Away 53"
   ]
+ },
+ "aarau|kasinostrasse|39": {
+  "street": "Kasinostrasse",
+  "hn": "39",
+  "lat": 47.3915248,
+  "lng": 8.0474382,
+  "mieter": []
+ },
+ "aarau|kasinostrasse|33": {
+  "street": "Kasinostrasse",
+  "hn": "33",
+  "lat": 47.3918167,
+  "lng": 8.0472642,
+  "mieter": []
  },
  "aarau|bahnhofstrasse|23": {
   "street": "Bahnhofstrasse",
@@ -739,15 +863,6 @@
   "lng": 8.0440523,
   "mieter": [
    "Aaro Design"
-  ]
- },
- "aarau|kronengasse|9": {
-  "street": "Kronengasse",
-  "hn": "9",
-  "lat": 47.3930737,
-  "lng": 8.0442305,
-  "mieter": [
-   "Kronengasse"
   ]
  },
  "aarau|rathausgasse|13": {
@@ -789,6 +904,15 @@
   "lng": 8.0473433,
   "mieter": []
  },
+ "aarau|graben|42": {
+  "street": "Graben",
+  "hn": "42",
+  "lat": 47.391736,
+  "lng": 8.0445066,
+  "mieter": [
+   "Sanitätsartikel Fränzi Götz"
+  ]
+ },
  "aarau|rathausgasse|30": {
   "street": "Rathausgasse",
   "hn": "30",
@@ -803,60 +927,20 @@
   "lng": 8.0465274,
   "mieter": []
  },
- "aarau|vordere vorstadt|23": {
-  "street": "Vordere Vorstadt",
-  "hn": "23",
-  "lat": 47.3907998,
-  "lng": 8.0450819,
-  "mieter": []
- },
- "aarau|vordere vorstadt|11": {
-  "street": "Vordere Vorstadt",
-  "hn": "11",
-  "lat": 47.3912605,
-  "lng": 8.0448753,
-  "mieter": []
- },
- "aarau|vordere vorstadt|31": {
-  "street": "Vordere Vorstadt",
-  "hn": "31",
-  "lat": 47.3906036,
-  "lng": 8.0453176,
-  "mieter": []
- },
- "aarau|vordere vorstadt|3": {
-  "street": "Vordere Vorstadt",
-  "hn": "3",
-  "lat": 47.3914974,
-  "lng": 8.0447609,
-  "mieter": []
+ "aarau|graben|30": {
+  "street": "Graben",
+  "hn": "30",
+  "lat": 47.3921588,
+  "lng": 8.0450287,
+  "mieter": [
+   "Coco's Corner"
+  ]
  },
  "aarau|bahnhofstrasse|5": {
   "street": "Bahnhofstrasse",
   "hn": "5",
   "lat": 47.390778,
   "lng": 8.0455908,
-  "mieter": []
- },
- "aarau|vordere vorstadt|5": {
-  "street": "Vordere Vorstadt",
-  "hn": "5",
-  "lat": 47.3914825,
-  "lng": 8.0447693,
-  "mieter": []
- },
- "aarau|vordere vorstadt|13": {
-  "street": "Vordere Vorstadt",
-  "hn": "13",
-  "lat": 47.3911786,
-  "lng": 8.0449108,
-  "mieter": []
- },
- "aarau|vordere vorstadt|29": {
-  "street": "Vordere Vorstadt",
-  "hn": "29",
-  "lat": 47.3906819,
-  "lng": 8.0452295,
   "mieter": []
  },
  "aarau|igelweid|6": {
@@ -908,25 +992,25 @@
   "lng": 8.045555,
   "mieter": []
  },
+ "aarau|graben|22": {
+  "street": "Graben",
+  "hn": "22",
+  "lat": 47.392409,
+  "lng": 8.0453588,
+  "mieter": []
+ },
+ "aarau|graben|24": {
+  "street": "Graben",
+  "hn": "24",
+  "lat": 47.3923626,
+  "lng": 8.0452712,
+  "mieter": []
+ },
  "aarau|rathausgasse|8": {
   "street": "Rathausgasse",
   "hn": "8",
   "lat": 47.39288,
   "lng": 8.0435021,
-  "mieter": []
- },
- "aarau|kronengasse|2": {
-  "street": "Kronengasse",
-  "hn": "2",
-  "lat": 47.3928293,
-  "lng": 8.0439586,
-  "mieter": []
- },
- "aarau|kronengasse|6": {
-  "street": "Kronengasse",
-  "hn": "6",
-  "lat": 47.3929141,
-  "lng": 8.0441571,
   "mieter": []
  },
  "aarau|rathausgasse|19": {
@@ -948,6 +1032,20 @@
   "hn": "76",
   "lat": 47.392143,
   "lng": 8.05172,
+  "mieter": []
+ },
+ "aarau|kasinostrasse|11": {
+  "street": "Kasinostrasse",
+  "hn": "11",
+  "lat": 47.3930855,
+  "lng": 8.0476428,
+  "mieter": []
+ },
+ "aarau|graben|38": {
+  "street": "Graben",
+  "hn": "38",
+  "lat": 47.39197,
+  "lng": 8.044606,
   "mieter": []
  },
  "aarau|bahnhofstrasse|91": {
@@ -975,6 +1073,13 @@
   "lng": 8.045395,
   "mieter": []
  },
+ "aarau|kasinostrasse|5": {
+  "street": "Kasinostrasse",
+  "hn": "5",
+  "lat": 47.3931764,
+  "lng": 8.0466294,
+  "mieter": []
+ },
  "aarau|bahnhofstrasse|4": {
   "street": "Bahnhofstrasse",
   "hn": "4",
@@ -987,13 +1092,6 @@
   "hn": "7",
   "lat": 47.3921506,
   "lng": 8.0462592,
-  "mieter": []
- },
- "aarau|kronengasse|1": {
-  "street": "Kronengasse",
-  "hn": "1",
-  "lat": 47.3929548,
-  "lng": 8.0438454,
   "mieter": []
  },
  "aarau|rathausgasse|5": {
@@ -1010,13 +1108,6 @@
   "lng": 8.0434376,
   "mieter": []
  },
- "aarau|kronengasse|5": {
-  "street": "Kronengasse",
-  "hn": "5",
-  "lat": 47.393045,
-  "lng": 8.0440236,
-  "mieter": []
- },
  "aarau|rathausgasse|6": {
   "street": "Rathausgasse",
   "hn": "6",
@@ -1031,11 +1122,11 @@
   "lng": 8.0431522,
   "mieter": []
  },
- "aarau|kronengasse|8": {
-  "street": "Kronengasse",
-  "hn": "8",
-  "lat": 47.3929244,
-  "lng": 8.0443295,
+ "aarau|kasinostrasse|5.1": {
+  "street": "Kasinostrasse",
+  "hn": "5.1",
+  "lat": 47.3932839,
+  "lng": 8.0469967,
   "mieter": []
  },
  "aarau|rathausgasse|18": {
@@ -1043,6 +1134,27 @@
   "hn": "18",
   "lat": 47.3925016,
   "lng": 8.043772,
+  "mieter": []
+ },
+ "aarau|graben|33": {
+  "street": "Graben",
+  "hn": "33",
+  "lat": 47.391746,
+  "lng": 8.0449461,
+  "mieter": []
+ },
+ "aarau|kasinostrasse|18": {
+  "street": "Kasinostrasse",
+  "hn": "18",
+  "lat": 47.3914418,
+  "lng": 8.0471219,
+  "mieter": []
+ },
+ "aarau|kasinostrasse|30-32": {
+  "street": "Kasinostrasse",
+  "hn": "30-32",
+  "lat": 47.3918056,
+  "lng": 8.0468448,
   "mieter": []
  }
 }
