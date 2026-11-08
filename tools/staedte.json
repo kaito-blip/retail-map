@@ -848,12 +848,13 @@
       "Untere Bahnhofstrasse",
       "Marktgasse",
       "Hofplatz",
-      "Toggenburgerstrasse"
+      "Toggenburgerstrasse",
+      "Kirchgasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-    "offen": "304"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (Marktgasse 41 SPA, Obere Bahnhofstrasse 38 Pensimo, 39 Schroder ImmoPLUS, Toggenburgerstrasse 156 Ecoreal): 4; Botschaft Regierung SG 38.20.02 (Marktgasse 88 Stiftung Hof zu Wil): 1; Rest über Grundbuchamt Wil, Marktgasse 58, 9500 Wil, 071 913 52 44, grundbuchamt@stadtwil.ch (verifiziert)",
+    "offen": "219"
   },
   {
     "kanton": "TI",

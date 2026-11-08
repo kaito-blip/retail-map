@@ -4,9 +4,7 @@
   "hn": "58",
   "lat": 47.4670218,
   "lng": 9.048891,
-  "mieter": [
-   "Rathaus"
-  ]
+  "mieter": []
  },
  "wil|obere bahnhofstrasse|53": {
   "street": "Obere Bahnhofstrasse",
@@ -26,13 +24,6 @@
    "Shell",
    "Migrolino"
   ]
- },
- "wil|toggenburgerstrasse|3": {
-  "street": "Toggenburgerstrasse",
-  "hn": "3",
-  "lat": 47.4525995,
-  "lng": 9.050053,
-  "mieter": []
  },
  "wil|marktgasse|74": {
   "street": "Marktgasse",
@@ -58,7 +49,9 @@
   "lng": 9.0433143,
   "mieter": [
    "Søstrene Grene",
-   "Boulevard"
+   "Boulevard",
+   "mobilezone",
+   "Swan21"
   ]
  },
  "wil|obere bahnhofstrasse|37": {
@@ -110,7 +103,8 @@
   "lat": 47.4651479,
   "lng": 9.0460888,
   "mieter": [
-   "Rotpunkt Apotheke"
+   "Rotpunkt Apotheke",
+   "mewis"
   ]
  },
  "wil|obere bahnhofstrasse|49": {
@@ -121,7 +115,9 @@
   "mieter": [
    "Tiefenbacher",
    "Rhomberg",
-   "Nittaya"
+   "Nittaya",
+   "Mobey",
+   "Perfekta"
   ]
  },
  "wil|obere bahnhofstrasse|28": {
@@ -131,7 +127,8 @@
   "lng": 9.0444152,
   "mieter": [
    "Only",
-   "zahnarztzentrum.ch Wil"
+   "zahnarztzentrum.ch Wil",
+   "Evolet"
   ]
  },
  "wil|obere bahnhofstrasse|36": {
@@ -171,63 +168,6 @@
    "Clevermobile"
   ]
  },
- "wil|zürcherstrasse|6": {
-  "street": "Zürcherstrasse",
-  "hn": "6",
-  "lat": 47.4646664,
-  "lng": 9.0420333,
-  "mieter": [
-   "Alja",
-   "Computer Direct SG AG"
-  ]
- },
- "wil|zürcherstrasse|3": {
-  "street": "Zürcherstrasse",
-  "hn": "3",
-  "lat": 47.4644447,
-  "lng": 9.041855,
-  "mieter": [
-   "Interdiscount",
-   "Kreisel Imbiss"
-  ]
- },
- "wil|zürcherstrasse|12": {
-  "street": "Zürcherstrasse",
-  "hn": "12",
-  "lat": 47.4647179,
-  "lng": 9.040875,
-  "mieter": [
-   "Yildiz Kebab"
-  ]
- },
- "wil|zürcherstrasse|7": {
-  "street": "Zürcherstrasse",
-  "hn": "7",
-  "lat": 47.4644718,
-  "lng": 9.0411671,
-  "mieter": [
-   "Migrolino",
-   "SOCAR"
-  ]
- },
- "wil|zürcherstrasse|2": {
-  "street": "Zürcherstrasse",
-  "hn": "2",
-  "lat": 47.4646102,
-  "lng": 9.0425728,
-  "mieter": [
-   "Ex Libris"
-  ]
- },
- "wil|zürcherstrasse|4": {
-  "street": "Zürcherstrasse",
-  "hn": "4",
-  "lat": 47.4646126,
-  "lng": 9.0423616,
-  "mieter": [
-   "foto mayer"
-  ]
- },
  "wil|obere bahnhofstrasse|5": {
   "street": "Obere Bahnhofstrasse",
   "hn": "5",
@@ -256,7 +196,8 @@
   "lat": 47.4649007,
   "lng": 9.0440966,
   "mieter": [
-   "PKZ Men"
+   "PKZ Men",
+   "Chicorée"
   ]
  },
  "wil|obere bahnhofstrasse|1": {
@@ -267,6 +208,15 @@
   "mieter": [
    "Eiscafe Enrico",
    "Amavita"
+  ]
+ },
+ "wil|kirchgasse|18": {
+  "street": "Kirchgasse",
+  "hn": "18",
+  "lat": 47.4665857,
+  "lng": 9.04887,
+  "mieter": [
+   "Hong Kong"
   ]
  },
  "wil|marktgasse|51": {
@@ -285,6 +235,33 @@
   "lng": 9.0477929,
   "mieter": [
    "La Patrona"
+  ]
+ },
+ "wil|kirchgasse|11": {
+  "street": "Kirchgasse",
+  "hn": "11",
+  "lat": 47.4661855,
+  "lng": 9.0484769,
+  "mieter": [
+   "Siam Thani"
+  ]
+ },
+ "wil|kirchgasse|3": {
+  "street": "Kirchgasse",
+  "hn": "3",
+  "lat": 47.4659797,
+  "lng": 9.0480781,
+  "mieter": [
+   "zum Zebra"
+  ]
+ },
+ "wil|kirchgasse|17": {
+  "street": "Kirchgasse",
+  "hn": "17",
+  "lat": 47.4662601,
+  "lng": 9.0486927,
+  "mieter": [
+   "hair vision"
   ]
  },
  "wil|obere bahnhofstrasse|7": {
@@ -310,104 +287,6 @@
   "lng": 9.044807,
   "mieter": []
  },
- "wil|toggenburgerstrasse|70": {
-  "street": "Toggenburgerstrasse",
-  "hn": "70",
-  "lat": 47.4612272,
-  "lng": 9.0472852,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|72": {
-  "street": "Toggenburgerstrasse",
-  "hn": "72",
-  "lat": 47.4611637,
-  "lng": 9.0472839,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|76": {
-  "street": "Toggenburgerstrasse",
-  "hn": "76",
-  "lat": 47.4609896,
-  "lng": 9.047249,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|76a": {
-  "street": "Toggenburgerstrasse",
-  "hn": "76a",
-  "lat": 47.4610223,
-  "lng": 9.0470183,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|116": {
-  "street": "Toggenburgerstrasse",
-  "hn": "116",
-  "lat": 47.4566713,
-  "lng": 9.0481795,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|118": {
-  "street": "Toggenburgerstrasse",
-  "hn": "118",
-  "lat": 47.4566776,
-  "lng": 9.0479376,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|139": {
-  "street": "Toggenburgerstrasse",
-  "hn": "139",
-  "lat": 47.4547718,
-  "lng": 9.049518,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|141": {
-  "street": "Toggenburgerstrasse",
-  "hn": "141",
-  "lat": 47.4548239,
-  "lng": 9.0497645,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|143": {
-  "street": "Toggenburgerstrasse",
-  "hn": "143",
-  "lat": 47.4548072,
-  "lng": 9.0501896,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|137": {
-  "street": "Toggenburgerstrasse",
-  "hn": "137",
-  "lat": 47.455153,
-  "lng": 9.0492099,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|137a": {
-  "street": "Toggenburgerstrasse",
-  "hn": "137a",
-  "lat": 47.4551718,
-  "lng": 9.0496227,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|131": {
-  "street": "Toggenburgerstrasse",
-  "hn": "131",
-  "lat": 47.4555634,
-  "lng": 9.0492622,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|119": {
-  "street": "Toggenburgerstrasse",
-  "hn": "119",
-  "lat": 47.4566988,
-  "lng": 9.0488062,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|117": {
-  "street": "Toggenburgerstrasse",
-  "hn": "117",
-  "lat": 47.4568155,
-  "lng": 9.0487754,
-  "mieter": []
- },
  "wil|marktgasse|62": {
   "street": "Marktgasse",
   "hn": "62",
@@ -430,80 +309,9 @@
   "lat": 47.4634573,
   "lng": 9.0426952,
   "mieter": [
-   "Roger Bieri Hairstyling"
+   "Roger Bieri Hairstyling",
+   "Elektro Kuster AG"
   ]
- },
- "wil|toggenburgerstrasse|37": {
-  "street": "Toggenburgerstrasse",
-  "hn": "37",
-  "lat": 47.4480965,
-  "lng": 9.0500916,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|35": {
-  "street": "Toggenburgerstrasse",
-  "hn": "35",
-  "lat": 47.4482373,
-  "lng": 9.0500602,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|38": {
-  "street": "Toggenburgerstrasse",
-  "hn": "38",
-  "lat": 47.4480955,
-  "lng": 9.0496201,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|40": {
-  "street": "Toggenburgerstrasse",
-  "hn": "40",
-  "lat": 47.4479278,
-  "lng": 9.0496892,
-  "mieter": [
-   "TKB"
-  ]
- },
- "wil|toggenburgerstrasse|50a": {
-  "street": "Toggenburgerstrasse",
-  "hn": "50a",
-  "lat": 47.4473674,
-  "lng": 9.0499582,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|44": {
-  "street": "Toggenburgerstrasse",
-  "hn": "44",
-  "lat": 47.4476866,
-  "lng": 9.0498143,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|48": {
-  "street": "Toggenburgerstrasse",
-  "hn": "48",
-  "lat": 47.447561,
-  "lng": 9.0499057,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|46": {
-  "street": "Toggenburgerstrasse",
-  "hn": "46",
-  "lat": 47.4476248,
-  "lng": 9.0498623,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|22": {
-  "street": "Toggenburgerstrasse",
-  "hn": "22",
-  "lat": 47.4504982,
-  "lng": 9.0498164,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|24": {
-  "street": "Toggenburgerstrasse",
-  "hn": "24",
-  "lat": 47.4504051,
-  "lng": 9.0497888,
-  "mieter": []
  },
  "wil|untere bahnhofstrasse|16": {
   "street": "Untere Bahnhofstrasse",
@@ -524,26 +332,6 @@
    "Widmer Bierspezialitäten"
   ]
  },
- "wil|toggenburgerstrasse|61": {
-  "street": "Toggenburgerstrasse",
-  "hn": "61",
-  "lat": 47.4453427,
-  "lng": 9.0516347,
-  "mieter": [
-   "Jumbo"
-  ]
- },
- "wil|zürcherstrasse|30": {
-  "street": "Zürcherstrasse",
-  "hn": "30",
-  "lat": 47.4652815,
-  "lng": 9.0365649,
-  "mieter": [
-   "Kinderkrippe Chäferhuus",
-   "Bio-Beck Lehmann Shop & Kafi",
-   "Psychiatrie St.Gallen"
-  ]
- },
  "wil|toggenburgerstrasse|50": {
   "street": "Toggenburgerstrasse",
   "hn": "50",
@@ -557,8 +345,8 @@
   "lat": 47.4676519,
   "lng": 9.049949,
   "mieter": [
-   "Stadtbibliothek Wil",
-   "Hof zu Wil"
+   "Hof zu Wil",
+   "Coworking Hof zu Wil"
   ]
  },
  "wil|marktgasse|61": {
@@ -577,15 +365,6 @@
   "lng": 9.0469445,
   "mieter": []
  },
- "wil|zürcherstrasse|8a": {
-  "street": "Zürcherstrasse",
-  "hn": "8a",
-  "lat": 47.4648469,
-  "lng": 9.0416378,
-  "mieter": [
-   "Tipiti Pflegefamilien"
-  ]
- },
  "wil|untere bahnhofstrasse|13": {
   "street": "Untere Bahnhofstrasse",
   "hn": "13",
@@ -601,24 +380,16 @@
   "lat": 47.4647159,
   "lng": 9.0433653,
   "mieter": [
-   "BIZ Berufs- und Laufbahnberatung Wil"
+   "Dosenbach",
+   "Ochsner Sport"
   ]
  },
- "wil|zürcherstrasse|33a": {
-  "street": "Zürcherstrasse",
-  "hn": "33a",
-  "lat": 47.4646967,
-  "lng": 9.0377244,
+ "wil|toggenburgerstrasse|61": {
+  "street": "Toggenburgerstrasse",
+  "hn": "61",
+  "lat": 47.4614723,
+  "lng": 9.0480241,
   "mieter": []
- },
- "wil|zürcherstrasse|19": {
-  "street": "Zürcherstrasse",
-  "hn": "19",
-  "lat": 47.4645947,
-  "lng": 9.0396454,
-  "mieter": [
-   "SteuriFisch Rechtsanwälte Notare"
-  ]
  },
  "wil|toggenburgerstrasse|63": {
   "street": "Toggenburgerstrasse",
@@ -627,46 +398,11 @@
   "lng": 9.0477283,
   "mieter": []
  },
- "wil|toggenburgerstrasse|120": {
-  "street": "Toggenburgerstrasse",
-  "hn": "120",
-  "lat": 47.4564647,
-  "lng": 9.0474048,
-  "mieter": []
- },
  "wil|toggenburgerstrasse|55": {
   "street": "Toggenburgerstrasse",
   "hn": "55",
   "lat": 47.4624499,
   "lng": 9.0477706,
-  "mieter": []
- },
- "wil|zürcherstrasse|63": {
-  "street": "Zürcherstrasse",
-  "hn": "63",
-  "lat": 47.4649616,
-  "lng": 9.0337744,
-  "mieter": []
- },
- "wil|zürcherstrasse|9": {
-  "street": "Zürcherstrasse",
-  "hn": "9",
-  "lat": 47.4662435,
-  "lng": 9.0296682,
-  "mieter": []
- },
- "wil|zürcherstrasse|3a": {
-  "street": "Zürcherstrasse",
-  "hn": "3a",
-  "lat": 47.4658451,
-  "lng": 9.0306872,
-  "mieter": []
- },
- "wil|zürcherstrasse|11": {
-  "street": "Zürcherstrasse",
-  "hn": "11",
-  "lat": 47.4663095,
-  "lng": 9.0295896,
   "mieter": []
  },
  "wil|toggenburgerstrasse|132": {
@@ -685,7 +421,9 @@
   "hn": "34",
   "lat": 47.4665332,
   "lng": 9.0481532,
-  "mieter": []
+  "mieter": [
+   "Grape García"
+  ]
  },
  "wil|marktgasse|36": {
   "street": "Marktgasse",
@@ -693,6 +431,15 @@
   "lat": 47.4665585,
   "lng": 9.0481774,
   "mieter": []
+ },
+ "wil|kirchgasse|43": {
+  "street": "Kirchgasse",
+  "hn": "43",
+  "lat": 47.4671245,
+  "lng": 9.0501833,
+  "mieter": [
+   "Falkenburg"
+  ]
  },
  "wil|toggenburgerstrasse|5": {
   "street": "Toggenburgerstrasse",
@@ -713,6 +460,13 @@
   "hn": "7",
   "lat": 47.4653134,
   "lng": 9.048246,
+  "mieter": []
+ },
+ "wil|toggenburgerstrasse|3": {
+  "street": "Toggenburgerstrasse",
+  "hn": "3",
+  "lat": 47.4654675,
+  "lng": 9.0480514,
   "mieter": []
  },
  "wil|toggenburgerstrasse|14": {
@@ -778,6 +532,13 @@
   "lng": 9.0479105,
   "mieter": []
  },
+ "wil|toggenburgerstrasse|35": {
+  "street": "Toggenburgerstrasse",
+  "hn": "35",
+  "lat": 47.4639591,
+  "lng": 9.048226,
+  "mieter": []
+ },
  "wil|toggenburgerstrasse|42": {
   "street": "Toggenburgerstrasse",
   "hn": "42",
@@ -797,6 +558,20 @@
   "hn": "25",
   "lat": 47.4645043,
   "lng": 9.0483786,
+  "mieter": []
+ },
+ "wil|toggenburgerstrasse|37": {
+  "street": "Toggenburgerstrasse",
+  "hn": "37",
+  "lat": 47.4639121,
+  "lng": 9.0483782,
+  "mieter": []
+ },
+ "wil|toggenburgerstrasse|40": {
+  "street": "Toggenburgerstrasse",
+  "hn": "40",
+  "lat": 47.4640256,
+  "lng": 9.047758,
   "mieter": []
  },
  "wil|obere bahnhofstrasse|43": {
@@ -853,6 +628,15 @@
   "lng": 9.0491023,
   "mieter": []
  },
+ "wil|kirchgasse|33": {
+  "street": "Kirchgasse",
+  "hn": "33",
+  "lat": 47.4669195,
+  "lng": 9.0499205,
+  "mieter": [
+   "Five"
+  ]
+ },
  "wil|toggenburgerstrasse|43": {
   "street": "Toggenburgerstrasse",
   "hn": "43",
@@ -880,20 +664,14 @@
    "Punkt"
   ]
  },
- "wil|zürcherstrasse|59": {
-  "street": "Zürcherstrasse",
-  "hn": "59",
-  "lat": 47.4649226,
-  "lng": 9.0345663,
-  "mieter": []
- },
  "wil|obere bahnhofstrasse|19": {
   "street": "Obere Bahnhofstrasse",
   "hn": "19",
   "lat": 47.4640195,
   "lng": 9.0431075,
   "mieter": [
-   "ALDI"
+   "ALDI",
+   "EPS Software Engineering"
   ]
  },
  "wil|marktgasse|35": {
@@ -930,6 +708,13 @@
   "lng": 9.0430882,
   "mieter": []
  },
+ "wil|toggenburgerstrasse|50a": {
+  "street": "Toggenburgerstrasse",
+  "hn": "50a",
+  "lat": 47.4632553,
+  "lng": 9.0475904,
+  "mieter": []
+ },
  "wil|untere bahnhofstrasse|11": {
   "street": "Untere Bahnhofstrasse",
   "hn": "11",
@@ -951,20 +736,6 @@
   "lng": 9.0424134,
   "mieter": []
  },
- "wil|zürcherstrasse|30c": {
-  "street": "Zürcherstrasse",
-  "hn": "30c",
-  "lat": 47.4672779,
-  "lng": 9.0360464,
-  "mieter": []
- },
- "wil|zürcherstrasse|10a": {
-  "street": "Zürcherstrasse",
-  "hn": "10a",
-  "lat": 47.4677512,
-  "lng": 9.0284037,
-  "mieter": []
- },
  "wil|obere bahnhofstrasse|11a": {
   "street": "Obere Bahnhofstrasse",
   "hn": "11a",
@@ -974,180 +745,14 @@
    "Praxis Shimoya"
   ]
  },
- "wil|zürcherstrasse|37": {
-  "street": "Zürcherstrasse",
-  "hn": "37",
-  "lat": 47.4646258,
-  "lng": 9.0371377,
-  "mieter": []
- },
- "wil|zürcherstrasse|5": {
-  "street": "Zürcherstrasse",
-  "hn": "5",
-  "lat": 47.4644068,
-  "lng": 9.0416102,
-  "mieter": []
- },
- "wil|zürcherstrasse|30a": {
-  "street": "Zürcherstrasse",
-  "hn": "30a",
-  "lat": 47.4656988,
-  "lng": 9.0357837,
-  "mieter": []
- },
- "wil|zürcherstrasse|30c01": {
-  "street": "Zürcherstrasse",
-  "hn": "30c01",
-  "lat": 47.4657313,
-  "lng": 9.0366071,
-  "mieter": []
- },
- "wil|zürcherstrasse|30b": {
-  "street": "Zürcherstrasse",
-  "hn": "30b",
-  "lat": 47.4672467,
-  "lng": 9.0343455,
-  "mieter": []
- },
- "wil|zürcherstrasse|30b12": {
-  "street": "Zürcherstrasse",
-  "hn": "30b12",
-  "lat": 47.4698474,
-  "lng": 9.0367485,
-  "mieter": []
- },
- "wil|zürcherstrasse|30b06": {
-  "street": "Zürcherstrasse",
-  "hn": "30b06",
-  "lat": 47.466535,
-  "lng": 9.034733,
-  "mieter": []
- },
- "wil|zürcherstrasse|30d": {
-  "street": "Zürcherstrasse",
-  "hn": "30d",
-  "lat": 47.4663066,
-  "lng": 9.0340502,
-  "mieter": []
- },
- "wil|zürcherstrasse|30b15": {
-  "street": "Zürcherstrasse",
-  "hn": "30b15",
-  "lat": 47.4665686,
-  "lng": 9.0401072,
-  "mieter": []
- },
- "wil|zürcherstrasse|30a11": {
-  "street": "Zürcherstrasse",
-  "hn": "30a11",
-  "lat": 47.4668557,
-  "lng": 9.0394035,
-  "mieter": []
- },
- "wil|zürcherstrasse|30a14": {
-  "street": "Zürcherstrasse",
-  "hn": "30a14",
-  "lat": 47.4663649,
-  "lng": 9.03518,
-  "mieter": []
- },
- "wil|zürcherstrasse|30b18": {
-  "street": "Zürcherstrasse",
-  "hn": "30b18",
-  "lat": 47.4675121,
-  "lng": 9.0366838,
-  "mieter": []
- },
- "wil|zürcherstrasse|30b17": {
-  "street": "Zürcherstrasse",
-  "hn": "30b17",
-  "lat": 47.4669832,
-  "lng": 9.0409442,
-  "mieter": []
- },
- "wil|zürcherstrasse|30a07": {
-  "street": "Zürcherstrasse",
-  "hn": "30a07",
-  "lat": 47.4662258,
-  "lng": 9.0387276,
-  "mieter": []
- },
- "wil|zürcherstrasse|30a13": {
-  "street": "Zürcherstrasse",
-  "hn": "30a13",
-  "lat": 47.4660307,
-  "lng": 9.0398151,
-  "mieter": []
- },
- "wil|zürcherstrasse|30a04": {
-  "street": "Zürcherstrasse",
-  "hn": "30a04",
-  "lat": 47.4663569,
-  "lng": 9.0357809,
-  "mieter": []
- },
- "wil|zürcherstrasse|35": {
-  "street": "Zürcherstrasse",
-  "hn": "35",
-  "lat": 47.4647186,
-  "lng": 9.0373683,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|104": {
-  "street": "Toggenburgerstrasse",
-  "hn": "104",
-  "lat": 47.4580607,
-  "lng": 9.0473512,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|98": {
-  "street": "Toggenburgerstrasse",
-  "hn": "98",
-  "lat": 47.4587661,
-  "lng": 9.0474771,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|62": {
-  "street": "Toggenburgerstrasse",
-  "hn": "62",
-  "lat": 47.4457413,
-  "lng": 9.050693,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|60": {
-  "street": "Toggenburgerstrasse",
-  "hn": "60",
-  "lat": 47.4460324,
-  "lng": 9.0506155,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|64": {
-  "street": "Toggenburgerstrasse",
-  "hn": "64",
-  "lat": 47.445317,
-  "lng": 9.0509108,
-  "mieter": []
- },
- "wil|zürcherstrasse|1": {
-  "street": "Zürcherstrasse",
-  "hn": "1",
-  "lat": 47.464367,
-  "lng": 9.0423032,
-  "mieter": []
- },
- "wil|zürcherstrasse|17": {
-  "street": "Zürcherstrasse",
-  "hn": "17",
-  "lat": 47.4645502,
-  "lng": 9.0400026,
-  "mieter": []
- },
  "wil|obere bahnhofstrasse|23": {
   "street": "Obere Bahnhofstrasse",
   "hn": "23",
   "lat": 47.4644816,
   "lng": 9.0436931,
-  "mieter": []
+  "mieter": [
+   "orell füssli"
+  ]
  },
  "wil|obere bahnhofstrasse|33": {
   "street": "Obere Bahnhofstrasse",
@@ -1161,14 +766,18 @@
   "hn": "35",
   "lat": 47.4648408,
   "lng": 9.0449698,
-  "mieter": []
+  "mieter": [
+   "Tchibo"
+  ]
  },
  "wil|obere bahnhofstrasse|44": {
   "street": "Obere Bahnhofstrasse",
   "hn": "44",
   "lat": 47.4655339,
   "lng": 9.0462493,
-  "mieter": []
+  "mieter": [
+   "Klaus Wil Uhren & Schmuck"
+  ]
  },
  "wil|obere bahnhofstrasse|48": {
   "street": "Obere Bahnhofstrasse",
@@ -1182,14 +791,20 @@
   "hn": "47",
   "lat": 47.4652528,
   "lng": 9.0464612,
-  "mieter": []
+  "mieter": [
+   "Schöntal",
+   "House of Jeans"
+  ]
  },
  "wil|obere bahnhofstrasse|51": {
   "street": "Obere Bahnhofstrasse",
   "hn": "51",
   "lat": 47.4654418,
   "lng": 9.0470564,
-  "mieter": []
+  "mieter": [
+   "ad:hoc",
+   "Zebra"
+  ]
  },
  "wil|marktgasse|6": {
   "street": "Marktgasse",
@@ -1205,124 +820,14 @@
   "lng": 9.0448811,
   "mieter": []
  },
- "wil|zürcherstrasse|16": {
-  "street": "Zürcherstrasse",
-  "hn": "16",
-  "lat": 47.4648114,
-  "lng": 9.0400225,
-  "mieter": []
- },
- "wil|zürcherstrasse|18": {
-  "street": "Zürcherstrasse",
-  "hn": "18",
-  "lat": 47.4648363,
-  "lng": 9.0397402,
-  "mieter": []
- },
- "wil|zürcherstrasse|20": {
-  "street": "Zürcherstrasse",
-  "hn": "20",
-  "lat": 47.4648483,
-  "lng": 9.0395698,
-  "mieter": []
- },
- "wil|zürcherstrasse|10": {
-  "street": "Zürcherstrasse",
-  "hn": "10",
-  "lat": 47.4648676,
-  "lng": 9.0411734,
-  "mieter": []
- },
- "wil|zürcherstrasse|14": {
-  "street": "Zürcherstrasse",
-  "hn": "14",
-  "lat": 47.4648435,
-  "lng": 9.040549,
-  "mieter": []
- },
- "wil|zürcherstrasse|23": {
-  "street": "Zürcherstrasse",
-  "hn": "23",
-  "lat": 47.4646087,
-  "lng": 9.0390919,
-  "mieter": []
- },
- "wil|zürcherstrasse|25": {
-  "street": "Zürcherstrasse",
-  "hn": "25",
-  "lat": 47.4646331,
-  "lng": 9.0388314,
-  "mieter": []
- },
- "wil|zürcherstrasse|27": {
-  "street": "Zürcherstrasse",
-  "hn": "27",
-  "lat": 47.4646479,
-  "lng": 9.0385887,
-  "mieter": []
- },
- "wil|zürcherstrasse|29": {
-  "street": "Zürcherstrasse",
-  "hn": "29",
-  "lat": 47.4646672,
-  "lng": 9.0382995,
-  "mieter": []
- },
- "wil|zürcherstrasse|31": {
-  "street": "Zürcherstrasse",
-  "hn": "31",
-  "lat": 47.4646905,
-  "lng": 9.0380359,
-  "mieter": []
- },
  "wil|obere bahnhofstrasse|24": {
   "street": "Obere Bahnhofstrasse",
   "hn": "24",
   "lat": 47.4648857,
   "lng": 9.0438221,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|90": {
-  "street": "Toggenburgerstrasse",
-  "hn": "90",
-  "lat": 47.459601,
-  "lng": 9.0474134,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|88": {
-  "street": "Toggenburgerstrasse",
-  "hn": "88",
-  "lat": 47.4598086,
-  "lng": 9.0473837,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|86": {
-  "street": "Toggenburgerstrasse",
-  "hn": "86",
-  "lat": 47.459953,
-  "lng": 9.0473387,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|94": {
-  "street": "Toggenburgerstrasse",
-  "hn": "94",
-  "lat": 47.4591851,
-  "lng": 9.0475068,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|96": {
-  "street": "Toggenburgerstrasse",
-  "hn": "96",
-  "lat": 47.458965,
-  "lng": 9.0476019,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|99": {
-  "street": "Toggenburgerstrasse",
-  "hn": "99",
-  "lat": 47.4589129,
-  "lng": 9.0484739,
-  "mieter": []
+  "mieter": [
+   "Esprit Partnership Store Wil"
+  ]
  },
  "wil|toggenburgerstrasse|103": {
   "street": "Toggenburgerstrasse",
@@ -1333,26 +838,14 @@
    "Coop Pronto"
   ]
  },
- "wil|toggenburgerstrasse|105": {
-  "street": "Toggenburgerstrasse",
-  "hn": "105",
-  "lat": 47.4582568,
-  "lng": 9.0483736,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|109": {
-  "street": "Toggenburgerstrasse",
-  "hn": "109",
-  "lat": 47.4578314,
-  "lng": 9.0484202,
-  "mieter": []
- },
  "wil|toggenburgerstrasse|107": {
   "street": "Toggenburgerstrasse",
   "hn": "107",
   "lat": 47.4579502,
   "lng": 9.0484035,
-  "mieter": []
+  "mieter": [
+   "Ristorante & Pizzeria La Primavera"
+  ]
  },
  "wil|untere bahnhofstrasse|14": {
   "street": "Untere Bahnhofstrasse",
@@ -1373,7 +866,10 @@
   "hn": "15",
   "lat": 47.4637461,
   "lng": 9.0428385,
-  "mieter": []
+  "mieter": [
+   "Piccola",
+   "Pizzeria Piccola"
+  ]
  },
  "wil|obere bahnhofstrasse|13": {
   "street": "Obere Bahnhofstrasse",
@@ -1387,28 +883,27 @@
   "hn": "9",
   "lat": 47.4631782,
   "lng": 9.0426445,
-  "mieter": []
+  "mieter": [
+   "Pius Schäfler"
+  ]
  },
  "wil|untere bahnhofstrasse|18": {
   "street": "Untere Bahnhofstrasse",
   "hn": "18",
   "lat": 47.4625588,
   "lng": 9.0447647,
-  "mieter": []
- },
- "wil|zürcherstrasse|33": {
-  "street": "Zürcherstrasse",
-  "hn": "33",
-  "lat": 47.4647035,
-  "lng": 9.0376058,
-  "mieter": []
+  "mieter": [
+   "Bollywood"
+  ]
  },
  "wil|untere bahnhofstrasse|24": {
   "street": "Untere Bahnhofstrasse",
   "hn": "24",
   "lat": 47.4629606,
   "lng": 9.0456186,
-  "mieter": []
+  "mieter": [
+   "Damaskus Lebensmittel"
+  ]
  },
  "wil|untere bahnhofstrasse|26": {
   "street": "Untere Bahnhofstrasse",
@@ -1422,7 +917,9 @@
   "hn": "28",
   "lat": 47.4631203,
   "lng": 9.0460646,
-  "mieter": []
+  "mieter": [
+   "Scabello"
+  ]
  },
  "wil|toggenburgerstrasse|45": {
   "street": "Toggenburgerstrasse",
@@ -1438,6 +935,13 @@
   "lng": 9.0479153,
   "mieter": []
  },
+ "wil|kirchgasse|19": {
+  "street": "Kirchgasse",
+  "hn": "19",
+  "lat": 47.4662242,
+  "lng": 9.0491085,
+  "mieter": []
+ },
  "wil|marktgasse|4": {
   "street": "Marktgasse",
   "hn": "4",
@@ -1450,6 +954,22 @@
   "hn": "31",
   "lat": 47.4661593,
   "lng": 9.0480707,
+  "mieter": [
+   "Venturini"
+  ]
+ },
+ "wil|kirchgasse|9": {
+  "street": "Kirchgasse",
+  "hn": "9",
+  "lat": 47.4661193,
+  "lng": 9.0484299,
+  "mieter": []
+ },
+ "wil|kirchgasse|15": {
+  "street": "Kirchgasse",
+  "hn": "15",
+  "lat": 47.4661883,
+  "lng": 9.0486302,
   "mieter": []
  },
  "wil|marktgasse|18": {
@@ -1457,6 +977,15 @@
   "hn": "18",
   "lat": 47.4662481,
   "lng": 9.0477876,
+  "mieter": [
+   "Rif"
+  ]
+ },
+ "wil|kirchgasse|13": {
+  "street": "Kirchgasse",
+  "hn": "13",
+  "lat": 47.4661682,
+  "lng": 9.0485697,
   "mieter": []
  },
  "wil|marktgasse|16": {
@@ -1464,14 +993,18 @@
   "hn": "16",
   "lat": 47.4662093,
   "lng": 9.047755,
-  "mieter": []
+  "mieter": [
+   "Wohnkultur späti"
+  ]
  },
  "wil|obere bahnhofstrasse|52": {
   "street": "Obere Bahnhofstrasse",
   "hn": "52",
   "lat": 47.4657713,
   "lng": 9.0470012,
-  "mieter": []
+  "mieter": [
+   "vabene"
+  ]
  },
  "wil|marktgasse|33": {
   "street": "Marktgasse",
@@ -1492,16 +1025,32 @@
   "hn": "2",
   "lat": 47.4654883,
   "lng": 9.047728,
+  "mieter": [
+   "Perosa"
+  ]
+ },
+ "wil|kirchgasse|7": {
+  "street": "Kirchgasse",
+  "hn": "7",
+  "lat": 47.4660935,
+  "lng": 9.0483361,
   "mieter": []
+ },
+ "wil|kirchgasse|5": {
+  "street": "Kirchgasse",
+  "hn": "5",
+  "lat": 47.4660028,
+  "lng": 9.0482126,
+  "mieter": [
+   "Wohnkultur Späti"
+  ]
  },
  "wil|toggenburgerstrasse|52a": {
   "street": "Toggenburgerstrasse",
   "hn": "52a",
   "lat": 47.4627596,
   "lng": 9.047288,
-  "mieter": [
-   "Kreuzkirche"
-  ]
+  "mieter": []
  },
  "wil|toggenburgerstrasse|51": {
   "street": "Toggenburgerstrasse",
@@ -1517,46 +1066,18 @@
   "lng": 9.0481109,
   "mieter": []
  },
- "wil|toggenburgerstrasse|68": {
+ "wil|toggenburgerstrasse|62": {
   "street": "Toggenburgerstrasse",
-  "hn": "68",
-  "lat": 47.461385,
-  "lng": 9.0472864,
+  "hn": "62",
+  "lat": 47.4618727,
+  "lng": 9.0473065,
   "mieter": []
  },
- "wil|toggenburgerstrasse|84": {
+ "wil|toggenburgerstrasse|64": {
   "street": "Toggenburgerstrasse",
-  "hn": "84",
-  "lat": 47.460156,
-  "lng": 9.0472831,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|66": {
-  "street": "Toggenburgerstrasse",
-  "hn": "66",
-  "lat": 47.4615609,
-  "lng": 9.0472878,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|67": {
-  "street": "Toggenburgerstrasse",
-  "hn": "67",
-  "lat": 47.4607652,
-  "lng": 9.0479399,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|82": {
-  "street": "Toggenburgerstrasse",
-  "hn": "82",
-  "lat": 47.4604399,
-  "lng": 9.047256,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|65": {
-  "street": "Toggenburgerstrasse",
-  "hn": "65",
-  "lat": 47.4610996,
-  "lng": 9.0479179,
+  "hn": "64",
+  "lat": 47.4617139,
+  "lng": 9.0472828,
   "mieter": []
  },
  "wil|untere bahnhofstrasse|19": {
@@ -1566,26 +1087,30 @@
   "lng": 9.0454763,
   "mieter": []
  },
+ "wil|toggenburgerstrasse|60": {
+  "street": "Toggenburgerstrasse",
+  "hn": "60",
+  "lat": 47.4619098,
+  "lng": 9.0469615,
+  "mieter": []
+ },
  "wil|toggenburgerstrasse|54": {
   "street": "Toggenburgerstrasse",
   "hn": "54",
   "lat": 47.4624677,
   "lng": 9.0473779,
-  "mieter": []
+  "mieter": [
+   "Rebstock"
+  ]
  },
  "wil|toggenburgerstrasse|78": {
   "street": "Toggenburgerstrasse",
   "hn": "78",
   "lat": 47.4606818,
   "lng": 9.0469186,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|69": {
-  "street": "Toggenburgerstrasse",
-  "hn": "69",
-  "lat": 47.4604562,
-  "lng": 9.0479896,
-  "mieter": []
+  "mieter": [
+   "Auto König"
+  ]
  },
  "wil|untere bahnhofstrasse|30": {
   "street": "Untere Bahnhofstrasse",
@@ -1622,6 +1147,27 @@
   "lng": 9.0496955,
   "mieter": []
  },
+ "wil|kirchgasse|51": {
+  "street": "Kirchgasse",
+  "hn": "51",
+  "lat": 47.4673024,
+  "lng": 9.0503362,
+  "mieter": []
+ },
+ "wil|kirchgasse|49": {
+  "street": "Kirchgasse",
+  "hn": "49",
+  "lat": 47.4672225,
+  "lng": 9.0503218,
+  "mieter": []
+ },
+ "wil|kirchgasse|53": {
+  "street": "Kirchgasse",
+  "hn": "53",
+  "lat": 47.4673721,
+  "lng": 9.0503307,
+  "mieter": []
+ },
  "wil|marktgasse|73": {
   "street": "Marktgasse",
   "hn": "73",
@@ -1636,32 +1182,11 @@
   "lng": 9.0498466,
   "mieter": []
  },
- "wil|zürcherstrasse|65": {
-  "street": "Zürcherstrasse",
-  "hn": "65",
-  "lat": 47.4649392,
-  "lng": 9.032835,
-  "mieter": []
- },
- "wil|zürcherstrasse|67": {
-  "street": "Zürcherstrasse",
-  "hn": "67",
-  "lat": 47.4651857,
-  "lng": 9.0321934,
-  "mieter": []
- },
- "wil|zürcherstrasse|69": {
-  "street": "Zürcherstrasse",
-  "hn": "69",
-  "lat": 47.4650304,
-  "lng": 9.0321081,
-  "mieter": []
- },
- "wil|zürcherstrasse|68": {
-  "street": "Zürcherstrasse",
-  "hn": "68",
-  "lat": 47.4655913,
-  "lng": 9.0323362,
+ "wil|kirchgasse|55": {
+  "street": "Kirchgasse",
+  "hn": "55",
+  "lat": 47.4674317,
+  "lng": 9.0503238,
   "mieter": []
  },
  "wil|toggenburgerstrasse|36": {
@@ -1669,6 +1194,13 @@
   "hn": "36",
   "lat": 47.4641495,
   "lng": 9.0475534,
+  "mieter": []
+ },
+ "wil|toggenburgerstrasse|38": {
+  "street": "Toggenburgerstrasse",
+  "hn": "38",
+  "lat": 47.4641117,
+  "lng": 9.0477589,
   "mieter": []
  },
  "wil|toggenburgerstrasse|30": {
@@ -1704,6 +1236,55 @@
   "hn": "29",
   "lat": 47.4642571,
   "lng": 9.0486245,
+  "mieter": []
+ },
+ "wil|toggenburgerstrasse|24": {
+  "street": "Toggenburgerstrasse",
+  "hn": "24",
+  "lat": 47.4648866,
+  "lng": 9.0480527,
+  "mieter": []
+ },
+ "wil|toggenburgerstrasse|22": {
+  "street": "Toggenburgerstrasse",
+  "hn": "22",
+  "lat": 47.4650683,
+  "lng": 9.0480417,
+  "mieter": []
+ },
+ "wil|kirchgasse|35": {
+  "street": "Kirchgasse",
+  "hn": "35",
+  "lat": 47.4669199,
+  "lng": 9.0500344,
+  "mieter": []
+ },
+ "wil|kirchgasse|27": {
+  "street": "Kirchgasse",
+  "hn": "27",
+  "lat": 47.4667105,
+  "lng": 9.0498131,
+  "mieter": []
+ },
+ "wil|kirchgasse|21": {
+  "street": "Kirchgasse",
+  "hn": "21",
+  "lat": 47.4664926,
+  "lng": 9.0496355,
+  "mieter": []
+ },
+ "wil|kirchgasse|23": {
+  "street": "Kirchgasse",
+  "hn": "23",
+  "lat": 47.4665489,
+  "lng": 9.0493358,
+  "mieter": []
+ },
+ "wil|kirchgasse|25": {
+  "street": "Kirchgasse",
+  "hn": "25",
+  "lat": 47.4666477,
+  "lng": 9.0494775,
   "mieter": []
  },
  "wil|marktgasse|84": {
@@ -1760,7 +1341,9 @@
   "hn": "50",
   "lat": 47.4668563,
   "lng": 9.0485281,
-  "mieter": []
+  "mieter": [
+   "Revive"
+  ]
  },
  "wil|marktgasse|46": {
   "street": "Marktgasse",
@@ -1795,7 +1378,9 @@
   "hn": "28",
   "lat": 47.4664601,
   "lng": 9.0479632,
-  "mieter": []
+  "mieter": [
+   "Breitenmoser"
+  ]
  },
  "wil|marktgasse|20": {
   "street": "Marktgasse",
@@ -1832,7 +1417,9 @@
   "hn": "59",
   "lat": 47.4669689,
   "lng": 9.0493167,
-  "mieter": []
+  "mieter": [
+   "Munishi"
+  ]
  },
  "wil|marktgasse|57": {
   "street": "Marktgasse",
@@ -1840,6 +1427,52 @@
   "lat": 47.4669277,
   "lng": 9.0491987,
   "mieter": []
+ },
+ "wil|kirchgasse|22": {
+  "street": "Kirchgasse",
+  "hn": "22",
+  "lat": 47.4666908,
+  "lng": 9.0491397,
+  "mieter": []
+ },
+ "wil|kirchgasse|20": {
+  "street": "Kirchgasse",
+  "hn": "20",
+  "lat": 47.466655,
+  "lng": 9.0490044,
+  "mieter": [
+   "Teehaus Wil"
+  ]
+ },
+ "wil|kirchgasse|16": {
+  "street": "Kirchgasse",
+  "hn": "16",
+  "lat": 47.4665311,
+  "lng": 9.0488138,
+  "mieter": []
+ },
+ "wil|kirchgasse|14": {
+  "street": "Kirchgasse",
+  "hn": "14",
+  "lat": 47.4664916,
+  "lng": 9.0487575,
+  "mieter": []
+ },
+ "wil|kirchgasse|12": {
+  "street": "Kirchgasse",
+  "hn": "12",
+  "lat": 47.466452,
+  "lng": 9.0486867,
+  "mieter": []
+ },
+ "wil|kirchgasse|10": {
+  "street": "Kirchgasse",
+  "hn": "10",
+  "lat": 47.4663965,
+  "lng": 9.0485855,
+  "mieter": [
+   "Werk und Form"
+  ]
  },
  "wil|marktgasse|41": {
   "street": "Marktgasse",
@@ -1853,106 +1486,33 @@
   "hn": "45",
   "lat": 47.4665518,
   "lng": 9.048547,
-  "mieter": []
+  "mieter": [
+   "Joker"
+  ]
  },
  "wil|marktgasse|47": {
   "street": "Marktgasse",
   "hn": "47",
   "lat": 47.4665989,
   "lng": 9.0486223,
-  "mieter": []
+  "mieter": [
+   "Antje Bloch"
+  ]
  },
  "wil|marktgasse|55": {
   "street": "Marktgasse",
   "hn": "55",
   "lat": 47.4668274,
   "lng": 9.0489857,
-  "mieter": []
+  "mieter": [
+   "Tee & Genuss"
+  ]
  },
  "wil|marktgasse|53": {
   "street": "Marktgasse",
   "hn": "53",
   "lat": 47.4667878,
   "lng": 9.0489142,
-  "mieter": []
- },
- "wil|zürcherstrasse|8": {
-  "street": "Zürcherstrasse",
-  "hn": "8",
-  "lat": 47.4669516,
-  "lng": 9.0292309,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|59": {
-  "street": "Toggenburgerstrasse",
-  "hn": "59",
-  "lat": 47.4459359,
-  "lng": 9.0511402,
-  "mieter": [
-   "Gasthaus Rössli"
-  ]
- },
- "wil|toggenburgerstrasse|58": {
-  "street": "Toggenburgerstrasse",
-  "hn": "58",
-  "lat": 47.4464423,
-  "lng": 9.0502934,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|56": {
-  "street": "Toggenburgerstrasse",
-  "hn": "56",
-  "lat": 47.4467159,
-  "lng": 9.0502588,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|39": {
-  "street": "Toggenburgerstrasse",
-  "hn": "39",
-  "lat": 47.4478673,
-  "lng": 9.0501705,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|21": {
-  "street": "Toggenburgerstrasse",
-  "hn": "21",
-  "lat": 47.4508426,
-  "lng": 9.0502926,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|13": {
-  "street": "Toggenburgerstrasse",
-  "hn": "13",
-  "lat": 47.4515688,
-  "lng": 9.0501572,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|31": {
-  "street": "Toggenburgerstrasse",
-  "hn": "31",
-  "lat": 47.4490609,
-  "lng": 9.0499914,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|15": {
-  "street": "Toggenburgerstrasse",
-  "hn": "15",
-  "lat": 47.4513354,
-  "lng": 9.0501618,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|17": {
-  "street": "Toggenburgerstrasse",
-  "hn": "17",
-  "lat": 47.4511548,
-  "lng": 9.050171,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|32": {
-  "street": "Toggenburgerstrasse",
-  "hn": "32",
-  "lat": 47.4490696,
-  "lng": 9.0493805,
   "mieter": []
  },
  "wil|toggenburgerstrasse|154": {
@@ -1971,55 +1531,6 @@
   "lng": 9.0483067,
   "mieter": []
  },
- "wil|toggenburgerstrasse|133": {
-  "street": "Toggenburgerstrasse",
-  "hn": "133",
-  "lat": 47.4555441,
-  "lng": 9.0498272,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|135": {
-  "street": "Toggenburgerstrasse",
-  "hn": "135",
-  "lat": 47.455518,
-  "lng": 9.0503475,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|145": {
-  "street": "Toggenburgerstrasse",
-  "hn": "145",
-  "lat": 47.4543908,
-  "lng": 9.0498299,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|115": {
-  "street": "Toggenburgerstrasse",
-  "hn": "115",
-  "lat": 47.4571128,
-  "lng": 9.0487098,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|113": {
-  "street": "Toggenburgerstrasse",
-  "hn": "113",
-  "lat": 47.45734,
-  "lng": 9.0486457,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|121": {
-  "street": "Toggenburgerstrasse",
-  "hn": "121",
-  "lat": 47.4564749,
-  "lng": 9.0491256,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|111": {
-  "street": "Toggenburgerstrasse",
-  "hn": "111",
-  "lat": 47.4575737,
-  "lng": 9.0485736,
-  "mieter": []
- },
  "wil|toggenburgerstrasse|146": {
   "street": "Toggenburgerstrasse",
   "hn": "146",
@@ -2029,60 +1540,11 @@
    "LIGA Wil"
   ]
  },
- "wil|toggenburgerstrasse|80": {
+ "wil|toggenburgerstrasse|56": {
   "street": "Toggenburgerstrasse",
-  "hn": "80",
-  "lat": 47.4606364,
-  "lng": 9.0472656,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|112": {
-  "street": "Toggenburgerstrasse",
-  "hn": "112",
-  "lat": 47.4571653,
-  "lng": 9.0480098,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|130": {
-  "street": "Toggenburgerstrasse",
-  "hn": "130",
-  "lat": 47.4558397,
-  "lng": 9.0483821,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|126": {
-  "street": "Toggenburgerstrasse",
-  "hn": "126",
-  "lat": 47.4562284,
-  "lng": 9.0483635,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|114": {
-  "street": "Toggenburgerstrasse",
-  "hn": "114",
-  "lat": 47.4569185,
-  "lng": 9.0480972,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|124": {
-  "street": "Toggenburgerstrasse",
-  "hn": "124",
-  "lat": 47.4564218,
-  "lng": 9.0482885,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|128": {
-  "street": "Toggenburgerstrasse",
-  "hn": "128",
-  "lat": 47.4560242,
-  "lng": 9.0484455,
-  "mieter": []
- },
- "wil|obere bahnhofstrasse|46a": {
-  "street": "Obere Bahnhofstrasse",
-  "hn": "46a",
-  "lat": 47.4629466,
-  "lng": 9.0084189,
+  "hn": "56",
+  "lat": 47.4623309,
+  "lng": 9.0473542,
   "mieter": []
  },
  "wil|untere bahnhofstrasse|12": {
@@ -2092,6 +1554,15 @@
   "lng": 9.0438438,
   "mieter": []
  },
+ "wil|toggenburgerstrasse|59": {
+  "street": "Toggenburgerstrasse",
+  "hn": "59",
+  "lat": 47.461591,
+  "lng": 9.0476859,
+  "mieter": [
+   "Gasthaus Rössli"
+  ]
+ },
  "wil|obere bahnhofstrasse|26a": {
   "street": "Obere Bahnhofstrasse",
   "hn": "26a",
@@ -2099,55 +1570,13 @@
   "lng": 9.0440248,
   "mieter": []
  },
- "wil|toggenburgerstrasse|127": {
-  "street": "Toggenburgerstrasse",
-  "hn": "127",
-  "lat": 47.4558952,
-  "lng": 9.0489464,
-  "mieter": []
- },
- "wil|zürcherstrasse|14a": {
-  "street": "Zürcherstrasse",
-  "hn": "14a",
-  "lat": 47.465062,
-  "lng": 9.0401234,
-  "mieter": []
- },
  "wil|obere bahnhofstrasse|42": {
   "street": "Obere Bahnhofstrasse",
   "hn": "42",
   "lat": 47.465504,
   "lng": 9.0461461,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|50c": {
-  "street": "Toggenburgerstrasse",
-  "hn": "50c",
-  "lat": 47.4472274,
-  "lng": 9.0490427,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|50b": {
-  "street": "Toggenburgerstrasse",
-  "hn": "50b",
-  "lat": 47.4473488,
-  "lng": 9.0493669,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|11": {
-  "street": "Toggenburgerstrasse",
-  "hn": "11",
-  "lat": 47.4517867,
-  "lng": 9.050169,
-  "mieter": []
- },
- "wil|zürcherstrasse|8b": {
-  "street": "Zürcherstrasse",
-  "hn": "8b",
-  "lat": 47.464695,
-  "lng": 9.0415009,
   "mieter": [
-   "Betten- & Schlafcenter Wil"
+   "Tally Weijl"
   ]
  },
  "wil|marktgasse|26": {
@@ -2155,7 +1584,9 @@
   "hn": "26",
   "lat": 47.4664198,
   "lng": 9.0479346,
-  "mieter": []
+  "mieter": [
+   "Scuderi"
+  ]
  },
  "wil|marktgasse|24": {
   "street": "Marktgasse",
@@ -2169,14 +1600,18 @@
   "hn": "22",
   "lat": 47.466356,
   "lng": 9.0478751,
-  "mieter": []
+  "mieter": [
+   "Ohyes"
+  ]
  },
  "wil|marktgasse|30": {
   "street": "Marktgasse",
   "hn": "30",
   "lat": 47.4664994,
   "lng": 9.0480049,
-  "mieter": []
+  "mieter": [
+   "Hämmerle"
+  ]
  },
  "wil|marktgasse|32": {
   "street": "Marktgasse",
@@ -2204,7 +1639,9 @@
   "hn": "56",
   "lat": 47.4669759,
   "lng": 9.0487056,
-  "mieter": []
+  "mieter": [
+   "Roseco"
+  ]
  },
  "wil|marktgasse|66": {
   "street": "Marktgasse",
@@ -2225,20 +1662,80 @@
   "hn": "70",
   "lat": 47.4673456,
   "lng": 9.0492519,
-  "mieter": []
+  "mieter": [
+   "Atelier Jennifer Gehr"
+  ]
  },
  "wil|marktgasse|72": {
   "street": "Marktgasse",
   "hn": "72",
   "lat": 47.4673717,
   "lng": 9.0492941,
-  "mieter": []
+  "mieter": [
+   "11heaven"
+  ]
  },
  "wil|marktgasse|90": {
   "street": "Marktgasse",
   "hn": "90",
   "lat": 47.4674824,
   "lng": 9.0503297,
+  "mieter": []
+ },
+ "wil|kirchgasse|47": {
+  "street": "Kirchgasse",
+  "hn": "47",
+  "lat": 47.4671823,
+  "lng": 9.0502855,
+  "mieter": []
+ },
+ "wil|kirchgasse|45": {
+  "street": "Kirchgasse",
+  "hn": "45",
+  "lat": 47.4671532,
+  "lng": 9.0502652,
+  "mieter": []
+ },
+ "wil|kirchgasse|41": {
+  "street": "Kirchgasse",
+  "hn": "41",
+  "lat": 47.4670682,
+  "lng": 9.050185,
+  "mieter": []
+ },
+ "wil|kirchgasse|39": {
+  "street": "Kirchgasse",
+  "hn": "39",
+  "lat": 47.4670143,
+  "lng": 9.0501464,
+  "mieter": []
+ },
+ "wil|kirchgasse|37": {
+  "street": "Kirchgasse",
+  "hn": "37",
+  "lat": 47.4669757,
+  "lng": 9.0500879,
+  "mieter": []
+ },
+ "wil|kirchgasse|31": {
+  "street": "Kirchgasse",
+  "hn": "31",
+  "lat": 47.4668249,
+  "lng": 9.0499362,
+  "mieter": []
+ },
+ "wil|kirchgasse|29": {
+  "street": "Kirchgasse",
+  "hn": "29",
+  "lat": 47.4667751,
+  "lng": 9.0498871,
+  "mieter": []
+ },
+ "wil|kirchgasse|1": {
+  "street": "Kirchgasse",
+  "hn": "1",
+  "lat": 47.4658847,
+  "lng": 9.0479534,
   "mieter": []
  },
  "wil|marktgasse|37": {
@@ -2260,27 +1757,15 @@
   "hn": "10",
   "lat": 47.4660281,
   "lng": 9.0476695,
-  "mieter": []
- },
- "wil|zürcherstrasse|13": {
-  "street": "Zürcherstrasse",
-  "hn": "13",
-  "lat": 47.4664081,
-  "lng": 9.0293444,
-  "mieter": []
+  "mieter": [
+   "Montandon"
+  ]
  },
  "wil|untere bahnhofstrasse|5": {
   "street": "Untere Bahnhofstrasse",
   "hn": "5",
   "lat": 47.461997,
   "lng": 9.0433243,
-  "mieter": []
- },
- "wil|toggenburgerstrasse|150": {
-  "street": "Toggenburgerstrasse",
-  "hn": "150",
-  "lat": 47.4544374,
-  "lng": 9.0470949,
   "mieter": []
  },
  "wil|untere bahnhofstrasse|7": {
@@ -2290,11 +1775,12 @@
   "lng": 9.0435797,
   "mieter": []
  },
- "wil|zürcherstrasse|15": {
-  "street": "Zürcherstrasse",
-  "hn": "15",
-  "lat": 47.4644777,
-  "lng": 9.0404685,
-  "mieter": []
+ "wil|marktgasse|3": {
+  "street": "Marktgasse",
+  "hn": "3",
+  "lat": 47.465757,
+  "lng": 9.047904,
+  "mieter": [],
+  "quelle": "GWR"
  }
 }
