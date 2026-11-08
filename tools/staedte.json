@@ -672,10 +672,10 @@
       "Bahnhofplatz",
       "Schluhmattstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "218"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Öffentliche Quellen 08.11.26 (immobilienbusiness.ch/Zefix: Swiss Hotel Properties AG 3; zermatterhof.ch: Burgergemeinde 1); Register 0",
+    "offen": "156"
   },
   {
     "kanton": "GR",
