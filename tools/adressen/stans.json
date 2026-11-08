@@ -36,6 +36,15 @@
    "Papeterie Spichtig"
   ]
  },
+ "stans|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 46.9576922,
+  "lng": 8.3670785,
+  "mieter": [
+   "Generali"
+  ]
+ },
  "stans|engelbergstrasse|33": {
   "street": "Engelbergstrasse",
   "hn": "33",
@@ -52,6 +61,15 @@
   "lng": 8.3664949,
   "mieter": [
    "Neuroth"
+  ]
+ },
+ "stans|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 46.9574509,
+  "lng": 8.3667399,
+  "mieter": [
+   "Praxis \"Frau im Zentrum\""
   ]
  },
  "stans|dorfplatz|6": {
@@ -86,6 +104,13 @@
   "lng": 8.3663268,
   "mieter": []
  },
+ "stans|bahnhofstrasse|12": {
+  "street": "Bahnhofstrasse",
+  "hn": "12",
+  "lat": 46.9577473,
+  "lng": 8.3671318,
+  "mieter": []
+ },
  "stans|engelbergstrasse|54a": {
   "street": "Engelbergstrasse",
   "hn": "54a",
@@ -101,6 +126,20 @@
   "mieter": [
    "Coletta's Café Bar"
   ]
+ },
+ "stans|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 46.9580524,
+  "lng": 8.3660616,
+  "mieter": []
+ },
+ "stans|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 46.9580734,
+  "lng": 8.36637,
+  "mieter": []
  },
  "stans|bahnhofplatz|3": {
   "street": "Bahnhofplatz",
@@ -468,6 +507,20 @@
   "lng": 8.3692839,
   "mieter": []
  },
+ "stans|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 46.9579753,
+  "lng": 8.3664915,
+  "mieter": []
+ },
+ "stans|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 46.9575803,
+  "lng": 8.3665717,
+  "mieter": []
+ },
  "stans|dorfplatz|13": {
   "street": "Dorfplatz",
   "hn": "13",
@@ -475,11 +528,25 @@
   "lng": 8.3656277,
   "mieter": []
  },
+ "stans|bahnhofstrasse|7": {
+  "street": "Bahnhofstrasse",
+  "hn": "7",
+  "lat": 46.9579392,
+  "lng": 8.3666786,
+  "mieter": []
+ },
  "stans|dorfplatz|12": {
   "street": "Dorfplatz",
   "hn": "12",
   "lat": 46.9575096,
   "lng": 8.3653946,
+  "mieter": []
+ },
+ "stans|bahnhofstrasse|3": {
+  "street": "Bahnhofstrasse",
+  "hn": "3",
+  "lat": 46.9577177,
+  "lng": 8.3667048,
   "mieter": []
  },
  "stans|engelbergstrasse|4": {
@@ -587,6 +654,13 @@
   "lng": 8.3701458,
   "mieter": []
  },
+ "stans|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 46.9578278,
+  "lng": 8.3665797,
+  "mieter": []
+ },
  "stans|engelbergstrasse|42a": {
   "street": "Engelbergstrasse",
   "hn": "42a",
@@ -650,11 +724,32 @@
   "lng": 8.3669184,
   "mieter": []
  },
+ "stans|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 46.9575842,
+  "lng": 8.3669671,
+  "mieter": []
+ },
  "stans|engelbergstrasse|5": {
   "street": "Engelbergstrasse",
   "hn": "5",
   "lat": 46.9570833,
   "lng": 8.3669267,
+  "mieter": []
+ },
+ "stans|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 46.9574021,
+  "lng": 8.3670845,
+  "mieter": []
+ },
+ "stans|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 46.9581971,
+  "lng": 8.3660072,
   "mieter": []
  },
  "stans|engelbergstrasse|62": {
@@ -837,6 +932,13 @@
   "hn": "46a",
   "lat": 46.9563886,
   "lng": 8.3718703,
+  "mieter": []
+ },
+ "stans|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 46.9578029,
+  "lng": 8.367397,
   "mieter": []
  },
  "stans|engelbergstrasse|8": {

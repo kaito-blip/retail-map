@@ -382,12 +382,13 @@
       "Marktgasse",
       "Engelbergstrasse",
       "Knirigasse",
-      "Bahnhofplatz"
+      "Bahnhofplatz",
+      "Bahnhofstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "130"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Grundbuchamt Nidwalden (Anfrage, Mailentwurf/Kontaktformular)",
+    "offen": "144"
   },
   {
     "kanton": "GL",
