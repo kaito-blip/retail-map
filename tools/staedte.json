@@ -719,14 +719,14 @@
     "strassen": [
       "Baslerstrasse",
       "Binningerstrasse",
-      "Hegenheimermattweg",
-      "Lindenplatz",
-      "Oberwilerstrasse"
+      "Spitzwaldstrasse",
+      "Dorfplatz",
+      "Lindenplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 19",
-    "offen": "554"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26/08.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 9 an den gewählten Strassen; Rest offen, Anfrageliste BL_Allschwil (Eigentumsauskunft BL mit Captcha, Kaito einzeln / Grundbuchamt BL grundbuchamt@bl.ch)",
+    "offen": "385"
   },
   {
     "kanton": "SZ",
