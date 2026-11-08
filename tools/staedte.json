@@ -826,16 +826,17 @@
     "ort": "Vevey",
     "radius": 700,
     "strassen": [
+      "Rue des Deux-Marchés",
       "Rue du Simplon",
       "Rue du Lac",
       "Rue de Lausanne",
       "Rue d'Italie",
       "Rue du Théâtre"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 11",
-    "offen": "137"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD; register_abgleich.py und Handprüfung): 16; Rest über Intercapi public (5/Tag, SMS) oder RF Est vaudois Vevey (rf.vevey@vd.ch, verifiziert)",
+    "offen": "165"
   },
   {
     "kanton": "SG",

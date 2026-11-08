@@ -65,6 +65,15 @@
    "La Fontaine"
   ]
  },
+ "vevey|rue des deux-marchés|26": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "26",
+  "lat": 46.4600014,
+  "lng": 6.8439988,
+  "mieter": [
+   "L'Armailli"
+  ]
+ },
  "vevey|rue du simplon|28": {
   "street": "Rue du Simplon",
   "hn": "28",
@@ -111,6 +120,16 @@
    "Bokoloko"
   ]
  },
+ "vevey|rue des deux-marchés|9": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "9",
+  "lat": 46.4597107,
+  "lng": 6.8443522,
+  "mieter": [
+   "Van Otterlo Ronald",
+   "Secret Spot"
+  ]
+ },
  "vevey|rue du simplon|40": {
   "street": "Rue du Simplon",
   "hn": "40",
@@ -118,6 +137,15 @@
   "lng": 6.844154,
   "mieter": [
    "ASLOCA Vevey – La Tour-de-Peilz"
+  ]
+ },
+ "vevey|rue des deux-marchés|23": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "23",
+  "lat": 46.4601148,
+  "lng": 6.8434628,
+  "mieter": [
+   "Comelon Burrito Bar"
   ]
  },
  "vevey|rue du théâtre|5": {
@@ -183,6 +211,15 @@
    "La Brasserie du Carré"
   ]
  },
+ "vevey|rue des deux-marchés|27": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "27",
+  "lat": 46.4601575,
+  "lng": 6.8432572,
+  "mieter": [
+   "La Coifferie"
+  ]
+ },
  "vevey|rue du simplon|7": {
   "street": "Rue du Simplon",
   "hn": "7",
@@ -208,6 +245,70 @@
   "lng": 6.8436628,
   "mieter": [
    "L'Annexe"
+  ]
+ },
+ "vevey|rue des deux-marchés|5": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "5",
+  "lat": 46.4596559,
+  "lng": 6.8444976,
+  "mieter": [
+   "Boucherie Ruchet & Fils"
+  ]
+ },
+ "vevey|rue des deux-marchés|8": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "8",
+  "lat": 46.4597293,
+  "lng": 6.8445427,
+  "mieter": [
+   "Rituel"
+  ]
+ },
+ "vevey|rue des deux-marchés|14": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "14",
+  "lat": 46.4598301,
+  "lng": 6.844324,
+  "mieter": [
+   "Boutique Puzzle"
+  ]
+ },
+ "vevey|rue des deux-marchés|3": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "3",
+  "lat": 46.4595788,
+  "lng": 6.8446859,
+  "mieter": [
+   "Un amour vache un amour tendre"
+  ]
+ },
+ "vevey|rue des deux-marchés|2": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "2",
+  "lat": 46.4596239,
+  "lng": 6.8448999,
+  "mieter": [
+   "Ly Thanh"
+  ]
+ },
+ "vevey|rue des deux-marchés|4": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "4",
+  "lat": 46.4596465,
+  "lng": 6.8447931,
+  "mieter": [
+   "Le coin des miss",
+   "Vall Cycle"
+  ]
+ },
+ "vevey|rue des deux-marchés|1": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "1",
+  "lat": 46.4595207,
+  "lng": 6.84484,
+  "mieter": [
+   "L'Armoire de Frida"
   ]
  },
  "vevey|rue d'italie|60": {
@@ -300,6 +401,15 @@
    "L'Imprudence"
   ]
  },
+ "vevey|rue des deux-marchés|10": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "10",
+  "lat": 46.4597666,
+  "lng": 6.8444535,
+  "mieter": [
+   "Le Moose"
+  ]
+ },
  "vevey|rue d'italie|20": {
   "street": "Rue d'Italie",
   "hn": "20",
@@ -314,6 +424,15 @@
   "lng": 6.8433385,
   "mieter": [
    "Wark"
+  ]
+ },
+ "vevey|rue des deux-marchés|30": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "30",
+  "lat": 46.4602023,
+  "lng": 6.8434735,
+  "mieter": [
+   "Ratatouille"
   ]
  },
  "vevey|rue d'italie|49": {
@@ -545,6 +664,20 @@
   "lng": 6.843541,
   "mieter": []
  },
+ "vevey|rue des deux-marchés|21": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "21",
+  "lat": 46.4600629,
+  "lng": 6.8435943,
+  "mieter": []
+ },
+ "vevey|rue des deux-marchés|25": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "25",
+  "lat": 46.4600277,
+  "lng": 6.8433909,
+  "mieter": []
+ },
  "vevey|rue du lac|28": {
   "street": "Rue du Lac",
   "hn": "28",
@@ -706,6 +839,20 @@
   "lng": 6.8430586,
   "mieter": []
  },
+ "vevey|rue des deux-marchés|32": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "32",
+  "lat": 46.460295,
+  "lng": 6.8433956,
+  "mieter": []
+ },
+ "vevey|rue des deux-marchés|34": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "34",
+  "lat": 46.4603135,
+  "lng": 6.8432747,
+  "mieter": []
+ },
  "vevey|rue du théâtre|4": {
   "street": "Rue du Théâtre",
   "hn": "4",
@@ -776,6 +923,64 @@
   "hn": "45bis",
   "lat": 46.4611588,
   "lng": 6.8434202,
+  "mieter": []
+ },
+ "vevey|rue des deux-marchés|6": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "6",
+  "lat": 46.4598109,
+  "lng": 6.8447168,
+  "mieter": []
+ },
+ "vevey|rue des deux-marchés|12": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "12",
+  "lat": 46.4598626,
+  "lng": 6.8444374,
+  "mieter": []
+ },
+ "vevey|rue des deux-marchés|16": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "16",
+  "lat": 46.4599706,
+  "lng": 6.8443644,
+  "mieter": []
+ },
+ "vevey|rue des deux-marchés|18": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "18",
+  "lat": 46.4599438,
+  "lng": 6.8442274,
+  "mieter": []
+ },
+ "vevey|rue des deux-marchés|22": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "22",
+  "lat": 46.4599928,
+  "lng": 6.8441527,
+  "mieter": [
+   "Bread Store"
+  ]
+ },
+ "vevey|rue des deux-marchés|24": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "24",
+  "lat": 46.460051,
+  "lng": 6.8441273,
+  "mieter": []
+ },
+ "vevey|rue des deux-marchés|28": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "28",
+  "lat": 46.4601178,
+  "lng": 6.8440035,
+  "mieter": []
+ },
+ "vevey|rue des deux-marchés|15": {
+  "street": "Rue des Deux-Marchés",
+  "hn": "15",
+  "lat": 46.4598292,
+  "lng": 6.8439686,
   "mieter": []
  },
  "vevey|rue du lac|26": {
@@ -1120,5 +1325,69 @@
   "lat": 46.4583392,
   "lng": 6.8512765,
   "mieter": []
+ },
+ "vevey|rue du simplon|11b": {
+  "street": "Rue du Simplon",
+  "hn": "11b",
+  "lat": 46.459599,
+  "lng": 6.845466,
+  "mieter": [],
+  "extra": true
+ },
+ "vevey|rue du simplon|26": {
+  "street": "Rue du Simplon",
+  "hn": "26",
+  "lat": 46.46027,
+  "lng": 6.844979,
+  "mieter": [],
+  "extra": true
+ },
+ "vevey|rue du lac|11": {
+  "street": "Rue du Lac",
+  "hn": "11",
+  "lat": 46.458847,
+  "lng": 6.846235,
+  "mieter": [],
+  "extra": true
+ },
+ "vevey|rue du lac|28c": {
+  "street": "Rue du Lac",
+  "hn": "28c",
+  "lat": 46.458931,
+  "lng": 6.843803,
+  "mieter": [],
+  "extra": true
+ },
+ "vevey|rue du lac|32a": {
+  "street": "Rue du Lac",
+  "hn": "32a",
+  "lat": 46.458317,
+  "lng": 6.84523,
+  "mieter": [],
+  "extra": true
+ },
+ "vevey|rue de lausanne|2": {
+  "street": "Rue de Lausanne",
+  "hn": "2",
+  "lat": 46.460846,
+  "lng": 6.842845,
+  "mieter": [],
+  "extra": true
+ },
+ "vevey|rue de lausanne|5bis": {
+  "street": "Rue de Lausanne",
+  "hn": "5bis",
+  "lat": 46.461067,
+  "lng": 6.842299,
+  "mieter": [],
+  "extra": true
+ },
+ "vevey|rue d'italie|12bis": {
+  "street": "Rue d'Italie",
+  "hn": "12bis",
+  "lat": 46.458141,
+  "lng": 6.851776,
+  "mieter": [],
+  "extra": true
  }
 }
