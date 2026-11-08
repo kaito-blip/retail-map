@@ -592,13 +592,19 @@
       "Badstrasse",
       "Weite Gasse",
       "Bahnhofstrasse",
+      "Langhaus",
+      "Rathausgasse",
       "Cordulaplatz",
-      "Rathausgasse"
+      "Schlossbergplatz",
+      "Obere Halde",
+      "Untere Halde",
+      "Theaterplatz",
+      "Bahnhofplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 6",
-    "offen": "180"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 08.11.26 (Fondsinventare UBS Interswiss/1a Immo PK, UBS AST 4, SPA, Swiss Life REF, Assetimmo, Pensimo, OGD SBB; tools/register_abgleich.py): 16; Rest: Geoportal AG (SMS-Konto, 10/Tag) oder Grundbuchamt Baden gbabaden@ag.ch (Anfrageliste AG_Baden.csv)",
+    "offen": "147"
   },
   {
     "kanton": "SO",

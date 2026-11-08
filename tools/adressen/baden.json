@@ -64,6 +64,22 @@
   "lng": 8.307616,
   "mieter": []
  },
+ "baden|obere halde|33": {
+  "street": "Obere Halde",
+  "hn": "33",
+  "lat": 47.4724571,
+  "lng": 8.3093355,
+  "mieter": []
+ },
+ "baden|schlossbergplatz|2": {
+  "street": "Schlossbergplatz",
+  "hn": "2",
+  "lat": 47.4733819,
+  "lng": 8.30794,
+  "mieter": [
+   "Moser's"
+  ]
+ },
  "baden|cordulaplatz|12": {
   "street": "Cordulaplatz",
   "hn": "12",
@@ -71,6 +87,15 @@
   "lng": 8.3068381,
   "mieter": [
    "Bodega Bar"
+  ]
+ },
+ "baden|schlossbergplatz|7": {
+  "street": "Schlossbergplatz",
+  "hn": "7",
+  "lat": 47.4734689,
+  "lng": 8.3073289,
+  "mieter": [
+   "Manor"
   ]
  },
  "baden|weite gasse|12": {
@@ -91,299 +116,74 @@
    "La Cittadella"
   ]
  },
- "baden|bahnhofstrasse|38": {
-  "street": "Bahnhofstrasse",
-  "hn": "38",
-  "lat": 47.4600576,
-  "lng": 8.3213262,
-  "mieter": []
- },
- "baden|bahnhofstrasse|9": {
-  "street": "Bahnhofstrasse",
-  "hn": "9",
-  "lat": 47.4594498,
-  "lng": 8.3192381,
-  "mieter": []
- },
- "baden|bahnhofstrasse|12": {
-  "street": "Bahnhofstrasse",
-  "hn": "12",
-  "lat": 47.4591929,
-  "lng": 8.3193155,
+ "baden|theaterplatz|8": {
+  "street": "Theaterplatz",
+  "hn": "8",
+  "lat": 47.4743626,
+  "lng": 8.3088864,
   "mieter": [
-   "Neuroth"
+   "OscarOne"
   ]
  },
- "baden|bahnhofstrasse|36": {
-  "street": "Bahnhofstrasse",
-  "hn": "36",
-  "lat": 47.4599131,
-  "lng": 8.3209424,
-  "mieter": [
-   "Apotheke Wyss"
-  ]
- },
- "baden|bahnhofstrasse|3": {
-  "street": "Bahnhofstrasse",
-  "hn": "3",
-  "lat": 47.4590919,
-  "lng": 8.3183613,
+ "baden|obere halde|24": {
+  "street": "Obere Halde",
+  "hn": "24",
+  "lat": 47.4724727,
+  "lng": 8.309506,
   "mieter": []
  },
- "baden|bahnhofstrasse|44": {
-  "street": "Bahnhofstrasse",
-  "hn": "44",
-  "lat": 47.460177,
-  "lng": 8.3223458,
-  "mieter": [
-   "TLC Baden"
-  ]
- },
- "baden|bahnhofstrasse|20": {
-  "street": "Bahnhofstrasse",
-  "hn": "20",
-  "lat": 47.4596775,
-  "lng": 8.3203481,
-  "mieter": [
-   "Colombo"
-  ]
- },
- "baden|bahnhofstrasse|50": {
-  "street": "Bahnhofstrasse",
-  "hn": "50",
-  "lat": 47.4610963,
-  "lng": 8.323736,
-  "mieter": []
- },
- "baden|bahnhofstrasse|5": {
-  "street": "Bahnhofstrasse",
+ "baden|langhaus|5": {
+  "street": "Langhaus",
   "hn": "5",
-  "lat": 47.4592577,
-  "lng": 8.3188115,
-  "mieter": []
- },
- "baden|bahnhofstrasse|40": {
-  "street": "Bahnhofstrasse",
-  "hn": "40",
-  "lat": 47.4598313,
-  "lng": 8.3218324,
+  "lat": 47.4766098,
+  "lng": 8.3068478,
   "mieter": [
-   "Memo Take away"
+   "Coop",
+   "Coop to go",
+   "Coop Vitality",
+   "Interdiscount"
   ]
  },
- "baden|bahnhofstrasse|42": {
-  "street": "Bahnhofstrasse",
-  "hn": "42",
-  "lat": 47.4602988,
-  "lng": 8.3220289,
-  "mieter": []
- },
- "baden|bahnhofstrasse|46": {
-  "street": "Bahnhofstrasse",
-  "hn": "46",
-  "lat": 47.4606335,
-  "lng": 8.3228771,
-  "mieter": []
- },
- "baden|bahnhofstrasse|4": {
-  "street": "Bahnhofstrasse",
+ "baden|langhaus|4": {
+  "street": "Langhaus",
   "hn": "4",
-  "lat": 47.458759,
-  "lng": 8.3182938,
-  "mieter": []
- },
- "baden|bahnhofstrasse|18": {
-  "street": "Bahnhofstrasse",
-  "hn": "18",
-  "lat": 47.4596274,
-  "lng": 8.3202281,
-  "mieter": []
- },
- "baden|bahnhofstrasse|48": {
-  "street": "Bahnhofstrasse",
-  "hn": "48",
-  "lat": 47.4609728,
-  "lng": 8.323534,
-  "mieter": []
- },
- "baden|bahnhofstrasse|45": {
-  "street": "Bahnhofstrasse",
-  "hn": "45",
-  "lat": 47.4610069,
-  "lng": 8.3227889,
-  "mieter": []
- },
- "baden|bahnhofstrasse|59": {
-  "street": "Bahnhofstrasse",
-  "hn": "59",
-  "lat": 47.461769,
-  "lng": 8.3243905,
-  "mieter": []
- },
- "baden|bahnhofstrasse|53": {
-  "street": "Bahnhofstrasse",
-  "hn": "53",
-  "lat": 47.4616219,
-  "lng": 8.3241141,
-  "mieter": []
- },
- "baden|bahnhofstrasse|57": {
-  "street": "Bahnhofstrasse",
-  "hn": "57",
-  "lat": 47.4618909,
-  "lng": 8.3241258,
-  "mieter": []
- },
- "baden|bahnhofstrasse|69": {
-  "street": "Bahnhofstrasse",
-  "hn": "69",
-  "lat": 47.462433,
-  "lng": 8.3262133,
-  "mieter": []
- },
- "baden|bahnhofstrasse|65": {
-  "street": "Bahnhofstrasse",
-  "hn": "65",
-  "lat": 47.462156,
-  "lng": 8.325403,
-  "mieter": []
- },
- "baden|bahnhofstrasse|51a": {
-  "street": "Bahnhofstrasse",
-  "hn": "51a",
-  "lat": 47.4614893,
-  "lng": 8.3237455,
+  "lat": 47.4767773,
+  "lng": 8.3067083,
   "mieter": [
-   "Gusto-Italy"
+   "Orell Füssli"
   ]
  },
- "baden|bahnhofstrasse|67": {
-  "street": "Bahnhofstrasse",
-  "hn": "67",
-  "lat": 47.4622891,
-  "lng": 8.3257592,
-  "mieter": []
- },
- "baden|bahnhofstrasse|47": {
-  "street": "Bahnhofstrasse",
-  "hn": "47",
-  "lat": 47.461203,
-  "lng": 8.3231143,
-  "mieter": []
- },
- "baden|bahnhofstrasse|49": {
-  "street": "Bahnhofstrasse",
-  "hn": "49",
-  "lat": 47.4613011,
-  "lng": 8.3234495,
-  "mieter": []
- },
- "baden|bahnhofstrasse|37": {
-  "street": "Bahnhofstrasse",
-  "hn": "37",
-  "lat": 47.4604583,
-  "lng": 8.3213472,
-  "mieter": []
- },
- "baden|bahnhofstrasse|39": {
-  "street": "Bahnhofstrasse",
-  "hn": "39",
-  "lat": 47.4605518,
-  "lng": 8.3215629,
-  "mieter": []
- },
- "baden|bahnhofstrasse|41": {
-  "street": "Bahnhofstrasse",
-  "hn": "41",
-  "lat": 47.4607615,
-  "lng": 8.3220165,
-  "mieter": []
- },
- "baden|bahnhofstrasse|43": {
-  "street": "Bahnhofstrasse",
-  "hn": "43",
-  "lat": 47.4608349,
-  "lng": 8.3222075,
-  "mieter": []
- },
- "baden|bahnhofstrasse|11": {
-  "street": "Bahnhofstrasse",
-  "hn": "11",
-  "lat": 47.4596147,
-  "lng": 8.3196424,
-  "mieter": []
- },
- "baden|bahnhofstrasse|33b": {
-  "street": "Bahnhofstrasse",
-  "hn": "33b",
-  "lat": 47.460538,
-  "lng": 8.3209267,
-  "mieter": []
- },
- "baden|bahnhofstrasse|33a": {
-  "street": "Bahnhofstrasse",
-  "hn": "33a",
-  "lat": 47.4603506,
-  "lng": 8.3211275,
-  "mieter": []
- },
- "baden|bahnhofstrasse|52": {
-  "street": "Bahnhofstrasse",
-  "hn": "52",
-  "lat": 47.4612613,
-  "lng": 8.3239848,
-  "mieter": []
- },
- "baden|bahnhofstrasse|51c": {
-  "street": "Bahnhofstrasse",
-  "hn": "51c",
-  "lat": 47.4616479,
-  "lng": 8.3234252,
-  "mieter": []
- },
- "baden|bahnhofstrasse|56": {
-  "street": "Bahnhofstrasse",
-  "hn": "56",
-  "lat": 47.461681,
-  "lng": 8.3248877,
-  "mieter": []
- },
- "baden|bahnhofstrasse|51b": {
-  "street": "Bahnhofstrasse",
-  "hn": "51b",
-  "lat": 47.4615766,
-  "lng": 8.3236054,
-  "mieter": []
- },
- "baden|bahnhofstrasse|92": {
-  "street": "Bahnhofstrasse",
-  "hn": "92",
-  "lat": 47.464416,
-  "lng": 8.3286964,
+ "baden|langhaus|3": {
+  "street": "Langhaus",
+  "hn": "3",
+  "lat": 47.4764475,
+  "lng": 8.3066118,
   "mieter": [
-   "Spar"
+   "Varibelle",
+   "Amplifon"
   ]
  },
- "baden|bahnhofstrasse|70": {
-  "street": "Bahnhofstrasse",
-  "hn": "70",
-  "lat": 47.4623956,
-  "lng": 8.3268877,
-  "mieter": []
+ "baden|langhaus|2": {
+  "street": "Langhaus",
+  "hn": "2",
+  "lat": 47.4761865,
+  "lng": 8.3065367,
+  "mieter": [
+   "Smiling Fish",
+   "Asia Store",
+   "doktor.zentrum baden"
+  ]
  },
- "baden|bahnhofstrasse|68": {
-  "street": "Bahnhofstrasse",
-  "hn": "68",
-  "lat": 47.462311,
-  "lng": 8.3266459,
-  "mieter": []
- },
- "baden|bahnhofstrasse|71": {
-  "street": "Bahnhofstrasse",
-  "hn": "71",
-  "lat": 47.4627034,
-  "lng": 8.326187,
-  "mieter": []
+ "baden|langhaus|1": {
+  "street": "Langhaus",
+  "hn": "1",
+  "lat": 47.4759363,
+  "lng": 8.3064669,
+  "mieter": [
+   "Höchli",
+   "Excellent Personaldienstleistungen",
+   "Restaurant Langhaus"
+  ]
  },
  "baden|badstrasse|33": {
   "street": "Badstrasse",
@@ -402,6 +202,33 @@
   "lng": 8.3077528,
   "mieter": [
    "Fielmann"
+  ]
+ },
+ "baden|obere halde|36": {
+  "street": "Obere Halde",
+  "hn": "36",
+  "lat": 47.4729018,
+  "lng": 8.3093819,
+  "mieter": [
+   "Trudelhaus"
+  ]
+ },
+ "baden|untere halde|21": {
+  "street": "Untere Halde",
+  "hn": "21",
+  "lat": 47.4721426,
+  "lng": 8.3093834,
+  "mieter": [
+   "Rebstock"
+  ]
+ },
+ "baden|untere halde|2": {
+  "street": "Untere Halde",
+  "hn": "2",
+  "lat": 47.472532,
+  "lng": 8.3099192,
+  "mieter": [
+   "Grosser Alexander"
   ]
  },
  "baden|weite gasse|13": {
@@ -448,6 +275,16 @@
    "H&M"
   ]
  },
+ "baden|schlossbergplatz|5": {
+  "street": "Schlossbergplatz",
+  "hn": "5",
+  "lat": 47.4734166,
+  "lng": 8.3075523,
+  "mieter": [
+   "Rituals",
+   "Depot"
+  ]
+ },
  "baden|bahnhofstrasse|28": {
   "street": "Bahnhofstrasse",
   "hn": "28",
@@ -485,6 +322,22 @@
    "Roter Turm"
   ]
  },
+ "baden|theaterplatz|3": {
+  "street": "Theaterplatz",
+  "hn": "3",
+  "lat": 47.4737825,
+  "lng": 8.3084576,
+  "mieter": [
+   "YanaCocha"
+  ]
+ },
+ "baden|theaterplatz|5": {
+  "street": "Theaterplatz",
+  "hn": "5",
+  "lat": 47.4739446,
+  "lng": 8.3082835,
+  "mieter": []
+ },
  "baden|badstrasse|18": {
   "street": "Badstrasse",
   "hn": "18",
@@ -508,33 +361,22 @@
   "lng": 8.3087525,
   "mieter": []
  },
- "baden|bahnhofstrasse|14a": {
-  "street": "Bahnhofstrasse",
-  "hn": "14a",
-  "lat": 47.459333,
-  "lng": 8.3196201,
+ "baden|theaterplatz|7": {
+  "street": "Theaterplatz",
+  "hn": "7",
+  "lat": 47.4741328,
+  "lng": 8.3084891,
   "mieter": []
  },
- "baden|bahnhofstrasse|14b": {
-  "street": "Bahnhofstrasse",
-  "hn": "14b",
-  "lat": 47.4593795,
-  "lng": 8.3197253,
-  "mieter": []
- },
- "baden|bahnhofstrasse|16a": {
-  "street": "Bahnhofstrasse",
-  "hn": "16a",
-  "lat": 47.459451,
-  "lng": 8.3199068,
-  "mieter": []
- },
- "baden|bahnhofstrasse|16b": {
-  "street": "Bahnhofstrasse",
-  "hn": "16b",
-  "lat": 47.4594997,
-  "lng": 8.3200125,
-  "mieter": []
+ "baden|bahnhofplatz|4": {
+  "street": "Bahnhofplatz",
+  "hn": "4",
+  "lat": 47.4761181,
+  "lng": 8.3085189,
+  "mieter": [
+   "Handeys Beauty",
+   "Visilab"
+  ]
  },
  "baden|badstrasse|9": {
   "street": "Badstrasse",
@@ -562,6 +404,15 @@
   "lng": 8.3073787,
   "mieter": [
    "Chäsegge"
+  ]
+ },
+ "baden|bahnhofplatz|6": {
+  "street": "Bahnhofplatz",
+  "hn": "6",
+  "lat": 47.4763758,
+  "lng": 8.3090436,
+  "mieter": [
+   "Gidor"
   ]
  },
  "baden|weite gasse|11": {
@@ -705,40 +556,14 @@
   "lng": 8.3082382,
   "mieter": []
  },
- "baden|bahnhofstrasse|103a": {
-  "street": "Bahnhofstrasse",
-  "hn": "103a",
-  "lat": 47.4643618,
-  "lng": 8.3277215,
-  "mieter": []
- },
- "baden|bahnhofstrasse|103b": {
-  "street": "Bahnhofstrasse",
-  "hn": "103b",
-  "lat": 47.4644162,
-  "lng": 8.3275676,
-  "mieter": []
- },
- "baden|bahnhofstrasse|103c": {
-  "street": "Bahnhofstrasse",
-  "hn": "103c",
-  "lat": 47.4644705,
-  "lng": 8.3274183,
-  "mieter": []
- },
- "baden|bahnhofstrasse|103d": {
-  "street": "Bahnhofstrasse",
-  "hn": "103d",
-  "lat": 47.4645481,
-  "lng": 8.3272507,
-  "mieter": []
- },
- "baden|bahnhofstrasse|90": {
-  "street": "Bahnhofstrasse",
-  "hn": "90",
-  "lat": 47.4642873,
-  "lng": 8.3286278,
-  "mieter": []
+ "baden|bahnhofplatz|9": {
+  "street": "Bahnhofplatz",
+  "hn": "9",
+  "lat": 47.4758973,
+  "lng": 8.3088218,
+  "mieter": [
+   "Frei"
+  ]
  },
  "baden|badstrasse|11": {
   "street": "Badstrasse",
@@ -791,13 +616,84 @@
    "Twerenbold"
   ]
  },
- "baden|badstrasse|50": {
-  "street": "Badstrasse",
-  "hn": "50",
-  "lat": 47.4827246,
-  "lng": 8.3115731,
+ "baden|schlossbergplatz|4": {
+  "street": "Schlossbergplatz",
+  "hn": "4",
+  "lat": 47.4738944,
+  "lng": 8.3071763,
   "mieter": [
-   "Weingut Goldwand"
+   "Manito",
+   "Henry's Live Musik & Sports Bar",
+   "Cai Sushi"
+  ]
+ },
+ "baden|untere halde|15": {
+  "street": "Untere Halde",
+  "hn": "15",
+  "lat": 47.4722341,
+  "lng": 8.3095958,
+  "mieter": [
+   "Frau Meise"
+  ]
+ },
+ "baden|untere halde|12": {
+  "street": "Untere Halde",
+  "hn": "12",
+  "lat": 47.4723741,
+  "lng": 8.3095892,
+  "mieter": []
+ },
+ "baden|untere halde|14": {
+  "street": "Untere Halde",
+  "hn": "14",
+  "lat": 47.472332,
+  "lng": 8.3095155,
+  "mieter": []
+ },
+ "baden|untere halde|16": {
+  "street": "Untere Halde",
+  "hn": "16",
+  "lat": 47.4722946,
+  "lng": 8.3094444,
+  "mieter": []
+ },
+ "baden|untere halde|4": {
+  "street": "Untere Halde",
+  "hn": "4",
+  "lat": 47.4724664,
+  "lng": 8.3097735,
+  "mieter": []
+ },
+ "baden|untere halde|6": {
+  "street": "Untere Halde",
+  "hn": "6",
+  "lat": 47.4724446,
+  "lng": 8.3097197,
+  "mieter": []
+ },
+ "baden|untere halde|8": {
+  "street": "Untere Halde",
+  "hn": "8",
+  "lat": 47.4724124,
+  "lng": 8.3096552,
+  "mieter": []
+ },
+ "baden|untere halde|17": {
+  "street": "Untere Halde",
+  "hn": "17",
+  "lat": 47.4722043,
+  "lng": 8.3095214,
+  "mieter": [
+   "Hundesalon Happy"
+  ]
+ },
+ "baden|untere halde|9": {
+  "street": "Untere Halde",
+  "hn": "9",
+  "lat": 47.472342,
+  "lng": 8.3097948,
+  "mieter": [
+   "Barrique"
   ]
  },
  "baden|badstrasse|32": {
@@ -808,6 +704,16 @@
   "mieter": [
    "Perosa",
    "WE"
+  ]
+ },
+ "baden|bahnhofplatz|7": {
+  "street": "Bahnhofplatz",
+  "hn": "7",
+  "lat": 47.4761086,
+  "lng": 8.3089464,
+  "mieter": [
+   "TUI",
+   "Kunze"
   ]
  },
  "baden|weite gasse|14": {
@@ -826,6 +732,15 @@
   "lng": 8.308324,
   "mieter": [
    "Sunrise"
+  ]
+ },
+ "baden|bahnhofplatz|2": {
+  "street": "Bahnhofplatz",
+  "hn": "2",
+  "lat": 47.4764413,
+  "lng": 8.308526,
+  "mieter": [
+   "AKB"
   ]
  },
  "baden|badstrasse|31": {
@@ -874,6 +789,16 @@
    "Tiefenbacher"
   ]
  },
+ "baden|bahnhofplatz|1": {
+  "street": "Bahnhofplatz",
+  "hn": "1",
+  "lat": 47.4761779,
+  "lng": 8.3086241,
+  "mieter": [
+   "Arcade",
+   "Bank-now"
+  ]
+ },
  "baden|badstrasse|34": {
   "street": "Badstrasse",
   "hn": "34",
@@ -882,13 +807,6 @@
   "mieter": [
    "Salt"
   ]
- },
- "baden|badstrasse|18a": {
-  "street": "Badstrasse",
-  "hn": "18A",
-  "lat": 47.4805091,
-  "lng": 8.3151262,
-  "mieter": []
  },
  "baden|badstrasse|15": {
   "street": "Badstrasse",
@@ -964,6 +882,15 @@
    "BeautySpace"
   ]
  },
+ "baden|theaterplatz|2": {
+  "street": "Theaterplatz",
+  "hn": "2",
+  "lat": 47.473509,
+  "lng": 8.3084344,
+  "mieter": [
+   "Valiant"
+  ]
+ },
  "baden|weite gasse|9": {
   "street": "Weite Gasse",
   "hn": "9",
@@ -980,18 +907,95 @@
   "lng": 8.3067634,
   "mieter": []
  },
- "baden|badstrasse|20,20a,20b,20c": {
-  "street": "Badstrasse",
-  "hn": "20,20a,20b,20c",
-  "lat": 47.4809956,
-  "lng": 8.3151512,
-  "mieter": []
- },
  "baden|weite gasse|7": {
   "street": "Weite Gasse",
   "hn": "7",
   "lat": 47.4719173,
   "lng": 8.3071124,
+  "mieter": []
+ },
+ "baden|obere halde|23": {
+  "street": "Obere Halde",
+  "hn": "23",
+  "lat": 47.4721673,
+  "lng": 8.3091351,
+  "mieter": []
+ },
+ "baden|obere halde|18": {
+  "street": "Obere Halde",
+  "hn": "18",
+  "lat": 47.4723558,
+  "lng": 8.3093582,
+  "mieter": []
+ },
+ "baden|obere halde|28": {
+  "street": "Obere Halde",
+  "hn": "28",
+  "lat": 47.472646,
+  "lng": 8.3094279,
+  "mieter": []
+ },
+ "baden|obere halde|26": {
+  "street": "Obere Halde",
+  "hn": "26",
+  "lat": 47.4725345,
+  "lng": 8.3094952,
+  "mieter": []
+ },
+ "baden|obere halde|31": {
+  "street": "Obere Halde",
+  "hn": "31",
+  "lat": 47.4724647,
+  "lng": 8.3091454,
+  "mieter": []
+ },
+ "baden|obere halde|25": {
+  "street": "Obere Halde",
+  "hn": "25",
+  "lat": 47.4722362,
+  "lng": 8.3090854,
+  "mieter": []
+ },
+ "baden|obere halde|32": {
+  "street": "Obere Halde",
+  "hn": "32",
+  "lat": 47.4727136,
+  "lng": 8.3094084,
+  "mieter": []
+ },
+ "baden|obere halde|22": {
+  "street": "Obere Halde",
+  "hn": "22",
+  "lat": 47.4724072,
+  "lng": 8.3094065,
+  "mieter": []
+ },
+ "baden|obere halde|30": {
+  "street": "Obere Halde",
+  "hn": "30",
+  "lat": 47.4726686,
+  "lng": 8.3094221,
+  "mieter": []
+ },
+ "baden|obere halde|20": {
+  "street": "Obere Halde",
+  "hn": "20",
+  "lat": 47.4723696,
+  "lng": 8.3093712,
+  "mieter": []
+ },
+ "baden|obere halde|27": {
+  "street": "Obere Halde",
+  "hn": "27",
+  "lat": 47.4722583,
+  "lng": 8.309097,
+  "mieter": []
+ },
+ "baden|obere halde|34": {
+  "street": "Obere Halde",
+  "hn": "34",
+  "lat": 47.4727826,
+  "lng": 8.3093762,
   "mieter": []
  },
  "baden|rathausgasse|16": {
@@ -1087,15 +1091,6 @@
   "lng": 8.3080372,
   "mieter": []
  },
- "baden|bahnhofstrasse|88": {
-  "street": "Bahnhofstrasse",
-  "hn": "88",
-  "lat": 47.4638464,
-  "lng": 8.3283576,
-  "mieter": [
-   "Doktor Zentrum Wettingen"
-  ]
- },
  "baden|cordulaplatz|1": {
   "street": "Cordulaplatz",
   "hn": "1",
@@ -1111,13 +1106,6 @@
   "mieter": [
    "Peppino"
   ]
- },
- "baden|bahnhofstrasse|74": {
-  "street": "Bahnhofstrasse",
-  "hn": "74",
-  "lat": 47.462997,
-  "lng": 8.327973,
-  "mieter": []
  },
  "baden|weite gasse|33/35": {
   "street": "Weite Gasse",
@@ -1151,11 +1139,11 @@
   "lng": 8.3074147,
   "mieter": []
  },
- "baden|badstrasse|28a": {
-  "street": "Badstrasse",
-  "hn": "28a",
-  "lat": 47.4819495,
-  "lng": 8.3148935,
+ "baden|obere halde|29": {
+  "street": "Obere Halde",
+  "hn": "29",
+  "lat": 47.472332,
+  "lng": 8.309229,
   "mieter": []
  },
  "baden|bahnhofstrasse|2": {
@@ -1202,172 +1190,11 @@
   "lng": 8.3086166,
   "mieter": []
  },
- "baden|badstrasse|18b": {
-  "street": "Badstrasse",
-  "hn": "18b",
-  "lat": 47.4805564,
-  "lng": 8.3154001,
-  "mieter": []
- },
  "baden|cordulaplatz|3": {
   "street": "Cordulaplatz",
   "hn": "3",
   "lat": 47.4721901,
   "lng": 8.3065469,
-  "mieter": []
- },
- "baden|badstrasse|4,6": {
-  "street": "Badstrasse",
-  "hn": "4,6",
-  "lat": 47.4791456,
-  "lng": 8.3147063,
-  "mieter": []
- },
- "baden|badstrasse|56": {
-  "street": "Badstrasse",
-  "hn": "56",
-  "lat": 47.4830621,
-  "lng": 8.3111138,
-  "mieter": []
- },
- "baden|badstrasse|42": {
-  "street": "Badstrasse",
-  "hn": "42",
-  "lat": 47.4826553,
-  "lng": 8.3120837,
-  "mieter": []
- },
- "baden|badstrasse|48": {
-  "street": "Badstrasse",
-  "hn": "48",
-  "lat": 47.4830765,
-  "lng": 8.3120717,
-  "mieter": []
- },
- "baden|badstrasse|52": {
-  "street": "Badstrasse",
-  "hn": "52",
-  "lat": 47.4831431,
-  "lng": 8.3117913,
-  "mieter": []
- },
- "baden|badstrasse|46": {
-  "street": "Badstrasse",
-  "hn": "46",
-  "lat": 47.4830524,
-  "lng": 8.3123244,
-  "mieter": []
- },
- "baden|badstrasse|44": {
-  "street": "Badstrasse",
-  "hn": "44",
-  "lat": 47.482844,
-  "lng": 8.3121493,
-  "mieter": []
- },
- "baden|bahnhofstrasse|99": {
-  "street": "Bahnhofstrasse",
-  "hn": "99",
-  "lat": 47.4638639,
-  "lng": 8.3277428,
-  "mieter": []
- },
- "baden|bahnhofstrasse|97": {
-  "street": "Bahnhofstrasse",
-  "hn": "97",
-  "lat": 47.4634421,
-  "lng": 8.3276579,
-  "mieter": []
- },
- "baden|bahnhofstrasse|101": {
-  "street": "Bahnhofstrasse",
-  "hn": "101",
-  "lat": 47.4641146,
-  "lng": 8.3279947,
-  "mieter": []
- },
- "baden|bahnhofstrasse|107": {
-  "street": "Bahnhofstrasse",
-  "hn": "107",
-  "lat": 47.4646972,
-  "lng": 8.3275785,
-  "mieter": []
- },
- "baden|bahnhofstrasse|105": {
-  "street": "Bahnhofstrasse",
-  "hn": "105",
-  "lat": 47.4644509,
-  "lng": 8.3280347,
-  "mieter": []
- },
- "baden|bahnhofstrasse|109": {
-  "street": "Bahnhofstrasse",
-  "hn": "109",
-  "lat": 47.4646004,
-  "lng": 8.3283397,
-  "mieter": []
- },
- "baden|bahnhofstrasse|62": {
-  "street": "Bahnhofstrasse",
-  "hn": "62",
-  "lat": 47.4619714,
-  "lng": 8.3257153,
-  "mieter": []
- },
- "baden|bahnhofstrasse|60": {
-  "street": "Bahnhofstrasse",
-  "hn": "60",
-  "lat": 47.4618548,
-  "lng": 8.3254371,
-  "mieter": []
- },
- "baden|bahnhofstrasse|66": {
-  "street": "Bahnhofstrasse",
-  "hn": "66",
-  "lat": 47.4621965,
-  "lng": 8.3263771,
-  "mieter": []
- },
- "baden|bahnhofstrasse|64": {
-  "street": "Bahnhofstrasse",
-  "hn": "64",
-  "lat": 47.4620643,
-  "lng": 8.325987,
-  "mieter": []
- },
- "baden|bahnhofstrasse|73": {
-  "street": "Bahnhofstrasse",
-  "hn": "73",
-  "lat": 47.462594,
-  "lng": 8.3264734,
-  "mieter": []
- },
- "baden|bahnhofstrasse|6": {
-  "street": "Bahnhofstrasse",
-  "hn": "6",
-  "lat": 47.4588462,
-  "lng": 8.3185962,
-  "mieter": []
- },
- "baden|bahnhofstrasse|4a": {
-  "street": "Bahnhofstrasse",
-  "hn": "4a",
-  "lat": 47.4587371,
-  "lng": 8.3187404,
-  "mieter": []
- },
- "baden|bahnhofstrasse|8": {
-  "street": "Bahnhofstrasse",
-  "hn": "8",
-  "lat": 47.4589488,
-  "lng": 8.3188167,
-  "mieter": []
- },
- "baden|bahnhofstrasse|2.1": {
-  "street": "Bahnhofstrasse",
-  "hn": "2.1",
-  "lat": 47.4587803,
-  "lng": 8.3172935,
   "mieter": []
  },
  "baden|bahnhofstrasse|25": {
@@ -1377,25 +1204,32 @@
   "lng": 8.3077844,
   "mieter": []
  },
+ "baden|theaterplatz|4": {
+  "street": "Theaterplatz",
+  "hn": "4",
+  "lat": 47.4735545,
+  "lng": 8.3087624,
+  "mieter": []
+ },
+ "baden|untere halde|1": {
+  "street": "Untere Halde",
+  "hn": "1",
+  "lat": 47.472493,
+  "lng": 8.3103495,
+  "mieter": []
+ },
+ "baden|theaterplatz|1": {
+  "street": "Theaterplatz",
+  "hn": "1",
+  "lat": 47.473655,
+  "lng": 8.3082043,
+  "mieter": []
+ },
  "baden|bahnhofstrasse|24": {
   "street": "Bahnhofstrasse",
   "hn": "24",
   "lat": 47.4752516,
   "lng": 8.3076786,
-  "mieter": []
- },
- "baden|bahnhofstrasse|61": {
-  "street": "Bahnhofstrasse",
-  "hn": "61",
-  "lat": 47.4619169,
-  "lng": 8.3247689,
-  "mieter": []
- },
- "baden|bahnhofstrasse|63": {
-  "street": "Bahnhofstrasse",
-  "hn": "63",
-  "lat": 47.4619717,
-  "lng": 8.3249227,
   "mieter": []
  },
  "baden|badstrasse|38": {
@@ -1412,6 +1246,55 @@
   "lng": 8.3078847,
   "mieter": []
  },
+ "baden|untere halde|11": {
+  "street": "Untere Halde",
+  "hn": "11",
+  "lat": 47.4722924,
+  "lng": 8.3097415,
+  "mieter": []
+ },
+ "baden|untere halde|7": {
+  "street": "Untere Halde",
+  "hn": "7",
+  "lat": 47.4723609,
+  "lng": 8.3099263,
+  "mieter": []
+ },
+ "baden|untere halde|13": {
+  "street": "Untere Halde",
+  "hn": "13",
+  "lat": 47.4722668,
+  "lng": 8.30968,
+  "mieter": []
+ },
+ "baden|untere halde|19": {
+  "street": "Untere Halde",
+  "hn": "19",
+  "lat": 47.4721756,
+  "lng": 8.3094797,
+  "mieter": []
+ },
+ "baden|schlossbergplatz|3": {
+  "street": "Schlossbergplatz",
+  "hn": "3",
+  "lat": 47.4732704,
+  "lng": 8.3076562,
+  "mieter": []
+ },
+ "baden|untere halde|3": {
+  "street": "Untere Halde",
+  "hn": "3",
+  "lat": 47.4724356,
+  "lng": 8.3101616,
+  "mieter": []
+ },
+ "baden|untere halde|5": {
+  "street": "Untere Halde",
+  "hn": "5",
+  "lat": 47.4723989,
+  "lng": 8.3100383,
+  "mieter": []
+ },
  "baden|badstrasse|23": {
   "street": "Badstrasse",
   "hn": "23",
@@ -1419,18 +1302,11 @@
   "lng": 8.308322,
   "mieter": []
  },
- "baden|badstrasse|2": {
-  "street": "Badstrasse",
-  "hn": "2",
-  "lat": 47.4792743,
-  "lng": 8.3143301,
-  "mieter": []
- },
- "baden|badstrasse|3": {
-  "street": "Badstrasse",
-  "hn": "3",
-  "lat": 47.479505,
-  "lng": 8.3141666,
+ "baden|theaterplatz|6": {
+  "street": "Theaterplatz",
+  "hn": "6",
+  "lat": 47.4736471,
+  "lng": 8.308974,
   "mieter": []
  },
  "baden|bahnhofstrasse|33": {

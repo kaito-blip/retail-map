@@ -1,5 +1,5 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
-owner;baar|oberdorfstrasse|6;Helvetica Property Investors AG für Helvetica Swiss Commercial Fund;;Eigentümer lt. Helvetica HSC: Halbjahresbericht per 30.06.2026, Inventar der Liegenschaften S. 31–33 (2026-06-30), Stockwerkeigentum
+owner;baden|theaterplatz|4;Anlagestiftung Pensimo, Anlagegruppe Proreal;;"Eigentümer lt. Pensimo Proreal: Portfolio Pensimo (Liegenschaftenliste Website); Nutzung abgeleitet aus Wohnungen/kommerz. Nutzfläche (31.12.2025)"
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -39,11 +39,13 @@ bestätigt;allschwil|hegenheimermattweg|179;;"Cham Swiss Properties AG (Gruppe; 
 bestätigt;allschwil|hegenheimermattweg|65;;Baloise Asset Management AG für Baloise Swiss Property Fund;
 bestätigt;appenzell|hauptgasse|11;;UBS Investment Foundation 1 (UBS Anlagestiftung 1), Anlagegruppe UBS AST Kommerzielle Immobilien Schweiz;
 bestätigt;baar|oberdorfstrasse|2;;Helvetica Property Investors AG für Helvetica Swiss Commercial Fund;
+bestätigt;baar|oberdorfstrasse|6;;Helvetica Property Investors AG für Helvetica Swiss Commercial Fund;
 bestätigt;baar|oberdorfstrasse|8a;;Helvetica Property Investors AG für Helvetica Swiss Commercial Fund;
 bestätigt;baden|badstrasse|21;;Swiss Life Asset Management AG für Swiss Life REF (CH) ESG Swiss Properties;
 bestätigt;baden|badstrasse|28;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Interswiss»;
 bestätigt;baden|badstrasse|30;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Interswiss»;
 bestätigt;baden|badstrasse|4;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland;
+bestätigt;baden|bahnhofplatz|7;;Swiss Life Asset Management AG für Swiss Life REF (CH) ESG Swiss Properties;
 bestätigt;baden|bahnhofstrasse|25;;Schweizerische Bundesbahnen SBB;
 bestätigt;baden|bahnhofstrasse|40;;Swiss Prime Anlagestiftung, Anlagegruppe SPA Immobilien Schweiz;
 bestätigt;basel|eisengasse|14;;SF Urban Properties AG;
