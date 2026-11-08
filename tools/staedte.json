@@ -333,9 +333,9 @@
       "Schmiedgasse",
       "Postplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (tools/register_abgleich.py): 2 (UBS AST 4, Strehlgasse 11/13); Rest offen, Anfrageliste SZ_Schwyz.csv (WebGIS SZ mit Captcha oder Notariat und Grundbuchamt Schwyz)",
     "offen": "111"
   },
   {
