@@ -523,10 +523,10 @@
       "Rue du Théâtre",
       "Rue de la Paix"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 17",
-    "offen": "139"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD; register_abgleich.py + 3 von Hand): 22 im erfassten Abschnitt; Rest über Intercapi public (5/Tag, SMS) oder RF Est vaudois Vevey (rf.vevey@vd.ch, verifiziert)",
+    "offen": "166"
   },
   {
     "kanton": "SG",

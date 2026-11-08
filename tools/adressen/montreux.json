@@ -1,4 +1,36 @@
 {
+ "montreux|grand'rue|54": {
+  "street": "Grand'Rue",
+  "hn": "54",
+  "lat": 46.4345156,
+  "lng": 6.9101115,
+  "mieter": [
+   "Natkina"
+  ]
+ },
+ "montreux|grand'rue|56": {
+  "street": "Grand'Rue",
+  "hn": "56",
+  "lat": 46.4346864,
+  "lng": 6.9100656,
+  "mieter": []
+ },
+ "montreux|grand'rue|56bis": {
+  "street": "Grand'Rue",
+  "hn": "56bis",
+  "lat": 46.4348801,
+  "lng": 6.9103077,
+  "mieter": []
+ },
+ "montreux|grand'rue|58": {
+  "street": "Grand'Rue",
+  "hn": "58",
+  "lat": 46.4349912,
+  "lng": 6.9099851,
+  "mieter": [
+   "1820"
+  ]
+ },
  "montreux|avenue du casino|35": {
   "street": "Avenue du Casino",
   "hn": "35",
@@ -69,15 +101,6 @@
   "lng": 6.9149663,
   "mieter": []
  },
- "montreux|avenue des alpes|96": {
-  "street": "Avenue des Alpes",
-  "hn": "96",
-  "lat": 46.4377043,
-  "lng": 6.9083133,
-  "mieter": [
-   "Electricité Sottas SARL"
-  ]
- },
  "montreux|avenue des alpes|5": {
   "street": "Avenue des Alpes",
   "hn": "5",
@@ -112,6 +135,33 @@
    "Le Basilic"
   ]
  },
+ "montreux|grand'rue|1": {
+  "street": "Grand'Rue",
+  "hn": "1",
+  "lat": 46.4313794,
+  "lng": 6.9103242,
+  "mieter": [
+   "Dolce Vita"
+  ]
+ },
+ "montreux|grand'rue|3": {
+  "street": "Grand'Rue",
+  "hn": "3",
+  "lat": 46.4315049,
+  "lng": 6.9103009,
+  "mieter": [
+   "Institut Elle & Belle"
+  ]
+ },
+ "montreux|grand'rue|5": {
+  "street": "Grand'Rue",
+  "hn": "5",
+  "lat": 46.43134,
+  "lng": 6.9102861,
+  "mieter": [
+   "Pharmacie du Jazz"
+  ]
+ },
  "montreux|avenue du casino|32": {
   "street": "Avenue du Casino",
   "hn": "32",
@@ -119,6 +169,24 @@
   "lng": 6.9122495,
   "mieter": [
    "La Brasserie"
+  ]
+ },
+ "montreux|grand'rue|16": {
+  "street": "Grand'Rue",
+  "hn": "16",
+  "lat": 46.4322508,
+  "lng": 6.9104727,
+  "mieter": [
+   "L'Exotique"
+  ]
+ },
+ "montreux|grand'rue|24": {
+  "street": "Grand'Rue",
+  "hn": "24",
+  "lat": 46.4326224,
+  "lng": 6.9103895,
+  "mieter": [
+   "Bazar Suisse"
   ]
  },
  "montreux|rue de la paix|3": {
@@ -156,6 +224,38 @@
    "Coiffure The Face"
   ]
  },
+ "montreux|grand'rue|38": {
+  "street": "Grand'Rue",
+  "hn": "38",
+  "lat": 46.4335755,
+  "lng": 6.910358,
+  "mieter": []
+ },
+ "montreux|grand'rue|40": {
+  "street": "Grand'Rue",
+  "hn": "40",
+  "lat": 46.4337026,
+  "lng": 6.9103299,
+  "mieter": [
+   "Canucci"
+  ]
+ },
+ "montreux|grand'rue|52": {
+  "street": "Grand'Rue",
+  "hn": "52",
+  "lat": 46.4343826,
+  "lng": 6.9102191,
+  "mieter": []
+ },
+ "montreux|grand'rue|66": {
+  "street": "Grand'Rue",
+  "hn": "66",
+  "lat": 46.4354815,
+  "lng": 6.9097872,
+  "mieter": [
+   "Fuji"
+  ]
+ },
  "montreux|avenue des alpes|45": {
   "street": "Avenue des Alpes",
   "hn": "45",
@@ -173,6 +273,40 @@
   "mieter": [
    "Bagel on the way",
    "Hanabi"
+  ]
+ },
+ "montreux|grand'rue|74": {
+  "street": "Grand'Rue",
+  "hn": "74",
+  "lat": 46.4362608,
+  "lng": 6.909191,
+  "mieter": [
+   "Centre Imagerie Médicale Montreux"
+  ]
+ },
+ "montreux|grand'rue|80": {
+  "street": "Grand'Rue",
+  "hn": "80",
+  "lat": 46.4364497,
+  "lng": 6.9090231,
+  "mieter": []
+ },
+ "montreux|grand'rue|90": {
+  "street": "Grand'Rue",
+  "hn": "90",
+  "lat": 46.4370535,
+  "lng": 6.9085159,
+  "mieter": [
+   "Hollywood"
+  ]
+ },
+ "montreux|grand'rue|57": {
+  "street": "Grand'Rue",
+  "hn": "57",
+  "lat": 46.4347353,
+  "lng": 6.9096475,
+  "mieter": [
+   "Le Métropole"
   ]
  },
  "montreux|rue du théâtre|11": {
@@ -201,25 +335,25 @@
    "SBB Billette, Abonnemente, Freizeitangebote."
   ]
  },
- "montreux|avenue des alpes|144": {
-  "street": "Avenue des Alpes",
-  "hn": "144",
-  "lat": 46.4398372,
-  "lng": 6.9057319,
+ "montreux|grand'rue|98": {
+  "street": "Grand'Rue",
+  "hn": "98",
+  "lat": 46.4375101,
+  "lng": 6.9078951,
   "mieter": []
  },
- "montreux|avenue des alpes|142": {
-  "street": "Avenue des Alpes",
-  "hn": "142",
-  "lat": 46.4397519,
-  "lng": 6.9059018,
+ "montreux|grand'rue|96": {
+  "street": "Grand'Rue",
+  "hn": "96",
+  "lat": 46.4373112,
+  "lng": 6.9081286,
   "mieter": []
  },
- "montreux|avenue des alpes|63": {
-  "street": "Avenue des Alpes",
-  "hn": "63",
-  "lat": 46.4391162,
-  "lng": 6.9061889,
+ "montreux|grand'rue|60": {
+  "street": "Grand'Rue",
+  "hn": "60",
+  "lat": 46.4350894,
+  "lng": 6.9099519,
   "mieter": []
  },
  "montreux|avenue des alpes|84": {
@@ -271,6 +405,13 @@
   "lng": 6.909955,
   "mieter": []
  },
+ "montreux|grand'rue|64": {
+  "street": "Grand'Rue",
+  "hn": "64",
+  "lat": 46.4353821,
+  "lng": 6.9098073,
+  "mieter": []
+ },
  "montreux|avenue des alpes|35": {
   "street": "Avenue des Alpes",
   "hn": "35",
@@ -283,6 +424,34 @@
   "hn": "33",
   "lat": 46.4347614,
   "lng": 6.9105088,
+  "mieter": []
+ },
+ "montreux|grand'rue|50": {
+  "street": "Grand'Rue",
+  "hn": "50",
+  "lat": 46.4342664,
+  "lng": 6.9101526,
+  "mieter": []
+ },
+ "montreux|grand'rue|46": {
+  "street": "Grand'Rue",
+  "hn": "46",
+  "lat": 46.4339421,
+  "lng": 6.9101911,
+  "mieter": []
+ },
+ "montreux|grand'rue|44": {
+  "street": "Grand'Rue",
+  "hn": "44",
+  "lat": 46.4339424,
+  "lng": 6.910206,
+  "mieter": []
+ },
+ "montreux|grand'rue|42": {
+  "street": "Grand'Rue",
+  "hn": "42",
+  "lat": 46.4337647,
+  "lng": 6.9102465,
   "mieter": []
  },
  "montreux|avenue des alpes|44": {
@@ -348,6 +517,34 @@
   "hn": "54",
   "lat": 46.4337978,
   "lng": 6.9114986,
+  "mieter": []
+ },
+ "montreux|grand'rue|34": {
+  "street": "Grand'Rue",
+  "hn": "34",
+  "lat": 46.4333114,
+  "lng": 6.9102468,
+  "mieter": []
+ },
+ "montreux|grand'rue|32": {
+  "street": "Grand'Rue",
+  "hn": "32",
+  "lat": 46.4331185,
+  "lng": 6.9102753,
+  "mieter": []
+ },
+ "montreux|grand'rue|30": {
+  "street": "Grand'Rue",
+  "hn": "30",
+  "lat": 46.4330406,
+  "lng": 6.9102851,
+  "mieter": []
+ },
+ "montreux|grand'rue|28": {
+  "street": "Grand'Rue",
+  "hn": "28",
+  "lat": 46.4329592,
+  "lng": 6.9102931,
   "mieter": []
  },
  "montreux|avenue des alpes|4": {
@@ -490,6 +687,41 @@
   "lng": 6.9102388,
   "mieter": []
  },
+ "montreux|grand'rue|12": {
+  "street": "Grand'Rue",
+  "hn": "12",
+  "lat": 46.4319468,
+  "lng": 6.9104667,
+  "mieter": []
+ },
+ "montreux|grand'rue|10": {
+  "street": "Grand'Rue",
+  "hn": "10",
+  "lat": 46.4318589,
+  "lng": 6.910496,
+  "mieter": []
+ },
+ "montreux|grand'rue|8": {
+  "street": "Grand'Rue",
+  "hn": "8",
+  "lat": 46.4317374,
+  "lng": 6.9105297,
+  "mieter": []
+ },
+ "montreux|grand'rue|4": {
+  "street": "Grand'Rue",
+  "hn": "4",
+  "lat": 46.4316297,
+  "lng": 6.910561,
+  "mieter": []
+ },
+ "montreux|grand'rue|2": {
+  "street": "Grand'Rue",
+  "hn": "2",
+  "lat": 46.4315363,
+  "lng": 6.910586,
+  "mieter": []
+ },
  "montreux|rue de la paix|1bis": {
   "street": "Rue de la Paix",
   "hn": "1bis",
@@ -564,20 +796,6 @@
    "Administration générale"
   ]
  },
- "montreux|avenue des alpes|128": {
-  "street": "Avenue des Alpes",
-  "hn": "128",
-  "lat": 46.4392981,
-  "lng": 6.906925,
-  "mieter": []
- },
- "montreux|avenue des alpes|94": {
-  "street": "Avenue des Alpes",
-  "hn": "94",
-  "lat": 46.4373727,
-  "lng": 6.9094399,
-  "mieter": []
- },
  "montreux|avenue des alpes|51": {
   "street": "Avenue des Alpes",
   "hn": "51",
@@ -613,11 +831,11 @@
   "lng": 6.9095444,
   "mieter": []
  },
- "montreux|avenue des alpes|120": {
-  "street": "Avenue des Alpes",
-  "hn": "120",
-  "lat": 46.438788,
-  "lng": 6.9075543,
+ "montreux|grand'rue|83": {
+  "street": "Grand'Rue",
+  "hn": "83",
+  "lat": 46.437259,
+  "lng": 6.9078712,
   "mieter": []
  },
  "montreux|grand-rue|71": {
@@ -625,6 +843,13 @@
   "hn": "71",
   "lat": 46.4359019,
   "lng": 6.9088249,
+  "mieter": []
+ },
+ "montreux|grand'rue|81": {
+  "street": "Grand'Rue",
+  "hn": "81",
+  "lat": 46.4367599,
+  "lng": 6.908142,
   "mieter": []
  },
  "montreux|avenue du casino|25": {
@@ -704,11 +929,32 @@
   "lng": 6.9107256,
   "mieter": []
  },
+ "montreux|grand'rue|26": {
+  "street": "Grand'Rue",
+  "hn": "26",
+  "lat": 46.4328268,
+  "lng": 6.9104024,
+  "mieter": []
+ },
  "montreux|avenue des alpes|27": {
   "street": "Avenue des Alpes",
   "hn": "27",
   "lat": 46.4340368,
   "lng": 6.9106745,
+  "mieter": []
+ },
+ "montreux|grand'rue|22": {
+  "street": "Grand'Rue",
+  "hn": "22",
+  "lat": 46.4324433,
+  "lng": 6.9104804,
+  "mieter": []
+ },
+ "montreux|grand'rue|20": {
+  "street": "Grand'Rue",
+  "hn": "20",
+  "lat": 46.4322648,
+  "lng": 6.9104589,
   "mieter": []
  },
  "montreux|avenue des alpes|21": {
@@ -762,46 +1008,11 @@
   "lng": 6.9127024,
   "mieter": []
  },
- "montreux|avenue des alpes|156": {
-  "street": "Avenue des Alpes",
-  "hn": "156",
-  "lat": 46.4400651,
-  "lng": 6.9045901,
-  "mieter": []
- },
- "montreux|avenue des alpes|152": {
-  "street": "Avenue des Alpes",
-  "hn": "152",
-  "lat": 46.440167,
-  "lng": 6.9048516,
-  "mieter": []
- },
- "montreux|avenue des alpes|150": {
-  "street": "Avenue des Alpes",
-  "hn": "150",
-  "lat": 46.4401012,
-  "lng": 6.9050519,
-  "mieter": []
- },
- "montreux|avenue des alpes|146": {
-  "street": "Avenue des Alpes",
-  "hn": "146",
-  "lat": 46.4399691,
-  "lng": 6.9053414,
-  "mieter": []
- },
- "montreux|avenue des alpes|130": {
-  "street": "Avenue des Alpes",
-  "hn": "130",
-  "lat": 46.4394763,
-  "lng": 6.9062478,
-  "mieter": []
- },
- "montreux|avenue des alpes|126": {
-  "street": "Avenue des Alpes",
-  "hn": "126",
-  "lat": 46.4389992,
-  "lng": 6.9070509,
+ "montreux|grand'rue|86": {
+  "street": "Grand'Rue",
+  "hn": "86",
+  "lat": 46.4367356,
+  "lng": 6.9088474,
   "mieter": []
  },
  "montreux|avenue des alpes|37": {
@@ -923,48 +1134,6 @@
   "lng": 6.915327,
   "mieter": []
  },
- "montreux|avenue des alpes|104": {
-  "street": "Avenue des Alpes",
-  "hn": "104",
-  "lat": 46.4382675,
-  "lng": 6.9084864,
-  "mieter": []
- },
- "montreux|avenue des alpes|108": {
-  "street": "Avenue des Alpes",
-  "hn": "108",
-  "lat": 46.4383695,
-  "lng": 6.9083211,
-  "mieter": []
- },
- "montreux|avenue des alpes|102": {
-  "street": "Avenue des Alpes",
-  "hn": "102",
-  "lat": 46.4381499,
-  "lng": 6.9086441,
-  "mieter": []
- },
- "montreux|avenue des alpes|59bis": {
-  "street": "Avenue des Alpes",
-  "hn": "59bis",
-  "lat": 46.4378126,
-  "lng": 6.9083796,
-  "mieter": []
- },
- "montreux|avenue des alpes|59": {
-  "street": "Avenue des Alpes",
-  "hn": "59",
-  "lat": 46.4378021,
-  "lng": 6.9085918,
-  "mieter": []
- },
- "montreux|avenue des alpes|57": {
-  "street": "Avenue des Alpes",
-  "hn": "57",
-  "lat": 46.437629,
-  "lng": 6.9087419,
-  "mieter": []
- },
  "montreux|avenue des alpes|3": {
   "street": "Avenue des Alpes",
   "hn": "3",
@@ -991,6 +1160,13 @@
   "hn": "2",
   "lat": 46.431641,
   "lng": 6.9117819,
+  "mieter": []
+ },
+ "montreux|grand'rue|45": {
+  "street": "Grand'Rue",
+  "hn": "45",
+  "lat": 46.4340556,
+  "lng": 6.9097986,
   "mieter": []
  },
  "montreux|avenue des alpes|31": {
@@ -1021,46 +1197,32 @@
   "lng": 6.9118723,
   "mieter": []
  },
- "montreux|avenue des alpes|128b": {
-  "street": "Avenue des Alpes",
-  "hn": "128b",
-  "lat": 46.4392074,
-  "lng": 6.9066032,
+ "montreux|grand'rue|62": {
+  "street": "Grand'Rue",
+  "hn": "62",
+  "lat": 46.435265,
+  "lng": 6.9099628,
   "mieter": []
  },
- "montreux|avenue des alpes|122": {
-  "street": "Avenue des Alpes",
-  "hn": "122",
-  "lat": 46.4390469,
-  "lng": 6.9073301,
+ "montreux|grand'rue|68": {
+  "street": "Grand'Rue",
+  "hn": "68",
+  "lat": 46.4357854,
+  "lng": 6.9096314,
   "mieter": []
  },
- "montreux|avenue des alpes|114": {
-  "street": "Avenue des Alpes",
-  "hn": "114",
-  "lat": 46.4388546,
-  "lng": 6.9079787,
+ "montreux|grand'rue|70": {
+  "street": "Grand'Rue",
+  "hn": "70",
+  "lat": 46.4359458,
+  "lng": 6.9095018,
   "mieter": []
  },
- "montreux|avenue des alpes|112": {
-  "street": "Avenue des Alpes",
-  "hn": "112",
-  "lat": 46.4387128,
-  "lng": 6.9082239,
-  "mieter": []
- },
- "montreux|avenue des alpes|110": {
-  "street": "Avenue des Alpes",
-  "hn": "110",
-  "lat": 46.4384807,
-  "lng": 6.9083071,
-  "mieter": []
- },
- "montreux|avenue des alpes|98": {
-  "street": "Avenue des Alpes",
-  "hn": "98",
-  "lat": 46.4379298,
-  "lng": 6.9088202,
+ "montreux|grand'rue|82": {
+  "street": "Grand'Rue",
+  "hn": "82",
+  "lat": 46.4366045,
+  "lng": 6.9089568,
   "mieter": []
  },
  "montreux|avenue des alpes|23": {
@@ -1134,5 +1296,122 @@
   "lat": 46.4301542,
   "lng": 6.9139127,
   "mieter": []
+ },
+ "montreux|avenue du casino|15": {
+  "street": "Avenue du Casino",
+  "hn": "15",
+  "lat": 46.42996,
+  "lng": 6.914374,
+  "mieter": [],
+  "extra": true,
+  "egid": 836511
+ },
+ "montreux|avenue du casino|55": {
+  "street": "Avenue du Casino",
+  "hn": "55",
+  "lat": 46.43102,
+  "lng": 6.910671,
+  "mieter": [],
+  "extra": true,
+  "egid": 280015404
+ },
+ "montreux|avenue des alpes|6": {
+  "street": "Avenue des Alpes",
+  "hn": "6",
+  "lat": 46.431956,
+  "lng": 6.912859,
+  "mieter": [],
+  "extra": true,
+  "egid": 836191
+ },
+ "montreux|avenue des alpes|7": {
+  "street": "Avenue des Alpes",
+  "hn": "7",
+  "lat": 46.432092,
+  "lng": 6.91159,
+  "mieter": [],
+  "extra": true,
+  "egid": 836189
+ },
+ "montreux|avenue des alpes|10": {
+  "street": "Avenue des Alpes",
+  "hn": "10",
+  "lat": 46.431988,
+  "lng": 6.91241,
+  "mieter": [],
+  "extra": true,
+  "egid": 836196
+ },
+ "montreux|avenue des alpes|58": {
+  "street": "Avenue des Alpes",
+  "hn": "58",
+  "lat": 46.433856,
+  "lng": 6.910995,
+  "mieter": [],
+  "extra": true,
+  "egid": 836201
+ },
+ "montreux|avenue des alpes|66bis": {
+  "street": "Avenue des Alpes",
+  "hn": "66bis",
+  "lat": 46.434642,
+  "lng": 6.911061,
+  "mieter": [],
+  "extra": true,
+  "egid": 280135263
+ },
+ "montreux|avenue des alpes|90bis": {
+  "street": "Avenue des Alpes",
+  "hn": "90bis",
+  "lat": 46.437138,
+  "lng": 6.909599,
+  "mieter": [],
+  "extra": true,
+  "egid": 835951
+ },
+ "montreux|rue du théâtre|7bis": {
+  "street": "Rue du Théâtre",
+  "hn": "7bis",
+  "lat": 46.429457,
+  "lng": 6.91242,
+  "mieter": [],
+  "extra": true,
+  "egid": 280058101
+ },
+ "montreux|grand'rue|48": {
+  "street": "Grand'Rue",
+  "hn": "48",
+  "lat": 46.434165,
+  "lng": 6.91058,
+  "mieter": [],
+  "extra": true,
+  "egid": 835956
+ },
+ "montreux|grand'rue|55": {
+  "street": "Grand'Rue",
+  "hn": "55",
+  "lat": 46.434772,
+  "lng": 6.909693,
+  "mieter": [],
+  "extra": true,
+  "egid": 835898
+ },
+ "montreux|grand'rue|84": {
+  "street": "Grand'Rue",
+  "hn": "84",
+  "lat": 46.436637,
+  "lng": 6.908801,
+  "mieter": [],
+  "extra": true,
+  "egid": 835888
+ },
+ "montreux|grand'rue|92": {
+  "street": "Grand'Rue",
+  "hn": "92",
+  "lat": 46.437181,
+  "lng": 6.908281,
+  "mieter": [],
+  "extra": true,
+  "egid": 9031113
  }
 }
