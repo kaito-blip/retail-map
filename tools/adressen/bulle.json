@@ -114,15 +114,6 @@
    "Le 43"
   ]
  },
- "bulle|rue de vevey|89": {
-  "street": "Rue de Vevey",
-  "hn": "89",
-  "lat": 46.6149777,
-  "lng": 7.0514706,
-  "mieter": [
-   "Viper"
-  ]
- },
  "bulle|rue de vevey|48": {
   "street": "Rue de Vevey",
   "hn": "48",
@@ -150,15 +141,6 @@
    "Centre Culturel Ebullition"
   ]
  },
- "bulle|rue de vevey|201": {
-  "street": "Rue de Vevey",
-  "hn": "201",
-  "lat": 46.6133633,
-  "lng": 7.043164,
-  "mieter": [
-   "Carrosserie Schindler"
-  ]
- },
  "bulle|grand-rue|35": {
   "street": "Grand-Rue",
   "hn": "35",
@@ -167,13 +149,6 @@
   "mieter": [
    "Coop"
   ]
- },
- "bulle|rue de vevey|260": {
-  "street": "Rue de Vevey",
-  "hn": "260",
-  "lat": 46.6139844,
-  "lng": 7.0382865,
-  "mieter": []
  },
  "bulle|grand-rue|17": {
   "street": "Grand-Rue",
@@ -184,6 +159,15 @@
    "Castella Sports"
   ]
  },
+ "bulle|rue du marché|18-20": {
+  "street": "Rue du Marché",
+  "hn": "18-20",
+  "lat": 46.619306,
+  "lng": 7.058813,
+  "mieter": [
+   "Buchs Orthopedie SA"
+  ]
+ },
  "bulle|grand-rue|26": {
   "street": "Grand-Rue",
   "hn": "26",
@@ -191,15 +175,6 @@
   "lng": 7.057689,
   "mieter": [
    "Etude de Pierre Serge Heger"
-  ]
- },
- "bulle|rue de vevey|178": {
-  "street": "Rue de Vevey",
-  "hn": "178",
-  "lat": 46.6140599,
-  "lng": 7.0445856,
-  "mieter": [
-   "Gazur"
   ]
  },
  "bulle|rue nicolas-glasson|5": {
@@ -644,6 +619,113 @@
   "lng": 7.0574098,
   "mieter": []
  },
+ "bulle|rue du marché|21": {
+  "street": "Rue du Marché",
+  "hn": "21",
+  "lat": 46.6193563,
+  "lng": 7.058342,
+  "mieter": []
+ },
+ "bulle|rue du marché|2": {
+  "street": "Rue du Marché",
+  "hn": "2",
+  "lat": 46.6178053,
+  "lng": 7.0585287,
+  "mieter": []
+ },
+ "bulle|rue du marché|10": {
+  "street": "Rue du Marché",
+  "hn": "10",
+  "lat": 46.6184218,
+  "lng": 7.0585382,
+  "mieter": [
+   "Ludothèque de la Gruyère"
+  ]
+ },
+ "bulle|rue du marché|11": {
+  "street": "Rue du Marché",
+  "hn": "11",
+  "lat": 46.6186715,
+  "lng": 7.0586304,
+  "mieter": []
+ },
+ "bulle|rue du marché|12": {
+  "street": "Rue du Marché",
+  "hn": "12",
+  "lat": 46.6187565,
+  "lng": 7.0587775,
+  "mieter": []
+ },
+ "bulle|rue du marché|25": {
+  "street": "Rue du Marché",
+  "hn": "25",
+  "lat": 46.6194825,
+  "lng": 7.0584598,
+  "mieter": []
+ },
+ "bulle|rue du marché|27": {
+  "street": "Rue du Marché",
+  "hn": "27",
+  "lat": 46.6195853,
+  "lng": 7.0584915,
+  "mieter": []
+ },
+ "bulle|rue du marché|29": {
+  "street": "Rue du Marché",
+  "hn": "29",
+  "lat": 46.6196735,
+  "lng": 7.0585153,
+  "mieter": []
+ },
+ "bulle|rue du marché|26": {
+  "street": "Rue du Marché",
+  "hn": "26",
+  "lat": 46.6194516,
+  "lng": 7.0589008,
+  "mieter": []
+ },
+ "bulle|rue du marché|28": {
+  "street": "Rue du Marché",
+  "hn": "28",
+  "lat": 46.6196594,
+  "lng": 7.0589079,
+  "mieter": []
+ },
+ "bulle|rue du marché|30": {
+  "street": "Rue du Marché",
+  "hn": "30",
+  "lat": 46.6198336,
+  "lng": 7.059035,
+  "mieter": []
+ },
+ "bulle|rue du marché|16": {
+  "street": "Rue du Marché",
+  "hn": "16",
+  "lat": 46.6190467,
+  "lng": 7.0587521,
+  "mieter": []
+ },
+ "bulle|rue du marché|18": {
+  "street": "Rue du Marché",
+  "hn": "18",
+  "lat": 46.6191397,
+  "lng": 7.0588662,
+  "mieter": []
+ },
+ "bulle|rue du marché|20": {
+  "street": "Rue du Marché",
+  "hn": "20",
+  "lat": 46.6192599,
+  "lng": 7.0588341,
+  "mieter": []
+ },
+ "bulle|rue du marché|24": {
+  "street": "Rue du Marché",
+  "hn": "24",
+  "lat": 46.6193253,
+  "lng": 7.0589561,
+  "mieter": []
+ },
  "bulle|rue de gruyères|25": {
   "street": "Rue de Gruyères",
   "hn": "25",
@@ -651,83 +733,11 @@
   "lng": 7.0574123,
   "mieter": []
  },
- "bulle|rue de gruyères|65": {
-  "street": "Rue de Gruyères",
-  "hn": "65",
-  "lat": 46.6150149,
-  "lng": 7.058437,
-  "mieter": []
- },
- "bulle|rue de gruyères|67": {
-  "street": "Rue de Gruyères",
-  "hn": "67",
-  "lat": 46.6149052,
-  "lng": 7.0585566,
-  "mieter": []
- },
- "bulle|rue de vevey|208": {
-  "street": "Rue de Vevey",
-  "hn": "208",
-  "lat": 46.6139594,
-  "lng": 7.0425425,
-  "mieter": [
-   "Coup d'Pouce"
-  ]
- },
- "bulle|rue de vevey|210": {
-  "street": "Rue de Vevey",
-  "hn": "210",
-  "lat": 46.6137713,
-  "lng": 7.042453,
-  "mieter": []
- },
- "bulle|rue de vevey|218": {
-  "street": "Rue de Vevey",
-  "hn": "218",
-  "lat": 46.6136073,
-  "lng": 7.0418879,
-  "mieter": []
- },
  "bulle|rue nicolas-glasson|8": {
   "street": "Rue Nicolas-Glasson",
   "hn": "8",
   "lat": 46.617176,
   "lng": 7.0552275,
-  "mieter": []
- },
- "bulle|rue de vevey|136": {
-  "street": "Rue de Vevey",
-  "hn": "136",
-  "lat": 46.6150819,
-  "lng": 7.0488901,
-  "mieter": []
- },
- "bulle|rue de vevey|219": {
-  "street": "Rue de Vevey",
-  "hn": "219",
-  "lat": 46.6132241,
-  "lng": 7.0418668,
-  "mieter": []
- },
- "bulle|rue de vevey|223": {
-  "street": "Rue de Vevey",
-  "hn": "223",
-  "lat": 46.6132054,
-  "lng": 7.041543,
-  "mieter": []
- },
- "bulle|rue de vevey|227": {
-  "street": "Rue de Vevey",
-  "hn": "227",
-  "lat": 46.613188,
-  "lng": 7.0412246,
-  "mieter": []
- },
- "bulle|rue de vevey|233": {
-  "street": "Rue de Vevey",
-  "hn": "233",
-  "lat": 46.6131433,
-  "lng": 7.0406388,
   "mieter": []
  },
  "bulle|avenue de la gare|24": {
@@ -821,13 +831,6 @@
   "lng": 7.0578668,
   "mieter": []
  },
- "bulle|rue de vevey|168": {
-  "street": "Rue de Vevey",
-  "hn": "168",
-  "lat": 46.6142433,
-  "lng": 7.0452132,
-  "mieter": []
- },
  "bulle|avenue de la gare|21": {
   "street": "Avenue de la Gare",
   "hn": "21",
@@ -849,15 +852,6 @@
   "lng": 7.0548398,
   "mieter": []
  },
- "bulle|rue de vevey|75": {
-  "street": "Rue de Vevey",
-  "hn": "75",
-  "lat": 46.6151805,
-  "lng": 7.0525433,
-  "mieter": [
-   "Suisse coiffure"
-  ]
- },
  "bulle|avenue de la gare|31": {
   "street": "Avenue de la Gare",
   "hn": "31",
@@ -874,155 +868,11 @@
    "3t"
   ]
  },
- "bulle|rue de gruyères|60": {
-  "street": "Rue de Gruyères",
-  "hn": "60",
-  "lat": 46.6148155,
-  "lng": 7.0582103,
-  "mieter": [
-   "Sotavento"
-  ]
- },
- "bulle|rue de gruyères|56": {
-  "street": "Rue de Gruyères",
-  "hn": "56",
-  "lat": 46.6149464,
-  "lng": 7.0580746,
-  "mieter": [
-   "KING'S 46"
-  ]
- },
- "bulle|rue de vevey|230": {
-  "street": "Rue de Vevey",
-  "hn": "230",
-  "lat": 46.61372,
-  "lng": 7.0408464,
-  "mieter": []
- },
- "bulle|rue de vevey|132": {
-  "street": "Rue de Vevey",
-  "hn": "132",
-  "lat": 46.6160146,
-  "lng": 7.0480286,
-  "mieter": []
- },
- "bulle|rue de vevey|95": {
-  "street": "Rue de Vevey",
-  "hn": "95",
-  "lat": 46.6149858,
-  "lng": 7.0514778,
-  "mieter": []
- },
- "bulle|rue de vevey|144": {
-  "street": "Rue de Vevey",
-  "hn": "144",
-  "lat": 46.6145828,
-  "lng": 7.0475986,
-  "mieter": []
- },
- "bulle|rue de vevey|189": {
-  "street": "Rue de Vevey",
-  "hn": "189",
-  "lat": 46.6135067,
-  "lng": 7.0441971,
-  "mieter": []
- },
- "bulle|rue de vevey|133": {
-  "street": "Rue de Vevey",
-  "hn": "133",
-  "lat": 46.6146249,
-  "lng": 7.0497558,
-  "mieter": []
- },
- "bulle|rue de vevey|130": {
-  "street": "Rue de Vevey",
-  "hn": "130",
-  "lat": 46.6150011,
-  "lng": 7.049721,
-  "mieter": []
- },
- "bulle|rue de vevey|155": {
-  "street": "Rue de Vevey",
-  "hn": "155",
-  "lat": 46.6137239,
-  "lng": 7.0467091,
-  "mieter": []
- },
- "bulle|rue de vevey|137": {
-  "street": "Rue de Vevey",
-  "hn": "137",
-  "lat": 46.6143459,
-  "lng": 7.0483281,
-  "mieter": []
- },
- "bulle|rue de vevey|175": {
-  "street": "Rue de Vevey",
-  "hn": "175",
-  "lat": 46.6136539,
-  "lng": 7.0449878,
-  "mieter": []
- },
- "bulle|rue de vevey|161": {
-  "street": "Rue de Vevey",
-  "hn": "161",
-  "lat": 46.6138799,
-  "lng": 7.0460751,
-  "mieter": []
- },
- "bulle|rue de gruyères|74": {
-  "street": "Rue de Gruyères",
-  "hn": "74",
-  "lat": 46.6141581,
-  "lng": 7.0587857,
-  "mieter": []
- },
- "bulle|rue de gruyères|70": {
-  "street": "Rue de Gruyères",
-  "hn": "70",
-  "lat": 46.6143275,
-  "lng": 7.05849,
-  "mieter": []
- },
  "bulle|rue nicolas-glasson|1": {
   "street": "Rue Nicolas-Glasson",
   "hn": "1",
   "lat": 46.6177976,
   "lng": 7.0554587,
-  "mieter": []
- },
- "bulle|rue de gruyères|66": {
-  "street": "Rue de Gruyères",
-  "hn": "66",
-  "lat": 46.6145805,
-  "lng": 7.058422,
-  "mieter": []
- },
- "bulle|rue de gruyères|86": {
-  "street": "Rue de Gruyères",
-  "hn": "86",
-  "lat": 46.6136804,
-  "lng": 7.059355,
-  "mieter": []
- },
- "bulle|rue de gruyères|62": {
-  "street": "Rue de Gruyères",
-  "hn": "62",
-  "lat": 46.6147364,
-  "lng": 7.0582654,
-  "mieter": []
- },
- "bulle|rue de gruyères|54": {
-  "street": "Rue de Gruyères",
-  "hn": "54",
-  "lat": 46.6149956,
-  "lng": 7.0579358,
-  "mieter": []
- },
- "bulle|rue de gruyères|102": {
-  "street": "Rue de Gruyères",
-  "hn": "102",
-  "lat": 46.6127719,
-  "lng": 7.0602296,
   "mieter": []
  },
  "bulle|grand-rue|33": {
@@ -1060,76 +910,6 @@
   "lng": 7.057402,
   "mieter": []
  },
- "bulle|rue de gruyères|90": {
-  "street": "Rue de Gruyères",
-  "hn": "90",
-  "lat": 46.613475,
-  "lng": 7.0594958,
-  "mieter": []
- },
- "bulle|rue de gruyères|97": {
-  "street": "Rue de Gruyères",
-  "hn": "97",
-  "lat": 46.613089,
-  "lng": 7.0605275,
-  "mieter": []
- },
- "bulle|rue de gruyères|96": {
-  "street": "Rue de Gruyères",
-  "hn": "96",
-  "lat": 46.6129829,
-  "lng": 7.0600147,
-  "mieter": []
- },
- "bulle|rue de gruyères|52": {
-  "street": "Rue de Gruyères",
-  "hn": "52",
-  "lat": 46.6150628,
-  "lng": 7.057866,
-  "mieter": []
- },
- "bulle|rue de gruyères|50": {
-  "street": "Rue de Gruyères",
-  "hn": "50",
-  "lat": 46.6152045,
-  "lng": 7.0577109,
-  "mieter": []
- },
- "bulle|rue de gruyères|101": {
-  "street": "Rue de Gruyères",
-  "hn": "101",
-  "lat": 46.612895,
-  "lng": 7.0607305,
-  "mieter": []
- },
- "bulle|rue de gruyères|82": {
-  "street": "Rue de Gruyères",
-  "hn": "82",
-  "lat": 46.6138226,
-  "lng": 7.05911,
-  "mieter": []
- },
- "bulle|rue de gruyères|58": {
-  "street": "Rue de Gruyères",
-  "hn": "58",
-  "lat": 46.6148603,
-  "lng": 7.0581109,
-  "mieter": []
- },
- "bulle|rue de gruyères|78": {
-  "street": "Rue de Gruyères",
-  "hn": "78",
-  "lat": 46.6139752,
-  "lng": 7.0589515,
-  "mieter": []
- },
- "bulle|rue de gruyères|64": {
-  "street": "Rue de Gruyères",
-  "hn": "64",
-  "lat": 46.6146817,
-  "lng": 7.0583568,
-  "mieter": []
- },
  "bulle|grand-rue|67": {
   "street": "Grand-Rue",
   "hn": "67",
@@ -1142,34 +922,6 @@
   "hn": "66",
   "lat": 46.6210131,
   "lng": 7.0582592,
-  "mieter": []
- },
- "bulle|rue de vevey|231": {
-  "street": "Rue de Vevey",
-  "hn": "231",
-  "lat": 46.6131633,
-  "lng": 7.0409354,
-  "mieter": []
- },
- "bulle|rue de vevey|106": {
-  "street": "Rue de Vevey",
-  "hn": "106",
-  "lat": 46.6139447,
-  "lng": 7.0425608,
-  "mieter": []
- },
- "bulle|rue de vevey|255": {
-  "street": "Rue de Vevey",
-  "hn": "255",
-  "lat": 46.6134451,
-  "lng": 7.0369958,
-  "mieter": []
- },
- "bulle|rue de vevey|202": {
-  "street": "Rue de Vevey",
-  "hn": "202",
-  "lat": 46.6140912,
-  "lng": 7.0428698,
   "mieter": []
  },
  "bulle|rue de vevey|31": {
@@ -1193,13 +945,6 @@
   "lng": 7.0543716,
   "mieter": []
  },
- "bulle|rue de vevey|60": {
-  "street": "Rue de Vevey",
-  "hn": "60",
-  "lat": 46.6156948,
-  "lng": 7.0533015,
-  "mieter": []
- },
  "bulle|rue de vevey|41": {
   "street": "Rue de Vevey",
   "hn": "41",
@@ -1212,20 +957,6 @@
   "hn": "44",
   "lat": 46.6159793,
   "lng": 7.0535926,
-  "mieter": []
- },
- "bulle|rue de vevey|82": {
-  "street": "Rue de Vevey",
-  "hn": "82",
-  "lat": 46.6156162,
-  "lng": 7.0520392,
-  "mieter": []
- },
- "bulle|rue de vevey|68": {
-  "street": "Rue de Vevey",
-  "hn": "68",
-  "lat": 46.6158369,
-  "lng": 7.0526714,
   "mieter": []
  },
  "bulle|rue de vevey|36": {
@@ -1242,67 +973,25 @@
   "lng": 7.0539305,
   "mieter": []
  },
- "bulle|rue de vevey|90": {
-  "street": "Rue de Vevey",
-  "hn": "90",
-  "lat": 46.615487,
-  "lng": 7.0517567,
+ "bulle|rue du marché|14": {
+  "street": "Rue du Marché",
+  "hn": "14",
+  "lat": 46.618928,
+  "lng": 7.0586721,
   "mieter": []
  },
- "bulle|rue de vevey|66": {
-  "street": "Rue de Vevey",
-  "hn": "66",
-  "lat": 46.6157728,
-  "lng": 7.0528752,
+ "bulle|rue du marché|4": {
+  "street": "Rue du Marché",
+  "hn": "4",
+  "lat": 46.6180144,
+  "lng": 7.0583037,
   "mieter": []
  },
- "bulle|rue de vevey|65": {
-  "street": "Rue de Vevey",
-  "hn": "65",
-  "lat": 46.6152614,
-  "lng": 7.0531905,
-  "mieter": []
- },
- "bulle|rue de vevey|85": {
-  "street": "Rue de Vevey",
-  "hn": "85",
-  "lat": 46.6150865,
-  "lng": 7.0519633,
-  "mieter": []
- },
- "bulle|rue de vevey|193": {
-  "street": "Rue de Vevey",
-  "hn": "193",
-  "lat": 46.6133759,
-  "lng": 7.0440543,
-  "mieter": []
- },
- "bulle|rue de vevey|167": {
-  "street": "Rue de Vevey",
-  "hn": "167",
-  "lat": 46.6138441,
-  "lng": 7.0456838,
-  "mieter": []
- },
- "bulle|rue de vevey|116": {
-  "street": "Rue de Vevey",
-  "hn": "116",
-  "lat": 46.6139203,
-  "lng": 7.0407334,
-  "mieter": []
- },
- "bulle|rue de vevey|251": {
-  "street": "Rue de Vevey",
-  "hn": "251",
-  "lat": 46.6134224,
-  "lng": 7.0379619,
-  "mieter": []
- },
- "bulle|rue de vevey|200": {
-  "street": "Rue de Vevey",
-  "hn": "200",
-  "lat": 46.6138161,
-  "lng": 7.0430271,
+ "bulle|rue du marché|8": {
+  "street": "Rue du Marché",
+  "hn": "8",
+  "lat": 46.6181593,
+  "lng": 7.0586082,
   "mieter": []
  },
  "bulle|rue de gruyères|21": {
@@ -1356,104 +1045,11 @@
   "lng": 7.0576812,
   "mieter": []
  },
- "bulle|rue de vevey|240": {
-  "street": "Rue de Vevey",
-  "hn": "240",
-  "lat": 46.6137284,
-  "lng": 7.0400865,
-  "mieter": []
- },
- "bulle|rue de vevey|179": {
-  "street": "Rue de Vevey",
-  "hn": "179",
-  "lat": 46.6135764,
-  "lng": 7.0447365,
-  "mieter": []
- },
- "bulle|rue de vevey|183": {
-  "street": "Rue de Vevey",
-  "hn": "183",
-  "lat": 46.6135415,
-  "lng": 7.0444694,
-  "mieter": []
- },
- "bulle|rue de vevey|170": {
-  "street": "Rue de Vevey",
-  "hn": "170",
-  "lat": 46.6140812,
-  "lng": 7.0450545,
-  "mieter": []
- },
- "bulle|rue de vevey|171": {
-  "street": "Rue de Vevey",
-  "hn": "171",
-  "lat": 46.6137217,
-  "lng": 7.0452972,
-  "mieter": []
- },
- "bulle|rue de vevey|171a": {
-  "street": "Rue de Vevey",
-  "hn": "171a",
-  "lat": 46.6137109,
-  "lng": 7.045148,
-  "mieter": [
-   "Eni"
-  ]
- },
- "bulle|rue de vevey|207": {
-  "street": "Rue de Vevey",
-  "hn": "207",
-  "lat": 46.6132159,
-  "lng": 7.0425759,
-  "mieter": []
- },
- "bulle|rue de vevey|120": {
-  "street": "Rue de Vevey",
-  "hn": "120",
-  "lat": 46.6152272,
-  "lng": 7.0504584,
-  "mieter": []
- },
- "bulle|rue de vevey|157": {
-  "street": "Rue de Vevey",
-  "hn": "157",
-  "lat": 46.6139306,
-  "lng": 7.0463306,
-  "mieter": []
- },
- "bulle|rue de vevey|86": {
-  "street": "Rue de Vevey",
-  "hn": "86",
-  "lat": 46.6154866,
-  "lng": 7.0517641,
-  "mieter": []
- },
- "bulle|rue de vevey|58": {
-  "street": "Rue de Vevey",
-  "hn": "58",
-  "lat": 46.6157094,
-  "lng": 7.0533732,
-  "mieter": []
- },
- "bulle|rue de vevey|141": {
-  "street": "Rue de Vevey",
-  "hn": "141",
-  "lat": 46.6142673,
-  "lng": 7.0480337,
-  "mieter": []
- },
  "bulle|rue de vevey|35": {
   "street": "Rue de Vevey",
   "hn": "35",
   "lat": 46.6160105,
   "lng": 7.054864,
-  "mieter": []
- },
- "bulle|rue de vevey|80": {
-  "street": "Rue de Vevey",
-  "hn": "80",
-  "lat": 46.6155544,
-  "lng": 7.0523015,
   "mieter": []
  },
  "bulle|rue de vevey|37": {
@@ -1470,32 +1066,11 @@
   "lng": 7.0549305,
   "mieter": []
  },
- "bulle|rue de vevey|74": {
-  "street": "Rue de Vevey",
-  "hn": "74",
-  "lat": 46.6155792,
-  "lng": 7.0524655,
-  "mieter": []
- },
  "bulle|rue de vevey|26": {
   "street": "Rue de Vevey",
   "hn": "26",
   "lat": 46.6162956,
   "lng": 7.0545623,
-  "mieter": []
- },
- "bulle|rue de vevey|151": {
-  "street": "Rue de Vevey",
-  "hn": "151",
-  "lat": 46.6140142,
-  "lng": 7.046717,
-  "mieter": []
- },
- "bulle|rue de vevey|84": {
-  "street": "Rue de Vevey",
-  "hn": "84",
-  "lat": 46.615527,
-  "lng": 7.0520523,
   "mieter": []
  },
  "bulle|rue de gruyères|41": {
@@ -1561,88 +1136,18 @@
   "lng": 7.0580351,
   "mieter": []
  },
- "bulle|rue de gruyères|106": {
-  "street": "Rue de Gruyères",
-  "hn": "106",
-  "lat": 46.6125563,
-  "lng": 7.0602161,
+ "bulle|rue du marché|32": {
+  "street": "Rue du Marché",
+  "hn": "32",
+  "lat": 46.6200169,
+  "lng": 7.0591991,
   "mieter": []
  },
- "bulle|rue de gruyères|103": {
-  "street": "Rue de Gruyères",
-  "hn": "103",
-  "lat": 46.6127546,
-  "lng": 7.0608958,
-  "mieter": []
- },
- "bulle|rue de vevey|121": {
-  "street": "Rue de Vevey",
-  "hn": "121",
-  "lat": 46.6147954,
-  "lng": 7.0505917,
-  "mieter": []
- },
- "bulle|rue de vevey|109": {
-  "street": "Rue de Vevey",
-  "hn": "109",
-  "lat": 46.6149176,
-  "lng": 7.051157,
-  "mieter": []
- },
- "bulle|rue de vevey|127": {
-  "street": "Rue de Vevey",
-  "hn": "127",
-  "lat": 46.6147242,
-  "lng": 7.0502898,
-  "mieter": []
- },
- "bulle|rue de vevey|113": {
-  "street": "Rue de Vevey",
-  "hn": "113",
-  "lat": 46.6148652,
-  "lng": 7.0508872,
-  "mieter": []
- },
- "bulle|rue de vevey|64": {
-  "street": "Rue de Vevey",
-  "hn": "64",
-  "lat": 46.6156646,
-  "lng": 7.0529728,
-  "mieter": []
- },
- "bulle|rue de vevey|246": {
-  "street": "Rue de Vevey",
-  "hn": "246",
-  "lat": 46.6137289,
-  "lng": 7.0396788,
-  "mieter": []
- },
- "bulle|rue de vevey|250": {
-  "street": "Rue de Vevey",
-  "hn": "250",
-  "lat": 46.6138482,
-  "lng": 7.0391927,
-  "mieter": []
- },
- "bulle|rue de vevey|254": {
-  "street": "Rue de Vevey",
-  "hn": "254",
-  "lat": 46.6138933,
-  "lng": 7.0387058,
-  "mieter": []
- },
- "bulle|rue de vevey|197": {
-  "street": "Rue de Vevey",
-  "hn": "197",
-  "lat": 46.6133603,
-  "lng": 7.0437222,
-  "mieter": []
- },
- "bulle|rue de vevey|61": {
-  "street": "Rue de Vevey",
-  "hn": "61",
-  "lat": 46.6152987,
-  "lng": 7.0535492,
+ "bulle|rue du marché|36": {
+  "street": "Rue du Marché",
+  "hn": "36",
+  "lat": 46.6202753,
+  "lng": 7.0594195,
   "mieter": []
  }
 }

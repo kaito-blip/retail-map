@@ -633,12 +633,14 @@
       "Rue de Gruyères",
       "Rue Nicolas-Glasson",
       "Avenue de la Gare",
-      "Place du Marché"
+      "Place du Marché",
+      "Rue de Vevey",
+      "Rue du Marché"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
-    "offen": "218"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "RFpublic keycloak.fr.ch/rfpublic (Kaito einzeln, gratis, ohne Login; kein Direktlink) oder RF Gruyère rfgruyere@fr.ch; Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py) 08.11.26: 4 an den High Streets",
+    "offen": "153"
   },
   {
     "kanton": "NE",
