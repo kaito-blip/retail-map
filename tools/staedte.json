@@ -958,7 +958,8 @@
       "Klosterplatz",
       "Kronenstrasse",
       "Schmiedenstrasse",
-      "Bahnhofplatz", "Eisenbahnstrasse"
+      "Bahnhofplatz",
+      "Eisenbahnstrasse"
     ],
     "strassen_ok": true,
     "letzter_lauf": "2026-11-09",
@@ -975,12 +976,13 @@
       "Seestrasse",
       "Oberdorfstrasse",
       "Florhofstrasse",
-      "Türgass"
+      "Türgass",
+      "Gerbestrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
-    "offen": "287"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-09",
+    "eigentuemer_quelle": "Eigentümer-Register 09.11.26 (Swiss Prime Anlagestiftung; tools/register_abgleich.py): 2 im Kern; Rest Anfrageliste ZH_Wädenswil.csv (GIS-Browser ZH 5/Tag oder Notariat Wädenswil)",
+    "offen": "135"
   },
   {
     "kanton": "BE",
