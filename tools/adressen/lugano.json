@@ -47,6 +47,16 @@
   "lng": 8.9496458,
   "mieter": []
  },
+ "lugano|corso enrico pestalozzi|12": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "12",
+  "lat": 46.0055326,
+  "lng": 8.9544229,
+  "mieter": [
+   "Lefty",
+   "Stage 12"
+  ]
+ },
  "lugano|piazza della riforma|10": {
   "street": "Piazza della Riforma",
   "hn": "10",
@@ -83,6 +93,15 @@
    "Jóia - Sapore & Sapori"
   ]
  },
+ "lugano|corso pestalozzi|10": {
+  "street": "Corso Pestalozzi",
+  "hn": "10",
+  "lat": 46.0056239,
+  "lng": 8.9539402,
+  "mieter": [
+   "Suthin Thai"
+  ]
+ },
  "lugano|piazza della riforma|1": {
   "street": "Piazza della Riforma",
   "hn": "1",
@@ -92,6 +111,22 @@
    "Vanini",
    "Ristorante Olimpia",
    "Agua"
+  ]
+ },
+ "lugano|corso pestalozzi|13": {
+  "street": "Corso Pestalozzi",
+  "hn": "13",
+  "lat": 46.0061332,
+  "lng": 8.9532455,
+  "mieter": []
+ },
+ "lugano|corso pestalozzi|27": {
+  "street": "Corso Pestalozzi",
+  "hn": "27",
+  "lat": 46.0059068,
+  "lng": 8.9548494,
+  "mieter": [
+   "Osteria Cyrano"
   ]
  },
  "lugano|via pessina|17": {
@@ -175,15 +210,6 @@
    "Intimissimi"
   ]
  },
- "lugano|salita mario e antonio chiattone|10": {
-  "street": "Salita Mario e Antonio Chiattone",
-  "hn": "10",
-  "lat": 46.0050694,
-  "lng": 8.950472,
-  "mieter": [
-   "Parfum Christian Dior"
-  ]
- },
  "lugano|via pretorio|7": {
   "street": "Via Pretorio",
   "hn": "7",
@@ -247,6 +273,15 @@
    "Imago Art Cafè"
   ]
  },
+ "lugano|corso enrico pestalozzi|3": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "3",
+  "lat": 46.0063362,
+  "lng": 8.9512779,
+  "mieter": [
+   "Class Café"
+  ]
+ },
  "lugano|via pessina|13": {
   "street": "Via Pessina",
   "hn": "13",
@@ -284,6 +319,31 @@
    "Guess"
   ]
  },
+ "lugano|corso enrico pestalozzi|21b": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "21B",
+  "lat": 46.0057439,
+  "lng": 8.9546933,
+  "mieter": [
+   "Rolfing Ticino di Angelo Bigontina"
+  ]
+ },
+ "lugano|corso enrico pestalozzi|21": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "21",
+  "lat": 46.0059219,
+  "lng": 8.95392,
+  "mieter": [
+   "Auberge Lugano"
+  ]
+ },
+ "lugano|corso enrico pestalozzi|9": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "9",
+  "lat": 46.00606,
+  "lng": 8.952574,
+  "mieter": []
+ },
  "lugano|via pretorio|9": {
   "street": "Via Pretorio",
   "hn": "9",
@@ -302,11 +362,34 @@
    "Linea Sana"
   ]
  },
+ "lugano|corso pestalozzi|4": {
+  "street": "Corso Pestalozzi",
+  "hn": "4",
+  "lat": 46.0061206,
+  "lng": 8.9513083,
+  "mieter": [
+   "Il Piccolo Principe - Ottico Michel"
+  ]
+ },
  "lugano|piazza della riforma|12": {
   "street": "Piazza della Riforma",
   "hn": "12",
   "lat": 46.0038047,
   "lng": 8.9517442,
+  "mieter": []
+ },
+ "lugano|corso enrico pestalozzi|14": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "14",
+  "lat": 46.005493,
+  "lng": 8.954645,
+  "mieter": []
+ },
+ "lugano|corso enrico pestalozzi|10": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "10",
+  "lat": 46.005608,
+  "lng": 8.954058,
   "mieter": []
  },
  "lugano|via pessina|9": {
@@ -390,18 +473,25 @@
   "lng": 8.9515945,
   "mieter": []
  },
- "lugano|salita mario e antonio chiattone|3": {
-  "street": "Salita Mario e Antonio Chiattone",
-  "hn": "3",
-  "lat": 46.0051379,
-  "lng": 8.9500768,
-  "mieter": []
- },
  "lugano|via pessina|16": {
   "street": "Via Pessina",
   "hn": "16",
   "lat": 46.0045699,
   "lng": 8.950676,
+  "mieter": []
+ },
+ "lugano|corso enrico pestalozzi|11": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "11",
+  "lat": 46.0061787,
+  "lng": 8.953013,
+  "mieter": []
+ },
+ "lugano|corso enrico pestalozzi|13": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "13",
+  "lat": 46.0060961,
+  "lng": 8.953489,
   "mieter": []
  },
  "lugano|via nassa|11": {
@@ -424,45 +514,6 @@
   "lat": 46.0026179,
   "lng": 8.9499195,
   "mieter": []
- },
- "lugano|salita mario e antonio chiattone|12": {
-  "street": "Salita Mario e Antonio Chiattone",
-  "hn": "12",
-  "lat": 46.0051463,
-  "lng": 8.9490602,
-  "mieter": [
-   "Carta e Penna"
-  ]
- },
- "lugano|salita mario e antonio chiattone|8": {
-  "street": "Salita Mario e Antonio Chiattone",
-  "hn": "8",
-  "lat": 46.0050749,
-  "lng": 8.9493597,
-  "mieter": [
-   "Orafo",
-   "Wizz"
-  ]
- },
- "lugano|salita mario e antonio chiattone|7": {
-  "street": "Salita Mario e Antonio Chiattone",
-  "hn": "7",
-  "lat": 46.0050904,
-  "lng": 8.9495117,
-  "mieter": [
-   "Jair Top"
-  ]
- },
- "lugano|salita mario e antonio chiattone|18": {
-  "street": "Salita Mario e Antonio Chiattone",
-  "hn": "18",
-  "lat": 46.0051767,
-  "lng": 8.9494401,
-  "mieter": [
-   "Tropicana",
-   "Dadix Vynil",
-   "Raku Kimono"
-  ]
  },
  "lugano|via pretorio|13a": {
   "street": "Via Pretorio",
@@ -491,6 +542,15 @@
    "Godot & Fils"
   ]
  },
+ "lugano|corso enrico pestalozzi|6": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "6",
+  "lat": 46.0060402,
+  "lng": 8.9517071,
+  "mieter": [
+   "Wilma's Coffee"
+  ]
+ },
  "lugano|via pretorio|16": {
   "street": "Via Pretorio",
   "hn": "16",
@@ -510,6 +570,13 @@
   "hn": "22",
   "lat": 46.0075992,
   "lng": 8.9526907,
+  "mieter": []
+ },
+ "lugano|corso enrico pestalozzi|25": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "25",
+  "lat": 46.0059782,
+  "lng": 8.9543802,
   "mieter": []
  },
  "lugano|via pessina|19": {
@@ -547,11 +614,18 @@
   "lng": 8.9514032,
   "mieter": []
  },
- "lugano|salita mario e antonio chiattone|20": {
-  "street": "Salita Mario e Antonio Chiattone",
-  "hn": "20",
-  "lat": 46.005198,
-  "lng": 8.9491962,
+ "lugano|corso enrico pestalozzi|4": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "4",
+  "lat": 46.006151,
+  "lng": 8.9510626,
+  "mieter": []
+ },
+ "lugano|corso enrico pestalozzi|4a": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "4a",
+  "lat": 46.0060996,
+  "lng": 8.951321,
   "mieter": []
  },
  "lugano|via nassa|22": {
@@ -656,6 +730,13 @@
   "lng": 8.9492029,
   "mieter": []
  },
+ "lugano|corso enrico pestalozzi|21a": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "21a",
+  "lat": 46.0057746,
+  "lng": 8.9542608,
+  "mieter": []
+ },
  "lugano|via nassa|27": {
   "street": "Via Nassa",
   "hn": "27",
@@ -675,6 +756,13 @@
   "hn": "14",
   "lat": 46.0043117,
   "lng": 8.9505025,
+  "mieter": []
+ },
+ "lugano|corso enrico pestalozzi|8": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "8",
+  "lat": 46.0057582,
+  "lng": 8.9523253,
   "mieter": []
  },
  "lugano|via nassa|26a": {
@@ -705,13 +793,6 @@
   "lng": 8.9494408,
   "mieter": []
  },
- "lugano|salita mario e antonio chiattone|14": {
-  "street": "Salita Mario e Antonio Chiattone",
-  "hn": "14",
-  "lat": 46.0055124,
-  "lng": 8.9496423,
-  "mieter": []
- },
  "lugano|via pessina|22": {
   "street": "Via Pessina",
   "hn": "22",
@@ -731,6 +812,34 @@
   "hn": "21",
   "lat": 46.0077544,
   "lng": 8.9523432,
+  "mieter": []
+ },
+ "lugano|corso enrico pestalozzi|1": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "1",
+  "lat": 46.0063865,
+  "lng": 8.9510372,
+  "mieter": []
+ },
+ "lugano|corso enrico pestalozzi|29": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "29",
+  "lat": 46.0059227,
+  "lng": 8.9547553,
+  "mieter": []
+ },
+ "lugano|corso enrico pestalozzi|27": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "27",
+  "lat": 46.0059533,
+  "lng": 8.9545409,
+  "mieter": []
+ },
+ "lugano|corso enrico pestalozzi|23": {
+  "street": "Corso Enrico Pestalozzi",
+  "hn": "23",
+  "lat": 46.0060005,
+  "lng": 8.9542263,
   "mieter": []
  },
  "lugano|via pessina|2": {
