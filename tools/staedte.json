@@ -652,12 +652,13 @@
       "Rue Neuve",
       "Place du Marché",
       "Rue de la Balance",
-      "Rue du Marché"
+      "Rue du Marché",
+      "Rue Daniel-JeanRichard"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-    "offen": "162"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1; 08.11.26 Cronos Immo Fund (Léopold-Robert 23-25); Rest: SITN sitn.ne.ch (Captcha, Kaito einzeln) oder SGRF registrefoncier@ne.ch, Anfrageliste NE_La Chaux-de-Fonds.csv",
+    "offen": "156"
   },
   {
     "kanton": "VS",
