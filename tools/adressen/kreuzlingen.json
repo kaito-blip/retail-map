@@ -53,15 +53,6 @@
    "Migros Bank"
   ]
  },
- "kreuzlingen|bergstrasse|3": {
-  "street": "Bergstrasse",
-  "hn": "3",
-  "lat": 47.6443004,
-  "lng": 9.1708806,
-  "mieter": [
-   "Liotta"
-  ]
- },
  "kreuzlingen|hauptstrasse|138": {
   "street": "Hauptstrasse",
   "hn": "138",
@@ -142,15 +133,6 @@
    "KESB"
   ]
  },
- "kreuzlingen|hauptstrasse|117": {
-  "street": "Hauptstrasse",
-  "hn": "117",
-  "lat": 47.6539707,
-  "lng": 9.1417651,
-  "mieter": [
-   "Migros"
-  ]
- },
  "kreuzlingen|konstanzerstrasse|15a": {
   "street": "Konstanzerstrasse",
   "hn": "15a",
@@ -174,15 +156,6 @@
   "lng": 9.1687904,
   "mieter": [
    "UrsPortmann Tabakwaren"
-  ]
- },
- "kreuzlingen|konstanzerstrasse|120": {
-  "street": "Konstanzerstrasse",
-  "hn": "120",
-  "lat": 47.6620615,
-  "lng": 9.1558558,
-  "mieter": [
-   "Gemüseladen im Tägermoos"
   ]
  },
  "kreuzlingen|hauptstrasse|53": {
@@ -253,20 +226,6 @@
    "Davids Mode"
   ]
  },
- "kreuzlingen|bergstrasse|24": {
-  "street": "Bergstrasse",
-  "hn": "24",
-  "lat": 47.642929,
-  "lng": 9.1696598,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|26": {
-  "street": "Bergstrasse",
-  "hn": "26",
-  "lat": 47.642751,
-  "lng": 9.1693508,
-  "mieter": []
- },
  "kreuzlingen|hauptstrasse|87": {
   "street": "Hauptstrasse",
   "hn": "87",
@@ -281,13 +240,6 @@
   "hn": "89",
   "lat": 47.6449018,
   "lng": 9.1796853,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|1": {
-  "street": "Bergstrasse",
-  "hn": "1",
-  "lat": 47.6444455,
-  "lng": 9.1710458,
   "mieter": []
  },
  "kreuzlingen|konstanzerstrasse|2": {
@@ -317,16 +269,6 @@
    "Pizza Pirata"
   ]
  },
- "kreuzlingen|bergstrasse|7": {
-  "street": "Bergstrasse",
-  "hn": "7",
-  "lat": 47.6436159,
-  "lng": 9.1711149,
-  "mieter": [
-   "Spar",
-   "Independent"
-  ]
- },
  "kreuzlingen|hauptstrasse|88a": {
   "street": "Hauptstrasse",
   "hn": "88a",
@@ -350,71 +292,6 @@
    "Praxis Dr. Gerber + Dr. Schwub"
   ]
  },
- "kreuzlingen|hauptstrasse|119": {
-  "street": "Hauptstrasse",
-  "hn": "119",
-  "lat": 47.6536777,
-  "lng": 9.1423204,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|133": {
-  "street": "Hauptstrasse",
-  "hn": "133",
-  "lat": 47.6526803,
-  "lng": 9.1466432,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|135": {
-  "street": "Hauptstrasse",
-  "hn": "135",
-  "lat": 47.6526222,
-  "lng": 9.1468925,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|137": {
-  "street": "Hauptstrasse",
-  "hn": "137",
-  "lat": 47.6524505,
-  "lng": 9.1475704,
-  "mieter": [
-   "Zecchinel Zentrum"
-  ]
- },
- "kreuzlingen|hauptstrasse|139": {
-  "street": "Hauptstrasse",
-  "hn": "139",
-  "lat": 47.6522265,
-  "lng": 9.1478669,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|141": {
-  "street": "Hauptstrasse",
-  "hn": "141",
-  "lat": 47.6521633,
-  "lng": 9.1481123,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|143": {
-  "street": "Hauptstrasse",
-  "hn": "143",
-  "lat": 47.6520908,
-  "lng": 9.1484025,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|145": {
-  "street": "Hauptstrasse",
-  "hn": "145",
-  "lat": 47.6520248,
-  "lng": 9.1486305,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|147": {
-  "street": "Hauptstrasse",
-  "hn": "147",
-  "lat": 47.6519643,
-  "lng": 9.1488384,
-  "mieter": []
- },
  "kreuzlingen|hauptstrasse|20": {
   "street": "Hauptstrasse",
   "hn": "20",
@@ -433,27 +310,6 @@
    "Café | Bar Hotel SiX",
    "Bitcoin ATM - TiBc"
   ]
- },
- "kreuzlingen|bergstrasse|17a": {
-  "street": "Bergstrasse",
-  "hn": "17a",
-  "lat": 47.6425703,
-  "lng": 9.1701163,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|17b": {
-  "street": "Bergstrasse",
-  "hn": "17b",
-  "lat": 47.6425269,
-  "lng": 9.1701713,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|17c": {
-  "street": "Bergstrasse",
-  "hn": "17c",
-  "lat": 47.6424844,
-  "lng": 9.1701243,
-  "mieter": []
  },
  "kreuzlingen|hauptstrasse|82a": {
   "street": "Hauptstrasse",
@@ -572,20 +428,6 @@
   "hn": "23a",
   "lat": 47.652583,
   "lng": 9.1742063,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|24a": {
-  "street": "Bergstrasse",
-  "hn": "24a",
-  "lat": 47.6429017,
-  "lng": 9.1694718,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|24b": {
-  "street": "Bergstrasse",
-  "hn": "24b",
-  "lat": 47.6428597,
-  "lng": 9.1694658,
   "mieter": []
  },
  "kreuzlingen|hauptstrasse|108": {
@@ -823,20 +665,6 @@
   "lng": 9.1686998,
   "mieter": []
  },
- "kreuzlingen|bergstrasse|48": {
-  "street": "Bergstrasse",
-  "hn": "48",
-  "lat": 47.6402813,
-  "lng": 9.1660489,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|52": {
-  "street": "Bergstrasse",
-  "hn": "52",
-  "lat": 47.6397539,
-  "lng": 9.1660602,
-  "mieter": []
- },
  "kreuzlingen|konstanzerstrasse|9": {
   "street": "Konstanzerstrasse",
   "hn": "9",
@@ -996,41 +824,6 @@
   "hn": "1",
   "lat": 47.6557085,
   "lng": 9.1693482,
-  "mieter": []
- },
- "kreuzlingen|konstanzerstrasse|119": {
-  "street": "Konstanzerstrasse",
-  "hn": "119",
-  "lat": 47.6629596,
-  "lng": 9.1582752,
-  "mieter": []
- },
- "kreuzlingen|konstanzerstrasse|121": {
-  "street": "Konstanzerstrasse",
-  "hn": "121",
-  "lat": 47.6631776,
-  "lng": 9.1596467,
-  "mieter": []
- },
- "kreuzlingen|konstanzerstrasse|123": {
-  "street": "Konstanzerstrasse",
-  "hn": "123",
-  "lat": 47.6640045,
-  "lng": 9.1592844,
-  "mieter": []
- },
- "kreuzlingen|konstanzerstrasse|125": {
-  "street": "Konstanzerstrasse",
-  "hn": "125",
-  "lat": 47.6635225,
-  "lng": 9.1597175,
-  "mieter": []
- },
- "kreuzlingen|konstanzerstrasse|117": {
-  "street": "Konstanzerstrasse",
-  "hn": "117",
-  "lat": 47.6650097,
-  "lng": 9.1566047,
   "mieter": []
  },
  "kreuzlingen|sonnenstrasse|15": {
@@ -1280,13 +1073,6 @@
   "hn": "29",
   "lat": 47.6483475,
   "lng": 9.1727237,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|6": {
-  "street": "Bergstrasse",
-  "hn": "6",
-  "lat": 47.6442383,
-  "lng": 9.1705879,
   "mieter": []
  },
  "kreuzlingen|sonnenstrasse|41": {
@@ -1571,62 +1357,6 @@
   "lng": 9.1743163,
   "mieter": []
  },
- "kreuzlingen|bergstrasse|18": {
-  "street": "Bergstrasse",
-  "hn": "18",
-  "lat": 47.6432438,
-  "lng": 9.1699499,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|9": {
-  "street": "Bergstrasse",
-  "hn": "9",
-  "lat": 47.6435002,
-  "lng": 9.1706151,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|9a": {
-  "street": "Bergstrasse",
-  "hn": "9a",
-  "lat": 47.6434101,
-  "lng": 9.1705206,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|10": {
-  "street": "Bergstrasse",
-  "hn": "10",
-  "lat": 47.6438345,
-  "lng": 9.1705339,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|5a": {
-  "street": "Bergstrasse",
-  "hn": "5a",
-  "lat": 47.6439048,
-  "lng": 9.1711048,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|5": {
-  "street": "Bergstrasse",
-  "hn": "5",
-  "lat": 47.6440082,
-  "lng": 9.1710396,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|15": {
-  "street": "Bergstrasse",
-  "hn": "15",
-  "lat": 47.6429921,
-  "lng": 9.1701778,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|12": {
-  "street": "Bergstrasse",
-  "hn": "12",
-  "lat": 47.6436114,
-  "lng": 9.1702807,
-  "mieter": []
- },
  "kreuzlingen|hauptstrasse|116": {
   "street": "Hauptstrasse",
   "hn": "116",
@@ -1634,39 +1364,11 @@
   "lng": 9.1806148,
   "mieter": []
  },
- "kreuzlingen|bergstrasse|38": {
-  "street": "Bergstrasse",
-  "hn": "38",
-  "lat": 47.6417924,
-  "lng": 9.1674611,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|36": {
-  "street": "Bergstrasse",
-  "hn": "36",
-  "lat": 47.6421081,
-  "lng": 9.1678898,
-  "mieter": []
- },
  "kreuzlingen|hauptstrasse|118": {
   "street": "Hauptstrasse",
   "hn": "118",
   "lat": 47.6439745,
   "lng": 9.180958,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|34": {
-  "street": "Bergstrasse",
-  "hn": "34",
-  "lat": 47.6423793,
-  "lng": 9.168235,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|40": {
-  "street": "Bergstrasse",
-  "hn": "40",
-  "lat": 47.6415898,
-  "lng": 9.1671656,
   "mieter": []
  },
  "kreuzlingen|hauptstrasse|112": {
@@ -1716,125 +1418,6 @@
   "hn": "86",
   "lat": 47.6458202,
   "lng": 9.1763731,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|68": {
-  "street": "Bergstrasse",
-  "hn": "68",
-  "lat": 47.6380157,
-  "lng": 9.1658712,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|29": {
-  "street": "Bergstrasse",
-  "hn": "29",
-  "lat": 47.642395,
-  "lng": 9.169295,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|22": {
-  "street": "Bergstrasse",
-  "hn": "22",
-  "lat": 47.6430768,
-  "lng": 9.1698014,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|13": {
-  "street": "Bergstrasse",
-  "hn": "13",
-  "lat": 47.6431881,
-  "lng": 9.1703348,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|37": {
-  "street": "Bergstrasse",
-  "hn": "37",
-  "lat": 47.6420652,
-  "lng": 9.1683124,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|11": {
-  "street": "Bergstrasse",
-  "hn": "11",
-  "lat": 47.6432312,
-  "lng": 9.17102,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|27": {
-  "street": "Bergstrasse",
-  "hn": "27",
-  "lat": 47.642472,
-  "lng": 9.1694822,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|33": {
-  "street": "Bergstrasse",
-  "hn": "33",
-  "lat": 47.6423202,
-  "lng": 9.1686383,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|31": {
-  "street": "Bergstrasse",
-  "hn": "31",
-  "lat": 47.6423937,
-  "lng": 9.168863,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|14": {
-  "street": "Bergstrasse",
-  "hn": "14",
-  "lat": 47.6433862,
-  "lng": 9.1700801,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|16": {
-  "street": "Bergstrasse",
-  "hn": "16",
-  "lat": 47.6433231,
-  "lng": 9.1700522,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|2": {
-  "street": "Bergstrasse",
-  "hn": "2",
-  "lat": 47.6445689,
-  "lng": 9.170516,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|4": {
-  "street": "Bergstrasse",
-  "hn": "4",
-  "lat": 47.644487,
-  "lng": 9.1704693,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|4a": {
-  "street": "Bergstrasse",
-  "hn": "4a",
-  "lat": 47.6444711,
-  "lng": 9.1702485,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|59": {
-  "street": "Bergstrasse",
-  "hn": "59",
-  "lat": 47.6390407,
-  "lng": 9.1666851,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|61": {
-  "street": "Bergstrasse",
-  "hn": "61",
-  "lat": 47.6387273,
-  "lng": 9.166684,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|53": {
-  "street": "Bergstrasse",
-  "hn": "53",
-  "lat": 47.6396052,
-  "lng": 9.1664477,
   "mieter": []
  },
  "kreuzlingen|hauptstrasse|124": {
@@ -1964,48 +1547,6 @@
   "mieter": [
    "Sankt Ulrich"
   ]
- },
- "kreuzlingen|hauptstrasse|128a": {
-  "street": "Hauptstrasse",
-  "hn": "128a",
-  "lat": 47.6529623,
-  "lng": 9.1432302,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|123": {
-  "street": "Hauptstrasse",
-  "hn": "123",
-  "lat": 47.6533397,
-  "lng": 9.1438326,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|136": {
-  "street": "Hauptstrasse",
-  "hn": "136",
-  "lat": 47.6522323,
-  "lng": 9.1455588,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|134": {
-  "street": "Hauptstrasse",
-  "hn": "134",
-  "lat": 47.6524934,
-  "lng": 9.1452387,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|122": {
-  "street": "Hauptstrasse",
-  "hn": "122",
-  "lat": 47.6536408,
-  "lng": 9.1411326,
-  "mieter": []
- },
- "kreuzlingen|konstanzerstrasse|113": {
-  "street": "Konstanzerstrasse",
-  "hn": "113",
-  "lat": 47.6619276,
-  "lng": 9.1496234,
-  "mieter": []
  },
  "kreuzlingen|hauptstrasse|38": {
   "street": "Hauptstrasse",
@@ -2219,97 +1760,6 @@
   "lng": 9.1665574,
   "mieter": []
  },
- "kreuzlingen|bergstrasse|30": {
-  "street": "Bergstrasse",
-  "hn": "30",
-  "lat": 47.6426231,
-  "lng": 9.1691048,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|19": {
-  "street": "Bergstrasse",
-  "hn": "19",
-  "lat": 47.6425359,
-  "lng": 9.1699048,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|21": {
-  "street": "Bergstrasse",
-  "hn": "21",
-  "lat": 47.6426694,
-  "lng": 9.1697909,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|17": {
-  "street": "Bergstrasse",
-  "hn": "17",
-  "lat": 47.6426626,
-  "lng": 9.170083,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|65": {
-  "street": "Bergstrasse",
-  "hn": "65",
-  "lat": 47.6382466,
-  "lng": 9.1666276,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|63": {
-  "street": "Bergstrasse",
-  "hn": "63",
-  "lat": 47.6384702,
-  "lng": 9.1665777,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|131": {
-  "street": "Hauptstrasse",
-  "hn": "131",
-  "lat": 47.6529601,
-  "lng": 9.1455825,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|127": {
-  "street": "Hauptstrasse",
-  "hn": "127",
-  "lat": 47.6532066,
-  "lng": 9.1444883,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|128b": {
-  "street": "Hauptstrasse",
-  "hn": "128b",
-  "lat": 47.6531317,
-  "lng": 9.1427854,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|45": {
-  "street": "Bergstrasse",
-  "hn": "45",
-  "lat": 47.6413524,
-  "lng": 9.1674159,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|36a": {
-  "street": "Bergstrasse",
-  "hn": "36a",
-  "lat": 47.642216,
-  "lng": 9.1678793,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|55": {
-  "street": "Bergstrasse",
-  "hn": "55",
-  "lat": 47.6394331,
-  "lng": 9.1665127,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|57": {
-  "street": "Bergstrasse",
-  "hn": "57",
-  "lat": 47.6393419,
-  "lng": 9.1665097,
-  "mieter": []
- },
  "kreuzlingen|hauptstrasse|80": {
   "street": "Hauptstrasse",
   "hn": "80",
@@ -2394,27 +1844,6 @@
   "lng": 9.1652212,
   "mieter": []
  },
- "kreuzlingen|hauptstrasse|144": {
-  "street": "Hauptstrasse",
-  "hn": "144",
-  "lat": 47.6520414,
-  "lng": 9.1462725,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|142": {
-  "street": "Hauptstrasse",
-  "hn": "142",
-  "lat": 47.6521053,
-  "lng": 9.1460387,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|140": {
-  "street": "Hauptstrasse",
-  "hn": "140",
-  "lat": 47.6521686,
-  "lng": 9.1458055,
-  "mieter": []
- },
  "kreuzlingen|hauptstrasse|10": {
   "street": "Hauptstrasse",
   "hn": "10",
@@ -2434,55 +1863,6 @@
   "hn": "35",
   "lat": 47.646826,
   "lng": 9.1722572,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|46": {
-  "street": "Bergstrasse",
-  "hn": "46",
-  "lat": 47.6407362,
-  "lng": 9.1659965,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|44": {
-  "street": "Bergstrasse",
-  "hn": "44",
-  "lat": 47.6409172,
-  "lng": 9.1662679,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|23": {
-  "street": "Bergstrasse",
-  "hn": "23",
-  "lat": 47.642586,
-  "lng": 9.1696506,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|25": {
-  "street": "Bergstrasse",
-  "hn": "25",
-  "lat": 47.6425318,
-  "lng": 9.1695659,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|19a": {
-  "street": "Bergstrasse",
-  "hn": "19a",
-  "lat": 47.6422976,
-  "lng": 9.1699714,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|20": {
-  "street": "Bergstrasse",
-  "hn": "20",
-  "lat": 47.6431815,
-  "lng": 9.1698838,
-  "mieter": []
- },
- "kreuzlingen|hauptstrasse|146": {
-  "street": "Hauptstrasse",
-  "hn": "146",
-  "lat": 47.6521503,
-  "lng": 9.1467719,
   "mieter": []
  },
  "kreuzlingen|hauptstrasse|14": {
@@ -2525,13 +1905,6 @@
   "hn": "93",
   "lat": 47.6446049,
   "lng": 9.1800975,
-  "mieter": []
- },
- "kreuzlingen|bergstrasse|28": {
-  "street": "Bergstrasse",
-  "hn": "28",
-  "lat": 47.6428715,
-  "lng": 9.1690226,
   "mieter": []
  },
  "kreuzlingen|konstanzerstrasse|66a": {

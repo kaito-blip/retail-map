@@ -706,10 +706,10 @@
       "Bärenplatz",
       "Sonnenstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-    "offen": "354"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 08.11.26 (SBB-OGD): 1; Rest offen, Anfrageliste TG_Kreuzlingen (ThurGIS-Einzelabfrage / Grundbuchamt Kreuzlingen gnk@tg.ch)",
+    "offen": "266"
   },
   {
     "kanton": "BL",
