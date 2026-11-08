@@ -1,10 +1,4 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
-owner;buchs sg|bahnhofstrasse|38;Immobilien AG Bahnhofstrasse Buchs/SG;;Eigentümer lt. Immobilien AG Bahnhofstrasse Buchs/SG: SHAB HR-Eintrag 15.07.2019, Zweck (15.07.2019), E-GRID CH767784380904
-owner;crans-montana|rue du grand-place|12;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";;Eigentümer lt. Investis: Annual Report 2025, 2.5 Property portfolio details S. 110–111 (31.12.2025), Alleineigentum
-owner;crans-montana|rue du grand-place|14;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";;Eigentümer lt. Investis: Annual Report 2025, 2.5 Property portfolio details S. 110–111 (31.12.2025), Alleineigentum
-hinweis;st. gallen|webergasse|21;;;vermutlich Schmid & Co. AG (Quelle: Schmid & Co. AG: SHAB HR-Eintrag 18.01.2024, Zweck (18.01.2024)), ungeprüft
-owner;winterthur|steinberggasse|16;Albani Music Club Immobilien AG;;Eigentümer lt. Albani Music Club Immobilien AG: SHAB HR-Eintrag 04.12.2020, Zweck (04.12.2020), E-GRID CH540820799539
-hinweis;zug|alpenstrasse|12;;;vermutlich Christophorus AG (Quelle: Christophorus AG: SHAB HR-Eintrag 15.06.2020, Zweck (15.06.2020)), ungeprüft
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -169,6 +163,7 @@ bestätigt;buchs sg|bahnhofstrasse|21b;;UBS Investment Foundation 4 (UBS Anlages
 bestätigt;buchs sg|bahnhofstrasse|21c;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland Residential;
 bestätigt;buchs sg|bahnhofstrasse|35a;;VERIT Investment Management AG für Raiffeisen Futura Immo Fonds;
 bestätigt;buchs sg|bahnhofstrasse|37;;VERIT Investment Management AG für Raiffeisen Futura Immo Fonds;
+bestätigt;buchs sg|bahnhofstrasse|38;;Immobilien AG Bahnhofstrasse Buchs/SG;
 bestätigt;buchs sg|bahnhofstrasse|47;;Swiss Life Asset Management AG für Swiss Life REF (CH) ESG Swiss Properties;
 bestätigt;buchs sg|bahnhofstrasse|49;;Swiss Life Asset Management AG für Swiss Life REF (CH) ESG Swiss Properties;
 bestätigt;buchs sg|churerstrasse|82;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima»;
@@ -186,6 +181,8 @@ bestätigt;carouge|rue ancienne|37;;Commune de Carouge;
 bestätigt;carouge|rue jacques-dalphin|13;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Direct Hospitality;
 bestätigt;carouge|rue jacques-dalphin|33;;Commune de Carouge;
 bestätigt;crans-montana|route du rawyl|10;;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";
+bestätigt;crans-montana|rue du grand-place|12;;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";
+bestätigt;crans-montana|rue du grand-place|14;;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";
 bestätigt;crans-montana|rue du prado|19;;"Investis Holding SA (Gruppe; Eigentum bei Tochtergesellschaften)";
 bestätigt;davos|promenade|101;;BNP Paribas Asset Management Switzerland AG für AXA Real Estate Fund Switzerland;
 bestätigt;davos|promenade|105;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima»;
@@ -450,6 +447,7 @@ bestätigt;winterthur|stadthausstrasse|10b;;Schroder Investment Management (Swit
 bestätigt;winterthur|stadthausstrasse|14;;BNP Paribas Asset Management Switzerland AG für AXA Real Estate Fund Switzerland;
 bestätigt;winterthur|stadthausstrasse|35;;AXA Anlagestiftung (Anlagegruppe AXA Immobilien Schweiz);
 bestätigt;winterthur|stadthausstrasse|61;;BNP Paribas Asset Management Switzerland AG für AXA Real Estate Fund Switzerland;
+bestätigt;winterthur|steinberggasse|16;;Albani Music Club Immobilien AG;
 bestätigt;winterthur|untertor|21;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;
 bestätigt;winterthur|untertor|23;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;
 bestätigt;winterthur|untertor|25;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;

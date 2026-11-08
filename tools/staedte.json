@@ -923,13 +923,12 @@
       "Promenade",
       "Talstrasse",
       "Bahnhofstrasse",
-      "Obere Strasse",
       "Mattastrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
-    "offen": "439"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (Fondsinventare AXA, UBS Sima): 2; Grundbuch GR offen (Anfrageliste GR_Davos.csv, Portal mit Captcha oder GBA Davos)",
+    "offen": "295"
   },
   {
     "kanton": "TG",
