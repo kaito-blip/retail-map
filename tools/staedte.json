@@ -502,13 +502,14 @@
       "Promenade",
       "Palacestrasse",
       "Untergstaadstrasse",
-      "Lauenenstrasse",
-      "Güterstrasse"
+      "Suterstrasse",
+      "Güterstrasse",
+      "Lauenenstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "257"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "GRUDIS public (AGOV, Kaito einzeln) oder Mail an Grundbuchamt Oberland Thun gba.ol@be.ch; Register ohne Treffer",
+    "offen": "152"
   },
   {
     "kanton": "VD",
