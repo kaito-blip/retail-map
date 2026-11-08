@@ -316,9 +316,9 @@
       "Bahnhofplatz",
       "Wasserturmplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (SBB OGD, Warteck HJB 2026, AXA REF, UBS AST 4): 8; Rest: Eigentumsauskunft BL eigentumsauskunft.geo.bl.ch/<EGRID> (Captcha, Kaito einzeln) oder Grundbuchamt BL Arlesheim grundbuchamt@bl.ch",
     "offen": "141"
   },
   {
