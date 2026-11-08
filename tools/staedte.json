@@ -200,10 +200,10 @@
       "Avenue de la Gare",
       "Rue du Simplon"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 9",
-    "offen": "204"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "RFpublic keycloak.fr.ch/rfpublic (Kaito einzeln, gratis, ohne Login; kein Direktlink) oder RF Sarine rfsarine@fr.ch; Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py) und manueller Registerabgleich 08.11.26: 12",
+    "offen": "240"
   },
   {
     "kanton": "NE",

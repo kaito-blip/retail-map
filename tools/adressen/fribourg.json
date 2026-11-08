@@ -62,6 +62,16 @@
    "Fromagerie L'Artizan"
   ]
  },
+ "fribourg|rue de romont / romontgasse|35": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "35",
+  "lat": 46.8043645,
+  "lng": 7.1539245,
+  "mieter": [
+   "Banque Cler",
+   "Saudan - Bar à Croissants"
+  ]
+ },
  "fribourg|avenue de la gare|9": {
   "street": "Avenue de la Gare",
   "hn": "9",
@@ -393,6 +403,15 @@
   "lat": 46.8044325,
   "lng": 7.1541143,
   "mieter": []
+ },
+ "fribourg|avenue de la gare / bahnhofstrasse|10": {
+  "street": "Avenue de la Gare / Bahnhofstrasse",
+  "hn": "10",
+  "lat": 46.8031039,
+  "lng": 7.1522113,
+  "mieter": [
+   "Coop"
+  ]
  },
  "fribourg|boulevard de pérolles|1": {
   "street": "Boulevard de Pérolles",
@@ -824,6 +843,15 @@
    "Murith SA"
   ]
  },
+ "fribourg|avenue de la gare / bahnhofsallee|22": {
+  "street": "Avenue de la Gare / Bahnhofsallee",
+  "hn": "22",
+  "lat": 46.8034693,
+  "lng": 7.1537736,
+  "mieter": [
+   "Aldi"
+  ]
+ },
  "fribourg|boulevard de pérolles|65": {
   "street": "Boulevard de Pérolles",
   "hn": "65",
@@ -1052,6 +1080,33 @@
    "Badog CNC"
   ]
  },
+ "fribourg|rue de lausanne / lausannegasse|13": {
+  "street": "Rue de Lausanne / Lausannegasse",
+  "hn": "13",
+  "lat": 46.806048,
+  "lng": 7.1600815,
+  "mieter": [
+   "Magasin du Monde"
+  ]
+ },
+ "fribourg|rue de lausanne / lausannegasse|39": {
+  "street": "Rue de Lausanne / Lausannegasse",
+  "hn": "39",
+  "lat": 46.8056737,
+  "lng": 7.1588737,
+  "mieter": [
+   "Animart"
+  ]
+ },
+ "fribourg|rue de lausanne / lausannegasse|6": {
+  "street": "Rue de Lausanne / Lausannegasse",
+  "hn": "6",
+  "lat": 46.8059362,
+  "lng": 7.1602856,
+  "mieter": [
+   "Bernard Joerg"
+  ]
+ },
  "fribourg|rue de lausanne|25": {
   "street": "Rue de Lausanne",
   "hn": "25",
@@ -1070,6 +1125,20 @@
    "Graine de shopping"
   ]
  },
+ "fribourg|avenue de la gare / bahnhofstrasse|18": {
+  "street": "Avenue de la Gare / Bahnhofstrasse",
+  "hn": "18",
+  "lat": 46.8027504,
+  "lng": 7.1522689,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare / bahnhofstrasse|16": {
+  "street": "Avenue de la Gare / Bahnhofstrasse",
+  "hn": "16",
+  "lat": 46.8029126,
+  "lng": 7.1527616,
+  "mieter": []
+ },
  "fribourg|rue de lausanne|57": {
   "street": "Rue de Lausanne",
   "hn": "57",
@@ -1079,6 +1148,31 @@
    "Fara"
   ]
  },
+ "fribourg|rue de romont / romontgasse|10": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "10",
+  "lat": 46.8046742,
+  "lng": 7.1549579,
+  "mieter": [
+   "Le Contrepoint"
+  ]
+ },
+ "fribourg|avenue de la gare / bahnhofstrasse|12": {
+  "street": "Avenue de la Gare / Bahnhofstrasse",
+  "hn": "12",
+  "lat": 46.8031359,
+  "lng": 7.1522837,
+  "mieter": [
+   "Anorac Studio Sàrl"
+  ]
+ },
+ "fribourg|rue de romont / romontgasse|2": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "2",
+  "lat": 46.8047751,
+  "lng": 7.1552713,
+  "mieter": []
+ },
  "fribourg|boulevard de pérolles|82": {
   "street": "Boulevard de Pérolles",
   "hn": "82",
@@ -1087,6 +1181,20 @@
   "mieter": [
    "Haute école d'ingénierie et d'architecture de Fribourg"
   ]
+ },
+ "fribourg|avenue de la gare / bahnhofsallee|5a": {
+  "street": "Avenue de la Gare / Bahnhofsallee",
+  "hn": "5a",
+  "lat": 46.8035898,
+  "lng": 7.151889,
+  "mieter": []
+ },
+ "fribourg|avenue de la gare / bahnhofsallee|5": {
+  "street": "Avenue de la Gare / Bahnhofsallee",
+  "hn": "5",
+  "lat": 46.8033852,
+  "lng": 7.1519234,
+  "mieter": []
  },
  "fribourg|boulevard de pérolles|95": {
   "street": "Boulevard de Pérolles",
@@ -1403,6 +1511,27 @@
   "lng": 7.1560491,
   "mieter": []
  },
+ "fribourg|rue de romont / romontgasse|24": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "24",
+  "lat": 46.8041939,
+  "lng": 7.1543309,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|4": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "4",
+  "lat": 46.8047265,
+  "lng": 7.1551751,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|27": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "27",
+  "lat": 46.8047082,
+  "lng": 7.1543363,
+  "mieter": []
+ },
  "fribourg|boulevard de pérolles|86": {
   "street": "Boulevard de Pérolles",
   "hn": "86",
@@ -1500,6 +1629,83 @@
   "hn": "1",
   "lat": 46.8062071,
   "lng": 7.1605525,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|25": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "25",
+  "lat": 46.8047372,
+  "lng": 7.1543918,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|23": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "23",
+  "lat": 46.804765,
+  "lng": 7.154445,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|17": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "17",
+  "lat": 46.8048723,
+  "lng": 7.1546455,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|15": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "15",
+  "lat": 46.8049122,
+  "lng": 7.1547361,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|13": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "13",
+  "lat": 46.8049405,
+  "lng": 7.1548071,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|11": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "11",
+  "lat": 46.8049733,
+  "lng": 7.1548716,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|9": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "9",
+  "lat": 46.8050049,
+  "lng": 7.1549392,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|7": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "7",
+  "lat": 46.8050263,
+  "lng": 7.1549971,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|5": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "5",
+  "lat": 46.8050501,
+  "lng": 7.1550552,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|3": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "3",
+  "lat": 46.805077,
+  "lng": 7.1551363,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|1": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "1",
+  "lat": 46.8051291,
+  "lng": 7.15523,
   "mieter": []
  },
  "fribourg|rue de lausanne|23": {
@@ -1600,6 +1806,20 @@
   "lng": 7.1583216,
   "mieter": []
  },
+ "fribourg|rue de romont / romontgasse|22": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "22",
+  "lat": 46.8042559,
+  "lng": 7.1544243,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|26": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "26",
+  "lat": 46.8041373,
+  "lng": 7.1542176,
+  "mieter": []
+ },
  "fribourg|rue de lausanne|51": {
   "street": "Rue de Lausanne",
   "hn": "51",
@@ -1612,6 +1832,76 @@
   "hn": "17",
   "lat": 46.8002338,
   "lng": 7.1521248,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|6": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "6",
+  "lat": 46.8046798,
+  "lng": 7.1551178,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|8": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "8",
+  "lat": 46.8046497,
+  "lng": 7.1550633,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|12": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "12",
+  "lat": 46.8045741,
+  "lng": 7.1549363,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|14": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "14",
+  "lat": 46.8045197,
+  "lng": 7.1548346,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|16": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "16",
+  "lat": 46.804475,
+  "lng": 7.1547532,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|18": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "18",
+  "lat": 46.8044235,
+  "lng": 7.1546576,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|20": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "20",
+  "lat": 46.8043667,
+  "lng": 7.1545496,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|29": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "29",
+  "lat": 46.8046674,
+  "lng": 7.1542468,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|21": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "21",
+  "lat": 46.8047951,
+  "lng": 7.1545029,
+  "mieter": []
+ },
+ "fribourg|rue de romont / romontgasse|19": {
+  "street": "Rue de Romont / Romontgasse",
+  "hn": "19",
+  "lat": 46.8048289,
+  "lng": 7.1545575,
   "mieter": []
  }
 }
