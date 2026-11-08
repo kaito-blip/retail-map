@@ -575,12 +575,13 @@
       "Rathausstrasse",
       "Marktgasse",
       "Bahnhofstrasse",
-      "Leihgasse"
+      "Leihgasse",
+      "Oberdorfstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "150"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 08.11.26 (tools/register_abgleich.py): Helvetica Swiss Commercial Fund, Oberdorf Center (Oberdorfstrasse 2/6/8a-d, Stockwerkeigentum, Halbjahresbericht 30.06.2026); Rest: ZugMap (Einzelauskunft) oder verbindliche Eigentümerliste Grundbuch Zug (ab CHF 45)",
+    "offen": "130"
   },
   {
     "kanton": "AG",
