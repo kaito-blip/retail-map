@@ -293,12 +293,16 @@
       "Rheinstrasse",
       "Freiestrasse",
       "Bankplatz",
-      "Promenadenstrasse"
+      "Promenadenstrasse",
+      "Freie-Strasse",
+      "Bahnhofstrasse",
+      "Bahnhofplatz",
+      "Rathausplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12",
-    "offen": "321"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 12; Lauf 08.11.26: Parzellen/E-GRID geo.admin für alle offenen Adressen, Rest über ThurGIS-Einzelauskunft (Kaito, limitiert) oder Grundbuchamt und Notariat Frauenfeld (gnf@tg.ch)",
+    "offen": "212"
   },
   {
     "kanton": "BL",

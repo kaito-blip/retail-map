@@ -6,14 +6,12 @@
   "lng": 8.9003377,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|325": {
-  "street": "Zürcherstrasse",
-  "hn": "325",
-  "lat": 47.5659657,
-  "lng": 8.9115039,
-  "mieter": [
-   "Kantonspolizei"
-  ]
+ "frauenfeld|freie-strasse|24": {
+  "street": "Freie-Strasse",
+  "hn": "24",
+  "lat": 47.5564574,
+  "lng": 8.8984937,
+  "mieter": []
  },
  "frauenfeld|zürcherstrasse|138": {
   "street": "Zürcherstrasse",
@@ -36,24 +34,52 @@
    "Brezelkönig"
   ]
  },
- "frauenfeld|zürcherstrasse|305": {
-  "street": "Zürcherstrasse",
-  "hn": "305",
-  "lat": 47.5648008,
-  "lng": 8.9101381,
+ "frauenfeld|rathausplatz|2": {
+  "street": "Rathausplatz",
+  "hn": "2",
+  "lat": 47.555201,
+  "lng": 8.8968712,
+  "mieter": []
+ },
+ "frauenfeld|bahnhofstrasse|53": {
+  "street": "Bahnhofstrasse",
+  "hn": "53",
+  "lat": 47.5560692,
+  "lng": 8.8934171,
   "mieter": [
-   "Fust",
-   "m-way;Allegro;Cannondale;Cilo;Cube;Focus;Ghost;Haibike;Kalkhoff;Price;Simplon;Stromer;Trek"
+   "JYSK"
   ]
  },
- "frauenfeld|zürcherstrasse|276": {
-  "street": "Zürcherstrasse",
-  "hn": "276",
-  "lat": 47.5618331,
-  "lng": 8.9060671,
+ "frauenfeld|bahnhofstrasse|75": {
+  "street": "Bahnhofstrasse",
+  "hn": "75",
+  "lat": 47.5582482,
+  "lng": 8.8967877,
   "mieter": [
-   "Migrol",
    "Migrolino"
+  ]
+ },
+ "frauenfeld|bahnhofstrasse|52": {
+  "street": "Bahnhofstrasse",
+  "hn": "52",
+  "lat": 47.5557609,
+  "lng": 8.8936628,
+  "mieter": []
+ },
+ "frauenfeld|bahnhofstrasse|55": {
+  "street": "Bahnhofstrasse",
+  "hn": "55",
+  "lat": 47.5562509,
+  "lng": 8.8939162,
+  "mieter": []
+ },
+ "frauenfeld|bahnhofstrasse|57": {
+  "street": "Bahnhofstrasse",
+  "hn": "57",
+  "lat": 47.556428,
+  "lng": 8.8942737,
+  "mieter": [
+   "Nemrut"
   ]
  },
  "frauenfeld|bahnhofplatz|68": {
@@ -65,22 +91,15 @@
    "Swisscom"
   ]
  },
- "frauenfeld|zürcherstrasse|288": {
-  "street": "Zürcherstrasse",
-  "hn": "288",
-  "lat": 47.5630098,
-  "lng": 8.9081095,
+ "frauenfeld|bahnhofstrasse|70": {
+  "street": "Bahnhofstrasse",
+  "hn": "70",
+  "lat": 47.5571919,
+  "lng": 8.8966018,
   "mieter": [
-   "Burger King"
-  ]
- },
- "frauenfeld|zürcherstrasse|369": {
-  "street": "Zürcherstrasse",
-  "hn": "369",
-  "lat": 47.5696267,
-  "lng": 8.9179492,
-  "mieter": [
-   "Spar"
+   "Interdiscount",
+   "C&A",
+   "Zebra"
   ]
  },
  "frauenfeld|bahnhofplatz|70-72": {
@@ -114,6 +133,15 @@
   "lat": 47.5561657,
   "lng": 8.8956445,
   "mieter": []
+ },
+ "frauenfeld|bahnhofstrasse|98": {
+  "street": "Bahnhofstrasse",
+  "hn": "98",
+  "lat": 47.5608486,
+  "lng": 8.9021962,
+  "mieter": [
+   "Pizzeria La Pergola"
+  ]
  },
  "frauenfeld|zürcherstrasse|232": {
   "street": "Zürcherstrasse",
@@ -151,6 +179,33 @@
    "Kantonsbibliothek Thurgau"
   ]
  },
+ "frauenfeld|bahnhofstrasse|56": {
+  "street": "Bahnhofstrasse",
+  "hn": "56",
+  "lat": 47.5560248,
+  "lng": 8.8940434,
+  "mieter": [
+   "Kesselring"
+  ]
+ },
+ "frauenfeld|rathausplatz|3": {
+  "street": "Rathausplatz",
+  "hn": "3",
+  "lat": 47.5555828,
+  "lng": 8.8975753,
+  "mieter": [
+   "TopPharm"
+  ]
+ },
+ "frauenfeld|rathausplatz|1": {
+  "street": "Rathausplatz",
+  "hn": "1",
+  "lat": 47.5556666,
+  "lng": 8.8972388,
+  "mieter": [
+   "Optic 2000"
+  ]
+ },
  "frauenfeld|bankplatz|4": {
   "street": "Bankplatz",
   "hn": "4",
@@ -160,12 +215,30 @@
    "Habersaat"
   ]
  },
+ "frauenfeld|freie-strasse|22": {
+  "street": "Freie-Strasse",
+  "hn": "22",
+  "lat": 47.5563005,
+  "lng": 8.8983805,
+  "mieter": [
+   "Drogerie Haas"
+  ]
+ },
  "frauenfeld|promenadenstrasse|13": {
   "street": "Promenadenstrasse",
   "hn": "13",
   "lat": 47.5563177,
   "lng": 8.8985973,
   "mieter": []
+ },
+ "frauenfeld|rathausplatz|6": {
+  "street": "Rathausplatz",
+  "hn": "6",
+  "lat": 47.5553532,
+  "lng": 8.8977749,
+  "mieter": [
+   "Beldona"
+  ]
  },
  "frauenfeld|zürcherstrasse|239": {
   "street": "Zürcherstrasse",
@@ -280,15 +353,6 @@
    "Altstadt"
   ]
  },
- "frauenfeld|zürcherstrasse|300": {
-  "street": "Zürcherstrasse",
-  "hn": "300",
-  "lat": 47.5638797,
-  "lng": 8.9095363,
-  "mieter": [
-   "backslash AG"
-  ]
- },
  "frauenfeld|zürcherstrasse|153": {
   "street": "Zürcherstrasse",
   "hn": "153",
@@ -297,38 +361,6 @@
   "mieter": [
    "Rathaus Apotheke"
   ]
- },
- "frauenfeld|zürcherstrasse|108a": {
-  "street": "Zürcherstrasse",
-  "hn": "108A",
-  "lat": 47.5533569,
-  "lng": 8.8927388,
-  "mieter": [
-   "Cacherstore and more"
-  ]
- },
- "frauenfeld|zürcherstrasse|116": {
-  "street": "Zürcherstrasse",
-  "hn": "116",
-  "lat": 47.5536389,
-  "lng": 8.8936853,
-  "mieter": [
-   "Erlesenes"
-  ]
- },
- "frauenfeld|zürcherstrasse|47": {
-  "street": "Zürcherstrasse",
-  "hn": "47",
-  "lat": 47.5523673,
-  "lng": 8.8811777,
-  "mieter": []
- },
- "frauenfeld|rheinstrasse|32": {
-  "street": "Rheinstrasse",
-  "hn": "32",
-  "lat": 47.5589176,
-  "lng": 8.8926849,
-  "mieter": []
  },
  "frauenfeld|rheinstrasse|1": {
   "street": "Rheinstrasse",
@@ -339,13 +371,13 @@
    "Molino"
   ]
  },
- "frauenfeld|zürcherstrasse|130": {
-  "street": "Zürcherstrasse",
-  "hn": "130",
-  "lat": 47.5540074,
-  "lng": 8.8945467,
+ "frauenfeld|bahnhofstrasse|70-72": {
+  "street": "Bahnhofstrasse",
+  "hn": "70-72",
+  "lat": 47.5567386,
+  "lng": 8.8963143,
   "mieter": [
-   "Traditional Barbershop"
+   "Micasa"
   ]
  },
  "frauenfeld|bankplatz|1": {
@@ -357,44 +389,14 @@
    "Zivilstandsamt Thurgau West"
   ]
  },
- "frauenfeld|zürcherstrasse|296": {
-  "street": "Zürcherstrasse",
-  "hn": "296",
-  "lat": 47.5633248,
-  "lng": 8.9086532,
+ "frauenfeld|freie-strasse|28": {
+  "street": "Freie-Strasse",
+  "hn": "28",
+  "lat": 47.5567095,
+  "lng": 8.8987233,
   "mieter": [
-   "Rattin AG"
+   "Bank Linth"
   ]
- },
- "frauenfeld|rheinstrasse|49a": {
-  "street": "Rheinstrasse",
-  "hn": "49a",
-  "lat": 47.5603235,
-  "lng": 8.8903072,
-  "mieter": []
- },
- "frauenfeld|rheinstrasse|51": {
-  "street": "Rheinstrasse",
-  "hn": "51",
-  "lat": 47.5604722,
-  "lng": 8.8902987,
-  "mieter": [
-   "Chinderhuus Zauberwald"
-  ]
- },
- "frauenfeld|rheinstrasse|49b": {
-  "street": "Rheinstrasse",
-  "hn": "49b",
-  "lat": 47.560334,
-  "lng": 8.8901876,
-  "mieter": []
- },
- "frauenfeld|rheinstrasse|49": {
-  "street": "Rheinstrasse",
-  "hn": "49",
-  "lat": 47.5603185,
-  "lng": 8.8903636,
-  "mieter": []
  },
  "frauenfeld|zürcherstrasse|188": {
   "street": "Zürcherstrasse",
@@ -403,93 +405,14 @@
   "lng": 8.8993,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|114": {
-  "street": "Zürcherstrasse",
-  "hn": "114",
-  "lat": 47.5536003,
-  "lng": 8.8933512,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|112": {
-  "street": "Zürcherstrasse",
-  "hn": "112",
-  "lat": 47.5535167,
-  "lng": 8.8931083,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|108": {
-  "street": "Zürcherstrasse",
-  "hn": "108",
-  "lat": 47.5534351,
-  "lng": 8.8928712,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|291": {
-  "street": "Zürcherstrasse",
-  "hn": "291",
-  "lat": 47.5634184,
-  "lng": 8.907842,
+ "frauenfeld|bahnhofstrasse|86": {
+  "street": "Bahnhofstrasse",
+  "hn": "86",
+  "lat": 47.5601759,
+  "lng": 8.9003196,
   "mieter": [
-   "Shell",
-   "Migrolino"
+   "PIRMIN JUNG SCHWEIZ AG"
   ]
- },
- "frauenfeld|zürcherstrasse|275": {
-  "street": "Zürcherstrasse",
-  "hn": "275",
-  "lat": 47.562051,
-  "lng": 8.9057258,
-  "mieter": [
-   "Migrol"
-  ]
- },
- "frauenfeld|zürcherstrasse|297": {
-  "street": "Zürcherstrasse",
-  "hn": "297",
-  "lat": 47.5637378,
-  "lng": 8.9084315,
-  "mieter": [
-   "Qualipet",
-   "Interdiscount",
-   "Thurgipark"
-  ]
- },
- "frauenfeld|zürcherstrasse|306": {
-  "street": "Zürcherstrasse",
-  "hn": "306",
-  "lat": 47.5644192,
-  "lng": 8.9104134,
-  "mieter": [
-   "Fressnapf"
-  ]
- },
- "frauenfeld|zürcherstrasse|270": {
-  "street": "Zürcherstrasse",
-  "hn": "270",
-  "lat": 47.5615563,
-  "lng": 8.9055246,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|96": {
-  "street": "Zürcherstrasse",
-  "hn": "96",
-  "lat": 47.5527494,
-  "lng": 8.8906757,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|94": {
-  "street": "Zürcherstrasse",
-  "hn": "94",
-  "lat": 47.5527343,
-  "lng": 8.8904354,
-  "mieter": []
- },
- "frauenfeld|rheinstrasse|37": {
-  "street": "Rheinstrasse",
-  "hn": "37",
-  "lat": 47.5593169,
-  "lng": 8.8916399,
-  "mieter": []
  },
  "frauenfeld|bahnhofplatz|67": {
   "street": "Bahnhofplatz",
@@ -521,34 +444,6 @@
   "lng": 8.8972762,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|9": {
-  "street": "Zürcherstrasse",
-  "hn": "9",
-  "lat": 47.5524815,
-  "lng": 8.8737207,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|7": {
-  "street": "Zürcherstrasse",
-  "hn": "7",
-  "lat": 47.5524973,
-  "lng": 8.8734859,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|5": {
-  "street": "Zürcherstrasse",
-  "hn": "5",
-  "lat": 47.5526537,
-  "lng": 8.8730543,
-  "mieter": []
- },
- "frauenfeld|rheinstrasse|42": {
-  "street": "Rheinstrasse",
-  "hn": "42",
-  "lat": 47.5598022,
-  "lng": 8.8916694,
-  "mieter": []
- },
  "frauenfeld|rheinstrasse|30": {
   "street": "Rheinstrasse",
   "hn": "30",
@@ -556,11 +451,11 @@
   "lng": 8.8929101,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|93": {
-  "street": "Zürcherstrasse",
-  "hn": "93",
-  "lat": 47.5530206,
-  "lng": 8.8902455,
+ "frauenfeld|freie-strasse|18": {
+  "street": "Freie-Strasse",
+  "hn": "18",
+  "lat": 47.5562565,
+  "lng": 8.8982978,
   "mieter": []
  },
  "frauenfeld|promenadenstrasse|11a": {
@@ -570,230 +465,6 @@
   "lng": 8.8984524,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|36": {
-  "street": "Zürcherstrasse",
-  "hn": "36",
-  "lat": 47.5521034,
-  "lng": 8.879582,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|36a": {
-  "street": "Zürcherstrasse",
-  "hn": "36a",
-  "lat": 47.5521023,
-  "lng": 8.8796722,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|38": {
-  "street": "Zürcherstrasse",
-  "hn": "38",
-  "lat": 47.5521022,
-  "lng": 8.8798937,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|38a": {
-  "street": "Zürcherstrasse",
-  "hn": "38a",
-  "lat": 47.5521012,
-  "lng": 8.8799812,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|40": {
-  "street": "Zürcherstrasse",
-  "hn": "40",
-  "lat": 47.552102,
-  "lng": 8.8801946,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|40a": {
-  "street": "Zürcherstrasse",
-  "hn": "40a",
-  "lat": 47.5521009,
-  "lng": 8.8802857,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|42": {
-  "street": "Zürcherstrasse",
-  "hn": "42",
-  "lat": 47.5520983,
-  "lng": 8.8805099,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|42a": {
-  "street": "Zürcherstrasse",
-  "hn": "42a",
-  "lat": 47.5520973,
-  "lng": 8.8805928,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|46a": {
-  "street": "Zürcherstrasse",
-  "hn": "46a",
-  "lat": 47.5520683,
-  "lng": 8.8812047,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|46": {
-  "street": "Zürcherstrasse",
-  "hn": "46",
-  "lat": 47.5520683,
-  "lng": 8.8811144,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|44": {
-  "street": "Zürcherstrasse",
-  "hn": "44",
-  "lat": 47.5520993,
-  "lng": 8.8808035,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|44a": {
-  "street": "Zürcherstrasse",
-  "hn": "44a",
-  "lat": 47.5520982,
-  "lng": 8.8808937,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|66": {
-  "street": "Zürcherstrasse",
-  "hn": "66",
-  "lat": 47.5524012,
-  "lng": 8.8855714,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|68": {
-  "street": "Zürcherstrasse",
-  "hn": "68",
-  "lat": 47.5524172,
-  "lng": 8.8858164,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|70": {
-  "street": "Zürcherstrasse",
-  "hn": "70",
-  "lat": 47.5524335,
-  "lng": 8.8860666,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|72": {
-  "street": "Zürcherstrasse",
-  "hn": "72",
-  "lat": 47.552451,
-  "lng": 8.8863336,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|74": {
-  "street": "Zürcherstrasse",
-  "hn": "74",
-  "lat": 47.5524696,
-  "lng": 8.8866197,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|76": {
-  "street": "Zürcherstrasse",
-  "hn": "76",
-  "lat": 47.5524888,
-  "lng": 8.8869127,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|86": {
-  "street": "Zürcherstrasse",
-  "hn": "86",
-  "lat": 47.5524094,
-  "lng": 8.8895011,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|84a": {
-  "street": "Zürcherstrasse",
-  "hn": "84a",
-  "lat": 47.5518752,
-  "lng": 8.8894945,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|84": {
-  "street": "Zürcherstrasse",
-  "hn": "84",
-  "lat": 47.5523952,
-  "lng": 8.888685,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|100": {
-  "street": "Zürcherstrasse",
-  "hn": "100",
-  "lat": 47.5529792,
-  "lng": 8.8914163,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|98": {
-  "street": "Zürcherstrasse",
-  "hn": "98",
-  "lat": 47.5528744,
-  "lng": 8.8911736,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|104": {
-  "street": "Zürcherstrasse",
-  "hn": "104",
-  "lat": 47.5531537,
-  "lng": 8.892022,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|102": {
-  "street": "Zürcherstrasse",
-  "hn": "102",
-  "lat": 47.5530862,
-  "lng": 8.8917513,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|18": {
-  "street": "Zürcherstrasse",
-  "hn": "18",
-  "lat": 47.5521257,
-  "lng": 8.8751194,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|20": {
-  "street": "Zürcherstrasse",
-  "hn": "20",
-  "lat": 47.5521226,
-  "lng": 8.8753609,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|14": {
-  "street": "Zürcherstrasse",
-  "hn": "14",
-  "lat": 47.5521237,
-  "lng": 8.8743618,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|16": {
-  "street": "Zürcherstrasse",
-  "hn": "16",
-  "lat": 47.5521011,
-  "lng": 8.8745859,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|323": {
-  "street": "Zürcherstrasse",
-  "hn": "323",
-  "lat": 47.5656654,
-  "lng": 8.9114063,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|335": {
-  "street": "Zürcherstrasse",
-  "hn": "335",
-  "lat": 47.5668504,
-  "lng": 8.9134721,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|333": {
-  "street": "Zürcherstrasse",
-  "hn": "333",
-  "lat": 47.5665876,
-  "lng": 8.9132052,
-  "mieter": []
- },
  "frauenfeld|bahnhofplatz|70": {
   "street": "Bahnhofplatz",
   "hn": "70",
@@ -801,28 +472,19 @@
   "lng": 8.8957949,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|287": {
-  "street": "Zürcherstrasse",
-  "hn": "287",
-  "lat": 47.5631136,
-  "lng": 8.9074975,
+ "frauenfeld|bahnhofstrasse|78": {
+  "street": "Bahnhofstrasse",
+  "hn": "78",
+  "lat": 47.5584768,
+  "lng": 8.897732,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|285": {
-  "street": "Zürcherstrasse",
-  "hn": "285",
-  "lat": 47.5630361,
-  "lng": 8.9073622,
+ "frauenfeld|bahnhofstrasse|80": {
+  "street": "Bahnhofstrasse",
+  "hn": "80",
+  "lat": 47.5588663,
+  "lng": 8.8982917,
   "mieter": []
- },
- "frauenfeld|zürcherstrasse|310": {
-  "street": "Zürcherstrasse",
-  "hn": "310",
-  "lat": 47.5650788,
-  "lng": 8.9115636,
-  "mieter": [
-   "Goldinger IT GmbH"
-  ]
  },
  "frauenfeld|bahnhofplatz|80": {
   "street": "Bahnhofplatz",
@@ -847,27 +509,6 @@
   "hn": "228",
   "lat": 47.5595417,
   "lng": 8.9012846,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|114a": {
-  "street": "Zürcherstrasse",
-  "hn": "114a",
-  "lat": 47.5534794,
-  "lng": 8.8933756,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|112a": {
-  "street": "Zürcherstrasse",
-  "hn": "112a",
-  "lat": 47.5534334,
-  "lng": 8.8931811,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|110a": {
-  "street": "Zürcherstrasse",
-  "hn": "110a",
-  "lat": 47.5534002,
-  "lng": 8.8931417,
   "mieter": []
  },
  "frauenfeld|zürcherstrasse|138b": {
@@ -1059,6 +700,34 @@
   "lng": 8.89757,
   "mieter": []
  },
+ "frauenfeld|freie-strasse|13": {
+  "street": "Freie-Strasse",
+  "hn": "13",
+  "lat": 47.5559646,
+  "lng": 8.8978744,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|11": {
+  "street": "Freie-Strasse",
+  "hn": "11",
+  "lat": 47.555909,
+  "lng": 8.8978437,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|4": {
+  "street": "Freie-Strasse",
+  "hn": "4",
+  "lat": 47.5555756,
+  "lng": 8.8978614,
+  "mieter": []
+ },
+ "frauenfeld|rathausplatz|5": {
+  "street": "Rathausplatz",
+  "hn": "5",
+  "lat": 47.5555233,
+  "lng": 8.8979164,
+  "mieter": []
+ },
  "frauenfeld|promenadenstrasse|2": {
   "street": "Promenadenstrasse",
   "hn": "2",
@@ -1115,46 +784,53 @@
   "lng": 8.9012103,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|249": {
-  "street": "Zürcherstrasse",
-  "hn": "249",
-  "lat": 47.5605487,
-  "lng": 8.9030161,
+ "frauenfeld|bahnhofstrasse|88": {
+  "street": "Bahnhofstrasse",
+  "hn": "88",
+  "lat": 47.560404,
+  "lng": 8.9007418,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|266": {
-  "street": "Zürcherstrasse",
-  "hn": "266",
-  "lat": 47.561121,
-  "lng": 8.9048556,
+ "frauenfeld|bahnhofstrasse|88a": {
+  "street": "Bahnhofstrasse",
+  "hn": "88a",
+  "lat": 47.5602192,
+  "lng": 8.9006155,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|266a": {
-  "street": "Zürcherstrasse",
-  "hn": "266a",
-  "lat": 47.5612118,
-  "lng": 8.9048444,
+ "frauenfeld|bahnhofstrasse|88b": {
+  "street": "Bahnhofstrasse",
+  "hn": "88b",
+  "lat": 47.5603072,
+  "lng": 8.9007994,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|350": {
-  "street": "Zürcherstrasse",
-  "hn": "350",
-  "lat": 47.567332,
-  "lng": 8.9161834,
+ "frauenfeld|bahnhofstrasse|88c": {
+  "street": "Bahnhofstrasse",
+  "hn": "88c",
+  "lat": 47.5603904,
+  "lng": 8.9009925,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|67": {
-  "street": "Zürcherstrasse",
-  "hn": "67",
-  "lat": 47.5527415,
-  "lng": 8.8843662,
+ "frauenfeld|bahnhofstrasse|92": {
+  "street": "Bahnhofstrasse",
+  "hn": "92",
+  "lat": 47.5607074,
+  "lng": 8.9016388,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|65": {
-  "street": "Zürcherstrasse",
-  "hn": "65",
-  "lat": 47.552599,
-  "lng": 8.8841524,
+ "frauenfeld|bahnhofstrasse|100": {
+  "street": "Bahnhofstrasse",
+  "hn": "100",
+  "lat": 47.5609676,
+  "lng": 8.9027989,
+  "mieter": []
+ },
+ "frauenfeld|bahnhofstrasse|102": {
+  "street": "Bahnhofstrasse",
+  "hn": "102",
+  "lat": 47.5609807,
+  "lng": 8.9035625,
   "mieter": []
  },
  "frauenfeld|bankplatz|3": {
@@ -1191,49 +867,12 @@
    "St. Nikolaus"
   ]
  },
- "frauenfeld|zürcherstrasse|327a": {
-  "street": "Zürcherstrasse",
-  "hn": "327a",
-  "lat": 47.5664197,
-  "lng": 8.9116433,
+ "frauenfeld|bahnhofstrasse|89": {
+  "street": "Bahnhofstrasse",
+  "hn": "89",
+  "lat": 47.5607648,
+  "lng": 8.9007657,
   "mieter": []
- },
- "frauenfeld|zürcherstrasse|331": {
-  "street": "Zürcherstrasse",
-  "hn": "331",
-  "lat": 47.5666783,
-  "lng": 8.9124426,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|330": {
-  "street": "Zürcherstrasse",
-  "hn": "330",
-  "lat": 47.5660881,
-  "lng": 8.9133199,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|332": {
-  "street": "Zürcherstrasse",
-  "hn": "332",
-  "lat": 47.5664497,
-  "lng": 8.9137987,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|334": {
-  "street": "Zürcherstrasse",
-  "hn": "334",
-  "lat": 47.5665953,
-  "lng": 8.9143199,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|125": {
-  "street": "Zürcherstrasse",
-  "hn": "125",
-  "lat": 47.5540285,
-  "lng": 8.8940399,
-  "mieter": [
-   "Barone"
-  ]
  },
  "frauenfeld|promenadenstrasse|12a": {
   "street": "Promenadenstrasse",
@@ -1288,32 +927,11 @@
   "lng": 8.9000188,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|120": {
-  "street": "Zürcherstrasse",
-  "hn": "120",
-  "lat": 47.5537177,
-  "lng": 8.8939198,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|132": {
-  "street": "Zürcherstrasse",
-  "hn": "132",
-  "lat": 47.5539501,
-  "lng": 8.8947902,
-  "mieter": []
- },
  "frauenfeld|zürcherstrasse|146": {
   "street": "Zürcherstrasse",
   "hn": "146",
   "lat": 47.5546559,
   "lng": 8.8961762,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|122": {
-  "street": "Zürcherstrasse",
-  "hn": "122",
-  "lat": 47.5537583,
-  "lng": 8.894125,
   "mieter": []
  },
  "frauenfeld|zürcherstrasse|242": {
@@ -1330,279 +948,18 @@
   "lng": 8.9024747,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|250": {
-  "street": "Zürcherstrasse",
-  "hn": "250",
-  "lat": 47.5602771,
-  "lng": 8.90311,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|60": {
-  "street": "Zürcherstrasse",
-  "hn": "60",
-  "lat": 47.5521942,
-  "lng": 8.8837072,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|64": {
-  "street": "Zürcherstrasse",
-  "hn": "64",
-  "lat": 47.5522026,
-  "lng": 8.8843861,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|82a;82": {
-  "street": "Zürcherstrasse",
-  "hn": "82a;82",
-  "lat": 47.5521596,
-  "lng": 8.8881506,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|54": {
-  "street": "Zürcherstrasse",
-  "hn": "54",
-  "lat": 47.5521432,
-  "lng": 8.8827726,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|56": {
-  "street": "Zürcherstrasse",
-  "hn": "56",
-  "lat": 47.5521581,
-  "lng": 8.8830482,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|50": {
-  "street": "Zürcherstrasse",
-  "hn": "50",
-  "lat": 47.5521126,
-  "lng": 8.8820894,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|52": {
-  "street": "Zürcherstrasse",
-  "hn": "52",
-  "lat": 47.5521269,
-  "lng": 8.8823134,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|34": {
-  "street": "Zürcherstrasse",
-  "hn": "34",
-  "lat": 47.5520152,
-  "lng": 8.8792127,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|32": {
-  "street": "Zürcherstrasse",
-  "hn": "32",
-  "lat": 47.5520393,
-  "lng": 8.8786487,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|48": {
-  "street": "Zürcherstrasse",
-  "hn": "48",
-  "lat": 47.5520566,
-  "lng": 8.8814923,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|12": {
-  "street": "Zürcherstrasse",
-  "hn": "12",
-  "lat": 47.552136,
-  "lng": 8.8739439,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|28": {
-  "street": "Zürcherstrasse",
-  "hn": "28",
-  "lat": 47.5520674,
-  "lng": 8.8775129,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|2": {
-  "street": "Zürcherstrasse",
-  "hn": "2",
-  "lat": 47.5521781,
-  "lng": 8.8718054,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|8": {
-  "street": "Zürcherstrasse",
-  "hn": "8",
-  "lat": 47.5521387,
-  "lng": 8.8732749,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|10": {
-  "street": "Zürcherstrasse",
-  "hn": "10",
-  "lat": 47.5521256,
-  "lng": 8.8735568,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|11": {
-  "street": "Zürcherstrasse",
-  "hn": "11",
-  "lat": 47.5524791,
-  "lng": 8.8741997,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|23": {
-  "street": "Zürcherstrasse",
-  "hn": "23",
-  "lat": 47.5523826,
-  "lng": 8.8766867,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|21a": {
-  "street": "Zürcherstrasse",
-  "hn": "21a",
-  "lat": 47.5525741,
-  "lng": 8.8763056,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|45": {
-  "street": "Zürcherstrasse",
+ "frauenfeld|bahnhofstrasse|45": {
+  "street": "Bahnhofstrasse",
   "hn": "45",
-  "lat": 47.5523998,
-  "lng": 8.8806084,
+  "lat": 47.5554299,
+  "lng": 8.8913656,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|25": {
-  "street": "Zürcherstrasse",
-  "hn": "25",
-  "lat": 47.5523867,
-  "lng": 8.8770924,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|21": {
-  "street": "Zürcherstrasse",
-  "hn": "21",
-  "lat": 47.5523819,
-  "lng": 8.8762034,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|15": {
-  "street": "Zürcherstrasse",
-  "hn": "15",
-  "lat": 47.5524412,
-  "lng": 8.875178,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|17": {
-  "street": "Zürcherstrasse",
-  "hn": "17",
-  "lat": 47.5524893,
-  "lng": 8.8755611,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|19": {
-  "street": "Zürcherstrasse",
-  "hn": "19",
-  "lat": 47.5524711,
-  "lng": 8.8757827,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|59": {
-  "street": "Zürcherstrasse",
-  "hn": "59",
-  "lat": 47.5524954,
-  "lng": 8.8834993,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|61": {
-  "street": "Zürcherstrasse",
-  "hn": "61",
-  "lat": 47.5525145,
-  "lng": 8.8838065,
-  "mieter": [
-   "sonne-beck"
-  ]
- },
- "frauenfeld|zürcherstrasse|57": {
-  "street": "Zürcherstrasse",
-  "hn": "57",
-  "lat": 47.552488,
-  "lng": 8.8831838,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|57a": {
-  "street": "Zürcherstrasse",
-  "hn": "57a",
-  "lat": 47.552886,
-  "lng": 8.8834963,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|63": {
-  "street": "Zürcherstrasse",
-  "hn": "63",
-  "lat": 47.552738,
-  "lng": 8.8838205,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|87": {
-  "street": "Zürcherstrasse",
-  "hn": "87",
-  "lat": 47.5528663,
-  "lng": 8.8891359,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|85": {
-  "street": "Zürcherstrasse",
-  "hn": "85",
-  "lat": 47.5528205,
-  "lng": 8.8889144,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|79": {
-  "street": "Zürcherstrasse",
-  "hn": "79",
-  "lat": 47.5527692,
-  "lng": 8.8876707,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|91": {
-  "street": "Zürcherstrasse",
-  "hn": "91",
-  "lat": 47.5529299,
-  "lng": 8.8897866,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|95": {
-  "street": "Zürcherstrasse",
-  "hn": "95",
-  "lat": 47.5530057,
-  "lng": 8.8907245,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|83": {
-  "street": "Zürcherstrasse",
-  "hn": "83",
-  "lat": 47.5528469,
-  "lng": 8.8885071,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|105": {
-  "street": "Zürcherstrasse",
-  "hn": "105",
-  "lat": 47.553432,
-  "lng": 8.8919009,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|75": {
-  "street": "Zürcherstrasse",
-  "hn": "75",
-  "lat": 47.5527425,
-  "lng": 8.8867668,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|77": {
-  "street": "Zürcherstrasse",
-  "hn": "77",
-  "lat": 47.5527395,
-  "lng": 8.8869856,
+ "frauenfeld|bahnhofstrasse|49": {
+  "street": "Bahnhofstrasse",
+  "hn": "49",
+  "lat": 47.5553847,
+  "lng": 8.891951,
   "mieter": []
  },
  "frauenfeld|zürcherstrasse|139a": {
@@ -1640,13 +997,6 @@
   "lng": 8.8951742,
   "mieter": []
  },
- "frauenfeld|rheinstrasse|31": {
-  "street": "Rheinstrasse",
-  "hn": "31",
-  "lat": 47.5586075,
-  "lng": 8.8926006,
-  "mieter": []
- },
  "frauenfeld|rheinstrasse|29": {
   "street": "Rheinstrasse",
   "hn": "29",
@@ -1661,46 +1011,11 @@
   "lng": 8.8934977,
   "mieter": []
  },
- "frauenfeld|rheinstrasse|50": {
-  "street": "Rheinstrasse",
-  "hn": "50",
-  "lat": 47.560618,
-  "lng": 8.8909812,
-  "mieter": []
- },
- "frauenfeld|rheinstrasse|43": {
-  "street": "Rheinstrasse",
-  "hn": "43",
-  "lat": 47.5597541,
-  "lng": 8.8911518,
-  "mieter": []
- },
- "frauenfeld|rheinstrasse|48": {
-  "street": "Rheinstrasse",
-  "hn": "48",
-  "lat": 47.5603123,
-  "lng": 8.8909463,
-  "mieter": []
- },
- "frauenfeld|rheinstrasse|41": {
-  "street": "Rheinstrasse",
-  "hn": "41",
-  "lat": 47.5596307,
-  "lng": 8.8913469,
-  "mieter": []
- },
- "frauenfeld|rheinstrasse|45": {
-  "street": "Rheinstrasse",
-  "hn": "45",
-  "lat": 47.5599394,
-  "lng": 8.8909793,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|273": {
-  "street": "Zürcherstrasse",
-  "hn": "273",
-  "lat": 47.561891,
-  "lng": 8.9054863,
+ "frauenfeld|bahnhofstrasse|90": {
+  "street": "Bahnhofstrasse",
+  "hn": "90",
+  "lat": 47.5605204,
+  "lng": 8.9013036,
   "mieter": []
  },
  "frauenfeld|zürcherstrasse|221": {
@@ -1710,195 +1025,18 @@
   "lng": 8.9000216,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|263": {
-  "street": "Zürcherstrasse",
-  "hn": "263",
-  "lat": 47.5610731,
-  "lng": 8.9041005,
+ "frauenfeld|bahnhofstrasse|91": {
+  "street": "Bahnhofstrasse",
+  "hn": "91",
+  "lat": 47.5609701,
+  "lng": 8.9011771,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|265": {
-  "street": "Zürcherstrasse",
-  "hn": "265",
-  "lat": 47.5612329,
-  "lng": 8.9044517,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|269": {
-  "street": "Zürcherstrasse",
-  "hn": "269",
-  "lat": 47.5617004,
-  "lng": 8.9050251,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|254": {
-  "street": "Zürcherstrasse",
-  "hn": "254",
-  "lat": 47.5606821,
-  "lng": 8.9041188,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|268": {
-  "street": "Zürcherstrasse",
-  "hn": "268",
-  "lat": 47.5613079,
-  "lng": 8.9051727,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|272": {
-  "street": "Zürcherstrasse",
-  "hn": "272",
-  "lat": 47.5616735,
-  "lng": 8.9057634,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|304": {
-  "street": "Zürcherstrasse",
-  "hn": "304",
-  "lat": 47.5641848,
-  "lng": 8.9100335,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|282": {
-  "street": "Zürcherstrasse",
-  "hn": "282",
-  "lat": 47.5623749,
-  "lng": 8.9072449,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|304a": {
-  "street": "Zürcherstrasse",
-  "hn": "304a",
-  "lat": 47.5640013,
-  "lng": 8.9102812,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|303": {
-  "street": "Zürcherstrasse",
-  "hn": "303",
-  "lat": 47.5645138,
-  "lng": 8.9096769,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|302": {
-  "street": "Zürcherstrasse",
-  "hn": "302",
-  "lat": 47.5639951,
-  "lng": 8.9098335,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|300a": {
-  "street": "Zürcherstrasse",
-  "hn": "300a",
-  "lat": 47.5636389,
-  "lng": 8.9097992,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|308": {
-  "street": "Zürcherstrasse",
-  "hn": "308",
-  "lat": 47.5645774,
-  "lng": 8.9110298,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|286": {
-  "street": "Zürcherstrasse",
-  "hn": "286",
-  "lat": 47.5627312,
-  "lng": 8.9076809,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|354": {
-  "street": "Zürcherstrasse",
-  "hn": "354",
-  "lat": 47.5679303,
-  "lng": 8.9165016,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|371": {
-  "street": "Zürcherstrasse",
-  "hn": "371",
-  "lat": 47.5699262,
-  "lng": 8.9184149,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|377": {
-  "street": "Zürcherstrasse",
-  "hn": "377",
-  "lat": 47.5704602,
-  "lng": 8.920241,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|370": {
-  "street": "Zürcherstrasse",
-  "hn": "370",
-  "lat": 47.5692506,
-  "lng": 8.9189026,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|353": {
-  "street": "Zürcherstrasse",
-  "hn": "353",
-  "lat": 47.5683879,
-  "lng": 8.9161566,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|380": {
-  "street": "Zürcherstrasse",
-  "hn": "380",
-  "lat": 47.5696782,
-  "lng": 8.9214139,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|353e": {
-  "street": "Zürcherstrasse",
-  "hn": "353e",
-  "lat": 47.5686848,
-  "lng": 8.9165632,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|349": {
-  "street": "Zürcherstrasse",
-  "hn": "349",
-  "lat": 47.567947,
-  "lng": 8.9153343,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|353a": {
-  "street": "Zürcherstrasse",
-  "hn": "353a",
-  "lat": 47.568344,
-  "lng": 8.9152505,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|353c": {
-  "street": "Zürcherstrasse",
-  "hn": "353c",
-  "lat": 47.5688199,
-  "lng": 8.9157825,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|379": {
-  "street": "Zürcherstrasse",
-  "hn": "379",
-  "lat": 47.5702355,
-  "lng": 8.9210263,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|381": {
-  "street": "Zürcherstrasse",
-  "hn": "381",
-  "lat": 47.5706481,
-  "lng": 8.9215052,
-  "mieter": [
-   "Landi"
-  ]
- },
- "frauenfeld|zürcherstrasse|353b": {
-  "street": "Zürcherstrasse",
-  "hn": "353b",
-  "lat": 47.5685601,
-  "lng": 8.9156161,
+ "frauenfeld|bahnhofstrasse|103": {
+  "street": "Bahnhofstrasse",
+  "hn": "103",
+  "lat": 47.5613448,
+  "lng": 8.9034884,
   "mieter": []
  },
  "frauenfeld|rheinstrasse|8": {
@@ -1920,6 +1058,13 @@
   "hn": "25",
   "lat": 47.5575784,
   "lng": 8.8938851,
+  "mieter": []
+ },
+ "frauenfeld|bahnhofstrasse|61": {
+  "street": "Bahnhofstrasse",
+  "hn": "61",
+  "lat": 47.5567054,
+  "lng": 8.8946555,
   "mieter": []
  },
  "frauenfeld|rheinstrasse|14": {
@@ -1971,6 +1116,22 @@
   "lng": 8.8961092,
   "mieter": []
  },
+ "frauenfeld|freie-strasse|12": {
+  "street": "Freie-Strasse",
+  "hn": "12",
+  "lat": 47.5559525,
+  "lng": 8.8983125,
+  "mieter": [
+   "Evangelische Stadtkirche"
+  ]
+ },
+ "frauenfeld|rathausplatz|4": {
+  "street": "Rathausplatz",
+  "hn": "4",
+  "lat": 47.555261,
+  "lng": 8.8975128,
+  "mieter": []
+ },
  "frauenfeld|zürcherstrasse|177": {
   "street": "Zürcherstrasse",
   "hn": "177",
@@ -1983,20 +1144,6 @@
   "hn": "5",
   "lat": 47.5569039,
   "lng": 8.8988289,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|288a": {
-  "street": "Zürcherstrasse",
-  "hn": "288a",
-  "lat": 47.5630056,
-  "lng": 8.9081511,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|280": {
-  "street": "Zürcherstrasse",
-  "hn": "280",
-  "lat": 47.5623275,
-  "lng": 8.9069342,
   "mieter": []
  },
  "frauenfeld|zürcherstrasse|238": {
@@ -2027,25 +1174,11 @@
   "lng": 8.8952592,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|128": {
-  "street": "Zürcherstrasse",
-  "hn": "128",
-  "lat": 47.5539184,
-  "lng": 8.8944577,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|134": {
-  "street": "Zürcherstrasse",
-  "hn": "134",
-  "lat": 47.5541054,
-  "lng": 8.8951428,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|245": {
-  "street": "Zürcherstrasse",
-  "hn": "245",
-  "lat": 47.5605253,
-  "lng": 8.9026789,
+ "frauenfeld|bahnhofstrasse|51": {
+  "street": "Bahnhofstrasse",
+  "hn": "51",
+  "lat": 47.5559412,
+  "lng": 8.8931399,
   "mieter": []
  },
  "frauenfeld|zürcherstrasse|231": {
@@ -2097,46 +1230,25 @@
   "lng": 8.9015658,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|247": {
-  "street": "Zürcherstrasse",
-  "hn": "247",
-  "lat": 47.560547,
-  "lng": 8.9027816,
+ "frauenfeld|bahnhofstrasse|93": {
+  "street": "Bahnhofstrasse",
+  "hn": "93",
+  "lat": 47.5609781,
+  "lng": 8.9015213,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|106": {
-  "street": "Zürcherstrasse",
-  "hn": "106",
-  "lat": 47.5532363,
-  "lng": 8.8925067,
+ "frauenfeld|bahnhofstrasse|95": {
+  "street": "Bahnhofstrasse",
+  "hn": "95",
+  "lat": 47.5610047,
+  "lng": 8.9016197,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|106a": {
-  "street": "Zürcherstrasse",
-  "hn": "106a",
-  "lat": 47.5530911,
-  "lng": 8.8926203,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|124": {
-  "street": "Zürcherstrasse",
-  "hn": "124",
-  "lat": 47.5537951,
-  "lng": 8.8942268,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|126": {
-  "street": "Zürcherstrasse",
-  "hn": "126",
-  "lat": 47.5538058,
-  "lng": 8.8943127,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|53": {
-  "street": "Zürcherstrasse",
-  "hn": "53",
-  "lat": 47.5524594,
-  "lng": 8.8822733,
+ "frauenfeld|bahnhofstrasse|45a": {
+  "street": "Bahnhofstrasse",
+  "hn": "45a",
+  "lat": 47.55523,
+  "lng": 8.891394,
   "mieter": []
  },
  "frauenfeld|zürcherstrasse|200": {
@@ -2167,20 +1279,18 @@
   "lng": 8.8999268,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|281": {
-  "street": "Zürcherstrasse",
-  "hn": "281",
-  "lat": 47.5629699,
-  "lng": 8.9070255,
-  "mieter": [
-   "Volvo"
-  ]
- },
  "frauenfeld|zürcherstrasse|180": {
   "street": "Zürcherstrasse",
   "hn": "180",
   "lat": 47.5568434,
   "lng": 8.8981114,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|10": {
+  "street": "Freie-Strasse",
+  "hn": "10",
+  "lat": 47.5558085,
+  "lng": 8.8982819,
   "mieter": []
  },
  "frauenfeld|zürcherstrasse|151": {
@@ -2323,6 +1433,20 @@
   "lng": 8.896861,
   "mieter": []
  },
+ "frauenfeld|freie-strasse|6": {
+  "street": "Freie-Strasse",
+  "hn": "6",
+  "lat": 47.5556538,
+  "lng": 8.8979503,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|8": {
+  "street": "Freie-Strasse",
+  "hn": "8",
+  "lat": 47.5557254,
+  "lng": 8.8981261,
+  "mieter": []
+ },
  "frauenfeld|zürcherstrasse|162": {
   "street": "Zürcherstrasse",
   "hn": "162",
@@ -2331,6 +1455,146 @@
   "mieter": [
    "Raiffeisen"
   ]
+ },
+ "frauenfeld|freie-strasse|15": {
+  "street": "Freie-Strasse",
+  "hn": "15",
+  "lat": 47.5561999,
+  "lng": 8.8979056,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|16": {
+  "street": "Freie-Strasse",
+  "hn": "16",
+  "lat": 47.5561565,
+  "lng": 8.8983127,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|17": {
+  "street": "Freie-Strasse",
+  "hn": "17",
+  "lat": 47.5562826,
+  "lng": 8.8979633,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|19": {
+  "street": "Freie-Strasse",
+  "hn": "19",
+  "lat": 47.5563549,
+  "lng": 8.8980159,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|21": {
+  "street": "Freie-Strasse",
+  "hn": "21",
+  "lat": 47.5564098,
+  "lng": 8.8980548,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|23": {
+  "street": "Freie-Strasse",
+  "hn": "23",
+  "lat": 47.5564591,
+  "lng": 8.8980971,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|25": {
+  "street": "Freie-Strasse",
+  "hn": "25",
+  "lat": 47.5565189,
+  "lng": 8.898148,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|26": {
+  "street": "Freie-Strasse",
+  "hn": "26",
+  "lat": 47.5565781,
+  "lng": 8.8986498,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|27": {
+  "street": "Freie-Strasse",
+  "hn": "27",
+  "lat": 47.5565768,
+  "lng": 8.8981965,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|29": {
+  "street": "Freie-Strasse",
+  "hn": "29",
+  "lat": 47.556632,
+  "lng": 8.8982451,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|31": {
+  "street": "Freie-Strasse",
+  "hn": "31",
+  "lat": 47.5566887,
+  "lng": 8.898296,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|33": {
+  "street": "Freie-Strasse",
+  "hn": "33",
+  "lat": 47.5567521,
+  "lng": 8.8983516,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|3": {
+  "street": "Freie-Strasse",
+  "hn": "3",
+  "lat": 47.5556532,
+  "lng": 8.8976111,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|5": {
+  "street": "Freie-Strasse",
+  "hn": "5",
+  "lat": 47.5557247,
+  "lng": 8.8976457,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|7": {
+  "street": "Freie-Strasse",
+  "hn": "7",
+  "lat": 47.5557879,
+  "lng": 8.8976783,
+  "mieter": []
+ },
+ "frauenfeld|freie-strasse|9": {
+  "street": "Freie-Strasse",
+  "hn": "9",
+  "lat": 47.5558626,
+  "lng": 8.8977173,
+  "mieter": []
+ },
+ "frauenfeld|bahnhofstrasse|81": {
+  "street": "Bahnhofstrasse",
+  "hn": "81",
+  "lat": 47.5602265,
+  "lng": 8.899863,
+  "mieter": []
+ },
+ "frauenfeld|bahnhofstrasse|83": {
+  "street": "Bahnhofstrasse",
+  "hn": "83",
+  "lat": 47.5602808,
+  "lng": 8.8998868,
+  "mieter": []
+ },
+ "frauenfeld|bahnhofstrasse|87": {
+  "street": "Bahnhofstrasse",
+  "hn": "87",
+  "lat": 47.5605521,
+  "lng": 8.9004118,
+  "mieter": []
+ },
+ "frauenfeld|bahnhofstrasse|85": {
+  "street": "Bahnhofstrasse",
+  "hn": "85",
+  "lat": 47.5604623,
+  "lng": 8.9002164,
+  "mieter": []
  },
  "frauenfeld|rheinstrasse|22": {
   "street": "Rheinstrasse",
@@ -2346,25 +1610,11 @@
   "lng": 8.8944663,
   "mieter": []
  },
- "frauenfeld|rheinstrasse|46": {
-  "street": "Rheinstrasse",
-  "hn": "46",
-  "lat": 47.5602283,
-  "lng": 8.891163,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|376": {
-  "street": "Zürcherstrasse",
-  "hn": "376",
-  "lat": 47.5696101,
-  "lng": 8.9202449,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|378": {
-  "street": "Zürcherstrasse",
-  "hn": "378",
-  "lat": 47.5696715,
-  "lng": 8.9207521,
+ "frauenfeld|bahnhofstrasse|79": {
+  "street": "Bahnhofstrasse",
+  "hn": "79",
+  "lat": 47.559578,
+  "lng": 8.898884,
   "mieter": []
  },
  "frauenfeld|promenadenstrasse|3": {
@@ -2374,46 +1624,11 @@
   "lng": 8.8981738,
   "mieter": []
  },
- "frauenfeld|zürcherstrasse|284": {
-  "street": "Zürcherstrasse",
-  "hn": "284",
-  "lat": 47.5627156,
-  "lng": 8.9074128,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|373": {
-  "street": "Zürcherstrasse",
-  "hn": "373",
-  "lat": 47.5702239,
-  "lng": 8.9192009,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|4": {
-  "street": "Zürcherstrasse",
-  "hn": "4",
-  "lat": 47.5521677,
-  "lng": 8.8719823,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|85a": {
-  "street": "Zürcherstrasse",
-  "hn": "85a",
-  "lat": 47.5529008,
-  "lng": 8.8888759,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|73": {
-  "street": "Zürcherstrasse",
-  "hn": "73",
-  "lat": 47.5527143,
-  "lng": 8.8863247,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|55": {
-  "street": "Zürcherstrasse",
-  "hn": "55",
-  "lat": 47.5524729,
-  "lng": 8.8829579,
+ "frauenfeld|bahnhofstrasse|47": {
+  "street": "Bahnhofstrasse",
+  "hn": "47",
+  "lat": 47.5554812,
+  "lng": 8.8917347,
   "mieter": []
  },
  "frauenfeld|zürcherstrasse|208a": {
@@ -2430,25 +1645,18 @@
   "lng": 8.8985752,
   "mieter": []
  },
+ "frauenfeld|rathausplatz|8": {
+  "street": "Rathausplatz",
+  "hn": "8",
+  "lat": 47.5553237,
+  "lng": 8.8978587,
+  "mieter": []
+ },
  "frauenfeld|zürcherstrasse|235a": {
   "street": "Zürcherstrasse",
   "hn": "235a",
   "lat": 47.5600677,
   "lng": 8.9013342,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|271": {
-  "street": "Zürcherstrasse",
-  "hn": "271",
-  "lat": 47.561757,
-  "lng": 8.9052014,
-  "mieter": []
- },
- "frauenfeld|zürcherstrasse|301": {
-  "street": "Zürcherstrasse",
-  "hn": "301",
-  "lat": 47.564446,
-  "lng": 8.9093153,
   "mieter": []
  },
  "frauenfeld|rheinstrasse|17": {
