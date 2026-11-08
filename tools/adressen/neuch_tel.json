@@ -95,6 +95,24 @@
    "Payot"
   ]
  },
+ "neuchâtel|rue du trésor|4": {
+  "street": "Rue du Trésor",
+  "hn": "4",
+  "lat": 46.9910366,
+  "lng": 6.928556,
+  "mieter": [
+   "OKAPI Great Food & Coffee"
+  ]
+ },
+ "neuchâtel|grand rue|1": {
+  "street": "Grand Rue",
+  "hn": "1",
+  "lat": 46.9918807,
+  "lng": 6.9288951,
+  "mieter": [
+   "Mister Minit"
+  ]
+ },
  "neuchâtel|rue du seyon|23": {
   "street": "Rue du Seyon",
   "hn": "23",
@@ -152,6 +170,71 @@
    "Woddey - Suchard"
   ]
  },
+ "neuchâtel|grand rue|2": {
+  "street": "Grand Rue",
+  "hn": "2",
+  "lat": 46.9919533,
+  "lng": 6.9292372,
+  "mieter": [
+   "Fielmann"
+  ]
+ },
+ "neuchâtel|grand-rue|1": {
+  "street": "Grand-Rue",
+  "hn": "1",
+  "lat": 46.9919144,
+  "lng": 6.9289835,
+  "mieter": []
+ },
+ "neuchâtel|grand-rue|10": {
+  "street": "Grand-Rue",
+  "hn": "10",
+  "lat": 46.9922078,
+  "lng": 6.928946,
+  "mieter": []
+ },
+ "neuchâtel|grand-rue|1a": {
+  "street": "Grand-Rue",
+  "hn": "1a",
+  "lat": 46.9919556,
+  "lng": 6.9289578,
+  "mieter": []
+ },
+ "neuchâtel|grand-rue|6": {
+  "street": "Grand-Rue",
+  "hn": "6",
+  "lat": 46.9920453,
+  "lng": 6.9290842,
+  "mieter": []
+ },
+ "neuchâtel|grand-rue|7": {
+  "street": "Grand-Rue",
+  "hn": "7",
+  "lat": 46.992139,
+  "lng": 6.9288306,
+  "mieter": []
+ },
+ "neuchâtel|grand-rue|8": {
+  "street": "Grand-Rue",
+  "hn": "8",
+  "lat": 46.9921352,
+  "lng": 6.9289903,
+  "mieter": []
+ },
+ "neuchâtel|grand-rue|9": {
+  "street": "Grand-Rue",
+  "hn": "9",
+  "lat": 46.9921841,
+  "lng": 6.9287939,
+  "mieter": []
+ },
+ "neuchâtel|rue du trésor|2 bis": {
+  "street": "Rue du Trésor",
+  "hn": "2 bis",
+  "lat": 46.991208,
+  "lng": 6.9286438,
+  "mieter": []
+ },
  "neuchâtel|rue du seyon|6": {
   "street": "Rue du Seyon",
   "hn": "6",
@@ -200,6 +283,25 @@
   "lng": 6.9291694,
   "mieter": []
  },
+ "neuchâtel|grand rue|8": {
+  "street": "Grand Rue",
+  "hn": "8",
+  "lat": 46.9921588,
+  "lng": 6.9290161,
+  "mieter": [
+   "Poulet Secret"
+  ]
+ },
+ "neuchâtel|rue du trésor|5": {
+  "street": "Rue du Trésor",
+  "hn": "5",
+  "lat": 46.9915936,
+  "lng": 6.9287072,
+  "mieter": [
+   "Bijoux Concept",
+   "La Fougère"
+  ]
+ },
  "neuchâtel|rue de l'hôpital|9": {
   "street": "Rue de l'Hôpital",
   "hn": "9",
@@ -228,6 +330,34 @@
   "hn": "5f",
   "lat": 46.9918814,
   "lng": 6.928693,
+  "mieter": []
+ },
+ "neuchâtel|grand-rue|5": {
+  "street": "Grand-Rue",
+  "hn": "5",
+  "lat": 46.9921124,
+  "lng": 6.9288517,
+  "mieter": []
+ },
+ "neuchâtel|grand-rue|3": {
+  "street": "Grand-Rue",
+  "hn": "3",
+  "lat": 46.992063,
+  "lng": 6.9288892,
+  "mieter": []
+ },
+ "neuchâtel|grand-rue|11": {
+  "street": "Grand-Rue",
+  "hn": "11",
+  "lat": 46.9922393,
+  "lng": 6.9287578,
+  "mieter": []
+ },
+ "neuchâtel|grand-rue|13": {
+  "street": "Grand-Rue",
+  "hn": "13",
+  "lat": 46.9923031,
+  "lng": 6.9287189,
   "mieter": []
  },
  "neuchâtel|rue du seyon|20": {
@@ -316,6 +446,36 @@
   "lng": 6.9279662,
   "mieter": []
  },
+ "neuchâtel|rue du trésor|7": {
+  "street": "Rue du Trésor",
+  "hn": "7",
+  "lat": 46.9913438,
+  "lng": 6.9287347,
+  "mieter": []
+ },
+ "neuchâtel|rue du trésor|3": {
+  "street": "Rue du Trésor",
+  "hn": "3",
+  "lat": 46.9915763,
+  "lng": 6.9286981,
+  "mieter": [
+   "Fine Sélection"
+  ]
+ },
+ "neuchâtel|rue du trésor|1a": {
+  "street": "Rue du Trésor",
+  "hn": "1a",
+  "lat": 46.9916154,
+  "lng": 6.9286824,
+  "mieter": []
+ },
+ "neuchâtel|rue du trésor|1": {
+  "street": "Rue du Trésor",
+  "hn": "1",
+  "lat": 46.9916602,
+  "lng": 6.9286613,
+  "mieter": []
+ },
  "neuchâtel|rue du seyon|5a": {
   "street": "Rue du Seyon",
   "hn": "5a",
@@ -336,6 +496,24 @@
   "lat": 46.9909366,
   "lng": 6.9289437,
   "mieter": []
+ },
+ "neuchâtel|rue du trésor|11": {
+  "street": "Rue du Trésor",
+  "hn": "11",
+  "lat": 46.991024,
+  "lng": 6.9287253,
+  "mieter": [
+   "Gelateria Fabbrica del dolce"
+  ]
+ },
+ "neuchâtel|rue du trésor|9": {
+  "street": "Rue du Trésor",
+  "hn": "9",
+  "lat": 46.9910851,
+  "lng": 6.9287805,
+  "mieter": [
+   "Damien Bize"
+  ]
  },
  "neuchâtel|rue du bassin|14": {
   "street": "Rue du Bassin",
@@ -502,6 +680,20 @@
   "hn": "16",
   "lat": 46.9919728,
   "lng": 6.929619,
+  "mieter": []
+ },
+ "neuchâtel|grand rue|6": {
+  "street": "Grand Rue",
+  "hn": "6",
+  "lat": 46.9920445,
+  "lng": 6.9291682,
+  "mieter": []
+ },
+ "neuchâtel|grand rue|10": {
+  "street": "Grand Rue",
+  "hn": "10",
+  "lat": 46.9922868,
+  "lng": 6.9289569,
   "mieter": []
  }
 }

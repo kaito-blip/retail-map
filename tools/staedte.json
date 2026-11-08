@@ -215,12 +215,15 @@
       "Rue de l'Hôpital",
       "Rue du Bassin",
       "Rue Saint-Maurice",
-      "Rue du Temple-Neuf"
+      "Rue du Temple-Neuf",
+      "Rue du Trésor",
+      "Grand-Rue",
+      "Grand Rue"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
-    "offen": "61"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4; 08.11.26: La Foncière (Hôpital 3/5), Zuordnung über gemeinsame Parzelle (Hôpital 22 UBS 1a Immo PK, Saint-Maurice 10 ERRES); Rest: SITN sitn.ne.ch (Captcha je Abfrage) oder Registre foncier SGRF, registrefoncier@ne.ch",
+    "offen": "112"
   },
   {
     "kanton": "VS",
