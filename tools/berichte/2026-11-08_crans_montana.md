@@ -17,14 +17,14 @@ Bestehender Fehler, nicht überschrieben: Rue du Prado 19 steht als `parcel` «C
 Vier Adressen sind wegen der zwei OSM-Schreibweisen doppelt angelegt (Rue du Pas de l'Ours 1a/1b, Rue Louis Antille 1/3), damit auf der Karte beide Punkte Daten zeigen. Eindeutig sind es also 188 Adressen.
 
 ## Mieter
-88 Adressen mit Mieter, davon 87 neu (122 Mieter, OSM, nicht vor Ort geprüft). 63 Adressen stammen ganz oder teilweise aus der Gebäude-Zuordnung von Läden ohne OSM-Adresse. Bei Gebäuden mit mehreren Adressen ist die nächstgelegene genommen und das in notes vermerkt (u.a. Moncler Prado 6, Julius Baer Prado 4). Edelweiss Market («Rue de Grand Palace 6» in OSM, Tippfehler) und Benetton («Rue du Grand Place 14») sind auf die amtlichen Rue-du-Grand-Place-Adressen gelegt. Die Brand-Sammelliste an Place du Marché 5 wurde durch den Ladennamen Avalanche Pro Shop ersetzt.
+88 Adressen mit Mieter, davon 87 neu (122 Mieter, OSM, nicht vor Ort geprüft). 66 Adressen stammen ganz oder teilweise aus der Gebäude-Zuordnung von Läden ohne OSM-Adresse. Bei Gebäuden mit mehreren Adressen ist die nächstgelegene genommen und das in notes vermerkt (u.a. Moncler Prado 6, Julius Baer Prado 4). Edelweiss Market («Rue de Grand Palace 6» in OSM, Tippfehler) und Benetton («Rue du Grand Place 14») sind auf die amtlichen Rue-du-Grand-Place-Adressen gelegt. Die Brand-Sammelliste an Place du Marché 5 wurde durch den Ladennamen Avalanche Pro Shop ersetzt.
 
 POIs ohne passendes Gebäude oder ausserhalb der gewählten Strassen blieben unzugeordnet, darunter Coop und Denner in Montana (andere Strassen).
 
 ## Eigentümer
 Der Register-Abgleich lief einmal, nach dem Eintragen der Mieter. Neu: **Rue du Grand-Place 12 und 14 = Investis Holding SA** (Annual Report 2025, S. 110 bis 111, dort «Grand Place 12/14», Alleineigentum; Parzelle Lens 578). Bestätigt: Route du Rawyl 10, Rue du Prado 19. UID CHE-137.077.813 und Sitz bei allen vier ergänzt.
 
-Stand: 4 von 192 mit Eigentümer, **188 offen**. Rue du Grand-Place 10 liegt auf derselben Parzelle 578 und ist nur als «vermutlich Investis, ungeprüft» in notes vermerkt. Parzelle und E-GRID sind bei allen gesetzt. Rue du Pas de l'Ours 6, Rue du Prado 2, 3, 6, Avenue de la Gare 16 fehlen im amtlichen Verzeichnis, Parzelle per OSM-Punkt.
+Stand: 4 von 192 mit Eigentümer, **188 offen** (184 ohne die vier Doppelschreibweisen). Rue du Grand-Place 10 liegt auf derselben Parzelle 578 und ist nur als «vermutlich Investis, ungeprüft» in notes vermerkt. Parzelle und E-GRID sind bei allen gesetzt. Rue du Pas de l'Ours 6, Rue du Prado 2, 3, 6, Avenue de la Gare 16 fehlen im amtlichen Verzeichnis, Parzelle per OSM-Punkt.
 
 Der Abgleich trug nebenbei 2 neue Eigentümer in anderen Städten ein (Buchs SG, Winterthur) und 2 Hinweise (St. Gallen, Zug). Dazu Konflikte in anderen Städten: 5, unverändert.
 
