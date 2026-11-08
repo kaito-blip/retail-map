@@ -4,7 +4,10 @@
   "hn": "1",
   "lat": 46.6848781,
   "lng": 7.8536912,
-  "mieter": []
+  "mieter": [
+   "Coop",
+   "Post Interlaken"
+  ]
  },
  "interlaken|höheweg|211": {
   "street": "Höheweg",
@@ -22,6 +25,13 @@
   "lng": 7.862692,
   "mieter": []
  },
+ "interlaken|rosenstrasse|29": {
+  "street": "Rosenstrasse",
+  "hn": "29",
+  "lat": 46.6851504,
+  "lng": 7.8526128,
+  "mieter": []
+ },
  "interlaken|höheweg|92-94": {
   "street": "Höheweg",
   "hn": "92-94",
@@ -37,7 +47,7 @@
   "lat": 46.6841422,
   "lng": 7.8524392,
   "mieter": [
-   "Starbucks Coffe, Interlaken"
+   "Starbucks"
   ]
  },
  "interlaken|bahnhofstrasse|10": {
@@ -46,7 +56,7 @@
   "lat": 46.6842434,
   "lng": 7.8526283,
   "mieter": [
-   "Bühler AG Interlaken - Modelleisenbahn- und Modellbau-Shop"
+   "Bühler AG Modelleisenbahnen"
   ]
  },
  "interlaken|bahnhofstrasse|33": {
@@ -55,7 +65,8 @@
   "lat": 46.6834607,
   "lng": 7.8521955,
   "mieter": [
-   "Repair and Shop Interlaken"
+   "Repair and Shop Interlaken",
+   "Quiroga"
   ]
  },
  "interlaken|bahnhofstrasse|25d": {
@@ -64,7 +75,8 @@
   "lat": 46.683945,
   "lng": 7.8526105,
   "mieter": [
-   "Buchhandlung Bödeli"
+   "Buchhandlung Bödeli",
+   "roro Shop"
   ]
  },
  "interlaken|bahnhofstrasse|23c": {
@@ -81,7 +93,9 @@
   "hn": "2",
   "lat": 46.6850486,
   "lng": 7.8555328,
-  "mieter": []
+  "mieter": [
+   "Via Veneto"
+  ]
  },
  "interlaken|höheweg|1": {
   "street": "Höheweg",
@@ -89,6 +103,15 @@
   "lat": 46.6870745,
   "lng": 7.8589573,
   "mieter": []
+ },
+ "interlaken|postgasse|10": {
+  "street": "Postgasse",
+  "hn": "10",
+  "lat": 46.6860023,
+  "lng": 7.8548648,
+  "mieter": [
+   "Funky Chocolate Club"
+  ]
  },
  "interlaken|marktgasse|31": {
   "street": "Marktgasse",
@@ -106,7 +129,8 @@
   "lng": 7.8514329,
   "mieter": [
    "Welcome India King",
-   "Gleis 3"
+   "Gleis 3",
+   "Napoli"
   ]
  },
  "interlaken|höheweg|35": {
@@ -115,7 +139,9 @@
   "lat": 46.6858252,
   "lng": 7.8562222,
   "mieter": [
-   "Jungfraubahn Flagship Store"
+   "Jungfraubahn Flagship Store",
+   "Lindt",
+   "Swatch"
   ]
  },
  "interlaken|höheweg|75a": {
@@ -125,6 +151,26 @@
   "lng": 7.864238,
   "mieter": [
    "whiskyness.com"
+  ]
+ },
+ "interlaken|postgasse|11": {
+  "street": "Postgasse",
+  "hn": "11",
+  "lat": 46.6868646,
+  "lng": 7.8542316,
+  "mieter": [
+   "Atelier Handweben",
+   "Yellow Velo"
+  ]
+ },
+ "interlaken|postgasse|1": {
+  "street": "Postgasse",
+  "hn": "1",
+  "lat": 46.6856554,
+  "lng": 7.8547929,
+  "mieter": [
+   "Laundry, Wash&Go",
+   "Bongénie"
   ]
  },
  "interlaken|marktgasse|13": {
@@ -140,7 +186,8 @@
   "lat": 46.6855674,
   "lng": 7.8557794,
   "mieter": [
-   "Röthlisberger"
+   "Röthlisberger",
+   "Kirchhofer"
   ]
  },
  "interlaken|höheweg|41": {
@@ -149,7 +196,8 @@
   "lat": 46.6869469,
   "lng": 7.8579843,
   "mieter": [
-   "Radius by Stefan Beer"
+   "Radius by Stefan Beer",
+   "La Terrasse Brasserie"
   ]
  },
  "interlaken|jungfraustrasse|58": {
@@ -170,13 +218,23 @@
    "Food Point"
   ]
  },
+ "interlaken|postgasse|12": {
+  "street": "Postgasse",
+  "hn": "12",
+  "lat": 46.6861447,
+  "lng": 7.8547969,
+  "mieter": [
+   "intertreuhand.gfag"
+  ]
+ },
  "interlaken|marktgasse|48": {
   "street": "Marktgasse",
   "hn": "48",
   "lat": 46.6862781,
   "lng": 7.8528211,
   "mieter": [
-   "IL BUONGUSTAIO"
+   "IL BUONGUSTAIO",
+   "Weltladen"
   ]
  },
  "interlaken|marktgasse|14": {
@@ -185,7 +243,8 @@
   "lat": 46.6855986,
   "lng": 7.853678,
   "mieter": [
-   "Café de Paris"
+   "Café de Paris",
+   "Hut Nadja"
   ]
  },
  "interlaken|höheweg|56": {
@@ -194,35 +253,55 @@
   "lat": 46.6854665,
   "lng": 7.8567133,
   "mieter": [
-   "Grand Café Restaurant Schuh"
+   "Grand Café Restaurant Schuh",
+   "Cartier",
+   "Kirchhofer Haute Horlogerie"
   ]
  },
  "interlaken|bahnhofstrasse|28": {
   "street": "Bahnhofstrasse",
   "hn": "28",
-  "lat": 46.6825115,
-  "lng": 7.8515594,
-  "mieter": []
+  "lat": 46.68252420555555,
+  "lng": 7.851540694444444,
+  "mieter": [
+   "Bahnhof Apotheke",
+   "avec",
+   "Pasta Store",
+   "BLS Reisezentrum",
+   "B. Ruffel"
+  ]
+ },
+ "interlaken|postgasse|3": {
+  "street": "Postgasse",
+  "hn": "3",
+  "lat": 46.686098799999996,
+  "lng": 7.854644541666666,
+  "mieter": [
+   "Hüsi"
+  ]
  },
  "interlaken|höheweg|37": {
   "street": "Höheweg",
   "hn": "37",
-  "lat": 46.6861809,
-  "lng": 7.8563231,
-  "mieter": []
+  "lat": 46.686180990909094,
+  "lng": 7.85621559090909,
+  "mieter": [
+   "Longines",
+   "Breitling"
+  ]
  },
  "interlaken|marktgasse|6": {
   "street": "Marktgasse",
   "hn": "6",
-  "lat": 46.6857826,
-  "lng": 7.8543808,
+  "lat": 46.68579675555555,
+  "lng": 7.854389966666667,
   "mieter": []
  },
  "interlaken|marktgasse|10": {
   "street": "Marktgasse",
   "hn": "10",
-  "lat": 46.6856213,
-  "lng": 7.853929,
+  "lat": 46.68563766666667,
+  "lng": 7.853933855555557,
   "mieter": [
    "OX Interlaken"
   ]
@@ -230,36 +309,81 @@
  "interlaken|höheweg|3": {
   "street": "Höheweg",
   "hn": "3",
-  "lat": 46.6852391,
-  "lng": 7.8545227,
-  "mieter": []
+  "lat": 46.68523056428571,
+  "lng": 7.854517778571428,
+  "mieter": [
+   "Splendid"
+  ]
  },
  "interlaken|marktgasse|4": {
   "street": "Marktgasse",
   "hn": "4",
-  "lat": 46.6853597,
-  "lng": 7.8541857,
-  "mieter": []
+  "lat": 46.685375171428575,
+  "lng": 7.854192623809524,
+  "mieter": [
+   "Pure8",
+   "Confiserie Rieder"
+  ]
  },
  "interlaken|marktgasse|2": {
   "street": "Marktgasse",
   "hn": "2",
-  "lat": 46.685251,
-  "lng": 7.8540626,
-  "mieter": []
+  "lat": 46.68525225,
+  "lng": 7.85409917,
+  "mieter": [
+   "Calida"
+  ]
  },
  "interlaken|höheweg|7": {
   "street": "Höheweg",
   "hn": "7",
-  "lat": 46.6854601,
-  "lng": 7.854593,
+  "lat": 46.6854090375,
+  "lng": 7.8546184125,
+  "mieter": [
+   "lisi Restaurant & Bar"
+  ]
+ },
+ "interlaken|postgasse|2": {
+  "street": "Postgasse",
+  "hn": "2",
+  "lat": 46.68529953333333,
+  "lng": 7.8551471,
+  "mieter": [
+   "Interlaken Souvenirs & Watches",
+   "Purpur Bioladen"
+  ]
+ },
+ "interlaken|postgasse|4": {
+  "street": "Postgasse",
+  "hn": "4",
+  "lat": 46.685451057142856,
+  "lng": 7.8551227714285705,
   "mieter": []
+ },
+ "interlaken|postgasse|6": {
+  "street": "Postgasse",
+  "hn": "6",
+  "lat": 46.68560624444444,
+  "lng": 7.855088166666666,
+  "mieter": [
+   "Spice India",
+   "repairNstore"
+  ]
+ },
+ "interlaken|postgasse|8": {
+  "street": "Postgasse",
+  "hn": "8",
+  "lat": 46.685763933333334,
+  "lng": 7.855001433333334,
+  "mieter": [
+   "Spice Lounge"
+  ]
  },
  "interlaken|bahnhofstrasse|4a": {
   "street": "Bahnhofstrasse",
   "hn": "4a",
-  "lat": 46.6846546,
-  "lng": 7.8535713,
+  "lat": 46.684655559999996,
+  "lng": 7.8535607,
   "mieter": [
    "Home China Restaurant"
   ]
@@ -267,478 +391,609 @@
  "interlaken|bahnhofstrasse|8": {
   "street": "Bahnhofstrasse",
   "hn": "8",
-  "lat": 46.6843192,
-  "lng": 7.8528131,
-  "mieter": []
+  "lat": 46.68434261666667,
+  "lng": 7.8528271,
+  "mieter": [
+   "La Creperie"
+  ]
  },
  "interlaken|bahnhofstrasse|4": {
   "street": "Bahnhofstrasse",
   "hn": "4",
-  "lat": 46.6845045,
-  "lng": 7.8531001,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|24": {
-  "street": "Bahnhofstrasse",
-  "hn": "24",
-  "lat": 46.684347,
-  "lng": 7.8498382,
+  "lat": 46.684504566666675,
+  "lng": 7.853043303333333,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|20": {
   "street": "Bahnhofstrasse",
   "hn": "20",
-  "lat": 46.6840855,
-  "lng": 7.8494721,
+  "lat": 46.684056379999994,
+  "lng": 7.85199855,
   "mieter": [
    "UBS"
   ]
  },
- "interlaken|bahnhofstrasse|13": {
-  "street": "Bahnhofstrasse",
-  "hn": "13",
-  "lat": 46.6850429,
-  "lng": 7.8492811,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|11": {
-  "street": "Bahnhofstrasse",
-  "hn": "11",
-  "lat": 46.6850899,
-  "lng": 7.849166,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|23": {
-  "street": "Bahnhofstrasse",
-  "hn": "23",
-  "lat": 46.6849397,
-  "lng": 7.8491609,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|9": {
-  "street": "Bahnhofstrasse",
-  "hn": "9",
-  "lat": 46.685096,
-  "lng": 7.8487991,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|1": {
-  "street": "Bahnhofstrasse",
-  "hn": "1",
-  "lat": 46.685216,
-  "lng": 7.84852,
-  "mieter": [
-   "Jamming Corner"
-  ]
- },
- "interlaken|bahnhofstrasse|5": {
-  "street": "Bahnhofstrasse",
-  "hn": "5",
-  "lat": 46.6851434,
-  "lng": 7.8486771,
-  "mieter": [
-   "Bürobedarf Schaffner"
-  ]
- },
- "interlaken|bahnhofstrasse|21": {
-  "street": "Bahnhofstrasse",
-  "hn": "21",
-  "lat": 46.6849574,
-  "lng": 7.849024,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|25": {
-  "street": "Bahnhofstrasse",
-  "hn": "25",
-  "lat": 46.6848958,
-  "lng": 7.8493066,
-  "mieter": [
-   "DROPA Drogerie Günther"
-  ]
- },
- "interlaken|bahnhofstrasse|27": {
-  "street": "Bahnhofstrasse",
-  "hn": "27",
-  "lat": 46.6848375,
-  "lng": 7.8494341,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|35": {
-  "street": "Bahnhofstrasse",
-  "hn": "35",
-  "lat": 46.6847489,
-  "lng": 7.8498669,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|43": {
-  "street": "Bahnhofstrasse",
-  "hn": "43",
-  "lat": 46.6845006,
-  "lng": 7.8506855,
-  "mieter": []
- },
  "interlaken|bahnhofstrasse|16": {
   "street": "Bahnhofstrasse",
   "hn": "16",
-  "lat": 46.6841252,
-  "lng": 7.8522328,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|6": {
-  "street": "Bahnhofstrasse",
-  "hn": "6",
-  "lat": 46.6846764,
-  "lng": 7.8489405,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|2": {
-  "street": "Bahnhofstrasse",
-  "hn": "2",
-  "lat": 46.6850046,
-  "lng": 7.8483268,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|29": {
-  "street": "Bahnhofstrasse",
-  "hn": "29",
-  "lat": 46.6847911,
-  "lng": 7.8495671,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|5b": {
-  "street": "Bahnhofstrasse",
-  "hn": "5b",
-  "lat": 46.6851797,
-  "lng": 7.8493596,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|5a": {
-  "street": "Bahnhofstrasse",
-  "hn": "5a",
-  "lat": 46.6852326,
-  "lng": 7.849223,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|20a": {
-  "street": "Bahnhofstrasse",
-  "hn": "20a",
-  "lat": 46.6841752,
-  "lng": 7.8494212,
-  "mieter": []
- },
- "interlaken|bahnhofstrasse|12": {
-  "street": "Bahnhofstrasse",
-  "hn": "12",
-  "lat": 46.6846075,
-  "lng": 7.8492513,
-  "mieter": []
+  "lat": 46.6841327,
+  "lng": 7.852191853846152,
+  "mieter": [
+   "Bebbis"
+  ]
  },
  "interlaken|höheweg|49": {
   "street": "Höheweg",
   "hn": "49",
-  "lat": 46.6868497,
-  "lng": 7.858341,
+  "lat": 46.68684514,
+  "lng": 7.85835888,
   "mieter": []
  },
  "interlaken|höheweg|57a": {
   "street": "Höheweg",
   "hn": "57a",
-  "lat": 46.6870343,
-  "lng": 7.8585961,
+  "lat": 46.687096995652176,
+  "lng": 7.858684878260869,
+  "mieter": [
+   "Hooters"
+  ]
+ },
+ "interlaken|postgasse|32": {
+  "street": "Postgasse",
+  "hn": "32",
+  "lat": 46.68772302000001,
+  "lng": 7.8543003800000015,
+  "mieter": []
+ },
+ "interlaken|postgasse|41": {
+  "street": "Postgasse",
+  "hn": "41",
+  "lat": 46.68813331052631,
+  "lng": 7.8535129,
+  "mieter": []
+ },
+ "interlaken|postgasse|34": {
+  "street": "Postgasse",
+  "hn": "34",
+  "lat": 46.68789235714286,
+  "lng": 7.854415485714286,
+  "mieter": []
+ },
+ "interlaken|postgasse|9": {
+  "street": "Postgasse",
+  "hn": "9",
+  "lat": 46.686749311111114,
+  "lng": 7.854245577777778,
+  "mieter": []
+ },
+ "interlaken|postgasse|43": {
+  "street": "Postgasse",
+  "hn": "43",
+  "lat": 46.68794142608696,
+  "lng": 7.853972460869566,
+  "mieter": []
+ },
+ "interlaken|postgasse|36": {
+  "street": "Postgasse",
+  "hn": "36",
+  "lat": 46.688358879999996,
+  "lng": 7.854737040000001,
+  "mieter": []
+ },
+ "interlaken|postgasse|37": {
+  "street": "Postgasse",
+  "hn": "37",
+  "lat": 46.687652471428564,
+  "lng": 7.8529327928571435,
+  "mieter": []
+ },
+ "interlaken|postgasse|45": {
+  "street": "Postgasse",
+  "hn": "45",
+  "lat": 46.68833252,
+  "lng": 7.853869259999999,
   "mieter": []
  },
  "interlaken|marktgasse|58": {
   "street": "Marktgasse",
   "hn": "58",
-  "lat": 46.686768,
-  "lng": 7.8530468,
+  "lat": 46.686777482352944,
+  "lng": 7.8530526352941195,
+  "mieter": []
+ },
+ "interlaken|postgasse|23": {
+  "street": "Postgasse",
+  "hn": "23",
+  "lat": 46.68731794,
+  "lng": 7.853683599999999,
+  "mieter": []
+ },
+ "interlaken|postgasse|33": {
+  "street": "Postgasse",
+  "hn": "33",
+  "lat": 46.68703484000001,
+  "lng": 7.852967820000001,
+  "mieter": []
+ },
+ "interlaken|postgasse|21": {
+  "street": "Postgasse",
+  "hn": "21",
+  "lat": 46.687633722222216,
+  "lng": 7.853455522222223,
   "mieter": []
  },
  "interlaken|marktgasse|60": {
   "street": "Marktgasse",
   "hn": "60",
-  "lat": 46.6867719,
-  "lng": 7.8527619,
+  "lat": 46.686793433333335,
+  "lng": 7.852787755555555,
+  "mieter": []
+ },
+ "interlaken|postgasse|35": {
+  "street": "Postgasse",
+  "hn": "35",
+  "lat": 46.68741987999999,
+  "lng": 7.852798426666666,
   "mieter": []
  },
  "interlaken|marktgasse|54": {
   "street": "Marktgasse",
   "hn": "54",
-  "lat": 46.6865516,
-  "lng": 7.8526255,
+  "lat": 46.68653553333334,
+  "lng": 7.8526716,
+  "mieter": [
+   "7-Eleven"
+  ]
+ },
+ "interlaken|postgasse|19": {
+  "street": "Postgasse",
+  "hn": "19",
+  "lat": 46.687590109090905,
+  "lng": 7.853806272727272,
+  "mieter": []
+ },
+ "interlaken|postgasse|25": {
+  "street": "Postgasse",
+  "hn": "25",
+  "lat": 46.68744880666667,
+  "lng": 7.853187700000001,
+  "mieter": []
+ },
+ "interlaken|postgasse|30": {
+  "street": "Postgasse",
+  "hn": "30",
+  "lat": 46.687532918749994,
+  "lng": 7.854421281249999,
+  "mieter": []
+ },
+ "interlaken|postgasse|17": {
+  "street": "Postgasse",
+  "hn": "17",
+  "lat": 46.68686427777777,
+  "lng": 7.853606677777778,
+  "mieter": []
+ },
+ "interlaken|postgasse|13": {
+  "street": "Postgasse",
+  "hn": "13",
+  "lat": 46.68729096666667,
+  "lng": 7.854114144444442,
+  "mieter": []
+ },
+ "interlaken|postgasse|47": {
+  "street": "Postgasse",
+  "hn": "47",
+  "lat": 46.68832256,
+  "lng": 7.85429436,
+  "mieter": []
+ },
+ "interlaken|postgasse|15": {
+  "street": "Postgasse",
+  "hn": "15",
+  "lat": 46.68709246666667,
+  "lng": 7.8538062,
+  "mieter": []
+ },
+ "interlaken|postgasse|39": {
+  "street": "Postgasse",
+  "hn": "39",
+  "lat": 46.687865971428565,
+  "lng": 7.853544671428571,
+  "mieter": []
+ },
+ "interlaken|postgasse|34a": {
+  "street": "Postgasse",
+  "hn": "34a",
+  "lat": 46.688020609090906,
+  "lng": 7.854538118181818,
   "mieter": []
  },
  "interlaken|marktgasse|66": {
   "street": "Marktgasse",
   "hn": "66",
-  "lat": 46.6869402,
-  "lng": 7.8525701,
+  "lat": 46.686972389999994,
+  "lng": 7.85257466,
   "mieter": []
  },
  "interlaken|jungfraustrasse|57": {
   "street": "Jungfraustrasse",
   "hn": "57",
-  "lat": 46.6844797,
-  "lng": 7.8570696,
+  "lat": 46.68448573333334,
+  "lng": 7.857077716666666,
   "mieter": []
  },
  "interlaken|höheweg|40": {
   "street": "Höheweg",
   "hn": "40",
-  "lat": 46.6853728,
-  "lng": 7.8560701,
+  "lat": 46.68537256666667,
+  "lng": 7.856071283333333,
+  "mieter": [
+   "Bonita"
+  ]
+ },
+ "interlaken|aarmühlestrasse|26": {
+  "street": "Aarmühlestrasse",
+  "hn": "26",
+  "lat": 46.68340383076923,
+  "lng": 7.852460523076923,
+  "mieter": []
+ },
+ "interlaken|postgasse|40": {
+  "street": "Postgasse",
+  "hn": "40",
+  "lat": 46.688685638461536,
+  "lng": 7.8549897692307695,
   "mieter": []
  },
  "interlaken|höheweg|4": {
   "street": "Höheweg",
   "hn": "4",
-  "lat": 46.6849887,
-  "lng": 7.8549157,
-  "mieter": []
+  "lat": 46.68497788333334,
+  "lng": 7.854919416666667,
+  "mieter": [
+   "Portmann"
+  ]
  },
  "interlaken|höheweg|26": {
   "street": "Höheweg",
   "hn": "26",
-  "lat": 46.685319,
-  "lng": 7.8560146,
+  "lat": 46.68530973636364,
+  "lng": 7.855999654545454,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "interlaken|postgasse|20": {
+  "street": "Postgasse",
+  "hn": "20",
+  "lat": 46.68681192666667,
+  "lng": 7.854634306666666,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|20": {
+  "street": "Aarmühlestrasse",
+  "hn": "20",
+  "lat": 46.68364685,
+  "lng": 7.852737516666668,
   "mieter": []
  },
  "interlaken|höheweg|31": {
   "street": "Höheweg",
   "hn": "31",
-  "lat": 46.6858133,
-  "lng": 7.8554997,
+  "lat": 46.68580761428571,
+  "lng": 7.855497028571429,
   "mieter": []
  },
  "interlaken|centralstrasse|3b": {
   "street": "Centralstrasse",
   "hn": "3b",
-  "lat": 46.6848967,
-  "lng": 7.8552408,
+  "lat": 46.684900119999995,
+  "lng": 7.855223960000001,
   "mieter": []
  },
  "interlaken|jungfraustrasse|55": {
   "street": "Jungfraustrasse",
   "hn": "55",
-  "lat": 46.6845539,
-  "lng": 7.8570686,
+  "lat": 46.684517383333336,
+  "lng": 7.8570796833333345,
+  "mieter": [
+   "EP:Amadeus"
+  ]
+ },
+ "interlaken|postgasse|38": {
+  "street": "Postgasse",
+  "hn": "38",
+  "lat": 46.68853915333333,
+  "lng": 7.85483078,
   "mieter": []
  },
  "interlaken|höheweg|12": {
   "street": "Höheweg",
   "hn": "12",
-  "lat": 46.6849741,
-  "lng": 7.855234,
-  "mieter": []
+  "lat": 46.684981038461544,
+  "lng": 7.855228038461538,
+  "mieter": [
+   "Vanini"
+  ]
  },
  "interlaken|marktgasse|55": {
   "street": "Marktgasse",
   "hn": "55",
-  "lat": 46.6860636,
-  "lng": 7.8527397,
-  "mieter": []
+  "lat": 46.68603238888889,
+  "lng": 7.852726077777778,
+  "mieter": [
+   "City Shop"
+  ]
  },
  "interlaken|marktgasse|59": {
   "street": "Marktgasse",
   "hn": "59",
-  "lat": 46.6861327,
-  "lng": 7.8524325,
+  "lat": 46.68606170526316,
+  "lng": 7.852459394736843,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|47": {
   "street": "Bahnhofstrasse",
   "hn": "47",
-  "lat": 46.6827112,
-  "lng": 7.852479,
+  "lat": 46.682687146666666,
+  "lng": 7.8524471600000005,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|37": {
   "street": "Bahnhofstrasse",
   "hn": "37",
-  "lat": 46.6831212,
-  "lng": 7.8522745,
-  "mieter": []
+  "lat": 46.683074122222216,
+  "lng": 7.85216948888889,
+  "mieter": [
+   "Swisscom",
+   "Migrolino"
+  ]
  },
  "interlaken|bahnhofstrasse|45": {
   "street": "Bahnhofstrasse",
   "hn": "45",
-  "lat": 46.6826958,
-  "lng": 7.8521536,
-  "mieter": []
+  "lat": 46.68268926923077,
+  "lng": 7.852092019230769,
+  "mieter": [
+   "Dosenbach"
+  ]
  },
  "interlaken|höheweg|45": {
   "street": "Höheweg",
   "hn": "45",
-  "lat": 46.6866194,
-  "lng": 7.8578894,
-  "mieter": []
+  "lat": 46.686649745,
+  "lng": 7.857862330000001,
+  "mieter": [
+   "Bucherer"
+  ]
  },
  "interlaken|höheweg|115": {
   "street": "Höheweg",
   "hn": "115",
-  "lat": 46.6880192,
-  "lng": 7.860947,
+  "lat": 46.68800400000001,
+  "lng": 7.860907525925923,
+  "mieter": [
+   "Des Alpes",
+   "Heimatwerk"
+  ]
+ },
+ "interlaken|postgasse|39a": {
+  "street": "Postgasse",
+  "hn": "39a",
+  "lat": 46.68790001875,
+  "lng": 7.853213031249999,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|18": {
+  "street": "Aarmühlestrasse",
+  "hn": "18",
+  "lat": 46.68369584444444,
+  "lng": 7.853083444444445,
   "mieter": []
  },
  "interlaken|höheweg|9": {
   "street": "Höheweg",
   "hn": "9",
-  "lat": 46.6853459,
-  "lng": 7.8552299,
-  "mieter": []
+  "lat": 46.685331760000004,
+  "lng": 7.855223339999999,
+  "mieter": [
+   "Cachet"
+  ]
  },
  "interlaken|bahnhofstrasse|25a": {
   "street": "Bahnhofstrasse",
   "hn": "25a",
-  "lat": 46.6840758,
-  "lng": 7.8529037,
-  "mieter": []
+  "lat": 46.68406621666667,
+  "lng": 7.852921749999999,
+  "mieter": [
+   "Funora"
+  ]
+ },
+ "interlaken|bahnhofstrasse|25": {
+  "street": "Bahnhofstrasse",
+  "hn": "25",
+  "lat": 46.6841334,
+  "lng": 7.853041159999999,
+  "mieter": [
+   "Claire's",
+   "Intersport Score"
+  ]
  },
  "interlaken|höheweg|10": {
   "street": "Höheweg",
   "hn": "10",
-  "lat": 46.6850032,
-  "lng": 7.8550749,
-  "mieter": []
+  "lat": 46.68498229333334,
+  "lng": 7.855093693333333,
+  "mieter": [
+   "Tissot"
+  ]
  },
  "interlaken|marktgasse|63a": {
   "street": "Marktgasse",
   "hn": "63a",
-  "lat": 46.6851025,
-  "lng": 7.8518353,
+  "lat": 46.68510952,
+  "lng": 7.8518484200000005,
   "mieter": []
  },
  "interlaken|marktgasse|63": {
   "street": "Marktgasse",
   "hn": "63",
-  "lat": 46.685762,
-  "lng": 7.852221,
+  "lat": 46.68577608,
+  "lng": 7.85220746,
   "mieter": []
  },
  "interlaken|höheweg|115a": {
   "street": "Höheweg",
   "hn": "115a",
-  "lat": 46.688103,
-  "lng": 7.8607983,
+  "lat": 46.68811192,
+  "lng": 7.8608024400000005,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|23b": {
   "street": "Bahnhofstrasse",
   "hn": "23b",
-  "lat": 46.6842332,
-  "lng": 7.8532199,
+  "lat": 46.68424254,
+  "lng": 7.8532179200000005,
   "mieter": []
  },
  "interlaken|höheweg|27": {
   "street": "Höheweg",
   "hn": "27",
-  "lat": 46.6855057,
-  "lng": 7.8556409,
+  "lat": 46.68552072,
+  "lng": 7.85563832,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|23d": {
   "street": "Bahnhofstrasse",
   "hn": "23d",
-  "lat": 46.6842742,
-  "lng": 7.8533345,
-  "mieter": []
+  "lat": 46.68428576,
+  "lng": 7.85333018,
+  "mieter": [
+   "Francon"
+  ]
  },
  "interlaken|bahnhofstrasse|25b": {
   "street": "Bahnhofstrasse",
   "hn": "25b",
-  "lat": 46.6840275,
-  "lng": 7.8528857,
-  "mieter": []
+  "lat": 46.684028440000006,
+  "lng": 7.8529015,
+  "mieter": [
+   "Snack Express"
+  ]
  },
  "interlaken|höheweg|123a": {
   "street": "Höheweg",
   "hn": "123a",
-  "lat": 46.6892657,
-  "lng": 7.8607401,
+  "lat": 46.68926700000001,
+  "lng": 7.860723320000001,
   "mieter": []
  },
  "interlaken|höheweg|2": {
   "street": "Höheweg",
   "hn": "2",
-  "lat": 46.6849318,
-  "lng": 7.8547357,
-  "mieter": []
+  "lat": 46.6849313875,
+  "lng": 7.854668531250001,
+  "mieter": [
+   "Fielmann",
+   "Dunkin'"
+  ]
  },
  "interlaken|höheweg|69": {
   "street": "Höheweg",
   "hn": "69",
-  "lat": 46.6889194,
-  "lng": 7.8570029,
+  "lat": 46.68894383333333,
+  "lng": 7.856983433333333,
+  "mieter": []
+ },
+ "interlaken|postgasse|16": {
+  "street": "Postgasse",
+  "hn": "16",
+  "lat": 46.686421662499995,
+  "lng": 7.854848412499999,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|23a": {
   "street": "Bahnhofstrasse",
   "hn": "23a",
-  "lat": 46.6842484,
-  "lng": 7.8532822,
-  "mieter": []
+  "lat": 46.68425198333333,
+  "lng": 7.853278633333332,
+  "mieter": [
+   "Nile"
+  ]
  },
  "interlaken|bahnhofstrasse|25c": {
   "street": "Bahnhofstrasse",
   "hn": "25c",
-  "lat": 46.6840014,
-  "lng": 7.8528213,
-  "mieter": []
+  "lat": 46.68398895,
+  "lng": 7.8528358875,
+  "mieter": [
+   "riki Buchhandlung"
+  ]
  },
  "interlaken|höheweg|11": {
   "street": "Höheweg",
   "hn": "11",
-  "lat": 46.6854143,
-  "lng": 7.8553122,
+  "lat": 46.685406628571435,
+  "lng": 7.855340842857141,
   "mieter": []
  },
  "interlaken|marktgasse|11": {
   "street": "Marktgasse",
   "hn": "11",
-  "lat": 46.6852268,
-  "lng": 7.8536841,
-  "mieter": []
+  "lat": 46.68519913750001,
+  "lng": 7.853662162500001,
+  "mieter": [
+   "Joy Vida"
+  ]
  },
  "interlaken|höheweg|33": {
   "street": "Höheweg",
   "hn": "33",
-  "lat": 46.6856719,
-  "lng": 7.8558884,
-  "mieter": []
+  "lat": 46.6856403117647,
+  "lng": 7.855999052941179,
+  "mieter": [
+   "Splendid"
+  ]
  },
  "interlaken|jungfraustrasse|8": {
   "street": "Jungfraustrasse",
   "hn": "8",
-  "lat": 46.6848794,
-  "lng": 7.8557779,
+  "lat": 46.68486553333332,
+  "lng": 7.855748066666667,
   "mieter": []
  },
  "interlaken|marktgasse|34": {
   "street": "Marktgasse",
   "hn": "34",
-  "lat": 46.6862136,
-  "lng": 7.8530194,
-  "mieter": []
+  "lat": 46.686242161538466,
+  "lng": 7.853055553846156,
+  "mieter": [
+   "Effekt Tief"
+  ]
  },
  "interlaken|marktgasse|32": {
   "street": "Marktgasse",
   "hn": "32",
-  "lat": 46.6860695,
-  "lng": 7.8532235,
-  "mieter": []
+  "lat": 46.68609267142857,
+  "lng": 7.853262142857143,
+  "mieter": [
+   "Woodpecker"
+  ]
  },
  "interlaken|marktgasse|33": {
   "street": "Marktgasse",
   "hn": "33",
-  "lat": 46.6856672,
-  "lng": 7.8531943,
-  "mieter": []
+  "lat": 46.68568416,
+  "lng": 7.85319798,
+  "mieter": [
+   "Laguna"
+  ]
  },
  "interlaken|marktgasse|16": {
   "street": "Marktgasse",
   "hn": "16",
-  "lat": 46.6856925,
-  "lng": 7.8536192,
+  "lat": 46.685682063636364,
+  "lng": 7.85359390909091,
   "mieter": [
    "Discover af Explore"
   ]
@@ -746,855 +1001,1383 @@
  "interlaken|höheweg|121": {
   "street": "Höheweg",
   "hn": "121",
-  "lat": 46.6888713,
-  "lng": 7.8610096,
+  "lat": 46.68885801818181,
+  "lng": 7.861087536363636,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|15": {
+  "street": "Aarmühlestrasse",
+  "hn": "15",
+  "lat": 46.68356434545455,
+  "lng": 7.85413431818182,
   "mieter": []
  },
  "interlaken|höheweg|13": {
   "street": "Höheweg",
   "hn": "13",
-  "lat": 46.6854501,
-  "lng": 7.8554588,
+  "lat": 46.68543796,
+  "lng": 7.855492700000002,
+  "mieter": [
+   "Titoni",
+   "Bayard Co."
+  ]
+ },
+ "interlaken|postgasse|49": {
+  "street": "Postgasse",
+  "hn": "49",
+  "lat": 46.68854265714287,
+  "lng": 7.854508142857143,
   "mieter": []
  },
  "interlaken|marktgasse|35": {
   "street": "Marktgasse",
   "hn": "35",
-  "lat": 46.6857458,
-  "lng": 7.8531102,
-  "mieter": []
+  "lat": 46.68574676,
+  "lng": 7.85313072,
+  "mieter": [
+   "Goldschmiede-Atelier Peter Hablützel"
+  ]
  },
  "interlaken|marktgasse|57": {
   "street": "Marktgasse",
   "hn": "57",
-  "lat": 46.6861549,
-  "lng": 7.8526187,
-  "mieter": []
+  "lat": 46.68616791111112,
+  "lng": 7.8525643999999994,
+  "mieter": [
+   "Restaurant Goldener Anker"
+  ]
  },
  "interlaken|bahnhofstrasse|51": {
   "street": "Bahnhofstrasse",
   "hn": "51",
-  "lat": 46.6823473,
-  "lng": 7.8521009,
-  "mieter": []
+  "lat": 46.68236113333333,
+  "lng": 7.852062222222222,
+  "mieter": [
+   "Runft",
+   "Brembati"
+  ]
  },
  "interlaken|höheweg|42a": {
   "street": "Höheweg",
   "hn": "42a",
-  "lat": 46.6853418,
-  "lng": 7.856262,
+  "lat": 46.685343471428574,
+  "lng": 7.856253085714286,
   "mieter": []
  },
  "interlaken|höheweg|42": {
   "street": "Höheweg",
   "hn": "42",
-  "lat": 46.685441,
-  "lng": 7.856155,
-  "mieter": []
+  "lat": 46.68544091666667,
+  "lng": 7.8561548,
+  "mieter": [
+   "Jaeger-LeCoultre"
+  ]
  },
  "interlaken|höheweg|46": {
   "street": "Höheweg",
   "hn": "46",
-  "lat": 46.6854927,
-  "lng": 7.8562717,
-  "mieter": []
+  "lat": 46.685506377777784,
+  "lng": 7.856280133333333,
+  "mieter": [
+   "Kirchhofer"
+  ]
+ },
+ "interlaken|bahnhofstrasse|27": {
+  "street": "Bahnhofstrasse",
+  "hn": "27",
+  "lat": 46.683791263636365,
+  "lng": 7.852475327272727,
+  "mieter": [
+   "Schaufelberger"
+  ]
  },
  "interlaken|bahnhofstrasse|31": {
   "street": "Bahnhofstrasse",
   "hn": "31",
-  "lat": 46.6835396,
-  "lng": 7.8523342,
-  "mieter": []
+  "lat": 46.68354434444445,
+  "lng": 7.852335838888889,
+  "mieter": [
+   "Outlet"
+  ]
+ },
+ "interlaken|bahnhofstrasse|29": {
+  "street": "Bahnhofstrasse",
+  "hn": "29",
+  "lat": 46.683653954545456,
+  "lng": 7.852285245454545,
+  "mieter": [
+   "Urfer Optiker"
+  ]
+ },
+ "interlaken|bahnhofstrasse|35": {
+  "street": "Bahnhofstrasse",
+  "hn": "35",
+  "lat": 46.68332759999999,
+  "lng": 7.852309841666667,
+  "mieter": [
+   "In Outlet",
+   "Kashmir"
+  ]
+ },
+ "interlaken|aarmühlestrasse|35": {
+  "street": "Aarmühlestrasse",
+  "hn": "35",
+  "lat": 46.682893281818195,
+  "lng": 7.8521222272727265,
+  "mieter": [
+   "Import Parfumerie",
+   "City Market",
+   "Krebser"
+  ]
  },
  "interlaken|jungfraustrasse|1": {
   "street": "Jungfraustrasse",
   "hn": "1",
-  "lat": 46.6852455,
-  "lng": 7.8556602,
-  "mieter": []
+  "lat": 46.6852236,
+  "lng": 7.855669766666665,
+  "mieter": [
+   "Kirchhofer"
+  ]
  },
  "interlaken|marktgasse|30": {
   "street": "Marktgasse",
   "hn": "30",
-  "lat": 46.6859815,
-  "lng": 7.8532792,
-  "mieter": []
+  "lat": 46.685986424999996,
+  "lng": 7.853317474999999,
+  "mieter": [
+   "Woodpecker",
+   "Notariat Frieden"
+  ]
  },
  "interlaken|höheweg|17": {
   "street": "Höheweg",
   "hn": "17",
-  "lat": 46.6857909,
-  "lng": 7.8553583,
+  "lat": 46.685808907692305,
+  "lng": 7.8553479,
   "mieter": []
  },
  "interlaken|marktgasse|52a": {
   "street": "Marktgasse",
   "hn": "52a",
-  "lat": 46.6866368,
-  "lng": 7.8534039,
+  "lat": 46.68662526,
+  "lng": 7.85339424,
   "mieter": []
  },
  "interlaken|marktgasse|26": {
   "street": "Marktgasse",
   "hn": "26",
-  "lat": 46.6860624,
-  "lng": 7.8535175,
+  "lat": 46.68606146,
+  "lng": 7.8535296,
+  "mieter": []
+ },
+ "interlaken|postgasse|18": {
+  "street": "Postgasse",
+  "hn": "18",
+  "lat": 46.68645042,
+  "lng": 7.85472418,
   "mieter": []
  },
  "interlaken|höheweg|19a": {
   "street": "Höheweg",
   "hn": "19a",
-  "lat": 46.6858142,
-  "lng": 7.8551088,
+  "lat": 46.6858265125,
+  "lng": 7.855100912499999,
   "mieter": []
  },
  "interlaken|marktgasse|40": {
   "street": "Marktgasse",
   "hn": "40",
-  "lat": 46.6865735,
-  "lng": 7.8534338,
+  "lat": 46.6865783625,
+  "lng": 7.853442687500001,
   "mieter": []
  },
  "interlaken|marktgasse|52": {
   "street": "Marktgasse",
   "hn": "52",
-  "lat": 46.686595,
-  "lng": 7.8532234,
+  "lat": 46.6865924875,
+  "lng": 7.8532236125,
   "mieter": []
  },
  "interlaken|höheweg|19": {
   "street": "Höheweg",
   "hn": "19",
-  "lat": 46.6856351,
-  "lng": 7.855215,
+  "lat": 46.685651075,
+  "lng": 7.855206549999999,
   "mieter": []
  },
  "interlaken|jungfraustrasse|3": {
   "street": "Jungfraustrasse",
   "hn": "3",
-  "lat": 46.685144,
-  "lng": 7.8557245,
-  "mieter": []
+  "lat": 46.68513167,
+  "lng": 7.8557196099999995,
+  "mieter": [
+   "Kirchhofer",
+   "Bärner Ban"
+  ]
  },
  "interlaken|höheweg|16": {
   "street": "Höheweg",
   "hn": "16",
-  "lat": 46.6852833,
-  "lng": 7.8557765,
-  "mieter": []
+  "lat": 46.685274633333336,
+  "lng": 7.8557705833333324,
+  "mieter": [
+   "Benetton"
+  ]
  },
  "interlaken|marktgasse|50": {
   "street": "Marktgasse",
   "hn": "50",
-  "lat": 46.6864944,
-  "lng": 7.8530776,
+  "lat": 46.68651357272727,
+  "lng": 7.8531082272727275,
   "mieter": []
  },
  "interlaken|marktgasse|44": {
   "street": "Marktgasse",
   "hn": "44",
-  "lat": 46.6864018,
-  "lng": 7.8530695,
+  "lat": 46.68640501428571,
+  "lng": 7.8530673,
   "mieter": []
  },
  "interlaken|marktgasse|24": {
   "street": "Marktgasse",
   "hn": "24",
-  "lat": 46.6859768,
-  "lng": 7.8534115,
+  "lat": 46.68597394285715,
+  "lng": 7.8534204999999995,
   "mieter": []
  },
  "interlaken|marktgasse|28": {
   "street": "Marktgasse",
   "hn": "28",
-  "lat": 46.6858833,
-  "lng": 7.8536504,
+  "lat": 46.68588594285715,
+  "lng": 7.853664899999999,
   "mieter": []
+ },
+ "interlaken|rosenstrasse|1": {
+  "street": "Rosenstrasse",
+  "hn": "1",
+  "lat": 46.684375089999996,
+  "lng": 7.855215729999999,
+  "mieter": [
+   "EKI"
+  ]
  },
  "interlaken|höheweg|125": {
   "street": "Höheweg",
   "hn": "125",
-  "lat": 46.6883842,
-  "lng": 7.861882,
-  "mieter": []
+  "lat": 46.68838096666667,
+  "lng": 7.861884683333334,
+  "mieter": [
+   "Paragliding Interlaken"
+  ]
  },
  "interlaken|höheweg|167": {
   "street": "Höheweg",
   "hn": "167",
-  "lat": 46.6897796,
-  "lng": 7.8628287,
+  "lat": 46.68978468,
+  "lng": 7.862815159999999,
   "mieter": []
  },
  "interlaken|höheweg|169": {
   "street": "Höheweg",
   "hn": "169",
-  "lat": 46.68969,
-  "lng": 7.8628315,
+  "lat": 46.68969992499999,
+  "lng": 7.8628366,
   "mieter": []
  },
  "interlaken|höheweg|165": {
   "street": "Höheweg",
   "hn": "165",
-  "lat": 46.6897567,
-  "lng": 7.8626414,
+  "lat": 46.68975689999999,
+  "lng": 7.862642966666666,
   "mieter": []
  },
  "interlaken|höheweg|171": {
   "street": "Höheweg",
   "hn": "171",
-  "lat": 46.6896438,
-  "lng": 7.8626863,
+  "lat": 46.68964370909091,
+  "lng": 7.862680354545455,
   "mieter": []
  },
  "interlaken|höheweg|155": {
   "street": "Höheweg",
   "hn": "155",
-  "lat": 46.689576,
-  "lng": 7.8624583,
+  "lat": 46.68958033888889,
+  "lng": 7.862447666666666,
   "mieter": []
  },
  "interlaken|höheweg|70": {
   "street": "Höheweg",
   "hn": "70",
-  "lat": 46.6882026,
-  "lng": 7.8623425,
-  "mieter": []
+  "lat": 46.688207128125,
+  "lng": 7.862333953125002,
+  "mieter": [
+   "Swiss Alpine Shop"
+  ]
  },
  "interlaken|höheweg|195": {
   "street": "Höheweg",
   "hn": "195",
-  "lat": 46.6891243,
-  "lng": 7.8628595,
+  "lat": 46.68913705789473,
+  "lng": 7.862851415789473,
   "mieter": []
  },
  "interlaken|höheweg|207": {
   "street": "Höheweg",
   "hn": "207",
-  "lat": 46.6898208,
-  "lng": 7.8641904,
+  "lat": 46.68981786296296,
+  "lng": 7.8640948222222224,
   "mieter": []
  },
  "interlaken|höheweg|185": {
   "street": "Höheweg",
   "hn": "185",
-  "lat": 46.6894565,
-  "lng": 7.8627826,
+  "lat": 46.68948404285714,
+  "lng": 7.862758614285715,
   "mieter": []
  },
  "interlaken|höheweg|145": {
   "street": "Höheweg",
   "hn": "145",
-  "lat": 46.6896349,
-  "lng": 7.8617514,
+  "lat": 46.689635457142856,
+  "lng": 7.861770085714285,
   "mieter": []
  },
  "interlaken|höheweg|215": {
   "street": "Höheweg",
   "hn": "215",
-  "lat": 46.6898563,
-  "lng": 7.8653325,
+  "lat": 46.68986276,
+  "lng": 7.86532208,
   "mieter": []
  },
  "interlaken|höheweg|143": {
   "street": "Höheweg",
   "hn": "143",
-  "lat": 46.689611,
-  "lng": 7.862168,
+  "lat": 46.68963272,
+  "lng": 7.862174519999999,
   "mieter": []
+ },
+ "interlaken|bahnhofstrasse|1": {
+  "street": "Bahnhofstrasse",
+  "hn": "1",
+  "lat": 46.68466271935485,
+  "lng": 7.854556229032259,
+  "mieter": [
+   "PizPaz",
+   "Jungfrau Corner"
+  ]
  },
  "interlaken|höheweg|187": {
   "street": "Höheweg",
   "hn": "187",
-  "lat": 46.6894458,
-  "lng": 7.8629039,
+  "lat": 46.689463857142854,
+  "lng": 7.8628919857142865,
   "mieter": []
  },
  "interlaken|höheweg|181": {
   "street": "Höheweg",
   "hn": "181",
-  "lat": 46.6894402,
-  "lng": 7.8626713,
+  "lat": 46.68946089999999,
+  "lng": 7.862663414285715,
   "mieter": []
  },
  "interlaken|höheweg|175": {
   "street": "Höheweg",
   "hn": "175",
-  "lat": 46.6895676,
-  "lng": 7.8628396,
+  "lat": 46.68957272857143,
+  "lng": 7.862852157142856,
   "mieter": []
  },
  "interlaken|höheweg|151": {
   "street": "Höheweg",
   "hn": "151",
-  "lat": 46.6892742,
-  "lng": 7.862583,
+  "lat": 46.689259323076925,
+  "lng": 7.862624630769232,
   "mieter": []
+ },
+ "interlaken|bahnhofstrasse|5": {
+  "street": "Bahnhofstrasse",
+  "hn": "5",
+  "lat": 46.68456315714286,
+  "lng": 7.8541981285714275,
+  "mieter": [
+   "Läderach"
+  ]
+ },
+ "interlaken|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 46.68447591666666,
+  "lng": 7.853879777777777,
+  "mieter": [
+   "McDonald's"
+  ]
  },
  "interlaken|bahnhofstrasse|7": {
   "street": "Bahnhofstrasse",
   "hn": "7",
-  "lat": 46.6843505,
-  "lng": 7.8542327,
+  "lat": 46.68436503181818,
+  "lng": 7.854203949999999,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|4": {
+  "street": "Aarmühlestrasse",
+  "hn": "4",
+  "lat": 46.684144961538465,
+  "lng": 7.854171761538462,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|16": {
+  "street": "Aarmühlestrasse",
+  "hn": "16",
+  "lat": 46.68384034444445,
+  "lng": 7.853294933333334,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|3": {
   "street": "Bahnhofstrasse",
   "hn": "3",
-  "lat": 46.6846739,
-  "lng": 7.854342,
+  "lat": 46.684702419999994,
+  "lng": 7.85433066,
+  "mieter": [
+   "Bayard"
+  ]
+ },
+ "interlaken|aarmühlestrasse|8": {
+  "street": "Aarmühlestrasse",
+  "hn": "8",
+  "lat": 46.683956290909094,
+  "lng": 7.853895672727273,
   "mieter": []
+ },
+ "interlaken|aarmühlestrasse|17": {
+  "street": "Aarmühlestrasse",
+  "hn": "17",
+  "lat": 46.683429100000005,
+  "lng": 7.853963800000001,
+  "mieter": [
+   "Weinhandlung Ritschard"
+  ]
+ },
+ "interlaken|bahnhofstrasse|23": {
+  "street": "Bahnhofstrasse",
+  "hn": "23",
+  "lat": 46.684253524999995,
+  "lng": 7.853499337500001,
+  "mieter": [
+   "Tchibo"
+  ]
  },
  "interlaken|centralstrasse|3a": {
   "street": "Centralstrasse",
   "hn": "3a",
-  "lat": 46.6848911,
-  "lng": 7.85503,
+  "lat": 46.684908320000005,
+  "lng": 7.85501821,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|15": {
   "street": "Bahnhofstrasse",
   "hn": "15",
-  "lat": 46.6844222,
-  "lng": 7.853715,
+  "lat": 46.6843969,
+  "lng": 7.853739916666666,
+  "mieter": [
+   "Victorinox",
+   "LG Outdoors"
+  ]
+ },
+ "interlaken|aarmühlestrasse|6": {
+  "street": "Aarmühlestrasse",
+  "hn": "6",
+  "lat": 46.68404271428572,
+  "lng": 7.853972485714285,
   "mieter": []
+ },
+ "interlaken|rosenstrasse|2": {
+  "street": "Rosenstrasse",
+  "hn": "2",
+  "lat": 46.68436092,
+  "lng": 7.854767593333333,
+  "mieter": [
+   "RE/MAX"
+  ]
+ },
+ "interlaken|bahnhofstrasse|5a": {
+  "street": "Bahnhofstrasse",
+  "hn": "5a",
+  "lat": 46.68451011250001,
+  "lng": 7.8541061999999995,
+  "mieter": [
+   "Grosse Apotheke Dr. Bichsel",
+   "Timberland"
+  ]
  },
  "interlaken|bahnhofstrasse|15a": {
   "street": "Bahnhofstrasse",
   "hn": "15a",
-  "lat": 46.6842924,
-  "lng": 7.8538404,
+  "lat": 46.684275066666665,
+  "lng": 7.8538427111111115,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|14": {
+  "street": "Aarmühlestrasse",
+  "hn": "14",
+  "lat": 46.6838874,
+  "lng": 7.8535468375,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|10": {
+  "street": "Aarmühlestrasse",
+  "hn": "10",
+  "lat": 46.684057527272735,
+  "lng": 7.853715709090909,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|6a": {
+  "street": "Aarmühlestrasse",
+  "hn": "6a",
+  "lat": 46.6841692,
+  "lng": 7.853898888888889,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|19a": {
   "street": "Bahnhofstrasse",
   "hn": "19a",
-  "lat": 46.6842194,
-  "lng": 7.8537709,
+  "lat": 46.68421298333333,
+  "lng": 7.853783533333332,
   "mieter": []
  },
  "interlaken|jungfraustrasse|38": {
   "street": "Jungfraustrasse",
   "hn": "38",
-  "lat": 46.6844998,
-  "lng": 7.8564357,
-  "mieter": []
+  "lat": 46.68451757500001,
+  "lng": 7.856465504166665,
+  "mieter": [
+   "Jenni Hemden",
+   "Flamingo"
+  ]
  },
  "interlaken|höheweg|36": {
   "street": "Höheweg",
   "hn": "36",
-  "lat": 46.68521,
-  "lng": 7.8563786,
+  "lat": 46.68521371666666,
+  "lng": 7.8563480666666665,
   "mieter": []
  },
  "interlaken|jungfraustrasse|6": {
   "street": "Jungfraustrasse",
   "hn": "6",
-  "lat": 46.6848669,
-  "lng": 7.8556677,
+  "lat": 46.68483538571429,
+  "lng": 7.855652014285714,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|29": {
+  "street": "Aarmühlestrasse",
+  "hn": "29",
+  "lat": 46.683218053333334,
+  "lng": 7.8530156533333315,
   "mieter": []
  },
  "interlaken|centralstrasse|12": {
   "street": "Centralstrasse",
   "hn": "12",
-  "lat": 46.6840894,
-  "lng": 7.8554964,
+  "lat": 46.6840827125,
+  "lng": 7.855474875,
   "mieter": []
  },
  "interlaken|jungfraustrasse|5": {
   "street": "Jungfraustrasse",
   "hn": "5",
-  "lat": 46.68509,
-  "lng": 7.8559436,
-  "mieter": []
+  "lat": 46.68510416,
+  "lng": 7.855928209999999,
+  "mieter": [
+   "Martinaglia Optik"
+  ]
  },
  "interlaken|höheweg|24": {
   "street": "Höheweg",
   "hn": "24",
-  "lat": 46.685311,
-  "lng": 7.8558734,
-  "mieter": []
+  "lat": 46.68528671,
+  "lng": 7.855887440000001,
+  "mieter": [
+   "Import Optik"
+  ]
  },
  "interlaken|jungfraustrasse|19": {
   "street": "Jungfraustrasse",
   "hn": "19",
-  "lat": 46.6848937,
-  "lng": 7.8563266,
+  "lat": 46.68492536363636,
+  "lng": 7.8563724909090915,
   "mieter": []
  },
  "interlaken|jungfraustrasse|46": {
   "street": "Jungfraustrasse",
   "hn": "46",
-  "lat": 46.6840897,
-  "lng": 7.8571814,
+  "lat": 46.68411852857143,
+  "lng": 7.857090271428572,
+  "mieter": [
+   "Chäs Fritz",
+   "Bubbletee",
+   "Rang Mahal",
+   "Delhi Darbar",
+   "Coiffure Monika Braun"
+  ]
+ },
+ "interlaken|rosenstrasse|3": {
+  "street": "Rosenstrasse",
+  "hn": "3",
+  "lat": 46.684225106250004,
+  "lng": 7.855296431249999,
+  "mieter": [
+   "EKI"
+  ]
+ },
+ "interlaken|aarmühlestrasse|23": {
+  "street": "Aarmühlestrasse",
+  "hn": "23",
+  "lat": 46.68344775238095,
+  "lng": 7.85339379047619,
   "mieter": []
  },
  "interlaken|centralstrasse|22": {
   "street": "Centralstrasse",
   "hn": "22",
-  "lat": 46.6840653,
-  "lng": 7.856026,
+  "lat": 46.684072075,
+  "lng": 7.85604759,
   "mieter": []
  },
  "interlaken|centralstrasse|26a": {
   "street": "Centralstrasse",
   "hn": "26a",
-  "lat": 46.6839328,
-  "lng": 7.8560427,
+  "lat": 46.68394612,
+  "lng": 7.8560453,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|27": {
+  "street": "Rosenstrasse",
+  "hn": "27",
+  "lat": 46.68319448095239,
+  "lng": 7.855903519047618,
   "mieter": []
  },
  "interlaken|centralstrasse|11": {
   "street": "Centralstrasse",
   "hn": "11",
-  "lat": 46.6846857,
-  "lng": 7.8553686,
-  "mieter": []
+  "lat": 46.68470043,
+  "lng": 7.8553811499999995,
+  "mieter": [
+   "Zhong Canguan"
+  ]
+ },
+ "interlaken|rosenstrasse|17": {
+  "street": "Rosenstrasse",
+  "hn": "17",
+  "lat": 46.68379123181819,
+  "lng": 7.855879872727272,
+  "mieter": [
+   "Brasserie 17"
+  ]
+ },
+ "interlaken|aarmühlestrasse|1": {
+  "street": "Aarmühlestrasse",
+  "hn": "1",
+  "lat": 46.68408920499999,
+  "lng": 7.854956990000001,
+  "mieter": [
+   "Switcher",
+   "Globetrotter",
+   "Remax"
+  ]
  },
  "interlaken|jungfraustrasse|37": {
   "street": "Jungfraustrasse",
   "hn": "37",
-  "lat": 46.6850179,
-  "lng": 7.8567948,
+  "lat": 46.68501,
+  "lng": 7.85678154,
   "mieter": []
  },
  "interlaken|höheweg|20": {
   "street": "Höheweg",
   "hn": "20",
-  "lat": 46.685163,
-  "lng": 7.8560742,
+  "lat": 46.6851422076923,
+  "lng": 7.856084184615384,
   "mieter": []
  },
  "interlaken|centralstrasse|26": {
   "street": "Centralstrasse",
   "hn": "26",
-  "lat": 46.6840407,
-  "lng": 7.8562699,
-  "mieter": []
+  "lat": 46.68402635555556,
+  "lng": 7.85627041111111,
+  "mieter": [
+   "Layaly Beirut"
+  ]
  },
  "interlaken|höheweg|44": {
   "street": "Höheweg",
   "hn": "44",
-  "lat": 46.6852893,
-  "lng": 7.8564313,
+  "lat": 46.685280957142865,
+  "lng": 7.856443571428572,
   "mieter": []
  },
  "interlaken|jungfraustrasse|18": {
   "street": "Jungfraustrasse",
   "hn": "18",
-  "lat": 46.6847574,
-  "lng": 7.8560654,
+  "lat": 46.68476652,
+  "lng": 7.85606564,
   "mieter": []
  },
  "interlaken|centralstrasse|15": {
   "street": "Centralstrasse",
   "hn": "15",
-  "lat": 46.6844605,
-  "lng": 7.855685,
+  "lat": 46.6844719,
+  "lng": 7.855688219999999,
   "mieter": []
  },
  "interlaken|jungfraustrasse|67": {
   "street": "Jungfraustrasse",
   "hn": "67",
-  "lat": 46.6839348,
-  "lng": 7.8583612,
+  "lat": 46.68394646,
+  "lng": 7.8583340800000006,
   "mieter": []
  },
  "interlaken|jungfraustrasse|28": {
   "street": "Jungfraustrasse",
   "hn": "28",
-  "lat": 46.6847004,
-  "lng": 7.85616,
+  "lat": 46.68470476,
+  "lng": 7.8561796600000005,
+  "mieter": [
+   "Restaurante Mexicano"
+  ]
+ },
+ "interlaken|rosenstrasse|21": {
+  "street": "Rosenstrasse",
+  "hn": "21",
+  "lat": 46.6835382,
+  "lng": 7.8557958800000005,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|19": {
+  "street": "Rosenstrasse",
+  "hn": "19",
+  "lat": 46.68349886,
+  "lng": 7.85563032,
   "mieter": []
  },
  "interlaken|jungfraustrasse|16": {
   "street": "Jungfraustrasse",
   "hn": "16",
-  "lat": 46.684793,
-  "lng": 7.8560072,
-  "mieter": []
+  "lat": 46.68479163333333,
+  "lng": 7.856008133333333,
+  "mieter": [
+   "Flaschengeist Shop"
+  ]
  },
  "interlaken|jungfraustrasse|24": {
   "street": "Jungfraustrasse",
   "hn": "24",
-  "lat": 46.6845881,
-  "lng": 7.8560376,
+  "lat": 46.68459804,
+  "lng": 7.85603144,
   "mieter": []
  },
  "interlaken|jungfraustrasse|10": {
   "street": "Jungfraustrasse",
   "hn": "10",
-  "lat": 46.6848067,
-  "lng": 7.8557914,
+  "lat": 46.68479101538462,
+  "lng": 7.855729176923076,
   "mieter": []
+ },
+ "interlaken|rosenstrasse|10": {
+  "street": "Rosenstrasse",
+  "hn": "10",
+  "lat": 46.683878214285706,
+  "lng": 7.85505777142857,
+  "mieter": [
+   "König"
+  ]
  },
  "interlaken|centralstrasse|16": {
   "street": "Centralstrasse",
   "hn": "16",
-  "lat": 46.6842258,
-  "lng": 7.8556814,
+  "lat": 46.684221560000005,
+  "lng": 7.855663079999999,
   "mieter": []
  },
  "interlaken|jungfraustrasse|31": {
   "street": "Jungfraustrasse",
   "hn": "31",
-  "lat": 46.6849514,
-  "lng": 7.8566662,
+  "lat": 46.68494013333333,
+  "lng": 7.856681233333333,
   "mieter": []
  },
  "interlaken|jungfraustrasse|44": {
   "street": "Jungfraustrasse",
   "hn": "44",
-  "lat": 46.6842993,
-  "lng": 7.8569018,
+  "lat": 46.68427848,
+  "lng": 7.856903340000001,
   "mieter": []
  },
  "interlaken|centralstrasse|8": {
   "street": "Centralstrasse",
   "hn": "8",
-  "lat": 46.6842731,
-  "lng": 7.8555689,
-  "mieter": []
+  "lat": 46.68428772,
+  "lng": 7.85556796,
+  "mieter": [
+   "Vivi's Wok"
+  ]
  },
  "interlaken|centralstrasse|28a": {
   "street": "Centralstrasse",
   "hn": "28a",
-  "lat": 46.6838309,
-  "lng": 7.856708,
+  "lat": 46.683830060000005,
+  "lng": 7.85669982,
   "mieter": []
  },
  "interlaken|centralstrasse|20": {
   "street": "Centralstrasse",
   "hn": "20",
-  "lat": 46.683921,
-  "lng": 7.8558817,
+  "lat": 46.68395567777778,
+  "lng": 7.855884277777779,
   "mieter": []
  },
  "interlaken|jungfraustrasse|33": {
   "street": "Jungfraustrasse",
   "hn": "33",
-  "lat": 46.684775,
-  "lng": 7.8565083,
-  "mieter": []
+  "lat": 46.68475708,
+  "lng": 7.85649748,
+  "mieter": [
+   "The Mad Cow",
+   "Rekar"
+  ]
  },
  "interlaken|centralstrasse|9": {
   "street": "Centralstrasse",
   "hn": "9",
-  "lat": 46.6846735,
-  "lng": 7.8551832,
-  "mieter": []
+  "lat": 46.68466499090909,
+  "lng": 7.855188645454546,
+  "mieter": [
+   "Geo Tours"
+  ]
  },
  "interlaken|centralstrasse|40": {
   "street": "Centralstrasse",
   "hn": "40",
-  "lat": 46.6837301,
-  "lng": 7.8567719,
+  "lat": 46.68372500909091,
+  "lng": 7.856807472727272,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|31": {
+  "street": "Aarmühlestrasse",
+  "hn": "31",
+  "lat": 46.683086460000006,
+  "lng": 7.85322532,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|23": {
+  "street": "Rosenstrasse",
+  "hn": "23",
+  "lat": 46.68357752,
+  "lng": 7.85596142,
   "mieter": []
  },
  "interlaken|jungfraustrasse|13": {
   "street": "Jungfraustrasse",
   "hn": "13",
-  "lat": 46.6851071,
-  "lng": 7.8564435,
+  "lat": 46.68510814285714,
+  "lng": 7.856440657142857,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|14": {
+  "street": "Rosenstrasse",
+  "hn": "14",
+  "lat": 46.68379122,
+  "lng": 7.854701520000001,
   "mieter": []
  },
  "interlaken|centralstrasse|18b": {
   "street": "Centralstrasse",
   "hn": "18b",
-  "lat": 46.6839725,
-  "lng": 7.855512,
+  "lat": 46.683957683333325,
+  "lng": 7.855506733333333,
   "mieter": []
  },
  "interlaken|jungfraustrasse|30": {
   "street": "Jungfraustrasse",
   "hn": "30",
-  "lat": 46.6846587,
-  "lng": 7.8562556,
+  "lat": 46.68464573999999,
+  "lng": 7.856263,
   "mieter": []
  },
  "interlaken|jungfraustrasse|22": {
   "street": "Jungfraustrasse",
   "hn": "22",
-  "lat": 46.6847105,
-  "lng": 7.8560004,
+  "lat": 46.68471003333334,
+  "lng": 7.856001200000001,
   "mieter": []
  },
  "interlaken|centralstrasse|32": {
   "street": "Centralstrasse",
   "hn": "32",
-  "lat": 46.6838577,
-  "lng": 7.8564102,
+  "lat": 46.683867711111105,
+  "lng": 7.856399577777777,
+  "mieter": []
+ },
+ "interlaken|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 46.68445591666667,
+  "lng": 7.85262955,
   "mieter": []
  },
  "interlaken|centralstrasse|18a": {
   "street": "Centralstrasse",
   "hn": "18a",
-  "lat": 46.6841741,
-  "lng": 7.855917,
-  "mieter": []
+  "lat": 46.684161628571424,
+  "lng": 7.855904742857144,
+  "mieter": [
+   "Inter Pizza Express"
+  ]
  },
  "interlaken|höheweg|54": {
   "street": "Höheweg",
   "hn": "54",
-  "lat": 46.6855416,
-  "lng": 7.8564151,
-  "mieter": []
+  "lat": 46.68554253333333,
+  "lng": 7.856422077777777,
+  "mieter": [
+   "Omega"
+  ]
  },
  "interlaken|höheweg|50a": {
   "street": "Höheweg",
   "hn": "50a",
-  "lat": 46.6851616,
-  "lng": 7.8565485,
+  "lat": 46.685168579999996,
+  "lng": 7.856547260000001,
   "mieter": []
  },
  "interlaken|centralstrasse|3c": {
   "street": "Centralstrasse",
   "hn": "3c",
-  "lat": 46.6847827,
-  "lng": 7.8553663,
+  "lat": 46.684774940000004,
+  "lng": 7.8553660800000005,
   "mieter": []
  },
  "interlaken|jungfraustrasse|25": {
   "street": "Jungfraustrasse",
   "hn": "25",
-  "lat": 46.6848674,
-  "lng": 7.8564094,
+  "lat": 46.684866822222226,
+  "lng": 7.856401055555556,
   "mieter": []
  },
  "interlaken|centralstrasse|4": {
   "street": "Centralstrasse",
   "hn": "4",
-  "lat": 46.6844016,
-  "lng": 7.8553107,
-  "mieter": []
+  "lat": 46.684402166666665,
+  "lng": 7.8553088666666655,
+  "mieter": [
+   "Fernanda Dänzer"
+  ]
+ },
+ "interlaken|rosenstrasse|13": {
+  "street": "Rosenstrasse",
+  "hn": "13",
+  "lat": 46.68381742500001,
+  "lng": 7.8555884625,
+  "mieter": [
+   "Chili"
+  ]
  },
  "interlaken|jungfraustrasse|35a": {
   "street": "Jungfraustrasse",
   "hn": "35a",
-  "lat": 46.6848945,
-  "lng": 7.8567222,
+  "lat": 46.684883733333336,
+  "lng": 7.856718022222223,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|9": {
+  "street": "Rosenstrasse",
+  "hn": "9",
+  "lat": 46.68388903333334,
+  "lng": 7.855453416666666,
   "mieter": []
  },
  "interlaken|centralstrasse|17": {
   "street": "Centralstrasse",
   "hn": "17",
-  "lat": 46.6844213,
-  "lng": 7.8557748,
-  "mieter": []
+  "lat": 46.68443978333334,
+  "lng": 7.855779999999999,
+  "mieter": [
+   "Inter City Shop"
+  ]
  },
  "interlaken|jungfraustrasse|36": {
   "street": "Jungfraustrasse",
   "hn": "36",
-  "lat": 46.6846132,
-  "lng": 7.8563436,
-  "mieter": []
+  "lat": 46.684600671428576,
+  "lng": 7.856325757142858,
+  "mieter": [
+   "Tabak Corner"
+  ]
  },
  "interlaken|jungfraustrasse|9": {
   "street": "Jungfraustrasse",
   "hn": "9",
-  "lat": 46.6849117,
-  "lng": 7.8561612,
+  "lat": 46.684899619999996,
+  "lng": 7.8561644,
   "mieter": []
  },
  "interlaken|centralstrasse|19": {
   "street": "Centralstrasse",
   "hn": "19",
-  "lat": 46.6844399,
-  "lng": 7.8559732,
-  "mieter": []
+  "lat": 46.68444737777778,
+  "lng": 7.855919322222222,
+  "mieter": [
+   "Cine Rex"
+  ]
  },
  "interlaken|höheweg|50": {
   "street": "Höheweg",
   "hn": "50",
-  "lat": 46.6852331,
-  "lng": 7.8565098,
+  "lat": 46.6852179,
+  "lng": 7.85651014,
   "mieter": []
+ },
+ "interlaken|rosenstrasse|5": {
+  "street": "Rosenstrasse",
+  "hn": "5",
+  "lat": 46.68411914,
+  "lng": 7.85532073,
+  "mieter": [
+   "Home & Gourmet",
+   "Sri Manee"
+  ]
  },
  "interlaken|centralstrasse|6": {
   "street": "Centralstrasse",
   "hn": "6",
-  "lat": 46.6843372,
-  "lng": 7.8554276,
-  "mieter": []
+  "lat": 46.68435223333333,
+  "lng": 7.85540155,
+  "mieter": [
+   "Taste of India"
+  ]
  },
  "interlaken|centralstrasse|18": {
   "street": "Centralstrasse",
   "hn": "18",
-  "lat": 46.6841886,
-  "lng": 7.8558036,
-  "mieter": []
+  "lat": 46.68416635714285,
+  "lng": 7.855818800000001,
+  "mieter": [
+   "Tandoori Restaurant"
+  ]
  },
  "interlaken|centralstrasse|5": {
   "street": "Centralstrasse",
   "hn": "5",
-  "lat": 46.6847448,
-  "lng": 7.855228,
+  "lat": 46.684754171428565,
+  "lng": 7.855206471428572,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|18": {
+  "street": "Rosenstrasse",
+  "hn": "18",
+  "lat": 46.68361442857143,
+  "lng": 7.854320371428571,
   "mieter": []
  },
  "interlaken|centralstrasse|10": {
   "street": "Centralstrasse",
   "hn": "10",
-  "lat": 46.6841764,
-  "lng": 7.8554422,
+  "lat": 46.68418968571428,
+  "lng": 7.855450599999999,
   "mieter": []
  },
  "interlaken|centralstrasse|14": {
   "street": "Centralstrasse",
   "hn": "14",
-  "lat": 46.6841242,
-  "lng": 7.8556277,
+  "lat": 46.68412206,
+  "lng": 7.85561064,
   "mieter": []
  },
  "interlaken|jungfraustrasse|7": {
   "street": "Jungfraustrasse",
   "hn": "7",
-  "lat": 46.6849967,
-  "lng": 7.8560668,
-  "mieter": []
+  "lat": 46.68499103999999,
+  "lng": 7.856084206666666,
+  "mieter": [
+   "Spice Village"
+  ]
  },
  "interlaken|centralstrasse|7": {
   "street": "Centralstrasse",
   "hn": "7",
-  "lat": 46.6847633,
-  "lng": 7.8550756,
-  "mieter": []
+  "lat": 46.684768455,
+  "lng": 7.855059004999999,
+  "mieter": [
+   "Tom Yum Kung",
+   "Bao's"
+  ]
  },
  "interlaken|jungfraustrasse|11": {
   "street": "Jungfraustrasse",
   "hn": "11",
-  "lat": 46.6849763,
-  "lng": 7.8562924,
+  "lat": 46.6849696,
+  "lng": 7.8562593285714275,
   "mieter": []
  },
  "interlaken|jungfraustrasse|32": {
   "street": "Jungfraustrasse",
   "hn": "32",
-  "lat": 46.6845471,
-  "lng": 7.8561919,
+  "lat": 46.684559183333334,
+  "lng": 7.85620455,
   "mieter": []
  },
  "interlaken|centralstrasse|42": {
   "street": "Centralstrasse",
   "hn": "42",
-  "lat": 46.6838342,
-  "lng": 7.8570953,
+  "lat": 46.683815963636356,
+  "lng": 7.857071863636363,
+  "mieter": [
+   "Slo Frezzzeur Coiffeur",
+   "Al Sahara Pizzeria"
+  ]
+ },
+ "interlaken|rosenstrasse|20": {
+  "street": "Rosenstrasse",
+  "hn": "20",
+  "lat": 46.6834584625,
+  "lng": 7.8542085125,
   "mieter": []
  },
  "interlaken|centralstrasse|13": {
   "street": "Centralstrasse",
   "hn": "13",
-  "lat": 46.6845665,
-  "lng": 7.8554131,
-  "mieter": []
+  "lat": 46.68456200000001,
+  "lng": 7.855434545454544,
+  "mieter": [
+   "Minari"
+  ]
  },
  "interlaken|höheweg|22": {
   "street": "Höheweg",
   "hn": "22",
-  "lat": 46.6850556,
-  "lng": 7.856178,
+  "lat": 46.68506578,
+  "lng": 7.856176239999999,
   "mieter": []
  },
  "interlaken|jungfraustrasse|39": {
   "street": "Jungfraustrasse",
   "hn": "39",
-  "lat": 46.6849534,
-  "lng": 7.856817,
+  "lat": 46.6849491,
+  "lng": 7.85679015,
   "mieter": []
  },
  "interlaken|centralstrasse|28": {
   "street": "Centralstrasse",
   "hn": "28",
-  "lat": 46.6839846,
-  "lng": 7.8564979,
+  "lat": 46.68397421666666,
+  "lng": 7.856454616666667,
   "mieter": []
  },
  "interlaken|jungfraustrasse|34": {
   "street": "Jungfraustrasse",
   "hn": "34",
-  "lat": 46.6845068,
-  "lng": 7.8562795,
+  "lat": 46.68450817142857,
+  "lng": 7.856293957142857,
   "mieter": []
  },
  "interlaken|centralstrasse|30": {
   "street": "Centralstrasse",
   "hn": "30",
-  "lat": 46.6839254,
-  "lng": 7.8563083,
+  "lat": 46.683921633333334,
+  "lng": 7.8563032,
   "mieter": []
  },
  "interlaken|jungfraustrasse|27": {
   "street": "Jungfraustrasse",
   "hn": "27",
-  "lat": 46.6848016,
-  "lng": 7.8564114,
+  "lat": 46.68482461666667,
+  "lng": 7.856430516666666,
+  "mieter": [
+   "Al Madina"
+  ]
+ },
+ "interlaken|aarmühlestrasse|11": {
+  "street": "Aarmühlestrasse",
+  "hn": "11",
+  "lat": 46.6837535,
+  "lng": 7.8541484846153855,
   "mieter": []
+ },
+ "interlaken|rosenstrasse|7": {
+  "street": "Rosenstrasse",
+  "hn": "7",
+  "lat": 46.68398506363636,
+  "lng": 7.855340509090909,
+  "mieter": [
+   "Rösterei Heer",
+   "Taj Palace"
+  ]
  },
  "interlaken|centralstrasse|29": {
   "street": "Centralstrasse",
   "hn": "29",
-  "lat": 46.6841133,
-  "lng": 7.8569614,
-  "mieter": []
+  "lat": 46.684069014285726,
+  "lng": 7.856989828571428,
+  "mieter": [
+   "Renaissance",
+   "Chotivala"
+  ]
  },
  "interlaken|centralstrasse|27": {
   "street": "Centralstrasse",
   "hn": "27",
-  "lat": 46.6841824,
-  "lng": 7.8567346,
+  "lat": 46.68414401818182,
+  "lng": 7.8567485,
+  "mieter": [
+   "Gut Markt"
+  ]
+ },
+ "interlaken|aarmühlestrasse|9": {
+  "street": "Aarmühlestrasse",
+  "hn": "9",
+  "lat": 46.68386438888888,
+  "lng": 7.854308466666666,
   "mieter": []
  },
  "interlaken|centralstrasse|34": {
   "street": "Centralstrasse",
   "hn": "34",
-  "lat": 46.6837856,
-  "lng": 7.8562624,
+  "lat": 46.683794693749995,
+  "lng": 7.85623231875,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|24": {
+  "street": "Rosenstrasse",
+  "hn": "24",
+  "lat": 46.68371094444445,
+  "lng": 7.85508341111111,
   "mieter": []
  },
  "interlaken|jungfraustrasse|20": {
   "street": "Jungfraustrasse",
   "hn": "20",
-  "lat": 46.6847462,
-  "lng": 7.8559347,
+  "lat": 46.684741374999994,
+  "lng": 7.855924487499999,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|13": {
+  "street": "Aarmühlestrasse",
+  "hn": "13",
+  "lat": 46.68368396923077,
+  "lng": 7.8539962692307705,
   "mieter": []
  },
  "interlaken|jungfraustrasse|35": {
   "street": "Jungfraustrasse",
   "hn": "35",
-  "lat": 46.6847703,
-  "lng": 7.8565832,
+  "lat": 46.68477584166667,
+  "lng": 7.8566025250000004,
   "mieter": []
  },
  "interlaken|centralstrasse|26b": {
   "street": "Centralstrasse",
   "hn": "26b",
-  "lat": 46.683927,
-  "lng": 7.8562166,
+  "lat": 46.68392698,
+  "lng": 7.8562214400000006,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|19": {
+  "street": "Aarmühlestrasse",
+  "hn": "19",
+  "lat": 46.68325702222223,
+  "lng": 7.85416302222222,
   "mieter": []
  },
  "interlaken|centralstrasse|3": {
   "street": "Centralstrasse",
   "hn": "3",
-  "lat": 46.6848473,
-  "lng": 7.8549802,
-  "mieter": []
+  "lat": 46.68482871874999,
+  "lng": 7.854975375000001,
+  "mieter": [
+   "Kabelfernsehen Bödeli"
+  ]
  },
  "interlaken|jungfraustrasse|21": {
   "street": "Jungfraustrasse",
   "hn": "21",
-  "lat": 46.6850165,
-  "lng": 7.8566169,
+  "lat": 46.68499550000001,
+  "lng": 7.856603359999999,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|11": {
+  "street": "Rosenstrasse",
+  "hn": "11",
+  "lat": 46.68393148333333,
+  "lng": 7.855695983333334,
   "mieter": []
  },
  "interlaken|jungfraustrasse|45": {
   "street": "Jungfraustrasse",
   "hn": "45",
-  "lat": 46.6847672,
-  "lng": 7.856731,
+  "lat": 46.68475906428572,
+  "lng": 7.856693900000001,
+  "mieter": [
+   "Azzurra",
+   "Tabak Corner"
+  ]
+ },
+ "interlaken|rosenstrasse|28": {
+  "street": "Rosenstrasse",
+  "hn": "28",
+  "lat": 46.68313293571429,
+  "lng": 7.8553578857142865,
+  "mieter": [
+   "Fischer Haustechnik"
+  ]
+ },
+ "interlaken|rosenstrasse|39": {
+  "street": "Rosenstrasse",
+  "hn": "39",
+  "lat": 46.682003953846156,
+  "lng": 7.856471138461539,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|40": {
+  "street": "Rosenstrasse",
+  "hn": "40",
+  "lat": 46.68152120625,
+  "lng": 7.8561893437500006,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|42": {
+  "street": "Rosenstrasse",
+  "hn": "42",
+  "lat": 46.681511400000005,
+  "lng": 7.856003425,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|37": {
+  "street": "Rosenstrasse",
+  "hn": "37",
+  "lat": 46.68220261176471,
+  "lng": 7.8561838823529415,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|36": {
+  "street": "Rosenstrasse",
+  "hn": "36",
+  "lat": 46.68222904444444,
+  "lng": 7.8557673,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|30": {
+  "street": "Rosenstrasse",
+  "hn": "30",
+  "lat": 46.68297892,
+  "lng": 7.855437393333334,
   "mieter": []
  },
  "interlaken|höheweg|199b": {
   "street": "Höheweg",
   "hn": "199b",
-  "lat": 46.6892395,
-  "lng": 7.8639123,
+  "lat": 46.68923843125001,
+  "lng": 7.863880056250001,
   "mieter": [
    "Truly Asia"
   ]
@@ -1602,850 +2385,1064 @@
  "interlaken|höheweg|199a": {
   "street": "Höheweg",
   "hn": "199a",
-  "lat": 46.6889806,
-  "lng": 7.8637296,
-  "mieter": [
-   "Ruedi Rüssel"
-  ]
+  "lat": 46.68897926,
+  "lng": 7.86374172,
+  "mieter": []
  },
  "interlaken|höheweg|201d": {
   "street": "Höheweg",
   "hn": "201d",
-  "lat": 46.6896736,
-  "lng": 7.8634243,
+  "lat": 46.689648749999996,
+  "lng": 7.863449275000001,
   "mieter": []
  },
  "interlaken|höheweg|201b": {
   "street": "Höheweg",
   "hn": "201b",
-  "lat": 46.6894637,
-  "lng": 7.8636359,
+  "lat": 46.689450640000004,
+  "lng": 7.86362752,
   "mieter": []
  },
  "interlaken|höheweg|201c": {
   "street": "Höheweg",
   "hn": "201c",
-  "lat": 46.6895537,
-  "lng": 7.863542,
+  "lat": 46.689515337500005,
+  "lng": 7.8635165625,
   "mieter": []
  },
  "interlaken|höheweg|201a": {
   "street": "Höheweg",
   "hn": "201a",
-  "lat": 46.689358,
-  "lng": 7.8634411,
+  "lat": 46.68936657692307,
+  "lng": 7.863396415384617,
   "mieter": []
  },
  "interlaken|höheweg|201": {
   "street": "Höheweg",
   "hn": "201",
-  "lat": 46.6892342,
-  "lng": 7.8632058,
+  "lat": 46.68920647777779,
+  "lng": 7.863216322222223,
   "mieter": []
  },
  "interlaken|höheweg|90": {
   "street": "Höheweg",
   "hn": "90",
-  "lat": 46.6893024,
-  "lng": 7.8652671,
-  "mieter": []
+  "lat": 46.689313219999995,
+  "lng": 7.8652682,
+  "mieter": [
+   "Maestro Grill"
+  ]
  },
  "interlaken|jungfraustrasse|48": {
   "street": "Jungfraustrasse",
   "hn": "48",
-  "lat": 46.6837447,
-  "lng": 7.8575719,
+  "lat": 46.6837198,
+  "lng": 7.857560599999999,
   "mieter": []
  },
  "interlaken|jungfraustrasse|52": {
   "street": "Jungfraustrasse",
   "hn": "52",
-  "lat": 46.6836917,
-  "lng": 7.8579377,
+  "lat": 46.6837,
+  "lng": 7.8579210727272715,
   "mieter": []
  },
  "interlaken|jungfraustrasse|78": {
   "street": "Jungfraustrasse",
   "hn": "78",
-  "lat": 46.6827006,
-  "lng": 7.859687,
+  "lat": 46.682674600000006,
+  "lng": 7.859697446153846,
   "mieter": []
  },
  "interlaken|jungfraustrasse|50": {
   "street": "Jungfraustrasse",
   "hn": "50",
-  "lat": 46.6837257,
-  "lng": 7.8577655,
+  "lat": 46.683742345454554,
+  "lng": 7.857776381818183,
   "mieter": []
  },
  "interlaken|jungfraustrasse|60": {
   "street": "Jungfraustrasse",
   "hn": "60",
-  "lat": 46.6833689,
-  "lng": 7.8585199,
+  "lat": 46.68339653333333,
+  "lng": 7.858442,
   "mieter": []
  },
  "interlaken|jungfraustrasse|60a": {
   "street": "Jungfraustrasse",
   "hn": "60a",
-  "lat": 46.6832655,
-  "lng": 7.8587465,
+  "lat": 46.68323667777778,
+  "lng": 7.858806944444445,
   "mieter": []
  },
  "interlaken|höheweg|67": {
   "street": "Höheweg",
   "hn": "67",
-  "lat": 46.6887429,
-  "lng": 7.8571672,
+  "lat": 46.688735844444444,
+  "lng": 7.857182777777776,
   "mieter": []
  },
  "interlaken|jungfraustrasse|70": {
   "street": "Jungfraustrasse",
   "hn": "70",
-  "lat": 46.6830267,
-  "lng": 7.8592832,
+  "lat": 46.68302974285713,
+  "lng": 7.859298464285714,
   "mieter": []
  },
  "interlaken|jungfraustrasse|81": {
   "street": "Jungfraustrasse",
   "hn": "81",
-  "lat": 46.6838049,
-  "lng": 7.8595498,
+  "lat": 46.68377756666667,
+  "lng": 7.8595860066666665,
   "mieter": []
  },
  "interlaken|jungfraustrasse|64": {
   "street": "Jungfraustrasse",
   "hn": "64",
-  "lat": 46.6830085,
-  "lng": 7.8589077,
+  "lat": 46.683013046153846,
+  "lng": 7.858936569230769,
   "mieter": []
  },
  "interlaken|jungfraustrasse|75": {
   "street": "Jungfraustrasse",
   "hn": "75",
-  "lat": 46.6839918,
-  "lng": 7.8595659,
+  "lat": 46.68397936,
+  "lng": 7.859548960000001,
   "mieter": []
  },
  "interlaken|jungfraustrasse|87": {
   "street": "Jungfraustrasse",
   "hn": "87",
-  "lat": 46.6834468,
-  "lng": 7.8599874,
+  "lat": 46.68345975555555,
+  "lng": 7.860036755555557,
   "mieter": []
  },
  "interlaken|jungfraustrasse|69": {
   "street": "Jungfraustrasse",
   "hn": "69",
-  "lat": 46.6839766,
-  "lng": 7.8589257,
+  "lat": 46.683983080000004,
+  "lng": 7.858887820000001,
   "mieter": []
  },
  "interlaken|jungfraustrasse|77a": {
   "street": "Jungfraustrasse",
   "hn": "77a",
-  "lat": 46.6837601,
-  "lng": 7.8591471,
+  "lat": 46.683751493749995,
+  "lng": 7.859130899999999,
   "mieter": []
  },
  "interlaken|jungfraustrasse|68": {
   "street": "Jungfraustrasse",
   "hn": "68",
-  "lat": 46.6829247,
-  "lng": 7.8584083,
+  "lat": 46.68293171764705,
+  "lng": 7.85844014117647,
   "mieter": []
  },
  "interlaken|jungfraustrasse|79": {
   "street": "Jungfraustrasse",
   "hn": "79",
-  "lat": 46.6835395,
-  "lng": 7.8594245,
+  "lat": 46.68355759000001,
+  "lng": 7.859427389999999,
   "mieter": []
  },
  "interlaken|jungfraustrasse|76": {
   "street": "Jungfraustrasse",
   "hn": "76",
-  "lat": 46.6828185,
-  "lng": 7.8594637,
+  "lat": 46.68281138,
+  "lng": 7.8594807200000005,
   "mieter": []
  },
  "interlaken|jungfraustrasse|77b": {
   "street": "Jungfraustrasse",
   "hn": "77b",
-  "lat": 46.6837242,
-  "lng": 7.8588481,
+  "lat": 46.683720259999994,
+  "lng": 7.85885742,
   "mieter": []
  },
  "interlaken|jungfraustrasse|95": {
   "street": "Jungfraustrasse",
   "hn": "95",
-  "lat": 46.6830018,
-  "lng": 7.8599246,
+  "lat": 46.682964511111116,
+  "lng": 7.859942211111112,
   "mieter": []
  },
  "interlaken|jungfraustrasse|72": {
   "street": "Jungfraustrasse",
   "hn": "72",
-  "lat": 46.6829324,
-  "lng": 7.8595119,
-  "mieter": []
+  "lat": 46.68291167272727,
+  "lng": 7.859475572727272,
+  "mieter": [
+   "Hoppla! Bistro"
+  ]
  },
  "interlaken|jungfraustrasse|89": {
   "street": "Jungfraustrasse",
   "hn": "89",
-  "lat": 46.6832855,
-  "lng": 7.8606333,
+  "lat": 46.683286562499994,
+  "lng": 7.860622756250001,
   "mieter": []
  },
  "interlaken|jungfraustrasse|93": {
   "street": "Jungfraustrasse",
   "hn": "93",
-  "lat": 46.6832122,
-  "lng": 7.8597135,
+  "lat": 46.68325335714287,
+  "lng": 7.859737085714286,
   "mieter": []
  },
  "interlaken|jungfraustrasse|66": {
   "street": "Jungfraustrasse",
   "hn": "66",
-  "lat": 46.6829705,
-  "lng": 7.8586623,
+  "lat": 46.682977580000006,
+  "lng": 7.85869352,
   "mieter": []
  },
  "interlaken|jungfraustrasse|80": {
   "street": "Jungfraustrasse",
   "hn": "80",
-  "lat": 46.6827101,
-  "lng": 7.8591667,
+  "lat": 46.68271490000001,
+  "lng": 7.859141466666667,
   "mieter": []
  },
  "interlaken|jungfraustrasse|82": {
   "street": "Jungfraustrasse",
   "hn": "82",
-  "lat": 46.6826789,
-  "lng": 7.8588978,
+  "lat": 46.682671488888886,
+  "lng": 7.858907777777778,
   "mieter": []
  },
  "interlaken|höheweg|135": {
   "street": "Höheweg",
   "hn": "135",
-  "lat": 46.6886453,
-  "lng": 7.8622981,
+  "lat": 46.688624473333334,
+  "lng": 7.8623239766666675,
   "mieter": []
  },
  "interlaken|höheweg|137": {
   "street": "Höheweg",
   "hn": "137",
-  "lat": 46.689349,
-  "lng": 7.8621039,
+  "lat": 46.68932585555556,
+  "lng": 7.862053433333333,
   "mieter": []
  },
  "interlaken|höheweg|141": {
   "street": "Höheweg",
   "hn": "141",
-  "lat": 46.6890551,
-  "lng": 7.8626431,
+  "lat": 46.689076666666665,
+  "lng": 7.862642155555554,
   "mieter": []
  },
  "interlaken|höheweg|147": {
   "street": "Höheweg",
   "hn": "147",
-  "lat": 46.6891382,
-  "lng": 7.8626491,
+  "lat": 46.68913641666666,
+  "lng": 7.8626499333333335,
   "mieter": []
  },
  "interlaken|höheweg|72": {
   "street": "Höheweg",
   "hn": "72",
-  "lat": 46.6884369,
-  "lng": 7.8628408,
-  "mieter": []
+  "lat": 46.68845372500001,
+  "lng": 7.862864588888889,
+  "mieter": [
+   "Beauty Création",
+   "Engel & Völkers",
+   "Kiosk"
+  ]
  },
  "interlaken|höheweg|76a": {
   "street": "Höheweg",
   "hn": "76a",
-  "lat": 46.6888946,
-  "lng": 7.8642943,
-  "mieter": []
+  "lat": 46.6888767375,
+  "lng": 7.864275362500001,
+  "mieter": [
+   "Swiss Made Shop"
+  ]
  },
  "interlaken|höheweg|82": {
   "street": "Höheweg",
   "hn": "82",
-  "lat": 46.6886425,
-  "lng": 7.8652012,
+  "lat": 46.68868177619048,
+  "lng": 7.865192185714286,
   "mieter": []
  },
  "interlaken|höheweg|78": {
   "street": "Höheweg",
   "hn": "78",
-  "lat": 46.6890587,
-  "lng": 7.8649423,
-  "mieter": []
+  "lat": 46.6890561125,
+  "lng": 7.864932312500001,
+  "mieter": [
+   "AXA"
+  ]
  },
  "interlaken|höheweg|86": {
   "street": "Höheweg",
   "hn": "86",
-  "lat": 46.6891902,
-  "lng": 7.8650494,
+  "lat": 46.68918221538461,
+  "lng": 7.865053461538461,
   "mieter": []
  },
  "interlaken|höheweg|92": {
   "street": "Höheweg",
   "hn": "92",
-  "lat": 46.6893233,
-  "lng": 7.865642,
-  "mieter": []
+  "lat": 46.689337614285705,
+  "lng": 7.865738578571429,
+  "mieter": [
+   "Chalet Beizli"
+  ]
  },
  "interlaken|höheweg|94": {
   "street": "Höheweg",
   "hn": "94",
-  "lat": 46.6895632,
-  "lng": 7.8661167,
-  "mieter": []
+  "lat": 46.689596109090914,
+  "lng": 7.866159100000001,
+  "mieter": [
+   "Asllanis",
+   "Johnny's Pub & Grill"
+  ]
  },
  "interlaken|höheweg|92a": {
   "street": "Höheweg",
   "hn": "92a",
-  "lat": 46.689289,
-  "lng": 7.8660492,
+  "lat": 46.6894059962963,
+  "lng": 7.865912485185184,
   "mieter": []
  },
  "interlaken|höheweg|221": {
   "street": "Höheweg",
   "hn": "221",
-  "lat": 46.6909554,
-  "lng": 7.8681869,
+  "lat": 46.69097218,
+  "lng": 7.868198819999999,
   "mieter": []
  },
  "interlaken|höheweg|225": {
   "street": "Höheweg",
   "hn": "225",
-  "lat": 46.6912512,
-  "lng": 7.8685467,
+  "lat": 46.691259946511614,
+  "lng": 7.868549086046512,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|2": {
+  "street": "Aarmühlestrasse",
+  "hn": "2",
+  "lat": 46.68421596,
+  "lng": 7.8545947400000005,
   "mieter": []
  },
  "interlaken|höheweg|133": {
   "street": "Höheweg",
   "hn": "133",
-  "lat": 46.6884669,
-  "lng": 7.862107,
-  "mieter": []
+  "lat": 46.68844884999999,
+  "lng": 7.8621267,
+  "mieter": [
+   "Swiss Mountain Market",
+   "Flying Wheels"
+  ]
  },
  "interlaken|jungfraustrasse|57a": {
   "street": "Jungfraustrasse",
   "hn": "57a",
-  "lat": 46.6842927,
-  "lng": 7.8574112,
+  "lat": 46.68430136,
+  "lng": 7.85739138,
   "mieter": []
  },
  "interlaken|jungfraustrasse|74": {
   "street": "Jungfraustrasse",
   "hn": "74",
-  "lat": 46.682875,
-  "lng": 7.8596106,
+  "lat": 46.68286773333333,
+  "lng": 7.8596075999999995,
   "mieter": []
  },
  "interlaken|jungfraustrasse|101": {
   "street": "Jungfraustrasse",
   "hn": "101",
-  "lat": 46.6831391,
-  "lng": 7.8602285,
+  "lat": 46.6831266125,
+  "lng": 7.860245024999999,
   "mieter": []
  },
  "interlaken|jungfraustrasse|103": {
   "street": "Jungfraustrasse",
   "hn": "103",
-  "lat": 46.6831711,
-  "lng": 7.8602916,
+  "lat": 46.68318101249999,
+  "lng": 7.860265437500001,
   "mieter": []
  },
  "interlaken|jungfraustrasse|105": {
   "street": "Jungfraustrasse",
   "hn": "105",
-  "lat": 46.6832186,
-  "lng": 7.8603694,
+  "lat": 46.68322946999999,
+  "lng": 7.86034753,
   "mieter": []
  },
  "interlaken|jungfraustrasse|62": {
   "street": "Jungfraustrasse",
   "hn": "62",
-  "lat": 46.6832009,
-  "lng": 7.8582217,
+  "lat": 46.683208500000006,
+  "lng": 7.858183288888889,
   "mieter": []
  },
  "interlaken|jungfraustrasse|73": {
   "street": "Jungfraustrasse",
   "hn": "73",
-  "lat": 46.6840302,
-  "lng": 7.8585735,
+  "lat": 46.68402008888889,
+  "lng": 7.858567566666666,
   "mieter": []
  },
  "interlaken|jungfraustrasse|83": {
   "street": "Jungfraustrasse",
   "hn": "83",
-  "lat": 46.6838616,
-  "lng": 7.8600147,
+  "lat": 46.683851272727274,
+  "lng": 7.859973945454545,
   "mieter": []
  },
  "interlaken|jungfraustrasse|85": {
   "street": "Jungfraustrasse",
   "hn": "85",
-  "lat": 46.6837292,
-  "lng": 7.8600018,
+  "lat": 46.68373926666667,
+  "lng": 7.859995383333334,
   "mieter": []
  },
  "interlaken|jungfraustrasse|99a": {
   "street": "Jungfraustrasse",
   "hn": "99a",
-  "lat": 46.6832312,
-  "lng": 7.8600777,
+  "lat": 46.68322434,
+  "lng": 7.860064339999999,
   "mieter": []
  },
  "interlaken|jungfraustrasse|99": {
   "street": "Jungfraustrasse",
   "hn": "99",
-  "lat": 46.6830992,
-  "lng": 7.8601795,
+  "lat": 46.683112699999995,
+  "lng": 7.8601725600000005,
   "mieter": []
  },
  "interlaken|marktgasse|19": {
   "street": "Marktgasse",
   "hn": "19",
-  "lat": 46.685193,
-  "lng": 7.8530963,
+  "lat": 46.68521014285714,
+  "lng": 7.853079085714286,
   "mieter": []
  },
  "interlaken|marktgasse|17": {
   "street": "Marktgasse",
   "hn": "17",
-  "lat": 46.6853389,
-  "lng": 7.8534555,
-  "mieter": []
+  "lat": 46.68535007368421,
+  "lng": 7.853477052631578,
+  "mieter": [
+   "Simply Sushi",
+   "Raiffeisen",
+   "Passa Parola"
+  ]
  },
  "interlaken|marktgasse|21": {
   "street": "Marktgasse",
   "hn": "21",
-  "lat": 46.6850658,
-  "lng": 7.8527313,
+  "lat": 46.685098011111116,
+  "lng": 7.852702555555556,
   "mieter": []
  },
  "interlaken|höheweg|43": {
   "street": "Höheweg",
   "hn": "43",
-  "lat": 46.6863494,
-  "lng": 7.8573496,
-  "mieter": []
+  "lat": 46.68637645999999,
+  "lng": 7.857324235,
+  "mieter": [
+   "Bucherer"
+  ]
  },
  "interlaken|höheweg|95": {
   "street": "Höheweg",
   "hn": "95",
-  "lat": 46.687895,
-  "lng": 7.8600383,
+  "lat": 46.68787632758621,
+  "lng": 7.860061431034483,
   "mieter": []
  },
  "interlaken|höheweg|93": {
   "street": "Höheweg",
   "hn": "93",
-  "lat": 46.6876019,
-  "lng": 7.8601203,
-  "mieter": []
+  "lat": 46.687595277777774,
+  "lng": 7.860122399999999,
+  "mieter": [
+   "Outdoor Interlaken",
+   "Esthême Cashmere"
+  ]
  },
  "interlaken|höheweg|91": {
   "street": "Höheweg",
   "hn": "91",
-  "lat": 46.6875355,
-  "lng": 7.859948,
-  "mieter": []
+  "lat": 46.68752773333333,
+  "lng": 7.859949544444444,
+  "mieter": [
+   "Swiss Chocolate Chalet"
+  ]
  },
  "interlaken|höheweg|71": {
   "street": "Höheweg",
   "hn": "71",
-  "lat": 46.6872158,
-  "lng": 7.8591273,
-  "mieter": []
+  "lat": 46.687233718749994,
+  "lng": 7.859043787499999,
+  "mieter": [
+   "Needle Bar",
+   "Le Petit Casino"
+  ]
  },
  "interlaken|höheweg|65": {
   "street": "Höheweg",
   "hn": "65",
-  "lat": 46.6884809,
-  "lng": 7.8570994,
+  "lat": 46.688442815384626,
+  "lng": 7.857132546153845,
   "mieter": []
  },
  "interlaken|marktgasse|64": {
   "street": "Marktgasse",
   "hn": "64",
-  "lat": 46.6871493,
-  "lng": 7.8525429,
+  "lat": 46.68714304,
+  "lng": 7.85254506,
   "mieter": []
  },
  "interlaken|marktgasse|64a": {
   "street": "Marktgasse",
   "hn": "64a",
-  "lat": 46.6872363,
-  "lng": 7.8527773,
+  "lat": 46.6872411,
+  "lng": 7.85277054,
+  "mieter": []
+ },
+ "interlaken|postgasse|25a": {
+  "street": "Postgasse",
+  "hn": "25a",
+  "lat": 46.687344720000006,
+  "lng": 7.85334146,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|12": {
+  "street": "Rosenstrasse",
+  "hn": "12",
+  "lat": 46.683883071428575,
+  "lng": 7.854894228571429,
   "mieter": []
  },
  "interlaken|centralstrasse|25": {
   "street": "Centralstrasse",
   "hn": "25",
-  "lat": 46.6841762,
-  "lng": 7.8565373,
+  "lat": 46.68417473333333,
+  "lng": 7.856533183333333,
   "mieter": []
  },
  "interlaken|centralstrasse|25a": {
   "street": "Centralstrasse",
   "hn": "25a",
-  "lat": 46.6841931,
-  "lng": 7.8564615,
+  "lat": 46.684196820000004,
+  "lng": 7.85646838,
   "mieter": []
  },
  "interlaken|höheweg|74": {
   "street": "Höheweg",
   "hn": "74",
-  "lat": 46.688474,
-  "lng": 7.8633818,
+  "lat": 46.688445790909086,
+  "lng": 7.863341739393938,
   "mieter": []
  },
- "interlaken|bahnhofstrasse|39": {
+ "interlaken|bahnhofstrasse|2": {
   "street": "Bahnhofstrasse",
-  "hn": "39",
-  "lat": 46.6846347,
-  "lng": 7.8500868,
+  "hn": "2",
+  "lat": 46.6849168121212,
+  "lng": 7.854055163636364,
   "mieter": []
  },
- "interlaken|bahnhofstrasse|43a": {
-  "street": "Bahnhofstrasse",
-  "hn": "43a",
-  "lat": 46.6846702,
-  "lng": 7.8508479,
+ "interlaken|rosenstrasse|34": {
+  "street": "Rosenstrasse",
+  "hn": "34",
+  "lat": 46.6824004,
+  "lng": 7.85587414,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|38": {
+  "street": "Rosenstrasse",
+  "hn": "38",
+  "lat": 46.68235518,
+  "lng": 7.85586356,
+  "mieter": []
+ },
+ "interlaken|rosenstrasse|36a": {
+  "street": "Rosenstrasse",
+  "hn": "36a",
+  "lat": 46.68233444,
+  "lng": 7.85580518,
   "mieter": []
  },
  "interlaken|jungfraustrasse|58a": {
   "street": "Jungfraustrasse",
   "hn": "58a",
-  "lat": 46.6834975,
-  "lng": 7.8581198,
+  "lat": 46.68350032857143,
+  "lng": 7.858110285714287,
   "mieter": []
  },
  "interlaken|jungfraustrasse|62a": {
   "street": "Jungfraustrasse",
   "hn": "62a",
-  "lat": 46.6830919,
-  "lng": 7.8583331,
+  "lat": 46.683094700000005,
+  "lng": 7.858328760000001,
   "mieter": []
  },
  "interlaken|centralstrasse|20a": {
   "street": "Centralstrasse",
   "hn": "20a",
-  "lat": 46.6841024,
-  "lng": 7.8556455,
+  "lat": 46.68409138333334,
+  "lng": 7.8556333,
   "mieter": []
  },
  "interlaken|centralstrasse|28b": {
   "street": "Centralstrasse",
   "hn": "28b",
-  "lat": 46.6838994,
-  "lng": 7.8567802,
+  "lat": 46.68391800526316,
+  "lng": 7.85680937894737,
+  "mieter": [
+   "Garage National Schwerzmann"
+  ]
+ },
+ "interlaken|aarmühlestrasse|35a": {
+  "street": "Aarmühlestrasse",
+  "hn": "35a",
+  "lat": 46.68278546666667,
+  "lng": 7.85252815,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|49": {
   "street": "Bahnhofstrasse",
   "hn": "49",
-  "lat": 46.6824986,
-  "lng": 7.8520808,
+  "lat": 46.68249083333333,
+  "lng": 7.852074955555556,
+  "mieter": [
+   "McOptic",
+   "Sunrise"
+  ]
+ },
+ "interlaken|aarmühlestrasse|3": {
+  "street": "Aarmühlestrasse",
+  "hn": "3",
+  "lat": 46.68406495882351,
+  "lng": 7.854694405882352,
+  "mieter": [
+   "Haarquadrat"
+  ]
+ },
+ "interlaken|rosenstrasse|22a": {
+  "street": "Rosenstrasse",
+  "hn": "22a",
+  "lat": 46.6835422,
+  "lng": 7.854815,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|9b": {
+  "street": "Aarmühlestrasse",
+  "hn": "9b",
+  "lat": 46.68372595555556,
+  "lng": 7.854479822222223,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|9a": {
+  "street": "Aarmühlestrasse",
+  "hn": "9a",
+  "lat": 46.68375312222223,
+  "lng": 7.854342966666666,
   "mieter": []
  },
  "interlaken|jungfraustrasse|77c": {
   "street": "Jungfraustrasse",
   "hn": "77c",
-  "lat": 46.6836569,
-  "lng": 7.8585974,
+  "lat": 46.68365708,
+  "lng": 7.85861752,
   "mieter": []
  },
  "interlaken|jungfraustrasse|77": {
   "street": "Jungfraustrasse",
   "hn": "77",
-  "lat": 46.6835878,
-  "lng": 7.8587426,
+  "lat": 46.68360825714286,
+  "lng": 7.8587225571428565,
   "mieter": []
  },
  "interlaken|jungfraustrasse|81a": {
   "street": "Jungfraustrasse",
   "hn": "81a",
-  "lat": 46.6836324,
-  "lng": 7.8599401,
+  "lat": 46.68363127777778,
+  "lng": 7.859942688888888,
   "mieter": []
  },
  "interlaken|jungfraustrasse|81b": {
   "street": "Jungfraustrasse",
   "hn": "81b",
-  "lat": 46.6834683,
-  "lng": 7.8596996,
+  "lat": 46.68346674,
+  "lng": 7.85969094,
   "mieter": []
  },
  "interlaken|jungfraustrasse|87b": {
   "street": "Jungfraustrasse",
   "hn": "87b",
-  "lat": 46.6833193,
-  "lng": 7.8602705,
+  "lat": 46.68331576,
+  "lng": 7.86028042,
   "mieter": []
  },
  "interlaken|höheweg|76c": {
   "street": "Höheweg",
   "hn": "76c",
-  "lat": 46.6889518,
-  "lng": 7.8645749,
-  "mieter": []
+  "lat": 46.688945499999996,
+  "lng": 7.864546633333332,
+  "mieter": [
+   "Tivoli Café Bar"
+  ]
  },
  "interlaken|höheweg|76b": {
   "street": "Höheweg",
   "hn": "76b",
-  "lat": 46.6889307,
-  "lng": 7.8644121,
-  "mieter": []
+  "lat": 46.68893055,
+  "lng": 7.864416820000001,
+  "mieter": [
+   "Bazar Tivoli"
+  ]
  },
  "interlaken|höheweg|217": {
   "street": "Höheweg",
   "hn": "217",
-  "lat": 46.6905682,
-  "lng": 7.8673414,
+  "lat": 46.690565680000006,
+  "lng": 7.86735312,
   "mieter": []
  },
  "interlaken|höheweg|193": {
   "street": "Höheweg",
   "hn": "193",
-  "lat": 46.6890662,
-  "lng": 7.8630428,
+  "lat": 46.689065240000005,
+  "lng": 7.86304052,
   "mieter": []
  },
  "interlaken|höheweg|151a": {
   "street": "Höheweg",
   "hn": "151a",
-  "lat": 46.6891076,
-  "lng": 7.8625289,
+  "lat": 46.6891056,
+  "lng": 7.862541160000001,
   "mieter": []
  },
  "interlaken|höheweg|153": {
   "street": "Höheweg",
   "hn": "153",
-  "lat": 46.6893897,
-  "lng": 7.8625076,
+  "lat": 46.68939454,
+  "lng": 7.86249692,
   "mieter": []
  },
  "interlaken|höheweg|157": {
   "street": "Höheweg",
   "hn": "157",
-  "lat": 46.6895509,
-  "lng": 7.8625575,
+  "lat": 46.68955258,
+  "lng": 7.86254498,
   "mieter": []
  },
  "interlaken|höheweg|131a": {
   "street": "Höheweg",
   "hn": "131a",
-  "lat": 46.6885743,
-  "lng": 7.8621017,
+  "lat": 46.6885786,
+  "lng": 7.862100366666667,
   "mieter": []
  },
  "interlaken|höheweg|131": {
   "street": "Höheweg",
   "hn": "131",
-  "lat": 46.6886126,
-  "lng": 7.8620859,
+  "lat": 46.68860378333333,
+  "lng": 7.8620910833333335,
   "mieter": []
  },
  "interlaken|höheweg|74a": {
   "street": "Höheweg",
   "hn": "74a",
-  "lat": 46.6887882,
-  "lng": 7.863982,
+  "lat": 46.68879212,
+  "lng": 7.86397798,
   "mieter": []
  },
  "interlaken|höheweg|75": {
   "street": "Höheweg",
   "hn": "75",
-  "lat": 46.6873151,
-  "lng": 7.8587936,
+  "lat": 46.68731845999999,
+  "lng": 7.85879356,
   "mieter": []
  },
  "interlaken|höheweg|73": {
   "street": "Höheweg",
   "hn": "73",
-  "lat": 46.6873983,
-  "lng": 7.8594859,
-  "mieter": []
+  "lat": 46.68745263636363,
+  "lng": 7.859501854545456,
+  "mieter": [
+   "Casino Gallery"
+  ]
  },
  "interlaken|höheweg|97": {
   "street": "Höheweg",
   "hn": "97",
-  "lat": 46.6882747,
-  "lng": 7.8601458,
+  "lat": 46.68827997999999,
+  "lng": 7.860150880000001,
   "mieter": []
  },
  "interlaken|höheweg|47": {
   "street": "Höheweg",
   "hn": "47",
-  "lat": 46.686986,
-  "lng": 7.857845,
-  "mieter": []
+  "lat": 46.68698303529411,
+  "lng": 7.8579220411764705,
+  "mieter": [
+   "Sapori"
+  ]
  },
  "interlaken|höheweg|53": {
   "street": "Höheweg",
   "hn": "53",
-  "lat": 46.6872408,
-  "lng": 7.8576912,
+  "lat": 46.687219342105266,
+  "lng": 7.857649526315791,
   "mieter": []
  },
  "interlaken|höheweg|39": {
   "street": "Höheweg",
   "hn": "39",
-  "lat": 46.6860773,
-  "lng": 7.8568007,
+  "lat": 46.68609485555555,
+  "lng": 7.856797366666667,
+  "mieter": [
+   "Bucherer"
+  ]
+ },
+ "interlaken|postgasse|14": {
+  "street": "Postgasse",
+  "hn": "14",
+  "lat": 46.68635629500001,
+  "lng": 7.85487571,
   "mieter": []
  },
  "interlaken|höheweg|15": {
   "street": "Höheweg",
   "hn": "15",
-  "lat": 46.6856265,
-  "lng": 7.855516,
+  "lat": 46.68560281666666,
+  "lng": 7.855512933333334,
   "mieter": []
  },
  "interlaken|marktgasse|22": {
   "street": "Marktgasse",
   "hn": "22",
-  "lat": 46.6858945,
-  "lng": 7.8534315,
+  "lat": 46.68588373,
+  "lng": 7.853413669999999,
   "mieter": []
  },
  "interlaken|marktgasse|20": {
   "street": "Marktgasse",
   "hn": "20",
-  "lat": 46.6858142,
-  "lng": 7.8534897,
-  "mieter": []
+  "lat": 46.685809516666666,
+  "lng": 7.85345817222222,
+  "mieter": [
+   "Taj Mahal"
+  ]
  },
  "interlaken|marktgasse|8": {
   "street": "Marktgasse",
   "hn": "8",
-  "lat": 46.685649,
-  "lng": 7.8541325,
-  "mieter": []
+  "lat": 46.68564807777778,
+  "lng": 7.854113866666667,
+  "mieter": [
+   "Beat Röthlisberger, Zahnarztpraxis Am Marktplatz",
+   "Blumen Werkstatt"
+  ]
  },
  "interlaken|marktgasse|4a": {
   "street": "Marktgasse",
   "hn": "4a",
-  "lat": 46.6853184,
-  "lng": 7.85399,
+  "lat": 46.68533561666667,
+  "lng": 7.854007499999999,
   "mieter": []
  },
  "interlaken|marktgasse|3": {
   "street": "Marktgasse",
   "hn": "3",
-  "lat": 46.6847122,
-  "lng": 7.8531121,
+  "lat": 46.684708324999995,
+  "lng": 7.8531353125,
   "mieter": []
  },
  "interlaken|marktgasse|21a": {
   "street": "Marktgasse",
   "hn": "21a",
-  "lat": 46.6850831,
-  "lng": 7.8529245,
+  "lat": 46.68512792666666,
+  "lng": 7.8529626799999965,
   "mieter": []
  },
  "interlaken|marktgasse|53a": {
   "street": "Marktgasse",
   "hn": "53a",
-  "lat": 46.6859562,
-  "lng": 7.852733,
+  "lat": 46.6859571,
+  "lng": 7.85272726,
   "mieter": []
  },
  "interlaken|marktgasse|61": {
   "street": "Marktgasse",
   "hn": "61",
-  "lat": 46.6859006,
-  "lng": 7.8525968,
+  "lat": 46.68591692,
+  "lng": 7.852596119999999,
   "mieter": []
  },
  "interlaken|marktgasse|67": {
   "street": "Marktgasse",
   "hn": "67",
-  "lat": 46.686388,
-  "lng": 7.8523468,
+  "lat": 46.68639272,
+  "lng": 7.85234212,
+  "mieter": []
+ },
+ "interlaken|postgasse|17a": {
+  "street": "Postgasse",
+  "hn": "17a",
+  "lat": 46.68666624,
+  "lng": 7.853652339999999,
+  "mieter": []
+ },
+ "interlaken|postgasse|39b": {
+  "street": "Postgasse",
+  "hn": "39b",
+  "lat": 46.687785860000005,
+  "lng": 7.85287394,
+  "mieter": []
+ },
+ "interlaken|postgasse|37a": {
+  "street": "Postgasse",
+  "hn": "37a",
+  "lat": 46.68757285,
+  "lng": 7.852989300000001,
+  "mieter": []
+ },
+ "interlaken|postgasse|32a": {
+  "street": "Postgasse",
+  "hn": "32a",
+  "lat": 46.68772335714285,
+  "lng": 7.8544899,
+  "mieter": []
+ },
+ "interlaken|postgasse|36a": {
+  "street": "Postgasse",
+  "hn": "36a",
+  "lat": 46.68835706,
+  "lng": 7.8548781000000005,
   "mieter": []
  },
  "interlaken|jungfraustrasse|53": {
   "street": "Jungfraustrasse",
   "hn": "53",
-  "lat": 46.6842412,
-  "lng": 7.8573355,
+  "lat": 46.68425608,
+  "lng": 7.85732488,
   "mieter": []
  },
  "interlaken|höheweg|18": {
   "street": "Höheweg",
   "hn": "18",
-  "lat": 46.6851772,
-  "lng": 7.8558999,
+  "lat": 46.68519694375,
+  "lng": 7.855898562500001,
   "mieter": []
  },
  "interlaken|höheweg|34": {
   "street": "Höheweg",
   "hn": "34",
-  "lat": 46.6851992,
-  "lng": 7.8562588,
+  "lat": 46.685220788888884,
+  "lng": 7.85624301111111,
+  "mieter": []
+ },
+ "interlaken|bahnhofstrasse|9": {
+  "street": "Bahnhofstrasse",
+  "hn": "9",
+  "lat": 46.68448486,
+  "lng": 7.8543509600000005,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|7a": {
   "street": "Bahnhofstrasse",
   "hn": "7a",
-  "lat": 46.6843676,
-  "lng": 7.8543781,
+  "lat": 46.68437008,
+  "lng": 7.854365800000001,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|19": {
   "street": "Bahnhofstrasse",
   "hn": "19",
-  "lat": 46.684364,
-  "lng": 7.8535983,
-  "mieter": []
+  "lat": 46.68434583333333,
+  "lng": 7.853587388888889,
+  "mieter": [
+   "Albert Schild"
+  ]
  },
  "interlaken|bahnhofstrasse|25e": {
   "street": "Bahnhofstrasse",
   "hn": "25e",
-  "lat": 46.6839105,
-  "lng": 7.8527531,
+  "lat": 46.68392598333333,
+  "lng": 7.8527801,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|25f": {
   "street": "Bahnhofstrasse",
   "hn": "25f",
-  "lat": 46.6839767,
-  "lng": 7.8529953,
+  "lat": 46.683983133333335,
+  "lng": 7.852988533333334,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|25g": {
   "street": "Bahnhofstrasse",
   "hn": "25g",
-  "lat": 46.6840407,
-  "lng": 7.8530909,
+  "lat": 46.684054,
+  "lng": 7.8530902,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|24": {
+  "street": "Aarmühlestrasse",
+  "hn": "24",
+  "lat": 46.68346692857143,
+  "lng": 7.852583328571429,
   "mieter": []
  },
  "interlaken|bahnhofstrasse|27a": {
   "street": "Bahnhofstrasse",
   "hn": "27a",
-  "lat": 46.6837421,
-  "lng": 7.8524033,
-  "mieter": []
+  "lat": 46.68373933,
+  "lng": 7.85240419,
+  "mieter": [
+   "Uhren Oehrli AG"
+  ]
+ },
+ "interlaken|bahnhofstrasse|24": {
+  "street": "Bahnhofstrasse",
+  "hn": "24",
+  "lat": 46.683757660000005,
+  "lng": 7.85166704,
+  "mieter": [
+   "X-Port West"
+  ]
  },
  "interlaken|bahnhofstrasse|28b": {
   "street": "Bahnhofstrasse",
   "hn": "28b",
-  "lat": 46.681791,
-  "lng": 7.8513741,
+  "lat": 46.6817992,
+  "lng": 7.85137008,
   "mieter": []
  },
  "interlaken|centralstrasse|18c": {
   "street": "Centralstrasse",
   "hn": "18c",
-  "lat": 46.6839789,
-  "lng": 7.8556829,
+  "lat": 46.68398117500001,
+  "lng": 7.8556752625,
+  "mieter": []
+ },
+ "interlaken|bahnhofstrasse|13": {
+  "street": "Bahnhofstrasse",
+  "hn": "13",
+  "lat": 46.68432983333333,
+  "lng": 7.854031066666667,
+  "mieter": []
+ },
+ "interlaken|aarmühlestrasse|6b": {
+  "street": "Aarmühlestrasse",
+  "hn": "6b",
+  "lat": 46.6839404,
+  "lng": 7.85405044,
+  "mieter": []
+ },
+ "interlaken|postgasse|33a": {
+  "street": "Postgasse",
+  "hn": "33a",
+  "lat": 46.6871252,
+  "lng": 7.8529949000000006,
   "mieter": []
  }
 }

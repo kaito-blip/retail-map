@@ -809,13 +809,16 @@
       "Höheweg",
       "Bahnhofstrasse",
       "Marktgasse",
+      "Postgasse",
       "Jungfraustrasse",
-      "Centralstrasse"
+      "Rosenstrasse",
+      "Centralstrasse",
+      "Aarmühlestrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-    "offen": "338"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "GRUDIS public 25.09.2026 (Auszüge von Kaito): 4; Eigentümer-Register (Kanton Bern AGG): 1; Rest über GRUDIS public oder Grundbuchamt Oberland, Anfrageliste BE_Interlaken.csv",
+    "offen": "434"
   },
   {
     "kanton": "VD",
