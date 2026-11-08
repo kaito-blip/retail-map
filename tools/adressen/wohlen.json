@@ -21,7 +21,8 @@
   "lat": 47.3492259,
   "lng": 8.2761127,
   "mieter": [
-   "C&A"
+   "C&A",
+   "Strebel Optik"
   ]
  },
  "wohlen|bahnhofstrasse|4": {
@@ -58,9 +59,7 @@
   "hn": "19",
   "lat": 47.3502314,
   "lng": 8.2804229,
-  "mieter": [
-   "Primarschule Halde"
-  ]
+  "mieter": []
  },
  "wohlen|zentralstrasse|13": {
   "street": "Zentralstrasse",
@@ -68,7 +67,18 @@
   "lat": 47.3498001,
   "lng": 8.2776147,
   "mieter": [
-   "Manor"
+   "Manor",
+   "Swing"
+  ]
+ },
+ "wohlen|postplatz|4": {
+  "street": "Postplatz",
+  "hn": "4",
+  "lat": 47.348959,
+  "lng": 8.2768074,
+  "mieter": [
+   "Tiefenbacher",
+   "Valiant"
   ]
  },
  "wohlen|zentralstrasse|52a": {
@@ -95,7 +105,8 @@
   "lat": 47.3503736,
   "lng": 8.2711927,
   "mieter": [
-   "Interdiscount"
+   "Interdiscount",
+   "Subway"
   ]
  },
  "wohlen|zentralstrasse|1": {
@@ -104,7 +115,9 @@
   "lat": 47.3509338,
   "lng": 8.2786981,
   "mieter": [
-   "Kosmos Bürotechnik AG"
+   "Kosmos Bürotechnik AG",
+   "Rössli",
+   "Urmelis Stoffwelr"
   ]
  },
  "wohlen|bahnhofstrasse|5": {
@@ -122,7 +135,9 @@
   "hn": "12",
   "lat": 47.3503511,
   "lng": 8.2776973,
-  "mieter": []
+  "mieter": [
+   "Kebapistan"
+  ]
  },
  "wohlen|zentralstrasse|20c": {
   "street": "Zentralstrasse",
@@ -152,7 +167,9 @@
   "hn": "1",
   "lat": 47.3497358,
   "lng": 8.27306,
-  "mieter": []
+  "mieter": [
+   "Chicorée"
+  ]
  },
  "wohlen|bahnhofstrasse|12": {
   "street": "Bahnhofstrasse",
@@ -190,7 +207,8 @@
   "lat": 47.3498267,
   "lng": 8.2724649,
   "mieter": [
-   "k kiosk"
+   "k kiosk",
+   "Bank"
   ]
  },
  "wohlen|bahnhofstrasse|21": {
@@ -244,7 +262,8 @@
   "lng": 8.2777377,
   "mieter": [
    "McOptic",
-   "Zebra"
+   "Zebra",
+   "Teehaus Jacaranda"
   ]
  },
  "wohlen|zentralstrasse|34b": {
@@ -254,6 +273,23 @@
   "lng": 8.2755911,
   "mieter": []
  },
+ "wohlen|postplatz|16": {
+  "street": "Postplatz",
+  "hn": "16",
+  "lat": 47.3485562,
+  "lng": 8.276793,
+  "mieter": [
+   "RE/MAX",
+   "Caritas Secondhand"
+  ]
+ },
+ "wohlen|postplatz|6": {
+  "street": "Postplatz",
+  "hn": "6",
+  "lat": 47.3488977,
+  "lng": 8.2768854,
+  "mieter": []
+ },
  "wohlen|zentralstrasse|21": {
   "street": "Zentralstrasse",
   "hn": "21",
@@ -261,7 +297,10 @@
   "lng": 8.2767188,
   "mieter": [
    "Marionnaud",
-   "Neuroth"
+   "Neuroth",
+   "Kiosk",
+   "Marco di Renzo",
+   "Citymode Waeber"
   ]
  },
  "wohlen|zentralstrasse|32": {
@@ -270,7 +309,8 @@
   "lat": 47.3497833,
   "lng": 8.2754793,
   "mieter": [
-   "Sunrise"
+   "Sunrise",
+   "VIP Nails & Beauty"
   ]
  },
  "wohlen|zentralstrasse|30a": {
@@ -292,9 +332,7 @@
   "hn": "12a",
   "lat": 47.3501047,
   "lng": 8.2804285,
-  "mieter": [
-   "Bezirksschule Wohlen"
-  ]
+  "mieter": []
  },
  "wohlen|bahnhofstrasse|20": {
   "street": "Bahnhofstrasse",
@@ -303,7 +341,8 @@
   "lng": 8.2701345,
   "mieter": [
    "Venti Pizzeria",
-   "Feldschlösschen"
+   "Feldschlösschen",
+   "Coiffeur Valentina"
   ]
  },
  "wohlen|bremgarterstrasse|21": {
@@ -451,14 +490,18 @@
   "hn": "9",
   "lat": 47.3501694,
   "lng": 8.2780866,
-  "mieter": []
+  "mieter": [
+   "Manor"
+  ]
  },
  "wohlen|zentralstrasse|20,20a": {
   "street": "Zentralstrasse",
   "hn": "20,20a",
   "lat": 47.3501324,
   "lng": 8.2774455,
-  "mieter": []
+  "mieter": [
+   "TMT Asianfood GmbH"
+  ]
  },
  "wohlen|zentralstrasse|17": {
   "street": "Zentralstrasse",
@@ -472,28 +515,34 @@
   "hn": "19",
   "lat": 47.3495045,
   "lng": 8.277081,
+  "mieter": [
+   "Strebel"
+  ]
+ },
+ "wohlen|postplatz|1": {
+  "street": "Postplatz",
+  "hn": "1",
+  "lat": 47.3490629,
+  "lng": 8.2772883,
   "mieter": []
  },
- "wohlen|bremgarterstrasse|107": {
-  "street": "Bremgarterstrasse",
-  "hn": "107",
-  "lat": 47.3473779,
-  "lng": 8.2946952,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|109": {
-  "street": "Bremgarterstrasse",
-  "hn": "109",
-  "lat": 47.3476353,
-  "lng": 8.2954275,
-  "mieter": []
+ "wohlen|postplatz|3": {
+  "street": "Postplatz",
+  "hn": "3",
+  "lat": 47.3486922,
+  "lng": 8.2773314,
+  "mieter": [
+   "Mazzotta"
+  ]
  },
  "wohlen|zentralstrasse|2": {
   "street": "Zentralstrasse",
   "hn": "2",
   "lat": 47.3508554,
   "lng": 8.2780105,
-  "mieter": []
+  "mieter": [
+   "pbsports"
+  ]
  },
  "wohlen|zentralstrasse|4": {
   "street": "Zentralstrasse",
@@ -507,21 +556,18 @@
   "hn": "6",
   "lat": 47.3506446,
   "lng": 8.2779216,
-  "mieter": []
+  "mieter": [
+   "Manning"
+  ]
  },
  "wohlen|zentralstrasse|8": {
   "street": "Zentralstrasse",
   "hn": "8",
   "lat": 47.3506075,
   "lng": 8.2776403,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|12": {
-  "street": "Bremgarterstrasse",
-  "hn": "12",
-  "lat": 47.3348831,
-  "lng": 8.3023883,
-  "mieter": []
+  "mieter": [
+   "Maxim"
+  ]
  },
  "wohlen|bremgarterstrasse|12b": {
   "street": "Bremgarterstrasse",
@@ -565,6 +611,13 @@
   "lng": 8.2782158,
   "mieter": []
  },
+ "wohlen|bremgarterstrasse|12": {
+  "street": "Bremgarterstrasse",
+  "hn": "12",
+  "lat": 47.3502875,
+  "lng": 8.2798509,
+  "mieter": []
+ },
  "wohlen|bremgarterstrasse|16": {
   "street": "Bremgarterstrasse",
   "hn": "16",
@@ -600,7 +653,9 @@
   "hn": "1",
   "lat": 47.351211,
   "lng": 8.2791586,
-  "mieter": []
+  "mieter": [
+   "IBW Laden"
+  ]
  },
  "wohlen|steingasse|16": {
   "street": "Steingasse",
@@ -723,9 +778,7 @@
   "hn": "17",
   "lat": 47.3507771,
   "lng": 8.2812888,
-  "mieter": [
-   "Berufsbildungszentrum"
-  ]
+  "mieter": []
  },
  "wohlen|steingasse|53": {
   "street": "Steingasse",
@@ -904,13 +957,6 @@
    "Frohe Aussicht"
   ]
  },
- "wohlen|bremgarterstrasse|32": {
-  "street": "Bremgarterstrasse",
-  "hn": "32",
-  "lat": 47.3484242,
-  "lng": 8.2851206,
-  "mieter": []
- },
  "wohlen|bremgarterstrasse|26": {
   "street": "Bremgarterstrasse",
   "hn": "26",
@@ -930,48 +976,6 @@
   "hn": "24",
   "lat": 47.348735,
   "lng": 8.2832602,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|50": {
-  "street": "Bremgarterstrasse",
-  "hn": "50",
-  "lat": 47.3470393,
-  "lng": 8.2902655,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|46": {
-  "street": "Bremgarterstrasse",
-  "hn": "46",
-  "lat": 47.3474552,
-  "lng": 8.2895212,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|40": {
-  "street": "Bremgarterstrasse",
-  "hn": "40",
-  "lat": 47.3477213,
-  "lng": 8.2884224,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|62": {
-  "street": "Bremgarterstrasse",
-  "hn": "62",
-  "lat": 47.3465545,
-  "lng": 8.2927841,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|42": {
-  "street": "Bremgarterstrasse",
-  "hn": "42",
-  "lat": 47.347672,
-  "lng": 8.2887138,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|54": {
-  "street": "Bremgarterstrasse",
-  "hn": "54",
-  "lat": 47.3470536,
-  "lng": 8.2913766,
   "mieter": []
  },
  "wohlen|zentralstrasse|29": {
@@ -1014,7 +1018,9 @@
   "hn": "17",
   "lat": 47.3489808,
   "lng": 8.2714464,
-  "mieter": []
+  "mieter": [
+   "Leonita Beauty & Nails"
+  ]
  },
  "wohlen|zentralstrasse|36": {
   "street": "Zentralstrasse",
@@ -1028,7 +1034,9 @@
   "hn": "34",
   "lat": 47.3500325,
   "lng": 8.2754516,
-  "mieter": []
+  "mieter": [
+   "Lüthi"
+  ]
  },
  "wohlen|zentralstrasse|30": {
   "street": "Zentralstrasse",
@@ -1042,7 +1050,10 @@
   "hn": "42,44",
   "lat": 47.3500976,
   "lng": 8.2746111,
-  "mieter": []
+  "mieter": [
+   "Trattoria Pizzeria Central",
+   "Köchli"
+  ]
  },
  "wohlen|zentralstrasse|52": {
   "street": "Zentralstrasse",
@@ -1056,7 +1067,9 @@
   "hn": "50",
   "lat": 47.350172,
   "lng": 8.2740428,
-  "mieter": []
+  "mieter": [
+   "Gigolo"
+  ]
  },
  "wohlen|zentralstrasse|48": {
   "street": "Zentralstrasse",
@@ -1144,152 +1157,15 @@
   "lng": 8.2844077,
   "mieter": []
  },
- "wohlen|bremgarterstrasse|57": {
-  "street": "Bremgarterstrasse",
-  "hn": "57",
-  "lat": 47.348591,
-  "lng": 8.2856012,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|61": {
-  "street": "Bremgarterstrasse",
-  "hn": "61",
-  "lat": 47.3484657,
-  "lng": 8.2862257,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|59": {
-  "street": "Bremgarterstrasse",
-  "hn": "59",
-  "lat": 47.348545,
-  "lng": 8.2859049,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|55": {
-  "street": "Bremgarterstrasse",
-  "hn": "55",
-  "lat": 47.3487921,
-  "lng": 8.2850202,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|63": {
-  "street": "Bremgarterstrasse",
-  "hn": "63",
-  "lat": 47.3483686,
-  "lng": 8.2865657,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|55a": {
-  "street": "Bremgarterstrasse",
-  "hn": "55a",
-  "lat": 47.3489522,
-  "lng": 8.2851011,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|81": {
-  "street": "Bremgarterstrasse",
-  "hn": "81",
-  "lat": 47.3477028,
-  "lng": 8.290367,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|79": {
-  "street": "Bremgarterstrasse",
-  "hn": "79",
-  "lat": 47.347767,
-  "lng": 8.2900893,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|83": {
-  "street": "Bremgarterstrasse",
-  "hn": "83",
-  "lat": 47.3476556,
-  "lng": 8.2907144,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|111": {
-  "street": "Bremgarterstrasse",
-  "hn": "111",
-  "lat": 47.3477719,
-  "lng": 8.2962725,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|97": {
-  "street": "Bremgarterstrasse",
-  "hn": "97",
-  "lat": 47.3473156,
-  "lng": 8.2930017,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|99": {
-  "street": "Bremgarterstrasse",
-  "hn": "99",
-  "lat": 47.3476072,
-  "lng": 8.2935385,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|105": {
-  "street": "Bremgarterstrasse",
-  "hn": "105",
-  "lat": 47.3472395,
-  "lng": 8.2938937,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|10a": {
-  "street": "Bremgarterstrasse",
-  "hn": "10a",
-  "lat": 47.3348589,
-  "lng": 8.302193,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|10": {
-  "street": "Bremgarterstrasse",
-  "hn": "10",
-  "lat": 47.3348005,
-  "lng": 8.3018121,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|6": {
-  "street": "Bremgarterstrasse",
-  "hn": "6",
-  "lat": 47.3347398,
-  "lng": 8.301432,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|2": {
-  "street": "Bremgarterstrasse",
-  "hn": "2",
-  "lat": 47.3346482,
-  "lng": 8.300879,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|15": {
-  "street": "Bremgarterstrasse",
-  "hn": "15",
-  "lat": 47.3351224,
-  "lng": 8.3029674,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|13": {
-  "street": "Bremgarterstrasse",
-  "hn": "13",
-  "lat": 47.3352113,
-  "lng": 8.3025426,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|3a": {
-  "street": "Bremgarterstrasse",
-  "hn": "3a",
-  "lat": 47.3353464,
-  "lng": 8.3009601,
-  "mieter": []
- },
  "wohlen|zentralstrasse|37": {
   "street": "Zentralstrasse",
   "hn": "37",
   "lat": 47.3496331,
   "lng": 8.2751414,
-  "mieter": []
+  "mieter": [
+   "Maranta",
+   "Shine"
+  ]
  },
  "wohlen|zentralstrasse|33": {
   "street": "Zentralstrasse",
@@ -1303,7 +1179,9 @@
   "hn": "3",
   "lat": 47.3506073,
   "lng": 8.2782838,
-  "mieter": []
+  "mieter": [
+   "Coiffure Sevilay"
+  ]
  },
  "wohlen|steingasse|12,14": {
   "street": "Steingasse",
@@ -1333,27 +1211,32 @@
   "lng": 8.2729521,
   "mieter": []
  },
- "wohlen|bremgarterstrasse|48": {
-  "street": "Bremgarterstrasse",
-  "hn": "48",
-  "lat": 47.347321,
-  "lng": 8.2899692,
+ "wohlen|postplatz|18": {
+  "street": "Postplatz",
+  "hn": "18",
+  "lat": 47.3485233,
+  "lng": 8.276832,
   "mieter": []
  },
- "wohlen|bremgarterstrasse|75": {
+ "wohlen|bremgarterstrasse|6": {
   "street": "Bremgarterstrasse",
-  "hn": "75",
-  "lat": 47.348055,
-  "lng": 8.2890413,
-  "mieter": [
-   "Mitsubishi"
-  ]
+  "hn": "6",
+  "lat": 47.3509018,
+  "lng": 8.2792827,
+  "mieter": []
  },
- "wohlen|bremgarterstrasse|44": {
+ "wohlen|bremgarterstrasse|13": {
   "street": "Bremgarterstrasse",
-  "hn": "44",
-  "lat": 47.3474318,
-  "lng": 8.2890106,
+  "hn": "13",
+  "lat": 47.350891,
+  "lng": 8.2801256,
+  "mieter": []
+ },
+ "wohlen|bremgarterstrasse|2": {
+  "street": "Bremgarterstrasse",
+  "hn": "2",
+  "lat": 47.3509279,
+  "lng": 8.2790346,
   "mieter": []
  },
  "wohlen|zentralstrasse|28": {
@@ -1389,13 +1272,6 @@
   "hn": "17",
   "lat": 47.3523086,
   "lng": 8.2797825,
-  "mieter": []
- },
- "wohlen|bremgarterstrasse|77": {
-  "street": "Bremgarterstrasse",
-  "hn": "77",
-  "lat": 47.3479355,
-  "lng": 8.2895743,
   "mieter": []
  }
 }

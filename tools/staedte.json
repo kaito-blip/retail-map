@@ -883,12 +883,13 @@
       "Bahnhofstrasse",
       "Bremgarterstrasse",
       "Kirchenplatz",
-      "Steingasse"
+      "Steingasse",
+      "Postplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-    "offen": "189"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (Zentralstrasse 20/20b/20c Raiffeisen Futura, 54a Procimmo, Steingasse 12/14 Pensimo): 5; Rest über Grundbuchamt Wohlen, Wilstrasse 2, 5610 Wohlen, gbawohlen@ag.ch (teilverifiziert, nur Bundesliste/Suchtreffer) oder Geoportal AG (10 pro Tag)",
+    "offen": "161"
   },
   {
     "kanton": "VS",
