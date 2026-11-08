@@ -791,12 +791,14 @@
       "Poststrasse",
       "Zentralstrasse",
       "Gerichtsstrasse",
-      "Webernstrasse"
+      "Webernstrasse",
+      "Zürichstrasse",
+      "Bankstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-    "offen": "86"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 08.11.26 (AXA Anlagestiftung, SBB-OGD; tools/register_abgleich.py): 9; Rest Anfrageliste ZH_Uster.csv (GIS-Browser ZH 5/Tag oder Notariat Uster)",
+    "offen": "110"
   },
   {
     "kanton": "BE",

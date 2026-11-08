@@ -30,6 +30,16 @@
    "Suan Long"
   ]
  },
+ "uster|bankstrasse|17": {
+  "street": "Bankstrasse",
+  "hn": "17",
+  "lat": 47.3510025,
+  "lng": 8.7167345,
+  "mieter": [
+   "Stadt- und Regionalbibilothek",
+   "Zahnprothetik Uster Markus Habeck"
+  ]
+ },
  "uster|bahnhofstrasse|3": {
   "street": "Bahnhofstrasse",
   "hn": "3",
@@ -47,6 +57,15 @@
   "mieter": [
    "Tasty",
    "Pfingstgemeinde Uster"
+  ]
+ },
+ "uster|bankstrasse|2": {
+  "street": "Bankstrasse",
+  "hn": "2",
+  "lat": 47.3505151,
+  "lng": 8.7182904,
+  "mieter": [
+   "avec"
   ]
  },
  "uster|poststrasse|4": {
@@ -68,6 +87,34 @@
    "Hölzli Bar"
   ]
  },
+ "uster|bankstrasse|21": {
+  "street": "Bankstrasse",
+  "hn": "21",
+  "lat": 47.3513182,
+  "lng": 8.7160822,
+  "mieter": [
+   "Bank BSU"
+  ]
+ },
+ "uster|bankstrasse|8": {
+  "street": "Bankstrasse",
+  "hn": "8",
+  "lat": 47.3515133,
+  "lng": 8.7163009,
+  "mieter": [
+   "Hair Vision",
+   "Augenarztpraxis Bahnhofpassage"
+  ]
+ },
+ "uster|bankstrasse|7": {
+  "street": "Bankstrasse",
+  "hn": "7",
+  "lat": 47.3503407,
+  "lng": 8.7179661,
+  "mieter": [
+   "Peking Garden"
+  ]
+ },
  "uster|zentralstrasse|33": {
   "street": "Zentralstrasse",
   "hn": "33",
@@ -77,12 +124,84 @@
    "Ram Bistro & Shop GmbH"
   ]
  },
+ "uster|zürichstrasse|20": {
+  "street": "Zürichstrasse",
+  "hn": "20",
+  "lat": 47.3500042,
+  "lng": 8.7154192,
+  "mieter": [
+   "DROPA",
+   "Migros",
+   "Denner",
+   "Läderach",
+   "Caro Gio",
+   "Köhler Papeterie",
+   "Bayard Co Ltd",
+   "Müller",
+   "Mobilezone",
+   "Fielmann",
+   "Migros Take-Away",
+   "Micasa Home",
+   "Best Nail & Spa"
+  ]
+ },
+ "uster|zürichstrasse|12a": {
+  "street": "Zürichstrasse",
+  "hn": "12a",
+  "lat": 47.3494672,
+  "lng": 8.716065,
+  "mieter": [
+   "Assura.",
+   "Walder"
+  ]
+ },
+ "uster|zürichstrasse|7": {
+  "street": "Zürichstrasse",
+  "hn": "7",
+  "lat": 47.3491276,
+  "lng": 8.7153952,
+  "mieter": [
+   "Manga Sushi",
+   "Mado’s",
+   "KochOptik"
+  ]
+ },
+ "uster|zürichstrasse|14": {
+  "street": "Zürichstrasse",
+  "hn": "14",
+  "lat": 47.3500893,
+  "lng": 8.715986,
+  "mieter": [
+   "Migros Restaurant",
+   "k kiosk",
+   "Illuster"
+  ]
+ },
+ "uster|zürichstrasse|2": {
+  "street": "Zürichstrasse",
+  "hn": "2",
+  "lat": 47.3486485,
+  "lng": 8.7177179,
+  "mieter": [
+   "Metzgerei Hotz"
+  ]
+ },
  "uster|bahnhofstrasse|20": {
   "street": "Bahnhofstrasse",
   "hn": "20",
   "lat": 47.348553,
   "lng": 8.7180999,
   "mieter": []
+ },
+ "uster|zürichstrasse|30": {
+  "street": "Zürichstrasse",
+  "hn": "30",
+  "lat": 47.3501534,
+  "lng": 8.7129546,
+  "mieter": [
+   "al gusto",
+   "FRJZ Freizeit und Jugendzentrum"
+  ]
  },
  "uster|zentralstrasse|28": {
   "street": "Zentralstrasse",
@@ -91,6 +210,15 @@
   "lng": 8.7170969,
   "mieter": [
    "Arena"
+  ]
+ },
+ "uster|bankstrasse|10": {
+  "street": "Bankstrasse",
+  "hn": "10",
+  "lat": 47.3516449,
+  "lng": 8.7164275,
+  "mieter": [
+   "Medbase"
   ]
  },
  "uster|bahnhofstrasse|18": {
@@ -136,6 +264,17 @@
   "lat": 47.3487581,
   "lng": 8.7183051,
   "mieter": []
+ },
+ "uster|zürichstrasse|5": {
+  "street": "Zürichstrasse",
+  "hn": "5",
+  "lat": 47.3488982,
+  "lng": 8.7160992,
+  "mieter": [
+   "Zahnarztzentrum",
+   "Hotelplan",
+   "Amplifon"
+  ]
  },
  "uster|gerichtsstrasse|3": {
   "street": "Gerichtsstrasse",
@@ -212,6 +351,15 @@
    "Bayard Co Ltd"
   ]
  },
+ "uster|zürichstrasse|12": {
+  "street": "Zürichstrasse",
+  "hn": "12",
+  "lat": 47.3493091,
+  "lng": 8.7164353,
+  "mieter": [
+   "Kuoni"
+  ]
+ },
  "uster|zentralstrasse|2": {
   "street": "Zentralstrasse",
   "hn": "2",
@@ -230,6 +378,20 @@
    "55 Grad Nord"
   ]
  },
+ "uster|zürichstrasse|1": {
+  "street": "Zürichstrasse",
+  "hn": "1",
+  "lat": 47.3481296,
+  "lng": 8.7176288,
+  "mieter": [
+   "Stella del Centro Uschter77",
+   "Marionnaud",
+   "ALDI",
+   "Jeans Kantine",
+   "Coiffeur Koto",
+   "Uschter 77"
+  ]
+ },
  "uster|bahnhofstrasse|12": {
   "street": "Bahnhofstrasse",
   "hn": "12",
@@ -246,6 +408,26 @@
   "lng": 8.7173664,
   "mieter": [
    "Steiner"
+  ]
+ },
+ "uster|bankstrasse|19": {
+  "street": "Bankstrasse",
+  "hn": "19",
+  "lat": 47.3511448,
+  "lng": 8.7164421,
+  "mieter": [
+   "Nails x Beauty"
+  ]
+ },
+ "uster|bankstrasse|9": {
+  "street": "Bankstrasse",
+  "hn": "9",
+  "lat": 47.3505147,
+  "lng": 8.717643,
+  "mieter": [
+   "Neuroth",
+   "Salt",
+   "ACAMED Uster"
   ]
  },
  "uster|poststrasse|9": {
@@ -273,6 +455,15 @@
    "Tiefenbacher"
   ]
  },
+ "uster|bankstrasse|1": {
+  "street": "Bankstrasse",
+  "hn": "1",
+  "lat": 47.3497719,
+  "lng": 8.7189477,
+  "mieter": [
+   "Nooch Asian Kitchen"
+  ]
+ },
  "uster|gerichtsstrasse|5": {
   "street": "Gerichtsstrasse",
   "hn": "5",
@@ -282,6 +473,15 @@
    "Zebra",
    "Chicorée",
    "Goodent Zahnarztpraxis"
+  ]
+ },
+ "uster|zürichstrasse|6": {
+  "street": "Zürichstrasse",
+  "hn": "6",
+  "lat": 47.3487898,
+  "lng": 8.7173256,
+  "mieter": [
+   "Hotz"
   ]
  },
  "uster|gerichtsstrasse|14": {
@@ -303,6 +503,23 @@
    "PostFinance"
   ]
  },
+ "uster|zürichstrasse|4": {
+  "street": "Zürichstrasse",
+  "hn": "4",
+  "lat": 47.3489623,
+  "lng": 8.7179883,
+  "mieter": []
+ },
+ "uster|bankstrasse|6": {
+  "street": "Bankstrasse",
+  "hn": "6",
+  "lat": 47.3510812,
+  "lng": 8.7171334,
+  "mieter": [
+   "Polizeiposten Uster Bahnhof",
+   "Helvetia Generalagentur Zürcher Oberland"
+  ]
+ },
  "uster|zentralstrasse|5": {
   "street": "Zentralstrasse",
   "hn": "5",
@@ -311,6 +528,13 @@
   "mieter": [
    "Töff-Bekleidung Swiss Uster GmbH"
   ]
+ },
+ "uster|zürichstrasse|13": {
+  "street": "Zürichstrasse",
+  "hn": "13",
+  "lat": 47.3499091,
+  "lng": 8.7120294,
+  "mieter": []
  },
  "uster|zentralstrasse|13": {
   "street": "Zentralstrasse",
@@ -351,6 +575,43 @@
    "Tschopp Optik AG"
   ]
  },
+ "uster|zürichstrasse|9": {
+  "street": "Zürichstrasse",
+  "hn": "9",
+  "lat": 47.3494207,
+  "lng": 8.7148846,
+  "mieter": [
+   "Globe Garden"
+  ]
+ },
+ "uster|bankstrasse|13": {
+  "street": "Bankstrasse",
+  "hn": "13",
+  "lat": 47.3508252,
+  "lng": 8.7169805,
+  "mieter": [
+   "Visana",
+   "Asecus AG"
+  ]
+ },
+ "uster|bankstrasse|4": {
+  "street": "Bankstrasse",
+  "hn": "4",
+  "lat": 47.3506868,
+  "lng": 8.7178623,
+  "mieter": [
+   "AuBijou de la porcelaine"
+  ]
+ },
+ "uster|bankstrasse|11": {
+  "street": "Bankstrasse",
+  "hn": "11",
+  "lat": 47.3505391,
+  "lng": 8.7173472,
+  "mieter": [
+   "Migros Bank"
+  ]
+ },
  "uster|gerichtsstrasse|14b": {
   "street": "Gerichtsstrasse",
   "hn": "14b",
@@ -364,6 +625,15 @@
   "lat": 47.3512494,
   "lng": 8.714007,
   "mieter": []
+ },
+ "uster|zürichstrasse|9a": {
+  "street": "Zürichstrasse",
+  "hn": "9a",
+  "lat": 47.349472,
+  "lng": 8.714349,
+  "mieter": [
+   "Stadthalle"
+  ]
  },
  "uster|gerichtsstrasse|17": {
   "street": "Gerichtsstrasse",
@@ -400,6 +670,13 @@
   "hn": "1",
   "lat": 47.3496408,
   "lng": 8.7198018,
+  "mieter": []
+ },
+ "uster|bankstrasse|5": {
+  "street": "Bankstrasse",
+  "hn": "5",
+  "lat": 47.3499408,
+  "lng": 8.7185848,
   "mieter": []
  },
  "uster|bahnhofstrasse|5": {
@@ -509,6 +786,13 @@
   "hn": "39",
   "lat": 47.3461216,
   "lng": 8.7165656,
+  "mieter": []
+ },
+ "uster|zürichstrasse|11": {
+  "street": "Zürichstrasse",
+  "hn": "11",
+  "lat": 47.3495857,
+  "lng": 8.7133249,
   "mieter": []
  },
  "uster|zentralstrasse|24": {
@@ -642,6 +926,13 @@
   "hn": "21",
   "lat": 47.3467611,
   "lng": 8.7176782,
+  "mieter": []
+ },
+ "uster|zürichstrasse|8": {
+  "street": "Zürichstrasse",
+  "hn": "8",
+  "lat": 47.3489967,
+  "lng": 8.7176606,
   "mieter": []
  },
  "uster|zentralstrasse|10": {
