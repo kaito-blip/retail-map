@@ -257,12 +257,13 @@
       "Poststrasse",
       "Obere Gasse",
       "Untere Gasse",
+      "Reichsgasse",
       "Quaderstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "122"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 08.11.26: 0 Treffer an den High Streets; Rest: Geoportal GR Grundstückabfrage (Captcha 10/Tag, mit Login 50/Tag) oder Grundbuchamt Chur, grundbuchamt@chur.ch (Anfrageliste GR_Chur.csv, 141 Parzellen)",
+    "offen": "168"
   },
   {
     "kanton": "SH",

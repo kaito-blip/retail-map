@@ -1,4 +1,13 @@
 {
+ "chur|grabenstrasse|51": {
+  "street": "Grabenstrasse",
+  "hn": "51",
+  "lat": 46.8484876,
+  "lng": 9.5294302,
+  "mieter": [
+   "Odin"
+  ]
+ },
  "chur|quaderstrasse|36": {
   "street": "Quaderstrasse",
   "hn": "36",
@@ -7,6 +16,16 @@
   "mieter": [
    "Coop",
    "Coop Restaurant"
+  ]
+ },
+ "chur|reichsgasse|59": {
+  "street": "Reichsgasse",
+  "hn": "59",
+  "lat": 46.8500001,
+  "lng": 9.5330101,
+  "mieter": [
+   "antonio bertolo wohnkultur",
+   "La Volta"
   ]
  },
  "chur|obere gasse|48": {
@@ -54,6 +73,24 @@
    "Sporthütte Obertor"
   ]
  },
+ "chur|kornplatz|3": {
+  "street": "Kornplatz",
+  "hn": "3",
+  "lat": 46.8488836,
+  "lng": 9.5314757,
+  "mieter": [
+   "U.B. Koch s Erben"
+  ]
+ },
+ "chur|kornplatz|1": {
+  "street": "Kornplatz",
+  "hn": "1",
+  "lat": 46.848879,
+  "lng": 9.5316218,
+  "mieter": [
+   "Katies Wolle"
+  ]
+ },
  "chur|obere gasse|14": {
   "street": "Obere Gasse",
   "hn": "14",
@@ -78,6 +115,15 @@
   "lat": 46.8486342,
   "lng": 9.5304452,
   "mieter": []
+ },
+ "chur|kornplatz|6": {
+  "street": "Kornplatz",
+  "hn": "6",
+  "lat": 46.849148,
+  "lng": 9.5316892,
+  "mieter": [
+   "Denner Express"
+  ]
  },
  "chur|obere gasse|41": {
   "street": "Obere Gasse",
@@ -142,6 +188,24 @@
    "McOptic"
   ]
  },
+ "chur|kornplatz|12": {
+  "street": "Kornplatz",
+  "hn": "12",
+  "lat": 46.8491002,
+  "lng": 9.5308904,
+  "mieter": [
+   "Han Kung"
+  ]
+ },
+ "chur|kornplatz|9": {
+  "street": "Kornplatz",
+  "hn": "9",
+  "lat": 46.848907,
+  "lng": 9.5312595,
+  "mieter": [
+   "Evviva Plankis"
+  ]
+ },
  "chur|obere gasse|23": {
   "street": "Obere Gasse",
   "hn": "23",
@@ -151,12 +215,57 @@
    "kuchilada"
   ]
  },
+ "chur|grabenstrasse|28": {
+  "street": "Grabenstrasse",
+  "hn": "28",
+  "lat": 46.8504164,
+  "lng": 9.5310741,
+  "mieter": [
+   "Stadtbibliothek Chur"
+  ]
+ },
+ "chur|grabenstrasse|1": {
+  "street": "Grabenstrasse",
+  "hn": "1",
+  "lat": 46.8512208,
+  "lng": 9.5336562,
+  "mieter": [
+   "Café Patschifig"
+  ]
+ },
+ "chur|alexanderstrasse|24": {
+  "street": "Alexanderstrasse",
+  "hn": "24",
+  "lat": 46.8537054,
+  "lng": 9.5315503,
+  "mieter": [
+   "Sulser Print AG"
+  ]
+ },
+ "chur|grabenstrasse|44": {
+  "street": "Grabenstrasse",
+  "hn": "44",
+  "lat": 46.848991,
+  "lng": 9.5293842,
+  "mieter": [
+   "DEGIACOMI Ortho"
+  ]
+ },
  "chur|untere gasse|14": {
   "street": "Untere Gasse",
   "hn": "14",
   "lat": 46.8487993,
   "lng": 9.5302303,
   "mieter": []
+ },
+ "chur|reichsgasse|14": {
+  "street": "Reichsgasse",
+  "hn": "14",
+  "lat": 46.8509989,
+  "lng": 9.5338522,
+  "mieter": [
+   "Z-Bar"
+  ]
  },
  "chur|poststrasse|23": {
   "street": "Poststrasse",
@@ -165,6 +274,15 @@
   "lng": 9.5324552,
   "mieter": [
    "membrini"
+  ]
+ },
+ "chur|grabenstrasse|39": {
+  "street": "Grabenstrasse",
+  "hn": "39",
+  "lat": 46.8491248,
+  "lng": 9.5301746,
+  "mieter": [
+   "Mamma Mia"
   ]
  },
  "chur|bahnhofstrasse|8": {
@@ -184,6 +302,13 @@
   "mieter": [
    "Lush"
   ]
+ },
+ "chur|alexanderstrasse|25": {
+  "street": "Alexanderstrasse",
+  "hn": "25",
+  "lat": 46.8540227,
+  "lng": 9.5312103,
+  "mieter": []
  },
  "chur|quaderstrasse|32": {
   "street": "Quaderstrasse",
@@ -206,11 +331,39 @@
   "lng": 9.5357144,
   "mieter": []
  },
+ "chur|reichsgasse|19": {
+  "street": "Reichsgasse",
+  "hn": "19",
+  "lat": 46.8507362,
+  "lng": 9.5342319,
+  "mieter": []
+ },
+ "chur|reichsgasse|1": {
+  "street": "Reichsgasse",
+  "hn": "1",
+  "lat": 46.8513255,
+  "lng": 9.5341001,
+  "mieter": []
+ },
+ "chur|reichsgasse|20": {
+  "street": "Reichsgasse",
+  "hn": "20",
+  "lat": 46.8507337,
+  "lng": 9.5337911,
+  "mieter": []
+ },
  "chur|obere gasse|6": {
   "street": "Obere Gasse",
   "hn": "6",
   "lat": 46.8483095,
   "lng": 9.5318359,
+  "mieter": []
+ },
+ "chur|reichsgasse|74": {
+  "street": "Reichsgasse",
+  "hn": "74",
+  "lat": 46.8484969,
+  "lng": 9.5325359,
   "mieter": []
  },
  "chur|obere gasse|33": {
@@ -222,6 +375,15 @@
    "my phone"
   ]
  },
+ "chur|reichsgasse|61": {
+  "street": "Reichsgasse",
+  "hn": "61",
+  "lat": 46.849092,
+  "lng": 9.5328655,
+  "mieter": [
+   "Tante Zuzu's Cafe"
+  ]
+ },
  "chur|poststrasse|2": {
   "street": "Poststrasse",
   "hn": "2",
@@ -231,11 +393,34 @@
    "Café Aurora"
   ]
  },
+ "chur|reichsgasse|57": {
+  "street": "Reichsgasse",
+  "hn": "57",
+  "lat": 46.8493134,
+  "lng": 9.5329221,
+  "mieter": [
+   "Nana Mine"
+  ]
+ },
  "chur|obere gasse|54": {
   "street": "Obere Gasse",
   "hn": "54",
   "lat": 46.84814,
   "lng": 9.529626,
+  "mieter": []
+ },
+ "chur|reichsgasse|64": {
+  "street": "Reichsgasse",
+  "hn": "64",
+  "lat": 46.849007,
+  "lng": 9.532702,
+  "mieter": []
+ },
+ "chur|grabenstrasse|61": {
+  "street": "Grabenstrasse",
+  "hn": "61",
+  "lat": 46.8481797,
+  "lng": 9.529451,
   "mieter": []
  },
  "chur|poststrasse|33": {
@@ -261,6 +446,15 @@
   "lng": 9.5323503,
   "mieter": []
  },
+ "chur|grabenstrasse|30": {
+  "street": "Grabenstrasse",
+  "hn": "30",
+  "lat": 46.8500206,
+  "lng": 9.5304524,
+  "mieter": [
+   "Obergericht Graubünden"
+  ]
+ },
  "chur|poststrasse|14": {
   "street": "Poststrasse",
   "hn": "14",
@@ -277,11 +471,69 @@
   "lng": 9.5325765,
   "mieter": []
  },
+ "chur|reichsgasse|35": {
+  "street": "Reichsgasse",
+  "hn": "35",
+  "lat": 46.8500834,
+  "lng": 9.53373,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|46": {
+  "street": "Alexanderstrasse",
+  "hn": "46",
+  "lat": 46.8559933,
+  "lng": 9.5323415,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|48": {
+  "street": "Alexanderstrasse",
+  "hn": "48",
+  "lat": 46.8562467,
+  "lng": 9.5325011,
+  "mieter": []
+ },
+ "chur|reichsgasse|15": {
+  "street": "Reichsgasse",
+  "hn": "15",
+  "lat": 46.8508496,
+  "lng": 9.534193,
+  "mieter": [
+   "Regulakirche"
+  ]
+ },
+ "chur|reichsgasse|17": {
+  "street": "Reichsgasse",
+  "hn": "17",
+  "lat": 46.8508017,
+  "lng": 9.5345163,
+  "mieter": []
+ },
  "chur|bahnhofstrasse|12": {
   "street": "Bahnhofstrasse",
   "hn": "12",
   "lat": 46.8522544,
   "lng": 9.5308032,
+  "mieter": []
+ },
+ "chur|grabenstrasse|8": {
+  "street": "Grabenstrasse",
+  "hn": "8",
+  "lat": 46.8514298,
+  "lng": 9.5330997,
+  "mieter": []
+ },
+ "chur|grabenstrasse|7": {
+  "street": "Grabenstrasse",
+  "hn": "7",
+  "lat": 46.8510799,
+  "lng": 9.5331819,
+  "mieter": []
+ },
+ "chur|grabenstrasse|9": {
+  "street": "Grabenstrasse",
+  "hn": "9",
+  "lat": 46.8510114,
+  "lng": 9.5329231,
   "mieter": []
  },
  "chur|bahnhofstrasse|21": {
@@ -303,6 +555,27 @@
   "hn": "22",
   "lat": 46.8522897,
   "lng": 9.5337212,
+  "mieter": []
+ },
+ "chur|grabenstrasse|15": {
+  "street": "Grabenstrasse",
+  "hn": "15",
+  "lat": 46.8508765,
+  "lng": 9.532595,
+  "mieter": []
+ },
+ "chur|grabenstrasse|10": {
+  "street": "Grabenstrasse",
+  "hn": "10",
+  "lat": 46.8513662,
+  "lng": 9.5327233,
+  "mieter": []
+ },
+ "chur|grabenstrasse|5": {
+  "street": "Grabenstrasse",
+  "hn": "5",
+  "lat": 46.8511412,
+  "lng": 9.5334083,
   "mieter": []
  },
  "chur|quaderstrasse|19": {
@@ -333,6 +606,27 @@
   "lng": 9.5311381,
   "mieter": []
  },
+ "chur|alexanderstrasse|9": {
+  "street": "Alexanderstrasse",
+  "hn": "9",
+  "lat": 46.8529462,
+  "lng": 9.5311876,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|1": {
+  "street": "Alexanderstrasse",
+  "hn": "1",
+  "lat": 46.8525082,
+  "lng": 9.5310995,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|28": {
+  "street": "Alexanderstrasse",
+  "hn": "28",
+  "lat": 46.8543148,
+  "lng": 9.5315664,
+  "mieter": []
+ },
  "chur|bahnhofstrasse|9": {
   "street": "Bahnhofstrasse",
   "hn": "9",
@@ -354,6 +648,13 @@
   "lng": 9.5327602,
   "mieter": []
  },
+ "chur|reichsgasse|28": {
+  "street": "Reichsgasse",
+  "hn": "28",
+  "lat": 46.85045,
+  "lng": 9.5335218,
+  "mieter": []
+ },
  "chur|poststrasse|1": {
   "street": "Poststrasse",
   "hn": "1",
@@ -363,11 +664,67 @@
    "UBS"
   ]
  },
+ "chur|grabenstrasse|38": {
+  "street": "Grabenstrasse",
+  "hn": "38",
+  "lat": 46.8493543,
+  "lng": 9.5298592,
+  "mieter": []
+ },
+ "chur|reichsgasse|24": {
+  "street": "Reichsgasse",
+  "hn": "24",
+  "lat": 46.8505674,
+  "lng": 9.5335817,
+  "mieter": []
+ },
+ "chur|grabenstrasse|34": {
+  "street": "Grabenstrasse",
+  "hn": "34",
+  "lat": 46.849575,
+  "lng": 9.5301814,
+  "mieter": []
+ },
  "chur|poststrasse|11": {
   "street": "Poststrasse",
   "hn": "11",
   "lat": 46.8499176,
   "lng": 9.5323886,
+  "mieter": []
+ },
+ "chur|reichsgasse|30": {
+  "street": "Reichsgasse",
+  "hn": "30",
+  "lat": 46.8503462,
+  "lng": 9.5334506,
+  "mieter": []
+ },
+ "chur|grabenstrasse|4": {
+  "street": "Grabenstrasse",
+  "hn": "4",
+  "lat": 46.8517455,
+  "lng": 9.5332155,
+  "mieter": []
+ },
+ "chur|reichsgasse|60": {
+  "street": "Reichsgasse",
+  "hn": "60",
+  "lat": 46.8492762,
+  "lng": 9.5326303,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|38": {
+  "street": "Alexanderstrasse",
+  "hn": "38",
+  "lat": 46.8550905,
+  "lng": 9.5318904,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|42": {
+  "street": "Alexanderstrasse",
+  "hn": "42",
+  "lat": 46.8556523,
+  "lng": 9.532112,
   "mieter": []
  },
  "chur|poststrasse|22": {
@@ -531,6 +888,13 @@
   "lng": 9.5295593,
   "mieter": []
  },
+ "chur|grabenstrasse|55": {
+  "street": "Grabenstrasse",
+  "hn": "55",
+  "lat": 46.8483854,
+  "lng": 9.529472,
+  "mieter": []
+ },
  "chur|untere gasse|16": {
   "street": "Untere Gasse",
   "hn": "16",
@@ -550,6 +914,27 @@
   "hn": "22",
   "lat": 46.8487166,
   "lng": 9.5298177,
+  "mieter": []
+ },
+ "chur|grabenstrasse|43": {
+  "street": "Grabenstrasse",
+  "hn": "43",
+  "lat": 46.8489429,
+  "lng": 9.5298632,
+  "mieter": []
+ },
+ "chur|grabenstrasse|45": {
+  "street": "Grabenstrasse",
+  "hn": "45",
+  "lat": 46.8488515,
+  "lng": 9.5297544,
+  "mieter": []
+ },
+ "chur|grabenstrasse|47": {
+  "street": "Grabenstrasse",
+  "hn": "47",
+  "lat": 46.8487139,
+  "lng": 9.5296651,
   "mieter": []
  },
  "chur|obere gasse|20": {
@@ -580,6 +965,13 @@
   "lng": 9.5321858,
   "mieter": []
  },
+ "chur|kornplatz|5": {
+  "street": "Kornplatz",
+  "hn": "5",
+  "lat": 46.8488772,
+  "lng": 9.5313657,
+  "mieter": []
+ },
  "chur|poststrasse|36": {
   "street": "Poststrasse",
   "hn": "36",
@@ -592,6 +984,36 @@
   "hn": "4",
   "lat": 46.8490116,
   "lng": 9.5305687,
+  "mieter": []
+ },
+ "chur|kornplatz|10": {
+  "street": "Kornplatz",
+  "hn": "10",
+  "lat": 46.8492024,
+  "lng": 9.5312845,
+  "mieter": [
+   "Stadtpolizei Chur"
+  ]
+ },
+ "chur|grabenstrasse|35": {
+  "street": "Grabenstrasse",
+  "hn": "35",
+  "lat": 46.849334,
+  "lng": 9.5305367,
+  "mieter": []
+ },
+ "chur|grabenstrasse|40": {
+  "street": "Grabenstrasse",
+  "hn": "40",
+  "lat": 46.849238,
+  "lng": 9.529651,
+  "mieter": []
+ },
+ "chur|kornplatz|2": {
+  "street": "Kornplatz",
+  "hn": "2",
+  "lat": 46.8490295,
+  "lng": 9.5317852,
   "mieter": []
  },
  "chur|poststrasse|24": {
@@ -685,6 +1107,97 @@
   "lng": 9.5303715,
   "mieter": []
  },
+ "chur|reichsgasse|52": {
+  "street": "Reichsgasse",
+  "hn": "52",
+  "lat": 46.8496124,
+  "lng": 9.5327988,
+  "mieter": []
+ },
+ "chur|reichsgasse|54": {
+  "street": "Reichsgasse",
+  "hn": "54",
+  "lat": 46.8495456,
+  "lng": 9.5327938,
+  "mieter": []
+ },
+ "chur|reichsgasse|61a": {
+  "street": "Reichsgasse",
+  "hn": "61a",
+  "lat": 46.8490364,
+  "lng": 9.5333208,
+  "mieter": []
+ },
+ "chur|reichsgasse|47": {
+  "street": "Reichsgasse",
+  "hn": "47",
+  "lat": 46.8495384,
+  "lng": 9.5332896,
+  "mieter": []
+ },
+ "chur|reichsgasse|49": {
+  "street": "Reichsgasse",
+  "hn": "49",
+  "lat": 46.8495382,
+  "lng": 9.5331432,
+  "mieter": []
+ },
+ "chur|reichsgasse|51": {
+  "street": "Reichsgasse",
+  "hn": "51",
+  "lat": 46.8495047,
+  "lng": 9.533016,
+  "mieter": []
+ },
+ "chur|reichsgasse|55": {
+  "street": "Reichsgasse",
+  "hn": "55",
+  "lat": 46.8494051,
+  "lng": 9.5330536,
+  "mieter": []
+ },
+ "chur|reichsgasse|69": {
+  "street": "Reichsgasse",
+  "hn": "69",
+  "lat": 46.8487808,
+  "lng": 9.5328419,
+  "mieter": []
+ },
+ "chur|reichsgasse|71": {
+  "street": "Reichsgasse",
+  "hn": "71",
+  "lat": 46.8486637,
+  "lng": 9.5327443,
+  "mieter": []
+ },
+ "chur|reichsgasse|37": {
+  "street": "Reichsgasse",
+  "hn": "37",
+  "lat": 46.8499745,
+  "lng": 9.5341377,
+  "mieter": []
+ },
+ "chur|reichsgasse|29": {
+  "street": "Reichsgasse",
+  "hn": "29",
+  "lat": 46.8502156,
+  "lng": 9.5342766,
+  "mieter": []
+ },
+ "chur|reichsgasse|27": {
+  "street": "Reichsgasse",
+  "hn": "27",
+  "lat": 46.850371,
+  "lng": 9.5341308,
+  "mieter": []
+ },
+ "chur|reichsgasse|25a": {
+  "street": "Reichsgasse",
+  "hn": "25a",
+  "lat": 46.8505242,
+  "lng": 9.5339257,
+  "mieter": []
+ },
  "chur|poststrasse|3": {
   "street": "Poststrasse",
   "hn": "3",
@@ -692,11 +1205,123 @@
   "lng": 9.5322252,
   "mieter": []
  },
+ "chur|reichsgasse|40": {
+  "street": "Reichsgasse",
+  "hn": "40",
+  "lat": 46.849967,
+  "lng": 9.5332846,
+  "mieter": []
+ },
+ "chur|reichsgasse|42": {
+  "street": "Reichsgasse",
+  "hn": "42",
+  "lat": 46.8499025,
+  "lng": 9.5332683,
+  "mieter": []
+ },
+ "chur|reichsgasse|44": {
+  "street": "Reichsgasse",
+  "hn": "44",
+  "lat": 46.8498127,
+  "lng": 9.5332444,
+  "mieter": []
+ },
+ "chur|reichsgasse|50": {
+  "street": "Reichsgasse",
+  "hn": "50",
+  "lat": 46.8497043,
+  "lng": 9.5330481,
+  "mieter": []
+ },
+ "chur|reichsgasse|46": {
+  "street": "Reichsgasse",
+  "hn": "46",
+  "lat": 46.8496956,
+  "lng": 9.5332916,
+  "mieter": []
+ },
+ "chur|reichsgasse|9": {
+  "street": "Reichsgasse",
+  "hn": "9",
+  "lat": 46.8509366,
+  "lng": 9.5344694,
+  "mieter": []
+ },
  "chur|bahnhofstrasse|35": {
   "street": "Bahnhofstrasse",
   "hn": "35",
   "lat": 46.8513205,
   "lng": 9.5322971,
+  "mieter": []
+ },
+ "chur|reichsgasse|11": {
+  "street": "Reichsgasse",
+  "hn": "11",
+  "lat": 46.8510104,
+  "lng": 9.5341665,
+  "mieter": []
+ },
+ "chur|grabenstrasse|36": {
+  "street": "Grabenstrasse",
+  "hn": "36",
+  "lat": 46.8494461,
+  "lng": 9.5300068,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|42.1": {
+  "street": "Alexanderstrasse",
+  "hn": "42.1",
+  "lat": 46.8555671,
+  "lng": 9.5321252,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|18": {
+  "street": "Alexanderstrasse",
+  "hn": "18",
+  "lat": 46.8534026,
+  "lng": 9.5317359,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|16": {
+  "street": "Alexanderstrasse",
+  "hn": "16",
+  "lat": 46.853257,
+  "lng": 9.5316453,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|14": {
+  "street": "Alexanderstrasse",
+  "hn": "14",
+  "lat": 46.8530642,
+  "lng": 9.5316667,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|14.1": {
+  "street": "Alexanderstrasse",
+  "hn": "14.1",
+  "lat": 46.8530167,
+  "lng": 9.5318508,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|8": {
+  "street": "Alexanderstrasse",
+  "hn": "8",
+  "lat": 46.852852,
+  "lng": 9.5317013,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|2": {
+  "street": "Alexanderstrasse",
+  "hn": "2",
+  "lat": 46.8525333,
+  "lng": 9.5317752,
+  "mieter": []
+ },
+ "chur|alexanderstrasse|16.1": {
+  "street": "Alexanderstrasse",
+  "hn": "16.1",
+  "lat": 46.8531978,
+  "lng": 9.5318292,
   "mieter": []
  },
  "chur|quaderstrasse|7": {
@@ -776,6 +1401,76 @@
   "lng": 9.5332569,
   "mieter": []
  },
+ "chur|reichsgasse|11.3": {
+  "street": "Reichsgasse",
+  "hn": "11.3",
+  "lat": 46.8509658,
+  "lng": 9.534611,
+  "mieter": []
+ },
+ "chur|reichsgasse|4a.1": {
+  "street": "Reichsgasse",
+  "hn": "4a.1",
+  "lat": 46.8511643,
+  "lng": 9.5346402,
+  "mieter": []
+ },
+ "chur|reichsgasse|3": {
+  "street": "Reichsgasse",
+  "hn": "3",
+  "lat": 46.8511914,
+  "lng": 9.5341312,
+  "mieter": []
+ },
+ "chur|reichsgasse|11.2": {
+  "street": "Reichsgasse",
+  "hn": "11.2",
+  "lat": 46.8509531,
+  "lng": 9.5343713,
+  "mieter": []
+ },
+ "chur|reichsgasse|5": {
+  "street": "Reichsgasse",
+  "hn": "5",
+  "lat": 46.8512525,
+  "lng": 9.5343796,
+  "mieter": []
+ },
+ "chur|reichsgasse|11.1": {
+  "street": "Reichsgasse",
+  "hn": "11.1",
+  "lat": 46.8511293,
+  "lng": 9.5343566,
+  "mieter": []
+ },
+ "chur|reichsgasse|10": {
+  "street": "Reichsgasse",
+  "hn": "10",
+  "lat": 46.8510981,
+  "lng": 9.5338422,
+  "mieter": []
+ },
+ "chur|reichsgasse|12": {
+  "street": "Reichsgasse",
+  "hn": "12",
+  "lat": 46.8510057,
+  "lng": 9.5337946,
+  "mieter": []
+ },
+ "chur|reichsgasse|18": {
+  "street": "Reichsgasse",
+  "hn": "18",
+  "lat": 46.8508386,
+  "lng": 9.5336596,
+  "mieter": []
+ },
+ "chur|grabenstrasse|19": {
+  "street": "Grabenstrasse",
+  "hn": "19",
+  "lat": 46.8508094,
+  "lng": 9.5322974,
+  "mieter": []
+ },
  "chur|poststrasse|9": {
   "street": "Poststrasse",
   "hn": "9",
@@ -795,6 +1490,13 @@
   "hn": "5",
   "lat": 46.8502115,
   "lng": 9.5324521,
+  "mieter": []
+ },
+ "chur|reichsgasse|48": {
+  "street": "Reichsgasse",
+  "hn": "48",
+  "lat": 46.8496979,
+  "lng": 9.5331932,
   "mieter": []
  },
  "chur|bahnhofstrasse|44": {
@@ -846,6 +1548,13 @@
   "lng": 9.5310072,
   "mieter": []
  },
+ "chur|grabenstrasse|18.1": {
+  "street": "Grabenstrasse",
+  "hn": "18.1",
+  "lat": 46.8505828,
+  "lng": 9.5306659,
+  "mieter": []
+ },
  "chur|untere gasse|25.1": {
   "street": "Untere Gasse",
   "hn": "25.1",
@@ -858,6 +1567,20 @@
   "hn": "24.2",
   "lat": 46.8483095,
   "lng": 9.5309515,
+  "mieter": []
+ },
+ "chur|reichsgasse|28.1": {
+  "street": "Reichsgasse",
+  "hn": "28.1",
+  "lat": 46.8502719,
+  "lng": 9.5344176,
+  "mieter": []
+ },
+ "chur|reichsgasse|25": {
+  "street": "Reichsgasse",
+  "hn": "25",
+  "lat": 46.850385,
+  "lng": 9.5338591,
   "mieter": []
  },
  "chur|poststrasse|10": {
@@ -893,6 +1616,27 @@
   "hn": "9b",
   "lat": 46.8771692,
   "lng": 9.5294012,
+  "mieter": []
+ },
+ "chur|grabenstrasse|41": {
+  "street": "Grabenstrasse",
+  "hn": "41",
+  "lat": 46.8490325,
+  "lng": 9.5300142,
+  "mieter": []
+ },
+ "chur|reichsgasse|65": {
+  "street": "Reichsgasse",
+  "hn": "65",
+  "lat": 46.8489482,
+  "lng": 9.5329298,
+  "mieter": []
+ },
+ "chur|reichsgasse|67": {
+  "street": "Reichsgasse",
+  "hn": "67",
+  "lat": 46.8488611,
+  "lng": 9.5329132,
   "mieter": []
  },
  "chur|poststrasse|37": {

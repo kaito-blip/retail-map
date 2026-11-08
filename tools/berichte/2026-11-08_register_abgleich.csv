@@ -1,6 +1,5 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
-owner;neuchâtel|rue du seyon|12;Mobimo Holding AG;;Eigentümer lt. Mobimo: Halbjahresbericht 2026, Detailangaben zum Immobilienportfolio, Angaben zu den Geschäftsliegenschaften (30.06.2026), Alleineigentum
-owner;sion|avenue du midi|3;Helvetica Property Investors AG für Helvetica Swiss Commercial Fund;;Eigentümer lt. Helvetica HSC: Halbjahresbericht per 30.06.2026, Inventar der Liegenschaften S. 31–33 (2026-06-30), Stockwerkeigentum
+owner;sion|avenue du midi|9;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Direct 1a Immo PK;;Eigentümer lt. UBS 1a Immo PK: Halbjahresbericht per 31.03.2026, Liegenschaftenverzeichnis S. 13 (2026-03-31), Baurecht
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -293,6 +292,7 @@ bestätigt;neuchâtel|rue de l'hôpital|15;;Bonhôte-Immobilier SICAV;
 bestätigt;neuchâtel|rue de l'hôpital|20;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Direct 1a Immo PK;
 bestätigt;neuchâtel|rue de l'hôpital|3;;Investissements Fonciers SA für La Foncière (über 100%-Immobiliengesellschaften LA FONCIERE xx SA);
 bestätigt;neuchâtel|rue de l'hôpital|5;;Investissements Fonciers SA für La Foncière (über 100%-Immobiliengesellschaften LA FONCIERE xx SA);
+bestätigt;neuchâtel|rue du seyon|12;;Mobimo Holding AG;
 bestätigt;neuchâtel|rue du temple-neuf|11;;Bonhôte-Immobilier SICAV;
 bestätigt;neuchâtel|rue saint-maurice|4;;Edmond de Rothschild Real Estate SICAV (ERRES), Compartiment Swiss;
 bestätigt;nyon|rue de rive|39;;Edmond de Rothschild Real Estate SICAV (ERRES), Compartiment Swiss;
@@ -319,6 +319,7 @@ bestätigt;sion|avenue de la gare|18;;GEP SA für FIR Fonds Immobilier Romand;
 bestätigt;sion|avenue de la gare|27;;Patrimonium Anlagestiftung, Anlagegruppe Gesundheitsimmobilien Schweiz;
 bestätigt;sion|avenue de la gare|28;;Edmond de Rothschild Real Estate SICAV (ERRES), Compartiment Swiss;
 bestätigt;sion|avenue de la gare|36;;BNP Paribas Asset Management Switzerland AG für AXA Real Estate Fund Switzerland;
+bestätigt;sion|avenue du midi|3;;Helvetica Property Investors AG für Helvetica Swiss Commercial Fund;
 bestätigt;sion|rue de lausanne|29;;BNP Paribas Asset Management Switzerland AG für AXA Real Estate Fund Switzerland;
 bestätigt;sion|rue de lausanne|49a;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Léman Residential «Foncipars»;
 bestätigt;sion|rue de lausanne|49b;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Léman Residential «Foncipars»;
