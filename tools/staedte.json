@@ -901,12 +901,18 @@
       "Route du Rawyl",
       "Rue du Prado",
       "Route de la Moubra",
-      "Rue du Pas-de-l'Ours"
+      "Rue du Pas-de-l'Ours",
+      "Rue du Pas de l'Ours",
+      "Rue du Grand-Place",
+      "Rue Louis Antille",
+      "Rue Louis-Antille",
+      "Avenue de la Gare",
+      "Place du Marché"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2",
-    "offen": "192"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (Investis Annual Report 2025); Rest Anfrageliste: online.vs.ch (Crans-Montana) und Grundbuchamt Siders (Lens, nicht online)",
+    "offen": "188"
   },
   {
     "kanton": "GR",

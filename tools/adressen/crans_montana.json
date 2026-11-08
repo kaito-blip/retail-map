@@ -9,6 +9,24 @@
    "Amavita"
   ]
  },
+ "crans-montana|rue louis-antille|1": {
+  "street": "Rue Louis-Antille",
+  "hn": "1",
+  "lat": 46.312229,
+  "lng": 7.4804969,
+  "mieter": [
+   "Boucherie du Rawyl"
+  ]
+ },
+ "crans-montana|rue du pas de l'ours|4": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "4",
+  "lat": 46.3076627,
+  "lng": 7.4678912,
+  "mieter": [
+   "Banque Cantonale du Valais"
+  ]
+ },
  "crans-montana|route du rawyl|10": {
   "street": "Route du Rawyl",
   "hn": "10",
@@ -20,12 +38,30 @@
    "Alaïa SA"
   ]
  },
+ "crans-montana|place du marché|5": {
+  "street": "Place du Marché",
+  "hn": "5",
+  "lat": 46.3122417,
+  "lng": 7.4813219,
+  "mieter": [
+   "Quiksilver;Roxy;DC;Helly Hansen;Volcom;Burton;Jones;Amplid;Good;Nitro;K2Boards;K2Skis;Nordica;Elan Skis;BIXS;Parktools;IXS;Endura;Dakine;Mammut;Komperdel;ARVA"
+  ]
+ },
  "crans-montana|rue du prado|29": {
   "street": "Rue du Prado",
   "hn": "29",
   "lat": 46.3044386,
   "lng": 7.4682869,
   "mieter": []
+ },
+ "crans-montana|avenue de la gare|20": {
+  "street": "Avenue de la Gare",
+  "hn": "20",
+  "lat": 46.3126657,
+  "lng": 7.485997,
+  "mieter": [
+   "Poste 3963 Crans-Montana 1"
+  ]
  },
  "crans-montana|rue centrale|7": {
   "street": "Rue Centrale",
@@ -34,6 +70,24 @@
   "lng": 7.468871,
   "mieter": [
    "Bibliothèque de Crans-Montana"
+  ]
+ },
+ "crans-montana|rue de grand palace|6": {
+  "street": "Rue de Grand Palace",
+  "hn": "6",
+  "lat": 46.3066297,
+  "lng": 7.4679131,
+  "mieter": [
+   "Edelweiss Market"
+  ]
+ },
+ "crans-montana|rue louis-antille|3": {
+  "street": "Rue Louis-Antille",
+  "hn": "3",
+  "lat": 46.3119533,
+  "lng": 7.4806628,
+  "mieter": [
+   "Au Saxo"
   ]
  },
  "crans-montana|rue du prado|1": {
@@ -63,6 +117,15 @@
    "Peak Performance"
   ]
  },
+ "crans-montana|rue du grand place|14": {
+  "street": "Rue du Grand Place",
+  "hn": "14",
+  "lat": 46.3063658,
+  "lng": 7.4675159,
+  "mieter": [
+   "United Colors of Benetton"
+  ]
+ },
  "crans-montana|route du rawyl|16": {
   "street": "Route du Rawyl",
   "hn": "16",
@@ -88,6 +151,22 @@
   "lng": 7.4687984,
   "mieter": []
  },
+ "crans-montana|avenue de la gare|8": {
+  "street": "Avenue de la Gare",
+  "hn": "8",
+  "lat": 46.3124063,
+  "lng": 7.4834982,
+  "mieter": [
+   "Taillens"
+  ]
+ },
+ "crans-montana|avenue de la gare|7": {
+  "street": "Avenue de la Gare",
+  "hn": "7",
+  "lat": 46.3124896,
+  "lng": 7.4831323,
+  "mieter": []
+ },
  "crans-montana|route du rawyl|45": {
   "street": "Route du Rawyl",
   "hn": "45",
@@ -104,6 +183,26 @@
   "lng": 7.4793229,
   "mieter": [
    "Raiffeisen"
+  ]
+ },
+ "crans-montana|rue louis antille|15": {
+  "street": "Rue Louis Antille",
+  "hn": "15",
+  "lat": 46.3119205,
+  "lng": 7.4821025,
+  "mieter": [
+   "Centre Médical Intercommunal Montana"
+  ]
+ },
+ "crans-montana|rue louis antille|1": {
+  "street": "Rue Louis Antille",
+  "hn": "1",
+  "lat": 46.3121851,
+  "lng": 7.4805192,
+  "mieter": [
+   "Agence Immobilière Moderne",
+   "Comme à la Montagne",
+   "Au bonheur des Dames"
   ]
  },
  "crans-montana|route de la moubra|49": {
@@ -169,6 +268,13 @@
   "lng": 7.4804329,
   "mieter": []
  },
+ "crans-montana|place du marché|2": {
+  "street": "Place du Marché",
+  "hn": "2",
+  "lat": 46.3120402,
+  "lng": 7.4818465,
+  "mieter": []
+ },
  "crans-montana|route du rawyl|20": {
   "street": "Route du Rawyl",
   "hn": "20",
@@ -181,6 +287,13 @@
   "hn": "43",
   "lat": 46.3072553,
   "lng": 7.4795773,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|4": {
+  "street": "Avenue de la Gare",
+  "hn": "4",
+  "lat": 46.3120658,
+  "lng": 7.4829128,
   "mieter": []
  },
  "crans-montana|route de la moubra|10": {
@@ -223,6 +336,13 @@
   "hn": "56a",
   "lat": 46.3120675,
   "lng": 7.4796114,
+  "mieter": []
+ },
+ "crans-montana|rue louis antille|9": {
+  "street": "Rue Louis Antille",
+  "hn": "9",
+  "lat": 46.311674,
+  "lng": 7.4811382,
   "mieter": []
  },
  "crans-montana|rue centrale|11": {
@@ -288,6 +408,13 @@
   "lng": 7.4752781,
   "mieter": []
  },
+ "crans-montana|rue louis antille|8": {
+  "street": "Rue Louis Antille",
+  "hn": "8",
+  "lat": 46.3114552,
+  "lng": 7.4815152,
+  "mieter": []
+ },
  "crans-montana|rue centrale|38": {
   "street": "Rue Centrale",
   "hn": "38",
@@ -300,6 +427,13 @@
   "hn": "32",
   "lat": 46.3075965,
   "lng": 7.4781509,
+  "mieter": []
+ },
+ "crans-montana|place du marché|3": {
+  "street": "Place du Marché",
+  "hn": "3",
+  "lat": 46.3120815,
+  "lng": 7.4812515,
   "mieter": []
  },
  "crans-montana|route de la moubra|71": {
@@ -329,6 +463,15 @@
   "lat": 46.3087468,
   "lng": 7.4706244,
   "mieter": []
+ },
+ "crans-montana|avenue de la gare|15": {
+  "street": "Avenue de la Gare",
+  "hn": "15",
+  "lat": 46.3126636,
+  "lng": 7.4836436,
+  "mieter": [
+   "Le Tirbouchon"
+  ]
  },
  "crans-montana|route de la moubra|5": {
   "street": "Route de la Moubra",
@@ -442,6 +585,13 @@
   "lng": 7.4686992,
   "mieter": []
  },
+ "crans-montana|place du marché|4": {
+  "street": "Place du Marché",
+  "hn": "4",
+  "lat": 46.312268,
+  "lng": 7.4816334,
+  "mieter": []
+ },
  "crans-montana|rue centrale|50": {
   "street": "Rue Centrale",
   "hn": "50",
@@ -470,6 +620,13 @@
   "lng": 7.4840594,
   "mieter": []
  },
+ "crans-montana|rue louis antille|3": {
+  "street": "Rue Louis Antille",
+  "hn": "3",
+  "lat": 46.3119875,
+  "lng": 7.4807,
+  "mieter": []
+ },
  "crans-montana|route de la moubra|54": {
   "street": "Route de la Moubra",
   "hn": "54",
@@ -491,6 +648,13 @@
   "lng": 7.4694024,
   "mieter": []
  },
+ "crans-montana|rue louis antille|2": {
+  "street": "Rue Louis Antille",
+  "hn": "2",
+  "lat": 46.3113513,
+  "lng": 7.4811844,
+  "mieter": []
+ },
  "crans-montana|route de la moubra|66": {
   "street": "Route de la Moubra",
   "hn": "66",
@@ -510,6 +674,13 @@
   "hn": "8",
   "lat": 46.3102781,
   "lng": 7.4834776,
+  "mieter": []
+ },
+ "crans-montana|place du marché|1": {
+  "street": "Place du Marché",
+  "hn": "1",
+  "lat": 46.3118027,
+  "lng": 7.4815343,
   "mieter": []
  },
  "crans-montana|rue centrale|17": {
@@ -554,6 +725,13 @@
   "lng": 7.4686004,
   "mieter": []
  },
+ "crans-montana|rue louis antille|14": {
+  "street": "Rue Louis Antille",
+  "hn": "14",
+  "lat": 46.3115106,
+  "lng": 7.4819568,
+  "mieter": []
+ },
  "crans-montana|rue centrale|34": {
   "street": "Rue Centrale",
   "hn": "34",
@@ -580,6 +758,13 @@
   "hn": "27",
   "lat": 46.3069446,
   "lng": 7.4686004,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|6": {
+  "street": "Avenue de la Gare",
+  "hn": "6",
+  "lat": 46.3121828,
+  "lng": 7.4831873,
   "mieter": []
  },
  "crans-montana|route de la moubra|65": {
@@ -636,6 +821,13 @@
   "hn": "35",
   "lat": 46.3080303,
   "lng": 7.4684887,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|24": {
+  "street": "Avenue de la Gare",
+  "hn": "24",
+  "lat": 46.3129211,
+  "lng": 7.4885699,
   "mieter": []
  },
  "crans-montana|rue centrale|14": {
@@ -710,6 +902,13 @@
   "lng": 7.4709716,
   "mieter": []
  },
+ "crans-montana|rue du pas de l'ours|1b": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "1b",
+  "lat": 46.307386,
+  "lng": 7.4681291,
+  "mieter": []
+ },
  "crans-montana|route de la moubra|16": {
   "street": "Route de la Moubra",
   "hn": "16",
@@ -747,6 +946,13 @@
    "Altitude Immobilier"
   ]
  },
+ "crans-montana|rue louis antille|10": {
+  "street": "Rue Louis Antille",
+  "hn": "10",
+  "lat": 46.3109753,
+  "lng": 7.4818677,
+  "mieter": []
+ },
  "crans-montana|route de la moubra|63": {
   "street": "Route de la Moubra",
   "hn": "63",
@@ -759,6 +965,13 @@
   "hn": "44",
   "lat": 46.3110547,
   "lng": 7.4770447,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|1a": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "1a",
+  "lat": 46.307422,
+  "lng": 7.4683758,
   "mieter": []
  },
  "crans-montana|route de la moubra|46": {
@@ -810,11 +1023,46 @@
   "lng": 7.4692101,
   "mieter": []
  },
+ "crans-montana|avenue de la gare|3": {
+  "street": "Avenue de la Gare",
+  "hn": "3",
+  "lat": 46.3123099,
+  "lng": 7.4826769,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|3a": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "3a",
+  "lat": 46.3073038,
+  "lng": 7.4678061,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|10": {
+  "street": "Avenue de la Gare",
+  "hn": "10",
+  "lat": 46.3123218,
+  "lng": 7.4837085,
+  "mieter": []
+ },
  "crans-montana|route de la moubra|28": {
   "street": "Route de la Moubra",
   "hn": "28",
   "lat": 46.3078008,
   "lng": 7.4785813,
+  "mieter": []
+ },
+ "crans-montana|rue louis antille|7": {
+  "street": "Rue Louis Antille",
+  "hn": "7",
+  "lat": 46.3116068,
+  "lng": 7.4809346,
+  "mieter": []
+ },
+ "crans-montana|rue louis antille|12": {
+  "street": "Rue Louis Antille",
+  "hn": "12",
+  "lat": 46.3115475,
+  "lng": 7.482075,
   "mieter": []
  },
  "crans-montana|route de la moubra|50": {
@@ -850,6 +1098,13 @@
   "hn": "6",
   "lat": 46.3043126,
   "lng": 7.4694763,
+  "mieter": []
+ },
+ "crans-montana|rue louis antille|5": {
+  "street": "Rue Louis Antille",
+  "hn": "5",
+  "lat": 46.3117866,
+  "lng": 7.4808261,
   "mieter": []
  },
  "crans-montana|route de la moubra|53": {
@@ -945,6 +1200,20 @@
   "lng": 7.4724011,
   "mieter": []
  },
+ "crans-montana|avenue de la gare|11": {
+  "street": "Avenue de la Gare",
+  "hn": "11",
+  "lat": 46.3126463,
+  "lng": 7.483454,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|22": {
+  "street": "Avenue de la Gare",
+  "hn": "22",
+  "lat": 46.3129063,
+  "lng": 7.4881309,
+  "mieter": []
+ },
  "crans-montana|route de la moubra|14": {
   "street": "Route de la Moubra",
   "hn": "14",
@@ -971,6 +1240,20 @@
   "hn": "17",
   "lat": 46.3085507,
   "lng": 7.4821094,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|2": {
+  "street": "Avenue de la Gare",
+  "hn": "2",
+  "lat": 46.311938,
+  "lng": 7.4826909,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|28": {
+  "street": "Avenue de la Gare",
+  "hn": "28",
+  "lat": 46.3129109,
+  "lng": 7.4892075,
   "mieter": []
  },
  "crans-montana|rue centrale|5": {
@@ -1022,11 +1305,32 @@
   "lng": 7.4686473,
   "mieter": []
  },
+ "crans-montana|avenue de la gare|5": {
+  "street": "Avenue de la Gare",
+  "hn": "5",
+  "lat": 46.3124132,
+  "lng": 7.4827037,
+  "mieter": []
+ },
  "crans-montana|rue centrale|33": {
   "street": "Rue Centrale",
   "hn": "33",
   "lat": 46.3076935,
   "lng": 7.4684556,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|16": {
+  "street": "Avenue de la Gare",
+  "hn": "16",
+  "lat": 46.3125336,
+  "lng": 7.4846151,
+  "mieter": []
+ },
+ "crans-montana|rue louis antille|4": {
+  "street": "Rue Louis Antille",
+  "hn": "4",
+  "lat": 46.3113939,
+  "lng": 7.4812297,
   "mieter": []
  },
  "crans-montana|route de la moubra|56": {
@@ -1078,6 +1382,13 @@
   "lng": 7.4697636,
   "mieter": []
  },
+ "crans-montana|rue louis antille|11": {
+  "street": "Rue Louis Antille",
+  "hn": "11",
+  "lat": 46.3117426,
+  "lng": 7.4813478,
+  "mieter": []
+ },
  "crans-montana|route de la moubra|33": {
   "street": "Route de la Moubra",
   "hn": "33",
@@ -1092,11 +1403,32 @@
   "lng": 7.4695433,
   "mieter": []
  },
+ "crans-montana|avenue de la gare|9": {
+  "street": "Avenue de la Gare",
+  "hn": "9",
+  "lat": 46.3126283,
+  "lng": 7.4832645,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|26": {
+  "street": "Avenue de la Gare",
+  "hn": "26",
+  "lat": 46.3129211,
+  "lng": 7.4885699,
+  "mieter": []
+ },
  "crans-montana|route de la moubra|7": {
   "street": "Route de la Moubra",
   "hn": "7",
   "lat": 46.3108591,
   "lng": 7.4837293,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|31": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "31",
+  "lat": 46.307449,
+  "lng": 7.4605815,
   "mieter": []
  },
  "crans-montana|rue du pas-de-l'ours|41": {
@@ -1106,6 +1438,13 @@
   "lng": 7.4598928,
   "mieter": []
  },
+ "crans-montana|rue du pas de l'ours|6": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "6",
+  "lat": 46.3075932,
+  "lng": 7.467158,
+  "mieter": []
+ },
  "crans-montana|rue du prado|15": {
   "street": "Rue du Prado",
   "hn": "15",
@@ -1113,11 +1452,49 @@
   "lng": 7.4681494,
   "mieter": []
  },
+ "crans-montana|rue du pas de l'ours|49": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "49",
+  "lat": 46.3071225,
+  "lng": 7.4593145,
+  "mieter": []
+ },
+ "crans-montana|rue du grand-place|5": {
+  "street": "Rue du Grand-Place",
+  "hn": "5",
+  "lat": 46.3065662,
+  "lng": 7.4678946,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|42": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "42",
+  "lat": 46.3059404,
+  "lng": 7.4548625,
+  "mieter": []
+ },
  "crans-montana|rue du prado|9": {
   "street": "Rue du Prado",
   "hn": "9",
   "lat": 46.305256,
   "lng": 7.4676679,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|5": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "5",
+  "lat": 46.3069661,
+  "lng": 7.4665965,
+  "mieter": [
+   "CMI : Centre médical Intercommunal Crans",
+   "BeeO"
+  ]
+ },
+ "crans-montana|rue du pas de l'ours|19a": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "19a",
+  "lat": 46.3071525,
+  "lng": 7.4632704,
   "mieter": []
  },
  "crans-montana|rue du prado|8": {
@@ -1134,11 +1511,88 @@
   "lng": 7.4679459,
   "mieter": []
  },
+ "crans-montana|rue du grand-place|14": {
+  "street": "Rue du Grand-Place",
+  "hn": "14",
+  "lat": 46.3061721,
+  "lng": 7.4677989,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|38": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "38",
+  "lat": 46.3059512,
+  "lng": 7.4552023,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|75": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "75",
+  "lat": 46.305207,
+  "lng": 7.4537754,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|29": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "29",
+  "lat": 46.3074901,
+  "lng": 7.4615577,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|36": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "36",
+  "lat": 46.3060806,
+  "lng": 7.4555845,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|71": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "71",
+  "lat": 46.3052405,
+  "lng": 7.4547252,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|46": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "46",
+  "lat": 46.3060586,
+  "lng": 7.4536656,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|3b": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "3b",
+  "lat": 46.3072655,
+  "lng": 7.4674955,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|50": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "50",
+  "lat": 46.3051304,
+  "lng": 7.4530346,
+  "mieter": []
+ },
  "crans-montana|rue du prado|25": {
   "street": "Rue du Prado",
   "hn": "25",
   "lat": 46.3047927,
   "lng": 7.468644,
+  "mieter": []
+ },
+ "crans-montana|rue du grand-place|10": {
+  "street": "Rue du Grand-Place",
+  "hn": "10",
+  "lat": 46.3063492,
+  "lng": 7.4675759,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|12": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "12",
+  "lat": 46.307648,
+  "lng": 7.4630362,
   "mieter": []
  },
  "crans-montana|rue du prado|6": {
@@ -1148,11 +1602,53 @@
   "lng": 7.4674648,
   "mieter": []
  },
+ "crans-montana|rue du pas de l'ours|13": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "13",
+  "lat": 46.3071034,
+  "lng": 7.4649027,
+  "mieter": []
+ },
  "crans-montana|rue du prado|32": {
   "street": "Rue du Prado",
   "hn": "32",
   "lat": 46.303703,
   "lng": 7.465687,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|27": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "27",
+  "lat": 46.3073915,
+  "lng": 7.4620444,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|20": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "20",
+  "lat": 46.3078719,
+  "lng": 7.4612905,
+  "mieter": []
+ },
+ "crans-montana|rue du grand-place|12": {
+  "street": "Rue du Grand-Place",
+  "hn": "12",
+  "lat": 46.3062531,
+  "lng": 7.4676561,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|33": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "33",
+  "lat": 46.3068844,
+  "lng": 7.4604361,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|69": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "69",
+  "lat": 46.3054003,
+  "lng": 7.4545393,
   "mieter": []
  },
  "crans-montana|rue du prado|19": {
@@ -1162,11 +1658,60 @@
   "lng": 7.4677885,
   "mieter": []
  },
+ "crans-montana|rue du pas de l'ours|73": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "73",
+  "lat": 46.3053968,
+  "lng": 7.4541936,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|10": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "10",
+  "lat": 46.3075654,
+  "lng": 7.4634141,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|34": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "34",
+  "lat": 46.3061702,
+  "lng": 7.4558968,
+  "mieter": []
+ },
  "crans-montana|rue du prado|16": {
   "street": "Rue du Prado",
   "hn": "16",
   "lat": 46.3044718,
   "lng": 7.4677207,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|15": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "15",
+  "lat": 46.307138,
+  "lng": 7.4644759,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|40": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "40",
+  "lat": 46.3059314,
+  "lng": 7.4550443,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|8": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "8",
+  "lat": 46.3076913,
+  "lng": 7.4637403,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|19": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "19",
+  "lat": 46.3071746,
+  "lng": 7.463574,
   "mieter": []
  },
  "crans-montana|rue du prado|10": {
@@ -1176,11 +1721,60 @@
   "lng": 7.4671542,
   "mieter": []
  },
+ "crans-montana|rue du pas de l'ours|7": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "7",
+  "lat": 46.3069724,
+  "lng": 7.4660344,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|48": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "48",
+  "lat": 46.3054041,
+  "lng": 7.453129,
+  "mieter": []
+ },
+ "crans-montana|rue du grand-place|7": {
+  "street": "Rue du Grand-Place",
+  "hn": "7",
+  "lat": 46.306433,
+  "lng": 7.4678899,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|16": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "16",
+  "lat": 46.3079415,
+  "lng": 7.4620279,
+  "mieter": []
+ },
  "crans-montana|rue du prado|4": {
   "street": "Rue du Prado",
   "hn": "4",
   "lat": 46.3057332,
   "lng": 7.4676983,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|9": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "9",
+  "lat": 46.3069998,
+  "lng": 7.4656626,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|23": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "23",
+  "lat": 46.3072903,
+  "lng": 7.4625106,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|11": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "11",
+  "lat": 46.3070279,
+  "lng": 7.4652067,
   "mieter": []
  },
  "crans-montana|rue du prado|33": {
@@ -1190,11 +1784,25 @@
   "lng": 7.4690818,
   "mieter": []
  },
+ "crans-montana|rue du pas de l'ours|44": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "44",
+  "lat": 46.305851,
+  "lng": 7.4545197,
+  "mieter": []
+ },
  "crans-montana|rue du prado|12": {
   "street": "Rue du Prado",
   "hn": "12",
   "lat": 46.3048594,
   "lng": 7.4673075,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|28": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "28",
+  "lat": 46.3069477,
+  "lng": 7.4577645,
   "mieter": []
  },
  "crans-montana|rue du prado|18": {
@@ -1211,6 +1819,27 @@
   "lng": 7.4679969,
   "mieter": []
  },
+ "crans-montana|rue du pas de l'ours|41": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "41",
+  "lat": 46.3074194,
+  "lng": 7.459926,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|21": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "21",
+  "lat": 46.3071647,
+  "lng": 7.4630801,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|77": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "77",
+  "lat": 46.3048585,
+  "lng": 7.4533126,
+  "mieter": []
+ },
  "crans-montana|rue du prado|7": {
   "street": "Rue du Prado",
   "hn": "7",
@@ -1218,11 +1847,25 @@
   "lng": 7.467879,
   "mieter": []
  },
+ "crans-montana|rue du grand-place|2": {
+  "street": "Rue du Grand-Place",
+  "hn": "2",
+  "lat": 46.3068563,
+  "lng": 7.4672638,
+  "mieter": []
+ },
  "crans-montana|rue du prado|13": {
   "street": "Rue du Prado",
   "hn": "13",
   "lat": 46.3052408,
   "lng": 7.4683485,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|17": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "17",
+  "lat": 46.3071981,
+  "lng": 7.4641959,
   "mieter": []
  },
  "crans-montana|rue du prado|31": {
@@ -1244,6 +1887,13 @@
   "hn": "14",
   "lat": 46.3046956,
   "lng": 7.4674796,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|14": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "14",
+  "lat": 46.3077768,
+  "lng": 7.462353,
   "mieter": []
  },
  "crans-montana|rue du prado|2": {
@@ -1288,6 +1938,13 @@
   "hn": "38",
   "lat": 46.3095576,
   "lng": 7.4735856,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|12": {
+  "street": "Avenue de la Gare",
+  "hn": "12",
+  "lat": 46.3124542,
+  "lng": 7.484066,
   "mieter": []
  },
  "crans-montana|rue du pas-de-l'ours|1a": {
@@ -1339,6 +1996,13 @@
   "lng": 7.4592832,
   "mieter": []
  },
+ "crans-montana|rue du pas de l'ours|35": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "35",
+  "lat": 46.3068249,
+  "lng": 7.459821,
+  "mieter": []
+ },
  "crans-montana|rue du pas-de-l'ours|39": {
   "street": "Rue du Pas-de-l'Ours",
   "hn": "39",
@@ -1346,11 +2010,60 @@
   "lng": 7.4599429,
   "mieter": []
  },
+ "crans-montana|rue du pas de l'ours|37": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "37",
+  "lat": 46.3066027,
+  "lng": 7.459518,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|61": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "61",
+  "lat": 46.3063713,
+  "lng": 7.457897,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|51": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "51",
+  "lat": 46.3066812,
+  "lng": 7.4591367,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|59": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "59",
+  "lat": 46.3066607,
+  "lng": 7.4580632,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|57": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "57",
+  "lat": 46.306739,
+  "lng": 7.45828,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|55": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "55",
+  "lat": 46.3068804,
+  "lng": 7.4586409,
+  "mieter": []
+ },
  "crans-montana|rue du pas-de-l'ours|2": {
   "street": "Rue du Pas-de-l'Ours",
   "hn": "2",
   "lat": 46.3076825,
   "lng": 7.4683043,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|53": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "53",
+  "lat": 46.3067112,
+  "lng": 7.4588518,
   "mieter": []
  },
  "crans-montana|route du rawyl|24": {
@@ -1372,6 +2085,69 @@
   "hn": "34",
   "lat": 46.3093328,
   "lng": 7.4731211,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|22": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "22",
+  "lat": 46.3078834,
+  "lng": 7.4609953,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|25": {
+  "street": "Avenue de la Gare",
+  "hn": "25",
+  "lat": 46.3127853,
+  "lng": 7.4847978,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|18": {
+  "street": "Avenue de la Gare",
+  "hn": "18",
+  "lat": 46.3125749,
+  "lng": 7.4850287,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|14": {
+  "street": "Avenue de la Gare",
+  "hn": "14",
+  "lat": 46.3124787,
+  "lng": 7.4843285,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|19": {
+  "street": "Avenue de la Gare",
+  "hn": "19",
+  "lat": 46.3127015,
+  "lng": 7.4839848,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|21": {
+  "street": "Avenue de la Gare",
+  "hn": "21",
+  "lat": 46.312709,
+  "lng": 7.4841526,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|17": {
+  "street": "Avenue de la Gare",
+  "hn": "17",
+  "lat": 46.3127568,
+  "lng": 7.4838625,
+  "mieter": []
+ },
+ "crans-montana|avenue de la gare|23": {
+  "street": "Avenue de la Gare",
+  "hn": "23",
+  "lat": 46.3127583,
+  "lng": 7.4845292,
+  "mieter": []
+ },
+ "crans-montana|rue du pas de l'ours|63": {
+  "street": "Rue du Pas de l'Ours",
+  "hn": "63",
+  "lat": 46.3063106,
+  "lng": 7.4573628,
   "mieter": []
  },
  "crans-montana|rue du prado|30": {
