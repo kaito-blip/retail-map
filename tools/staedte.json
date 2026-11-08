@@ -275,12 +275,13 @@
       "Vorstadt",
       "Fronwagplatz",
       "Webergasse",
-      "Schwertstrasse"
+      "Schwertstrasse",
+      "Oberstadt"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 5",
-    "offen": "199"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 5; 08.11.26: Register-Abgleich 0 neu; Rest nur auf Anfrage beim Kantonalen Grundbuchamt SH (Mail-Entwurf SH_Schaffhausen_Anleitung.txt)",
+    "offen": "221"
   },
   {
     "kanton": "TG",

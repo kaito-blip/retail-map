@@ -92,6 +92,13 @@
    "Caffè Spettacolo"
   ]
  },
+ "schaffhausen|oberstadt|3": {
+  "street": "Oberstadt",
+  "hn": "3",
+  "lat": 47.6964563,
+  "lng": 8.6330285,
+  "mieter": []
+ },
  "schaffhausen|vordergasse|21": {
   "street": "Vordergasse",
   "hn": "21",
@@ -158,6 +165,22 @@
   "hn": "19",
   "lat": 47.6981548,
   "lng": 8.6340434,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|6": {
+  "street": "Oberstadt",
+  "hn": "6",
+  "lat": 47.6966114,
+  "lng": 8.6330391,
+  "mieter": [
+   "sasag Shop"
+  ]
+ },
+ "schaffhausen|oberstadt|26": {
+  "street": "Oberstadt",
+  "hn": "26",
+  "lat": 47.6967107,
+  "lng": 8.6319635,
   "mieter": []
  },
  "schaffhausen|vorstadt|17": {
@@ -744,6 +767,15 @@
   "lng": 8.633306,
   "mieter": []
  },
+ "schaffhausen|oberstadt|18": {
+  "street": "Oberstadt",
+  "hn": "18",
+  "lat": 47.6966416,
+  "lng": 8.6324584,
+  "mieter": [
+   "Bruno Niggli Intercoiffure"
+  ]
+ },
  "schaffhausen|vordergasse|3": {
   "street": "Vordergasse",
   "hn": "3",
@@ -759,6 +791,86 @@
   "mieter": [
    "Barber Shop Rosario"
   ]
+ },
+ "schaffhausen|oberstadt|10": {
+  "street": "Oberstadt",
+  "hn": "10",
+  "lat": 47.6966169,
+  "lng": 8.6328862,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|20": {
+  "street": "Oberstadt",
+  "hn": "20",
+  "lat": 47.6966764,
+  "lng": 8.6322505,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|12": {
+  "street": "Oberstadt",
+  "hn": "12",
+  "lat": 47.6966151,
+  "lng": 8.6327762,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|8": {
+  "street": "Oberstadt",
+  "hn": "8",
+  "lat": 47.6966151,
+  "lng": 8.6329613,
+  "mieter": [
+   "Achillea Apotheke",
+   "Stadtpraxis Chirurgie Marlovits"
+  ]
+ },
+ "schaffhausen|oberstadt|19": {
+  "street": "Oberstadt",
+  "hn": "19",
+  "lat": 47.6965451,
+  "lng": 8.6321694,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|17": {
+  "street": "Oberstadt",
+  "hn": "17",
+  "lat": 47.6965354,
+  "lng": 8.632351,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|9": {
+  "street": "Oberstadt",
+  "hn": "9",
+  "lat": 47.6964996,
+  "lng": 8.6326468,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|24": {
+  "street": "Oberstadt",
+  "hn": "24",
+  "lat": 47.6966999,
+  "lng": 8.632044,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|22": {
+  "street": "Oberstadt",
+  "hn": "22",
+  "lat": 47.6966909,
+  "lng": 8.6321164,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|14": {
+  "street": "Oberstadt",
+  "hn": "14",
+  "lat": 47.6966223,
+  "lng": 8.632677,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|5": {
+  "street": "Oberstadt",
+  "hn": "5",
+  "lat": 47.6964812,
+  "lng": 8.6328523,
+  "mieter": []
  },
  "schaffhausen|vorstadt|30": {
   "street": "Vorstadt",
@@ -1124,6 +1236,33 @@
    "La Mode"
   ]
  },
+ "schaffhausen|oberstadt|21": {
+  "street": "Oberstadt",
+  "hn": "21",
+  "lat": 47.6965594,
+  "lng": 8.6320674,
+  "mieter": [
+   "Coiffeur Osse"
+  ]
+ },
+ "schaffhausen|oberstadt|16": {
+  "street": "Oberstadt",
+  "hn": "16",
+  "lat": 47.696644,
+  "lng": 8.6325535,
+  "mieter": [
+   "cut&color"
+  ]
+ },
+ "schaffhausen|oberstadt|15": {
+  "street": "Oberstadt",
+  "hn": "15",
+  "lat": 47.6965269,
+  "lng": 8.6324215,
+  "mieter": [
+   "Star Barbers"
+  ]
+ },
  "schaffhausen|vorstadt|22;24": {
   "street": "Vorstadt",
   "hn": "22;24",
@@ -1275,6 +1414,13 @@
   "lng": 8.6367224,
   "mieter": []
  },
+ "schaffhausen|oberstadt|28": {
+  "street": "Oberstadt",
+  "hn": "28",
+  "lat": 47.6967492,
+  "lng": 8.6317832,
+  "mieter": []
+ },
  "schaffhausen|fronwagplatz|4": {
   "street": "Fronwagplatz",
   "hn": "4",
@@ -1331,6 +1477,13 @@
   "lng": 8.6338579,
   "mieter": []
  },
+ "schaffhausen|oberstadt|23": {
+  "street": "Oberstadt",
+  "hn": "23",
+  "lat": 47.6965491,
+  "lng": 8.6319225,
+  "mieter": []
+ },
  "schaffhausen|vordergasse|55": {
   "street": "Vordergasse",
   "hn": "55",
@@ -1357,6 +1510,20 @@
   "hn": "6",
   "lat": 47.6975844,
   "lng": 8.6339551,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|11": {
+  "street": "Oberstadt",
+  "hn": "11",
+  "lat": 47.6964338,
+  "lng": 8.6325688,
+  "mieter": []
+ },
+ "schaffhausen|oberstadt|13": {
+  "street": "Oberstadt",
+  "hn": "13",
+  "lat": 47.6964532,
+  "lng": 8.6325017,
   "mieter": []
  },
  "schaffhausen|vorstadt|45": {
