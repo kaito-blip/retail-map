@@ -488,9 +488,9 @@
       "Place du Marché",
       "Rue Jacques-Dalphin"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3; Rest: Einzelabfrage ge.ch/terextraitfoncier mit Direktlinks (commune=8), Anfrageliste GE_Carouge.csv",
     "offen": "231"
   },
   {
