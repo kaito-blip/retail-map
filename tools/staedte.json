@@ -350,9 +350,9 @@
       "Rathausplatz",
       "Lehnplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register 08.11.26: 0 Treffer; Anfrage Amt für das Grundbuch Uri (grundbuch@ur.ch, Mail vorbereitet)",
     "offen": "102"
   },
   {
