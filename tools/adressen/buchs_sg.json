@@ -4,7 +4,9 @@
   "hn": "2",
   "lat": 47.1663579,
   "lng": 9.4771702,
-  "mieter": []
+  "mieter": [
+   "Bucherhof"
+  ]
  },
  "buchs sg|grünaustrasse|1": {
   "street": "Grünaustrasse",
@@ -12,7 +14,8 @@
   "lat": 47.1659694,
   "lng": 9.476981,
   "mieter": [
-   "One Thai Curry"
+   "One Thai Curry",
+   "Sankt Georg Apotheke"
   ]
  },
  "buchs sg|bahnhofstrasse|21": {
@@ -39,7 +42,10 @@
   "lat": 47.1640212,
   "lng": 9.4725617,
   "mieter": [
-   "Migros"
+   "Migros",
+   "Migros Restaurant",
+   "Swidro",
+   "k kiosk"
   ]
  },
  "buchs sg|st. gallerstrasse|19": {
@@ -50,17 +56,6 @@
   "mieter": [
    "Socar",
    "Sulser"
-  ]
- },
- "buchs sg|st. gallerstrasse|100": {
-  "street": "St. Gallerstrasse",
-  "hn": "100",
-  "lat": 47.1765201,
-  "lng": 9.467301,
-  "mieter": [
-   "AMAG",
-   "AMAG Retail",
-   "Migrol"
   ]
  },
  "buchs sg|churerstrasse|2a": {
@@ -77,9 +72,7 @@
   "hn": "2",
   "lat": 47.1656112,
   "lng": 9.468677,
-  "mieter": [
-   "Bibliothek Buchs SG"
-  ]
+  "mieter": []
  },
  "buchs sg|st. gallerstrasse|33": {
   "street": "St. Gallerstrasse",
@@ -88,6 +81,15 @@
   "lng": 9.4653212,
   "mieter": [
    "Galerie am See"
+  ]
+ },
+ "buchs sg|bahnhofplatz|1": {
+  "street": "Bahnhofplatz",
+  "hn": "1",
+  "lat": 47.1675949,
+  "lng": 9.4787034,
+  "mieter": [
+   "PostFinance"
   ]
  },
  "buchs sg|bahnhofstrasse|17-21": {
@@ -160,13 +162,14 @@
    "Denner"
   ]
  },
- "buchs sg|churerstrasse|119": {
-  "street": "Churerstrasse",
-  "hn": "119",
-  "lat": 47.1487542,
-  "lng": 9.4843405,
+ "buchs sg|bahnhofplatz|2": {
+  "street": "Bahnhofplatz",
+  "hn": "2",
+  "lat": 47.1678247,
+  "lng": 9.4786714,
   "mieter": [
-   "Primarschule Räfis"
+   "Swisscom Shop",
+   "Die Post"
   ]
  },
  "buchs sg|churerstrasse|12": {
@@ -203,6 +206,13 @@
   "lng": 9.4714886,
   "mieter": []
  },
+ "buchs sg|bahnhofplatz|2a": {
+  "street": "Bahnhofplatz",
+  "hn": "2A",
+  "lat": 47.1678781,
+  "lng": 9.4787477,
+  "mieter": []
+ },
  "buchs sg|grünaustrasse|25": {
   "street": "Grünaustrasse",
   "hn": "25",
@@ -212,11 +222,11 @@
    "GMG GmbH"
   ]
  },
- "buchs sg|bahnhofstrasse|14": {
-  "street": "Bahnhofstrasse",
-  "hn": "14",
-  "lat": 47.1675112,
-  "lng": 9.508014,
+ "buchs sg|bahnhofplatz|3": {
+  "street": "Bahnhofplatz",
+  "hn": "3",
+  "lat": 47.1683562,
+  "lng": 9.4784077,
   "mieter": []
  },
  "buchs sg|bahnhofstrasse|23": {
@@ -234,7 +244,6 @@
   "lat": 47.1643542,
   "lng": 9.47344,
   "mieter": [
-   "Biluwe",
    "Lehner"
   ]
  },
@@ -455,9 +464,15 @@
   "lat": 47.1667919,
   "lng": 9.4771642,
   "mieter": [
-   "La Vida",
-   "Konsulat St. Vincent und die Grenadinen"
+   "La Vida"
   ]
+ },
+ "buchs sg|bahnhofplatz|4": {
+  "street": "Bahnhofplatz",
+  "hn": "4",
+  "lat": 47.1687202,
+  "lng": 9.4783026,
+  "mieter": []
  },
  "buchs sg|bahnhofstrasse|46": {
   "street": "Bahnhofstrasse",
@@ -475,104 +490,11 @@
    "EWB / Rii Seez Net Shop"
   ]
  },
- "buchs sg|churerstrasse|127": {
-  "street": "Churerstrasse",
-  "hn": "127",
-  "lat": 47.1476317,
-  "lng": 9.4843245,
-  "mieter": []
- },
- "buchs sg|churerstrasse|127a": {
-  "street": "Churerstrasse",
-  "hn": "127a",
-  "lat": 47.1474081,
-  "lng": 9.4844184,
-  "mieter": []
- },
- "buchs sg|churerstrasse|129": {
-  "street": "Churerstrasse",
-  "hn": "129",
-  "lat": 47.1477611,
-  "lng": 9.4846586,
-  "mieter": []
- },
- "buchs sg|churerstrasse|129a": {
-  "street": "Churerstrasse",
-  "hn": "129a",
-  "lat": 47.1475577,
-  "lng": 9.4847712,
-  "mieter": []
- },
- "buchs sg|churerstrasse|123": {
-  "street": "Churerstrasse",
-  "hn": "123",
-  "lat": 47.1481697,
-  "lng": 9.4846213,
-  "mieter": []
- },
- "buchs sg|churerstrasse|123a": {
-  "street": "Churerstrasse",
-  "hn": "123a",
-  "lat": 47.1482053,
-  "lng": 9.4849042,
-  "mieter": []
- },
- "buchs sg|churerstrasse|121": {
-  "street": "Churerstrasse",
-  "hn": "121",
-  "lat": 47.1480453,
-  "lng": 9.4841567,
-  "mieter": []
- },
- "buchs sg|churerstrasse|121a": {
-  "street": "Churerstrasse",
-  "hn": "121a",
-  "lat": 47.1478218,
-  "lng": 9.4842506,
-  "mieter": []
- },
- "buchs sg|churerstrasse|131a": {
-  "street": "Churerstrasse",
-  "hn": "131a",
-  "lat": 47.1479462,
-  "lng": 9.4855092,
-  "mieter": []
- },
- "buchs sg|churerstrasse|131": {
-  "street": "Churerstrasse",
-  "hn": "131",
-  "lat": 47.1477028,
-  "lng": 9.4854484,
-  "mieter": []
- },
- "buchs sg|churerstrasse|115b": {
-  "street": "Churerstrasse",
-  "hn": "115b",
-  "lat": 47.1492143,
-  "lng": 9.4834153,
-  "mieter": []
- },
  "buchs sg|st. gallerstrasse|2": {
   "street": "St. Gallerstrasse",
   "hn": "2",
   "lat": 47.1658514,
   "lng": 9.4707383,
-  "mieter": [
-   "Rathaus Buchs SG"
-  ]
- },
- "buchs sg|churerstrasse|19": {
-  "street": "Churerstrasse",
-  "hn": "19",
-  "lat": 47.1621889,
-  "lng": 9.4753322,
-  "mieter": []
- },
- "buchs sg|churerstrasse|19a": {
-  "street": "Churerstrasse",
-  "hn": "19a",
-  "lat": 47.1622889,
-  "lng": 9.4752758,
   "mieter": []
  },
  "buchs sg|churerstrasse|7": {
@@ -633,17 +555,16 @@
   "hn": "54",
   "lat": 47.165825,
   "lng": 9.4711931,
-  "mieter": []
+  "mieter": [
+   "Ruma"
+  ]
  },
  "buchs sg|kirchgasse|1": {
   "street": "Kirchgasse",
   "hn": "1",
   "lat": 47.1652844,
   "lng": 9.4679331,
-  "mieter": [
-   "Evangelische Kirchengemeinde Buchs",
-   "Evangelische Kirchgemeinde"
-  ]
+  "mieter": []
  },
  "buchs sg|bahnhofstrasse|1": {
   "street": "Bahnhofstrasse",
@@ -664,7 +585,9 @@
   "hn": "17",
   "lat": 47.165463,
   "lng": 9.4745114,
-  "mieter": []
+  "mieter": [
+   "Reformhaus Hugentobler"
+  ]
  },
  "buchs sg|churerstrasse|20": {
   "street": "Churerstrasse",
@@ -687,211 +610,11 @@
   "lng": 9.4746397,
   "mieter": []
  },
- "buchs sg|bahnhofstrasse|3": {
-  "street": "Bahnhofstrasse",
-  "hn": "3",
-  "lat": 47.1672664,
-  "lng": 9.5090975,
-  "mieter": []
- },
- "buchs sg|bahnhofstrasse|15": {
-  "street": "Bahnhofstrasse",
-  "hn": "15",
-  "lat": 47.1672655,
-  "lng": 9.5080003,
-  "mieter": []
- },
- "buchs sg|bahnhofstrasse|15a": {
-  "street": "Bahnhofstrasse",
-  "hn": "15a",
-  "lat": 47.167002,
-  "lng": 9.5079965,
-  "mieter": []
- },
- "buchs sg|bahnhofstrasse|19": {
-  "street": "Bahnhofstrasse",
-  "hn": "19",
-  "lat": 47.1673612,
-  "lng": 9.5073733,
-  "mieter": [
-   "KiTa Bahnhofstrasse"
-  ]
- },
- "buchs sg|st. gallerstrasse|48": {
-  "street": "St. Gallerstrasse",
-  "hn": "48",
-  "lat": 47.1684834,
-  "lng": 9.4641712,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|54": {
-  "street": "St. Gallerstrasse",
-  "hn": "54",
-  "lat": 47.1691838,
-  "lng": 9.4637138,
-  "mieter": []
- },
- "buchs sg|churerstrasse|53": {
-  "street": "Churerstrasse",
-  "hn": "53",
-  "lat": 47.1576949,
-  "lng": 9.4788393,
-  "mieter": []
- },
- "buchs sg|churerstrasse|78": {
-  "street": "Churerstrasse",
-  "hn": "78",
-  "lat": 47.155924,
-  "lng": 9.4796013,
-  "mieter": []
- },
- "buchs sg|churerstrasse|58": {
-  "street": "Churerstrasse",
-  "hn": "58",
-  "lat": 47.1575109,
-  "lng": 9.4783098,
-  "mieter": []
- },
- "buchs sg|churerstrasse|76": {
-  "street": "Churerstrasse",
-  "hn": "76",
-  "lat": 47.1562072,
-  "lng": 9.4795767,
-  "mieter": []
- },
- "buchs sg|churerstrasse|55": {
-  "street": "Churerstrasse",
-  "hn": "55",
-  "lat": 47.1576244,
-  "lng": 9.4792239,
-  "mieter": []
- },
- "buchs sg|churerstrasse|51": {
-  "street": "Churerstrasse",
-  "hn": "51",
-  "lat": 47.1578384,
-  "lng": 9.4785911,
-  "mieter": []
- },
- "buchs sg|churerstrasse|35": {
-  "street": "Churerstrasse",
-  "hn": "35",
-  "lat": 47.1599079,
-  "lng": 9.476705,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|55": {
-  "street": "St. Gallerstrasse",
-  "hn": "55",
-  "lat": 47.1701803,
-  "lng": 9.463716,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|53": {
-  "street": "St. Gallerstrasse",
-  "hn": "53",
-  "lat": 47.1699381,
-  "lng": 9.4635726,
-  "mieter": []
- },
- "buchs sg|churerstrasse|59": {
-  "street": "Churerstrasse",
-  "hn": "59",
-  "lat": 47.1572896,
-  "lng": 9.4798044,
-  "mieter": []
- },
- "buchs sg|churerstrasse|63": {
-  "street": "Churerstrasse",
-  "hn": "63",
-  "lat": 47.1568211,
-  "lng": 9.4802631,
-  "mieter": []
- },
- "buchs sg|churerstrasse|61": {
-  "street": "Churerstrasse",
-  "hn": "61",
-  "lat": 47.1570764,
-  "lng": 9.4800548,
-  "mieter": []
- },
- "buchs sg|churerstrasse|57": {
-  "street": "Churerstrasse",
-  "hn": "57",
-  "lat": 47.1574377,
-  "lng": 9.4794731,
-  "mieter": []
- },
- "buchs sg|churerstrasse|73": {
-  "street": "Churerstrasse",
-  "hn": "73",
-  "lat": 47.1555665,
-  "lng": 9.4806242,
-  "mieter": []
- },
- "buchs sg|churerstrasse|82": {
-  "street": "Churerstrasse",
-  "hn": "82",
-  "lat": 47.1552402,
-  "lng": 9.480187,
-  "mieter": []
- },
- "buchs sg|churerstrasse|71": {
-  "street": "Churerstrasse",
-  "hn": "71",
-  "lat": 47.1558598,
-  "lng": 9.4805855,
-  "mieter": []
- },
- "buchs sg|churerstrasse|91": {
-  "street": "Churerstrasse",
-  "hn": "91",
-  "lat": 47.1531344,
-  "lng": 9.4806014,
-  "mieter": []
- },
- "buchs sg|churerstrasse|105": {
-  "street": "Churerstrasse",
-  "hn": "105",
-  "lat": 47.1510867,
-  "lng": 9.4822499,
-  "mieter": []
- },
- "buchs sg|churerstrasse|93": {
-  "street": "Churerstrasse",
-  "hn": "93",
-  "lat": 47.1529997,
-  "lng": 9.4805076,
-  "mieter": []
- },
  "buchs sg|st. gallerstrasse|6": {
   "street": "St. Gallerstrasse",
   "hn": "6",
   "lat": 47.1657028,
   "lng": 9.4697812,
-  "mieter": [
-   "Musikschule Werdenberg"
-  ]
- },
- "buchs sg|churerstrasse|92a": {
-  "street": "Churerstrasse",
-  "hn": "92a",
-  "lat": 47.1531219,
-  "lng": 9.4795934,
-  "mieter": []
- },
- "buchs sg|churerstrasse|107": {
-  "street": "Churerstrasse",
-  "hn": "107",
-  "lat": 47.1509387,
-  "lng": 9.4822969,
-  "mieter": []
- },
- "buchs sg|churerstrasse|106": {
-  "street": "Churerstrasse",
-  "hn": "106",
-  "lat": 47.1510546,
-  "lng": 9.4818253,
   "mieter": []
  },
  "buchs sg|st. gallerstrasse|10": {
@@ -899,28 +622,9 @@
   "hn": "10",
   "lat": 47.165885,
   "lng": 9.4690044,
-  "mieter": []
- },
- "buchs sg|churerstrasse|32": {
-  "street": "Churerstrasse",
-  "hn": "32",
-  "lat": 47.1607434,
-  "lng": 9.4757129,
-  "mieter": []
- },
- "buchs sg|churerstrasse|27": {
-  "street": "Churerstrasse",
-  "hn": "27",
-  "lat": 47.1607877,
-  "lng": 9.4761981,
-  "mieter": []
- },
- "buchs sg|churerstrasse|34": {
-  "street": "Churerstrasse",
-  "hn": "34",
-  "lat": 47.160521,
-  "lng": 9.4757542,
-  "mieter": []
+  "mieter": [
+   "Vaudoise"
+  ]
  },
  "buchs sg|st. gallerstrasse|1": {
   "street": "St. Gallerstrasse",
@@ -934,7 +638,9 @@
   "hn": "34",
   "lat": 47.1664431,
   "lng": 9.4739078,
-  "mieter": []
+  "mieter": [
+   "St. Galler Kantonalbank"
+  ]
  },
  "buchs sg|bahnhofstrasse|38": {
   "street": "Bahnhofstrasse",
@@ -987,23 +693,9 @@
   "hn": "5",
   "lat": 47.1658029,
   "lng": 9.467272,
-  "mieter": []
- },
- "buchs sg|churerstrasse|84": {
-  "street": "Churerstrasse",
-  "hn": "84",
-  "lat": 47.1544979,
-  "lng": 9.4801488,
   "mieter": [
-   "Garage Fuchs GmbH"
+   "Dilaxana Asia Shop"
   ]
- },
- "buchs sg|churerstrasse|117": {
-  "street": "Churerstrasse",
-  "hn": "117",
-  "lat": 47.1490278,
-  "lng": 9.4840023,
-  "mieter": []
  },
  "buchs sg|st. gallerstrasse|31": {
   "street": "St. Gallerstrasse",
@@ -1017,55 +709,15 @@
   "hn": "28",
   "lat": 47.1669034,
   "lng": 9.4664381,
-  "mieter": []
+  "mieter": [
+   "Coop Pronto"
+  ]
  },
  "buchs sg|st. gallerstrasse|32": {
   "street": "St. Gallerstrasse",
   "hn": "32",
   "lat": 47.1672021,
   "lng": 9.4665123,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|40a": {
-  "street": "St. Gallerstrasse",
-  "hn": "40a",
-  "lat": 47.168081,
-  "lng": 9.4652123,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|40": {
-  "street": "St. Gallerstrasse",
-  "hn": "40",
-  "lat": 47.1677686,
-  "lng": 9.4651382,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|46": {
-  "street": "St. Gallerstrasse",
-  "hn": "46",
-  "lat": 47.1682867,
-  "lng": 9.4644378,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|44": {
-  "street": "St. Gallerstrasse",
-  "hn": "44",
-  "lat": 47.168132,
-  "lng": 9.4646299,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|52": {
-  "street": "St. Gallerstrasse",
-  "hn": "52",
-  "lat": 47.1689449,
-  "lng": 9.4643418,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|50": {
-  "street": "St. Gallerstrasse",
-  "hn": "50",
-  "lat": 47.1689203,
-  "lng": 9.4640203,
   "mieter": []
  },
  "buchs sg|kirchgasse|14": {
@@ -1103,7 +755,9 @@
   "hn": "23",
   "lat": 47.1663169,
   "lng": 9.4669954,
-  "mieter": []
+  "mieter": [
+   "Star Grill"
+  ]
  },
  "buchs sg|st. gallerstrasse|11": {
   "street": "St. Gallerstrasse",
@@ -1159,70 +813,18 @@
   "hn": "29",
   "lat": 47.1662592,
   "lng": 9.4749734,
-  "mieter": []
+  "mieter": [
+   "Dolce Vita"
+  ]
  },
  "buchs sg|grünaustrasse|18": {
   "street": "Grünaustrasse",
   "hn": "18",
   "lat": 47.1660403,
   "lng": 9.4750869,
-  "mieter": []
- },
- "buchs sg|churerstrasse|109": {
-  "street": "Churerstrasse",
-  "hn": "109",
-  "lat": 47.1503994,
-  "lng": 9.4828556,
-  "mieter": []
- },
- "buchs sg|churerstrasse|119a": {
-  "street": "Churerstrasse",
-  "hn": "119a",
-  "lat": 47.149024,
-  "lng": 9.4851513,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|62": {
-  "street": "St. Gallerstrasse",
-  "hn": "62",
-  "lat": 47.1731272,
-  "lng": 9.4653552,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|66": {
-  "street": "St. Gallerstrasse",
-  "hn": "66",
-  "lat": 47.1737741,
-  "lng": 9.4655918,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|64": {
-  "street": "St. Gallerstrasse",
-  "hn": "64",
-  "lat": 47.1735995,
-  "lng": 9.4655619,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|56": {
-  "street": "St. Gallerstrasse",
-  "hn": "56",
-  "lat": 47.1703383,
-  "lng": 9.4644026,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|58": {
-  "street": "St. Gallerstrasse",
-  "hn": "58",
-  "lat": 47.1720499,
-  "lng": 9.4648798,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|60": {
-  "street": "St. Gallerstrasse",
-  "hn": "60",
-  "lat": 47.1723221,
-  "lng": 9.4649957,
-  "mieter": []
+  "mieter": [
+   "Kuro"
+  ]
  },
  "buchs sg|kirchgasse|7b": {
   "street": "Kirchgasse",
@@ -1301,6 +903,13 @@
   "lng": 9.4754558,
   "mieter": []
  },
+ "buchs sg|bahnhofstrasse|14": {
+  "street": "Bahnhofstrasse",
+  "hn": "14",
+  "lat": 47.1671259,
+  "lng": 9.4767106,
+  "mieter": []
+ },
  "buchs sg|bahnhofstrasse|12": {
   "street": "Bahnhofstrasse",
   "hn": "12",
@@ -1313,440 +922,15 @@
   "hn": "10",
   "lat": 47.1670333,
   "lng": 9.4773069,
-  "mieter": []
+  "mieter": [
+   "Wellauer"
+  ]
  },
  "buchs sg|bahnhofstrasse|5": {
   "street": "Bahnhofstrasse",
   "hn": "5",
   "lat": 47.1669351,
   "lng": 9.4779694,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|65": {
-  "street": "St. Gallerstrasse",
-  "hn": "65",
-  "lat": 47.1725343,
-  "lng": 9.4647106,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|61": {
-  "street": "St. Gallerstrasse",
-  "hn": "61",
-  "lat": 47.1722799,
-  "lng": 9.4645395,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|63": {
-  "street": "St. Gallerstrasse",
-  "hn": "63",
-  "lat": 47.1723193,
-  "lng": 9.4643317,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|59": {
-  "street": "St. Gallerstrasse",
-  "hn": "59",
-  "lat": 47.1720674,
-  "lng": 9.4645099,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|67": {
-  "street": "St. Gallerstrasse",
-  "hn": "67",
-  "lat": 47.1739362,
-  "lng": 9.4650731,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|68": {
-  "street": "St. Gallerstrasse",
-  "hn": "68",
-  "lat": 47.1753825,
-  "lng": 9.4664879,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|57a": {
-  "street": "St. Gallerstrasse",
-  "hn": "57a",
-  "lat": 47.1707403,
-  "lng": 9.4639538,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|57": {
-  "street": "St. Gallerstrasse",
-  "hn": "57",
-  "lat": 47.1704484,
-  "lng": 9.4638198,
-  "mieter": []
- },
- "buchs sg|churerstrasse|36": {
-  "street": "Churerstrasse",
-  "hn": "36",
-  "lat": 47.159608,
-  "lng": 9.476405,
-  "mieter": []
- },
- "buchs sg|churerstrasse|42": {
-  "street": "Churerstrasse",
-  "hn": "42",
-  "lat": 47.1588931,
-  "lng": 9.4769809,
-  "mieter": []
- },
- "buchs sg|churerstrasse|52": {
-  "street": "Churerstrasse",
-  "hn": "52",
-  "lat": 47.1581187,
-  "lng": 9.4774708,
-  "mieter": []
- },
- "buchs sg|churerstrasse|92b": {
-  "street": "Churerstrasse",
-  "hn": "92b",
-  "lat": 47.1534564,
-  "lng": 9.4797106,
-  "mieter": []
- },
- "buchs sg|churerstrasse|90": {
-  "street": "Churerstrasse",
-  "hn": "90",
-  "lat": 47.1536117,
-  "lng": 9.4802178,
-  "mieter": []
- },
- "buchs sg|churerstrasse|88": {
-  "street": "Churerstrasse",
-  "hn": "88",
-  "lat": 47.1538826,
-  "lng": 9.4802783,
-  "mieter": []
- },
- "buchs sg|churerstrasse|92": {
-  "street": "Churerstrasse",
-  "hn": "92",
-  "lat": 47.1533673,
-  "lng": 9.4802208,
-  "mieter": []
- },
- "buchs sg|churerstrasse|94": {
-  "street": "Churerstrasse",
-  "hn": "94",
-  "lat": 47.1530984,
-  "lng": 9.4801731,
-  "mieter": []
- },
- "buchs sg|churerstrasse|83": {
-  "street": "Churerstrasse",
-  "hn": "83",
-  "lat": 47.1539016,
-  "lng": 9.4808049,
-  "mieter": []
- },
- "buchs sg|churerstrasse|65": {
-  "street": "Churerstrasse",
-  "hn": "65",
-  "lat": 47.1565548,
-  "lng": 9.4804032,
-  "mieter": []
- },
- "buchs sg|churerstrasse|75": {
-  "street": "Churerstrasse",
-  "hn": "75",
-  "lat": 47.1552473,
-  "lng": 9.4807222,
-  "mieter": []
- },
- "buchs sg|churerstrasse|79": {
-  "street": "Churerstrasse",
-  "hn": "79",
-  "lat": 47.1543375,
-  "lng": 9.480863,
-  "mieter": []
- },
- "buchs sg|churerstrasse|87": {
-  "street": "Churerstrasse",
-  "hn": "87",
-  "lat": 47.153366,
-  "lng": 9.4806723,
-  "mieter": []
- },
- "buchs sg|churerstrasse|67": {
-  "street": "Churerstrasse",
-  "hn": "67",
-  "lat": 47.1563152,
-  "lng": 9.4803951,
-  "mieter": []
- },
- "buchs sg|churerstrasse|85": {
-  "street": "Churerstrasse",
-  "hn": "85",
-  "lat": 47.1536799,
-  "lng": 9.4807182,
-  "mieter": []
- },
- "buchs sg|churerstrasse|80": {
-  "street": "Churerstrasse",
-  "hn": "80",
-  "lat": 47.1556681,
-  "lng": 9.4799539,
-  "mieter": []
- },
- "buchs sg|churerstrasse|80a": {
-  "street": "Churerstrasse",
-  "hn": "80a",
-  "lat": 47.1556168,
-  "lng": 9.479418,
-  "mieter": []
- },
- "buchs sg|churerstrasse|69": {
-  "street": "Churerstrasse",
-  "hn": "69",
-  "lat": 47.1561322,
-  "lng": 9.4804924,
-  "mieter": []
- },
- "buchs sg|churerstrasse|77": {
-  "street": "Churerstrasse",
-  "hn": "77",
-  "lat": 47.154641,
-  "lng": 9.4808091,
-  "mieter": []
- },
- "buchs sg|churerstrasse|74": {
-  "street": "Churerstrasse",
-  "hn": "74",
-  "lat": 47.1562517,
-  "lng": 9.4800178,
-  "mieter": []
- },
- "buchs sg|churerstrasse|81": {
-  "street": "Churerstrasse",
-  "hn": "81",
-  "lat": 47.1541008,
-  "lng": 9.4808213,
-  "mieter": []
- },
- "buchs sg|churerstrasse|62": {
-  "street": "Churerstrasse",
-  "hn": "62",
-  "lat": 47.1572088,
-  "lng": 9.4788064,
-  "mieter": []
- },
- "buchs sg|churerstrasse|95": {
-  "street": "Churerstrasse",
-  "hn": "95",
-  "lat": 47.152489,
-  "lng": 9.4808634,
-  "mieter": []
- },
- "buchs sg|churerstrasse|124": {
-  "street": "Churerstrasse",
-  "hn": "124",
-  "lat": 47.149272,
-  "lng": 9.4828792,
-  "mieter": []
- },
- "buchs sg|churerstrasse|126": {
-  "street": "Churerstrasse",
-  "hn": "126",
-  "lat": 47.1491546,
-  "lng": 9.483033,
-  "mieter": []
- },
- "buchs sg|churerstrasse|128": {
-  "street": "Churerstrasse",
-  "hn": "128",
-  "lat": 47.1489947,
-  "lng": 9.4832059,
-  "mieter": []
- },
- "buchs sg|churerstrasse|130": {
-  "street": "Churerstrasse",
-  "hn": "130",
-  "lat": 47.1485723,
-  "lng": 9.4834898,
-  "mieter": []
- },
- "buchs sg|churerstrasse|100": {
-  "street": "Churerstrasse",
-  "hn": "100",
-  "lat": 47.1516048,
-  "lng": 9.4813991,
-  "mieter": []
- },
- "buchs sg|churerstrasse|104": {
-  "street": "Churerstrasse",
-  "hn": "104",
-  "lat": 47.1512749,
-  "lng": 9.4814746,
-  "mieter": []
- },
- "buchs sg|churerstrasse|103a": {
-  "street": "Churerstrasse",
-  "hn": "103a",
-  "lat": 47.1513399,
-  "lng": 9.4822184,
-  "mieter": []
- },
- "buchs sg|churerstrasse|103": {
-  "street": "Churerstrasse",
-  "hn": "103",
-  "lat": 47.1513757,
-  "lng": 9.4825659,
-  "mieter": []
- },
- "buchs sg|churerstrasse|101": {
-  "street": "Churerstrasse",
-  "hn": "101",
-  "lat": 47.1517044,
-  "lng": 9.4820201,
-  "mieter": []
- },
- "buchs sg|churerstrasse|101a": {
-  "street": "Churerstrasse",
-  "hn": "101a",
-  "lat": 47.1516867,
-  "lng": 9.4825727,
-  "mieter": []
- },
- "buchs sg|churerstrasse|113": {
-  "street": "Churerstrasse",
-  "hn": "113",
-  "lat": 47.1497934,
-  "lng": 9.4830502,
-  "mieter": []
- },
- "buchs sg|churerstrasse|115": {
-  "street": "Churerstrasse",
-  "hn": "115",
-  "lat": 47.1496537,
-  "lng": 9.4833771,
-  "mieter": []
- },
- "buchs sg|churerstrasse|114a": {
-  "street": "Churerstrasse",
-  "hn": "114a",
-  "lat": 47.1499776,
-  "lng": 9.4819947,
-  "mieter": []
- },
- "buchs sg|churerstrasse|118": {
-  "street": "Churerstrasse",
-  "hn": "118",
-  "lat": 47.1499489,
-  "lng": 9.4824932,
-  "mieter": []
- },
- "buchs sg|churerstrasse|120": {
-  "street": "Churerstrasse",
-  "hn": "120",
-  "lat": 47.1497612,
-  "lng": 9.4826169,
-  "mieter": []
- },
- "buchs sg|churerstrasse|114": {
-  "street": "Churerstrasse",
-  "hn": "114",
-  "lat": 47.1503096,
-  "lng": 9.4820474,
-  "mieter": []
- },
- "buchs sg|churerstrasse|96": {
-  "street": "Churerstrasse",
-  "hn": "96",
-  "lat": 47.152121,
-  "lng": 9.4807254,
-  "mieter": []
- },
- "buchs sg|churerstrasse|99": {
-  "street": "Churerstrasse",
-  "hn": "99",
-  "lat": 47.1519596,
-  "lng": 9.4818331,
-  "mieter": []
- },
- "buchs sg|churerstrasse|97": {
-  "street": "Churerstrasse",
-  "hn": "97",
-  "lat": 47.1521014,
-  "lng": 9.4814347,
-  "mieter": []
- },
- "buchs sg|churerstrasse|47": {
-  "street": "Churerstrasse",
-  "hn": "47",
-  "lat": 47.1583169,
-  "lng": 9.4779694,
-  "mieter": []
- },
- "buchs sg|churerstrasse|49": {
-  "street": "Churerstrasse",
-  "hn": "49",
-  "lat": 47.1580927,
-  "lng": 9.4782108,
-  "mieter": []
- },
- "buchs sg|churerstrasse|45": {
-  "street": "Churerstrasse",
-  "hn": "45",
-  "lat": 47.1585214,
-  "lng": 9.4777663,
-  "mieter": []
- },
- "buchs sg|churerstrasse|41": {
-  "street": "Churerstrasse",
-  "hn": "41",
-  "lat": 47.15918,
-  "lng": 9.4774999,
-  "mieter": []
- },
- "buchs sg|churerstrasse|31": {
-  "street": "Churerstrasse",
-  "hn": "31",
-  "lat": 47.160613,
-  "lng": 9.476168,
-  "mieter": []
- },
- "buchs sg|churerstrasse|31a": {
-  "street": "Churerstrasse",
-  "hn": "31a",
-  "lat": 47.1605807,
-  "lng": 9.4763434,
-  "mieter": []
- },
- "buchs sg|churerstrasse|29": {
-  "street": "Churerstrasse",
-  "hn": "29",
-  "lat": 47.1606919,
-  "lng": 9.4765746,
-  "mieter": []
- },
- "buchs sg|churerstrasse|25": {
-  "street": "Churerstrasse",
-  "hn": "25",
-  "lat": 47.1614113,
-  "lng": 9.4760099,
-  "mieter": []
- },
- "buchs sg|churerstrasse|21": {
-  "street": "Churerstrasse",
-  "hn": "21",
-  "lat": 47.1619295,
-  "lng": 9.4755192,
-  "mieter": []
- },
- "buchs sg|churerstrasse|19b": {
-  "street": "Churerstrasse",
-  "hn": "19b",
-  "lat": 47.1624051,
-  "lng": 9.4753104,
-  "mieter": []
- },
- "buchs sg|churerstrasse|17": {
-  "street": "Churerstrasse",
-  "hn": "17",
-  "lat": 47.1625705,
-  "lng": 9.4752028,
   "mieter": []
  },
  "buchs sg|churerstrasse|11": {
@@ -1761,7 +945,9 @@
   "hn": "8",
   "lat": 47.1644911,
   "lng": 9.47238,
-  "mieter": []
+  "mieter": [
+   "Die Hose"
+  ]
  },
  "buchs sg|churerstrasse|3": {
   "street": "Churerstrasse",
@@ -1772,130 +958,18 @@
    "Papierhof Diakonieverein Werdeberg"
   ]
  },
- "buchs sg|churerstrasse|66": {
-  "street": "Churerstrasse",
-  "hn": "66",
-  "lat": 47.1568208,
-  "lng": 9.4795933,
-  "mieter": []
- },
- "buchs sg|churerstrasse|144d": {
-  "street": "Churerstrasse",
-  "hn": "144d",
-  "lat": 47.1459167,
-  "lng": 9.4835918,
-  "mieter": []
- },
- "buchs sg|churerstrasse|144c": {
-  "street": "Churerstrasse",
-  "hn": "144c",
-  "lat": 47.1459684,
-  "lng": 9.483861,
-  "mieter": []
- },
- "buchs sg|churerstrasse|144e": {
-  "street": "Churerstrasse",
-  "hn": "144e",
-  "lat": 47.1461562,
-  "lng": 9.4835411,
-  "mieter": []
- },
- "buchs sg|churerstrasse|144": {
-  "street": "Churerstrasse",
-  "hn": "144",
-  "lat": 47.146192,
-  "lng": 9.4837732,
-  "mieter": []
- },
- "buchs sg|churerstrasse|146a": {
-  "street": "Churerstrasse",
-  "hn": "146a",
-  "lat": 47.1461576,
-  "lng": 9.4842044,
-  "mieter": []
- },
- "buchs sg|churerstrasse|144a": {
-  "street": "Churerstrasse",
-  "hn": "144a",
-  "lat": 47.1457562,
-  "lng": 9.4840109,
-  "mieter": []
- },
- "buchs sg|churerstrasse|158": {
-  "street": "Churerstrasse",
-  "hn": "158",
-  "lat": 47.1456026,
-  "lng": 9.4844044,
-  "mieter": []
- },
- "buchs sg|churerstrasse|152": {
-  "street": "Churerstrasse",
-  "hn": "152",
-  "lat": 47.1458051,
-  "lng": 9.4845105,
-  "mieter": []
- },
- "buchs sg|churerstrasse|148": {
-  "street": "Churerstrasse",
-  "hn": "148",
-  "lat": 47.1459727,
-  "lng": 9.4846993,
-  "mieter": []
- },
- "buchs sg|churerstrasse|153": {
-  "street": "Churerstrasse",
-  "hn": "153",
-  "lat": 47.145825,
-  "lng": 9.4852295,
-  "mieter": []
- },
- "buchs sg|churerstrasse|146": {
-  "street": "Churerstrasse",
-  "hn": "146",
-  "lat": 47.1461285,
-  "lng": 9.4845697,
-  "mieter": []
- },
- "buchs sg|churerstrasse|147": {
-  "street": "Churerstrasse",
-  "hn": "147",
-  "lat": 47.1460529,
-  "lng": 9.4850315,
-  "mieter": []
- },
- "buchs sg|churerstrasse|151": {
-  "street": "Churerstrasse",
-  "hn": "151",
-  "lat": 47.145941,
-  "lng": 9.485543,
-  "mieter": []
- },
- "buchs sg|churerstrasse|155": {
-  "street": "Churerstrasse",
-  "hn": "155",
-  "lat": 47.1455005,
-  "lng": 9.4857426,
-  "mieter": []
- },
- "buchs sg|churerstrasse|156": {
-  "street": "Churerstrasse",
-  "hn": "156",
-  "lat": 47.1457518,
-  "lng": 9.4848451,
-  "mieter": []
- },
- "buchs sg|churerstrasse|137": {
-  "street": "Churerstrasse",
-  "hn": "137",
-  "lat": 47.1470314,
-  "lng": 9.4854804,
-  "mieter": []
- },
  "buchs sg|grünaustrasse|6": {
   "street": "Grünaustrasse",
   "hn": "6",
   "lat": 47.1662938,
   "lng": 9.4768907,
+  "mieter": []
+ },
+ "buchs sg|bahnhofstrasse|15": {
+  "street": "Bahnhofstrasse",
+  "hn": "15",
+  "lat": 47.166577,
+  "lng": 9.4766447,
   "mieter": []
  },
  "buchs sg|bahnhofstrasse|11": {
@@ -1914,41 +988,6 @@
   "lng": 9.4770606,
   "mieter": []
  },
- "buchs sg|churerstrasse|119b": {
-  "street": "Churerstrasse",
-  "hn": "119b",
-  "lat": 47.148593,
-  "lng": 9.4845865,
-  "mieter": []
- },
- "buchs sg|churerstrasse|122a": {
-  "street": "Churerstrasse",
-  "hn": "122a",
-  "lat": 47.1494363,
-  "lng": 9.4823692,
-  "mieter": []
- },
- "buchs sg|churerstrasse|122": {
-  "street": "Churerstrasse",
-  "hn": "122",
-  "lat": 47.1495379,
-  "lng": 9.4827286,
-  "mieter": []
- },
- "buchs sg|bahnhofstrasse|6": {
-  "street": "Bahnhofstrasse",
-  "hn": "6",
-  "lat": 47.1674777,
-  "lng": 9.5091706,
-  "mieter": []
- },
- "buchs sg|churerstrasse|125": {
-  "street": "Churerstrasse",
-  "hn": "125",
-  "lat": 47.1482995,
-  "lng": 9.4854075,
-  "mieter": []
- },
  "buchs sg|kirchgasse|7a": {
   "street": "Kirchgasse",
   "hn": "7a",
@@ -1963,27 +1002,6 @@
   "lng": 9.4665937,
   "mieter": []
  },
- "buchs sg|churerstrasse|86": {
-  "street": "Churerstrasse",
-  "hn": "86",
-  "lat": 47.1541905,
-  "lng": 9.4804205,
-  "mieter": []
- },
- "buchs sg|churerstrasse|107a": {
-  "street": "Churerstrasse",
-  "hn": "107a",
-  "lat": 47.1509511,
-  "lng": 9.4825235,
-  "mieter": []
- },
- "buchs sg|churerstrasse|100a": {
-  "street": "Churerstrasse",
-  "hn": "100a",
-  "lat": 47.1515648,
-  "lng": 9.4808969,
-  "mieter": []
- },
  "buchs sg|grünaustrasse|23": {
   "street": "Grünaustrasse",
   "hn": "23",
@@ -1996,7 +1014,9 @@
   "hn": "21",
   "lat": 47.1653467,
   "lng": 9.47393,
-  "mieter": []
+  "mieter": [
+   "bente"
+  ]
  },
  "buchs sg|grünaustrasse|15a": {
   "street": "Grünaustrasse",
@@ -2014,102 +1034,43 @@
    "Blumen Keusch"
   ]
  },
- "buchs sg|st. gallerstrasse|38": {
-  "street": "St. Gallerstrasse",
-  "hn": "38",
-  "lat": 47.1674942,
-  "lng": 9.46563,
-  "mieter": []
- },
- "buchs sg|churerstrasse|116": {
-  "street": "Churerstrasse",
-  "hn": "116",
-  "lat": 47.1500521,
-  "lng": 9.4824342,
-  "mieter": []
- },
- "buchs sg|churerstrasse|157": {
-  "street": "Churerstrasse",
-  "hn": "157",
-  "lat": 47.145584,
-  "lng": 9.4857561,
-  "mieter": []
- },
- "buchs sg|churerstrasse|149": {
-  "street": "Churerstrasse",
-  "hn": "149",
-  "lat": 47.1458967,
-  "lng": 9.485207,
-  "mieter": []
- },
- "buchs sg|churerstrasse|145": {
-  "street": "Churerstrasse",
-  "hn": "145",
-  "lat": 47.1461622,
-  "lng": 9.4849869,
-  "mieter": []
- },
- "buchs sg|churerstrasse|150": {
-  "street": "Churerstrasse",
-  "hn": "150",
-  "lat": 47.1459069,
-  "lng": 9.4847353,
-  "mieter": []
- },
- "buchs sg|churerstrasse|154": {
-  "street": "Churerstrasse",
-  "hn": "154",
-  "lat": 47.1458154,
-  "lng": 9.4848078,
-  "mieter": []
- },
- "buchs sg|churerstrasse|144b": {
-  "street": "Churerstrasse",
-  "hn": "144b",
-  "lat": 47.1457391,
-  "lng": 9.4839167,
-  "mieter": []
- },
- "buchs sg|churerstrasse|140": {
-  "street": "Churerstrasse",
-  "hn": "140",
-  "lat": 47.1468838,
-  "lng": 9.4842719,
-  "mieter": []
- },
- "buchs sg|churerstrasse|130a": {
-  "street": "Churerstrasse",
-  "hn": "130a",
-  "lat": 47.1484493,
-  "lng": 9.4835594,
-  "mieter": []
- },
- "buchs sg|churerstrasse|108": {
-  "street": "Churerstrasse",
-  "hn": "108",
-  "lat": 47.1509797,
-  "lng": 9.4818996,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|38a": {
-  "street": "St. Gallerstrasse",
-  "hn": "38a",
-  "lat": 47.1676902,
-  "lng": 9.4654607,
-  "mieter": []
- },
- "buchs sg|st. gallerstrasse|42": {
-  "street": "St. Gallerstrasse",
-  "hn": "42",
-  "lat": 47.1679292,
-  "lng": 9.4649709,
-  "mieter": []
- },
  "buchs sg|grünaustrasse|31": {
   "street": "Grünaustrasse",
   "hn": "31",
   "lat": 47.1649525,
   "lng": 9.4725493,
   "mieter": []
+ },
+ "buchs sg|st. gallerstrasse|32a": {
+  "street": "St. Gallerstrasse",
+  "hn": "32a",
+  "lat": 47.167199,
+  "lng": 9.466546,
+  "mieter": [],
+  "extra": true
+ },
+ "buchs sg|grünaustrasse|2a": {
+  "street": "Grünaustrasse",
+  "hn": "2a",
+  "lat": 47.16642,
+  "lng": 9.477275,
+  "mieter": [],
+  "extra": true
+ },
+ "buchs sg|grünaustrasse|4": {
+  "street": "Grünaustrasse",
+  "hn": "4",
+  "lat": 47.166402,
+  "lng": 9.476901,
+  "mieter": [],
+  "extra": true
+ },
+ "buchs sg|bahnhofplatz|4a": {
+  "street": "Bahnhofplatz",
+  "hn": "4a",
+  "lat": 47.168779,
+  "lng": 9.478279,
+  "mieter": [],
+  "extra": true
  }
 }

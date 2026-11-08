@@ -1031,12 +1031,13 @@
       "St. Gallerstrasse",
       "Churerstrasse",
       "Grünaustrasse",
-      "Kirchgasse"
+      "Kirchgasse",
+      "Bahnhofplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 8",
-    "offen": "281"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-09",
+    "eigentuemer_quelle": "Eigentümer-Register (Geschäftsberichte, Fondsinventare, SBB-OGD; tools/register_abgleich.py): 16 Kernadressen plus Churerstrasse 82; Verkaufsdokumentation Churerstrasse 8; Rest Anfrage Grundbuchamt Buchs (SG_Buchs SG.csv)",
+    "offen": "121"
   },
   {
     "kanton": "TI",
