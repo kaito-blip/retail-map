@@ -1,4 +1,5 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
+owner;thun|aarestrasse|2;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland;;Eigentümer lt. UBS AST 4 Real Estate Switzerland: Data Report per 30.09.2025, Liegenschaftenverzeichnis S. 29 (2025-09-30)
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -393,6 +394,9 @@ bestätigt;st. gallen|spisergasse|28;;UBS Investment Foundation 4 (UBS Anlagesti
 bestätigt;st. gallen|spisergasse|30;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland;
 bestätigt;st. gallen|spisergasse|32;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland;
 bestätigt;stans|knirigasse|19a;;Ursula Fürsinger-Mathis;
+bestätigt;thun|aarestrasse|12;;Einwohnergemeinde Thun;
+bestätigt;thun|aarestrasse|14;;Einwohnergemeinde Thun;
+bestätigt;thun|aarestrasse|2a;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland;
 bestätigt;thun|bälliz|30;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Direct Mixed Urban;
 bestätigt;thun|bälliz|47;;ECOREAL Schweizerische Immobilien Anlagestiftung, Anlagegruppe SUISSESELECT;
 bestätigt;thun|bälliz|49;;ECOREAL Schweizerische Immobilien Anlagestiftung, Anlagegruppe SUISSESELECT;
