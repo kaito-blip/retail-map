@@ -454,10 +454,10 @@
       "Rue des Moulins",
       "Place de la Liberté"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-    "offen": "195"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (tools/register_abgleich.py): 1; Rest offen, Anfrage Registre foncier JU vorbereitet (JU_Delémont.csv)",
+    "offen": "139"
   },
   {
     "kanton": "ZH",
