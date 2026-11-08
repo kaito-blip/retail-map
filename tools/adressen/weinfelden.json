@@ -1,4 +1,14 @@
 {
+ "weinfelden|amriswilerstrasse|12": {
+  "street": "Amriswilerstrasse",
+  "hn": "12",
+  "lat": 47.567643,
+  "lng": 9.1108744,
+  "mieter": [
+   "Migros",
+   "Migros Restaurant"
+  ]
+ },
  "weinfelden|bahnhofstrasse|2": {
   "street": "Bahnhofstrasse",
   "hn": "2",
@@ -594,13 +604,6 @@
   "lng": 9.1054525,
   "mieter": []
  },
- "weinfelden|frauenfelderstrasse|60a": {
-  "street": "Frauenfelderstrasse",
-  "hn": "60a",
-  "lat": 47.570136,
-  "lng": 9.1052279,
-  "mieter": []
- },
  "weinfelden|frauenfelderstrasse|49": {
   "street": "Frauenfelderstrasse",
   "hn": "49",
@@ -716,20 +719,6 @@
   "mieter": [
    "Velo Schwarz AG"
   ]
- },
- "weinfelden|frauenfelderstrasse|62": {
-  "street": "Frauenfelderstrasse",
-  "hn": "62",
-  "lat": 47.5703458,
-  "lng": 9.1055106,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|62a": {
-  "street": "Frauenfelderstrasse",
-  "hn": "62a",
-  "lat": 47.5704053,
-  "lng": 9.1052745,
-  "mieter": []
  },
  "weinfelden|frauenfelderstrasse|59": {
   "street": "Frauenfelderstrasse",
@@ -853,6 +842,15 @@
   "lng": 9.1082765,
   "mieter": []
  },
+ "weinfelden|amriswilerstrasse|1": {
+  "street": "Amriswilerstrasse",
+  "hn": "1",
+  "lat": 47.5685309,
+  "lng": 9.11018,
+  "mieter": [
+   "TOVI"
+  ]
+ },
  "weinfelden|frauenfelderstrasse|52": {
   "street": "Frauenfelderstrasse",
   "hn": "52",
@@ -867,6 +865,15 @@
   "lng": 9.1063887,
   "mieter": []
  },
+ "weinfelden|amriswilerstrasse|8": {
+  "street": "Amriswilerstrasse",
+  "hn": "8",
+  "lat": 47.5679857,
+  "lng": 9.1106323,
+  "mieter": [
+   "McOptic"
+  ]
+ },
  "weinfelden|bahnhofstrasse|11": {
   "street": "Bahnhofstrasse",
   "hn": "11",
@@ -876,11 +883,18 @@
    "Amplifon"
   ]
  },
+ "weinfelden|amriswilerstrasse|16": {
+  "street": "Amriswilerstrasse",
+  "hn": "16",
+  "lat": 47.5676864,
+  "lng": 9.1117838,
+  "mieter": []
+ },
  "weinfelden|bahnhofstrasse|1": {
   "street": "Bahnhofstrasse",
   "hn": "1",
-  "lat": 47.5567251,
-  "lng": 9.0838123,
+  "lat": 47.5667738,
+  "lng": 9.1061322,
   "mieter": []
  },
  "weinfelden|wilerstrasse|17a": {
@@ -906,74 +920,18 @@
    "Wein & mehr GmbH"
   ]
  },
- "weinfelden|frauenfelderstrasse|70": {
-  "street": "Frauenfelderstrasse",
-  "hn": "70",
-  "lat": 47.5704586,
-  "lng": 9.1035943,
+ "weinfelden|amriswilerstrasse|6": {
+  "street": "Amriswilerstrasse",
+  "hn": "6",
+  "lat": 47.5681405,
+  "lng": 9.1103045,
   "mieter": []
  },
- "weinfelden|frauenfelderstrasse|70a": {
-  "street": "Frauenfelderstrasse",
-  "hn": "70a",
-  "lat": 47.5706558,
-  "lng": 9.1036533,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|68": {
-  "street": "Frauenfelderstrasse",
-  "hn": "68",
-  "lat": 47.5706956,
-  "lng": 9.1040234,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|66": {
-  "street": "Frauenfelderstrasse",
-  "hn": "66",
-  "lat": 47.5703509,
-  "lng": 9.1043225,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|66a": {
-  "street": "Frauenfelderstrasse",
-  "hn": "66a",
-  "lat": 47.5705518,
-  "lng": 9.1043708,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|64": {
-  "street": "Frauenfelderstrasse",
-  "hn": "64",
-  "lat": 47.5702658,
-  "lng": 9.1048241,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|64a": {
-  "street": "Frauenfelderstrasse",
-  "hn": "64a",
-  "lat": 47.5704749,
-  "lng": 9.1049314,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|88": {
-  "street": "Frauenfelderstrasse",
-  "hn": "88",
-  "lat": 47.5708959,
-  "lng": 9.0999216,
-  "mieter": []
- },
- "weinfelden|wilerstrasse|26": {
-  "street": "Wilerstrasse",
-  "hn": "26",
-  "lat": 47.5614457,
-  "lng": 9.1066021,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|63": {
-  "street": "Frauenfelderstrasse",
-  "hn": "63",
-  "lat": 47.5698896,
-  "lng": 9.1049308,
+ "weinfelden|amriswilerstrasse|3": {
+  "street": "Amriswilerstrasse",
+  "hn": "3",
+  "lat": 47.5680875,
+  "lng": 9.1108736,
   "mieter": []
  },
  "weinfelden|wilerstrasse|18": {
@@ -983,67 +941,11 @@
   "lng": 9.1079114,
   "mieter": []
  },
- "weinfelden|wilerstrasse|22": {
-  "street": "Wilerstrasse",
-  "hn": "22",
-  "lat": 47.5626919,
-  "lng": 9.1075972,
-  "mieter": []
- },
- "weinfelden|wilerstrasse|25": {
-  "street": "Wilerstrasse",
-  "hn": "25",
-  "lat": 47.5623402,
-  "lng": 9.1079757,
-  "mieter": []
- },
  "weinfelden|frauenfelderstrasse|6a": {
   "street": "Frauenfelderstrasse",
   "hn": "6a",
   "lat": 47.5691064,
   "lng": 9.1098562,
-  "mieter": []
- },
- "weinfelden|wilerstrasse|37": {
-  "street": "Wilerstrasse",
-  "hn": "37",
-  "lat": 47.5599548,
-  "lng": 9.107428,
-  "mieter": []
- },
- "weinfelden|wilerstrasse|35": {
-  "street": "Wilerstrasse",
-  "hn": "35",
-  "lat": 47.5600814,
-  "lng": 9.1071312,
-  "mieter": []
- },
- "weinfelden|wilerstrasse|39": {
-  "street": "Wilerstrasse",
-  "hn": "39",
-  "lat": 47.5596444,
-  "lng": 9.1071556,
-  "mieter": []
- },
- "weinfelden|wilerstrasse|41": {
-  "street": "Wilerstrasse",
-  "hn": "41",
-  "lat": 47.5595577,
-  "lng": 9.106549,
-  "mieter": []
- },
- "weinfelden|wilerstrasse|45": {
-  "street": "Wilerstrasse",
-  "hn": "45",
-  "lat": 47.5593015,
-  "lng": 9.1063657,
-  "mieter": []
- },
- "weinfelden|wilerstrasse|24": {
-  "street": "Wilerstrasse",
-  "hn": "24",
-  "lat": 47.5620652,
-  "lng": 9.1073716,
   "mieter": []
  },
  "weinfelden|frauenfelderstrasse|4a": {
@@ -1109,46 +1011,39 @@
   "lng": 9.1066706,
   "mieter": []
  },
- "weinfelden|frauenfelderstrasse|111": {
-  "street": "Frauenfelderstrasse",
-  "hn": "111",
-  "lat": 47.5704709,
-  "lng": 9.1008787,
+ "weinfelden|amriswilerstrasse|20": {
+  "street": "Amriswilerstrasse",
+  "hn": "20",
+  "lat": 47.5675452,
+  "lng": 9.1125862,
   "mieter": []
  },
- "weinfelden|frauenfelderstrasse|107": {
-  "street": "Frauenfelderstrasse",
-  "hn": "107",
-  "lat": 47.5704227,
-  "lng": 9.1011911,
+ "weinfelden|amriswilerstrasse|5": {
+  "street": "Amriswilerstrasse",
+  "hn": "5",
+  "lat": 47.5678296,
+  "lng": 9.112863,
   "mieter": []
  },
- "weinfelden|frauenfelderstrasse|80": {
-  "street": "Frauenfelderstrasse",
-  "hn": "80",
-  "lat": 47.5706904,
-  "lng": 9.1013962,
+ "weinfelden|amriswilerstrasse|18": {
+  "street": "Amriswilerstrasse",
+  "hn": "18",
+  "lat": 47.5677082,
+  "lng": 9.1119625,
   "mieter": []
  },
- "weinfelden|frauenfelderstrasse|84": {
-  "street": "Frauenfelderstrasse",
-  "hn": "84",
-  "lat": 47.5709824,
-  "lng": 9.1003886,
+ "weinfelden|amriswilerstrasse|24": {
+  "street": "Amriswilerstrasse",
+  "hn": "24",
+  "lat": 47.5674906,
+  "lng": 9.1132985,
   "mieter": []
  },
- "weinfelden|frauenfelderstrasse|82a": {
-  "street": "Frauenfelderstrasse",
-  "hn": "82a",
-  "lat": 47.5708266,
-  "lng": 9.1008769,
-  "mieter": []
- },
- "weinfelden|wilerstrasse|42": {
-  "street": "Wilerstrasse",
-  "hn": "42",
-  "lat": 47.5568421,
-  "lng": 9.1040328,
+ "weinfelden|amriswilerstrasse|22": {
+  "street": "Amriswilerstrasse",
+  "hn": "22",
+  "lat": 47.5675458,
+  "lng": 9.1130384,
   "mieter": []
  },
  "weinfelden|wilerstrasse|9": {
@@ -1240,153 +1135,6 @@
   "hn": "39",
   "lat": 47.569493,
   "lng": 9.1076908,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|81": {
-  "street": "Frauenfelderstrasse",
-  "hn": "81",
-  "lat": 47.570202,
-  "lng": 9.1025868,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|75": {
-  "street": "Frauenfelderstrasse",
-  "hn": "75",
-  "lat": 47.5701516,
-  "lng": 9.1028029,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|79": {
-  "street": "Frauenfelderstrasse",
-  "hn": "79",
-  "lat": 47.5701861,
-  "lng": 9.1026591,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|77": {
-  "street": "Frauenfelderstrasse",
-  "hn": "77",
-  "lat": 47.5701652,
-  "lng": 9.1027264,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|103": {
-  "street": "Frauenfelderstrasse",
-  "hn": "103",
-  "lat": 47.5703684,
-  "lng": 9.1013165,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|105": {
-  "street": "Frauenfelderstrasse",
-  "hn": "105",
-  "lat": 47.5704037,
-  "lng": 9.1012543,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|82": {
-  "street": "Frauenfelderstrasse",
-  "hn": "82",
-  "lat": 47.5707445,
-  "lng": 9.10105,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|83": {
-  "street": "Frauenfelderstrasse",
-  "hn": "83",
-  "lat": 47.5701848,
-  "lng": 9.1023276,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|85": {
-  "street": "Frauenfelderstrasse",
-  "hn": "85",
-  "lat": 47.5702049,
-  "lng": 9.1022601,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|87": {
-  "street": "Frauenfelderstrasse",
-  "hn": "87",
-  "lat": 47.570232,
-  "lng": 9.1021985,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|89": {
-  "street": "Frauenfelderstrasse",
-  "hn": "89",
-  "lat": 47.5702514,
-  "lng": 9.1021335,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|91": {
-  "street": "Frauenfelderstrasse",
-  "hn": "91",
-  "lat": 47.5702716,
-  "lng": 9.1020657,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|93": {
-  "street": "Frauenfelderstrasse",
-  "hn": "93",
-  "lat": 47.5702656,
-  "lng": 9.1018068,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|95": {
-  "street": "Frauenfelderstrasse",
-  "hn": "95",
-  "lat": 47.5702858,
-  "lng": 9.1017404,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|97": {
-  "street": "Frauenfelderstrasse",
-  "hn": "97",
-  "lat": 47.5703106,
-  "lng": 9.1016815,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|99": {
-  "street": "Frauenfelderstrasse",
-  "hn": "99",
-  "lat": 47.57033,
-  "lng": 9.1016179,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|101": {
-  "street": "Frauenfelderstrasse",
-  "hn": "101",
-  "lat": 47.5703501,
-  "lng": 9.1015517,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|109": {
-  "street": "Frauenfelderstrasse",
-  "hn": "109",
-  "lat": 47.5704523,
-  "lng": 9.1009731,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|113": {
-  "street": "Frauenfelderstrasse",
-  "hn": "113",
-  "lat": 47.5705602,
-  "lng": 9.1004825,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|115": {
-  "street": "Frauenfelderstrasse",
-  "hn": "115",
-  "lat": 47.5703293,
-  "lng": 9.1003192,
-  "mieter": []
- },
- "weinfelden|frauenfelderstrasse|117": {
-  "street": "Frauenfelderstrasse",
-  "hn": "117",
-  "lat": 47.5705815,
-  "lng": 9.1000748,
   "mieter": []
  },
  "weinfelden|bahnhofstrasse|5a": {
