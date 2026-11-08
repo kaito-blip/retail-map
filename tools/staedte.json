@@ -866,12 +866,12 @@
       "Via Borgo",
       "Contrada Maggiore",
       "Via Collegio",
-      "Viale Papio"
+      "Viale Bartolomeo Papio"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "164"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register ohne Treffer; alle über Ufficio del registro fondiario di Locarno, Via della Posta 9, 6601 Locarno, di-rf.locarno@ti.ch (Adresse verifiziert, Zuständigkeit Ascona aus Bezirk abgeleitet)",
+    "offen": "101"
   },
   {
     "kanton": "AG",
