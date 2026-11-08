@@ -432,14 +432,15 @@
     "strassen": [
       "Hauptgasse",
       "Marktgasse",
-      "Postplatz",
+      "Engelgasse",
+      "Poststrasse",
       "Landsgemeindeplatz",
-      "Engelgasse"
+      "Postplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-    "offen": "265"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-08",
+    "eigentuemer_quelle": "Eigentümer-Register (tools/register_abgleich.py): 1 Treffer (Hauptgasse 11, UBS AST KIS); Rest Anfrage Grundbuch- und Erbschaftsamt AI (grundbuchamt@vd.ai.ch, verifiziert 08.11.2026) oder Einzelabfrage geoportal.ch (Eigentümeranzeige ungeprüft)",
+    "offen": "126"
   },
   {
     "kanton": "JU",
