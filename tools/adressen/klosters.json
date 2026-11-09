@@ -143,6 +143,25 @@
    "ANDRIST Sport & Fashion"
   ]
  },
+ "klosters|gotschnastrasse|21": {
+  "street": "Gotschnastrasse",
+  "hn": "21",
+  "lat": 46.8688755,
+  "lng": 9.8806712,
+  "mieter": [
+   "Mountain Lounge Klosters"
+  ]
+ },
+ "klosters|gotschnastrasse|17": {
+  "street": "Gotschnastrasse",
+  "hn": "17",
+  "lat": 46.8687178,
+  "lng": 9.8807061,
+  "mieter": [
+   "Bardill Sport",
+   "Intersport"
+  ]
+ },
  "klosters|landstrasse|26": {
   "street": "Landstrasse",
   "hn": "26",
@@ -166,24 +185,6 @@
   "lng": 9.8819657,
   "mieter": [
    "Bicobello"
-  ]
- },
- "klosters|madrisastrasse|5": {
-  "street": "Madrisastrasse",
-  "hn": "5",
-  "lat": 46.8839748,
-  "lng": 9.8764541,
-  "mieter": [
-   "Pizzeria Madrisa-Mia"
-  ]
- },
- "klosters|madrisastrasse|3": {
-  "street": "Madrisastrasse",
-  "hn": "3",
-  "lat": 46.883703,
-  "lng": 9.8765339,
-  "mieter": [
-   "Toyota"
   ]
  },
  "klosters|landstrasse|185": {
@@ -324,6 +325,29 @@
   "hn": "1a",
   "lat": 46.8847385,
   "lng": 9.874611,
+  "mieter": []
+ },
+ "klosters|gotschnastrasse|19": {
+  "street": "Gotschnastrasse",
+  "hn": "19",
+  "lat": 46.8689004,
+  "lng": 9.880685,
+  "mieter": []
+ },
+ "klosters|gotschnastrasse|8": {
+  "street": "Gotschnastrasse",
+  "hn": "8",
+  "lat": 46.8672415,
+  "lng": 9.8821023,
+  "mieter": [
+   "Dropa"
+  ]
+ },
+ "klosters|gotschnastrasse|10": {
+  "street": "Gotschnastrasse",
+  "hn": "10",
+  "lat": 46.8673466,
+  "lng": 9.8819627,
   "mieter": []
  },
  "klosters|alte bahnhofstrasse|8": {
@@ -472,6 +496,20 @@
    "Simon's Bike Base"
   ]
  },
+ "klosters|gotschnastrasse|12": {
+  "street": "Gotschnastrasse",
+  "hn": "12",
+  "lat": 46.8675241,
+  "lng": 9.8816875,
+  "mieter": []
+ },
+ "klosters|gotschnastrasse|16": {
+  "street": "Gotschnastrasse",
+  "hn": "16",
+  "lat": 46.8683288,
+  "lng": 9.8813869,
+  "mieter": []
+ },
  "klosters|bahnhofstrasse|13": {
   "street": "Bahnhofstrasse",
   "hn": "13",
@@ -493,11 +531,39 @@
   "lng": 9.8828519,
   "mieter": []
  },
+ "klosters|gotschnastrasse|14": {
+  "street": "Gotschnastrasse",
+  "hn": "14",
+  "lat": 46.8677288,
+  "lng": 9.8814906,
+  "mieter": []
+ },
+ "klosters|gotschnastrasse|5": {
+  "street": "Gotschnastrasse",
+  "hn": "5",
+  "lat": 46.8672056,
+  "lng": 9.8817454,
+  "mieter": []
+ },
+ "klosters|gotschnastrasse|3": {
+  "street": "Gotschnastrasse",
+  "hn": "3",
+  "lat": 46.8669271,
+  "lng": 9.8817323,
+  "mieter": []
+ },
  "klosters|bahnhofstrasse|6": {
   "street": "Bahnhofstrasse",
   "hn": "6",
   "lat": 46.868465,
   "lng": 9.8815713,
+  "mieter": []
+ },
+ "klosters|gotschnastrasse|13": {
+  "street": "Gotschnastrasse",
+  "hn": "13",
+  "lat": 46.867515,
+  "lng": 9.8813139,
   "mieter": []
  },
  "klosters|landstrasse|168": {
@@ -514,11 +580,25 @@
   "lng": 9.8814696,
   "mieter": []
  },
+ "klosters|gotschnastrasse|15": {
+  "street": "Gotschnastrasse",
+  "hn": "15",
+  "lat": 46.8676003,
+  "lng": 9.8811774,
+  "mieter": []
+ },
  "klosters|landstrasse|176": {
   "street": "Landstrasse",
   "hn": "176",
   "lat": 46.868278,
   "lng": 9.8831568,
+  "mieter": []
+ },
+ "klosters|gotschnastrasse|11": {
+  "street": "Gotschnastrasse",
+  "hn": "11",
+  "lat": 46.867393,
+  "lng": 9.8815103,
   "mieter": []
  },
  "klosters|alte bahnhofstrasse|3": {
@@ -528,11 +608,25 @@
   "lng": 9.8820164,
   "mieter": []
  },
+ "klosters|gotschnastrasse|7": {
+  "street": "Gotschnastrasse",
+  "hn": "7",
+  "lat": 46.8670939,
+  "lng": 9.881488,
+  "mieter": []
+ },
  "klosters|bahnhofstrasse|10b": {
   "street": "Bahnhofstrasse",
   "hn": "10b",
   "lat": 46.8679719,
   "lng": 9.8821528,
+  "mieter": []
+ },
+ "klosters|gotschnastrasse|9": {
+  "street": "Gotschnastrasse",
+  "hn": "9",
+  "lat": 46.8672546,
+  "lng": 9.8813682,
   "mieter": []
  },
  "klosters|landstrasse|170": {
@@ -994,6 +1088,13 @@
   "lng": 9.8792603,
   "mieter": []
  },
+ "klosters|gotschnastrasse|23": {
+  "street": "Gotschnastrasse",
+  "hn": "23",
+  "lat": 46.8690257,
+  "lng": 9.8803957,
+  "mieter": []
+ },
  "klosters|landstrasse|86": {
   "street": "Landstrasse",
   "hn": "86",
@@ -1190,27 +1291,6 @@
   "lng": 9.8782996,
   "mieter": []
  },
- "klosters|madrisastrasse|14": {
-  "street": "Madrisastrasse",
-  "hn": "14",
-  "lat": 46.8852937,
-  "lng": 9.876727,
-  "mieter": []
- },
- "klosters|madrisastrasse|11": {
-  "street": "Madrisastrasse",
-  "hn": "11",
-  "lat": 46.8851777,
-  "lng": 9.8757338,
-  "mieter": []
- },
- "klosters|madrisastrasse|13": {
-  "street": "Madrisastrasse",
-  "hn": "13",
-  "lat": 46.8851686,
-  "lng": 9.8759216,
-  "mieter": []
- },
  "klosters|landstrasse|35": {
   "street": "Landstrasse",
   "hn": "35",
@@ -1230,13 +1310,6 @@
   "hn": "29",
   "lat": 46.8833116,
   "lng": 9.8763484,
-  "mieter": []
- },
- "klosters|madrisastrasse|7": {
-  "street": "Madrisastrasse",
-  "hn": "7",
-  "lat": 46.8844984,
-  "lng": 9.875664,
   "mieter": []
  },
  "klosters|landstrasse|22": {
@@ -1351,6 +1424,13 @@
   "hn": "17",
   "lat": 46.8650217,
   "lng": 9.8837768,
+  "mieter": []
+ },
+ "klosters|gotschnastrasse|4": {
+  "street": "Gotschnastrasse",
+  "hn": "4",
+  "lat": 46.8671059,
+  "lng": 9.882674,
   "mieter": []
  },
  "klosters|landstrasse|210": {
@@ -1792,6 +1872,20 @@
   "hn": "211",
   "lat": 46.8639201,
   "lng": 9.8821563,
+  "mieter": []
+ },
+ "klosters|gotschnastrasse|6": {
+  "street": "Gotschnastrasse",
+  "hn": "6",
+  "lat": 46.8673013,
+  "lng": 9.8829938,
+  "mieter": []
+ },
+ "klosters|gotschnastrasse|2": {
+  "street": "Gotschnastrasse",
+  "hn": "2",
+  "lat": 46.8671041,
+  "lng": 9.8828687,
   "mieter": []
  },
  "klosters|bahnhofstrasse|20a": {

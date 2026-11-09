@@ -1100,15 +1100,15 @@
     "radius": 700,
     "strassen": [
       "Bahnhofstrasse",
-      "Landstrasse",
       "Alte Bahnhofstrasse",
-      "Doggilochstrasse",
-      "Silvrettastrasse"
+      "Landstrasse",
+      "Gotschnastrasse",
+      "Doggilochstrasse"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "273"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-09",
+    "eigentuemer_quelle": "Anfrageliste GR_Klosters.csv (Geoportal GR mit Captcha/SMS oder Grundbuchamt Klosters, Mailentwurf); Eigentümer-Register ohne Treffer",
+    "offen": "159"
   },
   {
     "kanton": "BE",
