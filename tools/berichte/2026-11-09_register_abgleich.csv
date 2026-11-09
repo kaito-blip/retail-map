@@ -1,4 +1,5 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
+owner;brugg|neumarkt|2;assetimmo Immobilien-Anlagestiftung, Anlagegruppe Geschäfte;;Eigentümer lt. Assetimmo Geschäfte: Geschäftsbericht 2025/26, Verzeichnis der Anlagen Anlagegruppe G (Bestand Miteigentum) (31.03.2026), Miteigentum 20.0%
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -156,6 +157,7 @@ bestätigt;brugg|bahnhofstrasse|5;;UBS Fund Management (Switzerland) AG für UBS
 bestätigt;brugg|hauptstrasse|2;;Swiss Prime Anlagestiftung, Anlagegruppe SPA Immobilien Schweiz;
 bestätigt;brugg|neumarktplatz|18;;assetimmo Immobilien-Anlagestiftung, Anlagegruppe Geschäfte;
 bestätigt;brugg|neumarktplatz|4;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Direct 1a Immo PK;
+bestätigt;brugg|neumarkt|1;;assetimmo Immobilien-Anlagestiftung, Anlagegruppe Geschäfte;
 bestätigt;buchs sg|bahnhofplatz|2;;Schweizerische Bundesbahnen SBB;
 bestätigt;buchs sg|bahnhofplatz|2a;;Schweizerische Bundesbahnen SBB;
 bestätigt;buchs sg|bahnhofplatz|3;;Schweizerische Bundesbahnen SBB;

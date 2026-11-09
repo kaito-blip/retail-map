@@ -55,7 +55,6 @@
   "mieter": [
    "Yaprak imbiss albayrak",
    "Coiffina",
-   "Pompa AG",
    "Fust"
   ]
  },
@@ -65,18 +64,7 @@
   "lat": 47.4824946,
   "lng": 8.2076793,
   "mieter": [
-   "L'Ulivo",
-   "EG Bar",
-   "Mova Dance"
-  ]
- },
- "brugg|hauptstrasse|20": {
-  "street": "Hauptstrasse",
-  "hn": "20",
-  "lat": 47.4657349,
-  "lng": 8.2111109,
-  "mieter": [
-   "Big Sterne"
+   "L'Ulivo"
   ]
  },
  "brugg|hauptstrasse|32": {
@@ -121,7 +109,8 @@
   "lat": 47.481379,
   "lng": 8.2074332,
   "mieter": [
-   "Migros Bank"
+   "Migros Bank",
+   "Blueme Kari"
   ]
  },
  "brugg|bahnhofplatz|11": {
@@ -131,30 +120,6 @@
   "lng": 8.2086549,
   "mieter": [
    "Odeon Brugg"
-  ]
- },
- "brugg|hauptstrasse|35": {
-  "street": "Hauptstrasse",
-  "hn": "35",
-  "lat": 47.4616216,
-  "lng": 8.2120271,
-  "mieter": []
- },
- "brugg|hauptstrasse|37": {
-  "street": "Hauptstrasse",
-  "hn": "37",
-  "lat": 47.4614263,
-  "lng": 8.2119568,
-  "mieter": []
- },
- "brugg|hauptstrasse|33": {
-  "street": "Hauptstrasse",
-  "hn": "33",
-  "lat": 47.4618042,
-  "lng": 8.2118883,
-  "mieter": [
-   "Max und Moritz",
-   "Launy's"
   ]
  },
  "brugg|hauptstrasse|7": {
@@ -184,17 +149,8 @@
   "lng": 8.2085907,
   "mieter": [
    "Interdiscount",
-   "Salt"
-  ]
- },
- "brugg|bahnhofstrasse|6a": {
-  "street": "Bahnhofstrasse",
-  "hn": "6a",
-  "lat": 47.4815512,
-  "lng": 8.2113144,
-  "mieter": [
-   "Coop",
-   "52’s Barbershop"
+   "Salt",
+   "Moser Optik"
   ]
  },
  "brugg|storchengasse|15": {
@@ -203,7 +159,8 @@
   "lat": 47.4848806,
   "lng": 8.205936,
   "mieter": [
-   "Stadtbibliothek Brugg"
+   "Stadtbibliothek Brugg",
+   "Third Place"
   ]
  },
  "brugg|storchengasse|3": {
@@ -247,25 +204,6 @@
    "Coiffeur Bruno"
   ]
  },
- "brugg|hauptstrasse|16": {
-  "street": "Hauptstrasse",
-  "hn": "16",
-  "lat": 47.466365,
-  "lng": 8.2110596,
-  "mieter": [
-   "crameri Velo & Bike"
-  ]
- },
- "brugg|hauptstrasse|46": {
-  "street": "Hauptstrasse",
-  "hn": "46",
-  "lat": 47.4623916,
-  "lng": 8.2113256,
-  "mieter": [
-   "Il Melograno",
-   "Gade Bar"
-  ]
- },
  "brugg|bahnhofstrasse|14": {
   "street": "Bahnhofstrasse",
   "hn": "14",
@@ -284,15 +222,6 @@
    "C&A"
   ]
  },
- "brugg|bahnhofstrasse|6": {
-  "street": "Bahnhofstrasse",
-  "hn": "6",
-  "lat": 47.4817101,
-  "lng": 8.2110072,
-  "mieter": [
-   "FHNW Bibliothek Brugg-Windisch"
-  ]
- },
  "brugg|bahnhofplatz|2": {
   "street": "Bahnhofplatz",
   "hn": "2",
@@ -306,7 +235,9 @@
   "lat": 47.481077,
   "lng": 8.2088796,
   "mieter": [
-   "Coop"
+   "Coop",
+   "avec",
+   "SBB-Reisezentrum"
   ]
  },
  "brugg|hauptstrasse|23": {
@@ -316,6 +247,15 @@
   "lng": 8.2067674,
   "mieter": [
    "Katarakt"
+  ]
+ },
+ "brugg|hauptstrasse|33": {
+  "street": "Hauptstrasse",
+  "hn": "33",
+  "lat": 47.485361,
+  "lng": 8.2068526,
+  "mieter": [
+   "Launy's"
   ]
  },
  "brugg|neumarktplatz|12": {
@@ -365,27 +305,6 @@
   "hn": "4",
   "lat": 47.4834237,
   "lng": 8.2076889,
-  "mieter": []
- },
- "brugg|hauptstrasse|22": {
-  "street": "Hauptstrasse",
-  "hn": "22",
-  "lat": 47.4653023,
-  "lng": 8.211326,
-  "mieter": []
- },
- "brugg|hauptstrasse|24": {
-  "street": "Hauptstrasse",
-  "hn": "24",
-  "lat": 47.4651444,
-  "lng": 8.2113687,
-  "mieter": []
- },
- "brugg|bahnhofstrasse|5a": {
-  "street": "Bahnhofstrasse",
-  "hn": "5a",
-  "lat": 47.4807838,
-  "lng": 8.2118453,
   "mieter": []
  },
  "brugg|bahnhofstrasse|1": {
@@ -478,7 +397,8 @@
   "lat": 47.483553,
   "lng": 8.2072622,
   "mieter": [
-   "Stadtkanzlei"
+   "Stadtkanzlei",
+   "Stadthaus"
   ]
  },
  "brugg|hauptstrasse|27": {
@@ -486,9 +406,7 @@
   "hn": "27",
   "lat": 47.4851889,
   "lng": 8.2068063,
-  "mieter": [
-   "Meyerschulhaus"
-  ]
+  "mieter": []
  },
  "brugg|hauptstrasse|29": {
   "street": "Hauptstrasse",
@@ -496,8 +414,7 @@
   "lat": 47.4852581,
   "lng": 8.2068227,
   "mieter": [
-   "Prunkstück",
-   "Gemeindehaus Hausen AG"
+   "Prunkstück"
   ]
  },
  "brugg|hauptstrasse|50": {
@@ -505,9 +422,7 @@
   "hn": "50",
   "lat": 47.4855911,
   "lng": 8.2072817,
-  "mieter": [
-   "Pfötli-Egge GmbH"
-  ]
+  "mieter": []
  },
  "brugg|neumarktplatz|14": {
   "street": "Neumarktplatz",
@@ -515,50 +430,6 @@
   "lat": 47.4824237,
   "lng": 8.2083581,
   "mieter": []
- },
- "brugg|hauptstrasse|41": {
-  "street": "Hauptstrasse",
-  "hn": "41",
-  "lat": 47.4605184,
-  "lng": 8.2124239,
-  "mieter": []
- },
- "brugg|hauptstrasse|43": {
-  "street": "Hauptstrasse",
-  "hn": "43",
-  "lat": 47.4603733,
-  "lng": 8.2124856,
-  "mieter": []
- },
- "brugg|hauptstrasse|45": {
-  "street": "Hauptstrasse",
-  "hn": "45",
-  "lat": 47.460211,
-  "lng": 8.21255,
-  "mieter": []
- },
- "brugg|hauptstrasse|34": {
-  "street": "Hauptstrasse",
-  "hn": "34",
-  "lat": 47.4636805,
-  "lng": 8.2111242,
-  "mieter": []
- },
- "brugg|hauptstrasse|44": {
-  "street": "Hauptstrasse",
-  "hn": "44",
-  "lat": 47.4625122,
-  "lng": 8.2112035,
-  "mieter": []
- },
- "brugg|hauptstrasse|48": {
-  "street": "Hauptstrasse",
-  "hn": "48",
-  "lat": 47.4619029,
-  "lng": 8.2113571,
-  "mieter": [
-   "Genuss-Stube"
-  ]
  },
  "brugg|hauptstrasse|66": {
   "street": "Hauptstrasse",
@@ -620,15 +491,6 @@
   "lng": 8.208558,
   "mieter": []
  },
- "brugg|hauptstrasse|56": {
-  "street": "Hauptstrasse",
-  "hn": "56",
-  "lat": 47.4606304,
-  "lng": 8.2116342,
-  "mieter": [
-   "Wohnhaus Romeo"
-  ]
- },
  "brugg|bahnhofstrasse|20": {
   "street": "Bahnhofstrasse",
   "hn": "20",
@@ -643,14 +505,12 @@
   "lng": 8.2084866,
   "mieter": []
  },
- "brugg|hauptstrasse|2b": {
+ "brugg|hauptstrasse|8a": {
   "street": "Hauptstrasse",
-  "hn": "2b",
-  "lat": 47.4681815,
-  "lng": 8.2108341,
-  "mieter": [
-   "Müller + Spring AG"
-  ]
+  "hn": "8a",
+  "lat": 47.483673,
+  "lng": 8.20762,
+  "mieter": []
  },
  "brugg|bahnhofstrasse|24": {
   "street": "Bahnhofstrasse",
@@ -671,13 +531,24 @@
   "hn": "16",
   "lat": 47.4818528,
   "lng": 8.2072598,
-  "mieter": []
+  "mieter": [
+   "Brockenstube"
+  ]
  },
  "brugg|bahnhofstrasse|12": {
   "street": "Bahnhofstrasse",
   "hn": "12",
   "lat": 47.4821191,
   "lng": 8.207198,
+  "mieter": [
+   "Büpa"
+  ]
+ },
+ "brugg|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 47.4824846,
+  "lng": 8.2069135,
   "mieter": []
  },
  "brugg|bahnhofstrasse|10": {
@@ -706,112 +577,9 @@
   "hn": "5",
   "lat": 47.4837549,
   "lng": 8.2066846,
-  "mieter": []
- },
- "brugg|hauptstrasse|26": {
-  "street": "Hauptstrasse",
-  "hn": "26",
-  "lat": 47.4646039,
-  "lng": 8.2109121,
-  "mieter": []
- },
- "brugg|hauptstrasse|18": {
-  "street": "Hauptstrasse",
-  "hn": "18",
-  "lat": 47.4661193,
-  "lng": 8.2109521,
-  "mieter": []
- },
- "brugg|hauptstrasse|40": {
-  "street": "Hauptstrasse",
-  "hn": "40",
-  "lat": 47.463194,
-  "lng": 8.2111699,
-  "mieter": []
- },
- "brugg|hauptstrasse|39": {
-  "street": "Hauptstrasse",
-  "hn": "39",
-  "lat": 47.4608999,
-  "lng": 8.2122373,
-  "mieter": []
- },
- "brugg|hauptstrasse|38": {
-  "street": "Hauptstrasse",
-  "hn": "38",
-  "lat": 47.4634904,
-  "lng": 8.2111088,
-  "mieter": []
- },
- "brugg|hauptstrasse|36": {
-  "street": "Hauptstrasse",
-  "hn": "36",
-  "lat": 47.4636996,
-  "lng": 8.2106782,
-  "mieter": []
- },
- "brugg|hauptstrasse|13a": {
-  "street": "Hauptstrasse",
-  "hn": "13a",
-  "lat": 47.4651901,
-  "lng": 8.211852,
-  "mieter": []
- },
- "brugg|hauptstrasse|13b": {
-  "street": "Hauptstrasse",
-  "hn": "13b",
-  "lat": 47.4649995,
-  "lng": 8.211874,
-  "mieter": []
- },
- "brugg|hauptstrasse|15a": {
-  "street": "Hauptstrasse",
-  "hn": "15a",
-  "lat": 47.4646555,
-  "lng": 8.2118023,
-  "mieter": []
- },
- "brugg|hauptstrasse|15b": {
-  "street": "Hauptstrasse",
-  "hn": "15b",
-  "lat": 47.4644784,
-  "lng": 8.2117433,
-  "mieter": []
- },
- "brugg|hauptstrasse|15c": {
-  "street": "Hauptstrasse",
-  "hn": "15c",
-  "lat": 47.4643648,
-  "lng": 8.2117417,
-  "mieter": []
- },
- "brugg|hauptstrasse|28": {
-  "street": "Hauptstrasse",
-  "hn": "28",
-  "lat": 47.4641154,
-  "lng": 8.2108938,
-  "mieter": []
- },
- "brugg|hauptstrasse|14": {
-  "street": "Hauptstrasse",
-  "hn": "14",
-  "lat": 47.466922,
-  "lng": 8.2108885,
-  "mieter": []
- },
- "brugg|hauptstrasse|10": {
-  "street": "Hauptstrasse",
-  "hn": "10",
-  "lat": 47.4673427,
-  "lng": 8.2107714,
-  "mieter": []
- },
- "brugg|hauptstrasse|6": {
-  "street": "Hauptstrasse",
-  "hn": "6",
-  "lat": 47.4677551,
-  "lng": 8.2108744,
-  "mieter": []
+  "mieter": [
+   "Bauamt"
+  ]
  },
  "brugg|bahnhofstrasse|3": {
   "street": "Bahnhofstrasse",
@@ -820,40 +588,162 @@
   "lng": 8.207595,
   "mieter": []
  },
- "brugg|hauptstrasse|42": {
+ "brugg|hauptstrasse|20": {
   "street": "Hauptstrasse",
-  "hn": "42",
-  "lat": 47.4627701,
-  "lng": 8.2113426,
+  "hn": "20",
+  "lat": 47.4846392,
+  "lng": 8.2070651,
+  "mieter": [
+   "BlütenMeer"
+  ]
+ },
+ "brugg|hauptstrasse|22": {
+  "street": "Hauptstrasse",
+  "hn": "22",
+  "lat": 47.4846919,
+  "lng": 8.2070469,
+  "mieter": [
+   "Maria"
+  ]
+ },
+ "brugg|hauptstrasse|24": {
+  "street": "Hauptstrasse",
+  "hn": "24",
+  "lat": 47.484756,
+  "lng": 8.207095,
   "mieter": []
+ },
+ "brugg|hauptstrasse|26": {
+  "street": "Hauptstrasse",
+  "hn": "26",
+  "lat": 47.4848218,
+  "lng": 8.2071329,
+  "mieter": [
+   "Fil à Fil"
+  ]
+ },
+ "brugg|hauptstrasse|28": {
+  "street": "Hauptstrasse",
+  "hn": "28",
+  "lat": 47.4848666,
+  "lng": 8.2071128,
+  "mieter": [
+   "Illusion"
+  ]
  },
  "brugg|hauptstrasse|30": {
   "street": "Hauptstrasse",
   "hn": "30",
   "lat": 47.4849256,
   "lng": 8.2070843,
-  "mieter": []
+  "mieter": [
+   "Pony"
+  ]
  },
  "brugg|hauptstrasse|58": {
   "street": "Hauptstrasse",
   "hn": "58",
   "lat": 47.4858894,
   "lng": 8.2073687,
-  "mieter": []
+  "mieter": [
+   "Commercio"
+  ]
  },
  "brugg|hauptstrasse|62": {
   "street": "Hauptstrasse",
   "hn": "62",
   "lat": 47.485917,
   "lng": 8.2071284,
+  "mieter": [
+   "Messerschmiede Romano Chiecchi"
+  ]
+ },
+ "brugg|hauptstrasse|56": {
+  "street": "Hauptstrasse",
+  "hn": "56",
+  "lat": 47.4857609,
+  "lng": 8.2074717,
   "mieter": []
+ },
+ "brugg|hauptstrasse|48": {
+  "street": "Hauptstrasse",
+  "hn": "48",
+  "lat": 47.4854779,
+  "lng": 8.2073278,
+  "mieter": [
+   "WärchRych",
+   "Geigenbau Burger"
+  ]
+ },
+ "brugg|hauptstrasse|46": {
+  "street": "Hauptstrasse",
+  "hn": "46",
+  "lat": 47.4854002,
+  "lng": 8.2072893,
+  "mieter": [
+   "Fridolin"
+  ]
+ },
+ "brugg|hauptstrasse|44": {
+  "street": "Hauptstrasse",
+  "hn": "44",
+  "lat": 47.4853373,
+  "lng": 8.2072458,
+  "mieter": []
+ },
+ "brugg|hauptstrasse|42": {
+  "street": "Hauptstrasse",
+  "hn": "42",
+  "lat": 47.4852918,
+  "lng": 8.2071731,
+  "mieter": [
+   "La Dolce Vita"
+  ]
+ },
+ "brugg|hauptstrasse|40": {
+  "street": "Hauptstrasse",
+  "hn": "40",
+  "lat": 47.4852416,
+  "lng": 8.207161,
+  "mieter": [
+   "Replay"
+  ]
+ },
+ "brugg|hauptstrasse|38": {
+  "street": "Hauptstrasse",
+  "hn": "38",
+  "lat": 47.4851902,
+  "lng": 8.207107,
+  "mieter": [
+   "Alea"
+  ]
+ },
+ "brugg|hauptstrasse|36": {
+  "street": "Hauptstrasse",
+  "hn": "36",
+  "lat": 47.4851369,
+  "lng": 8.2070633,
+  "mieter": [
+   "Aargauer Zeitung"
+  ]
+ },
+ "brugg|hauptstrasse|34": {
+  "street": "Hauptstrasse",
+  "hn": "34",
+  "lat": 47.4850813,
+  "lng": 8.2070699,
+  "mieter": [
+   "Isis World"
+  ]
  },
  "brugg|hauptstrasse|11": {
   "street": "Hauptstrasse",
   "hn": "11",
   "lat": 47.4845939,
   "lng": 8.2067425,
-  "mieter": []
+  "mieter": [
+   "Vogel"
+  ]
  },
  "brugg|hauptstrasse|13": {
   "street": "Hauptstrasse",
@@ -867,14 +757,18 @@
   "hn": "15",
   "lat": 47.4846808,
   "lng": 8.2066861,
-  "mieter": []
+  "mieter": [
+   "Supremo"
+  ]
  },
  "brugg|hauptstrasse|17": {
   "street": "Hauptstrasse",
   "hn": "17",
   "lat": 47.4847367,
   "lng": 8.2066703,
-  "mieter": []
+  "mieter": [
+   "Souperbe"
+  ]
  },
  "brugg|hauptstrasse|19": {
   "street": "Hauptstrasse",
@@ -888,7 +782,9 @@
   "hn": "21",
   "lat": 47.4849602,
   "lng": 8.206672,
-  "mieter": []
+  "mieter": [
+   "Shic"
+  ]
  },
  "brugg|storchengasse|8": {
   "street": "Storchengasse",
@@ -909,34 +805,134 @@
   "hn": "2",
   "lat": 47.4845081,
   "lng": 8.2064338,
-  "mieter": []
+  "mieter": [
+   "Altstadt Kebab"
+  ]
  },
  "brugg|hauptstrasse|25": {
   "street": "Hauptstrasse",
   "hn": "25",
   "lat": 47.4851683,
   "lng": 8.2067106,
-  "mieter": []
+  "mieter": [
+   "My Sushi"
+  ]
  },
  "brugg|hauptstrasse|31": {
   "street": "Hauptstrasse",
   "hn": "31",
   "lat": 47.485319,
   "lng": 8.2067352,
+  "mieter": [
+   "La Estrada"
+  ]
+ },
+ "brugg|hauptstrasse|37": {
+  "street": "Hauptstrasse",
+  "hn": "37",
+  "lat": 47.4854811,
+  "lng": 8.2067922,
+  "mieter": [
+   "Amazing"
+  ]
+ },
+ "brugg|hauptstrasse|35": {
+  "street": "Hauptstrasse",
+  "hn": "35",
+  "lat": 47.4854276,
+  "lng": 8.2067612,
   "mieter": []
+ },
+ "brugg|hauptstrasse|39": {
+  "street": "Hauptstrasse",
+  "hn": "39",
+  "lat": 47.4855468,
+  "lng": 8.2068072,
+  "mieter": [
+   "Greco"
+  ]
+ },
+ "brugg|hauptstrasse|41": {
+  "street": "Hauptstrasse",
+  "hn": "41",
+  "lat": 47.4856047,
+  "lng": 8.2068158,
+  "mieter": [
+   "Asian Smile"
+  ]
+ },
+ "brugg|hauptstrasse|43": {
+  "street": "Hauptstrasse",
+  "hn": "43",
+  "lat": 47.4856594,
+  "lng": 8.2068996,
+  "mieter": [
+   "Ruoff"
+  ]
  },
  "brugg|hauptstrasse|49": {
   "street": "Hauptstrasse",
   "hn": "49",
   "lat": 47.4857903,
   "lng": 8.2068479,
-  "mieter": []
+  "mieter": [
+   "Nostalgie"
+  ]
  },
  "brugg|hauptstrasse|47": {
   "street": "Hauptstrasse",
   "hn": "47",
   "lat": 47.4857606,
   "lng": 8.2069013,
+  "mieter": [
+   "Zäme"
+  ]
+ },
+ "brugg|hauptstrasse|45": {
+  "street": "Hauptstrasse",
+  "hn": "45",
+  "lat": 47.4857128,
+  "lng": 8.2069186,
+  "mieter": []
+ },
+ "brugg|neumarkt|2": {
+  "street": "Neumarkt",
+  "hn": "2",
+  "lat": 47.481839,
+  "lng": 8.208784,
+  "mieter": []
+ },
+ "brugg|hauptstrasse|8b": {
+  "street": "Hauptstrasse",
+  "hn": "8b",
+  "lat": 47.483748,
+  "lng": 8.207471,
+  "mieter": []
+ },
+ "brugg|neumarkt|1": {
+  "street": "Neumarkt",
+  "hn": "1",
+  "lat": 47.482119,
+  "lng": 8.209178,
+  "mieter": [
+   "Migros",
+   "Migros Restaurant",
+   "Denner",
+   "Migros Take-Away"
+  ]
+ },
+ "brugg|bahnhofstrasse|5a": {
+  "street": "Bahnhofstrasse",
+  "hn": "5a",
+  "lat": 47.480779,
+  "lng": 8.211771,
+  "mieter": []
+ },
+ "brugg|bahnhofstrasse|6a": {
+  "street": "Bahnhofstrasse",
+  "hn": "6a",
+  "lat": 47.481659,
+  "lng": 8.211085,
   "mieter": []
  }
 }

@@ -1067,12 +1067,14 @@
       "Bahnhofstrasse",
       "Neumarkt",
       "Alte Zürcherstrasse",
-      "Storchengasse"
+      "Storchengasse",
+      "Neumarktplatz",
+      "Bahnhofplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
-    "offen": "107"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-09",
+    "eigentuemer_quelle": "Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD SBB; tools/register_abgleich.py): 12, davon Neumarkt 1 und 2 nur 20 % Miteigentum assetimmo und Bahnhofstrasse 8 ungeprüft (Brügg BE). Rest über Grundbuchamt Laufenburg, Marktplatz 6, 5080 Laufenburg, gbalaufenburg@ag.ch (teilverifiziert) oder Geoportal AG (10 pro Tag)",
+    "offen": "99"
   },
   {
     "kanton": "VS",
