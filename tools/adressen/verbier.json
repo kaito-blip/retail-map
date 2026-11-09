@@ -514,6 +514,15 @@
   "lng": 7.2291068,
   "mieter": []
  },
+ "verbier|rue de medran|70": {
+  "street": "Rue de Medran",
+  "hn": "70",
+  "lat": 46.0930742,
+  "lng": 7.233034,
+  "mieter": [
+   "Arctic juice & cafe"
+  ]
+ },
  "verbier|rue de médran|70": {
   "street": "Rue de Médran",
   "hn": "70",

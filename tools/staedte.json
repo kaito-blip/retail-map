@@ -1086,12 +1086,12 @@
       "Place Centrale",
       "Route de Verbier Station",
       "Rue de la Poste",
-      "Route de la Barmaz"
+      "Route des Creux"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "243"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-09",
+    "eigentuemer_quelle": "Register ohne Treffer; Anfrageliste: online.vs.ch (Login, 10 pro Tag) und Grundbuchamt Martigny",
+    "offen": "175"
   },
   {
     "kanton": "GR",
