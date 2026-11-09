@@ -1,14 +1,9 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
-owner;biel/bienne|general-dufour-strasse|18;Einwohnergemeinde Biel/Bienne;;Eigentümer lt. Stadt Biel: OGD Stadt Biel «Grundeigentum» (E322), Eigentümergruppe 01 = Einwohnergemeinde (Abgleich mit GREIKA geprüft), Liegenschaft Nr. 1720, Adresse via amtl. Gebäudeadressverzeichnis (26.11.2025)
-owner;biel/bienne|general-dufour-strasse|26;Einwohnergemeinde Biel/Bienne;;Eigentümer lt. Stadt Biel: OGD Stadt Biel «Grundeigentum» (E322), Eigentümergruppe 01 = Einwohnergemeinde (Abgleich mit GREIKA geprüft), Liegenschaft Nr. 1693, Adresse via amtl. Gebäudeadressverzeichnis (26.11.2025)
-owner;biel/bienne|general-dufour-strasse|29a;Einwohnergemeinde Biel/Bienne;;Eigentümer lt. Stadt Biel: OGD Stadt Biel «Grundeigentum» (E322), Eigentümergruppe 01 = Einwohnergemeinde (Abgleich mit GREIKA geprüft), Liegenschaft Nr. 1692, Adresse via amtl. Gebäudeadressverzeichnis (26.11.2025)
-owner;biel/bienne|mühlebrücke|2;UBS Investment Foundation 1 (UBS Anlagestiftung 1), Anlagegruppe UBS AST Kommerzielle Immobilien Schweiz;;Eigentümer lt. UBS AST Kommerzielle Immobilien Schweiz: Data Report per 30.09.2025, Liegenschaftenverzeichnis S. 24 (2025-09-30)
-owner;biel/bienne|mühlebrücke|5;Einwohnergemeinde Biel/Bienne;;Eigentümer lt. Stadt Biel: OGD Stadt Biel «Grundeigentum» (E322), Eigentümergruppe 01 = Einwohnergemeinde (Abgleich mit GREIKA geprüft), Liegenschaft Nr. 1220, Adresse via amtl. Gebäudeadressverzeichnis (26.11.2025)
-owner;biel/bienne|mühlebrücke|5a;Einwohnergemeinde Biel/Bienne;;Eigentümer lt. Stadt Biel: OGD Stadt Biel «Grundeigentum» (E322), Eigentümergruppe 01 = Einwohnergemeinde (Abgleich mit GREIKA geprüft), Liegenschaft Nr. 1220, Adresse via amtl. Gebäudeadressverzeichnis (26.11.2025)
-owner;biel/bienne|rue de nidau / nidaugasse|14;AXA Anlagestiftung (Anlagegruppe AXA Immobilien Schweiz);;Eigentümer lt. AXA Anlagestiftung Immobilien Schweiz: Jahresbericht per 31.03.2026, Inventar der Liegenschaften der Anlagegruppe AXA Immobilien Schweiz PDF-S. 33–42 (2026-03-31)
-owner;biel/bienne|rue de nidau / nidaugasse|15;BNP Paribas Asset Management Switzerland AG für AXA Real Estate Fund Switzerland;;Eigentümer lt. AXA Real Estate Fund Switzerland: Halbjahresbericht 31.03.2026, Inventar der Liegenschaften PDF-S. 28–34 (2026-03-31), Alleineigentum
-owner;biel/bienne|rue de nidau / nidaugasse|40;Anlagestiftung Pensimo, Anlagegruppe Proreal;;"Eigentümer lt. Pensimo Proreal: Portfolio Pensimo (Liegenschaftenliste Website); Nutzung abgeleitet aus Wohnungen/kommerz. Nutzfläche (31.12.2025)"
-owner;biel/bienne|rue de nidau / nidaugasse|42;AXA Anlagestiftung (Anlagegruppe AXA Immobilien Schweiz);;Eigentümer lt. AXA Anlagestiftung Immobilien Schweiz: Jahresbericht per 31.03.2026, Inventar der Liegenschaften der Anlagegruppe AXA Immobilien Schweiz PDF-S. 33–42 (2026-03-31)
+owner;morges|rue centrale|29a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima»;;Eigentümer lt. UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 32 (2026-06-30)
+owner;morges|rue centrale|29b;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima»;;Eigentümer lt. UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 32 (2026-06-30)
+owner;morges|rue centrale|29c;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima»;;Eigentümer lt. UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 32 (2026-06-30)
+owner;morges|rue des fossés|10;Investissements Fonciers SA für La Foncière (über 100%-Immobiliengesellschaften LA FONCIERE xx SA);;Eigentümer lt. La Foncière: Rapport semestriel au 31.03.2026 (non audité), Liste des immeubles S. 24-29 (31.03.2026)
+owner;morges|rue louis de savoie|57;AXA Anlagestiftung (Anlagegruppe AXA Immobilien Schweiz);;Eigentümer lt. AXA Anlagestiftung Immobilien Schweiz: Jahresbericht per 31.03.2026, Inventar der Liegenschaften der Anlagegruppe AXA Immobilien Schweiz PDF-S. 33–42 (2026-03-31)
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -145,6 +140,12 @@ bestätigt;bern|zytgloggelaube|4;;UBS Investment Foundation 4, Zürich;
 bestätigt;bern|zytgloggelaube|6;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland;
 bestätigt;biel/bienne|bahnhofstrasse|11;;Einwohnergemeinde Biel/Bienne;
 bestätigt;biel/bienne|bahnhofstrasse|15;;BNP Paribas Asset Management Switzerland AG für AXA Real Estate Fund Switzerland;
+bestätigt;biel/bienne|general-dufour-strasse|18;;Einwohnergemeinde Biel/Bienne;
+bestätigt;biel/bienne|general-dufour-strasse|26;;Einwohnergemeinde Biel/Bienne;
+bestätigt;biel/bienne|general-dufour-strasse|29a;;Einwohnergemeinde Biel/Bienne;
+bestätigt;biel/bienne|mühlebrücke|2;;UBS Investment Foundation 1 (UBS Anlagestiftung 1), Anlagegruppe UBS AST Kommerzielle Immobilien Schweiz;
+bestätigt;biel/bienne|mühlebrücke|5;;Einwohnergemeinde Biel/Bienne;
+bestätigt;biel/bienne|mühlebrücke|5a;;Einwohnergemeinde Biel/Bienne;
 bestätigt;biel/bienne|rue centrale / zentralstrasse|123;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland;
 bestätigt;biel/bienne|rue centrale / zentralstrasse|42;;Mobimo Holding AG;
 bestätigt;biel/bienne|rue de la gare / bahnhofstrasse|10;;Procimmo Real Estate SICAV, Teilvermögen «Residential PK» (Fondsleitung Procimmo SA);
@@ -153,6 +154,10 @@ bestätigt;biel/bienne|rue de la gare / bahnhofstrasse|3;;Procimmo Real Estate S
 bestätigt;biel/bienne|rue de la gare / bahnhofstrasse|34;;ECOREAL Schweizerische Immobilien Anlagestiftung, Anlagegruppe SUISSESELECT;
 bestätigt;biel/bienne|rue de la gare / bahnhofstrasse|6;;Procimmo Real Estate SICAV, Teilvermögen «Residential PK» (Fondsleitung Procimmo SA);
 bestätigt;biel/bienne|rue de la gare / bahnhofstrasse|8;;Procimmo Real Estate SICAV, Teilvermögen «Residential PK» (Fondsleitung Procimmo SA);
+bestätigt;biel/bienne|rue de nidau / nidaugasse|14;;AXA Anlagestiftung (Anlagegruppe AXA Immobilien Schweiz);
+bestätigt;biel/bienne|rue de nidau / nidaugasse|15;;BNP Paribas Asset Management Switzerland AG für AXA Real Estate Fund Switzerland;
+bestätigt;biel/bienne|rue de nidau / nidaugasse|40;;Anlagestiftung Pensimo, Anlagegruppe Proreal;
+bestätigt;biel/bienne|rue de nidau / nidaugasse|42;;AXA Anlagestiftung (Anlagegruppe AXA Immobilien Schweiz);
 bestätigt;biel/bienne|zentralstrasse|115;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland;
 bestätigt;biel/bienne|zentralstrasse|141;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland;
 bestätigt;biel/bienne|zentralstrasse|60;;Einwohnergemeinde Biel/Bienne;

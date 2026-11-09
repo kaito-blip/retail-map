@@ -1138,14 +1138,17 @@
     "strassen": [
       "Grand-Rue",
       "Rue Louis-de-Savoie",
+      "Rue Louis de Savoie",
       "Rue Centrale",
       "Place de l'Hôtel-de-Ville",
-      "Rue du Pont-Neuf"
+      "Rue du Pont-Neuf",
+      "Rue des Fossés",
+      "Rue des Charpentiers"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
-    "offen": "129"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-09",
+    "eigentuemer_quelle": "Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 9; Anfrageliste VD_Morges.csv (Intercapi public oder RF La Côte)",
+    "offen": "251"
   },
   {
     "kanton": "TI",

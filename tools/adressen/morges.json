@@ -1,4 +1,27 @@
 {
+ "morges|rue des charpentiers|19": {
+  "street": "Rue des Charpentiers",
+  "hn": "19",
+  "lat": 46.5090539,
+  "lng": 6.4964472,
+  "mieter": [
+   "Poste"
+  ]
+ },
+ "morges|rue des fossés|4": {
+  "street": "Rue des Fossés",
+  "hn": "4",
+  "lat": 46.5104626,
+  "lng": 6.4978122,
+  "mieter": [
+   "Coop",
+   "Magic Vision",
+   "McOptic",
+   "La Route de la Soie",
+   "Claire's",
+   "Coop Vitality"
+  ]
+ },
  "morges|rue louis-de-savoie|61": {
   "street": "Rue Louis-de-Savoie",
   "hn": "61",
@@ -58,6 +81,15 @@
    "Moyard"
   ]
  },
+ "morges|rue louis de savoie|32": {
+  "street": "Rue Louis de Savoie",
+  "hn": "32",
+  "lat": 46.50939,
+  "lng": 6.499536,
+  "mieter": [
+   "Le gallion"
+  ]
+ },
  "morges|grand-rue|95": {
   "street": "Grand-Rue",
   "hn": "95",
@@ -65,6 +97,15 @@
   "lng": 6.4969852,
   "mieter": [
    "Ullrich"
+  ]
+ },
+ "morges|rue louis de savoie|90": {
+  "street": "Rue Louis de Savoie",
+  "hn": "90",
+  "lat": 46.507582,
+  "lng": 6.4973137,
+  "mieter": [
+   "Fukuoka"
   ]
  },
  "morges|grand-rue|79": {
@@ -83,6 +124,24 @@
    "Raffaele & Dany"
   ]
  },
+ "morges|rue louis de savoie|59": {
+  "street": "Rue Louis de Savoie",
+  "hn": "59",
+  "lat": 46.5080691,
+  "lng": 6.4983466,
+  "mieter": [
+   "Sushi Zen"
+  ]
+ },
+ "morges|rue des fossés|55": {
+  "street": "Rue des Fossés",
+  "hn": "55",
+  "lat": 46.508732,
+  "lng": 6.4970112,
+  "mieter": [
+   "L'Inpasse"
+  ]
+ },
  "morges|grand-rue|90": {
   "street": "Grand-Rue",
   "hn": "90",
@@ -91,6 +150,13 @@
   "mieter": [
    "François Sports - Surf Shop"
   ]
+ },
+ "morges|rue louis de savoie|73-75": {
+  "street": "Rue Louis de Savoie",
+  "hn": "73-75",
+  "lat": 46.5076835,
+  "lng": 6.4977854,
+  "mieter": []
  },
  "morges|rue centrale|25": {
   "street": "Rue Centrale",
@@ -124,6 +190,13 @@
    "La Mobilière"
   ]
  },
+ "morges|rue des charpentiers|24b": {
+  "street": "Rue des Charpentiers",
+  "hn": "24B",
+  "lat": 46.510125,
+  "lng": 6.4961791,
+  "mieter": []
+ },
  "morges|rue centrale|23": {
   "street": "Rue Centrale",
   "hn": "23",
@@ -136,6 +209,57 @@
   "hn": "21",
   "lat": 46.5103161,
   "lng": 6.4964098,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|22": {
+  "street": "Rue des Charpentiers",
+  "hn": "22",
+  "lat": 46.510145,
+  "lng": 6.496635,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|24a": {
+  "street": "Rue des Charpentiers",
+  "hn": "24A",
+  "lat": 46.5099625,
+  "lng": 6.4965333,
+  "mieter": [
+   "Cabinet vétérinaire du Sorby"
+  ]
+ },
+ "morges|rue des charpentiers|26": {
+  "street": "Rue des Charpentiers",
+  "hn": "26",
+  "lat": 46.5098024,
+  "lng": 6.4964566,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|30": {
+  "street": "Rue des Charpentiers",
+  "hn": "30",
+  "lat": 46.5095986,
+  "lng": 6.496412,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|32": {
+  "street": "Rue des Charpentiers",
+  "hn": "32",
+  "lat": 46.5093335,
+  "lng": 6.4962783,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|36": {
+  "street": "Rue des Charpentiers",
+  "hn": "36",
+  "lat": 46.509152,
+  "lng": 6.4961981,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|34": {
+  "street": "Rue des Charpentiers",
+  "hn": "34",
+  "lat": 46.5092591,
+  "lng": 6.4962453,
   "mieter": []
  },
  "morges|rue du pont-neuf|3": {
@@ -152,6 +276,48 @@
   "lng": 6.4947467,
   "mieter": []
  },
+ "morges|rue des fossés|20": {
+  "street": "Rue des Fossés",
+  "hn": "20",
+  "lat": 46.5088047,
+  "lng": 6.4968475,
+  "mieter": []
+ },
+ "morges|rue des fossés|16": {
+  "street": "Rue des Fossés",
+  "hn": "16",
+  "lat": 46.509252,
+  "lng": 6.4972366,
+  "mieter": []
+ },
+ "morges|rue des fossés|14": {
+  "street": "Rue des Fossés",
+  "hn": "14",
+  "lat": 46.5095079,
+  "lng": 6.4972037,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|13": {
+  "street": "Rue des Charpentiers",
+  "hn": "13",
+  "lat": 46.5095512,
+  "lng": 6.4970722,
+  "mieter": []
+ },
+ "morges|rue des fossés|12": {
+  "street": "Rue des Fossés",
+  "hn": "12",
+  "lat": 46.5096147,
+  "lng": 6.4974269,
+  "mieter": []
+ },
+ "morges|rue des fossés|10": {
+  "street": "Rue des Fossés",
+  "hn": "10",
+  "lat": 46.509665,
+  "lng": 6.4976519,
+  "mieter": []
+ },
  "morges|rue centrale|11": {
   "street": "Rue Centrale",
   "hn": "11",
@@ -166,11 +332,32 @@
   "lng": 6.49734,
   "mieter": []
  },
+ "morges|rue des charpentiers|9": {
+  "street": "Rue des Charpentiers",
+  "hn": "9",
+  "lat": 46.5099474,
+  "lng": 6.4968833,
+  "mieter": []
+ },
  "morges|rue centrale|14": {
   "street": "Rue Centrale",
   "hn": "14",
   "lat": 46.5099068,
   "lng": 6.4977962,
+  "mieter": []
+ },
+ "morges|rue des fossés|8": {
+  "street": "Rue des Fossés",
+  "hn": "8",
+  "lat": 46.5100141,
+  "lng": 6.49789,
+  "mieter": []
+ },
+ "morges|rue des fossés|6": {
+  "street": "Rue des Fossés",
+  "hn": "6",
+  "lat": 46.5100499,
+  "lng": 6.4979155,
   "mieter": []
  },
  "morges|rue du pont-neuf|6": {
@@ -236,6 +423,243 @@
   "lng": 6.4968833,
   "mieter": []
  },
+ "morges|rue louis de savoie|92": {
+  "street": "Rue Louis de Savoie",
+  "hn": "92",
+  "lat": 46.5074698,
+  "lng": 6.4972856,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|79": {
+  "street": "Rue Louis de Savoie",
+  "hn": "79",
+  "lat": 46.5076027,
+  "lng": 6.497639,
+  "mieter": [
+   "Oenothèque La Licorne"
+  ]
+ },
+ "morges|rue louis de savoie|77": {
+  "street": "Rue Louis de Savoie",
+  "hn": "77",
+  "lat": 46.5076381,
+  "lng": 6.4976935,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|73": {
+  "street": "Rue Louis de Savoie",
+  "hn": "73",
+  "lat": 46.5077055,
+  "lng": 6.4978008,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|71": {
+  "street": "Rue Louis de Savoie",
+  "hn": "71",
+  "lat": 46.5077378,
+  "lng": 6.4978585,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|69": {
+  "street": "Rue Louis de Savoie",
+  "hn": "69",
+  "lat": 46.507783,
+  "lng": 6.497943,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|67": {
+  "street": "Rue Louis de Savoie",
+  "hn": "67",
+  "lat": 46.5078209,
+  "lng": 6.4979939,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|65": {
+  "street": "Rue Louis de Savoie",
+  "hn": "65",
+  "lat": 46.5078476,
+  "lng": 6.4980355,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|63": {
+  "street": "Rue Louis de Savoie",
+  "hn": "63",
+  "lat": 46.5079076,
+  "lng": 6.4981254,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|61": {
+  "street": "Rue Louis de Savoie",
+  "hn": "61",
+  "lat": 46.5079944,
+  "lng": 6.4982327,
+  "mieter": [
+   "Restaurant Le Léman"
+  ]
+ },
+ "morges|rue louis de savoie|41": {
+  "street": "Rue Louis de Savoie",
+  "hn": "41",
+  "lat": 46.5086698,
+  "lng": 6.4991456,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|43": {
+  "street": "Rue Louis de Savoie",
+  "hn": "43",
+  "lat": 46.5086044,
+  "lng": 6.4990695,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|45": {
+  "street": "Rue Louis de Savoie",
+  "hn": "45",
+  "lat": 46.5084813,
+  "lng": 6.4989084,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|47": {
+  "street": "Rue Louis de Savoie",
+  "hn": "47",
+  "lat": 46.5084303,
+  "lng": 6.4988382,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|49": {
+  "street": "Rue Louis de Savoie",
+  "hn": "49",
+  "lat": 46.5084044,
+  "lng": 6.4988046,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|51": {
+  "street": "Rue Louis de Savoie",
+  "hn": "51",
+  "lat": 46.5083357,
+  "lng": 6.4987196,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|53": {
+  "street": "Rue Louis de Savoie",
+  "hn": "53",
+  "lat": 46.508299,
+  "lng": 6.4986682,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|55": {
+  "street": "Rue Louis de Savoie",
+  "hn": "55",
+  "lat": 46.5082323,
+  "lng": 6.4985723,
+  "mieter": [
+   "Fleur de Pain"
+  ]
+ },
+ "morges|rue louis de savoie|37": {
+  "street": "Rue Louis de Savoie",
+  "hn": "37",
+  "lat": 46.5089318,
+  "lng": 6.499374,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|35": {
+  "street": "Rue Louis de Savoie",
+  "hn": "35",
+  "lat": 46.5089923,
+  "lng": 6.4994303,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|33": {
+  "street": "Rue Louis de Savoie",
+  "hn": "33",
+  "lat": 46.5090501,
+  "lng": 6.4994867,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|11": {
+  "street": "Rue Louis de Savoie",
+  "hn": "11",
+  "lat": 46.5098507,
+  "lng": 6.4999811,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|7": {
+  "street": "Rue Louis de Savoie",
+  "hn": "7",
+  "lat": 46.5101912,
+  "lng": 6.5000396,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|5": {
+  "street": "Rue Louis de Savoie",
+  "hn": "5",
+  "lat": 46.5102524,
+  "lng": 6.5000514,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|3": {
+  "street": "Rue Louis de Savoie",
+  "hn": "3",
+  "lat": 46.5102946,
+  "lng": 6.5000613,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|29": {
+  "street": "Rue Louis de Savoie",
+  "hn": "29",
+  "lat": 46.5092513,
+  "lng": 6.4996459,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|27": {
+  "street": "Rue Louis de Savoie",
+  "hn": "27",
+  "lat": 46.5093028,
+  "lng": 6.4996931,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|23": {
+  "street": "Rue Louis de Savoie",
+  "hn": "23",
+  "lat": 46.5093947,
+  "lng": 6.4997681,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|21": {
+  "street": "Rue Louis de Savoie",
+  "hn": "21",
+  "lat": 46.5094452,
+  "lng": 6.4998006,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|19": {
+  "street": "Rue Louis de Savoie",
+  "hn": "19",
+  "lat": 46.5095079,
+  "lng": 6.499843,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|17": {
+  "street": "Rue Louis de Savoie",
+  "hn": "17",
+  "lat": 46.5095796,
+  "lng": 6.4998869,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|15": {
+  "street": "Rue Louis de Savoie",
+  "hn": "15",
+  "lat": 46.5096396,
+  "lng": 6.4999199,
+  "mieter": []
+ },
+ "morges|rue des fossés|5": {
+  "street": "Rue des Fossés",
+  "hn": "5",
+  "lat": 46.5109386,
+  "lng": 6.4986448,
+  "mieter": []
+ },
  "morges|rue centrale|16": {
   "street": "Rue Centrale",
   "hn": "16",
@@ -257,6 +681,34 @@
   "lng": 6.4970949,
   "mieter": []
  },
+ "morges|rue des charpentiers|5": {
+  "street": "Rue des Charpentiers",
+  "hn": "5",
+  "lat": 46.5103777,
+  "lng": 6.4972976,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|1": {
+  "street": "Rue des Charpentiers",
+  "hn": "1",
+  "lat": 46.5108828,
+  "lng": 6.497963,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|3": {
+  "street": "Rue des Charpentiers",
+  "hn": "3",
+  "lat": 46.5106295,
+  "lng": 6.4976048,
+  "mieter": []
+ },
+ "morges|rue des fossés|2": {
+  "street": "Rue des Fossés",
+  "hn": "2",
+  "lat": 46.5105521,
+  "lng": 6.4980733,
+  "mieter": []
+ },
  "morges|rue centrale|24": {
   "street": "Rue Centrale",
   "hn": "24",
@@ -271,6 +723,27 @@
   "hn": "22",
   "lat": 46.5104186,
   "lng": 6.496735,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|8": {
+  "street": "Rue des Charpentiers",
+  "hn": "8",
+  "lat": 46.5105742,
+  "lng": 6.4970172,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|6": {
+  "street": "Rue des Charpentiers",
+  "hn": "6",
+  "lat": 46.5107983,
+  "lng": 6.4972875,
+  "mieter": []
+ },
+ "morges|rue des charpentiers|4": {
+  "street": "Rue des Charpentiers",
+  "hn": "4",
+  "lat": 46.5110113,
+  "lng": 6.4975399,
   "mieter": []
  },
  "morges|grand-rue|91": {
@@ -301,6 +774,78 @@
   "lng": 6.4977827,
   "mieter": []
  },
+ "morges|rue louis de savoie|88": {
+  "street": "Rue Louis de Savoie",
+  "hn": "88",
+  "lat": 46.5076602,
+  "lng": 6.4974778,
+  "mieter": [
+   "Abysse Galerie Boutique"
+  ]
+ },
+ "morges|rue louis de savoie|86": {
+  "street": "Rue Louis de Savoie",
+  "hn": "86",
+  "lat": 46.5077395,
+  "lng": 6.4974453,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|84": {
+  "street": "Rue Louis de Savoie",
+  "hn": "84",
+  "lat": 46.5077765,
+  "lng": 6.4974942,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|82": {
+  "street": "Rue Louis de Savoie",
+  "hn": "82",
+  "lat": 46.5078333,
+  "lng": 6.4975693,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|80": {
+  "street": "Rue Louis de Savoie",
+  "hn": "80",
+  "lat": 46.5079193,
+  "lng": 6.4976829,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|78": {
+  "street": "Rue Louis de Savoie",
+  "hn": "78",
+  "lat": 46.5079774,
+  "lng": 6.4977598,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|76": {
+  "street": "Rue Louis de Savoie",
+  "hn": "76",
+  "lat": 46.5080114,
+  "lng": 6.4978047,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|74": {
+  "street": "Rue Louis de Savoie",
+  "hn": "74",
+  "lat": 46.5080535,
+  "lng": 6.4978603,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|72": {
+  "street": "Rue Louis de Savoie",
+  "hn": "72",
+  "lat": 46.5081176,
+  "lng": 6.497945,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|70": {
+  "street": "Rue Louis de Savoie",
+  "hn": "70",
+  "lat": 46.5081703,
+  "lng": 6.4980147,
+  "mieter": []
+ },
  "morges|rue centrale|12": {
   "street": "Rue Centrale",
   "hn": "12",
@@ -315,11 +860,95 @@
   "lng": 6.4979486,
   "mieter": []
  },
+ "morges|rue des fossés|17": {
+  "street": "Rue des Fossés",
+  "hn": "17",
+  "lat": 46.5099881,
+  "lng": 6.4980682,
+  "mieter": []
+ },
  "morges|place de l'hôtel-de-ville|2a": {
   "street": "Place de l'Hôtel-de-Ville",
   "hn": "2A",
   "lat": 46.5084247,
   "lng": 6.4983583,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|62": {
+  "street": "Rue Louis de Savoie",
+  "hn": "62",
+  "lat": 46.5084445,
+  "lng": 6.498514,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|60": {
+  "street": "Rue Louis de Savoie",
+  "hn": "60",
+  "lat": 46.5085504,
+  "lng": 6.4984851,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|58": {
+  "street": "Rue Louis de Savoie",
+  "hn": "58",
+  "lat": 46.5086259,
+  "lng": 6.4985612,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|56": {
+  "street": "Rue Louis de Savoie",
+  "hn": "56",
+  "lat": 46.5087052,
+  "lng": 6.4986412,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|54": {
+  "street": "Rue Louis de Savoie",
+  "hn": "54",
+  "lat": 46.5087864,
+  "lng": 6.4987231,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|52": {
+  "street": "Rue Louis de Savoie",
+  "hn": "52",
+  "lat": 46.5088438,
+  "lng": 6.498781,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|50": {
+  "street": "Rue Louis de Savoie",
+  "hn": "50",
+  "lat": 46.5088933,
+  "lng": 6.498831,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|48": {
+  "street": "Rue Louis de Savoie",
+  "hn": "48",
+  "lat": 46.5089467,
+  "lng": 6.4988848,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|46": {
+  "street": "Rue Louis de Savoie",
+  "hn": "46",
+  "lat": 46.5089897,
+  "lng": 6.4989282,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|44": {
+  "street": "Rue Louis de Savoie",
+  "hn": "44",
+  "lat": 46.5090413,
+  "lng": 6.4989802,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|42": {
+  "street": "Rue Louis de Savoie",
+  "hn": "42",
+  "lat": 46.5090575,
+  "lng": 6.4991833,
   "mieter": []
  },
  "morges|grand-rue|53": {
@@ -441,6 +1070,76 @@
   "lng": 6.4982303,
   "mieter": []
  },
+ "morges|rue louis de savoie|40": {
+  "street": "Rue Louis de Savoie",
+  "hn": "40",
+  "lat": 46.5092076,
+  "lng": 6.4993315,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|38": {
+  "street": "Rue Louis de Savoie",
+  "hn": "38",
+  "lat": 46.5092817,
+  "lng": 6.4994165,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|36": {
+  "street": "Rue Louis de Savoie",
+  "hn": "36",
+  "lat": 46.5093151,
+  "lng": 6.4994669,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|34": {
+  "street": "Rue Louis de Savoie",
+  "hn": "34",
+  "lat": 46.5093666,
+  "lng": 6.4995188,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|30": {
+  "street": "Rue Louis de Savoie",
+  "hn": "30",
+  "lat": 46.5094526,
+  "lng": 6.4996098,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|28": {
+  "street": "Rue Louis de Savoie",
+  "hn": "28",
+  "lat": 46.5094962,
+  "lng": 6.4996493,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|26": {
+  "street": "Rue Louis de Savoie",
+  "hn": "26",
+  "lat": 46.509537,
+  "lng": 6.4996839,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|24": {
+  "street": "Rue Louis de Savoie",
+  "hn": "24",
+  "lat": 46.5096071,
+  "lng": 6.4997323,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|22": {
+  "street": "Rue Louis de Savoie",
+  "hn": "22",
+  "lat": 46.5096656,
+  "lng": 6.4997659,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|20": {
+  "street": "Rue Louis de Savoie",
+  "hn": "20",
+  "lat": 46.5097717,
+  "lng": 6.4997452,
+  "mieter": []
+ },
  "morges|grand-rue|27": {
   "street": "Grand-Rue",
   "hn": "27",
@@ -462,6 +1161,13 @@
   "lng": 6.4994189,
   "mieter": []
  },
+ "morges|rue louis de savoie|4": {
+  "street": "Rue Louis de Savoie",
+  "hn": "4",
+  "lat": 46.5103543,
+  "lng": 6.4999475,
+  "mieter": []
+ },
  "morges|grand-rue|1": {
   "street": "Grand-Rue",
   "hn": "1",
@@ -476,11 +1182,25 @@
   "lng": 6.4997355,
   "mieter": []
  },
+ "morges|rue louis de savoie|6": {
+  "street": "Rue Louis de Savoie",
+  "hn": "6",
+  "lat": 46.5102165,
+  "lng": 6.4999201,
+  "mieter": []
+ },
  "morges|grand-rue|7": {
   "street": "Grand-Rue",
   "hn": "7",
   "lat": 46.5103016,
   "lng": 6.4996871,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|8": {
+  "street": "Rue Louis de Savoie",
+  "hn": "8",
+  "lat": 46.5101316,
+  "lng": 6.4998832,
   "mieter": []
  },
  "morges|grand-rue|11": {
@@ -495,6 +1215,34 @@
   "hn": "13",
   "lat": 46.5102183,
   "lng": 6.4996078,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|12": {
+  "street": "Rue Louis de Savoie",
+  "hn": "12",
+  "lat": 46.5099749,
+  "lng": 6.4998182,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|14": {
+  "street": "Rue Louis de Savoie",
+  "hn": "14",
+  "lat": 46.5099469,
+  "lng": 6.4997786,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|16": {
+  "street": "Rue Louis de Savoie",
+  "hn": "16",
+  "lat": 46.5099196,
+  "lng": 6.4997389,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|18": {
+  "street": "Rue Louis de Savoie",
+  "hn": "18",
+  "lat": 46.5098882,
+  "lng": 6.4996972,
   "mieter": []
  },
  "morges|grand-rue|19": {
@@ -728,6 +1476,13 @@
   "lng": 6.4978821,
   "mieter": []
  },
+ "morges|rue des fossés|39": {
+  "street": "Rue des Fossés",
+  "hn": "39",
+  "lat": 46.5091107,
+  "lng": 6.4974108,
+  "mieter": []
+ },
  "morges|grand-rue|86": {
   "street": "Grand-Rue",
   "hn": "86",
@@ -772,6 +1527,38 @@
   "lng": 6.497652,
   "mieter": []
  },
+ "morges|rue des fossés|57": {
+  "street": "Rue des Fossés",
+  "hn": "57",
+  "lat": 46.5087012,
+  "lng": 6.4969055,
+  "mieter": [
+   "heliorex sarl"
+  ]
+ },
+ "morges|rue des fossés|51": {
+  "street": "Rue des Fossés",
+  "hn": "51",
+  "lat": 46.5088284,
+  "lng": 6.4971261,
+  "mieter": [
+   "Magasin du Monde"
+  ]
+ },
+ "morges|rue des fossés|49": {
+  "street": "Rue des Fossés",
+  "hn": "49",
+  "lat": 46.5088732,
+  "lng": 6.4971758,
+  "mieter": []
+ },
+ "morges|rue des fossés|47": {
+  "street": "Rue des Fossés",
+  "hn": "47",
+  "lat": 46.508912,
+  "lng": 6.4972255,
+  "mieter": []
+ },
  "morges|grand-rue|72": {
   "street": "Grand-Rue",
   "hn": "72",
@@ -784,6 +1571,27 @@
   "hn": "70",
   "lat": 46.5087368,
   "lng": 6.4978652,
+  "mieter": []
+ },
+ "morges|rue des fossés|45": {
+  "street": "Rue des Fossés",
+  "hn": "45",
+  "lat": 46.5089552,
+  "lng": 6.4972707,
+  "mieter": []
+ },
+ "morges|rue des fossés|43": {
+  "street": "Rue des Fossés",
+  "hn": "43",
+  "lat": 46.5090111,
+  "lng": 6.497315,
+  "mieter": []
+ },
+ "morges|rue des fossés|41": {
+  "street": "Rue des Fossés",
+  "hn": "41",
+  "lat": 46.509064,
+  "lng": 6.4973582,
   "mieter": []
  },
  "morges|grand-rue|74": {
@@ -809,6 +1617,27 @@
   "lng": 6.4980011,
   "mieter": []
  },
+ "morges|rue des fossés|35": {
+  "street": "Rue des Fossés",
+  "hn": "35",
+  "lat": 46.5091172,
+  "lng": 6.4976875,
+  "mieter": []
+ },
+ "morges|rue des fossés|33": {
+  "street": "Rue des Fossés",
+  "hn": "33",
+  "lat": 46.5092331,
+  "lng": 6.4975423,
+  "mieter": []
+ },
+ "morges|rue des fossés|31": {
+  "street": "Rue des Fossés",
+  "hn": "31",
+  "lat": 46.5092711,
+  "lng": 6.4975732,
+  "mieter": []
+ },
  "morges|grand-rue|62": {
   "street": "Grand-Rue",
   "hn": "62",
@@ -821,6 +1650,13 @@
   "hn": "60",
   "lat": 46.5090319,
   "lng": 6.4981006,
+  "mieter": []
+ },
+ "morges|rue des fossés|29": {
+  "street": "Rue des Fossés",
+  "hn": "29",
+  "lat": 46.5092983,
+  "lng": 6.4977409,
   "mieter": []
  },
  "morges|grand-rue|58": {
@@ -858,11 +1694,34 @@
   "lng": 6.4983447,
   "mieter": []
  },
+ "morges|rue des fossés|23": {
+  "street": "Rue des Fossés",
+  "hn": "23",
+  "lat": 46.5095305,
+  "lng": 6.4977615,
+  "mieter": []
+ },
+ "morges|rue des fossés|21": {
+  "street": "Rue des Fossés",
+  "hn": "21",
+  "lat": 46.5096094,
+  "lng": 6.4978555,
+  "mieter": [
+   "Carasso"
+  ]
+ },
  "morges|rue centrale|9": {
   "street": "Rue Centrale",
   "hn": "9",
   "lat": 46.5096127,
   "lng": 6.498068,
+  "mieter": []
+ },
+ "morges|rue des fossés|27": {
+  "street": "Rue des Fossés",
+  "hn": "27",
+  "lat": 46.5094419,
+  "lng": 6.497655,
   "mieter": []
  },
  "morges|grand-rue|56": {
@@ -893,11 +1752,46 @@
   "lng": 6.4990615,
   "mieter": []
  },
+ "morges|rue louis de savoie|57": {
+  "street": "Rue Louis de Savoie",
+  "hn": "57",
+  "lat": 46.5081178,
+  "lng": 6.4984522,
+  "mieter": []
+ },
+ "morges|rue louis de savoie|10": {
+  "street": "Rue Louis de Savoie",
+  "hn": "10",
+  "lat": 46.5100428,
+  "lng": 6.4998609,
+  "mieter": []
+ },
  "morges|grand-rue|87": {
   "street": "Grand-Rue",
   "hn": "87",
   "lat": 46.5080684,
   "lng": 6.497454,
+  "mieter": []
+ },
+ "morges|rue des fossés|13": {
+  "street": "Rue des Fossés",
+  "hn": "13",
+  "lat": 46.5101967,
+  "lng": 6.498198,
+  "mieter": []
+ },
+ "morges|rue des fossés|25": {
+  "street": "Rue des Fossés",
+  "hn": "25",
+  "lat": 46.5094478,
+  "lng": 6.4978349,
+  "mieter": []
+ },
+ "morges|rue des fossés|53": {
+  "street": "Rue des Fossés",
+  "hn": "53",
+  "lat": 46.5087816,
+  "lng": 6.4970601,
   "mieter": []
  },
  "morges|grand-rue|21": {
@@ -912,6 +1806,13 @@
   "hn": "69",
   "lat": 46.5077755,
   "lng": 6.4979384,
+  "mieter": []
+ },
+ "morges|place de l'hôtel de ville|1": {
+  "street": "Place de l'Hôtel de Ville",
+  "hn": "1",
+  "lat": 46.5083839,
+  "lng": 6.498093,
   "mieter": []
  },
  "morges|rue centrale|29": {
@@ -951,6 +1852,15 @@
   "lng": 6.4982175,
   "mieter": [
    "Unia"
+  ]
+ },
+ "morges|rue des charpentiers|11": {
+  "street": "Rue des Charpentiers",
+  "hn": "11",
+  "lat": 46.5096717,
+  "lng": 6.4968734,
+  "mieter": [
+   "Chapelle des Charpentiers"
   ]
  }
 }
