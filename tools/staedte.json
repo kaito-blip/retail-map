@@ -1120,12 +1120,15 @@
       "Bahnhofstrasse",
       "Zentralstrasse",
       "Marktgasse",
-      "Dufourstrasse"
+      "Dufourstrasse",
+      "Güterstrasse",
+      "Kanalgasse",
+      "Mühlebrücke"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 13",
-    "offen": "117"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-09",
+    "eigentuemer_quelle": "Eigentümer-Register (21 Adressen); übrige über GRUDIS public (AGOV, Kaito einzeln) oder Mail an Grundbuchamt Seeland Nidau gba.sl@be.ch (Zuständigkeit für Biel abgeleitet)",
+    "offen": "254"
   },
   {
     "kanton": "VD",
