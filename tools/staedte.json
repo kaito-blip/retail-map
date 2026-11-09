@@ -1047,14 +1047,15 @@
     "strassen": [
       "Viale Stazione",
       "Piazza Collegiata",
+      "Via Nosetto",
       "Piazza Nosetto",
       "Via Camminata",
       "Via Teatro"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
-    "offen": "79"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-09",
+    "eigentuemer_quelle": "Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD SBB; tools/register_abgleich.py): 10. Übrige Adressen: Anfrageliste an Ufficio del registro fondiario di Bellinzona",
+    "offen": "92"
   },
   {
     "kanton": "AG",

@@ -1,8 +1,4 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
-owner;buchs sg|bahnhofplatz|2a;Schweizerische Bundesbahnen SBB;;Eigentümer lt. SBB: OGD Parzellen der SBB, Buchs (SG) Parz. 1758 (EGRID CH643884778590), Adresse via amtl. Gebäudeadressverzeichnis (Punkt in Parzelle) (06.11.2023)
-owner;buchs sg|bahnhofplatz|3;Schweizerische Bundesbahnen SBB;;Eigentümer lt. SBB: OGD Parzellen der SBB, Buchs (SG) Parz. 1758 (EGRID CH643884778590), Adresse via amtl. Gebäudeadressverzeichnis (Punkt in Parzelle) (06.11.2023)
-owner;buchs sg|bahnhofplatz|4;Schweizerische Bundesbahnen SBB;;Eigentümer lt. SBB: OGD Parzellen der SBB, Buchs (SG) Parz. 1758 (EGRID CH643884778590), Adresse via amtl. Gebäudeadressverzeichnis (Punkt in Parzelle) (06.11.2023)
-owner;buchs sg|bahnhofplatz|4a;Schweizerische Bundesbahnen SBB;;Eigentümer lt. SBB: OGD Parzellen der SBB, Buchs (SG) Parz. 1758 (EGRID CH643884778590), Adresse via amtl. Gebäudeadressverzeichnis (Punkt in Parzelle) (06.11.2023)
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -161,6 +157,10 @@ bestätigt;brugg|hauptstrasse|2;;Swiss Prime Anlagestiftung, Anlagegruppe SPA Im
 bestätigt;brugg|neumarktplatz|18;;assetimmo Immobilien-Anlagestiftung, Anlagegruppe Geschäfte;
 bestätigt;brugg|neumarktplatz|4;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Direct 1a Immo PK;
 bestätigt;buchs sg|bahnhofplatz|2;;Schweizerische Bundesbahnen SBB;
+bestätigt;buchs sg|bahnhofplatz|2a;;Schweizerische Bundesbahnen SBB;
+bestätigt;buchs sg|bahnhofplatz|3;;Schweizerische Bundesbahnen SBB;
+bestätigt;buchs sg|bahnhofplatz|4;;Schweizerische Bundesbahnen SBB;
+bestätigt;buchs sg|bahnhofplatz|4a;;Schweizerische Bundesbahnen SBB;
 bestätigt;buchs sg|bahnhofstrasse|17;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland Residential;
 bestätigt;buchs sg|bahnhofstrasse|2;;UBS Investment Foundation 1 (UBS Anlagestiftung 1), Anlagegruppe UBS AST Kommerzielle Immobilien Schweiz;
 bestätigt;buchs sg|bahnhofstrasse|21a;;UBS Investment Foundation 4 (UBS Anlagestiftung 4, ehem. Credit Suisse Anlagestiftung), Anlagegruppe CSA Real Estate Switzerland Residential;
