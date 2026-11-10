@@ -1227,16 +1227,17 @@
     "ort": "Monthey",
     "radius": 600,
     "strassen": [
-      "Rue du Commerce",
-      "Place Centrale",
       "Avenue de la Gare",
+      "Place Centrale",
+      "Rue du Commerce",
       "Rue des Bourguignons",
-      "Rue du Château"
+      "Rue du Château",
+      "Place de Tübingen"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4",
-    "offen": "105"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-10",
+    "eigentuemer_quelle": "Eigentümer-Register (tools/register_abgleich.py): 5 (Investis, FIR, SBB); offen: online.vs.ch (10 pro Tag, Monthey online) oder Grundbuchamt Monthey, Anfrageliste VS_Monthey.csv",
+    "offen": "118"
   },
   {
     "kanton": "VS",

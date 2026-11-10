@@ -56,6 +56,22 @@
    "Chabbey - Architectes SA"
   ]
  },
+ "monthey|place de tübingen|6": {
+  "street": "Place de Tübingen",
+  "hn": "6",
+  "lat": 46.2523661,
+  "lng": 6.947731,
+  "mieter": [
+   "Tomate Bleue"
+  ]
+ },
+ "monthey|place de tübingen|7": {
+  "street": "Place de Tübingen",
+  "hn": "7",
+  "lat": 46.2524989,
+  "lng": 6.9476428,
+  "mieter": []
+ },
  "monthey|avenue de la gare|54": {
   "street": "Avenue de la Gare",
   "hn": "54",
@@ -256,6 +272,27 @@
   "lng": 6.9496353,
   "mieter": []
  },
+ "monthey|place de tübingen|1": {
+  "street": "Place de Tübingen",
+  "hn": "1",
+  "lat": 46.2523156,
+  "lng": 6.9471355,
+  "mieter": []
+ },
+ "monthey|place de tübingen|3": {
+  "street": "Place de Tübingen",
+  "hn": "3",
+  "lat": 46.2523354,
+  "lng": 6.9472406,
+  "mieter": []
+ },
+ "monthey|place de tübingen|3a": {
+  "street": "Place de Tübingen",
+  "hn": "3A",
+  "lat": 46.2523534,
+  "lng": 6.9473357,
+  "mieter": []
+ },
  "monthey|rue du château|38": {
   "street": "Rue du Château",
   "hn": "38",
@@ -344,6 +381,13 @@
   "hn": "2",
   "lat": 46.2521829,
   "lng": 6.9475929,
+  "mieter": []
+ },
+ "monthey|place de tübingen|2": {
+  "street": "Place de Tübingen",
+  "hn": "2",
+  "lat": 46.2522195,
+  "lng": 6.9473286,
   "mieter": []
  },
  "monthey|rue des bourguignons|1": {
@@ -567,6 +611,13 @@
   "hn": "7",
   "lat": 46.252727,
   "lng": 6.9480268,
+  "mieter": []
+ },
+ "monthey|place de tübingen|5": {
+  "street": "Place de Tübingen",
+  "hn": "5",
+  "lat": 46.2524958,
+  "lng": 6.9475052,
   "mieter": []
  },
  "monthey|avenue de la gare|5": {
