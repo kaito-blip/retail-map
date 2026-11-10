@@ -1194,14 +1194,14 @@
     "strassen": [
       "Avenue de la Gare",
       "Place Centrale",
-      "Rue du Grand-Verger",
+      "Rue du Grand Verger",
       "Rue de la Poste",
-      "Avenue du Grand-Saint-Bernard"
+      "Rue du Léman"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 10",
-    "offen": "164"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-10",
+    "eigentuemer_quelle": "Register 12 Adressen (ERRES, Swisscanto, SPA, La Foncière, SBB); Anfrageliste: online.vs.ch (Login, 10 pro Tag) und Grundbuchamt Martigny",
+    "offen": "132"
   },
   {
     "kanton": "VD",
