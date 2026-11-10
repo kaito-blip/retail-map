@@ -5,7 +5,8 @@
   "lat": 47.5531111,
   "lng": 7.7947488,
   "mieter": [
-   "PostFinance"
+   "PostFinance",
+   "Migros"
   ]
  },
  "rheinfelden|kaiserstrasse|2": {
@@ -31,7 +32,8 @@
   "lng": 7.7939989,
   "mieter": [
    "Aargauische Kantonalbank",
-   "Pneumologie Nordwest"
+   "Pneumologie Nordwest",
+   "Schwanen Kosmetik & Wellness"
   ]
  },
  "rheinfelden|kaiserstrasse|9": {
@@ -40,6 +42,15 @@
   "lat": 47.5523534,
   "lng": 7.7943003,
   "mieter": []
+ },
+ "rheinfelden|kupfergasse|4": {
+  "street": "Kupfergasse",
+  "hn": "4",
+  "lat": 47.5552666,
+  "lng": 7.794749,
+  "mieter": [
+   "Stork‘s Corner"
+  ]
  },
  "rheinfelden|marktgasse|55": {
   "street": "Marktgasse",
@@ -57,7 +68,8 @@
   "lng": 7.7913336,
   "mieter": [
    "Schuh Müller",
-   "Marionnaud"
+   "Marionnaud",
+   "Massage am Rhy"
   ]
  },
  "rheinfelden|marktgasse|48": {
@@ -65,7 +77,9 @@
   "hn": "48",
   "lat": 47.5550544,
   "lng": 7.7917508,
-  "mieter": []
+  "mieter": [
+   "mundArt"
+  ]
  },
  "rheinfelden|marktgasse|32": {
   "street": "Marktgasse",
@@ -81,7 +95,9 @@
   "hn": "26",
   "lat": 47.5552678,
   "lng": 7.7926581,
-  "mieter": []
+  "mieter": [
+   "Anghel Mode Outlet"
+  ]
  },
  "rheinfelden|marktgasse|24": {
   "street": "Marktgasse",
@@ -117,6 +133,43 @@
    "Eiscafé Mona Lisa"
   ]
  },
+ "rheinfelden|kupfergasse|17": {
+  "street": "Kupfergasse",
+  "hn": "17",
+  "lat": 47.5554834,
+  "lng": 7.7954213,
+  "mieter": [
+   "Galerie Zum Kupfertor"
+  ]
+ },
+ "rheinfelden|kupfergasse|9": {
+  "street": "Kupfergasse",
+  "hn": "9",
+  "lat": 47.555421,
+  "lng": 7.7949761,
+  "mieter": [
+   "Waldmeier"
+  ]
+ },
+ "rheinfelden|kupfergasse|7": {
+  "street": "Kupfergasse",
+  "hn": "7",
+  "lat": 47.5554083,
+  "lng": 7.7948554,
+  "mieter": [
+   "Pizzeria Post",
+   "Von Poll Real Estate"
+  ]
+ },
+ "rheinfelden|geissgasse|15": {
+  "street": "Geissgasse",
+  "hn": "15",
+  "lat": 47.5546157,
+  "lng": 7.7947395,
+  "mieter": [
+   "Zum Kinderland"
+  ]
+ },
  "rheinfelden|marktgasse|10": {
   "street": "Marktgasse",
   "hn": "10",
@@ -124,7 +177,35 @@
   "lng": 7.7936392,
   "mieter": [
    "Stadtbibliothek Rheinfelden",
-   "Brasserie zum Salmen"
+   "Brasserie zum Salmen",
+   "Chicorée",
+   "Toni's Marktplatz"
+  ]
+ },
+ "rheinfelden|geissgasse|9": {
+  "street": "Geissgasse",
+  "hn": "9",
+  "lat": 47.5548768,
+  "lng": 7.7946446,
+  "mieter": [
+   "Froh Natur Unverpacktladen",
+   "Aglio & Olio"
+  ]
+ },
+ "rheinfelden|geissgasse|7": {
+  "street": "Geissgasse",
+  "hn": "7",
+  "lat": 47.5548944,
+  "lng": 7.7946395,
+  "mieter": []
+ },
+ "rheinfelden|geissgasse|6": {
+  "street": "Geissgasse",
+  "hn": "6",
+  "lat": 47.5549124,
+  "lng": 7.7945269,
+  "mieter": [
+   "Claro Weltladen"
   ]
  },
  "rheinfelden|bahnhofstrasse|19": {
@@ -143,7 +224,8 @@
   "lat": 47.5547181,
   "lng": 7.7911154,
   "mieter": [
-   "knecht reisen"
+   "knecht reisen",
+   "Unikat 45"
   ]
  },
  "rheinfelden|fröschweid|13": {
@@ -174,14 +256,18 @@
   "hn": "31",
   "lat": 47.5550557,
   "lng": 7.7923703,
-  "mieter": []
+  "mieter": [
+   "Canottoria"
+  ]
  },
  "rheinfelden|marktgasse|29": {
   "street": "Marktgasse",
   "hn": "29",
   "lat": 47.5547205,
   "lng": 7.7914651,
-  "mieter": []
+  "mieter": [
+   "Altstadt-Papeterie"
+  ]
  },
  "rheinfelden|bahnhofstrasse|26": {
   "street": "Bahnhofstrasse",
@@ -234,6 +320,13 @@
   "hn": "6",
   "lat": 47.5546718,
   "lng": 7.7921364,
+  "mieter": []
+ },
+ "rheinfelden|kupfergasse|2": {
+  "street": "Kupfergasse",
+  "hn": "2",
+  "lat": 47.555261,
+  "lng": 7.7946395,
   "mieter": []
  },
  "rheinfelden|bahnhofstrasse|17": {
@@ -292,13 +385,6 @@
   "lng": 7.7946246,
   "mieter": []
  },
- "rheinfelden|kupfergasse|17": {
-  "street": "Kupfergasse",
-  "hn": "17",
-  "lat": 47.5554119,
-  "lng": 7.7953451,
-  "mieter": []
- },
  "rheinfelden|kupfergasse|10": {
   "street": "Kupfergasse",
   "hn": "10",
@@ -325,7 +411,9 @@
   "hn": "20",
   "lat": 47.5553655,
   "lng": 7.7953747,
-  "mieter": []
+  "mieter": [
+   "Bike Store Rheinfelden"
+  ]
  },
  "rheinfelden|kupfergasse|13": {
   "street": "Kupfergasse",
@@ -348,25 +436,11 @@
   "lng": 7.7947605,
   "mieter": []
  },
- "rheinfelden|kupfergasse|9": {
-  "street": "Kupfergasse",
-  "hn": "9",
-  "lat": 47.5553673,
-  "lng": 7.7949157,
-  "mieter": []
- },
  "rheinfelden|kupfergasse|14": {
   "street": "Kupfergasse",
   "hn": "14",
   "lat": 47.5553206,
   "lng": 7.7950349,
-  "mieter": []
- },
- "rheinfelden|kupfergasse|4": {
-  "street": "Kupfergasse",
-  "hn": "4",
-  "lat": 47.5552947,
-  "lng": 7.7947123,
   "mieter": []
  },
  "rheinfelden|kupfergasse|16": {
@@ -383,13 +457,6 @@
   "lng": 7.7953612,
   "mieter": []
  },
- "rheinfelden|kupfergasse|2": {
-  "street": "Kupfergasse",
-  "hn": "2",
-  "lat": 47.5552893,
-  "lng": 7.7946356,
-  "mieter": []
- },
  "rheinfelden|kupfergasse|6": {
   "street": "Kupfergasse",
   "hn": "6",
@@ -397,12 +464,23 @@
   "lng": 7.7947682,
   "mieter": []
  },
+ "rheinfelden|geissgasse|29": {
+  "street": "Geissgasse",
+  "hn": "29",
+  "lat": 47.5541697,
+  "lng": 7.7949361,
+  "mieter": [
+   "Sole & Sar"
+  ]
+ },
  "rheinfelden|marktgasse|2": {
   "street": "Marktgasse",
   "hn": "2",
   "lat": 47.5554017,
   "lng": 7.7944448,
-  "mieter": []
+  "mieter": [
+   "Papierhandwerk Edith Stollberger"
+  ]
  },
  "rheinfelden|kaiserstrasse|15": {
   "street": "Kaiserstrasse",
@@ -430,7 +508,11 @@
   "hn": "8a",
   "lat": 47.5553918,
   "lng": 7.7941541,
-  "mieter": []
+  "mieter": [
+   "Kronenhof",
+   "Modfreak",
+   "boutique C'est moi"
+  ]
  },
  "rheinfelden|marktgasse|18": {
   "street": "Marktgasse",
@@ -530,7 +612,9 @@
   "hn": "14",
   "lat": 47.554367,
   "lng": 7.7904061,
-  "mieter": []
+  "mieter": [
+   "Confiserie Graf"
+  ]
  },
  "rheinfelden|fröschweid|4": {
   "street": "Fröschweid",
@@ -558,14 +642,18 @@
   "hn": "2",
   "lat": 47.5547076,
   "lng": 7.790681,
-  "mieter": []
+  "mieter": [
+   "Haenggi Immobilien AG"
+  ]
  },
  "rheinfelden|marktgasse|44": {
   "street": "Marktgasse",
   "hn": "44",
   "lat": 47.5551509,
   "lng": 7.7918674,
-  "mieter": []
+  "mieter": [
+   "M&D Advocatur Mediation"
+  ]
  },
  "rheinfelden|marktgasse|34.1": {
   "street": "Marktgasse",
@@ -586,42 +674,55 @@
   "hn": "8",
   "lat": 47.5546886,
   "lng": 7.792009,
-  "mieter": []
+  "mieter": [
+   "Brockenstube"
+  ]
  },
  "rheinfelden|marktgasse|57": {
   "street": "Marktgasse",
   "hn": "57",
   "lat": 47.554785,
   "lng": 7.7913486,
-  "mieter": []
+  "mieter": [
+   "Ventura Gin"
+  ]
  },
  "rheinfelden|marktgasse|34": {
   "street": "Marktgasse",
   "hn": "34",
   "lat": 47.5552119,
   "lng": 7.792275,
-  "mieter": []
+  "mieter": [
+   "Wohnhuus",
+   "Switcher"
+  ]
  },
  "rheinfelden|marktgasse|43": {
   "street": "Marktgasse",
   "hn": "43",
   "lat": 47.5548613,
   "lng": 7.7918648,
-  "mieter": []
+  "mieter": [
+   "Engels & Völkers"
+  ]
  },
  "rheinfelden|marktgasse|60": {
   "street": "Marktgasse",
   "hn": "60",
   "lat": 47.5549108,
   "lng": 7.7909435,
-  "mieter": []
+  "mieter": [
+   "Hotel Schiff am Rhein"
+  ]
  },
  "rheinfelden|marktgasse|46": {
   "street": "Marktgasse",
   "hn": "46",
   "lat": 47.5551341,
   "lng": 7.7917902,
-  "mieter": []
+  "mieter": [
+   "Coiffeur Schäfer"
+  ]
  },
  "rheinfelden|marktgasse|8c": {
   "street": "Marktgasse",
@@ -635,7 +736,9 @@
   "hn": "50",
   "lat": 47.5550997,
   "lng": 7.7916035,
-  "mieter": []
+  "mieter": [
+   "Fashion Corner"
+  ]
  },
  "rheinfelden|marktgasse|38": {
   "street": "Marktgasse",
@@ -656,7 +759,9 @@
   "hn": "47",
   "lat": 47.5548629,
   "lng": 7.791706,
-  "mieter": []
+  "mieter": [
+   "Incognito"
+  ]
  },
  "rheinfelden|marktgasse|10b": {
   "street": "Marktgasse",
@@ -670,42 +775,54 @@
   "hn": "59",
   "lat": 47.5547455,
   "lng": 7.7912463,
-  "mieter": []
+  "mieter": [
+   "André & Angelo"
+  ]
  },
  "rheinfelden|marktgasse|52": {
   "street": "Marktgasse",
   "hn": "52",
   "lat": 47.5550691,
   "lng": 7.7914997,
-  "mieter": []
+  "mieter": [
+   "Strickeria gomitolo"
+  ]
  },
  "rheinfelden|marktgasse|30": {
   "street": "Marktgasse",
   "hn": "30",
   "lat": 47.5553101,
   "lng": 7.7924429,
-  "mieter": []
+  "mieter": [
+   "trag-werke"
+  ]
  },
  "rheinfelden|marktgasse|28": {
   "street": "Marktgasse",
   "hn": "28",
   "lat": 47.5552932,
   "lng": 7.792549,
-  "mieter": []
+  "mieter": [
+   "Accessoire Cuir"
+  ]
  },
  "rheinfelden|marktgasse|35": {
   "street": "Marktgasse",
   "hn": "35",
   "lat": 47.5549407,
   "lng": 7.7920936,
-  "mieter": []
+  "mieter": [
+   "Coucou"
+  ]
  },
  "rheinfelden|marktgasse|41": {
   "street": "Marktgasse",
   "hn": "41",
   "lat": 47.5549138,
   "lng": 7.7919348,
-  "mieter": []
+  "mieter": [
+   "Ihr Schuhmacher"
+  ]
  },
  "rheinfelden|marktgasse|12": {
   "street": "Marktgasse",
@@ -719,6 +836,29 @@
   "hn": "33",
   "lat": 47.5549525,
   "lng": 7.7921675,
+  "mieter": [
+   "Kinderkram"
+  ]
+ },
+ "rheinfelden|geissgasse|10": {
+  "street": "Geissgasse",
+  "hn": "10",
+  "lat": 47.5547511,
+  "lng": 7.7945007,
+  "mieter": []
+ },
+ "rheinfelden|geissgasse|11": {
+  "street": "Geissgasse",
+  "hn": "11",
+  "lat": 47.5548198,
+  "lng": 7.7947942,
+  "mieter": []
+ },
+ "rheinfelden|geissgasse|12": {
+  "street": "Geissgasse",
+  "hn": "12",
+  "lat": 47.5546858,
+  "lng": 7.7945192,
   "mieter": []
  },
  "rheinfelden|marktgasse|17": {
@@ -726,13 +866,24 @@
   "hn": "17",
   "lat": 47.555149,
   "lng": 7.7930721,
-  "mieter": []
+  "mieter": [
+   "Gambrinus"
+  ]
  },
  "rheinfelden|marktgasse|3": {
   "street": "Marktgasse",
   "hn": "3",
   "lat": 47.5551654,
   "lng": 7.7938184,
+  "mieter": [
+   "habanito - die Lounge für Geniesser"
+  ]
+ },
+ "rheinfelden|geissgasse|5": {
+  "street": "Geissgasse",
+  "hn": "5",
+  "lat": 47.5549758,
+  "lng": 7.7947192,
   "mieter": []
  },
  "rheinfelden|marktgasse|19": {
@@ -740,7 +891,9 @@
   "hn": "19",
   "lat": 47.555138,
   "lng": 7.7929945,
-  "mieter": []
+  "mieter": [
+   "Ahorn Bestattungen"
+  ]
  },
  "rheinfelden|marktgasse|27": {
   "street": "Marktgasse",
@@ -754,27 +907,40 @@
   "hn": "23",
   "lat": 47.5550822,
   "lng": 7.7928048,
-  "mieter": []
+  "mieter": [
+   "Eigen-Art"
+  ]
  },
  "rheinfelden|marktgasse|25": {
   "street": "Marktgasse",
   "hn": "25",
   "lat": 47.555097,
   "lng": 7.7927259,
-  "mieter": []
+  "mieter": [
+   "MHW"
+  ]
  },
  "rheinfelden|marktgasse|21": {
   "street": "Marktgasse",
   "hn": "21",
   "lat": 47.5551503,
   "lng": 7.7929068,
-  "mieter": []
+  "mieter": [
+   "Thommen"
+  ]
  },
  "rheinfelden|marktgasse|15": {
   "street": "Marktgasse",
   "hn": "15",
   "lat": 47.5551416,
   "lng": 7.7931513,
+  "mieter": []
+ },
+ "rheinfelden|geissgasse|8": {
+  "street": "Geissgasse",
+  "hn": "8",
+  "lat": 47.5548172,
+  "lng": 7.7944814,
   "mieter": []
  },
  "rheinfelden|marktgasse|1": {
@@ -784,12 +950,30 @@
   "lng": 7.7941556,
   "mieter": []
  },
+ "rheinfelden|geissgasse|13": {
+  "street": "Geissgasse",
+  "hn": "13",
+  "lat": 47.5547399,
+  "lng": 7.794778,
+  "mieter": [
+   "David Theill Architektur GmbH"
+  ]
+ },
+ "rheinfelden|geissgasse|14": {
+  "street": "Geissgasse",
+  "hn": "14",
+  "lat": 47.5546303,
+  "lng": 7.7945415,
+  "mieter": []
+ },
  "rheinfelden|bahnhofstrasse|7": {
   "street": "Bahnhofstrasse",
   "hn": "7",
   "lat": 47.5545491,
   "lng": 7.7921795,
-  "mieter": []
+  "mieter": [
+   "Feinbäckerei Rohrer"
+  ]
  },
  "rheinfelden|bahnhofstrasse|13": {
   "street": "Bahnhofstrasse",
@@ -798,6 +982,15 @@
   "lng": 7.792198,
   "mieter": []
  },
+ "rheinfelden|geissgasse|27": {
+  "street": "Geissgasse",
+  "hn": "27",
+  "lat": 47.5542592,
+  "lng": 7.7949786,
+  "mieter": [
+   "Textilpflege 27"
+  ]
+ },
  "rheinfelden|bahnhofstrasse|14": {
   "street": "Bahnhofstrasse",
   "hn": "14",
@@ -805,68 +998,118 @@
   "lng": 7.7918128,
   "mieter": []
  },
+ "rheinfelden|geissgasse|23": {
+  "street": "Geissgasse",
+  "hn": "23",
+  "lat": 47.5543611,
+  "lng": 7.7949747,
+  "mieter": []
+ },
  "rheinfelden|bahnhofstrasse|12": {
   "street": "Bahnhofstrasse",
   "hn": "12",
   "lat": 47.5542834,
   "lng": 7.7918723,
-  "mieter": []
+  "mieter": [
+   "Prachmais Nähwerkstatt"
+  ]
  },
  "rheinfelden|bahnhofstrasse|10": {
   "street": "Bahnhofstrasse",
   "hn": "10",
   "lat": 47.554382,
   "lng": 7.7918741,
+  "mieter": [
+   "Future Beauty"
+  ]
+ },
+ "rheinfelden|geissgasse|21": {
+  "street": "Geissgasse",
+  "hn": "21",
+  "lat": 47.5544108,
+  "lng": 7.7949225,
+  "mieter": [
+   "Haus zur Trommel"
+  ]
+ },
+ "rheinfelden|geissgasse|25": {
+  "street": "Geissgasse",
+  "hn": "25",
+  "lat": 47.5543152,
+  "lng": 7.7949637,
   "mieter": []
+ },
+ "rheinfelden|geissgasse|19": {
+  "street": "Geissgasse",
+  "hn": "19",
+  "lat": 47.5544895,
+  "lng": 7.794901,
+  "mieter": [
+   "Sunshine Pizza"
+  ]
  },
  "rheinfelden|bahnhofstrasse|11": {
   "street": "Bahnhofstrasse",
   "hn": "11",
   "lat": 47.5544276,
   "lng": 7.7921898,
-  "mieter": []
+  "mieter": [
+   "Lichtblick"
+  ]
  },
  "rheinfelden|marktgasse|7": {
   "street": "Marktgasse",
   "hn": "7",
   "lat": 47.5551511,
   "lng": 7.7936066,
-  "mieter": []
+  "mieter": [
+   "Carabu Geschenkboutique Und Cafe"
+  ]
  },
  "rheinfelden|marktgasse|5": {
   "street": "Marktgasse",
   "hn": "5",
   "lat": 47.5551318,
   "lng": 7.7936813,
-  "mieter": []
+  "mieter": [
+   "Altstadt Art Huus"
+  ]
  },
  "rheinfelden|fröschweid|9": {
   "street": "Fröschweid",
   "hn": "9",
   "lat": 47.5543612,
   "lng": 7.7907547,
-  "mieter": []
+  "mieter": [
+   "Floratina"
+  ]
  },
  "rheinfelden|marktgasse|22": {
   "street": "Marktgasse",
   "hn": "22",
   "lat": 47.5553182,
   "lng": 7.7927799,
-  "mieter": []
+  "mieter": [
+   "Cameleon"
+  ]
  },
  "rheinfelden|marktgasse|6": {
   "street": "Marktgasse",
   "hn": "6",
   "lat": 47.555376,
   "lng": 7.7943081,
-  "mieter": []
+  "mieter": [
+   "Jetzer Immobilien GmbH"
+  ]
  },
  "rheinfelden|marktgasse|4": {
   "street": "Marktgasse",
   "hn": "4",
   "lat": 47.555373,
   "lng": 7.7943801,
-  "mieter": []
+  "mieter": [
+   "Zum Meerfräulein"
+  ]
  },
  "rheinfelden|fröschweid|12": {
   "street": "Fröschweid",
@@ -901,14 +1144,18 @@
   "hn": "11",
   "lat": 47.5541195,
   "lng": 7.7906797,
-  "mieter": []
+  "mieter": [
+   "Kasto"
+  ]
  },
  "rheinfelden|fröschweid|5": {
   "street": "Fröschweid",
   "hn": "5",
   "lat": 47.5544653,
   "lng": 7.7908467,
-  "mieter": []
+  "mieter": [
+   "Nathalie Teppich-Galerie"
+  ]
  },
  "rheinfelden|fröschweid|7": {
   "street": "Fröschweid",
@@ -950,14 +1197,18 @@
   "hn": "40",
   "lat": 47.555179,
   "lng": 7.7919961,
-  "mieter": []
+  "mieter": [
+   "Buchoase Am Rhy"
+  ]
  },
  "rheinfelden|marktgasse|42": {
   "street": "Marktgasse",
   "hn": "42",
   "lat": 47.5551648,
   "lng": 7.7919304,
-  "mieter": []
+  "mieter": [
+   "Fossilien Und Mineralien"
+  ]
  },
  "rheinfelden|marktgasse|54": {
   "street": "Marktgasse",
@@ -992,14 +1243,18 @@
   "hn": "39",
   "lat": 47.5549133,
   "lng": 7.7919945,
-  "mieter": []
+  "mieter": [
+   "Evolet"
+  ]
  },
  "rheinfelden|marktgasse|45": {
   "street": "Marktgasse",
   "hn": "45",
   "lat": 47.5548437,
   "lng": 7.7917869,
-  "mieter": []
+  "mieter": [
+   "Crêperie"
+  ]
  },
  "rheinfelden|marktgasse|53": {
   "street": "Marktgasse",
@@ -1013,14 +1268,18 @@
   "hn": "15",
   "lat": 47.554052,
   "lng": 7.7920685,
-  "mieter": []
+  "mieter": [
+   "Different Digital"
+  ]
  },
  "rheinfelden|marktgasse|11": {
   "street": "Marktgasse",
   "hn": "11",
   "lat": 47.5551344,
   "lng": 7.7933374,
-  "mieter": []
+  "mieter": [
+   "Talk About Women"
+  ]
  },
  "rheinfelden|bahnhofstrasse|9": {
   "street": "Bahnhofstrasse",
@@ -1029,12 +1288,49 @@
   "lng": 7.7921836,
   "mieter": []
  },
+ "rheinfelden|geissgasse|17": {
+  "street": "Geissgasse",
+  "hn": "17",
+  "lat": 47.5545889,
+  "lng": 7.7948449,
+  "mieter": []
+ },
+ "rheinfelden|geissgasse|31": {
+  "street": "Geissgasse",
+  "hn": "31",
+  "lat": 47.554066,
+  "lng": 7.7950162,
+  "mieter": []
+ },
+ "rheinfelden|geissgasse|20": {
+  "street": "Geissgasse",
+  "hn": "20",
+  "lat": 47.5542478,
+  "lng": 7.7946988,
+  "mieter": [
+   "Sasha Stehli Med. Massage"
+  ]
+ },
+ "rheinfelden|geissgasse|18": {
+  "street": "Geissgasse",
+  "hn": "18",
+  "lat": 47.5543395,
+  "lng": 7.7946616,
+  "mieter": []
+ },
  "rheinfelden|kaiserstrasse|4": {
   "street": "Kaiserstrasse",
   "hn": "4",
   "lat": 47.5532794,
   "lng": 7.7949853,
-  "mieter": []
+  "mieter": [
+   "Bistro Bovi",
+   "Themis AG",
+   "Toni's Ecke",
+   "Swisscom",
+   "spin on nature",
+   "Theoterium Post"
+  ]
  },
  "rheinfelden|kaiserstrasse|1": {
   "street": "Kaiserstrasse",

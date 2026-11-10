@@ -1,7 +1,24 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
-owner;olten|baslerstrasse|144;Kanton Solothurn;;"Eigentümer lt. Kanton Solothurn (HBA): OGD Kanton Solothurn Immobilienportfolio (ch.so.hba.immobilienportfolio), Grundstück; Adresse aus GWR BFS (EGID/EGRID), VV und FV, ohne AM/SV (19.03.2026), E-GRID CH793299690672"
-owner;olten|baslerstrasse|160;Kanton Solothurn;;"Eigentümer lt. Kanton Solothurn (HBA): OGD Kanton Solothurn Immobilienportfolio (ch.so.hba.immobilienportfolio), Grundstück; Adresse aus GWR BFS (EGID/EGRID), VV und FV, ohne AM/SV (19.03.2026), E-GRID CH793299690672"
-owner;solothurn|hauptgasse|70;Kanton Solothurn;;"Eigentümer lt. Kanton Solothurn (HBA): OGD Kanton Solothurn Immobilienportfolio (ch.so.hba.immobilienportfolio), Gebäude; Adresse aus GWR BFS (EGID/EGRID), VV und FV, ohne AM/SV (19.03.2026), E-GRID CH940632702543"
+owner;buchs sg|churerstrasse|80;Pensionskasse Thurgau;;Eigentümer lt. PK Thurgau: Website «Immobilienübersicht mit Bewirtschafter» (Abruf 10.11.2026) (10.11.2026), E-GRID CH698477753814
+owner;buchs sg|churerstrasse|80a;Pensionskasse Thurgau;;Eigentümer lt. PK Thurgau: Website «Immobilienübersicht mit Bewirtschafter» (Abruf 10.11.2026) (10.11.2026), E-GRID CH698477753814
+owner;frauenfeld|zürcherstrasse|192;Pensionskasse Thurgau;;Eigentümer lt. PK Thurgau: Website «Immobilienübersicht mit Bewirtschafter» (Abruf 10.11.2026) (10.11.2026), E-GRID CH912991807722
+owner;frauenfeld|zürcherstrasse|194;Pensionskasse Thurgau;;Eigentümer lt. PK Thurgau: Website «Immobilienübersicht mit Bewirtschafter» (Abruf 10.11.2026) (10.11.2026), E-GRID CH912991807722
+owner;frauenfeld|zürcherstrasse|196;Pensionskasse Thurgau;;Eigentümer lt. PK Thurgau: Website «Immobilienübersicht mit Bewirtschafter» (Abruf 10.11.2026) (10.11.2026), E-GRID CH912991807722
+owner;kreuzlingen|hauptstrasse|45;Pensionskasse Thurgau;;Eigentümer lt. PK Thurgau: Website «Immobilienübersicht mit Bewirtschafter» (Abruf 10.11.2026) (10.11.2026), E-GRID CH874178761717
+owner;st. gallen|marktgasse|3;Pensionskasse Thurgau;;Eigentümer lt. PK Thurgau: Website «Immobilienübersicht mit Bewirtschafter» (Abruf 10.11.2026) (10.11.2026), E-GRID CH398777075924
+owner;weinfelden|marktplatz|3;Pensionskasse Thurgau;;Eigentümer lt. PK Thurgau: Website «Immobilienübersicht mit Bewirtschafter» (Abruf 10.11.2026), im Dokument «Markplatz» (10.11.2026), E-GRID CH607706996616
+owner;weinfelden|marktplatz|5;Pensionskasse Thurgau;;Eigentümer lt. PK Thurgau: Website «Immobilienübersicht mit Bewirtschafter» (Abruf 10.11.2026), im Dokument «Markplatz» (10.11.2026), E-GRID CH607706996616
+owner;winterthur|marktgasse|1;Zuger Pensionskasse;;Eigentümer lt. Zuger PK: Website «Liegenschaftenverzeichnis» (Abruf 10.11.2026) (10.11.2026), E-GRID CH510893207912
+owner;winterthur|obertor|11;Stadt Winterthur;;Eigentümer lt. Stadt Winterthur: Stadtratsbeschluss SR.23.406-1 vom 07.06.2023, Übertrag ins Finanzvermögen, Kat.-Nrn. ST7731, ST7660, ST10235, ST10236, ST7342 (07.06.2023), E-GRID CH710866207891
+owner;winterthur|obertor|13;Stadt Winterthur;;Eigentümer lt. Stadt Winterthur: Stadtratsbeschluss SR.23.406-1 vom 07.06.2023, Übertrag ins Finanzvermögen, Kat.-Nrn. ST7731, ST7660, ST10235, ST10236, ST7342 (07.06.2023), E-GRID CH710866207891
+owner;winterthur|obertor|15;Stadt Winterthur;;Eigentümer lt. Stadt Winterthur: Stadtratsbeschluss SR.23.406-1 vom 07.06.2023, Übertrag ins Finanzvermögen, Kat.-Nrn. ST7731, ST7660, ST10235, ST10236, ST7342 (07.06.2023), E-GRID CH632079089526
+owner;winterthur|obertor|17;Stadt Winterthur;;Eigentümer lt. Stadt Winterthur: Stadtratsbeschluss SR.23.406-1 vom 07.06.2023, Übertrag ins Finanzvermögen, Kat.-Nrn. ST7731, ST7660, ST10235, ST10236, ST7342 (07.06.2023), E-GRID CH732078086630
+owner;winterthur|obertor|17a;Stadt Winterthur;;Eigentümer lt. Stadt Winterthur: Stadtratsbeschluss SR.23.406-1 vom 07.06.2023, Übertrag ins Finanzvermögen, Kat.-Nrn. ST7731, ST7660, ST10235, ST10236, ST7342 (07.06.2023), E-GRID CH632079089526
+owner;zug|baarerstrasse|19;Zuger Pensionskasse;;Eigentümer lt. Zuger PK: Website «Liegenschaftenverzeichnis» (Abruf 10.11.2026) (10.11.2026), E-GRID CH716573067487
+owner;zug|baarerstrasse|21;Zuger Pensionskasse;;Eigentümer lt. Zuger PK: Website «Liegenschaftenverzeichnis» (Abruf 10.11.2026) (10.11.2026), E-GRID CH716573067487
+owner;zug|baarerstrasse|23;Zuger Pensionskasse;;Eigentümer lt. Zuger PK: Website «Liegenschaftenverzeichnis» (Abruf 10.11.2026) (10.11.2026), E-GRID CH716573067487
+owner;zug|bahnhofstrasse|10;Zuger Pensionskasse;;Eigentümer lt. Zuger PK: Website «Liegenschaftenverzeichnis» (Abruf 10.11.2026) (10.11.2026), E-GRID CH757606746568
+owner;zug|bahnhofstrasse|8;Zuger Pensionskasse;;Eigentümer lt. Zuger PK: Website «Liegenschaftenverzeichnis» (Abruf 10.11.2026) (10.11.2026), E-GRID CH757606746568
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -367,6 +384,8 @@ bestätigt;nyon|rue de la morâche|6;;Swiss Prime Anlagestiftung, Anlagegruppe S
 bestätigt;nyon|rue de la morâche|8;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Léman Residential «Foncipars»;
 bestätigt;nyon|rue de rive|39;;Edmond de Rothschild Real Estate SICAV (ERRES), Compartiment Swiss;
 bestätigt;nyon|rue de rive|46;;Edmond de Rothschild Real Estate SICAV (ERRES), Compartiment Swiss;
+bestätigt;olten|baslerstrasse|144;;Kanton Solothurn;
+bestätigt;olten|baslerstrasse|160;;Kanton Solothurn;
 bestätigt;olten|baslerstrasse|37;;VERIT Investment Management AG für Raiffeisen Futura Immo Fonds;
 bestätigt;olten|baslerstrasse|9;;ECOREAL Schweizerische Immobilien Anlagestiftung, Anlagegruppe SUISSECORE PLUS;
 bestätigt;olten|kirchgasse|29;;ECOREAL Schweizerische Immobilien Anlagestiftung, Anlagegruppe SUISSECORE PLUS;
@@ -407,6 +426,7 @@ bestätigt;sion|rue de lausanne|49c;;UBS Fund Management (Switzerland) AG für U
 bestätigt;sion|rue de lausanne|49d;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Léman Residential «Foncipars»;
 bestätigt;solothurn|hauptgasse|59;;Swiss Prime Site Solutions AG für Swiss Prime Site Solutions Investment Fund Commercial;
 bestätigt;solothurn|hauptgasse|64;;Swiss Prime Anlagestiftung, Anlagegruppe SPA Immobilien Schweiz;
+bestätigt;solothurn|hauptgasse|70;;Kanton Solothurn;
 bestätigt;st. gallen|multergasse|22;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Direct Mixed Urban;
 bestätigt;st. gallen|multergasse|41;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;
 bestätigt;st. gallen|neugasse|1;;Stadt St.Gallen;
