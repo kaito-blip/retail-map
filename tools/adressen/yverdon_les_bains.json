@@ -14,7 +14,17 @@
   "lat": 46.7787566,
   "lng": 6.6411015,
   "mieter": [
-   "Giga Tacos"
+   "Giga Tacos",
+   "Nikita Boutique"
+  ]
+ },
+ "yverdon-les-bains|rue du four|1": {
+  "street": "Rue du Four",
+  "hn": "1",
+  "lat": 46.7784326,
+  "lng": 6.6403862,
+  "mieter": [
+   "GERBER WYSS Restaurant"
   ]
  },
  "yverdon-les-bains|rue de la plaine|2": {
@@ -24,6 +34,16 @@
   "lng": 6.6419145,
   "mieter": [
    "Laiterie du Château"
+  ]
+ },
+ "yverdon-les-bains|rue du four|31": {
+  "street": "Rue du Four",
+  "hn": "31",
+  "lat": 46.7790571,
+  "lng": 6.638116,
+  "mieter": [
+   "Coiffure Daniela",
+   "Trafic"
   ]
  },
  "yverdon-les-bains|rue du milieu|3": {
@@ -40,7 +60,9 @@
   "hn": "42",
   "lat": 46.7800898,
   "lng": 6.6384914,
-  "mieter": []
+  "mieter": [
+   "Amavita"
+  ]
  },
  "yverdon-les-bains|rue du lac|37": {
   "street": "Rue du Lac",
@@ -55,7 +77,9 @@
   "lat": 46.776514,
   "lng": 6.6465009,
   "mieter": [
-   "Le Prestige"
+   "Le Prestige",
+   "Kiosque de la croisée",
+   "Photo Daniel Boesch"
   ]
  },
  "yverdon-les-bains|rue de la plaine|67": {
@@ -64,7 +88,9 @@
   "lat": 46.7767687,
   "lng": 6.6468591,
   "mieter": [
+   "Le Csarda",
    "Alexandre Pâtisserie Confiserie Boulangerie",
+   "Coiffure chic & trendy",
    "Le Folie's"
   ]
  },
@@ -103,6 +129,7 @@
   "lng": 6.6427854,
   "mieter": [
    "Etude d'avocat Merenyi",
+   "Permanence juridique",
    "Alternatives et Transitions Coaching"
   ]
  },
@@ -122,6 +149,15 @@
   "lng": 6.6423037,
   "mieter": [
    "Kalaya"
+  ]
+ },
+ "yverdon-les-bains|rue du four|3": {
+  "street": "Rue du Four",
+  "hn": "3",
+  "lat": 46.7784328,
+  "lng": 6.6402436,
+  "mieter": [
+   "Dahlak Café Restaurant"
   ]
  },
  "yverdon-les-bains|rue du milieu|18": {
@@ -220,6 +256,7 @@
   "lat": 46.7802572,
   "lng": 6.6382204,
   "mieter": [
+   "Alain Afflelou",
    "Au salon de Sarah"
   ]
  },
@@ -247,7 +284,8 @@
   "lat": 46.7789722,
   "lng": 6.6390787,
   "mieter": [
-   "Belle allure"
+   "Belle allure",
+   "Tiffany's Centre de beauté"
   ]
  },
  "yverdon-les-bains|rue du milieu|14": {
@@ -256,6 +294,16 @@
   "lat": 46.7788744,
   "lng": 6.6395862,
   "mieter": [
+   "Ateapic"
+  ]
+ },
+ "yverdon-les-bains|rue du four|29": {
+  "street": "Rue du Four",
+  "hn": "29",
+  "lat": 46.7789127,
+  "lng": 6.6381961,
+  "mieter": [
+   "L'Espace Chocolat",
    "Ateapic"
   ]
  },
@@ -277,6 +325,53 @@
    "CSS Assurance"
   ]
  },
+ "yverdon-les-bains|rue du four|30": {
+  "street": "Rue du Four",
+  "hn": "30",
+  "lat": 46.7787505,
+  "lng": 6.6386867,
+  "mieter": [
+   "Gentlemen's Barber Club",
+   "Plénitude"
+  ]
+ },
+ "yverdon-les-bains|rue du four|24": {
+  "street": "Rue du Four",
+  "hn": "24",
+  "lat": 46.778635,
+  "lng": 6.6390805,
+  "mieter": [
+   "Ferreira Assurances et crédits"
+  ]
+ },
+ "yverdon-les-bains|rue du four|23bis": {
+  "street": "Rue du Four",
+  "hn": "23bis",
+  "lat": 46.7785593,
+  "lng": 6.6388129,
+  "mieter": [
+   "Furioux Audition"
+  ]
+ },
+ "yverdon-les-bains|rue du four|13": {
+  "street": "Rue du Four",
+  "hn": "13",
+  "lat": 46.778467,
+  "lng": 6.639664,
+  "mieter": [
+   "Espace Coiffure",
+   "Chez Lili-Rose"
+  ]
+ },
+ "yverdon-les-bains|rue du four|15": {
+  "street": "Rue du Four",
+  "hn": "15",
+  "lat": 46.7784774,
+  "lng": 6.6395556,
+  "mieter": [
+   "Gerber Wyss Boulangerie-Chocolaterie"
+  ]
+ },
  "yverdon-les-bains|rue du milieu|15": {
   "street": "Rue du Milieu",
   "hn": "15",
@@ -284,6 +379,24 @@
   "lng": 6.6396983,
   "mieter": [
    "Au Bon Temps"
+  ]
+ },
+ "yverdon-les-bains|rue du four|5": {
+  "street": "Rue du Four",
+  "hn": "5",
+  "lat": 46.7784382,
+  "lng": 6.6401505,
+  "mieter": [
+   "Cordonnerie Saint-Danielle"
+  ]
+ },
+ "yverdon-les-bains|rue du four|12": {
+  "street": "Rue du Four",
+  "hn": "12",
+  "lat": 46.778556,
+  "lng": 6.6396918,
+  "mieter": [
+   "High Creek Premium Vapor"
   ]
  },
  "yverdon-les-bains|rue du milieu|7": {
@@ -310,7 +423,17 @@
   "lat": 46.7792745,
   "lng": 6.6375438,
   "mieter": [
-   "Nadia beauty & nails"
+   "Nadia beauty & nails",
+   "AZ Mode"
+  ]
+ },
+ "yverdon-les-bains|rue du four|21": {
+  "street": "Rue du Four",
+  "hn": "21",
+  "lat": 46.7785124,
+  "lng": 6.6391682,
+  "mieter": [
+   "Bâtiment l'Etoile"
   ]
  },
  "yverdon-les-bains|rue de la plaine|30": {
@@ -318,7 +441,10 @@
   "hn": "30",
   "lat": 46.7773858,
   "lng": 6.6434836,
-  "mieter": []
+  "mieter": [
+   "Le Tonneau Verre",
+   "Clé 7"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|32": {
   "street": "Rue de la Plaine",
@@ -391,14 +517,18 @@
   "hn": "2",
   "lat": 46.7784267,
   "lng": 6.6406497,
-  "mieter": []
+  "mieter": [
+   "Hôtel de Ville"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|6": {
   "street": "Rue de la Plaine",
   "hn": "6",
   "lat": 46.7778087,
   "lng": 6.6420414,
-  "mieter": []
+  "mieter": [
+   "Cœur d'Asie"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|4": {
   "street": "Rue de la Plaine",
@@ -425,6 +555,15 @@
    "Barbershop"
   ]
  },
+ "yverdon-les-bains|rue du four|20": {
+  "street": "Rue du Four",
+  "hn": "20",
+  "lat": 46.7786087,
+  "lng": 6.6393508,
+  "mieter": [
+   "Metro Brico Dodo"
+  ]
+ },
  "yverdon-les-bains|place pestalozzi|16": {
   "street": "Place Pestalozzi",
   "hn": "16",
@@ -437,7 +576,9 @@
   "hn": "15",
   "lat": 46.778415,
   "lng": 6.6416282,
-  "mieter": []
+  "mieter": [
+   "L'Echandole"
+  ]
  },
  "yverdon-les-bains|place pestalozzi|3": {
   "street": "Place Pestalozzi",
@@ -483,6 +624,13 @@
    "Allianz"
   ]
  },
+ "yverdon-les-bains|rue du four|38": {
+  "street": "Rue du Four",
+  "hn": "38",
+  "lat": 46.7788996,
+  "lng": 6.6383919,
+  "mieter": []
+ },
  "yverdon-les-bains|rue du lac|35": {
   "street": "Rue du Lac",
   "hn": "35",
@@ -495,14 +643,22 @@
   "hn": "44",
   "lat": 46.7801292,
   "lng": 6.6384207,
-  "mieter": []
+  "mieter": [
+   "Librairie l'étage",
+   "AGI Fiduciaire Et Immobilier SA"
+  ]
  },
  "yverdon-les-bains|rue du lac|46": {
   "street": "Rue du Lac",
   "hn": "46",
   "lat": 46.7801711,
   "lng": 6.6383487,
-  "mieter": []
+  "mieter": [
+   "Bessa",
+   "Compo Pizza",
+   "Carnaby",
+   "6 bar"
+  ]
  },
  "yverdon-les-bains|rue du lac|49": {
   "street": "Rue du Lac",
@@ -527,6 +683,16 @@
   "lng": 6.6431364,
   "mieter": [
    "Mangiabene"
+  ]
+ },
+ "yverdon-les-bains|rue du four|9": {
+  "street": "Rue du Four",
+  "hn": "9",
+  "lat": 46.7784544,
+  "lng": 6.6397744,
+  "mieter": [
+   "Atelier Sahli & Kummer - Architectes d'intérieur",
+   "Freak - Boutique d'objets"
   ]
  },
  "yverdon-les-bains|rue du milieu|47": {
@@ -590,6 +756,15 @@
    "La Lisière"
   ]
  },
+ "yverdon-les-bains|rue du four|7": {
+  "street": "Rue du Four",
+  "hn": "7",
+  "lat": 46.7784431,
+  "lng": 6.6400061,
+  "mieter": [
+   "Coiffure Tendance"
+  ]
+ },
  "yverdon-les-bains|rue du milieu|30": {
   "street": "Rue du Milieu",
   "hn": "30",
@@ -629,6 +804,22 @@
   "hn": "5",
   "lat": 46.7785956,
   "lng": 6.6401069,
+  "mieter": [
+   "Zanotta Mode"
+  ]
+ },
+ "yverdon-les-bains|rue du four|22": {
+  "street": "Rue du Four",
+  "hn": "22",
+  "lat": 46.778657,
+  "lng": 6.6392341,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|8": {
+  "street": "Rue du Four",
+  "hn": "8",
+  "lat": 46.7785652,
+  "lng": 6.6399585,
   "mieter": []
  },
  "yverdon-les-bains|rue du milieu|19": {
@@ -645,20 +836,69 @@
   "lng": 6.6397802,
   "mieter": []
  },
+ "yverdon-les-bains|rue du four|4bis": {
+  "street": "Rue du Four",
+  "hn": "4bis",
+  "lat": 46.7785324,
+  "lng": 6.6402131,
+  "mieter": [
+   "Studio",
+   "Institut Belleza"
+  ]
+ },
+ "yverdon-les-bains|rue du four|10": {
+  "street": "Rue du Four",
+  "hn": "10",
+  "lat": 46.7785732,
+  "lng": 6.6398572,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|18": {
+  "street": "Rue du Four",
+  "hn": "18",
+  "lat": 46.7786193,
+  "lng": 6.6395258,
+  "mieter": [
+   "Shana Institut",
+   "Les biscuits du petit Jules, Gerber Wyss"
+  ]
+ },
+ "yverdon-les-bains|rue du four|4": {
+  "street": "Rue du Four",
+  "hn": "4",
+  "lat": 46.7785271,
+  "lng": 6.6402999,
+  "mieter": []
+ },
  "yverdon-les-bains|rue du casino|9": {
   "street": "Rue du Casino",
   "hn": "9",
   "lat": 46.7798551,
   "lng": 6.6422292,
   "mieter": [
+   "La Grange",
    "Théâtre Benno Besson"
   ]
+ },
+ "yverdon-les-bains|rue du four|25": {
+  "street": "Rue du Four",
+  "hn": "25",
+  "lat": 46.7785304,
+  "lng": 6.6383889,
+  "mieter": []
  },
  "yverdon-les-bains|place pestalozzi|14": {
   "street": "Place Pestalozzi",
   "hn": "14",
   "lat": 46.7786758,
   "lng": 6.6420005,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|28": {
+  "street": "Rue du Four",
+  "hn": "28",
+  "lat": 46.7787267,
+  "lng": 6.6388713,
   "mieter": []
  },
  "yverdon-les-bains|rue du milieu|41": {
@@ -673,13 +913,25 @@
   "hn": "16",
   "lat": 46.7789752,
   "lng": 6.6395377,
-  "mieter": []
+  "mieter": [
+   "Boutique d'Or"
+  ]
  },
  "yverdon-les-bains|rue du lac|7": {
   "street": "Rue du Lac",
   "hn": "7",
   "lat": 46.7790734,
   "lng": 6.6399335,
+  "mieter": [
+   "Berdoz Optic",
+   "Intimissimi"
+  ]
+ },
+ "yverdon-les-bains|rue du four|27": {
+  "street": "Rue du Four",
+  "hn": "27",
+  "lat": 46.7786933,
+  "lng": 6.6381334,
   "mieter": []
  },
  "yverdon-les-bains|place pestalozzi|13": {
@@ -710,14 +962,19 @@
   "hn": "17",
   "lat": 46.7792102,
   "lng": 6.6395948,
-  "mieter": []
+  "mieter": [
+   "Boucherie Robellaz"
+  ]
  },
  "yverdon-les-bains|rue du lac|43": {
   "street": "Rue du Lac",
   "hn": "43",
   "lat": 46.7799699,
   "lng": 6.6384322,
-  "mieter": []
+  "mieter": [
+   "Kiosque",
+   "Manu"
+  ]
  },
  "yverdon-les-bains|rue du milieu|24b": {
   "street": "Rue du Milieu",
@@ -731,7 +988,9 @@
   "hn": "15",
   "lat": 46.7791828,
   "lng": 6.6396554,
-  "mieter": []
+  "mieter": [
+   "Promod"
+  ]
  },
  "yverdon-les-bains|rue du lac|11": {
   "street": "Rue du Lac",
@@ -745,21 +1004,27 @@
   "hn": "49",
   "lat": 46.7790822,
   "lng": 6.6378025,
-  "mieter": []
+  "mieter": [
+   "Couture-retouches"
+  ]
  },
  "yverdon-les-bains|rue du milieu|24": {
   "street": "Rue du Milieu",
   "hn": "24",
   "lat": 46.7790885,
   "lng": 6.6391973,
-  "mieter": []
+  "mieter": [
+   "Musique & Son"
+  ]
  },
  "yverdon-les-bains|rue du lac|5": {
   "street": "Rue du Lac",
   "hn": "5",
   "lat": 46.7790089,
   "lng": 6.6400938,
-  "mieter": []
+  "mieter": [
+   "United Color of Benetton"
+  ]
  },
  "yverdon-les-bains|rue du milieu|8": {
   "street": "Rue du Milieu",
@@ -768,19 +1033,30 @@
   "lng": 6.6399751,
   "mieter": []
  },
+ "yverdon-les-bains|rue du four|23": {
+  "street": "Rue du Four",
+  "hn": "23",
+  "lat": 46.7784156,
+  "lng": 6.6389052,
+  "mieter": []
+ },
  "yverdon-les-bains|rue du lac|13": {
   "street": "Rue du Lac",
   "hn": "13",
   "lat": 46.7791578,
   "lng": 6.6397202,
-  "mieter": []
+  "mieter": [
+   "Pharmacie du Lac"
+  ]
  },
  "yverdon-les-bains|rue du milieu|32": {
   "street": "Rue du Milieu",
   "hn": "32",
   "lat": 46.7791503,
   "lng": 6.6386555,
-  "mieter": []
+  "mieter": [
+   "Multiservice Auditorium-hifi"
+  ]
  },
  "yverdon-les-bains|rue du milieu|12": {
   "street": "Rue du Milieu",
@@ -789,12 +1065,23 @@
   "lng": 6.6397272,
   "mieter": []
  },
+ "yverdon-les-bains|rue du four|17": {
+  "street": "Rue du Four",
+  "hn": "17",
+  "lat": 46.7783641,
+  "lng": 6.6393683,
+  "mieter": [
+   "Espace Coiffure"
+  ]
+ },
  "yverdon-les-bains|rue du lac|27": {
   "street": "Rue du Lac",
   "hn": "27",
   "lat": 46.7794304,
   "lng": 6.6391336,
-  "mieter": []
+  "mieter": [
+   "Pharmacie Centrale"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|13": {
   "street": "Rue de la Plaine",
@@ -808,28 +1095,36 @@
   "hn": "15",
   "lat": 46.7780839,
   "lng": 6.6431838,
-  "mieter": []
+  "mieter": [
+   "La Ferme"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|7": {
   "street": "Rue de la Plaine",
   "hn": "7",
   "lat": 46.7782124,
   "lng": 6.6427506,
-  "mieter": []
+  "mieter": [
+   "YLB CONCEPT"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|33": {
   "street": "Rue de la Plaine",
   "hn": "33",
   "lat": 46.7776563,
   "lng": 6.6437082,
-  "mieter": []
+  "mieter": [
+   "Perle de l'Océan"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|3": {
   "street": "Rue de la Plaine",
   "hn": "3",
   "lat": 46.7782878,
   "lng": 6.6424129,
-  "mieter": []
+  "mieter": [
+   "Polli"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|19a": {
   "street": "Rue de la Plaine",
@@ -850,28 +1145,37 @@
   "hn": "5",
   "lat": 46.7793853,
   "lng": 6.642521,
-  "mieter": []
+  "mieter": [
+   "Cogestim SA"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|43": {
   "street": "Rue de la Plaine",
   "hn": "43",
   "lat": 46.7774728,
   "lng": 6.6442905,
-  "mieter": []
+  "mieter": [
+   "Harrold",
+   "Dessange"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|29": {
   "street": "Rue de la Plaine",
   "hn": "29",
   "lat": 46.7777528,
   "lng": 6.6435929,
-  "mieter": []
+  "mieter": [
+   "Migros Bank"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|35": {
   "street": "Rue de la Plaine",
   "hn": "35",
   "lat": 46.777734,
   "lng": 6.64386,
-  "mieter": []
+  "mieter": [
+   "Aux Délices de la Plaine"
+  ]
  },
  "yverdon-les-bains|rue du casino|6": {
   "street": "Rue du Casino",
@@ -885,7 +1189,10 @@
   "hn": "5",
   "lat": 46.7782707,
   "lng": 6.6426515,
-  "mieter": []
+  "mieter": [
+   "Dipl. Ing. Fust SA",
+   "Ateliers d'Architecture SA / AA"
+  ]
  },
  "yverdon-les-bains|rue du casino|7": {
   "street": "Rue du Casino",
@@ -906,6 +1213,36 @@
   "hn": "31",
   "lat": 46.7776997,
   "lng": 6.6436735,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|34": {
+  "street": "Rue du Four",
+  "hn": "34",
+  "lat": 46.7788355,
+  "lng": 6.6385832,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|26": {
+  "street": "Rue du Four",
+  "hn": "26",
+  "lat": 46.7786979,
+  "lng": 6.6389537,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|32": {
+  "street": "Rue du Four",
+  "hn": "32",
+  "lat": 46.7788458,
+  "lng": 6.6386793,
+  "mieter": [
+   "Tacoway"
+  ]
+ },
+ "yverdon-les-bains|rue du four|36": {
+  "street": "Rue du Four",
+  "hn": "36",
+  "lat": 46.7788665,
+  "lng": 6.6385138,
   "mieter": []
  },
  "yverdon-les-bains|rue de la plaine|65": {
@@ -945,7 +1282,9 @@
   "hn": "3",
   "lat": 46.778971,
   "lng": 6.6401824,
-  "mieter": []
+  "mieter": [
+   "Kiss The Ground"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|82": {
   "street": "Rue de la Plaine",
@@ -973,7 +1312,9 @@
   "hn": "22",
   "lat": 46.7773353,
   "lng": 6.6430843,
-  "mieter": []
+  "mieter": [
+   "art contemporain kaminska & stocker"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|24": {
   "street": "Rue de la Plaine",
@@ -994,7 +1335,9 @@
   "hn": "10",
   "lat": 46.7775407,
   "lng": 6.642453,
-  "mieter": []
+  "mieter": [
+   "Boulangerie du Château"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|26": {
   "street": "Rue de la Plaine",
@@ -1015,7 +1358,9 @@
   "hn": "62",
   "lat": 46.7769253,
   "lng": 6.6448573,
-  "mieter": []
+  "mieter": [
+   "Bar le galopin"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|46": {
   "street": "Rue de la Plaine",
@@ -1043,7 +1388,9 @@
   "hn": "66",
   "lat": 46.7768497,
   "lng": 6.6448918,
-  "mieter": []
+  "mieter": [
+   "Rosario & John Di Fiore"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|72": {
   "street": "Rue de la Plaine",
@@ -1057,14 +1404,19 @@
   "hn": "54",
   "lat": 46.7769603,
   "lng": 6.644639,
-  "mieter": []
+  "mieter": [
+   "Epicerie de la Plaine"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|38": {
   "street": "Rue de la Plaine",
   "hn": "38",
   "lat": 46.7771931,
   "lng": 6.6437925,
-  "mieter": []
+  "mieter": [
+   "Charles Decker",
+   "Cornélia"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|58 bis": {
   "street": "Rue de la Plaine",
@@ -1092,7 +1444,9 @@
   "hn": "42",
   "lat": 46.7770959,
   "lng": 6.6440151,
-  "mieter": []
+  "mieter": [
+   "Allianz"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|58": {
   "street": "Rue de la Plaine",
@@ -1134,14 +1488,18 @@
   "hn": "23",
   "lat": 46.7793204,
   "lng": 6.6392981,
-  "mieter": []
+  "mieter": [
+   "L'espace mode"
+  ]
  },
  "yverdon-les-bains|rue du lac|21": {
   "street": "Rue du Lac",
   "hn": "21",
   "lat": 46.7792842,
   "lng": 6.6394263,
-  "mieter": []
+  "mieter": [
+   "Mauri"
+  ]
  },
  "yverdon-les-bains|rue du lac|19": {
   "street": "Rue du Lac",
@@ -1155,84 +1513,115 @@
   "hn": "25",
   "lat": 46.7793996,
   "lng": 6.6392666,
-  "mieter": []
+  "mieter": [
+   "McOptic"
+  ]
  },
  "yverdon-les-bains|rue du lac|29": {
   "street": "Rue du Lac",
   "hn": "29",
   "lat": 46.7795004,
   "lng": 6.6391298,
-  "mieter": []
+  "mieter": [
+   "Morgan"
+  ]
  },
  "yverdon-les-bains|rue du lac|12": {
   "street": "Rue du Lac",
   "hn": "12",
   "lat": 46.7793613,
   "lng": 6.6401383,
-  "mieter": []
+  "mieter": [
+   "C&A"
+  ]
  },
  "yverdon-les-bains|rue du lac|8": {
   "street": "Rue du Lac",
   "hn": "8",
   "lat": 46.7791988,
   "lng": 6.6403615,
-  "mieter": []
+  "mieter": [
+   "Utopya",
+   "Péchés et gourmandises"
+  ]
  },
  "yverdon-les-bains|rue du lac|6": {
   "street": "Rue du Lac",
   "hn": "6",
   "lat": 46.7791288,
   "lng": 6.6405195,
-  "mieter": []
+  "mieter": [
+   "Metro Boutique",
+   "Ali Baba",
+   "Permanence rue du Lac"
+  ]
  },
  "yverdon-les-bains|rue du lac|16": {
   "street": "Rue du Lac",
   "hn": "16",
   "lat": 46.7794251,
   "lng": 6.6398308,
-  "mieter": []
+  "mieter": [
+   "Kuoni",
+   "Boutique Carina"
+  ]
  },
  "yverdon-les-bains|rue du lac|10": {
   "street": "Rue du Lac",
   "hn": "10",
   "lat": 46.7792508,
   "lng": 6.6402684,
-  "mieter": []
+  "mieter": [
+   "Melina Perusset",
+   "Clic Clac Photo"
+  ]
  },
  "yverdon-les-bains|rue du lac|18": {
   "street": "Rue du Lac",
   "hn": "18",
   "lat": 46.7794853,
   "lng": 6.6397537,
-  "mieter": []
+  "mieter": [
+   "Sisley"
+  ]
  },
  "yverdon-les-bains|rue du lac|14": {
   "street": "Rue du Lac",
   "hn": "14",
   "lat": 46.7794308,
   "lng": 6.6400128,
-  "mieter": []
+  "mieter": [
+   "Marionnaud"
+  ]
  },
  "yverdon-les-bains|rue du lac|4": {
   "street": "Rue du Lac",
   "hn": "4",
   "lat": 46.7790557,
   "lng": 6.640711,
-  "mieter": []
+  "mieter": [
+   "TUI",
+   "Cabinet dentaire Pestalozzi"
+  ]
  },
  "yverdon-les-bains|rue du lac|24": {
   "street": "Rue du Lac",
   "hn": "24",
   "lat": 46.7795932,
   "lng": 6.6396325,
-  "mieter": []
+  "mieter": [
+   "Mobilezone",
+   "Tally Weijl"
+  ]
  },
  "yverdon-les-bains|rue du lac|32": {
   "street": "Rue du Lac",
   "hn": "32",
   "lat": 46.7797612,
   "lng": 6.6393103,
-  "mieter": []
+  "mieter": [
+   "Gémo"
+  ]
  },
  "yverdon-les-bains|rue du lac|28": {
   "street": "Rue du Lac",
@@ -1246,28 +1635,36 @@
   "hn": "26",
   "lat": 46.7796678,
   "lng": 6.6394778,
-  "mieter": []
+  "mieter": [
+   "Neuroth"
+  ]
  },
  "yverdon-les-bains|rue du lac|22": {
   "street": "Rue du Lac",
   "hn": "22",
   "lat": 46.7794985,
   "lng": 6.6396475,
-  "mieter": []
+  "mieter": [
+   "Bijoux Bijoux"
+  ]
  },
  "yverdon-les-bains|rue du lac|36": {
   "street": "Rue du Lac",
   "hn": "36",
   "lat": 46.7798902,
   "lng": 6.6392137,
-  "mieter": []
+  "mieter": [
+   "Fielmann"
+  ]
  },
  "yverdon-les-bains|rue du lac|34": {
   "street": "Rue du Lac",
   "hn": "34",
   "lat": 46.7798527,
   "lng": 6.6392814,
-  "mieter": []
+  "mieter": [
+   "Vero Moda"
+  ]
  },
  "yverdon-les-bains|place pestalozzi|11": {
   "street": "Place Pestalozzi",
@@ -1281,76 +1678,115 @@
   "hn": "5",
   "lat": 46.7789873,
   "lng": 6.6410916,
-  "mieter": []
+  "mieter": [
+   "Gillet joaillerie créateurs"
+  ]
  },
  "yverdon-les-bains|place pestalozzi|6": {
   "street": "Place Pestalozzi",
   "hn": "6",
   "lat": 46.7789003,
   "lng": 6.6411299,
-  "mieter": []
+  "mieter": [
+   "Pharmacie de la Place"
+  ]
  },
  "yverdon-les-bains|place pestalozzi|4": {
   "street": "Place Pestalozzi",
   "hn": "4",
   "lat": 46.7789575,
   "lng": 6.6409553,
-  "mieter": []
+  "mieter": [
+   "ALJA Nouveau Tissus & Mercerie",
+   "Elna"
+  ]
  },
  "yverdon-les-bains|rue du lac|2": {
   "street": "Rue du Lac",
   "hn": "2",
   "lat": 46.779021,
   "lng": 6.6408536,
-  "mieter": []
+  "mieter": [
+   "Amplifon"
+  ]
  },
  "yverdon-les-bains|place pestalozzi|12": {
   "street": "Place Pestalozzi",
   "hn": "12",
   "lat": 46.7788333,
   "lng": 6.6417128,
-  "mieter": []
+  "mieter": [
+   "Payot"
+  ]
  },
  "yverdon-les-bains|rue du lac|41": {
   "street": "Rue du Lac",
   "hn": "41",
   "lat": 46.7798526,
   "lng": 6.6385384,
-  "mieter": []
+  "mieter": [
+   "Olé Tapas",
+   "Giannis Coiffure",
+   "La mode à tes pieds"
+  ]
  },
  "yverdon-les-bains|rue du lac|39": {
   "street": "Rue du Lac",
   "hn": "39",
   "lat": 46.7797608,
   "lng": 6.6386633,
-  "mieter": []
+  "mieter": [
+   "Schneider"
+  ]
  },
  "yverdon-les-bains|rue du lac|45": {
   "street": "Rue du Lac",
   "hn": "45",
   "lat": 46.7800062,
   "lng": 6.6383592,
-  "mieter": []
+  "mieter": [
+   "Sushi Shop"
+  ]
  },
  "yverdon-les-bains|rue du milieu|40": {
   "street": "Rue du Milieu",
   "hn": "40",
   "lat": 46.7792434,
   "lng": 6.6378599,
-  "mieter": []
+  "mieter": [
+   "Le Cosy"
+  ]
  },
  "yverdon-les-bains|rue du lac|47": {
   "street": "Rue du Lac",
   "hn": "47",
   "lat": 46.7800298,
   "lng": 6.6383075,
-  "mieter": []
+  "mieter": [
+   "Xél'Or"
+  ]
  },
  "yverdon-les-bains|rue du milieu|51": {
   "street": "Rue du Milieu",
   "hn": "51",
   "lat": 46.779066,
   "lng": 6.6376506,
+  "mieter": [
+   "Chrys"
+  ]
+ },
+ "yverdon-les-bains|rue du four|11": {
+  "street": "Rue du Four",
+  "hn": "11",
+  "lat": 46.7783431,
+  "lng": 6.6396886,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|19": {
+  "street": "Rue du Four",
+  "hn": "19",
+  "lat": 46.7782946,
+  "lng": 6.6390981,
   "mieter": []
  },
  "yverdon-les-bains|rue de la plaine|17": {
@@ -1358,14 +1794,18 @@
   "hn": "17",
   "lat": 46.7779623,
   "lng": 6.6431732,
-  "mieter": []
+  "mieter": [
+   "Au Petit Paradis"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|23": {
   "street": "Rue de la Plaine",
   "hn": "23",
   "lat": 46.7777885,
   "lng": 6.6433341,
-  "mieter": []
+  "mieter": [
+   "Chez My Marché Asiatique"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|47": {
   "street": "Rue de la Plaine",
@@ -1393,14 +1833,19 @@
   "hn": "45",
   "lat": 46.7774635,
   "lng": 6.644473,
-  "mieter": []
+  "mieter": [
+   "Peguiron - Philatélie"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|78": {
   "street": "Rue de la Plaine",
   "hn": "78",
   "lat": 46.7767706,
   "lng": 6.6453049,
-  "mieter": []
+  "mieter": [
+   "Coiffure Tendance",
+   "Highway Informatique"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|76": {
   "street": "Rue de la Plaine",
@@ -1435,16 +1880,16 @@
   "hn": "50",
   "lat": 46.7769466,
   "lng": 6.6444105,
-  "mieter": []
+  "mieter": [
+   "A la Fleur de Lotus"
+  ]
  },
  "yverdon-les-bains|rue de la plaine|48": {
   "street": "Rue de la Plaine",
   "hn": "48",
   "lat": 46.7770445,
   "lng": 6.6443769,
-  "mieter": [
-   "Evangelisch reformierte Kirche"
-  ]
+  "mieter": []
  },
  "yverdon-les-bains|rue de la plaine|20": {
   "street": "Rue de la Plaine",
@@ -1458,6 +1903,111 @@
   "hn": "26",
   "lat": 46.7791252,
   "lng": 6.6389936,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du lac|40": {
+  "street": "Rue du Lac",
+  "hn": "40",
+  "lat": 46.780219,
+  "lng": 6.638825,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|20": {
+  "street": "Rue du Milieu",
+  "hn": "20",
+  "lat": 46.779045,
+  "lng": 6.639323,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|17": {
+  "street": "Rue du Milieu",
+  "hn": "17",
+  "lat": 46.778652,
+  "lng": 6.639672,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du milieu|37": {
+  "street": "Rue du Milieu",
+  "hn": "37",
+  "lat": 46.778856,
+  "lng": 6.63868,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|11": {
+  "street": "Rue de la Plaine",
+  "hn": "11",
+  "lat": 46.778097,
+  "lng": 6.642858,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|29b": {
+  "street": "Rue de la Plaine",
+  "hn": "29b",
+  "lat": 46.778046,
+  "lng": 6.643839,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue de la plaine|38b": {
+  "street": "Rue de la Plaine",
+  "hn": "38b",
+  "lat": 46.776872,
+  "lng": 6.643681,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|5b": {
+  "street": "Place Pestalozzi",
+  "hn": "5b",
+  "lat": 46.778993,
+  "lng": 6.641095,
+  "mieter": []
+ },
+ "yverdon-les-bains|place pestalozzi|5c": {
+  "street": "Place Pestalozzi",
+  "hn": "5c",
+  "lat": 46.778993,
+  "lng": 6.641095,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|6": {
+  "street": "Rue du Four",
+  "hn": "6",
+  "lat": 46.778599,
+  "lng": 6.640109,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|16": {
+  "street": "Rue du Four",
+  "hn": "16",
+  "lat": 46.778652,
+  "lng": 6.639672,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|2": {
+  "street": "Rue du Four",
+  "hn": "2",
+  "lat": 46.778564,
+  "lng": 6.640467,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|14": {
+  "street": "Rue du Four",
+  "hn": "14",
+  "lat": 46.778647,
+  "lng": 6.639725,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|17a": {
+  "street": "Rue du Four",
+  "hn": "17a",
+  "lat": 46.778275,
+  "lng": 6.639374,
+  "mieter": []
+ },
+ "yverdon-les-bains|rue du four|17b": {
+  "street": "Rue du Four",
+  "hn": "17b",
+  "lat": 46.778274,
+  "lng": 6.639368,
   "mieter": []
  }
 }
