@@ -1,4 +1,114 @@
 {
+ "visp|kantonsstrasse|7": {
+  "street": "Kantonsstrasse",
+  "hn": "7",
+  "lat": 46.2929238,
+  "lng": 7.8778799,
+  "mieter": [
+   "Volkswagen"
+  ],
+  "parzelle": "589",
+  "egrid": "CH222297523057",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|6": {
+  "street": "Kantonsstrasse",
+  "hn": "6",
+  "lat": 46.2921665,
+  "lng": 7.880884,
+  "mieter": [
+   "Walliser Kantonalbank",
+   "Konkursamt Oberwallis",
+   "Betreibungsamt Oberwallis"
+  ],
+  "parzelle": "213",
+  "egrid": "CH643052222246",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|4": {
+  "street": "Kantonsstrasse",
+  "hn": "4",
+  "lat": 46.2921192,
+  "lng": 7.8806648,
+  "mieter": [],
+  "parzelle": "216",
+  "egrid": "CH622099523054",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|8": {
+  "street": "Kantonsstrasse",
+  "hn": "8",
+  "lat": 46.2976343,
+  "lng": 7.9051498,
+  "mieter": [],
+  "parzelle": "211",
+  "egrid": "CH613099522069",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|2": {
+  "street": "Kantonsstrasse",
+  "hn": "2",
+  "lat": 46.2921434,
+  "lng": 7.8796256,
+  "mieter": [],
+  "parzelle": "71",
+  "egrid": "CH843052222275",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|6a": {
+  "street": "Kantonsstrasse",
+  "hn": "6a",
+  "lat": 46.2920397,
+  "lng": 7.8808446,
+  "mieter": [],
+  "parzelle": "213",
+  "egrid": "CH643052222246",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofplatz|11": {
+  "street": "Bahnhofplatz",
+  "hn": "11",
+  "lat": 46.293025,
+  "lng": 7.881174,
+  "mieter": [
+   "Swisscom"
+  ],
+  "parzelle": "3571",
+  "egrid": "CH935220309411",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|kantonsstrasse|3": {
+  "street": "Kantonsstrasse",
+  "hn": "3",
+  "lat": 46.2947977,
+  "lng": 7.9057302,
+  "mieter": [
+   "Vögele Shoes",
+   "McOptic",
+   "Interdiscount",
+   "Tally Weijl",
+   "Blackout",
+   "Import Parfumerie",
+   "Salt.",
+   "cocco",
+   "Amavita"
+  ],
+  "parzelle": "196",
+  "egrid": "CH559952203074",
+  "quelle": "OSM"
+ },
+ "visp|brückenweg|3": {
+  "street": "Brückenweg",
+  "hn": "3",
+  "lat": 46.2928,
+  "lng": 7.8800259,
+  "mieter": [
+   "Mister Minit"
+  ],
+  "parzelle": "188",
+  "egrid": "CH543052209909",
+  "quelle": "OSM"
+ },
  "visp|kantonsstrasse|1": {
   "street": "Kantonsstrasse",
   "hn": "1",
@@ -6,50 +116,147 @@
   "lng": 7.8802315,
   "mieter": [
    "Coop"
-  ]
+  ],
+  "parzelle": "196",
+  "egrid": "CH559952203074",
+  "quelle": "OSM"
  },
- "visp|bahnhofstrasse|17": {
-  "street": "Bahnhofstrasse",
-  "hn": "17",
-  "lat": 46.2924095,
-  "lng": 7.8814044,
+ "visp|brückenweg|6": {
+  "street": "Brückenweg",
+  "hn": "6",
+  "lat": 46.2932053,
+  "lng": 7.8804022,
   "mieter": [
-   "McDonald's"
-  ]
+   "Die Post"
+  ],
+  "parzelle": "179",
+  "egrid": "CH535220309945",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|75": {
+ "visp|brückenweg|12": {
+  "street": "Brückenweg",
+  "hn": "12",
+  "lat": 46.2934069,
+  "lng": 7.8799228,
+  "mieter": [
+   "Asola GmbH",
+   "C&A"
+  ],
+  "parzelle": "176",
+  "egrid": "CH522099523088",
+  "quelle": "OSM"
+ },
+ "visp|brückenweg|14": {
+  "street": "Brückenweg",
+  "hn": "14",
+  "lat": 46.293294,
+  "lng": 7.8795,
+  "mieter": [],
+  "parzelle": "176",
+  "egrid": "CH522099523088",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|brückenweg|1": {
+  "street": "Brückenweg",
+  "hn": "1",
+  "lat": 46.2929119,
+  "lng": 7.8806381,
+  "mieter": [
+   "Baloise"
+  ],
+  "parzelle": "196",
+  "egrid": "CH559952203074",
+  "quelle": "OSM"
+ },
+ "visp|brückenweg|8": {
+  "street": "Brückenweg",
+  "hn": "8",
+  "lat": 46.293294,
+  "lng": 7.8795,
+  "mieter": [],
+  "parzelle": "176",
+  "egrid": "CH522099523088",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|kantonsstrasse|1a": {
   "street": "Kantonsstrasse",
-  "hn": "75",
-  "lat": 46.2939665,
-  "lng": 7.9020885,
-  "mieter": [
-   "Automobile Franzen AG"
-  ]
+  "hn": "1a",
+  "lat": 46.2925403,
+  "lng": 7.8797456,
+  "mieter": [],
+  "parzelle": "188",
+  "egrid": "CH543052209909",
+  "quelle": "OSM"
  },
- "visp|kaufplatz|5": {
-  "street": "Kaufplatz",
+ "visp|kantonsstrasse|5": {
+  "street": "Kantonsstrasse",
   "hn": "5",
-  "lat": 46.2905743,
-  "lng": 7.8816126,
-  "mieter": [
-   "Casa della Pizza"
-  ]
+  "lat": 46.2924174,
+  "lng": 7.8808736,
+  "mieter": [],
+  "parzelle": "2647",
+  "egrid": "CH673020085206",
+  "quelle": "OSM"
  },
- "visp|napoleonstrasse|15": {
+ "visp|balfrinstrasse|27": {
+  "street": "Balfrinstrasse",
+  "hn": "27",
+  "lat": 46.2890925,
+  "lng": 7.8825742,
+  "mieter": [],
+  "parzelle": "388",
+  "egrid": "CH654652213013",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|30": {
+  "street": "Balfrinstrasse",
+  "hn": "30",
+  "lat": 46.289175,
+  "lng": 7.8819576,
+  "mieter": [],
+  "parzelle": "394",
+  "egrid": "CH102230855256",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|25": {
+  "street": "Balfrinstrasse",
+  "hn": "25",
+  "lat": 46.2893841,
+  "lng": 7.8827194,
+  "mieter": [],
+  "parzelle": "333",
+  "egrid": "CH880852302032",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|32": {
+  "street": "Balfrinstrasse",
+  "hn": "32",
+  "lat": 46.2891424,
+  "lng": 7.882277,
+  "mieter": [],
+  "parzelle": "3038",
+  "egrid": "CH913098522073",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|23": {
+  "street": "Balfrinstrasse",
+  "hn": "23",
+  "lat": 46.2900012,
+  "lng": 7.883111,
+  "mieter": [],
+  "parzelle": "332",
+  "egrid": "CH762252309764",
+  "quelle": "OSM"
+ },
+ "visp|napoleonstrasse|16a": {
   "street": "Napoleonstrasse",
-  "hn": "15",
-  "lat": 46.2915699,
-  "lng": 7.8855543,
-  "mieter": [
-   "Ken's Bikeshop"
-  ]
- },
- "visp|kantonsstrasse|67": {
-  "street": "Kantonsstrasse",
-  "hn": "67",
-  "lat": 46.294011,
-  "lng": 7.8998695,
-  "mieter": []
+  "hn": "16a",
+  "lat": 46.2911344,
+  "lng": 7.8841214,
+  "mieter": [],
+  "parzelle": "1941",
+  "egrid": "CH373020075214",
+  "quelle": "OSM"
  },
  "visp|napoleonstrasse|16b": {
   "street": "Napoleonstrasse",
@@ -58,87 +265,146 @@
   "lng": 7.8843773,
   "mieter": [
    "Kantonspolizei"
-  ]
+  ],
+  "parzelle": "1937",
+  "egrid": "CH343052215818",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|21": {
-  "street": "Kantonsstrasse",
-  "hn": "21",
-  "lat": 46.2924934,
-  "lng": 7.8836121,
-  "mieter": []
- },
- "visp|kantonsstrasse|23": {
-  "street": "Kantonsstrasse",
-  "hn": "23",
-  "lat": 46.2924908,
-  "lng": 7.8837544,
-  "mieter": []
- },
- "visp|kantonsstrasse|19": {
-  "street": "Kantonsstrasse",
-  "hn": "19",
-  "lat": 46.292498,
-  "lng": 7.8833589,
-  "mieter": []
- },
- "visp|kantonsstrasse|17": {
-  "street": "Kantonsstrasse",
-  "hn": "17",
-  "lat": 46.2924442,
-  "lng": 7.8832097,
-  "mieter": []
- },
- "visp|kantonsstrasse|13": {
-  "street": "Kantonsstrasse",
-  "hn": "13",
-  "lat": 46.292467,
-  "lng": 7.882003,
-  "mieter": [
-   "Zurich"
-  ]
- },
- "visp|bahnhofstrasse|14": {
-  "street": "Bahnhofstrasse",
-  "hn": "14",
-  "lat": 46.2919002,
-  "lng": 7.8811043,
-  "mieter": [
-   "Bayard"
-  ]
- },
- "visp|kantonsstrasse|10": {
-  "street": "Kantonsstrasse",
-  "hn": "10",
-  "lat": 46.2921767,
-  "lng": 7.8814012,
-  "mieter": [
-   "Alpenmarkt"
-  ]
- },
- "visp|kantonsstrasse|70": {
-  "street": "Kantonsstrasse",
-  "hn": "70",
-  "lat": 46.2934673,
-  "lng": 7.9017887,
-  "mieter": [
-   "Kellerei Chanton"
-  ]
- },
- "visp|bahnhofstrasse|15": {
-  "street": "Bahnhofstrasse",
-  "hn": "15",
-  "lat": 46.2927341,
-  "lng": 7.881635,
-  "mieter": [
-   "Dosenbach"
-  ]
- },
- "visp|napoleonstrasse|16a": {
+ "visp|napoleonstrasse|5": {
   "street": "Napoleonstrasse",
-  "hn": "16a",
-  "lat": 46.2911344,
-  "lng": 7.8841214,
-  "mieter": []
+  "hn": "5",
+  "lat": 46.2915083,
+  "lng": 7.8837331,
+  "mieter": [],
+  "parzelle": "306",
+  "egrid": "CH573021585275",
+  "quelle": "OSM"
+ },
+ "visp|napoleonstrasse|9": {
+  "street": "Napoleonstrasse",
+  "hn": "9",
+  "lat": 46.2913543,
+  "lng": 7.8839795,
+  "mieter": [
+   "Kino Astoria"
+  ],
+  "parzelle": "318",
+  "egrid": "CH759752223054",
+  "quelle": "OSM"
+ },
+ "visp|kaufplatz|9": {
+  "street": "Kaufplatz",
+  "hn": "9",
+  "lat": 46.29074,
+  "lng": 7.881258,
+  "mieter": [],
+  "parzelle": "156",
+  "egrid": "CH913046522155",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|bahnhofstrasse|20": {
+  "street": "Bahnhofstrasse",
+  "hn": "20",
+  "lat": 46.2913674,
+  "lng": 7.8812642,
+  "mieter": [
+   "Swissthai"
+  ],
+  "parzelle": "102",
+  "egrid": "CH995220863003",
+  "quelle": "OSM"
+ },
+ "visp|kaufplatz|2": {
+  "street": "Kaufplatz",
+  "hn": "2",
+  "lat": 46.290922,
+  "lng": 7.881753,
+  "mieter": [],
+  "parzelle": "161",
+  "egrid": "CH735222308570",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|balfrinstrasse|16": {
+  "street": "Balfrinstrasse",
+  "hn": "16",
+  "lat": 46.2911734,
+  "lng": 7.8821122,
+  "mieter": [],
+  "parzelle": "116",
+  "egrid": "CH835220308455",
+  "quelle": "OSM"
+ },
+ "visp|kaufplatz|1": {
+  "street": "Kaufplatz",
+  "hn": "1",
+  "lat": 46.291104,
+  "lng": 7.881559,
+  "mieter": [],
+  "parzelle": "125",
+  "egrid": "CH973020845264",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|kaufplatz|4": {
+  "street": "Kaufplatz",
+  "hn": "4",
+  "lat": 46.290679,
+  "lng": 7.881798,
+  "mieter": [],
+  "parzelle": "29",
+  "egrid": "CH122119523044",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|bahnhofstrasse|23": {
+  "street": "Bahnhofstrasse",
+  "hn": "23",
+  "lat": 46.29168,
+  "lng": 7.881437,
+  "mieter": [
+   "Napoleon"
+  ],
+  "parzelle": "2315",
+  "egrid": "CH395221583088",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|balfrinstrasse|15a": {
+  "street": "Balfrinstrasse",
+  "hn": "15a",
+  "lat": 46.2912531,
+  "lng": 7.8823383,
+  "mieter": [],
+  "parzelle": "359",
+  "egrid": "CH902230235267",
+  "quelle": "OSM"
+ },
+ "visp|kaufplatz|10": {
+  "street": "Kaufplatz",
+  "hn": "10",
+  "lat": 46.290845,
+  "lng": 7.881358,
+  "mieter": [],
+  "parzelle": "155",
+  "egrid": "CH813098522010",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|bahnhofstrasse|25": {
+  "street": "Bahnhofstrasse",
+  "hn": "25",
+  "lat": 46.2915161,
+  "lng": 7.8814545,
+  "mieter": [],
+  "parzelle": "2663",
+  "egrid": "CH795221593046",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|13": {
+  "street": "Balfrinstrasse",
+  "hn": "13",
+  "lat": 46.2916118,
+  "lng": 7.8822521,
+  "mieter": [],
+  "parzelle": "367",
+  "egrid": "CH643052214625",
+  "quelle": "OSM"
  },
  "visp|balfrinstrasse|15": {
   "street": "Balfrinstrasse",
@@ -147,98 +413,633 @@
   "lng": 7.8822823,
   "mieter": [
    "sodalis gesundheitsgruppe"
-  ]
+  ],
+  "parzelle": "367",
+  "egrid": "CH643052214625",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|41a": {
-  "street": "Kantonsstrasse",
-  "hn": "41a",
-  "lat": 46.2925858,
-  "lng": 7.8902723,
+ "visp|bahnhofstrasse|18": {
+  "street": "Bahnhofstrasse",
+  "hn": "18",
+  "lat": 46.2915466,
+  "lng": 7.8812196,
+  "mieter": [],
+  "parzelle": "101",
+  "egrid": "CH495221453093",
+  "quelle": "OSM"
+ },
+ "visp|kaufplatz|5": {
+  "street": "Kaufplatz",
+  "hn": "5",
+  "lat": 46.2905743,
+  "lng": 7.8816126,
   "mieter": [
-   "BikeBox"
-  ]
+   "Casa della Pizza"
+  ],
+  "parzelle": "28",
+  "egrid": "CH113019522185",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|6": {
-  "street": "Kantonsstrasse",
+ "visp|napoleonstrasse|12": {
+  "street": "Napoleonstrasse",
+  "hn": "12",
+  "lat": 46.2916136,
+  "lng": 7.8826354,
+  "mieter": [],
+  "parzelle": "367",
+  "egrid": "CH643052214625",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofstrasse|27": {
+  "street": "Bahnhofstrasse",
+  "hn": "27",
+  "lat": 46.2914432,
+  "lng": 7.8814152,
+  "mieter": [
+   "Brasserie Fux"
+  ],
+  "parzelle": "2612",
+  "egrid": "CH422286523088",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|14": {
+  "street": "Balfrinstrasse",
+  "hn": "14",
+  "lat": 46.2914889,
+  "lng": 7.8819848,
+  "mieter": [],
+  "parzelle": "98",
+  "egrid": "CH484552302141",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|17": {
+  "street": "Balfrinstrasse",
+  "hn": "17",
+  "lat": 46.2907565,
+  "lng": 7.8823547,
+  "mieter": [],
+  "parzelle": "352",
+  "egrid": "CH835220309148",
+  "quelle": "OSM"
+ },
+ "visp|kaufplatz|8": {
+  "street": "Kaufplatz",
+  "hn": "8",
+  "lat": 46.29075,
+  "lng": 7.881407,
+  "mieter": [],
+  "parzelle": "157",
+  "egrid": "CH922146523014",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|kaufplatz|6": {
+  "street": "Kaufplatz",
   "hn": "6",
-  "lat": 46.2921665,
-  "lng": 7.880884,
+  "lat": 46.290561,
+  "lng": 7.881638,
+  "mieter": [],
+  "parzelle": "27",
+  "egrid": "CH222008523039",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|kaufplatz|3a": {
+  "street": "Kaufplatz",
+  "hn": "3a",
+  "lat": 46.29073,
+  "lng": 7.881995,
+  "mieter": [],
+  "parzelle": "31",
+  "egrid": "CH673021585241",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|balfrinstrasse|17a": {
+  "street": "Balfrinstrasse",
+  "hn": "17a",
+  "lat": 46.2905662,
+  "lng": 7.8824115,
+  "mieter": [],
+  "parzelle": "341",
+  "egrid": "CH889152302022",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofstrasse|22": {
+  "street": "Bahnhofstrasse",
+  "hn": "22",
+  "lat": 46.2910843,
+  "lng": 7.8813451,
   "mieter": [
-   "Konkursamt Oberwallis",
-   "Betreibungsamt Oberwallis"
-  ]
+   "Traube"
+  ],
+  "parzelle": "128",
+  "egrid": "CH854652213042",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|8": {
-  "street": "Kantonsstrasse",
-  "hn": "8",
-  "lat": 46.2976343,
-  "lng": 7.9051498,
-  "mieter": []
+ "visp|kaufplatz|7": {
+  "street": "Kaufplatz",
+  "hn": "7",
+  "lat": 46.290669,
+  "lng": 7.881382,
+  "mieter": [
+   "Wiwanni"
+  ],
+  "parzelle": "157",
+  "egrid": "CH922146523014",
+  "quelle": "GWR (EXTRA)"
  },
- "visp|kantonsstrasse|46": {
-  "street": "Kantonsstrasse",
-  "hn": "46",
-  "lat": 46.3004108,
-  "lng": 7.8954361,
-  "mieter": []
- },
- "visp|kantonsstrasse|86": {
-  "street": "Kantonsstrasse",
-  "hn": "86",
-  "lat": 46.3023448,
-  "lng": 7.885793,
-  "mieter": []
- },
- "visp|bahnhofstrasse|26": {
+ "visp|bahnhofstrasse|14": {
   "street": "Bahnhofstrasse",
-  "hn": "26",
-  "lat": 46.3065546,
-  "lng": 7.8809598,
-  "mieter": []
+  "hn": "14",
+  "lat": 46.2919002,
+  "lng": 7.8811043,
+  "mieter": [
+   "Bayard"
+  ],
+  "parzelle": "346",
+  "egrid": "CH622146523019",
+  "quelle": "OSM"
  },
- "visp|bahnhofstrasse|4": {
-  "street": "Bahnhofstrasse",
-  "hn": "4",
-  "lat": 46.3066214,
-  "lng": 7.8789463,
-  "mieter": []
+ "visp|kaufplatz|3": {
+  "street": "Kaufplatz",
+  "hn": "3",
+  "lat": 46.290922,
+  "lng": 7.881753,
+  "mieter": [],
+  "parzelle": "162",
+  "egrid": "CH443052209943",
+  "quelle": "GWR (EXTRA)"
  },
- "visp|bahnhofstrasse|16": {
+ "visp|bahnhofstrasse|31": {
   "street": "Bahnhofstrasse",
+  "hn": "31",
+  "lat": 46.2911115,
+  "lng": 7.8814491,
+  "mieter": [],
+  "parzelle": "125",
+  "egrid": "CH973020845264",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|22": {
+  "street": "Balfrinstrasse",
+  "hn": "22",
+  "lat": 46.2900789,
+  "lng": 7.8824154,
+  "mieter": [],
+  "parzelle": "336",
+  "egrid": "CH173020995297",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|19": {
+  "street": "Balfrinstrasse",
+  "hn": "19",
+  "lat": 46.2900907,
+  "lng": 7.8827974,
+  "mieter": [],
+  "parzelle": "334",
+  "egrid": "CH959952203035",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|21": {
+  "street": "Balfrinstrasse",
+  "hn": "21",
+  "lat": 46.2899419,
+  "lng": 7.8827566,
+  "mieter": [],
+  "parzelle": "3205",
+  "egrid": "CH695220913090",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|28": {
+  "street": "Balfrinstrasse",
+  "hn": "28",
+  "lat": 46.2894311,
+  "lng": 7.8822422,
+  "mieter": [],
+  "parzelle": "393",
+  "egrid": "CH362152301716",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|18": {
+  "street": "Kantonsstrasse",
+  "hn": "18",
+  "lat": 46.2919816,
+  "lng": 7.8841792,
+  "mieter": [],
+  "parzelle": "2258",
+  "egrid": "CH822106523020",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|19": {
+  "street": "Kantonsstrasse",
+  "hn": "19",
+  "lat": 46.292498,
+  "lng": 7.8833589,
+  "mieter": [],
+  "parzelle": "2604",
+  "egrid": "CH313096522004",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|21": {
+  "street": "Kantonsstrasse",
+  "hn": "21",
+  "lat": 46.2924934,
+  "lng": 7.8836121,
+  "mieter": [],
+  "parzelle": "2604",
+  "egrid": "CH313096522004",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|17": {
+  "street": "Kantonsstrasse",
+  "hn": "17",
+  "lat": 46.2924442,
+  "lng": 7.8832097,
+  "mieter": [],
+  "parzelle": "2604",
+  "egrid": "CH313096522004",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|23": {
+  "street": "Kantonsstrasse",
+  "hn": "23",
+  "lat": 46.2924908,
+  "lng": 7.8837544,
+  "mieter": [],
+  "parzelle": "2604",
+  "egrid": "CH313096522004",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|16": {
+  "street": "Kantonsstrasse",
   "hn": "16",
-  "lat": 46.3068554,
-  "lng": 7.8795264,
-  "mieter": []
+  "lat": 46.2920459,
+  "lng": 7.8838553,
+  "mieter": [],
+  "parzelle": "2419",
+  "egrid": "CH602030955207",
+  "quelle": "OSM"
  },
- "visp|bahnhofstrasse|8": {
-  "street": "Bahnhofstrasse",
+ "visp|napoleonstrasse|7": {
+  "street": "Napoleonstrasse",
+  "hn": "7",
+  "lat": 46.2916969,
+  "lng": 7.8837079,
+  "mieter": [],
+  "parzelle": "3273",
+  "egrid": "CH373022855253",
+  "quelle": "OSM"
+ },
+ "visp|napoleonstrasse|8": {
+  "street": "Napoleonstrasse",
   "hn": "8",
-  "lat": 46.3069067,
-  "lng": 7.8790251,
-  "mieter": []
+  "lat": 46.2917581,
+  "lng": 7.8817754,
+  "mieter": [],
+  "parzelle": "85",
+  "egrid": "CH973020865258",
+  "quelle": "OSM"
  },
- "visp|bahnhofstrasse|1": {
+ "visp|napoleonstrasse|6": {
+  "street": "Napoleonstrasse",
+  "hn": "6",
+  "lat": 46.2917465,
+  "lng": 7.8815899,
+  "mieter": [],
+  "parzelle": "83",
+  "egrid": "CH858652203032",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofstrasse|19": {
   "street": "Bahnhofstrasse",
-  "hn": "1",
-  "lat": 46.3070153,
-  "lng": 7.8787927,
-  "mieter": []
+  "hn": "19",
+  "lat": 46.2921544,
+  "lng": 7.8814035,
+  "mieter": [
+   "Runder"
+  ],
+  "parzelle": "202",
+  "egrid": "CH689952302068",
+  "quelle": "OSM"
  },
  "visp|kantonsstrasse|14": {
   "street": "Kantonsstrasse",
   "hn": "14",
   "lat": 46.2973717,
   "lng": 7.9053739,
-  "mieter": []
+  "mieter": [],
+  "parzelle": "2156",
+  "egrid": "CH913095522003",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|60": {
+ "visp|napoleonstrasse|4": {
+  "street": "Napoleonstrasse",
+  "hn": "4",
+  "lat": 46.29168,
+  "lng": 7.881437,
+  "mieter": [],
+  "parzelle": "2315",
+  "egrid": "CH395221583088",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|napoleonstrasse|1": {
+  "street": "Napoleonstrasse",
+  "hn": "1",
+  "lat": 46.2919197,
+  "lng": 7.8820096,
+  "mieter": [],
+  "parzelle": "208",
+  "egrid": "CH602030995292",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|12": {
   "street": "Kantonsstrasse",
-  "hn": "60",
-  "lat": 46.2932641,
-  "lng": 7.8962438,
+  "hn": "12",
+  "lat": 46.2921533,
+  "lng": 7.881702,
+  "mieter": [],
+  "parzelle": "209",
+  "egrid": "CH981752302145",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofstrasse|21": {
+  "street": "Bahnhofstrasse",
+  "hn": "21",
+  "lat": 46.2919684,
+  "lng": 7.8812914,
   "mieter": [
-   "Carrosserie Vispa"
-  ]
+   "ZAP*"
+  ],
+  "parzelle": "210",
+  "egrid": "CH762252308576",
+  "quelle": "OSM"
+ },
+ "visp|napoleonstrasse|3": {
+  "street": "Napoleonstrasse",
+  "hn": "3",
+  "lat": 46.2918288,
+  "lng": 7.8827059,
+  "mieter": [],
+  "parzelle": "374",
+  "egrid": "CH343052211759",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|12a": {
+  "street": "Kantonsstrasse",
+  "hn": "12a",
+  "lat": 46.2921342,
+  "lng": 7.8819873,
+  "mieter": [],
+  "parzelle": "208",
+  "egrid": "CH602030995292",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|11": {
+  "street": "Balfrinstrasse",
+  "hn": "11",
+  "lat": 46.2918912,
+  "lng": 7.8822962,
+  "mieter": [],
+  "parzelle": "381",
+  "egrid": "CH195222853066",
+  "quelle": "OSM"
+ },
+ "visp|napoleonstrasse|2": {
+  "street": "Napoleonstrasse",
+  "hn": "2",
+  "lat": 46.2917369,
+  "lng": 7.881461,
+  "mieter": [],
+  "parzelle": "2315",
+  "egrid": "CH395221583088",
+  "quelle": "OSM"
+ },
+ "visp|napoleonstrasse|10": {
+  "street": "Napoleonstrasse",
+  "hn": "10",
+  "lat": 46.2917547,
+  "lng": 7.8818082,
+  "mieter": [],
+  "parzelle": "86",
+  "egrid": "CH473021455251",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|14a": {
+  "street": "Kantonsstrasse",
+  "hn": "14a",
+  "lat": 46.2919609,
+  "lng": 7.8826175,
+  "mieter": [],
+  "parzelle": "2156",
+  "egrid": "CH913095522003",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|10": {
+  "street": "Kantonsstrasse",
+  "hn": "10",
+  "lat": 46.2921767,
+  "lng": 7.8814012,
+  "mieter": [
+   "Alpenmarkt"
+  ],
+  "parzelle": "202",
+  "egrid": "CH689952302068",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofstrasse|11": {
+  "street": "Bahnhofstrasse",
+  "hn": "11",
+  "lat": 46.2930738,
+  "lng": 7.8818746,
+  "mieter": [
+   "Jäger"
+  ],
+  "parzelle": "2263",
+  "egrid": "CH782252302274",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|10": {
+  "street": "Balfrinstrasse",
+  "hn": "10",
+  "lat": 46.2927484,
+  "lng": 7.8822149,
+  "mieter": [],
+  "parzelle": "206",
+  "egrid": "CH758552223087",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofstrasse|8": {
+  "street": "Bahnhofstrasse",
+  "hn": "8",
+  "lat": 46.3069067,
+  "lng": 7.8790251,
+  "mieter": [
+   "Raiffeisen"
+  ],
+  "parzelle": "3800",
+  "egrid": "CH743052200139",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|2": {
+  "street": "Balfrinstrasse",
+  "hn": "2",
+  "lat": 46.2932785,
+  "lng": 7.8823089,
+  "mieter": [
+   "Charisma"
+  ],
+  "parzelle": "523",
+  "egrid": "CH895220933016",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofplatz|13": {
+  "street": "Bahnhofplatz",
+  "hn": "13",
+  "lat": 46.293419,
+  "lng": 7.881522,
+  "mieter": [],
+  "parzelle": "182",
+  "egrid": "CH973021175262",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|balfrinstrasse|5": {
+  "street": "Balfrinstrasse",
+  "hn": "5",
+  "lat": 46.2932486,
+  "lng": 7.8825442,
+  "mieter": [],
+  "parzelle": "522",
+  "egrid": "CH335221305749",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|7": {
+  "street": "Balfrinstrasse",
+  "hn": "7",
+  "lat": 46.2930654,
+  "lng": 7.8828861,
+  "mieter": [],
+  "parzelle": "2604",
+  "egrid": "CH313096522004",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofplatz|15": {
+  "street": "Bahnhofplatz",
+  "hn": "15",
+  "lat": 46.293419,
+  "lng": 7.881522,
+  "mieter": [],
+  "parzelle": "182",
+  "egrid": "CH973021175262",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|bahnhofstrasse|4": {
+  "street": "Bahnhofstrasse",
+  "hn": "4",
+  "lat": 46.3066214,
+  "lng": 7.8789463,
+  "mieter": [
+   "Hotel Baxter",
+   "Barock",
+   "Tizianos"
+  ],
+  "parzelle": "198",
+  "egrid": "CH562052309987",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofplatz|1": {
+  "street": "Bahnhofplatz",
+  "hn": "1",
+  "lat": 46.2937368,
+  "lng": 7.8815361,
+  "mieter": [
+   "SBB Reisezentrum",
+   "Coop Pronto",
+   "BENU Apotheke",
+   "Dennda Orthopaedie"
+  ],
+  "parzelle": "2935",
+  "egrid": "CH673020075209",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofstrasse|10": {
+  "street": "Bahnhofstrasse",
+  "hn": "10",
+  "lat": 46.2925173,
+  "lng": 7.881208,
+  "mieter": [],
+  "parzelle": "2421",
+  "egrid": "CH835221305872",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|11": {
+  "street": "Kantonsstrasse",
+  "hn": "11",
+  "lat": 46.2923871,
+  "lng": 7.8817168,
+  "mieter": [],
+  "parzelle": "2387",
+  "egrid": "CH513095522042",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofplatz|5": {
+  "street": "Bahnhofplatz",
+  "hn": "5",
+  "lat": 46.293289,
+  "lng": 7.882079,
+  "mieter": [],
+  "parzelle": "1834",
+  "egrid": "CH313098522083",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|bahnhofstrasse|6": {
+  "street": "Bahnhofstrasse",
+  "hn": "6",
+  "lat": 46.2926871,
+  "lng": 7.8813008,
+  "mieter": [
+   "Lakshmi"
+  ],
+  "parzelle": "199",
+  "egrid": "CH673020995224",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofplatz|4": {
+  "street": "Bahnhofplatz",
+  "hn": "4",
+  "lat": 46.293319,
+  "lng": 7.882227,
+  "mieter": [],
+  "parzelle": "523",
+  "egrid": "CH895220933016",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|balfrinstrasse|8": {
+  "street": "Balfrinstrasse",
+  "hn": "8",
+  "lat": 46.2928257,
+  "lng": 7.8821597,
+  "mieter": [],
+  "parzelle": "2253",
+  "egrid": "CH202030855276",
+  "quelle": "OSM"
+ },
+ "visp|bahnhofstrasse|2": {
+  "street": "Bahnhofstrasse",
+  "hn": "2",
+  "lat": 46.2930477,
+  "lng": 7.881428,
+  "mieter": [],
+  "parzelle": "197",
+  "egrid": "CH473021465248",
+  "quelle": "OSM"
+ },
+ "visp|balfrinstrasse|3": {
+  "street": "Balfrinstrasse",
+  "hn": "3",
+  "lat": 46.2935101,
+  "lng": 7.8826294,
+  "mieter": [],
+  "parzelle": "514",
+  "egrid": "CH295220933026",
+  "quelle": "OSM"
  },
  "visp|bahnhofstrasse|13": {
   "street": "Bahnhofstrasse",
@@ -247,874 +1048,401 @@
   "lng": 7.8816911,
   "mieter": [
    "Your Happy Food"
-  ]
+  ],
+  "parzelle": "258",
+  "egrid": "CH773020085269",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|36": {
-  "street": "Kantonsstrasse",
-  "hn": "36",
-  "lat": 46.2919902,
-  "lng": 7.8904315,
-  "mieter": []
- },
- "visp|kantonsstrasse|49": {
-  "street": "Kantonsstrasse",
-  "hn": "49",
-  "lat": 46.2934999,
-  "lng": 7.8937559,
-  "mieter": []
- },
- "visp|kantonsstrasse|34": {
-  "street": "Kantonsstrasse",
-  "hn": "34",
-  "lat": 46.2921282,
-  "lng": 7.8903445,
-  "mieter": []
- },
- "visp|kantonsstrasse|59": {
-  "street": "Kantonsstrasse",
-  "hn": "59",
-  "lat": 46.2945474,
-  "lng": 7.8949976,
-  "mieter": []
- },
- "visp|kantonsstrasse|50": {
-  "street": "Kantonsstrasse",
-  "hn": "50",
-  "lat": 46.29287,
-  "lng": 7.8938026,
-  "mieter": []
- },
- "visp|kantonsstrasse|64": {
-  "street": "Kantonsstrasse",
-  "hn": "64",
-  "lat": 46.2932597,
-  "lng": 7.8975433,
-  "mieter": []
- },
- "visp|kantonsstrasse|50a": {
-  "street": "Kantonsstrasse",
-  "hn": "50a",
-  "lat": 46.2929142,
-  "lng": 7.8939846,
-  "mieter": []
- },
- "visp|kantonsstrasse|67c": {
-  "street": "Kantonsstrasse",
-  "hn": "67c",
-  "lat": 46.2941517,
-  "lng": 7.8994066,
-  "mieter": []
- },
- "visp|kantonsstrasse|41b": {
-  "street": "Kantonsstrasse",
-  "hn": "41b",
-  "lat": 46.2927467,
-  "lng": 7.8908947,
-  "mieter": []
- },
- "visp|kantonsstrasse|42": {
-  "street": "Kantonsstrasse",
-  "hn": "42",
-  "lat": 46.2924267,
-  "lng": 7.8921638,
-  "mieter": []
- },
- "visp|kantonsstrasse|30": {
-  "street": "Kantonsstrasse",
-  "hn": "30",
-  "lat": 46.2949248,
-  "lng": 7.9104702,
-  "mieter": []
- },
- "visp|kantonsstrasse|15": {
-  "street": "Kantonsstrasse",
-  "hn": "15",
-  "lat": 46.2949221,
-  "lng": 7.9067845,
-  "mieter": []
- },
- "visp|kantonsstrasse|77": {
-  "street": "Kantonsstrasse",
-  "hn": "77",
-  "lat": 46.2948593,
-  "lng": 7.9023715,
-  "mieter": []
- },
- "visp|kantonsstrasse|73": {
-  "street": "Kantonsstrasse",
-  "hn": "73",
-  "lat": 46.2941004,
-  "lng": 7.9009505,
-  "mieter": []
- },
- "visp|kantonsstrasse|26": {
-  "street": "Kantonsstrasse",
-  "hn": "26",
-  "lat": 46.2948042,
-  "lng": 7.9091844,
-  "mieter": []
- },
- "visp|kantonsstrasse|41": {
-  "street": "Kantonsstrasse",
-  "hn": "41",
-  "lat": 46.295722,
-  "lng": 7.9112817,
-  "mieter": []
- },
- "visp|kantonsstrasse|83": {
-  "street": "Kantonsstrasse",
-  "hn": "83",
-  "lat": 46.2945599,
-  "lng": 7.9029919,
-  "mieter": []
- },
- "visp|kantonsstrasse|9": {
-  "street": "Kantonsstrasse",
-  "hn": "9",
-  "lat": 46.2951661,
-  "lng": 7.9065141,
-  "mieter": []
- },
- "visp|kantonsstrasse|75c": {
-  "street": "Kantonsstrasse",
-  "hn": "75c",
-  "lat": 46.2947618,
-  "lng": 7.9020073,
-  "mieter": []
- },
- "visp|kantonsstrasse|73a": {
-  "street": "Kantonsstrasse",
-  "hn": "73a",
-  "lat": 46.2946296,
-  "lng": 7.9013314,
-  "mieter": []
- },
- "visp|kantonsstrasse|71": {
-  "street": "Kantonsstrasse",
-  "hn": "71",
-  "lat": 46.2940942,
-  "lng": 7.9002756,
-  "mieter": []
- },
- "visp|kantonsstrasse|45": {
-  "street": "Kantonsstrasse",
-  "hn": "45",
-  "lat": 46.2958813,
-  "lng": 7.911932,
-  "mieter": []
- },
- "visp|kantonsstrasse|43": {
-  "street": "Kantonsstrasse",
-  "hn": "43",
-  "lat": 46.2958733,
-  "lng": 7.9116854,
-  "mieter": []
- },
- "visp|kantonsstrasse|22": {
-  "street": "Kantonsstrasse",
-  "hn": "22",
-  "lat": 46.2919498,
-  "lng": 7.8854117,
-  "mieter": []
- },
- "visp|napoleonstrasse|12": {
-  "street": "Napoleonstrasse",
-  "hn": "12",
-  "lat": 46.2916136,
-  "lng": 7.8826354,
-  "mieter": []
- },
- "visp|balfrinstrasse|15a": {
-  "street": "Balfrinstrasse",
-  "hn": "15a",
-  "lat": 46.2912531,
-  "lng": 7.8823383,
-  "mieter": []
- },
- "visp|kantonsstrasse|20": {
-  "street": "Kantonsstrasse",
-  "hn": "20",
-  "lat": 46.2920427,
-  "lng": 7.8846598,
-  "mieter": []
- },
- "visp|balfrinstrasse|17a": {
-  "street": "Balfrinstrasse",
-  "hn": "17a",
-  "lat": 46.2905662,
-  "lng": 7.8824115,
-  "mieter": []
- },
- "visp|kantonsstrasse|20a": {
-  "street": "Kantonsstrasse",
-  "hn": "20a",
-  "lat": 46.2919963,
-  "lng": 7.8850358,
-  "mieter": []
- },
- "visp|balfrinstrasse|7": {
-  "street": "Balfrinstrasse",
-  "hn": "7",
-  "lat": 46.2930654,
-  "lng": 7.8828861,
-  "mieter": []
- },
- "visp|napoleonstrasse|28a": {
-  "street": "Napoleonstrasse",
-  "hn": "28a",
-  "lat": 46.291493,
-  "lng": 7.8867432,
-  "mieter": []
- },
- "visp|napoleonstrasse|28": {
-  "street": "Napoleonstrasse",
-  "hn": "28",
-  "lat": 46.2914684,
-  "lng": 7.8866071,
-  "mieter": []
- },
- "visp|kantonsstrasse|28": {
-  "street": "Kantonsstrasse",
-  "hn": "28",
-  "lat": 46.2918999,
-  "lng": 7.8866571,
-  "mieter": []
- },
- "visp|balfrinstrasse|25": {
-  "street": "Balfrinstrasse",
-  "hn": "25",
-  "lat": 46.2893841,
-  "lng": 7.8827194,
-  "mieter": []
- },
- "visp|napoleonstrasse|22": {
-  "street": "Napoleonstrasse",
-  "hn": "22",
-  "lat": 46.2913703,
-  "lng": 7.8857808,
-  "mieter": []
- },
- "visp|napoleonstrasse|24": {
-  "street": "Napoleonstrasse",
-  "hn": "24",
-  "lat": 46.2911745,
-  "lng": 7.885782,
-  "mieter": []
- },
- "visp|balfrinstrasse|21": {
-  "street": "Balfrinstrasse",
-  "hn": "21",
-  "lat": 46.2899419,
-  "lng": 7.8827566,
-  "mieter": []
- },
- "visp|napoleonstrasse|7": {
-  "street": "Napoleonstrasse",
-  "hn": "7",
-  "lat": 46.2916969,
-  "lng": 7.8837079,
-  "mieter": []
- },
- "visp|balfrinstrasse|3": {
-  "street": "Balfrinstrasse",
-  "hn": "3",
-  "lat": 46.2935101,
-  "lng": 7.8826294,
-  "mieter": []
- },
- "visp|balfrinstrasse|19": {
-  "street": "Balfrinstrasse",
-  "hn": "19",
-  "lat": 46.2900907,
-  "lng": 7.8827974,
-  "mieter": []
- },
- "visp|napoleonstrasse|20": {
-  "street": "Napoleonstrasse",
-  "hn": "20",
-  "lat": 46.2911813,
-  "lng": 7.8848871,
-  "mieter": []
- },
- "visp|napoleonstrasse|18": {
-  "street": "Napoleonstrasse",
-  "hn": "18",
-  "lat": 46.2911883,
-  "lng": 7.8846743,
-  "mieter": []
- },
- "visp|kantonsstrasse|31": {
-  "street": "Kantonsstrasse",
-  "hn": "31",
-  "lat": 46.2925777,
-  "lng": 7.8858581,
-  "mieter": []
- },
- "visp|balfrinstrasse|23": {
-  "street": "Balfrinstrasse",
-  "hn": "23",
-  "lat": 46.2900012,
-  "lng": 7.883111,
-  "mieter": []
- },
- "visp|balfrinstrasse|27": {
-  "street": "Balfrinstrasse",
-  "hn": "27",
-  "lat": 46.2890925,
-  "lng": 7.8825742,
-  "mieter": []
- },
- "visp|napoleonstrasse|3": {
-  "street": "Napoleonstrasse",
-  "hn": "3",
-  "lat": 46.2918288,
-  "lng": 7.8827059,
-  "mieter": []
- },
- "visp|napoleonstrasse|28c": {
-  "street": "Napoleonstrasse",
-  "hn": "28c",
-  "lat": 46.2913537,
-  "lng": 7.8875519,
-  "mieter": []
- },
- "visp|balfrinstrasse|16": {
-  "street": "Balfrinstrasse",
-  "hn": "16",
-  "lat": 46.2911734,
-  "lng": 7.8821122,
-  "mieter": []
- },
- "visp|bahnhofstrasse|25": {
+ "visp|bahnhofstrasse|17": {
   "street": "Bahnhofstrasse",
-  "hn": "25",
-  "lat": 46.2915161,
-  "lng": 7.8814545,
-  "mieter": []
- },
- "visp|balfrinstrasse|28": {
-  "street": "Balfrinstrasse",
-  "hn": "28",
-  "lat": 46.2894311,
-  "lng": 7.8822422,
-  "mieter": []
- },
- "visp|napoleonstrasse|6": {
-  "street": "Napoleonstrasse",
-  "hn": "6",
-  "lat": 46.2917465,
-  "lng": 7.8815899,
-  "mieter": []
- },
- "visp|bahnhofstrasse|20": {
-  "street": "Bahnhofstrasse",
-  "hn": "20",
-  "lat": 46.2913674,
-  "lng": 7.8812642,
-  "mieter": []
- },
- "visp|balfrinstrasse|32": {
-  "street": "Balfrinstrasse",
-  "hn": "32",
-  "lat": 46.2891424,
-  "lng": 7.882277,
-  "mieter": []
- },
- "visp|bahnhofstrasse|11": {
-  "street": "Bahnhofstrasse",
-  "hn": "11",
-  "lat": 46.2930738,
-  "lng": 7.8818746,
-  "mieter": []
- },
- "visp|napoleonstrasse|8": {
-  "street": "Napoleonstrasse",
-  "hn": "8",
-  "lat": 46.2917581,
-  "lng": 7.8817754,
-  "mieter": []
+  "hn": "17",
+  "lat": 46.2924095,
+  "lng": 7.8814044,
+  "mieter": [
+   "McDonald's"
+  ],
+  "parzelle": "2386",
+  "egrid": "CH502030955241",
+  "quelle": "OSM"
  },
  "visp|bahnhofstrasse|7": {
   "street": "Bahnhofstrasse",
   "hn": "7",
   "lat": 46.2933037,
   "lng": 7.8819579,
-  "mieter": []
+  "mieter": [
+   "A. Zuber",
+   "P2"
+  ],
+  "parzelle": "2428",
+  "egrid": "CH622095523090",
+  "quelle": "OSM"
  },
- "visp|bahnhofstrasse|22": {
+ "visp|bahnhofstrasse|15": {
   "street": "Bahnhofstrasse",
-  "hn": "22",
-  "lat": 46.2910843,
-  "lng": 7.8813451,
-  "mieter": []
+  "hn": "15",
+  "lat": 46.2927341,
+  "lng": 7.881635,
+  "mieter": [
+   "Dosenbach"
+  ],
+  "parzelle": "206",
+  "egrid": "CH758552223087",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|12a": {
+ "visp|kantonsstrasse|13": {
   "street": "Kantonsstrasse",
-  "hn": "12a",
-  "lat": 46.2921342,
-  "lng": 7.8819873,
-  "mieter": []
- },
- "visp|napoleonstrasse|2": {
-  "street": "Napoleonstrasse",
-  "hn": "2",
-  "lat": 46.2917369,
-  "lng": 7.881461,
-  "mieter": []
- },
- "visp|balfrinstrasse|10": {
-  "street": "Balfrinstrasse",
-  "hn": "10",
-  "lat": 46.2927484,
-  "lng": 7.8822149,
-  "mieter": []
- },
- "visp|kantonsstrasse|6a": {
-  "street": "Kantonsstrasse",
-  "hn": "6a",
-  "lat": 46.2920397,
-  "lng": 7.8808446,
-  "mieter": []
- },
- "visp|kantonsstrasse|2": {
-  "street": "Kantonsstrasse",
-  "hn": "2",
-  "lat": 46.2921434,
-  "lng": 7.8796256,
-  "mieter": []
- },
- "visp|kantonsstrasse|5": {
-  "street": "Kantonsstrasse",
-  "hn": "5",
-  "lat": 46.2924174,
-  "lng": 7.8808736,
-  "mieter": []
- },
- "visp|bahnhofstrasse|31": {
-  "street": "Bahnhofstrasse",
-  "hn": "31",
-  "lat": 46.2911115,
-  "lng": 7.8814491,
-  "mieter": []
+  "hn": "13",
+  "lat": 46.292467,
+  "lng": 7.882003,
+  "mieter": [
+   "Zurich"
+  ],
+  "parzelle": "365",
+  "egrid": "CH188552302232",
+  "quelle": "OSM"
  },
  "visp|bahnhofstrasse|9": {
   "street": "Bahnhofstrasse",
   "hn": "9",
   "lat": 46.2931869,
   "lng": 7.881931,
-  "mieter": []
+  "mieter": [
+   "Hotel Elite"
+  ],
+  "parzelle": "3041",
+  "egrid": "CH650652213026",
+  "quelle": "OSM"
  },
- "visp|bahnhofstrasse|21": {
-  "street": "Bahnhofstrasse",
-  "hn": "21",
-  "lat": 46.2919684,
-  "lng": 7.8812914,
-  "mieter": []
- },
- "visp|napoleonstrasse|1": {
-  "street": "Napoleonstrasse",
-  "hn": "1",
-  "lat": 46.2919197,
-  "lng": 7.8820096,
-  "mieter": []
- },
- "visp|kantonsstrasse|12": {
-  "street": "Kantonsstrasse",
-  "hn": "12",
-  "lat": 46.2921533,
-  "lng": 7.881702,
-  "mieter": []
- },
- "visp|kantonsstrasse|11": {
-  "street": "Kantonsstrasse",
-  "hn": "11",
-  "lat": 46.2923871,
-  "lng": 7.8817168,
-  "mieter": []
- },
- "visp|kantonsstrasse|27": {
-  "street": "Kantonsstrasse",
-  "hn": "27",
-  "lat": 46.2922848,
-  "lng": 7.8857246,
-  "mieter": []
- },
- "visp|balfrinstrasse|8": {
+ "visp|balfrinstrasse|9": {
   "street": "Balfrinstrasse",
-  "hn": "8",
-  "lat": 46.2928257,
-  "lng": 7.8821597,
-  "mieter": []
+  "hn": "9",
+  "lat": 46.292576,
+  "lng": 7.882636,
+  "mieter": [],
+  "parzelle": "2604",
+  "egrid": "CH313096522004",
+  "quelle": "GWR (EXTRA)"
  },
- "visp|napoleonstrasse|9a": {
+ "visp|bahnhofplatz|14": {
+  "street": "Bahnhofplatz",
+  "hn": "14",
+  "lat": 46.293419,
+  "lng": 7.881522,
+  "mieter": [
+   "UBS"
+  ],
+  "parzelle": "182",
+  "egrid": "CH973021175262",
+  "quelle": "GWR (EXTRA)"
+ },
+ "visp|napoleonstrasse|20": {
   "street": "Napoleonstrasse",
-  "hn": "9a",
-  "lat": 46.29134,
-  "lng": 7.8844531,
-  "mieter": []
- },
- "visp|napoleonstrasse|32": {
-  "street": "Napoleonstrasse",
-  "hn": "32",
-  "lat": 46.2916685,
-  "lng": 7.8876474,
-  "mieter": []
- },
- "visp|balfrinstrasse|11": {
-  "street": "Balfrinstrasse",
-  "hn": "11",
-  "lat": 46.2918912,
-  "lng": 7.8822962,
-  "mieter": []
- },
- "visp|kantonsstrasse|24": {
-  "street": "Kantonsstrasse",
-  "hn": "24",
-  "lat": 46.2919119,
-  "lng": 7.8859046,
-  "mieter": []
- },
- "visp|balfrinstrasse|22": {
-  "street": "Balfrinstrasse",
-  "hn": "22",
-  "lat": 46.2900789,
-  "lng": 7.8824154,
-  "mieter": []
- },
- "visp|napoleonstrasse|26a": {
-  "street": "Napoleonstrasse",
-  "hn": "26a",
-  "lat": 46.2914362,
-  "lng": 7.8858751,
-  "mieter": []
- },
- "visp|kantonsstrasse|41c": {
-  "street": "Kantonsstrasse",
-  "hn": "41c",
-  "lat": 46.2929892,
-  "lng": 7.8925812,
-  "mieter": []
- },
- "visp|napoleonstrasse|13": {
-  "street": "Napoleonstrasse",
-  "hn": "13",
-  "lat": 46.2915524,
-  "lng": 7.8851615,
-  "mieter": []
- },
- "visp|kantonsstrasse|33": {
-  "street": "Kantonsstrasse",
-  "hn": "33",
-  "lat": 46.2923243,
-  "lng": 7.8862583,
-  "mieter": []
- },
- "visp|balfrinstrasse|30": {
-  "street": "Balfrinstrasse",
-  "hn": "30",
-  "lat": 46.289175,
-  "lng": 7.8819576,
-  "mieter": []
- },
- "visp|bahnhofstrasse|19": {
-  "street": "Bahnhofstrasse",
-  "hn": "19",
-  "lat": 46.2921544,
-  "lng": 7.8814035,
-  "mieter": []
- },
- "visp|bahnhofstrasse|18": {
-  "street": "Bahnhofstrasse",
-  "hn": "18",
-  "lat": 46.2915466,
-  "lng": 7.8812196,
-  "mieter": []
- },
- "visp|kantonsstrasse|32d": {
-  "street": "Kantonsstrasse",
-  "hn": "32d",
-  "lat": 46.29167,
-  "lng": 7.8901979,
-  "mieter": []
- },
- "visp|kantonsstrasse|32": {
-  "street": "Kantonsstrasse",
-  "hn": "32",
-  "lat": 46.2918246,
-  "lng": 7.8891064,
-  "mieter": []
+  "hn": "20",
+  "lat": 46.2911813,
+  "lng": 7.8848871,
+  "mieter": [],
+  "parzelle": "5421",
+  "egrid": "CH473050165271",
+  "quelle": "OSM"
  },
  "visp|napoleonstrasse|26": {
   "street": "Napoleonstrasse",
   "hn": "26",
   "lat": 46.2911134,
   "lng": 7.8858994,
-  "mieter": []
+  "mieter": [],
+  "parzelle": "1924",
+  "egrid": "CH250752203041",
+  "quelle": "OSM"
  },
- "visp|balfrinstrasse|17": {
-  "street": "Balfrinstrasse",
-  "hn": "17",
-  "lat": 46.2907565,
-  "lng": 7.8823547,
-  "mieter": []
- },
- "visp|napoleonstrasse|30": {
+ "visp|napoleonstrasse|11a": {
   "street": "Napoleonstrasse",
-  "hn": "30",
-  "lat": 46.2917131,
-  "lng": 7.8873285,
-  "mieter": []
+  "hn": "11a",
+  "lat": 46.291291,
+  "lng": 7.884573,
+  "mieter": [],
+  "parzelle": "2182",
+  "egrid": "CH335220300909",
+  "quelle": "GWR (EXTRA)"
  },
- "visp|kantonsstrasse|68a": {
-  "street": "Kantonsstrasse",
-  "hn": "68a",
-  "lat": 46.293505,
-  "lng": 7.9013737,
-  "mieter": []
- },
- "visp|kantonsstrasse|69": {
-  "street": "Kantonsstrasse",
-  "hn": "69",
-  "lat": 46.294784,
-  "lng": 7.9003053,
-  "mieter": []
- },
- "visp|kantonsstrasse|55": {
-  "street": "Kantonsstrasse",
-  "hn": "55",
-  "lat": 46.2936583,
-  "lng": 7.8946267,
-  "mieter": []
- },
- "visp|kantonsstrasse|85": {
-  "street": "Kantonsstrasse",
-  "hn": "85",
-  "lat": 46.2947197,
-  "lng": 7.9034994,
-  "mieter": []
- },
- "visp|kantonsstrasse|3": {
-  "street": "Kantonsstrasse",
-  "hn": "3",
-  "lat": 46.2947977,
-  "lng": 7.9057302,
-  "mieter": []
- },
- "visp|kantonsstrasse|64a": {
-  "street": "Kantonsstrasse",
-  "hn": "64a",
-  "lat": 46.2932944,
-  "lng": 7.897868,
-  "mieter": []
- },
- "visp|kantonsstrasse|65": {
-  "street": "Kantonsstrasse",
-  "hn": "65",
-  "lat": 46.2938805,
-  "lng": 7.8975096,
-  "mieter": []
- },
- "visp|kantonsstrasse|29": {
-  "street": "Kantonsstrasse",
-  "hn": "29",
-  "lat": 46.2953336,
-  "lng": 7.9095004,
-  "mieter": []
- },
- "visp|kantonsstrasse|40": {
-  "street": "Kantonsstrasse",
-  "hn": "40",
-  "lat": 46.2953323,
-  "lng": 7.9119792,
-  "mieter": []
- },
- "visp|kantonsstrasse|57": {
-  "street": "Kantonsstrasse",
-  "hn": "57",
-  "lat": 46.2935837,
-  "lng": 7.895288,
-  "mieter": []
- },
- "visp|bahnhofstrasse|6": {
-  "street": "Bahnhofstrasse",
-  "hn": "6",
-  "lat": 46.2926871,
-  "lng": 7.8813008,
-  "mieter": []
- },
- "visp|balfrinstrasse|2": {
-  "street": "Balfrinstrasse",
-  "hn": "2",
-  "lat": 46.2932785,
-  "lng": 7.8823089,
-  "mieter": []
- },
- "visp|kantonsstrasse|38": {
-  "street": "Kantonsstrasse",
-  "hn": "38",
-  "lat": 46.291811,
-  "lng": 7.8902483,
-  "mieter": []
- },
- "visp|napoleonstrasse|34": {
+ "visp|napoleonstrasse|18": {
   "street": "Napoleonstrasse",
-  "hn": "34",
-  "lat": 46.291786,
-  "lng": 7.8881615,
-  "mieter": []
- },
- "visp|napoleonstrasse|17": {
-  "street": "Napoleonstrasse",
-  "hn": "17",
-  "lat": 46.2916326,
-  "lng": 7.8858762,
-  "mieter": []
- },
- "visp|balfrinstrasse|13": {
-  "street": "Balfrinstrasse",
-  "hn": "13",
-  "lat": 46.2916118,
-  "lng": 7.8822521,
-  "mieter": []
- },
- "visp|bahnhofstrasse|27": {
-  "street": "Bahnhofstrasse",
-  "hn": "27",
-  "lat": 46.2914432,
-  "lng": 7.8814152,
-  "mieter": []
- },
- "visp|bahnhofstrasse|10": {
-  "street": "Bahnhofstrasse",
-  "hn": "10",
-  "lat": 46.2925173,
-  "lng": 7.881208,
-  "mieter": []
- },
- "visp|kantonsstrasse|18": {
-  "street": "Kantonsstrasse",
   "hn": "18",
-  "lat": 46.2919816,
-  "lng": 7.8841792,
-  "mieter": []
- },
- "visp|kantonsstrasse|14a": {
-  "street": "Kantonsstrasse",
-  "hn": "14a",
-  "lat": 46.2919609,
-  "lng": 7.8826175,
-  "mieter": []
- },
- "visp|napoleonstrasse|10": {
-  "street": "Napoleonstrasse",
-  "hn": "10",
-  "lat": 46.2917547,
-  "lng": 7.8818082,
-  "mieter": []
- },
- "visp|balfrinstrasse|14": {
-  "street": "Balfrinstrasse",
-  "hn": "14",
-  "lat": 46.2914889,
-  "lng": 7.8819848,
-  "mieter": []
- },
- "visp|kantonsstrasse|7": {
-  "street": "Kantonsstrasse",
-  "hn": "7",
-  "lat": 46.2929238,
-  "lng": 7.8778799,
-  "mieter": []
+  "lat": 46.2911883,
+  "lng": 7.8846743,
+  "mieter": [],
+  "parzelle": "5421",
+  "egrid": "CH473050165271",
+  "quelle": "OSM"
  },
  "visp|napoleonstrasse|28b": {
   "street": "Napoleonstrasse",
   "hn": "28b",
   "lat": 46.2912212,
   "lng": 7.8871598,
-  "mieter": []
+  "mieter": [],
+  "parzelle": "594",
+  "egrid": "CH535220300938",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|39": {
-  "street": "Kantonsstrasse",
-  "hn": "39",
-  "lat": 46.2923043,
-  "lng": 7.8883575,
-  "mieter": []
- },
- "visp|napoleonstrasse|9": {
+ "visp|napoleonstrasse|11b": {
   "street": "Napoleonstrasse",
-  "hn": "9",
-  "lat": 46.2913543,
-  "lng": 7.8839795,
-  "mieter": []
+  "hn": "11b",
+  "lat": 46.291291,
+  "lng": 7.884573,
+  "mieter": [],
+  "parzelle": "2182",
+  "egrid": "CH335220300909",
+  "quelle": "GWR (EXTRA)"
  },
- "visp|napoleonstrasse|5": {
+ "visp|napoleonstrasse|24": {
   "street": "Napoleonstrasse",
-  "hn": "5",
-  "lat": 46.2915083,
-  "lng": 7.8837331,
-  "mieter": []
+  "hn": "24",
+  "lat": 46.2911745,
+  "lng": 7.885782,
+  "mieter": [],
+  "parzelle": "1924",
+  "egrid": "CH250752203041",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|16": {
-  "street": "Kantonsstrasse",
-  "hn": "16",
-  "lat": 46.2920459,
-  "lng": 7.8838553,
-  "mieter": []
+ "visp|napoleonstrasse|9a": {
+  "street": "Napoleonstrasse",
+  "hn": "9a",
+  "lat": 46.29134,
+  "lng": 7.8844531,
+  "mieter": [],
+  "parzelle": "3352",
+  "egrid": "CH602130185217",
+  "quelle": "OSM"
  },
- "visp|balfrinstrasse|5": {
-  "street": "Balfrinstrasse",
-  "hn": "5",
-  "lat": 46.2932486,
-  "lng": 7.8825442,
-  "mieter": []
+ "visp|napoleonstrasse|22": {
+  "street": "Napoleonstrasse",
+  "hn": "22",
+  "lat": 46.2913703,
+  "lng": 7.8857808,
+  "mieter": [],
+  "parzelle": "1924",
+  "egrid": "CH250752203041",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|1a": {
-  "street": "Kantonsstrasse",
-  "hn": "1a",
-  "lat": 46.2925403,
-  "lng": 7.8797456,
-  "mieter": []
+ "visp|napoleonstrasse|26a": {
+  "street": "Napoleonstrasse",
+  "hn": "26a",
+  "lat": 46.2914362,
+  "lng": 7.8858751,
+  "mieter": [],
+  "parzelle": "1924",
+  "egrid": "CH250752203041",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|53": {
-  "street": "Kantonsstrasse",
-  "hn": "53",
-  "lat": 46.2934232,
-  "lng": 7.8942719,
-  "mieter": []
+ "visp|napoleonstrasse|28c": {
+  "street": "Napoleonstrasse",
+  "hn": "28c",
+  "lat": 46.2913537,
+  "lng": 7.8875519,
+  "mieter": [],
+  "parzelle": "594",
+  "egrid": "CH535220300938",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|48": {
-  "street": "Kantonsstrasse",
-  "hn": "48",
-  "lat": 46.3003841,
-  "lng": 7.8955119,
-  "mieter": []
+ "visp|napoleonstrasse|28a": {
+  "street": "Napoleonstrasse",
+  "hn": "28a",
+  "lat": 46.291493,
+  "lng": 7.8867432,
+  "mieter": [],
+  "parzelle": "2900",
+  "egrid": "CH702230245235",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|44": {
-  "street": "Kantonsstrasse",
-  "hn": "44",
-  "lat": 46.3007686,
-  "lng": 7.8941562,
-  "mieter": []
+ "visp|napoleonstrasse|13": {
+  "street": "Napoleonstrasse",
+  "hn": "13",
+  "lat": 46.2915524,
+  "lng": 7.8851615,
+  "mieter": [],
+  "parzelle": "576",
+  "egrid": "CH243052222483",
+  "quelle": "OSM"
  },
- "visp|kantonsstrasse|4": {
-  "street": "Kantonsstrasse",
-  "hn": "4",
-  "lat": 46.2921192,
-  "lng": 7.8806648,
-  "mieter": []
- },
- "visp|bahnhofstrasse|2": {
-  "street": "Bahnhofstrasse",
-  "hn": "2",
-  "lat": 46.2930477,
-  "lng": 7.881428,
-  "mieter": []
- },
- "visp|bahnhofstrasse|28": {
-  "street": "Bahnhofstrasse",
+ "visp|napoleonstrasse|28": {
+  "street": "Napoleonstrasse",
   "hn": "28",
-  "lat": 46.3063669,
-  "lng": 7.881127,
-  "mieter": []
+  "lat": 46.2914684,
+  "lng": 7.8866071,
+  "mieter": [],
+  "parzelle": "2900",
+  "egrid": "CH702230245235",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|27": {
+  "street": "Kantonsstrasse",
+  "hn": "27",
+  "lat": 46.2922848,
+  "lng": 7.8857246,
+  "mieter": [],
+  "parzelle": "591",
+  "egrid": "CH495221193074",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|28": {
+  "street": "Kantonsstrasse",
+  "hn": "28",
+  "lat": 46.2918999,
+  "lng": 7.8866571,
+  "mieter": [
+   "Bristol"
+  ],
+  "parzelle": "2175",
+  "egrid": "CH322009523093",
+  "quelle": "OSM"
+ },
+ "visp|napoleonstrasse|15": {
+  "street": "Napoleonstrasse",
+  "hn": "15",
+  "lat": 46.2915699,
+  "lng": 7.8855543,
+  "mieter": [
+   "Ken's Bikeshop"
+  ],
+  "parzelle": "2247",
+  "egrid": "CH273020855208",
+  "quelle": "OSM"
+ },
+ "visp|napoleonstrasse|32": {
+  "street": "Napoleonstrasse",
+  "hn": "32",
+  "lat": 46.2916685,
+  "lng": 7.8876474,
+  "mieter": [
+   "Denner"
+  ],
+  "parzelle": "595",
+  "egrid": "CH402130195282",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|29": {
+  "street": "Kantonsstrasse",
+  "hn": "29",
+  "lat": 46.2953336,
+  "lng": 7.9095004,
+  "mieter": [],
+  "parzelle": "2167",
+  "egrid": "CH982552302222",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|20": {
+  "street": "Kantonsstrasse",
+  "hn": "20",
+  "lat": 46.2920427,
+  "lng": 7.8846598,
+  "mieter": [],
+  "parzelle": "2250",
+  "egrid": "CH773022225209",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|24": {
+  "street": "Kantonsstrasse",
+  "hn": "24",
+  "lat": 46.2919119,
+  "lng": 7.8859046,
+  "mieter": [],
+  "parzelle": "2284",
+  "egrid": "CH413085522069",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|22": {
+  "street": "Kantonsstrasse",
+  "hn": "22",
+  "lat": 46.2919498,
+  "lng": 7.8854117,
+  "mieter": [],
+  "parzelle": "592",
+  "egrid": "CH513009522040",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|26": {
+  "street": "Kantonsstrasse",
+  "hn": "26",
+  "lat": 46.2948042,
+  "lng": 7.9091844,
+  "mieter": [],
+  "parzelle": "2496",
+  "egrid": "CH562252308448",
+  "quelle": "OSM"
+ },
+ "visp|napoleonstrasse|17": {
+  "street": "Napoleonstrasse",
+  "hn": "17",
+  "lat": 46.2916326,
+  "lng": 7.8858762,
+  "mieter": [],
+  "parzelle": "540",
+  "egrid": "CH735221301849",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|20a": {
+  "street": "Kantonsstrasse",
+  "hn": "20a",
+  "lat": 46.2919963,
+  "lng": 7.8850358,
+  "mieter": [],
+  "parzelle": "2250",
+  "egrid": "CH773022225209",
+  "quelle": "OSM"
+ },
+ "visp|napoleonstrasse|30": {
+  "street": "Napoleonstrasse",
+  "hn": "30",
+  "lat": 46.2917131,
+  "lng": 7.8873285,
+  "mieter": [],
+  "parzelle": "593",
+  "egrid": "CH522009523025",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|33": {
+  "street": "Kantonsstrasse",
+  "hn": "33",
+  "lat": 46.2923243,
+  "lng": 7.8862583,
+  "mieter": [],
+  "parzelle": "2168",
+  "egrid": "CH313009522011",
+  "quelle": "OSM"
+ },
+ "visp|kantonsstrasse|31": {
+  "street": "Kantonsstrasse",
+  "hn": "31",
+  "lat": 46.2925777,
+  "lng": 7.8858581,
+  "mieter": [],
+  "parzelle": "3006",
+  "egrid": "CH681752302150",
+  "quelle": "OSM"
+ },
+ "visp|napoleonstrasse|34": {
+  "street": "Napoleonstrasse",
+  "hn": "34",
+  "lat": 46.291786,
+  "lng": 7.8881615,
+  "mieter": [],
+  "parzelle": "520",
+  "egrid": "CH322157523022",
+  "quelle": "OSM"
+ },
+ "visp|brückenweg|10": {
+  "street": "Brückenweg",
+  "hn": "10",
+  "lat": 46.2932642,
+  "lng": 7.8797966,
+  "mieter": [
+   "Migros",
+   "Migros Restaurant"
+  ],
+  "parzelle": "176",
+  "egrid": "CH522099523088",
+  "quelle": "OSM"
  }
 }

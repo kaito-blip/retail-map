@@ -1247,14 +1247,14 @@
     "strassen": [
       "Bahnhofstrasse",
       "Kantonsstrasse",
-      "Kaufplatz",
-      "Balfrinstrasse",
-      "Napoleonstrasse"
+      "Bahnhofplatz",
+      "Brückenweg",
+      "Kaufplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "",
-    "offen": "155"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-10",
+    "eigentuemer_quelle": "Register (Turidomus/Pensimo, SBB OGD); Rest Anfrage GBA Brig bzw. online.vs.ch (VS_Visp.csv)",
+    "offen": "130"
   },
   {
     "kanton": "VS",
