@@ -1160,11 +1160,12 @@
       "Via Stefano Franscini",
       "Via Luigi Lavizzari",
       "Piazzale alla Valle",
-      "Via Vincenzo Vela"
+      "Via Angelo Maspoli",
+      "Via Giuseppe Motta"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 3",
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-10",
+    "eigentuemer_quelle": "Eigentümer-Register (SBB-OGD, UBS Residentia Jahresbericht 30.06.2026): 5; Rest Anfrage an Ufficio del registro fondiario di Mendrisio",
     "offen": "115"
   },
   {
