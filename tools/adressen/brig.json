@@ -298,6 +298,13 @@
    "Unia"
   ]
  },
+ "brig|furkastrasse|16": {
+  "street": "Furkastrasse",
+  "hn": "16",
+  "lat": 46.317703,
+  "lng": 7.9866284,
+  "mieter": []
+ },
  "brig|alte simplonstrasse|71": {
   "street": "Alte Simplonstrasse",
   "hn": "71",
@@ -415,6 +422,20 @@
   "hn": "27",
   "lat": 46.316068,
   "lng": 7.9899923,
+  "mieter": []
+ },
+ "brig|furkastrasse|19": {
+  "street": "Furkastrasse",
+  "hn": "19",
+  "lat": 46.3176797,
+  "lng": 7.9863089,
+  "mieter": []
+ },
+ "brig|furkastrasse|17": {
+  "street": "Furkastrasse",
+  "hn": "17",
+  "lat": 46.3175071,
+  "lng": 7.9865128,
   "mieter": []
  },
  "brig|alte simplonstrasse|29": {
@@ -1241,13 +1262,6 @@
   "hn": "34",
   "lat": 46.3234794,
   "lng": 7.991012,
-  "mieter": []
- },
- "brig|furkastrasse|16": {
-  "street": "Furkastrasse",
-  "hn": "16",
-  "lat": 46.3228979,
-  "lng": 7.9887309,
   "mieter": []
  },
  "brig|furkastrasse|20": {

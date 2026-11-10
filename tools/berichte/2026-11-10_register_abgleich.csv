@@ -1,9 +1,6 @@
 Art;Key;Eigentümer neu;Eigentümer bisher;Quelle/Notiz
-owner;visp|bahnhofplatz|1;Schweizerische Bundesbahnen SBB;;Eigentümer lt. SBB: OGD Parzellen der SBB, Visp Parz. 2935 (EGRID CH673020075209), Adresse via amtl. Gebäudeadressverzeichnis (Punkt in Parzelle) (06.11.2023)
-owner;visp|brückenweg|10;Anlagestiftung Turidomus, Anlagegruppe Casareal;;"Eigentümer lt. Turidomus Casareal: Portfolio Turidomus (Liegenschaftenliste Website); Nutzung abgeleitet aus Wohnungen/kommerz. Nutzfläche (31.12.2025)"
-owner;visp|brückenweg|12;Anlagestiftung Turidomus, Anlagegruppe Casareal;;"Eigentümer lt. Turidomus Casareal: Portfolio Turidomus (Liegenschaftenliste Website); Nutzung abgeleitet aus Wohnungen/kommerz. Nutzfläche (31.12.2025)"
-owner;visp|brückenweg|14;Anlagestiftung Turidomus, Anlagegruppe Casareal;;"Eigentümer lt. Turidomus Casareal: Portfolio Turidomus (Liegenschaftenliste Website); Nutzung abgeleitet aus Wohnungen/kommerz. Nutzfläche (31.12.2025)"
-owner;visp|brückenweg|8;Anlagestiftung Turidomus, Anlagegruppe Casareal;;"Eigentümer lt. Turidomus Casareal: Portfolio Turidomus (Liegenschaftenliste Website); Nutzung abgeleitet aus Wohnungen/kommerz. Nutzfläche (31.12.2025)"
+owner;brig|bahnhofplatz|2;Schweizerische Bundesbahnen SBB;;Eigentümer lt. SBB: OGD Parzellen der SBB, Brig-Glis Parz. 392 (EGRID CH813042527175), Adresse via amtl. Gebäudeadressverzeichnis (Punkt in Parzelle) (06.11.2023)
+owner;brig|bahnhofplatz|6;Schweizerische Bundesbahnen SBB;;Eigentümer lt. SBB: OGD Parzellen der SBB, Brig-Glis Parz. 392 (EGRID CH813042527175), Adresse via amtl. Gebäudeadressverzeichnis (Punkt in Parzelle) (06.11.2023)
 konflikt;bern|spitalgasse|2;Swisscanto Anlagestiftung (Anlagegruppe Swisscanto AST Immobilien Responsible Schweiz);Vondal-Grüebler Corinne / Grüebler Yves;Swisscanto AST Immobilien Responsible Schweiz: Immobilienbericht 2025/2026, Liegenschaften per 30.06.2026 PDF-S. 13–19 (2026-06-30)
 konflikt;zürich (kreis 1)|bahnhofstrasse|82;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
 konflikt;zürich (kreis 1)|bahnhofstrasse|82a;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima» / UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Swissreal»;"Zurimo "" B "" Immobilien AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 1/5 Turintra AG, mit Sitz in Zürich, Aktiengesellschaft, Bahnhofstrasse 45, 8001 Zürich, Schweiz, Miteigentum zu 4/5";"UBS Sima: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 30 (2026-06-30); UBS Swissreal: Halbjahresbericht per 30.06.2026, Liegenschaftenverzeichnis S. 16 (2026-06-30)"
@@ -474,6 +471,11 @@ bestätigt;vevey|rue du simplon|2;;Bonhôte-Immobilier SICAV;
 bestätigt;vevey|rue du simplon|35;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Commercial «Interswiss»;
 bestätigt;vevey|rue du simplon|4;;Bonhôte-Immobilier SICAV;
 bestätigt;vevey|rue du simplon|48;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Residential «Siat»;
+bestätigt;visp|bahnhofplatz|1;;Schweizerische Bundesbahnen SBB;
+bestätigt;visp|brückenweg|10;;Anlagestiftung Turidomus, Anlagegruppe Casareal;
+bestätigt;visp|brückenweg|12;;Anlagestiftung Turidomus, Anlagegruppe Casareal;
+bestätigt;visp|brückenweg|14;;Anlagestiftung Turidomus, Anlagegruppe Casareal;
+bestätigt;visp|brückenweg|8;;Anlagestiftung Turidomus, Anlagegruppe Casareal;
 bestätigt;weinfelden|marktplatz|3;;Pensionskasse Thurgau;
 bestätigt;weinfelden|marktplatz|5;;Pensionskasse Thurgau;
 bestätigt;weinfelden|rathausstrasse|11;;UBS Fund Management (Switzerland) AG für UBS (CH) Property Fund – Swiss Mixed «Sima»;

@@ -1266,11 +1266,12 @@
       "Furkastrasse",
       "Sebastiansplatz",
       "Alte Simplonstrasse",
-      "Saflischstrasse"
+      "Saflischstrasse",
+      "Bahnhofplatz"
     ],
-    "strassen_ok": false,
-    "letzter_lauf": "",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 1",
-    "offen": "174"
+    "strassen_ok": true,
+    "letzter_lauf": "2026-11-10",
+    "eigentuemer_quelle": "Register (SBB OGD), Stockalperschloss Stadtgemeinde (KGS/GSK); Rest Anfrage GBA Brig bzw. online.vs.ch, Brig-Glis nur partiel (VS_Brig.csv)",
+    "offen": "93"
   }
 ]
