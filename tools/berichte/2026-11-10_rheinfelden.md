@@ -7,7 +7,7 @@ Kandidat für später: Brodlaube (rund 15 kleine POIs, Coiffeur, Massage, Bestat
 
 ## Ergebnis
 - Adressen: 166 (Marktgasse 67, Kaiserstrasse 27, Geissgasse 21, Bahnhofstrasse 20, Kupfergasse 18, Fröschweid 13)
-- Adressen mit Mieter: 79, davon 78 neu. 109 POIs ohne Adresse wurden per OSM-Gebäudeumriss einer Adresse zugeordnet (Hinweis in notes).
+- Adressen mit Mieter: 79, davon 78 neu. 71 POIs ohne Adresse wurden per OSM-Gebäudeumriss einer Adresse zugeordnet (Hinweis in notes).
 - Parzelle und E-GRID: alle 166 (geo.admin, 162 über die Adresse, 4 per OSM-Koordinate: Marktgasse 10, 18, Bahnhofstrasse 8, Kupfergasse 7).
 - Eigentümer: 4 von 166, davon 1 neu.
   - Neu Marktgasse 12 (Haus zur Sonne): Stiftung Fricktaler Museum Rheinfelden, CHE-255.941.232. Schenkung durch die Einwohnergemeinde, Rechnung 2025 in der Botschaft EWG vom 17.06.2026.
