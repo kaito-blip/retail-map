@@ -29,9 +29,9 @@
       "Rue du Mont-Blanc"
     ],
     "strassen_ok": true,
-    "letzter_lauf": "2026-11-03",
-    "eigentuemer_quelle": "Grundbuch GE Extrait foncier (frühere Einzelabfragen Kaito, Sept. 2026); SITG-Kataster Feld «Propriété publique» (öffentliche Eigentümer); Rest: Einzelabfrage ge.ch/terextraitfoncier mit Direktlinks; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 15",
-    "offen": "131"
+    "letzter_lauf": "2026-11-10",
+    "eigentuemer_quelle": "Grundbuch GE Extrait foncier (frühere Einzelabfragen Kaito, Sept. 2026); SITG-Kataster Feld «Propriété publique» (öffentliche Eigentümer); Rest: Einzelabfrage ge.ch/terextraitfoncier mit Direktlinks; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 15; 10.11.2026: Übertragung über gleiche Parzelle (2), UID/Sitz aus Zefix",
+    "offen": "123"
   },
   {
     "kanton": "BS",
