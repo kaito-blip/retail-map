@@ -46,9 +46,9 @@
       "Steinenvorstadt"
     ],
     "strassen_ok": true,
-    "letzter_lauf": "2026-11-03",
-    "eigentuemer_quelle": "MapBS Eigentumsauskunft (Kaito einzeln, 10/Tag); 2 aus öffentlichen Quellen; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 34",
-    "offen": "171"
+    "letzter_lauf": "2026-11-11",
+    "eigentuemer_quelle": "MapBS Eigentumsauskunft (Kaito einzeln, 10/Tag); 2 aus öffentlichen Quellen; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 34; Register-Abgleich 11.11.26 (neue Adressen Falknerstrasse, Greifengasse, Clarastrasse, Dufourstrasse, Marktgasse): 21",
+    "offen": "167"
   },
   {
     "kanton": "BE",
