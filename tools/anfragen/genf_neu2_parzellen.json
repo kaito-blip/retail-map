@@ -1,0 +1,2821 @@
+{
+ "parzellen": [
+  {
+   "egrid": "CH282965638171",
+   "parzelle": "4084",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "1"
+   ],
+   "mieter": [
+    "Dosenbach"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH751165886388",
+   "parzelle": "4251",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "2"
+   ],
+   "mieter": [
+    "Pharmacie Populaire"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH136588635437",
+   "parzelle": "4085",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "3"
+   ],
+   "mieter": [
+    "McDonald's"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH876388116562",
+   "parzelle": "4252",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "4"
+   ],
+   "mieter": [
+    "UFC Change Rive"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH128854656379",
+   "parzelle": "4086",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH568865633242",
+   "parzelle": "7225",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "6"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH968865635478",
+   "parzelle": "7168",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH246365803059",
+   "parzelle": "4254",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "8"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH728811656368",
+   "parzelle": "6921",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "10"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH276388106575",
+   "parzelle": "7148",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "11",
+    "13"
+   ],
+   "mieter": [
+    "Starbucks"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH468065631914",
+   "parzelle": "4104",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "12"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH516373658719",
+   "parzelle": "4095",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "14"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH616373658089",
+   "parzelle": "4096",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "16"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH496588706301",
+   "parzelle": "4001",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "17"
+   ],
+   "mieter": [
+    "Aeschbach"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH176388326543",
+   "parzelle": "4106",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "18"
+   ],
+   "mieter": [
+    "Umamido Rive"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH216361658042",
+   "parzelle": "4002",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "19"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH616338658016",
+   "parzelle": "4107",
+   "strasse": "Cours de Rive",
+   "nrn": [
+    "20"
+   ],
+   "mieter": [
+    "RivieraFlor"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH708863816503",
+   "parzelle": "7626",
+   "strasse": "Place de la Fusterie",
+   "nrn": [
+    "3",
+    "3Bis",
+    "4",
+    "5",
+    "8"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH776389366512",
+   "parzelle": "5350",
+   "strasse": "Place de la Fusterie",
+   "nrn": [
+    "5Bis"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH968165637057",
+   "parzelle": "5353",
+   "strasse": "Place de la Fusterie",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [
+    "Migros"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH196588296332",
+   "parzelle": "5354",
+   "strasse": "Place de la Fusterie",
+   "nrn": [
+    "9",
+    "11"
+   ],
+   "mieter": [],
+   "bekannt": "E.A.K. SA"
+  },
+  {
+   "egrid": "CH296580406337",
+   "parzelle": "5927",
+   "strasse": "Place de la Fusterie",
+   "nrn": [
+    "12"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH516323658979",
+   "parzelle": "5928",
+   "strasse": "Place de la Fusterie",
+   "nrn": [
+    "14"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH208063666546",
+   "parzelle": "7038",
+   "strasse": "Place de la Fusterie",
+   "nrn": [
+    "16"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH296580806314",
+   "parzelle": "5913",
+   "strasse": "Place de la Fusterie",
+   "nrn": [
+    "18"
+   ],
+   "mieter": [
+    "Temple de la Fusterie"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH996588526379",
+   "parzelle": "7676",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "1"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH408863286570",
+   "parzelle": "5594",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH955365876353",
+   "parzelle": "6976",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "9"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH876380106540",
+   "parzelle": "5591",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "11"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH536581631206",
+   "parzelle": "5589",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "13"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH296587406371",
+   "parzelle": "7680",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "15"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH596588696367",
+   "parzelle": "5584",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "17"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH128984656373",
+   "parzelle": "5582",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "19"
+   ],
+   "mieter": [
+    "11 Team Sport"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH951265886390",
+   "parzelle": "5681",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "23"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH276389256521",
+   "parzelle": "5682",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "25"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH216369658067",
+   "parzelle": "5683",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "27"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH776380356596",
+   "parzelle": "5684",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "29"
+   ],
+   "mieter": [
+    "Rivage"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH736581639846",
+   "parzelle": "5685",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "31"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH681465638743",
+   "parzelle": "5696",
+   "strasse": "Quai des Bergues",
+   "nrn": [
+    "33"
+   ],
+   "mieter": [
+    "Il Lago",
+    "IZUMI",
+    "Ladurée"
+   ],
+   "bekannt": "International Hotel Investments Ltd., George Town"
+  },
+  {
+   "egrid": "CH236580636861",
+   "parzelle": "5465",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "1"
+   ],
+   "mieter": [],
+   "bekannt": "ZURICH COMPAGNIE D'ASSURANCES SA (Zurich Versicherungs-Gesellschaft AG)"
+  },
+  {
+   "egrid": "CH187265638012",
+   "parzelle": "5466",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "3"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH881065638189",
+   "parzelle": "2980",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "4",
+    "30"
+   ],
+   "mieter": [
+    "La Buvette des Bains"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH751665816371",
+   "parzelle": "5467",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH286665638736",
+   "parzelle": "2979",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH208363836511",
+   "parzelle": "7446",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "8"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH728874656383",
+   "parzelle": "5470",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "11"
+   ],
+   "mieter": [
+    "Fiskebar",
+    "The Living Room"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH651465876344",
+   "parzelle": "2238",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "13"
+   ],
+   "mieter": [
+    "Le Chat Botté",
+    "Albertine's"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH308063186559",
+   "parzelle": "1512",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "15"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH916380658714",
+   "parzelle": "1514",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "17"
+   ],
+   "mieter": [
+    "Windows"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH636588638134",
+   "parzelle": "6936",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "19"
+   ],
+   "mieter": [
+    "Java Club",
+    "Le Grill"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH508263926506",
+   "parzelle": "6865",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "21"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH596582926352",
+   "parzelle": "6900",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "23"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH516392658247",
+   "parzelle": "2392",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "25"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH359265826392",
+   "parzelle": "3857",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "27"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH646365805592",
+   "parzelle": "3742",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "29"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH676380226572",
+   "parzelle": "3763",
+   "strasse": "Quai du Mont-Blanc",
+   "nrn": [
+    "31"
+   ],
+   "mieter": [
+    "Marti Marine"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH616310658965",
+   "parzelle": "5674",
+   "strasse": "Rue Kléberg",
+   "nrn": [
+    "6"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH196580126358",
+   "parzelle": "6918",
+   "strasse": "Rue Kléberg",
+   "nrn": [
+    "8"
+   ],
+   "mieter": [
+    "Kiran"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH316375658076",
+   "parzelle": "6919",
+   "strasse": "Rue Kléberg",
+   "nrn": [
+    "12"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH616310658767",
+   "parzelle": "6639",
+   "strasse": "Rue Kléberg",
+   "nrn": [
+    "13",
+    "(Rue du Cendrier 12)",
+    "(Rue du Cendrier 14)"
+   ],
+   "mieter": [
+    "Mamma Corleone",
+    "White Rabbit 1"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH876381656560",
+   "parzelle": "7389",
+   "strasse": "Rue Kléberg",
+   "nrn": [
+    "14"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH296580686350",
+   "parzelle": "5662",
+   "strasse": "Rue Kléberg",
+   "nrn": [
+    "15",
+    "(Rue du Cendrier 16)"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH696588396326",
+   "parzelle": "6874",
+   "strasse": "Rue Kléberg",
+   "nrn": [
+    "21",
+    "(Rue du Cendrier 18)",
+    "(Rue du Cendrier 20)"
+   ],
+   "mieter": [
+    "L’Artisan"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH128184656395",
+   "parzelle": "5994",
+   "strasse": "Rue Kléberg",
+   "nrn": [
+    "23",
+    "(Rue du Cendrier 22)",
+    "(Rue du Cendrier 22A)"
+   ],
+   "mieter": [
+    "The Circus"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH568765631487",
+   "parzelle": "5670",
+   "strasse": "Rue Kléberg",
+   "nrn": [
+    "25"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH657465876373",
+   "parzelle": "5671",
+   "strasse": "Rue Kléberg",
+   "nrn": [
+    "27",
+    "(Rue du Cendrier 28)"
+   ],
+   "mieter": [],
+   "bekannt": "Helvetia Compagnie Suisse d'Assurances sur la Vie SA"
+  },
+  {
+   "egrid": "CH528931656326",
+   "parzelle": "6881",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "2"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH653465886383",
+   "parzelle": "5424",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "3"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH456165896301",
+   "parzelle": "6987",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "4"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH358365886326",
+   "parzelle": "6979",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH236580634089",
+   "parzelle": "6223",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "6"
+   ],
+   "mieter": [],
+   "bekannt": "Swiss Prime Site AG"
+  },
+  {
+   "egrid": "CH552365896323",
+   "parzelle": "5429",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [
+    "Le Comptoir Woodward"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH446365878413",
+   "parzelle": "5441",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "8"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH489865638180",
+   "parzelle": "5432",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "9",
+    "(Rue Robert-Céard 8)"
+   ],
+   "mieter": [
+    "Gestocigars"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH868765632472",
+   "parzelle": "5444",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "10",
+    "(Rue Robert-Céard 10)"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH896587246312",
+   "parzelle": "4592",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "11",
+    "(Rue Robert-Céard 7)"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH136589639980",
+   "parzelle": "4609",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "16"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH788165638842",
+   "parzelle": "4593",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "17"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH308163986583",
+   "parzelle": "4613",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "18"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH796582826314",
+   "parzelle": "4597",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "19"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH316398658162",
+   "parzelle": "4615",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "20"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH916377658246",
+   "parzelle": "7905",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "21"
+   ],
+   "mieter": [
+    "Molard Jouets SA"
+   ],
+   "bekannt": "KEAT SA"
+  },
+  {
+   "egrid": "CH284265638012",
+   "parzelle": "4621",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "22"
+   ],
+   "mieter": [
+    "Le Thermomètre"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH396589276358",
+   "parzelle": "7759",
+   "strasse": "Rue Neuve-du-Molard",
+   "nrn": [
+    "24"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH316343658766",
+   "parzelle": "7151",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "1",
+    "11"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH828985656320",
+   "parzelle": "4144",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "2"
+   ],
+   "mieter": [],
+   "bekannt": "GENERALI ASSURANCES GENERALES SA"
+  },
+  {
+   "egrid": "CH496580616303",
+   "parzelle": "4031",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "3"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH552865876388",
+   "parzelle": "4032",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH183265638817",
+   "parzelle": "4093",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "6"
+   ],
+   "mieter": [
+    "Le Relais de l'Entrecôte"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH486165638013",
+   "parzelle": "4033",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [
+    "La Banque JULIUS BAER"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH696588326347",
+   "parzelle": "4092",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "8"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH676380516582",
+   "parzelle": "4090",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "10"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH196587736306",
+   "parzelle": "4089",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "12"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH216343658703",
+   "parzelle": "6804",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "15"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH976389246577",
+   "parzelle": "7166",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "17"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH753465806373",
+   "parzelle": "6927",
+   "strasse": "Rue Pierre-Fatio",
+   "nrn": [
+    "19"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH216377658983",
+   "parzelle": "4133",
+   "strasse": "Rue Robert-Céard",
+   "nrn": [
+    "1"
+   ],
+   "mieter": [],
+   "bekannt": "HERMES IMMOBILIER GENEVE SA"
+  },
+  {
+   "egrid": "CH796580146342",
+   "parzelle": "7179",
+   "strasse": "Rue Robert-Céard",
+   "nrn": [
+    "2"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH346365819851",
+   "parzelle": "6913",
+   "strasse": "Rue Robert-Céard",
+   "nrn": [
+    "3"
+   ],
+   "mieter": [],
+   "bekannt": "FONDATION EDMOND J. SAFRA"
+  },
+  {
+   "egrid": "CH246365897782",
+   "parzelle": "4591",
+   "strasse": "Rue Robert-Céard",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH476381986597",
+   "parzelle": "5431",
+   "strasse": "Rue Robert-Céard",
+   "nrn": [
+    "6"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH646365883489",
+   "parzelle": "7306",
+   "strasse": "Rue Robert-Céard",
+   "nrn": [
+    "11"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH568965632324",
+   "parzelle": "5445",
+   "strasse": "Rue Robert-Céard",
+   "nrn": [
+    "12"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH308063406590",
+   "parzelle": "4611",
+   "strasse": "Rue Robert-Céard",
+   "nrn": [
+    "13"
+   ],
+   "mieter": [],
+   "bekannt": "S & H Gambrinus AG"
+  },
+  {
+   "egrid": "CH416312658720",
+   "parzelle": "4242",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "1"
+   ],
+   "mieter": [],
+   "bekannt": "Société Coopérative Migros-Genève"
+  },
+  {
+   "egrid": "CH659965836389",
+   "parzelle": "7290",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "3",
+    "18",
+    "20"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH336580636233",
+   "parzelle": "6621",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "4"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH428917656389",
+   "parzelle": "6327",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "6",
+    "(Rue du Vieux-Collège 6)"
+   ],
+   "mieter": [
+    "Gerard Darel"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH236587638083",
+   "parzelle": "6513",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH168765634201",
+   "parzelle": "6400",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "8"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH368965635956",
+   "parzelle": "4268",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "9"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH768065633194",
+   "parzelle": "4550",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "10"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH486265638083",
+   "parzelle": "4269",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "11"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH288165638818",
+   "parzelle": "4547",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "12"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH676387296585",
+   "parzelle": "4270",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "13",
+    "15"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH276387426585",
+   "parzelle": "4544",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "14"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH516311658002",
+   "parzelle": "4542",
+   "strasse": "Rue Verdaine",
+   "nrn": [
+    "16"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH881165638855",
+   "parzelle": "5974",
+   "strasse": "Rue d'Italie",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [
+    "Ecole de culture générale Ella-Maillart"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH628877656390",
+   "parzelle": "7164",
+   "strasse": "Rue d'Italie",
+   "nrn": [
+    "6"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH636588637738",
+   "parzelle": "4076",
+   "strasse": "Rue d'Italie",
+   "nrn": [
+    "8",
+    "10"
+   ],
+   "mieter": [],
+   "bekannt": "SWISS LIFE SA"
+  },
+  {
+   "egrid": "CH446365892665",
+   "parzelle": "4255",
+   "strasse": "Rue d'Italie",
+   "nrn": [
+    "11"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH568765638912",
+   "parzelle": "4257",
+   "strasse": "Rue d'Italie",
+   "nrn": [
+    "13"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH696589336335",
+   "parzelle": "4250",
+   "strasse": "Rue d'Italie",
+   "nrn": [
+    "14"
+   ],
+   "mieter": [],
+   "bekannt": "SOCIETE COOPERATIVE MIGROS-GENEVE"
+  },
+  {
+   "egrid": "CH886065638989",
+   "parzelle": "4249",
+   "strasse": "Rue d'Italie",
+   "nrn": [
+    "16"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH286865638086",
+   "parzelle": "5620",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "1"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH776387756510",
+   "parzelle": "5769",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "2"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH516369658854",
+   "parzelle": "7380",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "3"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH408763146542",
+   "parzelle": "5770",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "4"
+   ],
+   "mieter": [],
+   "bekannt": "CIA, heute CPEG Caisse de prévoyance de l'Etat de Genève (im Kataster als «CIA» geführt)"
+  },
+  {
+   "egrid": "CH428896656384",
+   "parzelle": "5505",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [],
+   "bekannt": "FONDATION IMMOBILIERE \"PATRIMOINE\""
+  },
+  {
+   "egrid": "CH668065636297",
+   "parzelle": "7723",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "6"
+   ],
+   "mieter": [
+    "Police des Pâquis"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH268065633566",
+   "parzelle": "5504",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [
+    "Post' Cafe"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH728775656304",
+   "parzelle": "5509",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "8"
+   ],
+   "mieter": [
+    "Père et fils",
+    "Amacher Models"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH296589616387",
+   "parzelle": "5503",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "9"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH653965886345",
+   "parzelle": "5508",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "10"
+   ],
+   "mieter": [
+    "Hair Nina",
+    "Café d'Éthiopie",
+    "Soldes"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH696588696333",
+   "parzelle": "5502",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "11"
+   ],
+   "mieter": [
+    "Thaï Food Corner"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH683965638054",
+   "parzelle": "5507",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "12"
+   ],
+   "mieter": [
+    "Pharmacie des Alpes",
+    "Balzena",
+    "Swiss remit"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH108963886562",
+   "parzelle": "5501",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "13"
+   ],
+   "mieter": [
+    "Häagen-Dazs"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH136581632235",
+   "parzelle": "5506",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "14",
+    "(Rue des Alpes 17)"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH828116656381",
+   "parzelle": "5500",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "15"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH384065638725",
+   "parzelle": "5499",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "17"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH496588966320",
+   "parzelle": "7429",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "18",
+    "21",
+    "23",
+    "24",
+    "26",
+    "29"
+   ],
+   "mieter": [
+    "Parfums de Beyrouth"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH288465638141",
+   "parzelle": "7361",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "19"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH476388966540",
+   "parzelle": "315",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "20"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH368865639646",
+   "parzelle": "2343",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "22"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH668865633901",
+   "parzelle": "1257",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "25"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH746365871577",
+   "parzelle": "1276",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "27"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH354065876326",
+   "parzelle": "2493",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "29bis"
+   ],
+   "mieter": [
+    "Rex Change"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH982165638941",
+   "parzelle": "1687",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "30"
+   ],
+   "mieter": [
+    "Bolero Bar"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH287265638075",
+   "parzelle": "3978",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "31"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH968965638223",
+   "parzelle": "203",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "32"
+   ],
+   "mieter": [
+    "Multiwasher"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH228184656361",
+   "parzelle": "1515",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "33"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH546365801767",
+   "parzelle": "7480",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "34",
+    "35",
+    "43",
+    "47"
+   ],
+   "mieter": [
+    "Palais Mascotte"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH796580716365",
+   "parzelle": "6896",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "36"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH208063726528",
+   "parzelle": "1074",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "37"
+   ],
+   "mieter": [
+    "Al Amir"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH716321658929",
+   "parzelle": "6895",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "38"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH236588637777",
+   "parzelle": "1087",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "39"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH508163156570",
+   "parzelle": "6894",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "40"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH728830656391",
+   "parzelle": "1724",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "41"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH668065635507",
+   "parzelle": "2806",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "44"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH168765636674",
+   "parzelle": "2812",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "46"
+   ],
+   "mieter": [
+    "Gilliéron Frères Ahmed Ben Jazia Succ."
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH516315658162",
+   "parzelle": "2895",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "48"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH158865896353",
+   "parzelle": "2289",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "49"
+   ],
+   "mieter": [
+    "Temple des Pâquis"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH146365844764",
+   "parzelle": "7059",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "50"
+   ],
+   "mieter": [
+    "Maison de quartier des Pâquis",
+    "Ludothèque des Pâquis",
+    "Pâquis",
+    "Ecole de Pâquis-Centre"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH936589635447",
+   "parzelle": "6661",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "55"
+   ],
+   "mieter": [
+    "Al quadrato"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH896589216303",
+   "parzelle": "6652",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "56"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH646365807077",
+   "parzelle": "2891",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "56bis"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH484365638905",
+   "parzelle": "7496",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "57"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH296587666390",
+   "parzelle": "2892",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "58"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH646365802723",
+   "parzelle": "2628",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "59"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH216366658787",
+   "parzelle": "6726",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "60"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH396587376346",
+   "parzelle": "2627",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "61"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH287165638795",
+   "parzelle": "3317",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "63"
+   ],
+   "mieter": [
+    "Bureau culturel Genève"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH836580634376",
+   "parzelle": "2825",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "63bis"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH996589216366",
+   "parzelle": "3873",
+   "strasse": "Rue de Berne",
+   "nrn": [
+    "65"
+   ],
+   "mieter": [
+    "Miski"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH446365808335",
+   "parzelle": "5172",
+   "strasse": "Rue de Coutance",
+   "nrn": [
+    "3",
+    "3Bis"
+   ],
+   "mieter": [
+    "Art Computer"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH196588916340",
+   "parzelle": "5577",
+   "strasse": "Rue de Coutance",
+   "nrn": [
+    "4"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH776383716558",
+   "parzelle": "5177",
+   "strasse": "Rue de Coutance",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH916360658896",
+   "parzelle": "2970",
+   "strasse": "Rue de Coutance",
+   "nrn": [
+    "6",
+    "12",
+    "14",
+    "24",
+    "25"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH746365874349",
+   "parzelle": "5192",
+   "strasse": "Rue de Coutance",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH708363716571",
+   "parzelle": "7752",
+   "strasse": "Rue de Coutance",
+   "nrn": [
+    "8"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH716371658370",
+   "parzelle": "5568",
+   "strasse": "Rue de Coutance",
+   "nrn": [
+    "10"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH428132656373",
+   "parzelle": "7876",
+   "strasse": "Rue de Coutance",
+   "nrn": [
+    "16",
+    "18"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH516395658121",
+   "parzelle": "5560",
+   "strasse": "Rue de Coutance",
+   "nrn": [
+    "20"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH228773656395",
+   "parzelle": "5184",
+   "strasse": "Rue de Coutance",
+   "nrn": [
+    "29"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH551165826377",
+   "parzelle": "5789",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "1"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH896587586307",
+   "parzelle": "7332",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "2",
+    "6Bis",
+    "11",
+    "20",
+    "25"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH308963776527",
+   "parzelle": "5793",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "3"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH568265631131",
+   "parzelle": "6225",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "4"
+   ],
+   "mieter": [
+    "Ripple Labs"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH208063406527",
+   "parzelle": "7104",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "6",
+    "6Ter"
+   ],
+   "mieter": [
+    "Yii ramen"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH628834656389",
+   "parzelle": "5794",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH808563896526",
+   "parzelle": "7916",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "9",
+    "9Bis"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH216366658094",
+   "parzelle": "5799",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "13"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH996587246375",
+   "parzelle": "5800",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "15",
+    "17"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH146365895343",
+   "parzelle": "5831",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "18"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH587065638324",
+   "parzelle": "5809",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "19"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH228066656356",
+   "parzelle": "5833",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "22"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH416310658936",
+   "parzelle": "7726",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "24"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH683165638967",
+   "parzelle": "5811",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "27"
+   ],
+   "mieter": [
+    "Chiang Mai"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH736588633546",
+   "parzelle": "5812",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "29"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH376398766544",
+   "parzelle": "7946",
+   "strasse": "Rue de la Cité",
+   "nrn": [
+    "31"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH346365897748",
+   "parzelle": "5992",
+   "strasse": "Rue de la Madeleine",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [],
+   "bekannt": "OSCAR WEBER AG"
+  },
+  {
+   "egrid": "CH155365896328",
+   "parzelle": "5337",
+   "strasse": "Rue de la Madeleine",
+   "nrn": [
+    "6"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH428434656371",
+   "parzelle": "7303",
+   "strasse": "Rue de la Madeleine",
+   "nrn": [
+    "7",
+    "8"
+   ],
+   "mieter": [
+    "Régie du Centre SA",
+    "SMOK'ED"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH728881656320",
+   "parzelle": "6335",
+   "strasse": "Rue de la Madeleine",
+   "nrn": [
+    "9"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH596587926307",
+   "parzelle": "4984",
+   "strasse": "Rue de la Madeleine",
+   "nrn": [
+    "10"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH708863356544",
+   "parzelle": "6336",
+   "strasse": "Rue de la Madeleine",
+   "nrn": [
+    "11"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH336589637734",
+   "parzelle": "6051",
+   "strasse": "Rue de la Madeleine",
+   "nrn": [
+    "13"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH508863456582",
+   "parzelle": "4986",
+   "strasse": "Rue de la Madeleine",
+   "nrn": [
+    "14"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH289765638178",
+   "parzelle": "4511",
+   "strasse": "Rue de la Madeleine",
+   "nrn": [
+    "15"
+   ],
+   "mieter": [
+    "Temple de la Madeleine"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH628155656389",
+   "parzelle": "4987",
+   "strasse": "Rue de la Madeleine",
+   "nrn": [
+    "16"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH216318658833",
+   "parzelle": "5892",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "3"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH816393658926",
+   "parzelle": "5887",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "4"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH396587416334",
+   "parzelle": "5890",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [
+    "FG Fiduciaire Genevoise SA",
+    "AG Assurance Genevoise SA",
+    "RG Relocation Genevoise SA"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH608863416560",
+   "parzelle": "7730",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "6"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH768165631682",
+   "parzelle": "5473",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [
+    "L'Alambic"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH982565638930",
+   "parzelle": "5474",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "9"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH708963486575",
+   "parzelle": "7436",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "10",
+    "15"
+   ],
+   "mieter": [
+    "AMR",
+    "Martignon médecine esthétique"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH185665638155",
+   "parzelle": "5454",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "11"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH686965638812",
+   "parzelle": "1293",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "12"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH328068656304",
+   "parzelle": "5447",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "13"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH736587637515",
+   "parzelle": "3131",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "14"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH476388226568",
+   "parzelle": "7884",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "15BIS"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH268765634066",
+   "parzelle": "3132",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "16"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH596588566309",
+   "parzelle": "2834",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "18"
+   ],
+   "mieter": [
+    "Saj Eat"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH676388696553",
+   "parzelle": "5498",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "19"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH876389466545",
+   "parzelle": "6717",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "20"
+   ],
+   "mieter": [
+    "La Véranda"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH396587406337",
+   "parzelle": "5486",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "21"
+   ],
+   "mieter": [
+    "Asia Garden"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH476380186555",
+   "parzelle": "3427",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "22"
+   ],
+   "mieter": [
+    "KFC"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH268065636833",
+   "parzelle": "7486",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "23",
+    "25",
+    "27",
+    "29"
+   ],
+   "mieter": [
+    "La chocolaterie"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH708063306581",
+   "parzelle": "6917",
+   "strasse": "Rue des Alpes",
+   "nrn": [
+    "24"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH546365886196",
+   "parzelle": "6963",
+   "strasse": "Rue du Cendrier",
+   "nrn": [
+    "2"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH308563806529",
+   "parzelle": "7085",
+   "strasse": "Rue du Cendrier",
+   "nrn": [
+    "4",
+    "10",
+    "17",
+    "19",
+    "24"
+   ],
+   "mieter": [
+    "Cembra Banque"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH496588106384",
+   "parzelle": "6630",
+   "strasse": "Rue du Cendrier",
+   "nrn": [
+    "6"
+   ],
+   "mieter": [
+    "Subway"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH488065638577",
+   "parzelle": "7915",
+   "strasse": "Rue du Cendrier",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH396587736335",
+   "parzelle": "6631",
+   "strasse": "Rue du Cendrier",
+   "nrn": [
+    "8"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH328580656352",
+   "parzelle": "5755",
+   "strasse": "Rue du Cendrier",
+   "nrn": [
+    "15"
+   ],
+   "mieter": [
+    "Mike Wong",
+    "ISG Luxury Geneva"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH196593606388",
+   "parzelle": "7976",
+   "strasse": "Rue du Cendrier",
+   "nrn": [
+    "21"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH296589536314",
+   "parzelle": "7013",
+   "strasse": "Rue du Commerce",
+   "nrn": [
+    "3"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH459865816393",
+   "parzelle": "7625",
+   "strasse": "Rue du Commerce",
+   "nrn": [
+    "4",
+    "7"
+   ],
+   "mieter": [
+    "Green Gorilla Cafe",
+    "Coop"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH558665886371",
+   "parzelle": "7758",
+   "strasse": "Rue du Commerce",
+   "nrn": [
+    "9"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH108963536570",
+   "parzelle": "4651",
+   "strasse": "Rue du Prince",
+   "nrn": [
+    "4"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH387265638833",
+   "parzelle": "4657",
+   "strasse": "Rue du Prince",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH316324658149",
+   "parzelle": "4652",
+   "strasse": "Rue du Prince",
+   "nrn": [
+    "6"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH596588626388",
+   "parzelle": "4658",
+   "strasse": "Rue du Prince",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH736588631170",
+   "parzelle": "7310",
+   "strasse": "Rue du Prince",
+   "nrn": [
+    "8"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH836587635895",
+   "parzelle": "4659",
+   "strasse": "Rue du Prince",
+   "nrn": [
+    "9"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH328066656322",
+   "parzelle": "4654",
+   "strasse": "Rue du Prince",
+   "nrn": [
+    "10"
+   ],
+   "mieter": [
+    "Street Gourmet"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH408863836502",
+   "parzelle": "4660",
+   "strasse": "Rue du Prince",
+   "nrn": [
+    "11"
+   ],
+   "mieter": [],
+   "bekannt": "PSP REAL ESTATE AG"
+  },
+  {
+   "egrid": "CH396580406303",
+   "parzelle": "5898",
+   "strasse": "Rue du Purgatoire",
+   "nrn": [
+    "1"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH396581246342",
+   "parzelle": "5899",
+   "strasse": "Rue du Purgatoire",
+   "nrn": [
+    "3"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH276381976571",
+   "parzelle": "6310",
+   "strasse": "Rue du Vieux-Collège",
+   "nrn": [
+    "1"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH676381296542",
+   "parzelle": "6338",
+   "strasse": "Rue du Vieux-Collège",
+   "nrn": [
+    "3"
+   ],
+   "mieter": [
+    "Office de poste 1200 Genève 3 Rive"
+   ],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH276387806568",
+   "parzelle": "6328",
+   "strasse": "Rue du Vieux-Collège",
+   "nrn": [
+    "4"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH376383706503",
+   "parzelle": "7288",
+   "strasse": "Rue du Vieux-Collège",
+   "nrn": [
+    "5"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH608863976586",
+   "parzelle": "4246",
+   "strasse": "Rue du Vieux-Collège",
+   "nrn": [
+    "7"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH176381596525",
+   "parzelle": "4258",
+   "strasse": "Rue du Vieux-Collège",
+   "nrn": [
+    "8"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH736582632810",
+   "parzelle": "3439",
+   "strasse": "Rue du Vieux-Collège",
+   "nrn": [
+    "9",
+    "10"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH708163306554",
+   "parzelle": "6664",
+   "strasse": "Rue du Vieux-Collège",
+   "nrn": [
+    "10Bis"
+   ],
+   "mieter": [],
+   "bekannt": null
+  },
+  {
+   "egrid": "CH168165635355",
+   "parzelle": "4262",
+   "strasse": "Rue du Vieux-Collège",
+   "nrn": [
+    "12"
+   ],
+   "mieter": [],
+   "bekannt": null
+  }
+ ],
+ "ohne": [
+  "Quai des Bergues 21",
+  "Quai du Mont-Blanc 9",
+  "Rue Verdaine 47",
+  "Rue de Berne 28",
+  "Rue de Coutance 8 bis",
+  "Rue de Coutance 30",
+  "Rue de la Cité 6 ter",
+  "Rue du Cendrier 18-20"
+ ]
+}

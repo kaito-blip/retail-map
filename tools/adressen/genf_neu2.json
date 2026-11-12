@@ -1,0 +1,2437 @@
+{
+ "genf_neu2|rue neuve-du-molard|17": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "17",
+  "lat": 46.2033132,
+  "lng": 6.1492962,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|5": {
+  "street": "Cours de Rive",
+  "hn": "5",
+  "lat": 46.201892,
+  "lng": 6.1528805,
+  "mieter": []
+ },
+ "genf_neu2|rue d'italie|11": {
+  "street": "Rue d'Italie",
+  "hn": "11",
+  "lat": 46.2014481,
+  "lng": 6.1520461,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|6": {
+  "street": "Cours de Rive",
+  "hn": "6",
+  "lat": 46.201447,
+  "lng": 6.1528915,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|8": {
+  "street": "Cours de Rive",
+  "hn": "8",
+  "lat": 46.2013394,
+  "lng": 6.1530157,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|4": {
+  "street": "Cours de Rive",
+  "hn": "4",
+  "lat": 46.2016402,
+  "lng": 6.1526307,
+  "mieter": [
+   "UFC Change Rive"
+  ]
+ },
+ "genf_neu2|cours de rive|2": {
+  "street": "Cours de Rive",
+  "hn": "2",
+  "lat": 46.2017053,
+  "lng": 6.1523231,
+  "mieter": [
+   "Pharmacie Populaire"
+  ]
+ },
+ "genf_neu2|rue d'italie|8": {
+  "street": "Rue d'Italie",
+  "hn": "8",
+  "lat": 46.2024081,
+  "lng": 6.1521297,
+  "mieter": []
+ },
+ "genf_neu2|rue d'italie|6": {
+  "street": "Rue d'Italie",
+  "hn": "6",
+  "lat": 46.2026108,
+  "lng": 6.1522151,
+  "mieter": []
+ },
+ "genf_neu2|rue du vieux-collège|5": {
+  "street": "Rue du Vieux-Collège",
+  "hn": "5",
+  "lat": 46.2016116,
+  "lng": 6.1507073,
+  "mieter": []
+ },
+ "genf_neu2|rue du vieux-collège|8": {
+  "street": "Rue du Vieux-Collège",
+  "hn": "8",
+  "lat": 46.2016197,
+  "lng": 6.1509114,
+  "mieter": []
+ },
+ "genf_neu2|rue du vieux-collège|10bis": {
+  "street": "Rue du Vieux-Collège",
+  "hn": "10Bis",
+  "lat": 46.2015026,
+  "lng": 6.1512701,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|3": {
+  "street": "Cours de Rive",
+  "hn": "3",
+  "lat": 46.2019663,
+  "lng": 6.1526595,
+  "mieter": [
+   "McDonald's"
+  ]
+ },
+ "genf_neu2|rue verdaine|6": {
+  "street": "Rue Verdaine",
+  "hn": "6",
+  "lat": 46.2016382,
+  "lng": 6.1504972,
+  "mieter": [
+   "Gerard Darel"
+  ]
+ },
+ "genf_neu2|rue du vieux-collège|6": {
+  "street": "Rue du Vieux-Collège",
+  "hn": "6",
+  "lat": 46.2017474,
+  "lng": 6.1504742,
+  "mieter": []
+ },
+ "genf_neu2|rue du vieux-collège|1": {
+  "street": "Rue du Vieux-Collège",
+  "hn": "1",
+  "lat": 46.2020307,
+  "lng": 6.1499496,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|4": {
+  "street": "Rue Verdaine",
+  "hn": "4",
+  "lat": 46.2019258,
+  "lng": 6.150896,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|1": {
+  "street": "Rue Verdaine",
+  "hn": "1",
+  "lat": 46.2019588,
+  "lng": 6.1511218,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|3": {
+  "street": "Rue Verdaine",
+  "hn": "3",
+  "lat": 46.2018074,
+  "lng": 6.1509623,
+  "mieter": []
+ },
+ "genf_neu2|rue du vieux-collège|7": {
+  "street": "Rue du Vieux-Collège",
+  "hn": "7",
+  "lat": 46.2016865,
+  "lng": 6.1511367,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|18": {
+  "street": "Rue Verdaine",
+  "hn": "18",
+  "lat": 46.2011304,
+  "lng": 6.1498105,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|47": {
+  "street": "Rue Verdaine",
+  "hn": "47",
+  "lat": 46.20114,
+  "lng": 6.1495331,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|20": {
+  "street": "Rue Verdaine",
+  "hn": "20",
+  "lat": 46.2010699,
+  "lng": 6.1497464,
+  "mieter": []
+ },
+ "genf_neu2|rue de la madeleine|6": {
+  "street": "Rue de la Madeleine",
+  "hn": "6",
+  "lat": 46.2023068,
+  "lng": 6.1483807,
+  "mieter": []
+ },
+ "genf_neu2|rue de la madeleine|16": {
+  "street": "Rue de la Madeleine",
+  "hn": "16",
+  "lat": 46.202089,
+  "lng": 6.1489134,
+  "mieter": []
+ },
+ "genf_neu2|rue de la madeleine|5": {
+  "street": "Rue de la Madeleine",
+  "hn": "5",
+  "lat": 46.2024511,
+  "lng": 6.148301,
+  "mieter": []
+ },
+ "genf_neu2|rue du purgatoire|3": {
+  "street": "Rue du Purgatoire",
+  "hn": "3",
+  "lat": 46.2021916,
+  "lng": 6.1495768,
+  "mieter": []
+ },
+ "genf_neu2|rue de la madeleine|13": {
+  "street": "Rue de la Madeleine",
+  "hn": "13",
+  "lat": 46.2023059,
+  "lng": 6.1491215,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|9bis": {
+  "street": "Rue de la Cité",
+  "hn": "9Bis",
+  "lat": 46.2033091,
+  "lng": 6.1439371,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|17": {
+  "street": "Rue de la Cité",
+  "hn": "17",
+  "lat": 46.2030207,
+  "lng": 6.1441206,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|3": {
+  "street": "Rue de la Cité",
+  "hn": "3",
+  "lat": 46.2034764,
+  "lng": 6.1438423,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|15": {
+  "street": "Rue de la Cité",
+  "hn": "15",
+  "lat": 46.2030368,
+  "lng": 6.1441095,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|31": {
+  "street": "Rue de la Cité",
+  "hn": "31",
+  "lat": 46.2025397,
+  "lng": 6.1445523,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|9": {
+  "street": "Rue de la Cité",
+  "hn": "9",
+  "lat": 46.2033399,
+  "lng": 6.1439217,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|4": {
+  "street": "Rue de la Cité",
+  "hn": "4",
+  "lat": 46.2035492,
+  "lng": 6.1437241,
+  "mieter": [
+   "Ripple Labs"
+  ]
+ },
+ "genf_neu2|rue de la cité|24": {
+  "street": "Rue de la Cité",
+  "hn": "24",
+  "lat": 46.2026017,
+  "lng": 6.1441809,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|18": {
+  "street": "Rue de la Cité",
+  "hn": "18",
+  "lat": 46.2031811,
+  "lng": 6.1439135,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|2": {
+  "street": "Rue de la Cité",
+  "hn": "2",
+  "lat": 46.2036396,
+  "lng": 6.1436786,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|6bis": {
+  "street": "Rue de la Cité",
+  "hn": "6Bis",
+  "lat": 46.2033688,
+  "lng": 6.1438165,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|6": {
+  "street": "Rue de la Cité",
+  "hn": "6",
+  "lat": 46.2034537,
+  "lng": 6.1437729,
+  "mieter": [
+   "Yii ramen"
+  ]
+ },
+ "genf_neu2|rue de la cité|6ter": {
+  "street": "Rue de la Cité",
+  "hn": "6Ter",
+  "lat": 46.2032894,
+  "lng": 6.1438573,
+  "mieter": []
+ },
+ "genf_neu2|place de la fusterie|4": {
+  "street": "Place de la Fusterie",
+  "hn": "4",
+  "lat": 46.2043361,
+  "lng": 6.1459948,
+  "mieter": []
+ },
+ "genf_neu2|rue du commerce|3": {
+  "street": "Rue du Commerce",
+  "hn": "3",
+  "lat": 46.2042273,
+  "lng": 6.1452082,
+  "mieter": []
+ },
+ "genf_neu2|rue du commerce|7": {
+  "street": "Rue du Commerce",
+  "hn": "7",
+  "lat": 46.2039297,
+  "lng": 6.1450381,
+  "mieter": [
+   "Coop"
+  ]
+ },
+ "genf_neu2|rue du commerce|9": {
+  "street": "Rue du Commerce",
+  "hn": "9",
+  "lat": 46.2038192,
+  "lng": 6.1449736,
+  "mieter": []
+ },
+ "genf_neu2|place de la fusterie|16": {
+  "street": "Place de la Fusterie",
+  "hn": "16",
+  "lat": 46.2036526,
+  "lng": 6.1453895,
+  "mieter": []
+ },
+ "genf_neu2|place de la fusterie|12": {
+  "street": "Place de la Fusterie",
+  "hn": "12",
+  "lat": 46.203945,
+  "lng": 6.1456212,
+  "mieter": []
+ },
+ "genf_neu2|place de la fusterie|8": {
+  "street": "Place de la Fusterie",
+  "hn": "8",
+  "lat": 46.2041059,
+  "lng": 6.1457713,
+  "mieter": []
+ },
+ "genf_neu2|place de la fusterie|3": {
+  "street": "Place de la Fusterie",
+  "hn": "3",
+  "lat": 46.2042295,
+  "lng": 6.1463165,
+  "mieter": []
+ },
+ "genf_neu2|place de la fusterie|5": {
+  "street": "Place de la Fusterie",
+  "hn": "5",
+  "lat": 46.2040505,
+  "lng": 6.1462407,
+  "mieter": []
+ },
+ "genf_neu2|place de la fusterie|9": {
+  "street": "Place de la Fusterie",
+  "hn": "9",
+  "lat": 46.2037585,
+  "lng": 6.1461038,
+  "mieter": []
+ },
+ "genf_neu2|place de la fusterie|5bis": {
+  "street": "Place de la Fusterie",
+  "hn": "5Bis",
+  "lat": 46.2040273,
+  "lng": 6.14623,
+  "mieter": []
+ },
+ "genf_neu2|place de la fusterie|11": {
+  "street": "Place de la Fusterie",
+  "hn": "11",
+  "lat": 46.2035971,
+  "lng": 6.1460241,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|7": {
+  "street": "Rue de Berne",
+  "hn": "7",
+  "lat": 46.2090941,
+  "lng": 6.1445841,
+  "mieter": [
+   "Post' Cafe"
+  ]
+ },
+ "genf_neu2|rue des alpes|23": {
+  "street": "Rue des Alpes",
+  "hn": "23",
+  "lat": 46.2099219,
+  "lng": 6.1448821,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|14": {
+  "street": "Rue des Alpes",
+  "hn": "14",
+  "lat": 46.2099824,
+  "lng": 6.1454067,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|1": {
+  "street": "Rue de la Cité",
+  "hn": "1",
+  "lat": 46.203667,
+  "lng": 6.1438771,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|22": {
+  "street": "Rue de la Cité",
+  "hn": "22",
+  "lat": 46.2028211,
+  "lng": 6.1440364,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|25": {
+  "street": "Rue de la Cité",
+  "hn": "25",
+  "lat": 46.2027769,
+  "lng": 6.1443055,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|29": {
+  "street": "Rue de la Cité",
+  "hn": "29",
+  "lat": 46.2025801,
+  "lng": 6.1444671,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|11": {
+  "street": "Rue de la Cité",
+  "hn": "11",
+  "lat": 46.2032278,
+  "lng": 6.1439835,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|13": {
+  "street": "Rue de la Cité",
+  "hn": "13",
+  "lat": 46.2031463,
+  "lng": 6.1440348,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|7": {
+  "street": "Rue de la Cité",
+  "hn": "7",
+  "lat": 46.2033906,
+  "lng": 6.1439024,
+  "mieter": []
+ },
+ "genf_neu2|rue de la madeleine|8": {
+  "street": "Rue de la Madeleine",
+  "hn": "8",
+  "lat": 46.2022402,
+  "lng": 6.1485222,
+  "mieter": [
+   "Régie du Centre SA",
+   "SMOK'ED"
+  ]
+ },
+ "genf_neu2|rue de la madeleine|10": {
+  "street": "Rue de la Madeleine",
+  "hn": "10",
+  "lat": 46.2022026,
+  "lng": 6.1486556,
+  "mieter": []
+ },
+ "genf_neu2|rue de la madeleine|14": {
+  "street": "Rue de la Madeleine",
+  "hn": "14",
+  "lat": 46.2021453,
+  "lng": 6.1488201,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|10": {
+  "street": "Rue Verdaine",
+  "hn": "10",
+  "lat": 46.2014456,
+  "lng": 6.1501811,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|12": {
+  "street": "Rue Verdaine",
+  "hn": "12",
+  "lat": 46.2013607,
+  "lng": 6.1500858,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|11": {
+  "street": "Rue Verdaine",
+  "hn": "11",
+  "lat": 46.2012288,
+  "lng": 6.1501155,
+  "mieter": []
+ },
+ "genf_neu2|rue du vieux-collège|4": {
+  "street": "Rue du Vieux-Collège",
+  "hn": "4",
+  "lat": 46.2018055,
+  "lng": 6.1502479,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|14": {
+  "street": "Rue Verdaine",
+  "hn": "14",
+  "lat": 46.2012326,
+  "lng": 6.1499355,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|16": {
+  "street": "Rue Verdaine",
+  "hn": "16",
+  "lat": 46.2011709,
+  "lng": 6.14986,
+  "mieter": []
+ },
+ "genf_neu2|rue du vieux-collège|10": {
+  "street": "Rue du Vieux-Collège",
+  "hn": "10",
+  "lat": 46.2015631,
+  "lng": 6.1510845,
+  "mieter": []
+ },
+ "genf_neu2|rue du vieux-collège|9": {
+  "street": "Rue du Vieux-Collège",
+  "hn": "9",
+  "lat": 46.2015879,
+  "lng": 6.1514356,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|8": {
+  "street": "Rue Verdaine",
+  "hn": "8",
+  "lat": 46.2015369,
+  "lng": 6.1503124,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|15": {
+  "street": "Rue Verdaine",
+  "hn": "15",
+  "lat": 46.200932,
+  "lng": 6.1497379,
+  "mieter": []
+ },
+ "genf_neu2|rue d'italie|14": {
+  "street": "Rue d'Italie",
+  "hn": "14",
+  "lat": 46.2018141,
+  "lng": 6.1518744,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|13": {
+  "street": "Rue Verdaine",
+  "hn": "13",
+  "lat": 46.2010969,
+  "lng": 6.1499473,
+  "mieter": []
+ },
+ "genf_neu2|rue d'italie|16": {
+  "street": "Rue d'Italie",
+  "hn": "16",
+  "lat": 46.2016556,
+  "lng": 6.1518073,
+  "mieter": []
+ },
+ "genf_neu2|rue du vieux-collège|12": {
+  "street": "Rue du Vieux-Collège",
+  "hn": "12",
+  "lat": 46.2014604,
+  "lng": 6.1514466,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|9": {
+  "street": "Rue Verdaine",
+  "hn": "9",
+  "lat": 46.201362,
+  "lng": 6.1502852,
+  "mieter": []
+ },
+ "genf_neu2|rue du vieux-collège|3": {
+  "street": "Rue du Vieux-Collège",
+  "hn": "3",
+  "lat": 46.2019165,
+  "lng": 6.1503345,
+  "mieter": [
+   "Office de poste 1200 Genève 3 Rive"
+  ]
+ },
+ "genf_neu2|place de la fusterie|7": {
+  "street": "Place de la Fusterie",
+  "hn": "7",
+  "lat": 46.2038882,
+  "lng": 6.1461654,
+  "mieter": [
+   "Migros"
+  ]
+ },
+ "genf_neu2|place de la fusterie|14": {
+  "street": "Place de la Fusterie",
+  "hn": "14",
+  "lat": 46.2037477,
+  "lng": 6.145458,
+  "mieter": []
+ },
+ "genf_neu2|place de la fusterie|3bis": {
+  "street": "Place de la Fusterie",
+  "hn": "3Bis",
+  "lat": 46.2041462,
+  "lng": 6.1462836,
+  "mieter": []
+ },
+ "genf_neu2|rue du purgatoire|1": {
+  "street": "Rue du Purgatoire",
+  "hn": "1",
+  "lat": 46.2022588,
+  "lng": 6.1493548,
+  "mieter": []
+ },
+ "genf_neu2|rue de la madeleine|11": {
+  "street": "Rue de la Madeleine",
+  "hn": "11",
+  "lat": 46.2023129,
+  "lng": 6.1488722,
+  "mieter": []
+ },
+ "genf_neu2|rue de la madeleine|9": {
+  "street": "Rue de la Madeleine",
+  "hn": "9",
+  "lat": 46.2023572,
+  "lng": 6.1486605,
+  "mieter": []
+ },
+ "genf_neu2|rue de la madeleine|7": {
+  "street": "Rue de la Madeleine",
+  "hn": "7",
+  "lat": 46.2024112,
+  "lng": 6.1484354,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|7": {
+  "street": "Cours de Rive",
+  "hn": "7",
+  "lat": 46.2019884,
+  "lng": 6.1531369,
+  "mieter": []
+ },
+ "genf_neu2|rue du prince|5": {
+  "street": "Rue du Prince",
+  "hn": "5",
+  "lat": 46.2028182,
+  "lng": 6.1511849,
+  "mieter": []
+ },
+ "genf_neu2|rue pierre-fatio|12": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "12",
+  "lat": 46.2020765,
+  "lng": 6.1533897,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|1": {
+  "street": "Cours de Rive",
+  "hn": "1",
+  "lat": 46.2019812,
+  "lng": 6.1524589,
+  "mieter": [
+   "Dosenbach"
+  ]
+ },
+ "genf_neu2|rue pierre-fatio|6": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "6",
+  "lat": 46.2024762,
+  "lng": 6.1535626,
+  "mieter": [
+   "Le Relais de l'Entrecôte"
+  ]
+ },
+ "genf_neu2|rue du prince|11": {
+  "street": "Rue du Prince",
+  "hn": "11",
+  "lat": 46.2024885,
+  "lng": 6.1509372,
+  "mieter": []
+ },
+ "genf_neu2|rue du prince|9": {
+  "street": "Rue du Prince",
+  "hn": "9",
+  "lat": 46.2025281,
+  "lng": 6.1509683,
+  "mieter": []
+ },
+ "genf_neu2|rue d'italie|10": {
+  "street": "Rue d'Italie",
+  "hn": "10",
+  "lat": 46.2022321,
+  "lng": 6.1520541,
+  "mieter": []
+ },
+ "genf_neu2|rue d'italie|5": {
+  "street": "Rue d'Italie",
+  "hn": "5",
+  "lat": 46.2024605,
+  "lng": 6.152476,
+  "mieter": [
+   "Ecole de culture générale Ella-Maillart"
+  ]
+ },
+ "genf_neu2|rue pierre-fatio|10": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "10",
+  "lat": 46.2022142,
+  "lng": 6.1534494,
+  "mieter": []
+ },
+ "genf_neu2|rue pierre-fatio|8": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "8",
+  "lat": 46.202306,
+  "lng": 6.1533909,
+  "mieter": []
+ },
+ "genf_neu2|rue d'italie|13": {
+  "street": "Rue d'Italie",
+  "hn": "13",
+  "lat": 46.201347,
+  "lng": 6.1520013,
+  "mieter": []
+ },
+ "genf_neu2|rue du prince|7": {
+  "street": "Rue du Prince",
+  "hn": "7",
+  "lat": 46.2027071,
+  "lng": 6.1511014,
+  "mieter": []
+ },
+ "genf_neu2|rue pierre-fatio|2": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "2",
+  "lat": 46.2030257,
+  "lng": 6.1538027,
+  "mieter": []
+ },
+ "genf_neu2|rue du prince|6": {
+  "street": "Rue du Prince",
+  "hn": "6",
+  "lat": 46.2028651,
+  "lng": 6.1510425,
+  "mieter": []
+ },
+ "genf_neu2|rue du prince|4": {
+  "street": "Rue du Prince",
+  "hn": "4",
+  "lat": 46.2029898,
+  "lng": 6.1511345,
+  "mieter": []
+ },
+ "genf_neu2|rue du prince|10": {
+  "street": "Rue du Prince",
+  "hn": "10",
+  "lat": 46.2026118,
+  "lng": 6.1508541,
+  "mieter": [
+   "Street Gourmet"
+  ]
+ },
+ "genf_neu2|rue du prince|8": {
+  "street": "Rue du Prince",
+  "hn": "8",
+  "lat": 46.2027537,
+  "lng": 6.1509547,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|24": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "24",
+  "lat": 46.2031608,
+  "lng": 6.1496498,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|20": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "20",
+  "lat": 46.2031789,
+  "lng": 6.1492714,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|16": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "16",
+  "lat": 46.2032592,
+  "lng": 6.1490349,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|22": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "22",
+  "lat": 46.203181,
+  "lng": 6.1495242,
+  "mieter": [
+   "Le Thermomètre"
+  ]
+ },
+ "genf_neu2|rue robert-céard|11": {
+  "street": "Rue Robert-Céard",
+  "hn": "11",
+  "lat": 46.2031164,
+  "lng": 6.1488815,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|18": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "18",
+  "lat": 46.2032319,
+  "lng": 6.1492007,
+  "mieter": []
+ },
+ "genf_neu2|rue robert-céard|13": {
+  "street": "Rue Robert-Céard",
+  "hn": "13",
+  "lat": 46.2029354,
+  "lng": 6.1487995,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|21": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "21",
+  "lat": 46.2032581,
+  "lng": 6.1496463,
+  "mieter": [
+   "Molard Jouets SA"
+  ]
+ },
+ "genf_neu2|rue neuve-du-molard|11": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "11",
+  "lat": 46.2033385,
+  "lng": 6.1491184,
+  "mieter": []
+ },
+ "genf_neu2|rue robert-céard|7": {
+  "street": "Rue Robert-Céard",
+  "hn": "7",
+  "lat": 46.2033936,
+  "lng": 6.1490373,
+  "mieter": []
+ },
+ "genf_neu2|rue robert-céard|3": {
+  "street": "Rue Robert-Céard",
+  "hn": "3",
+  "lat": 46.2036784,
+  "lng": 6.1491667,
+  "mieter": []
+ },
+ "genf_neu2|rue robert-céard|5": {
+  "street": "Rue Robert-Céard",
+  "hn": "5",
+  "lat": 46.2035285,
+  "lng": 6.1490977,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|19": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "19",
+  "lat": 46.2032867,
+  "lng": 6.1494554,
+  "mieter": []
+ },
+ "genf_neu2|rue robert-céard|1": {
+  "street": "Rue Robert-Céard",
+  "hn": "1",
+  "lat": 46.2039872,
+  "lng": 6.1493059,
+  "mieter": []
+ },
+ "genf_neu2|rue robert-céard|12": {
+  "street": "Rue Robert-Céard",
+  "hn": "12",
+  "lat": 46.2030728,
+  "lng": 6.1487151,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|3": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "3",
+  "lat": 46.2034274,
+  "lng": 6.1485132,
+  "mieter": []
+ },
+ "genf_neu2|rue robert-céard|10": {
+  "street": "Rue Robert-Céard",
+  "hn": "10",
+  "lat": 46.2032192,
+  "lng": 6.1487836,
+  "mieter": []
+ },
+ "genf_neu2|rue robert-céard|2": {
+  "street": "Rue Robert-Céard",
+  "hn": "2",
+  "lat": 46.2040093,
+  "lng": 6.1491508,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|4": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "4",
+  "lat": 46.2033511,
+  "lng": 6.148503,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|5": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "5",
+  "lat": 46.2034136,
+  "lng": 6.1486024,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|10": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "10",
+  "lat": 46.2033027,
+  "lng": 6.1487702,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|8": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "8",
+  "lat": 46.2033201,
+  "lng": 6.1486739,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|6": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "6",
+  "lat": 46.2033449,
+  "lng": 6.1485374,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|9": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "9",
+  "lat": 46.2033926,
+  "lng": 6.1488389,
+  "mieter": []
+ },
+ "genf_neu2|rue robert-céard|6": {
+  "street": "Rue Robert-Céard",
+  "hn": "6",
+  "lat": 46.2036168,
+  "lng": 6.1489995,
+  "mieter": []
+ },
+ "genf_neu2|rue neuve-du-molard|7": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "7",
+  "lat": 46.2033957,
+  "lng": 6.148711,
+  "mieter": [
+   "Le Comptoir Woodward"
+  ]
+ },
+ "genf_neu2|rue neuve-du-molard|2": {
+  "street": "Rue Neuve-du-Molard",
+  "hn": "2",
+  "lat": 46.203407,
+  "lng": 6.1481779,
+  "mieter": []
+ },
+ "genf_neu2|rue robert-céard|8": {
+  "street": "Rue Robert-Céard",
+  "hn": "8",
+  "lat": 46.2034625,
+  "lng": 6.1489293,
+  "mieter": [
+   "Gestocigars"
+  ]
+ },
+ "genf_neu2|quai des bergues|17": {
+  "street": "Quai des Bergues",
+  "hn": "17",
+  "lat": 46.2061238,
+  "lng": 6.1442464,
+  "mieter": []
+ },
+ "genf_neu2|quai des bergues|15": {
+  "street": "Quai des Bergues",
+  "hn": "15",
+  "lat": 46.2060998,
+  "lng": 6.1441564,
+  "mieter": []
+ },
+ "genf_neu2|quai des bergues|11": {
+  "street": "Quai des Bergues",
+  "hn": "11",
+  "lat": 46.2059825,
+  "lng": 6.1437885,
+  "mieter": []
+ },
+ "genf_neu2|quai des bergues|13": {
+  "street": "Quai des Bergues",
+  "hn": "13",
+  "lat": 46.2060426,
+  "lng": 6.1439782,
+  "mieter": []
+ },
+ "genf_neu2|quai des bergues|7": {
+  "street": "Quai des Bergues",
+  "hn": "7",
+  "lat": 46.2058831,
+  "lng": 6.1434834,
+  "mieter": []
+ },
+ "genf_neu2|quai des bergues|1": {
+  "street": "Quai des Bergues",
+  "hn": "1",
+  "lat": 46.205825,
+  "lng": 6.1433015,
+  "mieter": []
+ },
+ "genf_neu2|quai des bergues|19": {
+  "street": "Quai des Bergues",
+  "hn": "19",
+  "lat": 46.2061614,
+  "lng": 6.1443826,
+  "mieter": [
+   "11 Team Sport"
+  ]
+ },
+ "genf_neu2|quai des bergues|9": {
+  "street": "Quai des Bergues",
+  "hn": "9",
+  "lat": 46.2059255,
+  "lng": 6.1436189,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|6": {
+  "street": "Rue de Coutance",
+  "hn": "6",
+  "lat": 46.2060461,
+  "lng": 6.1428951,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|14": {
+  "street": "Rue de Coutance",
+  "hn": "14",
+  "lat": 46.2063442,
+  "lng": 6.1426918,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|10": {
+  "street": "Rue de Coutance",
+  "hn": "10",
+  "lat": 46.206208,
+  "lng": 6.1427821,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|4": {
+  "street": "Rue de Coutance",
+  "hn": "4",
+  "lat": 46.2059485,
+  "lng": 6.1429771,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|16": {
+  "street": "Rue de Coutance",
+  "hn": "16",
+  "lat": 46.2064074,
+  "lng": 6.1426476,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|12": {
+  "street": "Rue de Coutance",
+  "hn": "12",
+  "lat": 46.2062778,
+  "lng": 6.1427354,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|20": {
+  "street": "Rue de Coutance",
+  "hn": "20",
+  "lat": 46.206558,
+  "lng": 6.1425453,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|18": {
+  "street": "Rue de Coutance",
+  "hn": "18",
+  "lat": 46.2064767,
+  "lng": 6.1425998,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|8": {
+  "street": "Rue de Coutance",
+  "hn": "8",
+  "lat": 46.2061225,
+  "lng": 6.1428406,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|24": {
+  "street": "Rue de Coutance",
+  "hn": "24",
+  "lat": 46.2067843,
+  "lng": 6.1423847,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|7": {
+  "street": "Rue de Coutance",
+  "hn": "7",
+  "lat": 46.2067741,
+  "lng": 6.142127,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|5": {
+  "street": "Rue de Coutance",
+  "hn": "5",
+  "lat": 46.2066308,
+  "lng": 6.1422356,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|29": {
+  "street": "Rue de Coutance",
+  "hn": "29",
+  "lat": 46.2069535,
+  "lng": 6.1420531,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|25": {
+  "street": "Rue de Coutance",
+  "hn": "25",
+  "lat": 46.2068675,
+  "lng": 6.1420563,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|3bis": {
+  "street": "Rue de Coutance",
+  "hn": "3Bis",
+  "lat": 46.2063957,
+  "lng": 6.1423911,
+  "mieter": []
+ },
+ "genf_neu2|rue de coutance|3": {
+  "street": "Rue de Coutance",
+  "hn": "3",
+  "lat": 46.2062743,
+  "lng": 6.1424722,
+  "mieter": [
+   "Art Computer"
+  ]
+ },
+ "genf_neu2|cours de rive|11": {
+  "street": "Cours de Rive",
+  "hn": "11",
+  "lat": 46.2019361,
+  "lng": 6.1538429,
+  "mieter": [
+   "Starbucks"
+  ]
+ },
+ "genf_neu2|rue du cendrier|21": {
+  "street": "Rue du Cendrier",
+  "hn": "21",
+  "lat": 46.2077293,
+  "lng": 6.1453824,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|28": {
+  "street": "Rue du Cendrier",
+  "hn": "28",
+  "lat": 46.207757,
+  "lng": 6.1457215,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|7": {
+  "street": "Rue du Cendrier",
+  "hn": "7",
+  "lat": 46.2070317,
+  "lng": 6.1444624,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|17": {
+  "street": "Rue du Cendrier",
+  "hn": "17",
+  "lat": 46.2073669,
+  "lng": 6.1449154,
+  "mieter": [
+   "Cembra Banque"
+  ]
+ },
+ "genf_neu2|rue kléberg|27": {
+  "street": "Rue Kléberg",
+  "hn": "27",
+  "lat": 46.2075672,
+  "lng": 6.1460405,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|19": {
+  "street": "Rue du Cendrier",
+  "hn": "19",
+  "lat": 46.207497,
+  "lng": 6.1450931,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|15": {
+  "street": "Rue du Cendrier",
+  "hn": "15",
+  "lat": 46.2073381,
+  "lng": 6.1448768,
+  "mieter": [
+   "Mike Wong",
+   "ISG Luxury Geneva"
+  ]
+ },
+ "genf_neu2|quai des bergues|25": {
+  "street": "Quai des Bergues",
+  "hn": "25",
+  "lat": 46.2064179,
+  "lng": 6.1453766,
+  "mieter": []
+ },
+ "genf_neu2|quai des bergues|29": {
+  "street": "Quai des Bergues",
+  "hn": "29",
+  "lat": 46.2065525,
+  "lng": 6.145854,
+  "mieter": [
+   "Rivage"
+  ]
+ },
+ "genf_neu2|rue kléberg|21": {
+  "street": "Rue Kléberg",
+  "hn": "21",
+  "lat": 46.2071258,
+  "lng": 6.1454657,
+  "mieter": []
+ },
+ "genf_neu2|quai des bergues|31": {
+  "street": "Quai des Bergues",
+  "hn": "31",
+  "lat": 46.2066223,
+  "lng": 6.1461053,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|16": {
+  "street": "Rue du Cendrier",
+  "hn": "16",
+  "lat": 46.2071762,
+  "lng": 6.144933,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|2": {
+  "street": "Rue du Cendrier",
+  "hn": "2",
+  "lat": 46.2067704,
+  "lng": 6.1443824,
+  "mieter": []
+ },
+ "genf_neu2|rue kléberg|25": {
+  "street": "Rue Kléberg",
+  "hn": "25",
+  "lat": 46.2073137,
+  "lng": 6.1456742,
+  "mieter": []
+ },
+ "genf_neu2|quai des bergues|23": {
+  "street": "Quai des Bergues",
+  "hn": "23",
+  "lat": 46.206357,
+  "lng": 6.1451556,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|4": {
+  "street": "Rue du Cendrier",
+  "hn": "4",
+  "lat": 46.2068427,
+  "lng": 6.1444785,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|22": {
+  "street": "Rue du Cendrier",
+  "hn": "22",
+  "lat": 46.2074222,
+  "lng": 6.1452659,
+  "mieter": [
+   "The Circus"
+  ]
+ },
+ "genf_neu2|rue du cendrier|10": {
+  "street": "Rue du Cendrier",
+  "hn": "10",
+  "lat": 46.2069995,
+  "lng": 6.1446903,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|22a": {
+  "street": "Rue du Cendrier",
+  "hn": "22A",
+  "lat": 46.2073442,
+  "lng": 6.145376,
+  "mieter": []
+ },
+ "genf_neu2|rue kléberg|6": {
+  "street": "Rue Kléberg",
+  "hn": "6",
+  "lat": 46.2067776,
+  "lng": 6.1451264,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|18": {
+  "street": "Rue du Cendrier",
+  "hn": "18",
+  "lat": 46.2072646,
+  "lng": 6.1450537,
+  "mieter": [
+   "L’Artisan"
+  ]
+ },
+ "genf_neu2|rue kléberg|23": {
+  "street": "Rue Kléberg",
+  "hn": "23",
+  "lat": 46.2072042,
+  "lng": 6.1455248,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|20": {
+  "street": "Rue du Cendrier",
+  "hn": "20",
+  "lat": 46.2073217,
+  "lng": 6.1451291,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|8": {
+  "street": "Rue du Cendrier",
+  "hn": "8",
+  "lat": 46.206947,
+  "lng": 6.1446187,
+  "mieter": []
+ },
+ "genf_neu2|rue kléberg|8": {
+  "street": "Rue Kléberg",
+  "hn": "8",
+  "lat": 46.2069557,
+  "lng": 6.1453877,
+  "mieter": [
+   "Kiran"
+  ]
+ },
+ "genf_neu2|rue du cendrier|12": {
+  "street": "Rue du Cendrier",
+  "hn": "12",
+  "lat": 46.207049,
+  "lng": 6.1447601,
+  "mieter": [
+   "White Rabbit 1"
+  ]
+ },
+ "genf_neu2|quai des bergues|27": {
+  "street": "Quai des Bergues",
+  "hn": "27",
+  "lat": 46.2064854,
+  "lng": 6.145616,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|24": {
+  "street": "Rue du Cendrier",
+  "hn": "24",
+  "lat": 46.2075192,
+  "lng": 6.1453977,
+  "mieter": []
+ },
+ "genf_neu2|rue kléberg|13": {
+  "street": "Rue Kléberg",
+  "hn": "13",
+  "lat": 46.2069541,
+  "lng": 6.1448992,
+  "mieter": [
+   "Mamma Corleone"
+  ]
+ },
+ "genf_neu2|rue du cendrier|6": {
+  "street": "Rue du Cendrier",
+  "hn": "6",
+  "lat": 46.2068962,
+  "lng": 6.1445487,
+  "mieter": [
+   "Subway"
+  ]
+ },
+ "genf_neu2|rue kléberg|15": {
+  "street": "Rue Kléberg",
+  "hn": "15",
+  "lat": 46.2070675,
+  "lng": 6.1451031,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|14": {
+  "street": "Rue du Cendrier",
+  "hn": "14",
+  "lat": 46.2070902,
+  "lng": 6.1448157,
+  "mieter": []
+ },
+ "genf_neu2|rue kléberg|12": {
+  "street": "Rue Kléberg",
+  "hn": "12",
+  "lat": 46.2071696,
+  "lng": 6.1456927,
+  "mieter": []
+ },
+ "genf_neu2|quai des bergues|33": {
+  "street": "Quai des Bergues",
+  "hn": "33",
+  "lat": 46.2068733,
+  "lng": 6.1469835,
+  "mieter": [
+   "Il Lago",
+   "IZUMI",
+   "Ladurée"
+  ]
+ },
+ "genf_neu2|rue kléberg|14": {
+  "street": "Rue Kléberg",
+  "hn": "14",
+  "lat": 46.207395,
+  "lng": 6.1459812,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|3": {
+  "street": "Rue de Berne",
+  "hn": "3",
+  "lat": 46.2085717,
+  "lng": 6.1442116,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|4": {
+  "street": "Rue de Berne",
+  "hn": "4",
+  "lat": 46.2085201,
+  "lng": 6.144388,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|1": {
+  "street": "Rue de Berne",
+  "hn": "1",
+  "lat": 46.2084435,
+  "lng": 6.1440625,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|2": {
+  "street": "Rue de Berne",
+  "hn": "2",
+  "lat": 46.208353,
+  "lng": 6.1441913,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|6": {
+  "street": "Rue de Berne",
+  "hn": "6",
+  "lat": 46.209002,
+  "lng": 6.1450635,
+  "mieter": [
+   "Police des Pâquis"
+  ]
+ },
+ "genf_neu2|rue des alpes|29": {
+  "street": "Rue des Alpes",
+  "hn": "29",
+  "lat": 46.2103152,
+  "lng": 6.1443295,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|25": {
+  "street": "Rue des Alpes",
+  "hn": "25",
+  "lat": 46.2100519,
+  "lng": 6.1448008,
+  "mieter": [
+   "La chocolaterie"
+  ]
+ },
+ "genf_neu2|rue des alpes|27": {
+  "street": "Rue des Alpes",
+  "hn": "27",
+  "lat": 46.2101324,
+  "lng": 6.1446501,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|21": {
+  "street": "Rue des Alpes",
+  "hn": "21",
+  "lat": 46.2098963,
+  "lng": 6.1450926,
+  "mieter": [
+   "Asia Garden"
+  ]
+ },
+ "genf_neu2|rue de berne|19": {
+  "street": "Rue de Berne",
+  "hn": "19",
+  "lat": 46.2096676,
+  "lng": 6.1454557,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|12": {
+  "street": "Rue de Berne",
+  "hn": "12",
+  "lat": 46.2094687,
+  "lng": 6.1455778,
+  "mieter": [
+   "Pharmacie des Alpes",
+   "Balzena",
+   "Swiss remit"
+  ]
+ },
+ "genf_neu2|rue de berne|9": {
+  "street": "Rue de Berne",
+  "hn": "9",
+  "lat": 46.2090894,
+  "lng": 6.1447958,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|14": {
+  "street": "Rue de Berne",
+  "hn": "14",
+  "lat": 46.2095351,
+  "lng": 6.1456528,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|11": {
+  "street": "Rue de Berne",
+  "hn": "11",
+  "lat": 46.2091828,
+  "lng": 6.144912,
+  "mieter": [
+   "Thaï Food Corner"
+  ]
+ },
+ "genf_neu2|rue de berne|8": {
+  "street": "Rue de Berne",
+  "hn": "8",
+  "lat": 46.2092416,
+  "lng": 6.1453234,
+  "mieter": [
+   "Père et fils",
+   "Amacher Models"
+  ]
+ },
+ "genf_neu2|rue de berne|13": {
+  "street": "Rue de Berne",
+  "hn": "13",
+  "lat": 46.2092873,
+  "lng": 6.1450281,
+  "mieter": [
+   "Häagen-Dazs"
+  ]
+ },
+ "genf_neu2|rue des alpes|15bis": {
+  "street": "Rue des Alpes",
+  "hn": "15BIS",
+  "lat": 46.2093737,
+  "lng": 6.1460707,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|19": {
+  "street": "Rue des Alpes",
+  "hn": "19",
+  "lat": 46.2097338,
+  "lng": 6.1454063,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|15": {
+  "street": "Rue des Alpes",
+  "hn": "15",
+  "lat": 46.2092187,
+  "lng": 6.1463693,
+  "mieter": [
+   "Martignon médecine esthétique"
+  ]
+ },
+ "genf_neu2|rue de berne|17": {
+  "street": "Rue de Berne",
+  "hn": "17",
+  "lat": 46.2094984,
+  "lng": 6.1452551,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|10": {
+  "street": "Rue de Berne",
+  "hn": "10",
+  "lat": 46.2093682,
+  "lng": 6.1454658,
+  "mieter": [
+   "Hair Nina",
+   "Café d'Éthiopie",
+   "Soldes"
+  ]
+ },
+ "genf_neu2|rue des alpes|17": {
+  "street": "Rue des Alpes",
+  "hn": "17",
+  "lat": 46.2095272,
+  "lng": 6.1457944,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|5": {
+  "street": "Rue de Berne",
+  "hn": "5",
+  "lat": 46.2088813,
+  "lng": 6.1445674,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|13": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "13",
+  "lat": 46.2090858,
+  "lng": 6.149971,
+  "mieter": [
+   "Le Chat Botté",
+   "Albertine's"
+  ]
+ },
+ "genf_neu2|quai du mont-blanc|5": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "5",
+  "lat": 46.207489,
+  "lng": 6.1481538,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|11": {
+  "street": "Rue des Alpes",
+  "hn": "11",
+  "lat": 46.208566,
+  "lng": 6.1475723,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|11": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "11",
+  "lat": 46.2078904,
+  "lng": 6.1485989,
+  "mieter": [
+   "Fiskebar",
+   "The Living Room"
+  ]
+ },
+ "genf_neu2|quai du mont-blanc|1": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "1",
+  "lat": 46.2071823,
+  "lng": 6.1478158,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|7": {
+  "street": "Rue des Alpes",
+  "hn": "7",
+  "lat": 46.2083604,
+  "lng": 6.1479574,
+  "mieter": [
+   "L'Alambic"
+  ]
+ },
+ "genf_neu2|rue des alpes|5": {
+  "street": "Rue des Alpes",
+  "hn": "5",
+  "lat": 46.208212,
+  "lng": 6.1480496,
+  "mieter": [
+   "FG Fiduciaire Genevoise SA",
+   "AG Assurance Genevoise SA",
+   "RG Relocation Genevoise SA"
+  ]
+ },
+ "genf_neu2|quai du mont-blanc|4": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "4",
+  "lat": 46.2073391,
+  "lng": 6.1485938,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|7": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "7",
+  "lat": 46.207615,
+  "lng": 6.1482951,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|3": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "3",
+  "lat": 46.2073406,
+  "lng": 6.1479913,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|3": {
+  "street": "Rue des Alpes",
+  "hn": "3",
+  "lat": 46.2081421,
+  "lng": 6.1483687,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|9": {
+  "street": "Rue des Alpes",
+  "hn": "9",
+  "lat": 46.2084676,
+  "lng": 6.1477579,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|9": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "9",
+  "lat": 46.2077253,
+  "lng": 6.1484154,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|13": {
+  "street": "Rue des Alpes",
+  "hn": "13",
+  "lat": 46.2089903,
+  "lng": 6.1467877,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|15": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "15",
+  "lat": 46.2093766,
+  "lng": 6.1501952,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|17": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "17",
+  "lat": 46.2095936,
+  "lng": 6.1504063,
+  "mieter": [
+   "Windows"
+  ]
+ },
+ "genf_neu2|quai du mont-blanc|19": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "19",
+  "lat": 46.2100656,
+  "lng": 6.1509808,
+  "mieter": [
+   "Java Club",
+   "Le Grill"
+  ]
+ },
+ "genf_neu2|quai du mont-blanc|8": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "8",
+  "lat": 46.2095275,
+  "lng": 6.1512454,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|27": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "27",
+  "lat": 46.2110634,
+  "lng": 6.1521155,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|25": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "25",
+  "lat": 46.2108647,
+  "lng": 6.1518915,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|21": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "21",
+  "lat": 46.2105752,
+  "lng": 6.1515757,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|29": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "29",
+  "lat": 46.2112241,
+  "lng": 6.1522915,
+  "mieter": []
+ },
+ "genf_neu2|quai du mont-blanc|31": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "31",
+  "lat": 46.2114204,
+  "lng": 6.1525061,
+  "mieter": [
+   "Marti Marine"
+  ]
+ },
+ "genf_neu2|quai du mont-blanc|23": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "23",
+  "lat": 46.2107198,
+  "lng": 6.1517352,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|4": {
+  "street": "Rue des Alpes",
+  "hn": "4",
+  "lat": 46.2093895,
+  "lng": 6.1463751,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|6": {
+  "street": "Rue des Alpes",
+  "hn": "6",
+  "lat": 46.2095579,
+  "lng": 6.1460618,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|30": {
+  "street": "Rue de Berne",
+  "hn": "30",
+  "lat": 46.2107944,
+  "lng": 6.1464292,
+  "mieter": [
+   "Bolero Bar"
+  ]
+ },
+ "genf_neu2|rue de berne|22": {
+  "street": "Rue de Berne",
+  "hn": "22",
+  "lat": 46.2102075,
+  "lng": 6.1460142,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|20": {
+  "street": "Rue de Berne",
+  "hn": "20",
+  "lat": 46.2100714,
+  "lng": 6.1459196,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|34": {
+  "street": "Rue de Berne",
+  "hn": "34",
+  "lat": 46.2110243,
+  "lng": 6.1465877,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|16": {
+  "street": "Rue des Alpes",
+  "hn": "16",
+  "lat": 46.2099977,
+  "lng": 6.1452436,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|37": {
+  "street": "Rue de Berne",
+  "hn": "37",
+  "lat": 46.2108437,
+  "lng": 6.146273,
+  "mieter": [
+   "Al Amir"
+  ]
+ },
+ "genf_neu2|rue de berne|31": {
+  "street": "Rue de Berne",
+  "hn": "31",
+  "lat": 46.210548,
+  "lng": 6.1460655,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|21": {
+  "street": "Rue de Berne",
+  "hn": "21",
+  "lat": 46.2099154,
+  "lng": 6.145622,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|25": {
+  "street": "Rue de Berne",
+  "hn": "25",
+  "lat": 46.2102089,
+  "lng": 6.1458278,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|35": {
+  "street": "Rue de Berne",
+  "hn": "35",
+  "lat": 46.2107561,
+  "lng": 6.1462124,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|32": {
+  "street": "Rue de Berne",
+  "hn": "32",
+  "lat": 46.2109143,
+  "lng": 6.1465115,
+  "mieter": [
+   "Multiwasher"
+  ]
+ },
+ "genf_neu2|rue de berne|28": {
+  "street": "Rue de Berne",
+  "hn": "28",
+  "lat": 46.2106089,
+  "lng": 6.1462999,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|27": {
+  "street": "Rue de Berne",
+  "hn": "27",
+  "lat": 46.2103092,
+  "lng": 6.1458974,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|23": {
+  "street": "Rue de Berne",
+  "hn": "23",
+  "lat": 46.2100746,
+  "lng": 6.1457333,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|18": {
+  "street": "Rue de Berne",
+  "hn": "18",
+  "lat": 46.2099757,
+  "lng": 6.1458528,
+  "mieter": [
+   "Parfums de Beyrouth"
+  ]
+ },
+ "genf_neu2|rue de berne|29": {
+  "street": "Rue de Berne",
+  "hn": "29",
+  "lat": 46.2103869,
+  "lng": 6.1459517,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|43": {
+  "street": "Rue de Berne",
+  "hn": "43",
+  "lat": 46.2110592,
+  "lng": 6.1464254,
+  "mieter": [
+   "Palais Mascotte"
+  ]
+ },
+ "genf_neu2|rue de berne|29bis": {
+  "street": "Rue de Berne",
+  "hn": "29bis",
+  "lat": 46.2104681,
+  "lng": 6.1460096,
+  "mieter": [
+   "Rex Change"
+  ]
+ },
+ "genf_neu2|rue des alpes|12": {
+  "street": "Rue des Alpes",
+  "hn": "12",
+  "lat": 46.2098737,
+  "lng": 6.1454766,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|39": {
+  "street": "Rue de Berne",
+  "hn": "39",
+  "lat": 46.2109209,
+  "lng": 6.146326,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|33": {
+  "street": "Rue de Berne",
+  "hn": "33",
+  "lat": 46.2106481,
+  "lng": 6.1461357,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|10": {
+  "street": "Rue des Alpes",
+  "hn": "10",
+  "lat": 46.2097076,
+  "lng": 6.1457829,
+  "mieter": [
+   "AMR"
+  ]
+ },
+ "genf_neu2|rue de berne|26": {
+  "street": "Rue de Berne",
+  "hn": "26",
+  "lat": 46.2105174,
+  "lng": 6.1462372,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|41": {
+  "street": "Rue de Berne",
+  "hn": "41",
+  "lat": 46.2109872,
+  "lng": 6.1463734,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|24": {
+  "street": "Rue de Berne",
+  "hn": "24",
+  "lat": 46.2103168,
+  "lng": 6.14609,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|20": {
+  "street": "Rue des Alpes",
+  "hn": "20",
+  "lat": 46.2103154,
+  "lng": 6.1446552,
+  "mieter": [
+   "La Véranda"
+  ]
+ },
+ "genf_neu2|rue des alpes|24": {
+  "street": "Rue des Alpes",
+  "hn": "24",
+  "lat": 46.2105936,
+  "lng": 6.1442585,
+  "mieter": []
+ },
+ "genf_neu2|rue des alpes|18": {
+  "street": "Rue des Alpes",
+  "hn": "18",
+  "lat": 46.2101383,
+  "lng": 6.1450028,
+  "mieter": [
+   "Saj Eat"
+  ]
+ },
+ "genf_neu2|rue des alpes|22": {
+  "street": "Rue des Alpes",
+  "hn": "22",
+  "lat": 46.2105106,
+  "lng": 6.1444361,
+  "mieter": [
+   "KFC"
+  ]
+ },
+ "genf_neu2|rue de berne|40": {
+  "street": "Rue de Berne",
+  "hn": "40",
+  "lat": 46.2115254,
+  "lng": 6.146938,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|38": {
+  "street": "Rue de Berne",
+  "hn": "38",
+  "lat": 46.2113668,
+  "lng": 6.1468279,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|36": {
+  "street": "Rue de Berne",
+  "hn": "36",
+  "lat": 46.2112156,
+  "lng": 6.146723,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|47": {
+  "street": "Rue de Berne",
+  "hn": "47",
+  "lat": 46.21134,
+  "lng": 6.146621,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|50": {
+  "street": "Rue de Berne",
+  "hn": "50",
+  "lat": 46.2124382,
+  "lng": 6.1477384,
+  "mieter": [
+   "Maison de quartier des Pâquis",
+   "Ludothèque des Pâquis",
+   "Pâquis",
+   "Ecole de Pâquis-Centre"
+  ]
+ },
+ "genf_neu2|rue de berne|56bis": {
+  "street": "Rue de Berne",
+  "hn": "56bis",
+  "lat": 46.2130572,
+  "lng": 6.1483612,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|60": {
+  "street": "Rue de Berne",
+  "hn": "60",
+  "lat": 46.2133469,
+  "lng": 6.1482186,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|44": {
+  "street": "Rue de Berne",
+  "hn": "44",
+  "lat": 46.2118046,
+  "lng": 6.1471267,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|56": {
+  "street": "Rue de Berne",
+  "hn": "56",
+  "lat": 46.2131444,
+  "lng": 6.1480743,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|48": {
+  "street": "Rue de Berne",
+  "hn": "48",
+  "lat": 46.2121071,
+  "lng": 6.147336,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|58": {
+  "street": "Rue de Berne",
+  "hn": "58",
+  "lat": 46.2132385,
+  "lng": 6.1481401,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|46": {
+  "street": "Rue de Berne",
+  "hn": "46",
+  "lat": 46.2119476,
+  "lng": 6.1472254,
+  "mieter": [
+   "Gilliéron Frères Ahmed Ben Jazia Succ."
+  ]
+ },
+ "genf_neu2|rue de berne|61": {
+  "street": "Rue de Berne",
+  "hn": "61",
+  "lat": 46.2132921,
+  "lng": 6.1479906,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|63bis": {
+  "street": "Rue de Berne",
+  "hn": "63bis",
+  "lat": 46.2134125,
+  "lng": 6.1478244,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|57": {
+  "street": "Rue de Berne",
+  "hn": "57",
+  "lat": 46.2131063,
+  "lng": 6.1478572,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|55": {
+  "street": "Rue de Berne",
+  "hn": "55",
+  "lat": 46.2130051,
+  "lng": 6.1477849,
+  "mieter": [
+   "Al quadrato"
+  ]
+ },
+ "genf_neu2|rue de berne|63": {
+  "street": "Rue de Berne",
+  "hn": "63",
+  "lat": 46.2133962,
+  "lng": 6.1480652,
+  "mieter": [
+   "Bureau culturel Genève"
+  ]
+ },
+ "genf_neu2|rue de berne|59": {
+  "street": "Rue de Berne",
+  "hn": "59",
+  "lat": 46.2131975,
+  "lng": 6.1479234,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|65": {
+  "street": "Rue de Berne",
+  "hn": "65",
+  "lat": 46.2135174,
+  "lng": 6.1481523,
+  "mieter": [
+   "Miski"
+  ]
+ },
+ "genf_neu2|rue de coutance|30": {
+  "street": "Rue de Coutance",
+  "hn": "30",
+  "lat": 46.2069615,
+  "lng": 6.1422643,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|20": {
+  "street": "Rue de la Cité",
+  "hn": "20",
+  "lat": 46.2030926,
+  "lng": 6.1439687,
+  "mieter": []
+ },
+ "genf_neu2|rue pierre-fatio|1": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "1",
+  "lat": 46.2038586,
+  "lng": 6.1546163,
+  "mieter": []
+ },
+ "genf_neu2|rue pierre-fatio|3": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "3",
+  "lat": 46.2037501,
+  "lng": 6.1545721,
+  "mieter": []
+ },
+ "genf_neu2|rue pierre-fatio|5": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "5",
+  "lat": 46.2036223,
+  "lng": 6.1545201,
+  "mieter": []
+ },
+ "genf_neu2|rue pierre-fatio|7": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "7",
+  "lat": 46.2034785,
+  "lng": 6.1544615,
+  "mieter": [
+   "La Banque JULIUS BAER"
+  ]
+ },
+ "genf_neu2|cours de rive|17": {
+  "street": "Cours de Rive",
+  "hn": "17",
+  "lat": 46.2014639,
+  "lng": 6.1549134,
+  "mieter": [
+   "Aeschbach"
+  ]
+ },
+ "genf_neu2|quai du mont-blanc|30": {
+  "street": "Quai du Mont-Blanc",
+  "hn": "30",
+  "lat": 46.2102518,
+  "lng": 6.1540819,
+  "mieter": [
+   "La Buvette des Bains"
+  ]
+ },
+ "genf_neu2|cours de rive|20": {
+  "street": "Cours de Rive",
+  "hn": "20",
+  "lat": 46.201088,
+  "lng": 6.1551993,
+  "mieter": [
+   "RivieraFlor"
+  ]
+ },
+ "genf_neu2|cours de rive|13": {
+  "street": "Cours de Rive",
+  "hn": "13",
+  "lat": 46.2017327,
+  "lng": 6.1540268,
+  "mieter": []
+ },
+ "genf_neu2|rue pierre-fatio|19": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "19",
+  "lat": 46.2020168,
+  "lng": 6.1538283,
+  "mieter": []
+ },
+ "genf_neu2|rue pierre-fatio|11": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "11",
+  "lat": 46.2029282,
+  "lng": 6.1542682,
+  "mieter": []
+ },
+ "genf_neu2|rue de la cité|27": {
+  "street": "Rue de la Cité",
+  "hn": "27",
+  "lat": 46.202726,
+  "lng": 6.1443847,
+  "mieter": [
+   "Chiang Mai"
+  ]
+ },
+ "genf_neu2|rue de berne|15": {
+  "street": "Rue de Berne",
+  "hn": "15",
+  "lat": 46.2093891,
+  "lng": 6.1451412,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|19": {
+  "street": "Cours de Rive",
+  "hn": "19",
+  "lat": 46.2014341,
+  "lng": 6.1552728,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|18": {
+  "street": "Cours de Rive",
+  "hn": "18",
+  "lat": 46.2011514,
+  "lng": 6.1549328,
+  "mieter": [
+   "Umamido Rive"
+  ]
+ },
+ "genf_neu2|rue du commerce|4": {
+  "street": "Rue du Commerce",
+  "hn": "4",
+  "lat": 46.2042898,
+  "lng": 6.1449854,
+  "mieter": [
+   "Green Gorilla Cafe"
+  ]
+ },
+ "genf_neu2|rue de coutance|8 bis": {
+  "street": "Rue de Coutance",
+  "hn": "8 bis",
+  "lat": 46.2061304,
+  "lng": 6.1428666,
+  "mieter": [
+   "Madame Coutance"
+  ]
+ },
+ "genf_neu2|rue de la cité|6 ter": {
+  "street": "Rue de la Cité",
+  "hn": "6 ter",
+  "lat": 46.2032367,
+  "lng": 6.1438358,
+  "mieter": [
+   "Coup de Chapeau"
+  ]
+ },
+ "genf_neu2|cours de rive|14": {
+  "street": "Cours de Rive",
+  "hn": "14",
+  "lat": 46.201372,
+  "lng": 6.1538753,
+  "mieter": []
+ },
+ "genf_neu2|rue de la madeleine|15": {
+  "street": "Rue de la Madeleine",
+  "hn": "15",
+  "lat": 46.2020582,
+  "lng": 6.1493111,
+  "mieter": [
+   "Temple de la Madeleine"
+  ]
+ },
+ "genf_neu2|place de la fusterie|18": {
+  "street": "Place de la Fusterie",
+  "hn": "18",
+  "lat": 46.2038443,
+  "lng": 6.1458456,
+  "mieter": [
+   "Temple de la Fusterie"
+  ]
+ },
+ "genf_neu2|rue de la cité|19": {
+  "street": "Rue de la Cité",
+  "hn": "19",
+  "lat": 46.202901,
+  "lng": 6.1443025,
+  "mieter": []
+ },
+ "genf_neu2|rue verdaine|7": {
+  "street": "Rue Verdaine",
+  "hn": "7",
+  "lat": 46.2014454,
+  "lng": 6.1506791,
+  "mieter": []
+ },
+ "genf_neu2|quai des bergues|21": {
+  "street": "Quai des Bergues",
+  "hn": "21",
+  "lat": 46.2063023,
+  "lng": 6.1444699,
+  "mieter": []
+ },
+ "genf_neu2|rue du cendrier|18-20": {
+  "street": "Rue du Cendrier",
+  "hn": "18-20",
+  "lat": 46.2072389,
+  "lng": 6.1451775,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|12": {
+  "street": "Cours de Rive",
+  "hn": "12",
+  "lat": 46.2012002,
+  "lng": 6.153746,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|16": {
+  "street": "Cours de Rive",
+  "hn": "16",
+  "lat": 46.2012373,
+  "lng": 6.1542076,
+  "mieter": []
+ },
+ "genf_neu2|cours de rive|10": {
+  "street": "Cours de Rive",
+  "hn": "10",
+  "lat": 46.2010911,
+  "lng": 6.1535223,
+  "mieter": []
+ },
+ "genf_neu2|rue pierre-fatio|15": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "15",
+  "lat": 46.2023499,
+  "lng": 6.1540677,
+  "mieter": []
+ },
+ "genf_neu2|rue pierre-fatio|17": {
+  "street": "Rue Pierre-Fatio",
+  "hn": "17",
+  "lat": 46.2021102,
+  "lng": 6.1539625,
+  "mieter": []
+ },
+ "genf_neu2|rue de berne|49": {
+  "street": "Rue de Berne",
+  "hn": "49",
+  "lat": 46.2115984,
+  "lng": 6.1465982,
+  "mieter": [
+   "Temple des Pâquis"
+  ]
+ }
+}
