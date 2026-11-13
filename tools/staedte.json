@@ -63,9 +63,9 @@
       "Münstergasse"
     ],
     "strassen_ok": true,
-    "letzter_lauf": "2026-11-04",
-    "eigentuemer_quelle": "GRUDIS public (AGOV, Kaito einzeln) bzw. Grundbuchamt Bern-Mittelland; öffentlich: immobilienbusiness.ch, bgbern.ch; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 24",
-    "offen": "278"
+    "letzter_lauf": "2026-11-13",
+    "eigentuemer_quelle": "GRUDIS public (AGOV, Kaito einzeln) bzw. Grundbuchamt Bern-Mittelland (gba.bemi@be.ch, verifiziert 13.11.26); öffentlich: immobilienbusiness.ch, bgbern.ch, Swiss Life AST Immobilienbericht 2024/25, hig.ch, plattformj.ch, Zunft zur Schneidern; Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py)",
+    "offen": "265"
   },
   {
     "kanton": "VD",
