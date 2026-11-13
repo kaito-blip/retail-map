@@ -9,6 +9,8 @@ echo $$ > $LOCK; trap 'rm -f $LOCK' EXIT
 TAG=$(date +%F)
 LOG=tools/logs/$TAG.log
 git pull -q --rebase >>$LOG 2>&1
+# Antworten aus «Retail Map Anfragen/Antworten/» eintragen (nur CSV; Zeitlimit, weil launchd bei Downloads hängen kann)
+perl -e 'alarm 180; exec @ARGV' python3 tools/antworten_einlesen.py >>$LOG 2>&1
 STADT="$1"
 [ -z "$STADT" ] && STADT=$(python3 - <<'PY'
 import json
