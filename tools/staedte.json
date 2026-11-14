@@ -81,8 +81,8 @@
       "Rue William-Haldimand"
     ],
     "strassen_ok": true,
-    "letzter_lauf": "2026-11-05",
-    "eigentuemer_quelle": "Intercapi public (SMS, 5/Tag, Kaito einzeln) bzw. Registre foncier Office de Lausanne; Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 14; Grundbuch-Einträge vom 19.08.26: 5 (+2 gleiche Parzelle)",
+    "letzter_lauf": "2026-11-14",
+    "eigentuemer_quelle": "Intercapi public (SMS, 5/Tag, Kaito einzeln) bzw. Registre foncier Office de Lausanne, rf.lausanne@vd.ch (verifiziert 08.11.26); Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py, zuletzt 14.11.26 ohne neue Treffer): 14; Grundbuch-Einträge vom 19.08.26: 5 (+2 gleiche Parzelle)",
     "offen": "111"
   },
   {
