@@ -99,9 +99,9 @@
       "Pilatusstrasse"
     ],
     "strassen_ok": true,
-    "letzter_lauf": "2026-11-06",
-    "eigentuemer_quelle": "Grundbuch LU (frühere Abfrage, Hertensteinstrasse 2–12); Eigentümer-Register (Geschäftsberichte/Fondsinventare SPS, UBS Sima, AXA, Schroder); Rest: Grundbuchplan LU (SMS, Kaito selbst) oder Grundbuchamt Luzern Ost, Kriens",
-    "offen": "130"
+    "letzter_lauf": "2026-11-15",
+    "eigentuemer_quelle": "Grundeigentümerabfrage Grundbuchplan LU (Kaito einzeln, SMS, bis 14.11.2026); Eigentümer-Register (Geschäftsberichte/Fondsinventare SPS, UBS Sima, AXA, Schroder, Swiss Life); Rest: Grundbuchplan LU oder Grundbuchamt Luzern Ost, Kriens",
+    "offen": "56"
   },
   {
     "kanton": "SG",
