@@ -133,8 +133,8 @@
       "Corso Enrico Pestalozzi"
     ],
     "strassen_ok": true,
-    "letzter_lauf": "2026-11-08",
-    "eigentuemer_quelle": "Eigentümer-Register (tools/register_abgleich.py): 2 (PSP Via Pessina 16, UBS Sima Via Pretorio 15); übrige auf Anfrage beim Ufficio del registro fondiario di Lugano (TI_Lugano.csv, 08.11.26)",
+    "letzter_lauf": "2026-11-17",
+    "eigentuemer_quelle": "Eigentümer-Register (tools/register_abgleich.py): 2 (PSP Via Pessina 16, UBS Sima Via Pretorio 15); übrige auf Anfrage beim Ufficio del registro fondiario di Lugano (TI_Lugano.csv, 08.11.26); Lauf 17.11.26: Register ohne neue Treffer, Antworten nicht lesbar (Downloads gesperrt)",
     "offen": "107"
   },
   {
