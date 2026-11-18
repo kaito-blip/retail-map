@@ -150,9 +150,9 @@
       "Bundesplatz"
     ],
     "strassen_ok": true,
-    "letzter_lauf": "2026-11-08",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 16; 08.11.26: Register-Abgleich (20 Adressen), Kanton Zug Neugasse 1 (Kantonsratsvorlage 2008); Rest: ZugMap (Einzelauskunft) oder verbindliche Eigentümerliste Grundbuch Zug (ab CHF 45)",
-    "offen": "157"
+    "letzter_lauf": "2026-11-18",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 16; 08.11.26: Register-Abgleich (20 Adressen), Kanton Zug Neugasse 1 (Kantonsratsvorlage 2008); Rest: ZugMap (Einzelauskunft) oder verbindliche Eigentümerliste Grundbuch Zug (ab CHF 45); 18.11.26: Register-Abgleich ohne neue Zug-Treffer, Kanton Zug Neugasse 2 (Bericht und Antrag RR Vorlage 4129.1 vom 09.06.2026); Anfrageliste tools/anfragen/ZG_Zug.csv (124 Parzellen)",
+    "offen": "151"
   },
   {
     "kanton": "AG",
