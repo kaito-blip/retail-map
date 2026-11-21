@@ -184,9 +184,9 @@
       "Schmiedengasse"
     ],
     "strassen_ok": true,
-    "letzter_lauf": "2026-11-08",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 2; Rest: Online-Eigentümerabfrage geo.so.ch/map/grundstuecksinformation (gratis, einzeln durch Kaito) oder Grundbuchamt Region Solothurn gb.so@fd.so.ch",
-    "offen": "143"
+    "letzter_lauf": "2026-11-21",
+    "eigentuemer_quelle": "Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py, Stand 21.11.26): 3; Rest: Online-Eigentümerabfrage geo.so.ch/map/grundstuecksinformation (gratis, einzeln durch Kaito) oder Grundbuchamt Region Solothurn gb.so@fd.so.ch",
+    "offen": "142"
   },
   {
     "kanton": "FR",
