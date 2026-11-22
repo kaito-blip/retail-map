@@ -201,9 +201,9 @@
       "Rue du Simplon"
     ],
     "strassen_ok": true,
-    "letzter_lauf": "2026-11-08",
-    "eigentuemer_quelle": "RFpublic keycloak.fr.ch/rfpublic (Kaito einzeln, gratis, ohne Login; kein Direktlink) oder RF Sarine rfsarine@fr.ch; Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py) und manueller Registerabgleich 08.11.26: 12",
-    "offen": "240"
+    "letzter_lauf": "2026-11-22",
+    "eigentuemer_quelle": "RFpublic keycloak.fr.ch/rfpublic (Kaito einzeln, gratis, ohne Login; kein Direktlink) oder RF Sarine rfsarine@fr.ch; Eigentümer-Register (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py) und manueller Registerabgleich 08.11.26: 12, Folgelauf 22.11.26: 14",
+    "offen": "238"
   },
   {
     "kanton": "NE",
