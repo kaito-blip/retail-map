@@ -221,9 +221,9 @@
       "Grand Rue"
     ],
     "strassen_ok": true,
-    "letzter_lauf": "2026-11-08",
-    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4; 08.11.26: La Foncière (Hôpital 3/5), Zuordnung über gemeinsame Parzelle (Hôpital 22 UBS 1a Immo PK, Saint-Maurice 10 ERRES); Rest: SITN sitn.ne.ch (Captcha je Abfrage) oder Registre foncier SGRF, registrefoncier@ne.ch",
-    "offen": "112"
+    "letzter_lauf": "2026-11-28",
+    "eigentuemer_quelle": "Eigentümer-Register 05.11.26 (Geschäftsberichte, Fondsinventare, OGD; tools/register_abgleich.py): 4; 08.11.26: La Foncière (Hôpital 3/5), Zuordnung über gemeinsame Parzelle (Hôpital 22 UBS 1a Immo PK, Saint-Maurice 10 ERRES); Rest: SITN sitn.ne.ch (Captcha je Abfrage) oder Registre foncier SGRF, registrefoncier@ne.ch; 13.11.26 Register Mobimo (Seyon 12); 28.11.26: Ville de Neuchâtel Seyon 25 (Bericht 23-026 Stratégie immobilière) und Seyon 23 über gemeinsame Parzelle 12264; Anfrageliste 28.11.26 in tools/anfragen/NE_Neuchâtel.csv (Downloads im Nachtlauf gesperrt)",
+    "offen": "109"
   },
   {
     "kanton": "VS",
